@@ -8,6 +8,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Shopping With Noya — Best Amazon Deals</title>
   <meta name="description" content="The best Amazon deals updated every day. Save big on home, beauty, kitchen, and more." />
+
+  <!-- PWA -->
+  <link rel="manifest" href={`${base}/manifest.json`} />
+  <meta name="theme-color" content="#FF3CAC" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Noya Deals" />
+  <link rel="apple-touch-icon" href={`${base}/icons/icon-192.png`} />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
@@ -810,5 +820,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       }, 220);
     });
   </script>
+  <!-- Service Worker registration -->
+  <script define:vars={{ base }}>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register(`${base}/sw.js`, { scope: `${base}/` })
+          .then(r => console.log('[SW] Registered', r.scope))
+          .catch(e => console.warn('[SW] Failed:', e));
+      });
+    }
+  </script>
+
 </body>
 </html>
