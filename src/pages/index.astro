@@ -35,6 +35,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       font-family: 'Inter', sans-serif;
       min-height: 100vh;
       overflow-x: hidden;
+      width: 100%;
+      max-width: 100vw;
     }
 
     /* NAV */
@@ -615,22 +617,27 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     function getImageUrl(deal) {
       if (deal.imageUrl) return deal.imageUrl;
-      if (deal.asin) return `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.jpg`;
+      if (deal.asin) return `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`;
       return '';
     }
 
     function renderCard(deal, index) {
       const img = getImageUrl(deal);
       const discount = deal.discount || 0;
-      const price = deal.price;
       const delay = Math.min(index * 60, 600);
 
+      // Price is stored as "$XX.XX" string — parse it
+      let priceNum = null;
+      if (deal.price) {
+        priceNum = parseFloat(String(deal.price).replace(/[^0-9.]/g, ''));
+      }
+
       let priceHtml = '';
-      if (price && price > 0) {
+      if (priceNum && priceNum > 0) {
         priceHtml = `<div class="card-price">
-          <span class="price-current">$${price.toFixed(2)}</span>`;
+          <span class="price-current">$${priceNum.toFixed(2)}</span>`;
         if (discount > 0) {
-          const original = price / (1 - discount/100);
+          const original = priceNum / (1 - discount / 100);
           priceHtml += `<span class="price-original">$${original.toFixed(2)}</span>
             <span class="price-savings">Save ${discount}%</span>`;
         }
@@ -638,11 +645,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       }
 
       const cat = deal.category || '';
-      const catDisplay = cat.length > 18 ? cat.substring(0,18)+'…' : cat;
+      const catDisplay = cat.length > 18 ? cat.substring(0, 18) + '…' : cat;
 
       return `<div class="deal-card" style="animation-delay:${delay}ms">
         <div class="card-image-wrap">
-          ${img ? `<img src="${img}" alt="${deal.title ? deal.title.replace(/"/g,'&quot;') : ''}" loading="lazy" onerror="this.style.display='none'" />` : ''}
+          ${img ? `<img src="${img}" alt="" loading="lazy" onerror="this.style.display='none'" />` : ''}
           ${discount > 0 ? `<div class="discount-badge">-${discount}%</div>` : ''}
         </div>
         <div class="card-body">
@@ -651,7 +658,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
           ${priceHtml}
           <div class="card-footer">
             <a href="${deal.url}" class="grab-btn" target="_blank" rel="noopener sponsored">🛒 Grab This Deal</a>
-            ${deal.postedAt ? `<div class="card-time">🕐 ${timeAgo(deal.postedAt)}</div>` : ''}
+            <div class="card-time">🕐 ${timeAgo(deal.ts)}</div>
           </div>
         </div>
       </div>`;
