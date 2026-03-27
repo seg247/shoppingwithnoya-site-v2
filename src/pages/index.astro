@@ -378,12 +378,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       flex: 1;
       display: flex;
       flex-direction: column;
-      padding: 8px 10px;
+      padding: 8px 10px 10px;
       gap: 4px;
       min-width: 0;            /* critical: prevents text overflow in flex */
     }
     @media (min-width: 540px) {
-      .card-body { padding: 11px 12px; gap: 6px; }
+      .card-body { padding: 11px 12px 13px; gap: 6px; }
     }
 
     .cat-chip {
@@ -448,6 +448,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       margin-top: auto;
       font-size: 0.68rem;
       color: var(--text-muted);
+      padding-bottom: 3px;
     }
 
     /* CTA button — only on desktop (mobile: whole card is tap target) */
