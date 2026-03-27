@@ -82,13 +82,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     /* HERO */
     .hero {
       position: relative;
-      min-height: 80vh;
+      min-height: 44vh;        /* shorter hero — deals visible sooner */
+      max-height: 520px;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
-      padding: 4rem 1.5rem;
+      padding: 2.5rem 1.5rem;
       overflow: hidden;
     }
     .orb {
@@ -255,185 +256,262 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       font-weight: 600;
     }
 
-    /* DEALS */
+    /* DEALS SECTION */
     .deals-section {
       max-width: 1200px;
       margin: 0 auto;
-      padding: 0 1.5rem 4rem;
+      padding: 0 12px 4rem;
     }
+    @media (min-width: 640px) { .deals-section { padding: 0 16px 4rem; } }
+    @media (min-width: 1024px) { .deals-section { padding: 0 24px 4rem; } }
+
     .section-header {
       display: flex;
       align-items: center;
       gap: 1rem;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
     }
     .section-title {
       font-family: 'Space Grotesk', sans-serif;
-      font-size: 1.5rem;
+      font-size: 1.2rem;
       font-weight: 700;
     }
     .deal-count {
-      font-size: 0.85rem;
+      font-size: 0.82rem;
       color: var(--text-muted);
-      padding: 0.25rem 0.75rem;
+      padding: 0.2rem 0.65rem;
       background: var(--elevated);
       border-radius: 999px;
     }
+
+    /* GRID — mobile: 1 col, tablet: 2 col, desktop: 3 col, wide: 4 col */
     .deals-grid {
       display: grid;
+      gap: 8px;
       grid-template-columns: 1fr;
-      gap: 1.25rem;
     }
-    @media (min-width: 640px) { .deals-grid { grid-template-columns: repeat(2, 1fr); } }
-    @media (min-width: 1024px) { .deals-grid { grid-template-columns: repeat(3, 1fr); } }
+    @media (min-width: 540px) {
+      .deals-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+    }
+    @media (min-width: 900px) {
+      .deals-grid { grid-template-columns: repeat(3, 1fr); gap: 14px; }
+    }
+    @media (min-width: 1200px) {
+      .deals-grid { grid-template-columns: repeat(4, 1fr); gap: 16px; }
+    }
 
-    /* CARD */
+    /* CARD — horizontal on mobile, vertical on desktop */
     .deal-card {
+      display: flex;
+      flex-direction: row;      /* horizontal on mobile */
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 16px;
+      border-radius: 12px;
       overflow: hidden;
-      transition: transform 0.25s, box-shadow 0.25s;
-      display: flex;
-      flex-direction: column;
+      text-decoration: none;
+      color: var(--text);
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
       opacity: 0;
-      animation: fadeInUp 0.4s ease forwards;
+      animation: fadeInUp 0.35s ease forwards;
+      min-height: 90px;
     }
     .deal-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 40px rgba(255,60,172,0.2);
-      border-color: rgba(255,60,172,0.3);
+      transform: translateY(-2px);
+      box-shadow: 0 6px 28px rgba(255,60,172,0.18);
+      border-color: rgba(255,60,172,0.35);
     }
+    @media (min-width: 540px) {
+      .deal-card {
+        flex-direction: column; /* vertical on tablet/desktop */
+        min-height: unset;
+        height: 100%;
+      }
+    }
+
+    /* IMAGE WRAP */
     .card-image-wrap {
-      position: relative;
-      background: var(--elevated);
-      aspect-ratio: 4/3;
+      /* Mobile: fixed square */
+      width: 90px;
+      height: 90px;
+      flex-shrink: 0;
+      background: #1a1a24;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px;
       overflow: hidden;
+      position: relative;
     }
     .card-image-wrap img {
       width: 100%;
       height: 100%;
-      object-fit: contain;
-      padding: 0.75rem;
+      object-fit: contain;   /* CONTAIN — never crops product photos */
+      display: block;
     }
+    @media (min-width: 540px) {
+      .card-image-wrap {
+        width: 100%;
+        height: 160px;        /* fixed height — uniform rows */
+        padding: 12px;
+      }
+    }
+
+    /* Discount badge on image */
     .discount-badge {
       position: absolute;
-      top: 0.75rem;
-      right: 0.75rem;
-      background: linear-gradient(135deg, var(--pink), var(--purple));
-      color: white;
+      top: 6px;
+      right: 6px;
       font-family: 'Space Grotesk', sans-serif;
-      font-size: 0.75rem;
+      font-size: 0.68rem;
       font-weight: 700;
-      padding: 0.25rem 0.6rem;
-      border-radius: 8px;
+      padding: 2px 6px;
+      border-radius: 6px;
+      color: white;
+      background: linear-gradient(135deg, var(--pink), var(--purple));
+      white-space: nowrap;
     }
+    .discount-badge.hot  { background: linear-gradient(135deg, #ff6b35, var(--pink)); }
+    .discount-badge.fire { background: linear-gradient(135deg, #ff3333, var(--pink)); }
+
+    /* CARD BODY */
     .card-body {
-      padding: 1rem;
       flex: 1;
       display: flex;
       flex-direction: column;
-      gap: 0.6rem;
+      padding: 8px 10px;
+      gap: 4px;
+      min-width: 0;            /* critical: prevents text overflow in flex */
     }
+    @media (min-width: 540px) {
+      .card-body { padding: 11px 12px; gap: 6px; }
+    }
+
     .cat-chip {
       display: inline-block;
-      padding: 0.2rem 0.7rem;
-      background: rgba(123,47,190,0.2);
-      border: 1px solid rgba(123,47,190,0.4);
+      padding: 1px 7px;
+      background: rgba(123,47,190,0.18);
+      border: 1px solid rgba(123,47,190,0.3);
       border-radius: 999px;
-      font-size: 0.73rem;
-      color: #c084fc;
+      font-size: 0.65rem;
+      color: #b07dff;
       font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
       align-self: flex-start;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 100%;
     }
+
     .card-title {
       font-family: 'Space Grotesk', sans-serif;
-      font-size: 0.9rem;
+      font-size: 0.82rem;
       font-weight: 600;
-      line-height: 1.4;
+      line-height: 1.35;
       color: var(--text);
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
+      margin: 0;
     }
-    .card-price {
+    @media (min-width: 540px) { .card-title { font-size: 0.88rem; } }
+
+    /* Price row */
+    .card-price-row {
       display: flex;
       align-items: baseline;
+      gap: 5px;
       flex-wrap: wrap;
-      gap: 0.5rem;
     }
     .price-current {
       font-family: 'Space Mono', monospace;
-      font-size: 1.1rem;
+      font-size: 0.95rem;
       font-weight: 700;
       color: var(--cyan);
     }
     .price-original {
       font-family: 'Space Mono', monospace;
-      font-size: 0.85rem;
-      text-decoration: line-through;
+      font-size: 0.75rem;
       color: var(--text-muted);
+      text-decoration: line-through;
     }
     .price-savings {
-      font-size: 0.8rem;
+      font-size: 0.72rem;
       font-weight: 600;
       color: var(--green);
     }
-    .card-footer {
+
+    /* Card footer */
+    .card-meta {
       margin-top: auto;
-      display: flex;
-      flex-direction: column;
-      gap: 0.6rem;
-    }
-    .grab-btn {
-      display: block;
-      padding: 0.7rem;
-      background: linear-gradient(135deg, var(--pink), var(--purple));
-      color: white;
-      text-decoration: none;
-      text-align: center;
-      border-radius: 10px;
-      font-family: 'Space Grotesk', sans-serif;
-      font-size: 0.88rem;
-      font-weight: 700;
-      transition: opacity 0.2s, transform 0.2s;
-    }
-    .grab-btn:hover { opacity: 0.88; transform: scale(1.02); }
-    .card-time {
-      font-size: 0.75rem;
+      font-size: 0.68rem;
       color: var(--text-muted);
-      text-align: center;
+    }
+
+    /* CTA button — only on desktop (mobile: whole card is tap target) */
+    .card-cta {
+      display: none;
+    }
+    @media (min-width: 540px) {
+      .card-cta {
+        display: block;
+        width: 100%;
+        text-align: center;
+        background: linear-gradient(135deg, var(--pink), var(--purple));
+        color: white;
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 0.82rem;
+        font-weight: 700;
+        padding: 8px 12px;
+        border-radius: 8px;
+        text-decoration: none;
+        margin-top: 6px;
+        transition: opacity 0.15s, transform 0.15s;
+      }
+      .card-cta:hover { opacity: 0.88; transform: scale(1.01); }
     }
 
     /* SKELETON */
     .skeleton-card {
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 16px;
+      border-radius: 12px;
       overflow: hidden;
+      display: flex;
+      flex-direction: row;
+      min-height: 90px;
     }
-    .skeleton-img { height: 200px; background: var(--elevated); }
-    .skeleton-body { padding: 1rem; display: flex; flex-direction: column; gap: 0.75rem; }
+    @media (min-width: 540px) {
+      .skeleton-card { flex-direction: column; }
+    }
+    .skeleton-img {
+      width: 90px; height: 90px; flex-shrink: 0;
+      background: var(--elevated);
+    }
+    @media (min-width: 540px) {
+      .skeleton-img { width: 100%; height: 160px; }
+    }
+    .skeleton-body { flex: 1; padding: 10px; display: flex; flex-direction: column; gap: 8px; }
     .skeleton-line {
-      height: 12px;
-      border-radius: 6px;
-      background: linear-gradient(90deg, var(--elevated) 25%, #252535 50%, var(--elevated) 75%);
+      height: 10px; border-radius: 5px;
+      background: linear-gradient(90deg, var(--elevated) 25%, #22223a 50%, var(--elevated) 75%);
       background-size: 200% 100%;
       animation: shimmer 1.5s infinite;
     }
-    .skeleton-line.short { width: 40%; }
-    .skeleton-line.medium { width: 70%; }
-    .skeleton-line.full { width: 100%; }
-    .skeleton-btn { height: 38px; border-radius: 10px; background: linear-gradient(90deg, var(--elevated) 25%, #252535 50%, var(--elevated) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; margin-top: 0.5rem; }
+    .skeleton-line.short  { width: 35%; }
+    .skeleton-line.medium { width: 60%; }
+    .skeleton-line.full   { width: 90%; }
+    .skeleton-btn { height: 32px; border-radius: 8px; margin-top: 4px; background: linear-gradient(90deg, var(--elevated) 25%, #22223a 50%, var(--elevated) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; }
 
     @keyframes shimmer {
-      0% { background-position: 200% 0; }
+      0%   { background-position: 200% 0; }
       100% { background-position: -200% 0; }
     }
     @keyframes fadeInUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
     }
     @media (prefers-reduced-motion: reduce) {
       .orb { animation: none; }
@@ -443,12 +521,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     /* NO RESULTS */
     .no-results {
-      text-align: center;
-      padding: 4rem 1rem;
-      color: var(--text-sec);
       grid-column: 1 / -1;
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--text-sec);
     }
-    .no-results h3 { font-size: 1.5rem; margin-bottom: 0.5rem; }
+    .no-results h3 { font-size: 1.3rem; margin-bottom: 0.5rem; }
 
     /* TG BANNER */
     .tg-banner {
@@ -590,7 +668,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     let searchQuery = '';
 
     // Skeletons
-    function renderSkeletons(n = 6) {
+    function renderSkeletons(n = 8) {
       const grid = document.getElementById('deals-grid');
       grid.innerHTML = Array(n).fill(0).map(() => `
         <div class="skeleton-card">
@@ -599,7 +677,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
             <div class="skeleton-line short"></div>
             <div class="skeleton-line full"></div>
             <div class="skeleton-line medium"></div>
-            <div class="skeleton-line short"></div>
             <div class="skeleton-btn"></div>
           </div>
         </div>
@@ -624,44 +701,46 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     function renderCard(deal, index) {
       const img = getImageUrl(deal);
       const discount = deal.discount || 0;
-      const delay = Math.min(index * 60, 600);
+      const delay = Math.min(index * 55, 550);
 
-      // Price is stored as "$XX.XX" string — parse it
+      // Discount badge class
+      let badgeClass = '';
+      if (discount >= 60) badgeClass = 'fire';
+      else if (discount >= 40) badgeClass = 'hot';
+
+      // Price
       let priceNum = null;
-      if (deal.price) {
-        priceNum = parseFloat(String(deal.price).replace(/[^0-9.]/g, ''));
-      }
+      if (deal.price) priceNum = parseFloat(String(deal.price).replace(/[^0-9.]/g, ''));
 
       let priceHtml = '';
       if (priceNum && priceNum > 0) {
-        priceHtml = `<div class="card-price">
+        priceHtml = `<div class="card-price-row">
           <span class="price-current">$${priceNum.toFixed(2)}</span>`;
         if (discount > 0) {
           const original = priceNum / (1 - discount / 100);
           priceHtml += `<span class="price-original">$${original.toFixed(2)}</span>
-            <span class="price-savings">Save ${discount}%</span>`;
+            <span class="price-savings">-${discount}%</span>`;
         }
         priceHtml += `</div>`;
+      } else if (discount > 0) {
+        priceHtml = `<div class="card-price-row"><span class="price-savings">-${discount}% off</span></div>`;
       }
 
-      const cat = deal.category || '';
-      const catDisplay = cat.length > 18 ? cat.substring(0, 18) + '…' : cat;
+      const cat = (deal.category || '').substring(0, 20);
 
-      return `<div class="deal-card" style="animation-delay:${delay}ms">
+      return `<a href="${deal.url}" class="deal-card" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
         <div class="card-image-wrap">
-          ${img ? `<img src="${img}" alt="" loading="lazy" onerror="this.style.display='none'" />` : ''}
-          ${discount > 0 ? `<div class="discount-badge">-${discount}%</div>` : ''}
+          ${img ? `<img src="${img}" alt="" loading="lazy" onerror="this.style.opacity='0'" />` : ''}
+          ${discount > 0 ? `<div class="discount-badge ${badgeClass}">-${discount}%</div>` : ''}
         </div>
         <div class="card-body">
-          ${cat ? `<span class="cat-chip">${catDisplay}</span>` : ''}
-          <div class="card-title">${deal.title || 'Amazon Deal'}</div>
+          ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
+          <p class="card-title">${deal.title || 'Amazon Deal'}</p>
           ${priceHtml}
-          <div class="card-footer">
-            <a href="${deal.url}" class="grab-btn" target="_blank" rel="noopener sponsored">🛒 Grab This Deal</a>
-            <div class="card-time">🕐 ${timeAgo(deal.ts)}</div>
-          </div>
+          <div class="card-meta">${timeAgo(deal.ts)}</div>
+          <a href="${deal.url}" class="card-cta" target="_blank" rel="noopener sponsored">🛒 Shop Deal →</a>
         </div>
-      </div>`;
+      </a>`;
     }
 
     function getFilteredDeals() {
