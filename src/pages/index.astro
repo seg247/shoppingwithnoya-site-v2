@@ -654,13 +654,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     const DATA_URL = `${base}/site-data.json?t=${Date.now()}`;
     const CHIP_MAP = {
       all: null,
-      electronics: 'electronics',
-      home: 'home',
-      beauty: 'beauty',
-      fashion: 'fashion',
-      toys: 'toy',
-      sports: 'sport',
-      pet: 'pet'
+      electronics: ['electronics', 'computers', 'smart home', 'amazon devices', 'video games'],
+      home: ['home', 'kitchen', 'appliance', 'tools'],
+      beauty: ['beauty', 'health', 'personal care'],
+      fashion: ['fashion', 'clothing', 'shoes', 'jewelry', 'accessories'],
+      toys: ['toy', 'baby', 'kids'],
+      sports: ['sport', 'outdoor', 'automotive', 'garden'],
+      pet: ['pet']
     };
 
     let allDeals = [];
@@ -745,10 +745,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     function getFilteredDeals() {
       return allDeals.filter(d => {
-        const catKey = CHIP_MAP[activeFilter];
+        const catKeywords = CHIP_MAP[activeFilter];
         let catMatch = true;
-        if (catKey) {
-          catMatch = (d.category || '').toLowerCase().includes(catKey);
+        if (catKeywords) {
+          const catLower = (d.category || '').toLowerCase();
+          catMatch = catKeywords.some(k => catLower.includes(k));
         }
         let searchMatch = true;
         if (searchQuery) {
