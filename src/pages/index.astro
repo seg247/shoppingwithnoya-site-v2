@@ -705,13 +705,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     const DATA_URL = `${base}/site-data.json?t=${Date.now()}`;
     const CHIP_MAP = {
       all: null,
-      electronics: ['electronics', 'computers', 'smart home', 'amazon devices', 'video games'],
-      home: ['home', 'kitchen', 'appliance', 'tools'],
-      beauty: ['beauty', 'health', 'personal care'],
-      fashion: ['fashion', 'clothing', 'shoes', 'jewelry', 'accessories'],
-      toys: ['toy', 'baby', 'kids'],
-      sports: ['sport', 'outdoor', 'automotive', 'garden'],
-      pet: ['pet']
+      electronics: ['electronics', 'computer', 'laptop', 'tablet', 'phone', 'speaker', 'headphone', 'smart home', 'amazon device', 'fire tv', 'kindle', 'echo', 'ring', 'camera', 'tv', 'monitor'],
+      home: ['home', 'kitchen', 'furniture', 'lamp', 'shelf', 'rack', 'organizer', 'mattress', 'bedding', 'pillow', 'towel', 'cleaning', 'vacuum', 'appliance', 'tool', 'garden'],
+      beauty: ['beauty', 'skin', 'hair', 'makeup', 'cosmetic', 'lotion', 'serum', 'shampoo', 'conditioner', 'face', 'nail', 'lipstick', 'mascara', 'perfume', 'fragrance'],
+      fashion: ['fashion', 'clothing', 'shirt', 'dress', 'pant', 'shorts', 'jacket', 'coat', 'shoes', 'sneaker', 'boot', 'sandal', 'hat', 'watch', 'jewelry', 'sunglasses', 'bag', 'purse', 'wallet'],
+      toys: ['toy', 'doll', 'lego', 'playset', 'puzzle', 'game', 'baby', 'kids', 'stroller', 'car seat', 'diaper'],
+      sports: ['sport', 'fitness', 'gym', 'yoga', 'exercise', 'bike', 'outdoor', 'camping', 'hiking', 'fishing', 'golf', 'dumbbell', 'barbell', 'weight'],
+      pet: ['pet', 'dog', 'cat', 'puppy', 'kitten', 'leash', 'collar', 'treat', 'litter']
     };
 
     let allDeals = [];
@@ -806,13 +806,15 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     function getFilteredDeals() {
       return allDeals.filter(d => {
-        // Category filter — if no filters active (or "all"), show everything
+        // Category filter — match keywords against BOTH category and title
         let catMatch = true;
         if (activeFilters.size > 0) {
           const catLower = (d.category || '').toLowerCase();
+          const titleLower = (d.title || '').toLowerCase();
+          const searchText = catLower + ' ' + titleLower;
           catMatch = [...activeFilters].some(f => {
             const keywords = CHIP_MAP[f];
-            return keywords ? keywords.some(k => catLower.includes(k)) : true;
+            return keywords ? keywords.some(k => searchText.includes(k)) : true;
           });
         }
         let searchMatch = true;
