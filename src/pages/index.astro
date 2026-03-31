@@ -297,7 +297,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     /* GRID — mobile: 1 col, tablet: 2 col, desktop: 3 col, wide: 4 col */
     .deals-grid {
       display: grid;
-      gap: 8px;
+      gap: 10px;
       grid-template-columns: 1fr;
     }
     @media (min-width: 540px) {
@@ -316,14 +316,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       flex-direction: row;      /* horizontal on mobile */
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
+      border-radius: 14px;
       overflow: hidden;
       text-decoration: none;
       color: var(--text);
       transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
       opacity: 0;
       animation: fadeInUp 0.35s ease forwards;
-      min-height: 90px;
+      min-height: 100px;
     }
     .deal-card:hover {
       transform: translateY(-2px);
@@ -341,16 +341,17 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     /* IMAGE WRAP */
     .card-image-wrap {
       /* Mobile: fixed square */
-      width: 90px;
-      height: 90px;
+      width: 100px;
+      height: 100px;
       flex-shrink: 0;
-      background: #1a1a24;
+      background: #12121a;
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 6px;
+      padding: 8px;
       overflow: hidden;
       position: relative;
+      border-right: 1px solid var(--border);
     }
     .card-image-wrap img {
       width: 100%;
@@ -361,8 +362,10 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     @media (min-width: 540px) {
       .card-image-wrap {
         width: 100%;
-        height: 160px;        /* fixed height — uniform rows */
-        padding: 12px;
+        height: 170px;        /* fixed height — uniform rows */
+        padding: 14px;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
       }
     }
 
@@ -388,12 +391,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       flex: 1;
       display: flex;
       flex-direction: column;
-      padding: 8px 10px 10px;
-      gap: 4px;
+      padding: 10px 12px 12px;
+      gap: 5px;
       min-width: 0;            /* critical: prevents text overflow in flex */
     }
     @media (min-width: 540px) {
-      .card-body { padding: 11px 12px 13px; gap: 6px; }
+      .card-body { padding: 12px 14px 14px; gap: 6px; }
     }
 
     .cat-chip {
@@ -490,21 +493,21 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     .skeleton-card {
       background: var(--surface);
       border: 1px solid var(--border);
-      border-radius: 12px;
+      border-radius: 14px;
       overflow: hidden;
       display: flex;
       flex-direction: row;
-      min-height: 90px;
+      min-height: 100px;
     }
     @media (min-width: 540px) {
       .skeleton-card { flex-direction: column; }
     }
     .skeleton-img {
-      width: 90px; height: 90px; flex-shrink: 0;
+      width: 100px; height: 100px; flex-shrink: 0;
       background: var(--elevated);
     }
     @media (min-width: 540px) {
-      .skeleton-img { width: 100%; height: 160px; }
+      .skeleton-img { width: 100%; height: 170px; }
     }
     .skeleton-body { flex: 1; padding: 10px; display: flex; flex-direction: column; gap: 8px; }
     .skeleton-line {
