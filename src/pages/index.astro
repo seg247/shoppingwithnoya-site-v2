@@ -338,6 +338,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         height: 100%;
       }
     }
+    /* Cards without images — text takes full width */
+    .deal-card.no-img {
+      flex-direction: column;
+    }
+    .deal-card.no-img .card-body {
+      padding: 12px 14px;
+    }
 
     /* IMAGE WRAP */
     .card-image-wrap {
@@ -777,11 +784,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
       const cat = (deal.category || '').substring(0, 20);
 
-      return `<a href="${deal.url}" class="deal-card" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
-        <div class="card-image-wrap">
-          ${img ? `<img src="${img}" alt="" loading="lazy" onerror="this.style.opacity='0'" />` : ''}
+      return `<a href="${deal.url}" class="deal-card${img ? '' : ' no-img'}" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
+        ${img ? `<div class="card-image-wrap">
+          <img src="${img}" alt="" loading="lazy" onerror="this.parentElement.style.display='none';this.closest('.deal-card').classList.add('no-img')" />
           ${discount > 0 ? `<div class="discount-badge ${badgeClass}">-${discount}%</div>` : ''}
-        </div>
+        </div>` : ''}
         <div class="card-body">
           ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
           <p class="card-title">${deal.title || 'Amazon Deal'}</p>
