@@ -26,8 +26,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     :root {
       --bg: #0A0A0F;
-      --surface: #13131A;
-      --elevated: #1C1C28;
+      --surface: #16161F;
+      --elevated: #1E1E2A;
       --border: #2A2A3E;
       --pink: #FF3CAC;
       --purple: #7B2FBE;
@@ -315,8 +315,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       display: flex;
       flex-direction: row;      /* horizontal on mobile */
       background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 16px;
       overflow: hidden;
       text-decoration: none;
       color: var(--text);
@@ -324,6 +324,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       opacity: 0;
       animation: fadeInUp 0.35s ease forwards;
       min-height: 100px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
     }
     .deal-card:hover {
       transform: translateY(-2px);
@@ -344,7 +345,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       width: 100px;
       height: 100px;
       flex-shrink: 0;
-      background: #12121a;
+      background: #1a1a26;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -492,12 +493,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     /* SKELETON */
     .skeleton-card {
       background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 16px;
       overflow: hidden;
       display: flex;
       flex-direction: row;
       min-height: 100px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
     }
     @media (min-width: 540px) {
       .skeleton-card { flex-direction: column; }
@@ -709,8 +711,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     }
 
     function getImageUrl(deal) {
-      if (deal.imageUrl) return deal.imageUrl;
-      if (deal.asin) return `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`;
+      if (deal.imageUrl) {
+        // Rewrite to 300x300 thumbnail for feed cards
+        return deal.imageUrl
+          .replace(/_AC_SR\d+,\d+_/, '_AC_SR300,300_')
+          .replace(/_AC_SL\d+_/, '_AC_SR300,300_');
+      }
+      if (deal.asin) return `https://m.media-amazon.com/images/I/${deal.asin}._AC_SR300,300_.jpg`;
       return '';
     }
 
