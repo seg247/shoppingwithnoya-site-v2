@@ -669,13 +669,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <div class="chips-wrap">
     <div class="chips-scroll" id="chips">
       <button class="chip active" data-cat="all">All</button>
-      <button class="chip" data-cat="electronics">Electronics</button>
-      <button class="chip" data-cat="home">Home &amp; Kitchen</button>
-      <button class="chip" data-cat="beauty">Beauty</button>
-      <button class="chip" data-cat="fashion">Fashion</button>
-      <button class="chip" data-cat="toys">Toys</button>
-      <button class="chip" data-cat="sports">Sports</button>
-      <button class="chip" data-cat="pet">Pet Supplies</button>
+      <button class="chip" data-cat="Electronics">Electronics</button>
+      <button class="chip" data-cat="Home & Kitchen">Home & Kitchen</button>
+      <button class="chip" data-cat="Beauty">Beauty</button>
+      <button class="chip" data-cat="Fashion">Fashion</button>
+      <button class="chip" data-cat="Toys & Kids">Toys & Kids</button>
+      <button class="chip" data-cat="Sports & Fitness">Sports & Fitness</button>
+      <button class="chip" data-cat="Pet Supplies">Pet Supplies</button>
+      <button class="chip" data-cat="Health">Health</button>
+      <button class="chip" data-cat="Books & Media">Books & Media</button>
+      <button class="chip" data-cat="Garden & Outdoor">Garden & Outdoor</button>
     </div>
   </div>
 
@@ -714,19 +717,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
   <script define:vars={{ base }}>
     const DATA_URL = `${base}/site-data.json?t=${Date.now()}`;
-    const CHIP_MAP = {
-      all: null,
-      electronics: ['electronics', 'computer', 'laptop', 'tablet', 'phone', 'iphone', 'samsung', 'speaker', 'headphone', 'earbuds', 'airpods', 'smart home', 'amazon device', 'fire tv', 'kindle', 'echo', 'ring', 'camera', 'tv', 'monitor', 'charger', 'cable', 'bluetooth', 'wireless', 'usb', 'hdmi', 'power bank', 'battery', 'portable', 'mouse', 'keyboard', 'gaming', 'controller', 'nintendo', 'switch', 'playstation', 'xbox', 'console', 'router', 'wifi', 'projector', 'soundbar', 'dolby', 'rechargeable', 'smart watch', 'fitbit', 'garmin', 'gopro', 'drone', 'printer', 'hard drive', 'ssd', 'adapter', 'hub', 'dock', 'surge protector', 'power strip', 'led strip', 'smart plug', 'smart bulb', 'ring doorbell', 'security camera', 'dash cam'],
-      home: ['home', 'kitchen', 'furniture', 'lamp', 'light', 'shelf', 'rack', 'organizer', 'mattress', 'bedding', 'pillow', 'towel', 'cleaning', 'cleaner', 'vacuum', 'appliance', 'tool', 'garden', 'outdoor', 'decor', 'curtain', 'rug', 'carpet', 'blender', 'mixer', 'coffee', 'toaster', 'microwave', 'air fryer', 'instant pot', 'cookware', 'pan', 'pot', 'knife', 'cutting board', 'storage', 'container', 'trash', 'laundry', 'detergent', 'soap', 'candle', 'diffuser', 'humidifier', 'fan', 'heater', 'filter', 'cordless', 'dewalt', 'mop', 'broom', 'hose', 'grill', 'patio', 'umbrella', 'shower', 'table', 'chair', 'desk', 'couch', 'bed frame', 'dresser', 'mirror', 'closet', 'hangers', 'iron', 'steamer', 'paper towel', 'plate', 'bowl', 'cup', 'mug', 'bottle', 'thermos', 'lunch box', 'wreath'],
-      beauty: ['beauty', 'skin', 'skincare', 'hair', 'makeup', 'cosmetic', 'lotion', 'serum', 'shampoo', 'conditioner', 'face', 'facial', 'nail', 'lipstick', 'mascara', 'perfume', 'fragrance', 'moisturizer', 'sunscreen', 'spf', 'cream', 'oil', 'cleanser', 'toner', 'mask', 'concealer', 'foundation', 'blush', 'bronzer', 'eyeliner', 'eyeshadow', 'brush set', 'curling iron', 'flat iron', 'straightener', 'blow dryer', 'hair dryer', 'trimmer', 'razor', 'electric shaver', 'cologne', 'deodorant', 'body wash', 'body lotion', 'hand cream', 'lip balm', 'vitamin c', 'retinol', 'hyaluronic', 'collagen', 'bioderma', 'olaplex', 'cerave', 'neutrogena', 'powder'],
-      fashion: ['fashion', 'clothing', 'shirt', 'dress', 'pant', 'jeans', 'shorts', 'jacket', 'coat', 'hoodie', 'sweater', 'shoes', 'sneaker', 'boot', 'sandal', 'slipper', 'hat', 'cap', 'beanie', 'watch', 'jewelry', 'necklace', 'bracelet', 'earring', 'sunglasses', 'bag', 'backpack', 'purse', 'wallet', 'belt', 'scarf', 'gloves', 'socks', 'underwear', 'leggings', 'swim', 'bikini', 'polo', 'blazer', 'nike', 'adidas', 'puma', 'new balance', 'under armour', 'champion', 'crocs'],
-      toys: ['toy', 'doll', 'lego', 'playset', 'puzzle', 'board game', 'baby', 'infant', 'kids', 'stroller', 'car seat', 'diaper', 'wipes', 'formula', 'pacifier', 'crib', 'highchair', 'monster high', 'barbie', 'hot wheels', 'nerf', 'play-doh', 'action figure', 'stuffed animal', 'plush', 'coloring', 'crayon', 'marker', 'arts and crafts', 'building blocks', 'remote control', 'pretend play', 'costume', 'easter', 'egg decorat'],
-      sports: ['sport', 'fitness', 'gym', 'yoga', 'exercise', 'bike', 'bicycle', 'cycling', 'outdoor', 'camping', 'tent', 'sleeping bag', 'hiking', 'fishing', 'golf', 'dumbbell', 'barbell', 'weight', 'kettlebell', 'resistance band', 'treadmill', 'protein', 'water bottle', 'cooler', 'kayak', 'skateboard', 'scooter', 'helmet', 'basketball', 'football', 'soccer', 'baseball', 'tennis', 'running', 'compression', 'foam roller', 'massage gun', 'travel'],
-      pet: ['pet', 'dog', 'cat', 'puppy', 'kitten', 'leash', 'collar', 'harness', 'treat', 'kibble', 'litter', 'cat tree', 'scratching', 'chew toy', 'fetch', 'crate', 'carrier', 'aquarium', 'fish', 'bird', 'flea', 'tick', 'grooming', 'nail clipper', 'paw', 'food bowl', 'water fountain', 'training pad']
-    };
 
     let allDeals = [];
-    let activeFilters = new Set(); // multi-select categories
+    let activeFilters = new Set();
     let searchQuery = '';
 
     // Skeletons
@@ -817,17 +810,12 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     function getFilteredDeals() {
       return allDeals.filter(d => {
-        // Category filter — match keywords against BOTH category and title
+        // Category filter — direct match against classified category
         let catMatch = true;
         if (activeFilters.size > 0) {
-          const catLower = (d.category || '').toLowerCase();
-          const titleLower = (d.title || '').toLowerCase();
-          const searchText = catLower + ' ' + titleLower;
-          catMatch = [...activeFilters].some(f => {
-            const keywords = CHIP_MAP[f];
-            return keywords ? keywords.some(k => searchText.includes(k)) : true;
-          });
+          catMatch = activeFilters.has(d.category);
         }
+        // Search filter
         let searchMatch = true;
         if (searchQuery) {
           searchMatch = (d.title || '').toLowerCase().includes(searchQuery.toLowerCase());
