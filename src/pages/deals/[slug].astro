@@ -11,6 +11,7 @@ export async function getStaticPaths() {
 
 const { deal } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const canonicalUrl = `https://deals.shoppingwithnoya.com/deals/${deal.slug}`;
 
 const imgUrl = deal.asin
   ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`
@@ -52,7 +53,7 @@ const jsonLd = {
 };
 ---
 
-<Base title={pageTitle} description={pageDesc} image={imgUrl || undefined} type="product">
+<Base title={pageTitle} description={pageDesc} image={imgUrl || undefined} url={canonicalUrl} type="product">
 
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 

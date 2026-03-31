@@ -3,17 +3,15 @@ export const prerender = true;
 
 import siteData from '../data/site-data.json';
 
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const site = 'https://seg247.github.io';
-const baseUrl = `${site}${base}`;
+const site = 'https://deals.shoppingwithnoya.com';
 
 const urls = [
-  { loc: `${baseUrl}/`, priority: '1.0', changefreq: 'hourly' },
+  { loc: `${site}/`, priority: '1.0', changefreq: 'hourly' },
   ...siteData.posts.map(p => ({
-    loc: `${baseUrl}/deals/${p.slug}`,
+    loc: `${site}/deals/${p.slug}`,
     lastmod: p.ts.slice(0, 10),
     priority: '0.7',
-    changefreq: 'weekly',
+    changefreq: 'daily',
   })),
 ];
 

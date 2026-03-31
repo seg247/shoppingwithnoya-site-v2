@@ -6,8 +6,52 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Shopping With Noya — Best Amazon Deals</title>
-  <meta name="description" content="The best Amazon deals updated every day. Save big on home, beauty, kitchen, and more." />
+  <title>Shopping With Noya — Best Amazon Deals Updated Daily</title>
+  <meta name="description" content="Hand-picked Amazon deals updated every 2 minutes. Save big on electronics, home, beauty, toys, grocery and more. Free deal alerts on Telegram." />
+  <link rel="canonical" href="https://deals.shoppingwithnoya.com/" />
+
+  <!-- Open Graph (Facebook, WhatsApp, iMessage previews) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://deals.shoppingwithnoya.com/" />
+  <meta property="og:title" content="Shopping With Noya — Best Amazon Deals Updated Daily" />
+  <meta property="og:description" content="Hand-picked Amazon deals updated every 2 minutes. Save big on electronics, home, beauty, toys, grocery and more. Free deal alerts on Telegram." />
+  <meta property="og:image" content="https://deals.shoppingwithnoya.com/icons/icon-512.png" />
+  <meta property="og:site_name" content="Shopping With Noya" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Shopping With Noya — Best Amazon Deals" />
+  <meta name="twitter:description" content="Hand-picked Amazon deals updated every 2 minutes. Free deal alerts on Telegram." />
+  <meta name="twitter:image" content="https://deals.shoppingwithnoya.com/icons/icon-512.png" />
+
+  <!-- JSON-LD Structured Data (Google + AI search engines) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Shopping With Noya",
+    "url": "https://deals.shoppingwithnoya.com",
+    "description": "Hand-picked Amazon deals updated every 2 minutes. Save big on electronics, home, beauty, toys, grocery and more.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://deals.shoppingwithnoya.com/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Shopping With Noya",
+      "url": "https://deals.shoppingwithnoya.com",
+      "sameAs": [
+        "https://t.me/shoppingwithnoya",
+        "https://www.facebook.com/groups/1224964507605101"
+      ]
+    }
+  }
+  </script>
 
   <!-- PWA -->
   <link rel="manifest" href={`${base}/manifest.json`} />
