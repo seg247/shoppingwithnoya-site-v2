@@ -78,37 +78,54 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       text-decoration: none;
       flex-shrink: 0;
     }
-    .nav-search {
-      flex: 1;
+    /* SEARCH BAR — standalone below hero */
+    .search-wrap {
+      max-width: 640px;
+      margin: 0 auto 1.25rem;
+      padding: 0 1rem;
       position: relative;
-      min-width: 0;
     }
-    .nav-search-icon {
+    .search-icon {
       position: absolute;
-      left: 10px;
+      left: 1.85rem;
       top: 50%;
       transform: translateY(-50%);
-      font-size: 0.85rem;
+      font-size: 1rem;
       pointer-events: none;
       color: var(--text-muted);
     }
-    .nav-search-input {
+    .search-clear {
+      position: absolute;
+      right: 1.85rem;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 1.1rem;
+      cursor: pointer;
+      padding: 4px;
+      display: none;
+      line-height: 1;
+    }
+    .search-clear.visible { display: block; }
+    #search-input {
       width: 100%;
-      height: 36px;
-      padding: 0 10px 0 32px;
-      background: var(--elevated);
-      border: 1px solid var(--border);
-      border-radius: 10px;
+      height: 48px;
+      padding: 0 2.5rem 0 2.75rem;
+      background: var(--surface);
+      border: 1.5px solid var(--border);
+      border-radius: 14px;
       color: var(--text);
-      font-size: 0.85rem;
+      font-size: 1rem;
       font-family: 'Inter', sans-serif;
       outline: none;
       transition: border-color 0.2s, box-shadow 0.2s;
     }
-    .nav-search-input::placeholder { color: var(--text-muted); font-size: 0.82rem; }
-    .nav-search-input:focus {
+    #search-input::placeholder { color: var(--text-muted); }
+    #search-input:focus {
       border-color: var(--pink);
-      box-shadow: 0 0 0 2px rgba(255,60,172,0.15);
+      box-shadow: 0 0 0 3px rgba(255,60,172,0.15);
     }
     .nav-tg {
       display: flex;
@@ -685,13 +702,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <!-- NAV -->
   <nav>
     <a href="#" class="nav-logo">🛍️ Noya</a>
-    <div class="nav-search">
-      <span class="nav-search-icon">🔍</span>
-      <input type="text" class="nav-search-input" id="search-input" placeholder="Looking for..." autocomplete="off" />
-    </div>
     <span class="nav-follow">Follow us on:</span>
     <a href="https://www.facebook.com/groups/1224964507605101" class="nav-tg nav-fb" target="_blank" rel="noopener" aria-label="Facebook Group">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.413c0-3.018 1.791-4.69 4.533-4.69 1.313 0 2.686.236 2.686.236v2.963h-1.513c-1.491 0-1.956.93-1.956 1.874v2.257h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/></svg>
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.413c0-3.018 1.791-4.69 4.533-4.69 1.313 0 2.686.236 2.686.236v2.963h-1.513c-1.491 0-1.956.93-1.874v2.257h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/></svg>
       <span class="nav-btn-label">Group</span>
     </a>
     <a href="https://t.me/shoppingwithnoya" class="nav-tg" target="_blank" rel="noopener" aria-label="Telegram">
@@ -719,6 +732,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       </a>
     </div>
   </section>
+
+  <!-- SEARCH BAR -->
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="search-input" placeholder="Search deals... (e.g. headphones, coffee maker)" autocomplete="off" />
+    <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
+  </div>
 
   <!-- FILTER CHIPS -->
   <div class="chips-wrap">
@@ -1003,13 +1023,25 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     });
 
     // Search
+    const searchInput = document.getElementById('search-input');
+    const searchClear = document.getElementById('search-clear');
+
+    function applySearch(val) {
+      searchQuery = val.trim();
+      searchClear.classList.toggle('visible', searchQuery.length > 0);
+      renderDeals();
+    }
+
     let searchTimer;
-    document.getElementById('search-input').addEventListener('input', e => {
+    searchInput.addEventListener('input', e => {
       clearTimeout(searchTimer);
-      searchTimer = setTimeout(() => {
-        searchQuery = e.target.value.trim();
-        renderDeals();
-      }, 220);
+      searchTimer = setTimeout(() => applySearch(e.target.value), 220);
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      applySearch('');
+      searchInput.focus();
     });
   </script>
   <!-- Service Worker registration -->
