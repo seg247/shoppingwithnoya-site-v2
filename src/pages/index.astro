@@ -250,8 +250,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       -webkit-overflow-scrolling: touch;
     }
     .chips-scroll::-webkit-scrollbar { display: none; }
-    /* Fade hint on right edge */
-    .chips-fade {
+    /* Fade hints on both edges */
+    .chips-fade-right {
       position: absolute;
       right: 0;
       top: 0;
@@ -261,11 +261,20 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       pointer-events: none;
       transition: opacity 0.2s;
     }
-    .chips-fade.hidden { opacity: 0; }
-    /* Scroll arrow */
+    .chips-fade-left {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: calc(100% - 0.5rem);
+      width: 60px;
+      background: linear-gradient(to left, transparent, var(--bg));
+      pointer-events: none;
+      transition: opacity 0.2s;
+    }
+    .chips-fade-right.hidden, .chips-fade-left.hidden { opacity: 0; }
+    /* Scroll arrows */
     .chips-arrow {
       position: absolute;
-      right: 4px;
       top: 50%;
       transform: translateY(-60%);
       width: 28px;
@@ -282,6 +291,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       transition: all 0.15s;
       z-index: 2;
     }
+    .chips-arrow-right { right: 4px; }
+    .chips-arrow-left  { left: 4px; }
     .chips-arrow:hover { background: var(--pink); border-color: var(--pink); color: white; }
     .chips-arrow.hidden { display: none; }
     .chip {
@@ -717,9 +728,19 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       <button class="chip" data-cat="Books & Media">Books & Media</button>
       <button class="chip" data-cat="Garden & Outdoor">Garden & Outdoor</button>
       <button class="chip" data-cat="Grocery & Food">Grocery & Food</button>
+      <button class="chip" data-cat="Gaming">Gaming</button>
+      <button class="chip" data-cat="Tools & Hardware">Tools & Hardware</button>
+      <button class="chip" data-cat="Automotive">Automotive</button>
+      <button class="chip" data-cat="Office & Stationery">Office & Stationery</button>
+      <button class="chip" data-cat="Personal Care">Personal Care</button>
+      <button class="chip" data-cat="Cleaning Supplies">Cleaning Supplies</button>
+      <button class="chip" data-cat="Other">Other</button>
+      <button class="chip" data-cat="Grocery & Food">Grocery & Food</button>
     </div>
-    <div class="chips-fade" id="chips-fade"></div>
-    <button class="chips-arrow" id="chips-arrow" aria-label="Scroll categories">›</button>
+    <div class="chips-fade-left hidden" id="chips-fade-left"></div>
+    <div class="chips-fade-right" id="chips-fade-right"></div>
+    <button class="chips-arrow chips-arrow-left hidden" id="chips-arrow-left" aria-label="Scroll left">‹</button>
+    <button class="chips-arrow chips-arrow-right" id="chips-arrow-right" aria-label="Scroll right">›</button>
   </div>
 
   <!-- DEALS -->
@@ -892,23 +913,27 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         document.getElementById('deal-count').textContent = 'error';
       });
 
-    // Chips scroll arrow + fade
+    // Chips scroll arrows + fades
     const chipsEl = document.getElementById('chips');
-    const chipsFade = document.getElementById('chips-fade');
-    const chipsArrow = document.getElementById('chips-arrow');
+    const fadeRight = document.getElementById('chips-fade-right');
+    const fadeLeft  = document.getElementById('chips-fade-left');
+    const arrowRight = document.getElementById('chips-arrow-right');
+    const arrowLeft  = document.getElementById('chips-arrow-left');
 
     function updateChipsScroll() {
-      const atEnd = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 8;
-      chipsFade.classList.toggle('hidden', atEnd);
-      chipsArrow.classList.toggle('hidden', atEnd);
+      const atEnd   = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 8;
+      const atStart = chipsEl.scrollLeft <= 8;
+      fadeRight.classList.toggle('hidden', atEnd);
+      arrowRight.classList.toggle('hidden', atEnd);
+      fadeLeft.classList.toggle('hidden', atStart);
+      arrowLeft.classList.toggle('hidden', atStart);
     }
     chipsEl.addEventListener('scroll', updateChipsScroll);
     window.addEventListener('resize', updateChipsScroll);
     updateChipsScroll();
 
-    chipsArrow.addEventListener('click', () => {
-      chipsEl.scrollBy({ left: 200, behavior: 'smooth' });
-    });
+    arrowRight.addEventListener('click', () => chipsEl.scrollBy({ left: 200, behavior: 'smooth' }));
+    arrowLeft.addEventListener('click',  () => chipsEl.scrollBy({ left: -200, behavior: 'smooth' }));
 
     // Filter chips
     document.getElementById('chips').addEventListener('click', e => {
