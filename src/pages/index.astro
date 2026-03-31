@@ -341,32 +341,32 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
     /* IMAGE WRAP */
     .card-image-wrap {
-      /* Mobile: fixed square */
-      width: 100px;
-      height: 100px;
+      /* Mobile: fixed square, no separator — image is part of the card */
+      width: 110px;
+      height: auto;
+      min-height: 110px;
       flex-shrink: 0;
-      background: #1a1a26;
+      background: var(--surface);
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 8px;
+      padding: 10px;
       overflow: hidden;
       position: relative;
-      border-right: 1px solid var(--border);
     }
     .card-image-wrap img {
       width: 100%;
       height: 100%;
-      object-fit: contain;   /* CONTAIN — never crops product photos */
+      object-fit: contain;
       display: block;
+      border-radius: 8px;
     }
     @media (min-width: 540px) {
       .card-image-wrap {
         width: 100%;
-        height: 170px;        /* fixed height — uniform rows */
+        height: 170px;
         padding: 14px;
-        border-right: none;
-        border-bottom: 1px solid var(--border);
+        border-bottom: 1px solid rgba(255,255,255,0.04);
       }
     }
 
