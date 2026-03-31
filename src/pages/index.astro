@@ -878,6 +878,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       }
 
       const cat = (deal.category || '').substring(0, 20);
+      const displayTitle = cleanTitle(deal.title) || 'Amazon Deal';
 
       return `<a href="${deal.url}" class="deal-card${img ? '' : ' no-img'}" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
         ${img ? `<div class="card-image-wrap">
@@ -886,11 +887,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         </div>` : ''}
         <div class="card-body">
           ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
-          <p class="card-title">${deal.title || 'Amazon Deal'}</p>
+          <p class="card-title">${displayTitle}</p>
           ${priceHtml}
           <div class="card-footer">
             <span class="card-meta">${timeAgo(deal.ts)}</span>
-            <button class="share-btn" data-url="${deal.url}" data-title="${(deal.title || '').replace(/"/g, '&quot;')}" aria-label="Share deal">
+            <button class="share-btn" data-url="${deal.url}" data-title="${displayTitle.replace(/"/g, '&quot;')}" aria-label="Share deal">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
             </button>
           </div>
@@ -899,20 +900,27 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       </a>`;
     }
 
+    function cleanTitle(title) {
+      if (!title) return '';
+      // Strip broken surrogate/garbage unicode characters that corrupt some titles
+      return title.replace(/[\uD800-\uDFFF]/g, '').trim();
+    }
+
     function getFilteredDeals() {
       return allDeals.filter(d => {
         // Never show "Other" category unless explicitly selected
-        if (d.category === 'Other' && activeFilters.size === 0) return false;
-        // Category filter — direct match against classified category
+        if (d.category === 'Other' && activeFilters.size === 0 && !searchQuery) return false;
+        // Category filter
         let catMatch = true;
         if (activeFilters.size > 0) {
           catMatch = activeFilters.has(d.category);
         }
-        // Search filter — include Other if it matches search
-        let searchMatch = true;
+        // Search filter — search overrides category filter, searches cleaned title + category
         if (searchQuery) {
-          searchMatch = (d.title || '').toLowerCase().includes(searchQuery.toLowerCase());
-          return searchMatch; // search overrides category filter
+          const q = searchQuery.toLowerCase();
+          const titleMatch = cleanTitle(d.title).toLowerCase().includes(q);
+          const catSearchMatch = (d.category || '').toLowerCase().includes(q);
+          return titleMatch || catSearchMatch;
         }
         return catMatch;
       });
