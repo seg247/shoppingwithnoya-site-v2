@@ -238,15 +238,52 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       max-width: 900px;
       margin: 0 auto 2rem;
       padding: 0 1.5rem;
+      position: relative;
     }
     .chips-scroll {
       display: flex;
       gap: 0.5rem;
       overflow-x: auto;
       padding-bottom: 0.5rem;
+      scroll-behavior: smooth;
       scrollbar-width: none;
+      -webkit-overflow-scrolling: touch;
     }
     .chips-scroll::-webkit-scrollbar { display: none; }
+    /* Fade hint on right edge */
+    .chips-fade {
+      position: absolute;
+      right: 0;
+      top: 0;
+      height: calc(100% - 0.5rem);
+      width: 60px;
+      background: linear-gradient(to right, transparent, var(--bg));
+      pointer-events: none;
+      transition: opacity 0.2s;
+    }
+    .chips-fade.hidden { opacity: 0; }
+    /* Scroll arrow */
+    .chips-arrow {
+      position: absolute;
+      right: 4px;
+      top: 50%;
+      transform: translateY(-60%);
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--elevated);
+      border: 1px solid var(--border);
+      color: var(--text-sec);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 0.8rem;
+      transition: all 0.15s;
+      z-index: 2;
+    }
+    .chips-arrow:hover { background: var(--pink); border-color: var(--pink); color: white; }
+    .chips-arrow.hidden { display: none; }
     .chip {
       flex-shrink: 0;
       padding: 0.45rem 1.1rem;
@@ -680,6 +717,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       <button class="chip" data-cat="Books & Media">Books & Media</button>
       <button class="chip" data-cat="Garden & Outdoor">Garden & Outdoor</button>
     </div>
+    <div class="chips-fade" id="chips-fade"></div>
+    <button class="chips-arrow" id="chips-arrow" aria-label="Scroll categories">›</button>
   </div>
 
   <!-- DEALS -->
@@ -851,6 +890,24 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         document.getElementById('deals-grid').innerHTML = `<div class="no-results"><h3>⚠️ Failed to load deals</h3><p>Please refresh and try again</p></div>`;
         document.getElementById('deal-count').textContent = 'error';
       });
+
+    // Chips scroll arrow + fade
+    const chipsEl = document.getElementById('chips');
+    const chipsFade = document.getElementById('chips-fade');
+    const chipsArrow = document.getElementById('chips-arrow');
+
+    function updateChipsScroll() {
+      const atEnd = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 8;
+      chipsFade.classList.toggle('hidden', atEnd);
+      chipsArrow.classList.toggle('hidden', atEnd);
+    }
+    chipsEl.addEventListener('scroll', updateChipsScroll);
+    window.addEventListener('resize', updateChipsScroll);
+    updateChipsScroll();
+
+    chipsArrow.addEventListener('click', () => {
+      chipsEl.scrollBy({ left: 200, behavior: 'smooth' });
+    });
 
     // Filter chips
     document.getElementById('chips').addEventListener('click', e => {
