@@ -743,7 +743,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
           .replace(/_AC_SR\d+,\d+_/, '_AC_SR300,300_')
           .replace(/_AC_SL\d+_/, '_AC_SR300,300_');
       }
-      if (deal.asin) return `https://m.media-amazon.com/images/I/${deal.asin}._AC_SR300,300_.jpg`;
+      // No reliable ASIN-to-image URL exists — show placeholder instead
       return '';
     }
 

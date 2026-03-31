@@ -31,13 +31,6 @@
       "description": "Browse the latest Amazon deals",
       "url": "/shoppingwithnoya-site-v2/",
       "icons": [{ "src": "/shoppingwithnoya-site-v2/icons/icon-192.png", "sizes": "192x192" }]
-    },
-    {
-      "name": "Telegram Channel",
-      "short_name": "Telegram",
-      "description": "Join our Telegram for instant deal alerts",
-      "url": "https://t.me/shoppingwithnoya",
-      "icons": [{ "src": "/shoppingwithnoya-site-v2/icons/icon-192.png", "sizes": "192x192" }]
     }
   ]
 }
