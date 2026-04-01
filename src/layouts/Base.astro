@@ -9,6 +9,7 @@ export interface Props {
 
 const { title, description, image, url, type = 'website' } = Astro.props;
 const canonicalUrl = url || `https://deals.shoppingwithnoya.com${Astro.url.pathname}`;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
 ---
 <!DOCTYPE html>
 <html lang="en">
