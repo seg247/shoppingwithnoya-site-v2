@@ -851,7 +851,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   </footer>
 
   <script define:vars={{ base }}>
-    const DATA_URL = `${base}/site-data.json?t=${Date.now()}`;
+    // Round to nearest 10 minutes to match push frequency, busts CDN cache on each push
+    const cacheBust = Math.floor(Date.now() / 600000);
+    const DATA_URL = `${base}/site-data.json?v=${cacheBust}`;
 
     let allDeals = [];
     let activeFilters = new Set();
