@@ -1,10 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect width="128" height="128" rx="28" fill="#0f172a"/>
-  <!-- Price tag shape -->
-  <path d="M30 30 L30 72 L64 106 Q68 110 72 106 L106 72 Q110 68 106 64 L72 30 Z" fill="#60a5fa" opacity="0.15"/>
-  <path d="M32 32 L32 70 L64 102 Q67 105 70 102 L102 70 Q105 67 102 64 L70 32 Z" fill="none" stroke="#60a5fa" stroke-width="5" stroke-linejoin="round"/>
-  <!-- Hole in tag -->
-  <circle cx="54" cy="44" r="6" fill="none" stroke="#60a5fa" stroke-width="4"/>
-  <!-- Dollar sign -->
-  <text x="72" y="88" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#60a5fa" text-anchor="middle">$</text>
+  <rect width="128" height="128" rx="26" fill="#0A0A0F"/>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0A0A0F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="circleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#7B2FBE"/>
+    </linearGradient>
+  </defs>
+  <!-- radial glow behind circle -->
+  <circle cx="64" cy="64" r="62" fill="url(#glow)"/>
+  <!-- main circle -->
+  <circle cx="64" cy="64" r="52" fill="url(#circleGrad)"/>
+  <!-- white N -->
+  <text x="64" y="89" font-family="Arial Black, sans-serif" font-weight="900" font-size="72" text-anchor="middle" fill="#ffffff">N</text>
 </svg>
