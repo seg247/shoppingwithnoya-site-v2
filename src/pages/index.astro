@@ -272,6 +272,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       max-width: 520px;
       margin-left: auto;
       margin-right: auto;
+      padding: 0 1rem;
     }
     .stats-row {
       display: flex;
@@ -280,11 +281,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       justify-content: center;
       margin-bottom: 1.5rem;
     }
-    /* On mobile: all 3 pills in one row, smaller */
     @media (max-width: 539px) {
-      .stats-row { gap: 0.4rem; flex-wrap: nowrap; }
-      .stat-pill { padding: 0.35rem 0.75rem; font-size: 0.78rem; }
-      .stat-pill strong { font-size: 0.82rem; }
+      .stats-row { gap: 0.4rem; }
+      .stat-pill { padding: 0.3rem 0.9rem; font-size: 0.8rem; flex: 0 1 auto; }
     }
     .stat-pill {
       display: flex;
