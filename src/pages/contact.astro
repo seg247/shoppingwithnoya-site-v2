@@ -1,0 +1,312 @@
+---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Us — Shopping With Noya</title>
+  <meta name="description" content="Get in touch with Shopping With Noya. Questions, partnerships, or just want to say hi — we'd love to hear from you!" />
+  <link rel="canonical" href="https://deals.shoppingwithnoya.com/contact" />
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T75YM7DVKJ');
+  </script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0A0A0F;
+      --surface: #16161F;
+      --elevated: #1E1E2A;
+      --border: #2A2A3E;
+      --pink: #FF3CAC;
+      --purple: #7B2FBE;
+      --cyan: #00D4FF;
+      --text: #F0F0FF;
+      --text-sec: #9999BB;
+      --text-muted: #55556A;
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* NAV */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 0 1.25rem;
+      height: 56px;
+      background: rgba(10,10,15,0.85);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.2rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--pink), var(--purple), var(--cyan));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-decoration: none;
+    }
+    .nav-spacer { flex: 1; }
+    .nav-back {
+      font-size: 0.85rem;
+      color: var(--text-sec);
+      text-decoration: none;
+      padding: 0.4rem 0.9rem;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      transition: all 0.15s;
+    }
+    .nav-back:hover { border-color: var(--pink); color: var(--pink); }
+
+    /* PAGE */
+    .page {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 5rem;
+    }
+
+    .page-header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+    .page-header h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(1.8rem, 5vw, 2.5rem);
+      font-weight: 700;
+      background: linear-gradient(135deg, #fff 0%, var(--pink) 50%, var(--cyan) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.75rem;
+    }
+    .page-header p {
+      color: var(--text-sec);
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    /* FORM */
+    .contact-form {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    .form-group label {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-sec);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      background: var(--elevated);
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: 0.95rem;
+      padding: 0.75rem 1rem;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      width: 100%;
+    }
+    .form-group input::placeholder,
+    .form-group textarea::placeholder { color: var(--text-muted); }
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      border-color: var(--pink);
+      box-shadow: 0 0 0 3px rgba(255,60,172,0.15);
+    }
+    .form-group select option { background: var(--elevated); }
+    .form-group textarea { resize: vertical; min-height: 130px; line-height: 1.6; }
+
+    .submit-btn {
+      width: 100%;
+      padding: 0.9rem 2rem;
+      background: linear-gradient(135deg, var(--pink), var(--purple));
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.2s;
+      box-shadow: 0 0 20px rgba(255,60,172,0.25);
+    }
+    .submit-btn:hover { opacity: 0.88; transform: translateY(-1px); }
+    .submit-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+    /* Success message */
+    .success-msg {
+      display: none;
+      text-align: center;
+      padding: 2.5rem;
+      background: var(--surface);
+      border: 1px solid rgba(0,212,255,0.3);
+      border-radius: 20px;
+    }
+    .success-msg h2 { font-family: 'Space Grotesk', sans-serif; font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--cyan); }
+    .success-msg p { color: var(--text-sec); }
+    .success-msg.visible { display: block; }
+
+    /* Social links */
+    .social-links {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin-top: 2rem;
+      flex-wrap: wrap;
+    }
+    .social-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.5rem 1.1rem;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--text-sec);
+      text-decoration: none;
+      font-size: 0.85rem;
+      transition: all 0.15s;
+    }
+    .social-link:hover { border-color: var(--pink); color: var(--pink); }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href={`${base}/`} class="nav-logo">🛍️ Noya</a>
+    <div class="nav-spacer"></div>
+    <a href={`${base}/`} class="nav-back">← Back to Deals</a>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <h1>Get in Touch 👋</h1>
+      <p>Questions, partnership inquiries, or just want to say hi? We'd love to hear from you!</p>
+    </div>
+
+    <form class="contact-form" id="contact-form" action="https://formspree.io/f/xjgpqnkw" method="POST">
+      <div class="form-group">
+        <label for="name">Your Name</label>
+        <input type="text" id="name" name="name" placeholder="Jane Smith" required />
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" placeholder="jane@example.com" required />
+      </div>
+
+      <div class="form-group">
+        <label for="subject">Subject</label>
+        <select id="subject" name="subject">
+          <option value="General Question">General Question</option>
+          <option value="Partnership / Collaboration">Partnership / Collaboration</option>
+          <option value="Advertise With Us">Advertise With Us</option>
+          <option value="Deal Suggestion">Deal Suggestion</option>
+          <option value="Technical Issue">Technical Issue</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Tell us what's on your mind..." required></textarea>
+      </div>
+
+      <button type="submit" class="submit-btn" id="submit-btn">Send Message →</button>
+    </form>
+
+    <div class="success-msg" id="success-msg">
+      <h2>✅ Message Sent!</h2>
+      <p>Thanks for reaching out! We'll get back to you within 24-48 hours.</p>
+    </div>
+
+    <div class="social-links">
+      <a href="https://t.me/shoppingwithnoya" class="social-link" target="_blank" rel="noopener">📲 Telegram</a>
+      <a href="https://www.facebook.com/groups/1224964507605101" class="social-link" target="_blank" rel="noopener">👥 Facebook Group</a>
+    </div>
+  </div>
+
+  <footer>© 2026 Shopping With Noya</footer>
+
+  <script>
+    const form = document.getElementById('contact-form');
+    const btn = document.getElementById('submit-btn');
+    const success = document.getElementById('success-msg');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      btn.disabled = true;
+      btn.textContent = 'Sending...';
+
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' }
+        });
+
+        if (res.ok) {
+          form.style.display = 'none';
+          success.classList.add('visible');
+        } else {
+          btn.disabled = false;
+          btn.textContent = 'Send Message →';
+          alert('Something went wrong. Please try again.');
+        }
+      } catch {
+        btn.disabled = false;
+        btn.textContent = 'Send Message →';
+        alert('Something went wrong. Please try again.');
+      }
+    });
+  </script>
+
+</body>
+</html>
