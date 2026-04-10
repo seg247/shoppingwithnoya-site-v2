@@ -207,7 +207,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     .hero-strip {
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: center;
+      text-align: center;
       gap: 1rem;
       padding: 0.85rem 1.25rem;
       background: linear-gradient(135deg, rgba(255,60,172,0.12), rgba(123,47,190,0.12));
@@ -216,8 +217,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     .hero-strip-left {
       display: flex;
       flex-direction: column;
-      gap: 0.2rem;
-      min-width: 0;
+      gap: 0.3rem;
+      align-items: center;
     }
     .hero-strip-title {
       font-family: 'Space Grotesk', sans-serif;
@@ -722,12 +723,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <!-- HERO STRIP -->
   <div class="hero-strip">
     <div class="hero-strip-left">
-      <span class="hero-strip-title">Best Amazon Deals — Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></span>
-      <span class="hero-strip-stat"><strong id="stat-total">—</strong> deals live &nbsp;·&nbsp; Free always &nbsp;·&nbsp; Updated every 2 min</span>
+      <span class="hero-strip-title">Best Amazon Deals, Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></span>
+      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">—</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
     </div>
-    <a href="https://t.me/shoppingwithnoya" class="hero-strip-cta" target="_blank" rel="noopener">
-      🔔 Join Telegram
-    </a>
   </div>
 
   <!-- SEARCH BAR -->
