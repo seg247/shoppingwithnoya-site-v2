@@ -205,16 +205,16 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     /* HERO */
     .hero {
       position: relative;
-      min-height: 44vh;
-      max-height: 520px;
+      min-height: unset;
+      max-height: unset;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
-      padding: 2.5rem 1.5rem 3rem; /* extra bottom padding so CTA has breathing room */
+      padding: 2.5rem 1.5rem 2rem;
       overflow: hidden;
-      isolation: isolate; /* contain orbs so they don't bleed into nav */
+      isolation: isolate;
     }
     .orb {
       position: absolute;
@@ -268,7 +268,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     .hero-sub {
       font-size: 1.15rem;
       color: var(--text-sec);
-      margin-bottom: 2.5rem;
+      margin-bottom: 1.5rem;
       max-width: 520px;
       margin-left: auto;
       margin-right: auto;
@@ -278,7 +278,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       flex-wrap: wrap;
       gap: 0.75rem;
       justify-content: center;
-      margin-bottom: 2.5rem;
+      margin-bottom: 1.5rem;
     }
     .stat-pill {
       display: flex;
@@ -773,8 +773,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <div class="orb orb-2"></div>
     <div class="orb orb-3"></div>
     <div class="hero-content">
-      <div class="hero-badge">✨ Fresh deals added daily</div>
-      <h1>Best Amazon Deals,<br/>Zero Effort. 🛍️</h1>
+      <div class="hero-badge"><span style="font-family:sans-serif">✨</span> Fresh deals added daily</div>
+      <h1>Best Amazon Deals,<br/>Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></h1>
       <p class="hero-sub">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter.</p>
       <div class="stats-row">
         <div class="stat-pill"><strong id="stat-total">—</strong> <span>deals live</span></div>
@@ -815,7 +815,6 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       <button class="chip" data-cat="Office & Stationery">Office & Stationery</button>
       <button class="chip" data-cat="Personal Care">Personal Care</button>
       <button class="chip" data-cat="Cleaning Supplies">Cleaning Supplies</button>
-      <button class="chip" data-cat="Grocery & Food">Grocery & Food</button>
     </div>
     <div class="chips-fade-left hidden" id="chips-fade-left"></div>
     <div class="chips-fade-right" id="chips-fade-right"></div>
