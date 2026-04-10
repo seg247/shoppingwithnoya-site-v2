@@ -1,0 +1,184 @@
+---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const lastUpdated = "April 10, 2026";
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — Shopping With Noya</title>
+  <meta name="description" content="Privacy Policy for Shopping With Noya — how we collect, use, and protect your information." />
+  <link rel="canonical" href="https://deals.shoppingwithnoya.com/privacy" />
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T75YM7DVKJ');
+  </script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0A0A0F; --surface: #16161F; --border: #2A2A3E;
+      --pink: #FF3CAC; --purple: #7B2FBE; --cyan: #00D4FF;
+      --text: #F0F0FF; --text-sec: #9999BB; --text-muted: #55556A;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; min-height: 100vh; }
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; gap: 10px;
+      padding: 0 1.25rem; height: 56px;
+      background: rgba(10,10,15,0.85); backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo {
+      font-family: 'Space Grotesk', sans-serif; font-size: 1.2rem; font-weight: 700;
+      background: linear-gradient(135deg, var(--pink), var(--purple), var(--cyan));
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; text-decoration: none;
+    }
+    .nav-spacer { flex: 1; }
+    .nav-back {
+      font-size: 0.85rem; color: var(--text-sec); text-decoration: none;
+      padding: 0.4rem 0.9rem; border: 1px solid var(--border);
+      border-radius: 999px; transition: all 0.15s;
+    }
+    .nav-back:hover { border-color: var(--pink); color: var(--pink); }
+    .page { max-width: 760px; margin: 0 auto; padding: 3rem 1.5rem 5rem; }
+    .page-header { margin-bottom: 2.5rem; }
+    .page-header h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(1.8rem, 4vw, 2.5rem); font-weight: 700;
+      background: linear-gradient(135deg, #fff 0%, var(--pink) 50%, var(--cyan) 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; margin-bottom: 0.5rem;
+    }
+    .last-updated { font-size: 0.82rem; color: var(--text-muted); }
+    .legal-body { display: flex; flex-direction: column; gap: 2rem; }
+    .legal-section h2 {
+      font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem;
+      font-weight: 700; color: var(--cyan); margin-bottom: 0.75rem;
+      padding-bottom: 0.4rem; border-bottom: 1px solid var(--border);
+    }
+    .legal-section p { color: var(--text-sec); line-height: 1.75; font-size: 0.95rem; margin-bottom: 0.75rem; }
+    .legal-section ul { color: var(--text-sec); line-height: 1.75; font-size: 0.95rem; padding-left: 1.5rem; margin-bottom: 0.75rem; }
+    .legal-section ul li { margin-bottom: 0.4rem; }
+    .legal-section a { color: var(--pink); text-decoration: none; }
+    .legal-section a:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 2rem; color: var(--text-muted); font-size: 0.8rem; border-top: 1px solid var(--border); }
+    footer a { color: var(--text-sec); text-decoration: none; }
+    footer a:hover { color: var(--pink); }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href={`${base}/`} class="nav-logo">🛍️ Noya</a>
+    <div class="nav-spacer"></div>
+    <a href={`${base}/`} class="nav-back">← Back to Deals</a>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <h1>Privacy Policy</h1>
+      <p class="last-updated">Last updated: {lastUpdated}</p>
+    </div>
+
+    <div class="legal-body">
+
+      <div class="legal-section">
+        <h2>1. Introduction</h2>
+        <p>Welcome to Shopping With Noya ("we," "our," or "us"). We operate the website deals.shoppingwithnoya.com and our Telegram channel @shoppingwithnoya. This Privacy Policy explains how we collect, use, and protect information when you visit our website or interact with our content.</p>
+        <p>By using our site, you agree to the practices described in this policy.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>2. Information We Collect</h2>
+        <p>We collect the following types of information:</p>
+        <ul>
+          <li><strong>Usage Data:</strong> Pages visited, time spent, browser type, device type, and referral source — collected automatically via Google Analytics.</li>
+          <li><strong>Contact Form Data:</strong> If you contact us via our contact form, we collect your name, email address, and message content.</li>
+          <li><strong>Cookies:</strong> Google Analytics uses cookies to track site usage. You can opt out via your browser settings or <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google's opt-out tool</a>.</li>
+        </ul>
+        <p>We do not collect payment information, social security numbers, or any sensitive personal data.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>3. How We Use Your Information</h2>
+        <ul>
+          <li>To analyze site traffic and improve our content</li>
+          <li>To respond to messages sent through our contact form</li>
+          <li>To understand which deals and categories are most popular</li>
+        </ul>
+        <p>We do not sell, rent, or share your personal information with third parties for marketing purposes.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>4. Affiliate Disclosure</h2>
+        <p>Shopping With Noya participates in affiliate marketing programs. This means we may earn a commission when you click on certain links and make a purchase — at no additional cost to you. Our affiliate partners include:</p>
+        <ul>
+          <li><strong>Amazon Associates</strong> — amazon.com links with our affiliate tag</li>
+          <li><strong>Mavely</strong> — mavely.app.link links</li>
+          <li><strong>Seint Beauty</strong> — Seint affiliate program</li>
+          <li><strong>CJ Affiliate</strong> — various brand partners</li>
+        </ul>
+        <p>All sponsored or affiliate content is marked with <strong>#ad</strong> disclosures in compliance with FTC guidelines.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>5. Third-Party Services</h2>
+        <p>We use the following third-party services that may collect data independently:</p>
+        <ul>
+          <li><strong>Google Analytics</strong> — website traffic tracking (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>)</li>
+          <li><strong>Formspree</strong> — contact form processing (<a href="https://formspree.io/legal/privacy-policy" target="_blank" rel="noopener">Formspree Privacy Policy</a>)</li>
+          <li><strong>GitHub Pages</strong> — website hosting (<a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" target="_blank" rel="noopener">GitHub Privacy Statement</a>)</li>
+        </ul>
+      </div>
+
+      <div class="legal-section">
+        <h2>6. California Privacy Rights (CCPA)</h2>
+        <p>If you are a California resident, you have the right to:</p>
+        <ul>
+          <li>Know what personal information we collect about you</li>
+          <li>Request deletion of your personal information</li>
+          <li>Opt out of the sale of your personal information (we do not sell personal data)</li>
+        </ul>
+        <p>To exercise these rights, contact us at <a href="mailto:shoppingwithnoya@gmail.com">shoppingwithnoya@gmail.com</a>.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>7. Children's Privacy</h2>
+        <p>Our website is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us immediately.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>8. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. The "Last updated" date at the top of this page reflects the most recent revision. Continued use of our site after changes constitutes acceptance of the updated policy.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>9. Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us:</p>
+        <ul>
+          <li>Email: <a href="mailto:shoppingwithnoya@gmail.com">shoppingwithnoya@gmail.com</a></li>
+          <li>Contact form: <a href="/contact">deals.shoppingwithnoya.com/contact</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      <a href="/">Home</a> &nbsp;·&nbsp;
+      <a href="/contact">Contact</a> &nbsp;·&nbsp;
+      <a href="/terms">Terms of Service</a>
+    </p>
+    <p style="margin-top:0.5rem;">© 2026 Shopping With Noya</p>
+  </footer>
+</body>
+</html>

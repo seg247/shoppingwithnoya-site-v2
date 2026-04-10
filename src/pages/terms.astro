@@ -1,0 +1,181 @@
+---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const lastUpdated = "April 10, 2026";
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Service — Shopping With Noya</title>
+  <meta name="description" content="Terms of Service for Shopping With Noya." />
+  <link rel="canonical" href="https://deals.shoppingwithnoya.com/terms" />
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T75YM7DVKJ');
+  </script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0A0A0F; --surface: #16161F; --border: #2A2A3E;
+      --pink: #FF3CAC; --purple: #7B2FBE; --cyan: #00D4FF;
+      --text: #F0F0FF; --text-sec: #9999BB; --text-muted: #55556A;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; min-height: 100vh; }
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; gap: 10px;
+      padding: 0 1.25rem; height: 56px;
+      background: rgba(10,10,15,0.85); backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo {
+      font-family: 'Space Grotesk', sans-serif; font-size: 1.2rem; font-weight: 700;
+      background: linear-gradient(135deg, var(--pink), var(--purple), var(--cyan));
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; text-decoration: none;
+    }
+    .nav-spacer { flex: 1; }
+    .nav-back {
+      font-size: 0.85rem; color: var(--text-sec); text-decoration: none;
+      padding: 0.4rem 0.9rem; border: 1px solid var(--border);
+      border-radius: 999px; transition: all 0.15s;
+    }
+    .nav-back:hover { border-color: var(--pink); color: var(--pink); }
+    .page { max-width: 760px; margin: 0 auto; padding: 3rem 1.5rem 5rem; }
+    .page-header { margin-bottom: 2.5rem; }
+    .page-header h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(1.8rem, 4vw, 2.5rem); font-weight: 700;
+      background: linear-gradient(135deg, #fff 0%, var(--pink) 50%, var(--cyan) 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+      background-clip: text; margin-bottom: 0.5rem;
+    }
+    .last-updated { font-size: 0.82rem; color: var(--text-muted); }
+    .legal-body { display: flex; flex-direction: column; gap: 2rem; }
+    .legal-section h2 {
+      font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem;
+      font-weight: 700; color: var(--cyan); margin-bottom: 0.75rem;
+      padding-bottom: 0.4rem; border-bottom: 1px solid var(--border);
+    }
+    .legal-section p { color: var(--text-sec); line-height: 1.75; font-size: 0.95rem; margin-bottom: 0.75rem; }
+    .legal-section ul { color: var(--text-sec); line-height: 1.75; font-size: 0.95rem; padding-left: 1.5rem; margin-bottom: 0.75rem; }
+    .legal-section ul li { margin-bottom: 0.4rem; }
+    .legal-section a { color: var(--pink); text-decoration: none; }
+    .legal-section a:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 2rem; color: var(--text-muted); font-size: 0.8rem; border-top: 1px solid var(--border); }
+    footer a { color: var(--text-sec); text-decoration: none; }
+    footer a:hover { color: var(--pink); }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href={`${base}/`} class="nav-logo">🛍️ Noya</a>
+    <div class="nav-spacer"></div>
+    <a href={`${base}/`} class="nav-back">← Back to Deals</a>
+  </nav>
+
+  <div class="page">
+    <div class="page-header">
+      <h1>Terms of Service</h1>
+      <p class="last-updated">Last updated: {lastUpdated}</p>
+    </div>
+
+    <div class="legal-body">
+
+      <div class="legal-section">
+        <h2>1. Acceptance of Terms</h2>
+        <p>By accessing and using deals.shoppingwithnoya.com ("the Site"), you accept and agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Site.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>2. About the Site</h2>
+        <p>Shopping With Noya is a deal-sharing platform that curates and publishes deals, discounts, and affiliate offers from various retailers and brands. We are independently operated and not affiliated with Amazon, Walmart, or any other retailer unless explicitly stated.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>3. Affiliate Links & Pricing</h2>
+        <p>Our site contains affiliate links. When you click these links and make a purchase, we may earn a commission at no extra cost to you. We make every effort to ensure deals are accurate at the time of posting, however:</p>
+        <ul>
+          <li>Prices and availability change frequently and without notice</li>
+          <li>We cannot guarantee any price, discount, or deal will be available when you visit</li>
+          <li>Always verify the final price on the retailer's website before purchasing</li>
+          <li>We are not responsible for price discrepancies or sold-out items</li>
+        </ul>
+      </div>
+
+      <div class="legal-section">
+        <h2>4. No Warranties</h2>
+        <p>The Site and its content are provided "as is" without warranties of any kind, either express or implied. We do not warrant that:</p>
+        <ul>
+          <li>The Site will be error-free or uninterrupted</li>
+          <li>Any deals, prices, or product information are accurate or complete</li>
+          <li>The Site is free from viruses or other harmful components</li>
+        </ul>
+      </div>
+
+      <div class="legal-section">
+        <h2>5. Limitation of Liability</h2>
+        <p>To the fullest extent permitted by law, Shopping With Noya shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the Site or any deals posted on it, including but not limited to losses from purchases made through affiliate links.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>6. Intellectual Property</h2>
+        <p>All content on this Site — including text, design, graphics, and code — is the property of Shopping With Noya unless otherwise noted. Product images displayed may be the property of their respective brands or retailers. You may not reproduce or redistribute our content without written permission.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>7. External Links</h2>
+        <p>Our Site links to third-party websites (Amazon, Mavely, etc.). We are not responsible for the content, privacy practices, or availability of those sites. Visiting external links is at your own risk.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>8. User Conduct</h2>
+        <p>You agree not to:</p>
+        <ul>
+          <li>Use the Site for any unlawful purpose</li>
+          <li>Attempt to interfere with the Site's operation</li>
+          <li>Scrape, copy, or republish our content without permission</li>
+          <li>Use automated tools to access the Site in a way that disrupts service</li>
+        </ul>
+      </div>
+
+      <div class="legal-section">
+        <h2>9. Changes to Terms</h2>
+        <p>We reserve the right to update these Terms of Service at any time. The "Last updated" date reflects the most recent revision. Continued use of the Site after changes constitutes acceptance of the updated terms.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>10. Governing Law</h2>
+        <p>These Terms shall be governed by and construed in accordance with the laws of the United States and the State of New York, without regard to its conflict of law provisions.</p>
+      </div>
+
+      <div class="legal-section">
+        <h2>11. Contact</h2>
+        <p>Questions about these Terms? Reach us at:</p>
+        <ul>
+          <li>Email: <a href="mailto:shoppingwithnoya@gmail.com">shoppingwithnoya@gmail.com</a></li>
+          <li>Contact form: <a href="/contact">deals.shoppingwithnoya.com/contact</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      <a href="/">Home</a> &nbsp;·&nbsp;
+      <a href="/contact">Contact</a> &nbsp;·&nbsp;
+      <a href="/privacy">Privacy Policy</a>
+    </p>
+    <p style="margin-top:0.5rem;">© 2026 Shopping With Noya</p>
+  </footer>
+</body>
+</html>
