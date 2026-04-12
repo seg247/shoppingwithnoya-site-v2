@@ -893,7 +893,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       }
       // Promo code badge
       const promoHtml = deal.promoCode
-        ? `<div class="promo-code-badge">CODE: ${deal.promoCode}</div>`
+        ? `` // code shown in promo image
         : '';
 
       const img = getImageUrl(deal);
