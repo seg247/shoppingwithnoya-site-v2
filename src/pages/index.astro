@@ -931,7 +931,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         <div class="card-body">
           ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
           ${expiryHtml}
-          <p class="card-title">${displayTitle}</p>
+          ${deal.promoCode ? '' : `<p class="card-title">${displayTitle}</p>`}
           ${priceHtml}
           ${promoHtml}
           <div class="card-footer">
