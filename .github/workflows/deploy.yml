@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Rebuild every night at 2 AM ET (6 AM UTC) — generates new deal pages from latest site-data.json
+    - cron: '0 6 * * *'
 
 permissions:
   contents: read
