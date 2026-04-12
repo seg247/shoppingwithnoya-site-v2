@@ -482,6 +482,23 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     }
     .discount-badge.hot  { background: linear-gradient(135deg, #ff6b35, var(--pink)); }
     .discount-badge.fire { background: linear-gradient(135deg, #ff3333, var(--pink)); }
+    .badge-expires {
+      display: inline-block; font-size: 0.65rem; font-weight: 600;
+      background: #0ff4; color: #0dd; border: 1px solid #0dd;
+      border-radius: 4px; padding: 1px 6px; margin-bottom: 4px;
+    }
+    .badge-expired {
+      display: inline-block; font-size: 0.65rem; font-weight: 700;
+      background: #f002; color: #f66; border: 1px solid #f66;
+      border-radius: 4px; padding: 1px 6px; margin-bottom: 4px;
+    }
+    .promo-code-badge {
+      display: inline-block; font-family: monospace; font-size: 0.75rem; font-weight: 700;
+      background: #1a0a1e; color: #ff90c8; border: 1px solid #ff60a8;
+      border-radius: 5px; padding: 3px 8px; margin: 4px 0;
+      letter-spacing: 0.05em;
+    }
+    .card-expired { opacity: 0.5; }
 
     /* CARD BODY */
     .card-body {
@@ -748,6 +765,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <div class="chips-wrap">
     <div class="chips-scroll" id="chips">
       <button class="chip active" data-cat="all">All</button>
+      <button class="chip" data-cat="__promo__">🏷️ Promo Codes</button>
       <button class="chip" data-cat="Electronics">Electronics</button>
       <button class="chip" data-cat="Home & Kitchen">Home & Kitchen</button>
       <button class="chip" data-cat="Beauty">Beauty</button>
@@ -857,6 +875,27 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     }
 
     function renderCard(deal, index) {
+      // Expiry logic
+      let expiryHtml = '';
+      let cardExpiredClass = '';
+      if (deal.expiresAt) {
+        const expires = new Date(deal.expiresAt + 'T23:59:59');
+        const now = new Date();
+        const diffDays = (now - expires) / (1000 * 60 * 60 * 24);
+        if (diffDays > 3) return ''; // skip deals expired >3 days ago
+        if (diffDays > 0) {
+          expiryHtml = `<span class="badge-expired">EXPIRED</span>`;
+          cardExpiredClass = ' card-expired';
+        } else {
+          const fmt = expires.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+          expiryHtml = `<span class="badge-expires">⏰ Expires ${fmt}</span>`;
+        }
+      }
+      // Promo code badge
+      const promoHtml = deal.promoCode
+        ? `<div class="promo-code-badge">CODE: ${deal.promoCode}</div>`
+        : '';
+
       const img = getImageUrl(deal);
       const discount = deal.discount || 0;
       const delay = Math.min(index * 55, 550);
@@ -884,15 +923,17 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       const cat = (deal.category || '').substring(0, 20);
       const displayTitle = cleanTitle(deal.title) || 'Amazon Deal';
 
-      return `<a href="${deal.url}" class="deal-card${img ? '' : ' no-img'}" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
+      return `<a href="${deal.url}" class="deal-card${img ? '' : ' no-img'}${cardExpiredClass}" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
         ${img ? `<div class="card-image-wrap">
           <img src="${img}" alt="" loading="lazy" onerror="this.parentElement.style.display='none';this.closest('.deal-card').classList.add('no-img')" />
           ${discount > 0 ? `<div class="discount-badge ${badgeClass}">-${discount}%</div>` : ''}
         </div>` : ''}
         <div class="card-body">
           ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
+          ${expiryHtml}
           <p class="card-title">${displayTitle}</p>
           ${priceHtml}
+          ${promoHtml}
           <div class="card-footer">
             <span class="card-meta">${timeAgo(deal.ts)}</span>
             <button class="share-btn" data-url="${deal.url}" data-title="${displayTitle.replace(/"/g, '&quot;')}" aria-label="Share deal">
@@ -917,7 +958,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         // Category filter
         let catMatch = true;
         if (activeFilters.size > 0) {
-          catMatch = activeFilters.has(d.category);
+          if (activeFilters.has('__promo__')) {
+            catMatch = !!d.promoCode;
+          } else {
+            catMatch = activeFilters.has(d.category);
+          }
         }
         // Search filter — search overrides category filter, searches cleaned title + category
         if (searchQuery) {
