@@ -1,0 +1,285 @@
+---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Noya Dashboard 🐾</title>
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0A0A0F; --surface: #16161F; --elevated: #1E1E2A;
+      --border: #2A2A3E; --pink: #FF3CAC; --cyan: #00D4FF;
+      --green: #39FF14; --yellow: #FFD700; --text: #F0F0FF; --text-sec: #9999BB;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; min-height: 100vh; padding: 0; }
+
+    /* LOGIN */
+    #login-screen {
+      display: flex; align-items: center; justify-content: center;
+      min-height: 100vh; flex-direction: column; gap: 20px;
+    }
+    #login-screen h1 { font-family: 'Space Grotesk', sans-serif; font-size: 2rem; background: linear-gradient(135deg, var(--pink), var(--cyan)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    #login-screen input {
+      background: var(--surface); border: 1px solid var(--border); color: var(--text);
+      padding: 12px 20px; border-radius: 10px; font-size: 1rem; width: 280px; text-align: center;
+    }
+    #login-screen button {
+      background: linear-gradient(135deg, var(--pink), var(--cyan)); border: none;
+      color: white; padding: 12px 32px; border-radius: 10px; font-size: 1rem;
+      font-weight: 600; cursor: pointer; width: 280px;
+    }
+    #login-error { color: var(--pink); font-size: 0.9rem; display: none; }
+
+    /* DASHBOARD */
+    #dashboard { display: none; }
+    header {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 16px 24px; display: flex; align-items: center; justify-content: space-between;
+    }
+    header h1 { font-family: 'Space Grotesk', sans-serif; font-size: 1.4rem; background: linear-gradient(135deg, var(--pink), var(--cyan)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .last-updated { font-size: 0.8rem; color: var(--text-sec); }
+
+    .dash-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; padding: 20px; }
+
+    .card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+      overflow: hidden; transition: border-color 0.2s;
+    }
+    .card:hover { border-color: var(--pink); }
+    .card-header {
+      padding: 14px 18px; display: flex; align-items: center; gap: 10px;
+      border-bottom: 1px solid var(--border); background: var(--elevated);
+    }
+    .card-icon { font-size: 1.4rem; }
+    .card-title { font-family: 'Space Grotesk', sans-serif; font-weight: 600; font-size: 0.95rem; }
+    .card-body { padding: 16px 18px; }
+
+    .link-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .link-list li a {
+      display: flex; align-items: center; gap: 10px; padding: 10px 14px;
+      background: var(--elevated); border: 1px solid var(--border); border-radius: 10px;
+      color: var(--text); text-decoration: none; font-size: 0.9rem; transition: all 0.2s;
+    }
+    .link-list li a:hover { border-color: var(--cyan); color: var(--cyan); }
+    .link-emoji { font-size: 1.1rem; flex-shrink: 0; }
+    .link-label { flex: 1; }
+    .link-arrow { color: var(--text-sec); font-size: 0.8rem; }
+
+    .stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .stat-box {
+      background: var(--elevated); border: 1px solid var(--border); border-radius: 10px;
+      padding: 12px; text-align: center;
+    }
+    .stat-label { font-size: 0.75rem; color: var(--text-sec); margin-bottom: 4px; }
+    .stat-value { font-family: 'Space Grotesk', sans-serif; font-size: 1.3rem; font-weight: 700; color: var(--cyan); }
+
+    .task-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
+    .task-list li {
+      display: flex; align-items: flex-start; gap: 10px; padding: 8px 12px;
+      background: var(--elevated); border-radius: 8px; font-size: 0.88rem;
+    }
+    .task-list li.done { opacity: 0.45; text-decoration: line-through; }
+    .task-check { cursor: pointer; flex-shrink: 0; margin-top: 2px; accent-color: var(--pink); }
+
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 0.72rem; font-weight: 600; margin-left: 6px; }
+    .badge-red { background: rgba(255,60,172,0.2); color: var(--pink); }
+    .badge-green { background: rgba(57,255,20,0.15); color: var(--green); }
+    .badge-yellow { background: rgba(255,215,0,0.15); color: var(--yellow); }
+
+    .section-title { font-family: 'Space Grotesk', sans-serif; font-size: 0.8rem; color: var(--text-sec); text-transform: uppercase; letter-spacing: 0.05em; padding: 16px 20px 4px; }
+  </style>
+</head>
+<body>
+
+<!-- LOGIN -->
+<div id="login-screen">
+  <div style="font-size:3rem;">🐾</div>
+  <h1>Noya Dashboard</h1>
+  <p style="color:var(--text-sec);font-size:0.9rem;">Private — enter password to continue</p>
+  <input type="password" id="pw-input" placeholder="Password" onkeydown="if(event.key==='Enter')checkPw()" />
+  <button onclick="checkPw()">Enter Dashboard</button>
+  <p id="login-error">Wrong password. Try again.</p>
+</div>
+
+<!-- DASHBOARD -->
+<div id="dashboard">
+  <header>
+    <h1>🐾 Noya Command Center</h1>
+    <span class="last-updated" id="time-display"></span>
+  </header>
+
+  <!-- DAILY TASKS -->
+  <p class="section-title">📋 Today's Tasks</p>
+  <div style="padding: 0 20px 4px;">
+    <div class="card">
+      <div class="card-header"><span class="card-icon">✅</span><span class="card-title">Daily Checklist</span></div>
+      <div class="card-body">
+        <ul class="task-list" id="task-list">
+          <li><input type="checkbox" class="task-check"> Post deals in DealPal, Friend Finds, Shopaholic</li>
+          <li><input type="checkbox" class="task-check"> Check Amazon Associates earnings</li>
+          <li><input type="checkbox" class="task-check"> Check Shopify orders</li>
+          <li><input type="checkbox" class="task-check"> Check Telegram channel growth</li>
+          <li><input type="checkbox" class="task-check"> Post on Nextdoor (weekly)</li>
+          <li><input type="checkbox" class="task-check"> Reply to Facebook group comments</li>
+          <li><input type="checkbox" class="task-check"> Check PA API status</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="dash-grid">
+
+    <!-- AMAZON -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">🛒</span><span class="card-title">Amazon</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://affiliate-program.amazon.com/home/account/earnings" target="_blank"><span class="link-emoji">💰</span><span class="link-label">Associates Earnings</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://affiliate-program.amazon.com/home/account/clicks" target="_blank"><span class="link-emoji">👆</span><span class="link-label">Click Reports</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://www.amazon.com/shop/noya0b" target="_blank"><span class="link-emoji">🛍️</span><span class="link-label">My Storefront</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://affiliate-program.amazon.com/home/tools/paapi" target="_blank"><span class="link-emoji">🔌</span><span class="link-label">PA API Status <span class="badge badge-red">Forbidden</span></span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- SHOPIFY -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">👗</span><span class="card-title">Shopify Boutique</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://ncvp31-68.myshopify.com/admin/orders" target="_blank"><span class="link-emoji">📦</span><span class="link-label">Orders</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://ncvp31-68.myshopify.com/admin/products" target="_blank"><span class="link-emoji">🏷️</span><span class="link-label">Products (47 listed)</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://shoppingwithnoya.com" target="_blank"><span class="link-emoji">🌐</span><span class="link-label">View Store</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://ncvp31-68.myshopify.com/admin/analytics" target="_blank"><span class="link-emoji">📊</span><span class="link-label">Analytics</span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- DEALS SITE -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">🔥</span><span class="card-title">Deals Site</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://analytics.google.com" target="_blank"><span class="link-emoji">📈</span><span class="link-label">Google Analytics (G-T75YM7DVKJ)</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://search.google.com/search-console" target="_blank"><span class="link-emoji">🔍</span><span class="link-label">Search Console</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://deals.shoppingwithnoya.com" target="_blank"><span class="link-emoji">🌐</span><span class="link-label">View Deals Site</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://github.com/seg247/shoppingwithnoya-site-v2/actions" target="_blank"><span class="link-emoji">⚙️</span><span class="link-label">GitHub Actions (deploys)</span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- GOOGLE MERCHANT -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">🏪</span><span class="card-title">Google Merchant Center</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://merchants.google.com" target="_blank"><span class="link-emoji">✅</span><span class="link-label">Product Approvals <span class="badge badge-yellow">Pending</span></span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://merchants.google.com/mc/diagnostics" target="_blank"><span class="link-emoji">⚠️</span><span class="link-label">Diagnostics & Warnings</span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- SOCIAL -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">📱</span><span class="card-title">Social & Channels</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://t.me/shoppingwithnoya" target="_blank"><span class="link-emoji">📲</span><span class="link-label">Telegram Channel</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://www.facebook.com/groups/1224964507605101" target="_blank"><span class="link-emoji">👥</span><span class="link-label">Facebook VIP Group</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://www.instagram.com/shoppingwithnoya" target="_blank"><span class="link-emoji">📸</span><span class="link-label">Instagram</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://pinterest.com/shoppingwithnoya" target="_blank"><span class="link-emoji">📌</span><span class="link-label">Pinterest</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://benable.com/SarahShimon" target="_blank"><span class="link-emoji">🛍️</span><span class="link-label">Benable</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://linktr.ee/shoppingwithnoya" target="_blank"><span class="link-emoji">🌳</span><span class="link-label">Linktree</span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- AFFILIATES -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">💸</span><span class="card-title">Affiliate Programs</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://mavely.app" target="_blank"><span class="link-emoji">🔗</span><span class="link-label">Mavely Dashboard</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://shoppingwithnoya.seintofficial.com" target="_blank"><span class="link-emoji">💄</span><span class="link-label">Seint Storefront</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://mailchimp.com" target="_blank"><span class="link-emoji">📧</span><span class="link-label">Mailchimp (~30 subscribers)</span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- BOT STATUS -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">🤖</span><span class="card-title">Bot & Automation</span></div>
+      <div class="card-body">
+        <ul class="link-list">
+          <li><a href="https://github.com/seg247/shoppingwithnoya-site-v2" target="_blank"><span class="link-emoji">💻</span><span class="link-label">Deals Site Repo</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://github.com/seg247/cpapdatapro" target="_blank"><span class="link-emoji">🫁</span><span class="link-label">CPAP Data Pro Repo</span><span class="link-arrow">→</span></a></li>
+          <li><a href="https://seg247.github.io/cpapdatapro" target="_blank"><span class="link-emoji">🌐</span><span class="link-label">CPAP Data Pro Live</span><span class="link-arrow">→</span></a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- BLOCKED / IN PROGRESS -->
+    <div class="card">
+      <div class="card-header"><span class="card-icon">🚧</span><span class="card-title">Blocked / Waiting</span></div>
+      <div class="card-body">
+        <ul class="task-list">
+          <li><input type="checkbox" class="task-check"> Amazon PA API — contact Associates support (tag: noya0b-20) <span class="badge badge-red">Blocked</span></li>
+          <li><input type="checkbox" class="task-check"> Pinterest API — chat with support to appeal denial <span class="badge badge-red">Blocked</span></li>
+          <li><input type="checkbox" class="task-check"> Google Merchant Center product approvals <span class="badge badge-yellow">Pending</span></li>
+          <li><input type="checkbox" class="task-check"> CPapper Azure site — find GitHub repo <span class="badge badge-red">Blocked</span></li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  const PASSWORD = 'noya2026';
+
+  function checkPw() {
+    const val = document.getElementById('pw-input').value;
+    if (val === PASSWORD) {
+      document.getElementById('login-screen').style.display = 'none';
+      document.getElementById('dashboard').style.display = 'block';
+      localStorage.setItem('noya-auth', '1');
+      updateTime();
+    } else {
+      document.getElementById('login-error').style.display = 'block';
+    }
+  }
+
+  // Auto-login if already authenticated
+  if (localStorage.getItem('noya-auth') === '1') {
+    document.getElementById('login-screen').style.display = 'none';
+    document.getElementById('dashboard').style.display = 'block';
+  }
+
+  function updateTime() {
+    const el = document.getElementById('time-display');
+    if(el) el.textContent = new Date().toLocaleString('en-US', { timeZone: 'America/New_York', dateStyle: 'medium', timeStyle: 'short' }) + ' ET';
+  }
+  updateTime();
+  setInterval(updateTime, 60000);
+
+  // Checkbox persistence
+  const tasks = document.querySelectorAll('.task-check');
+  const today = new Date().toDateString();
+  tasks.forEach((cb, i) => {
+    const key = `task-${today}-${i}`;
+    cb.checked = localStorage.getItem(key) === '1';
+    cb.closest('li').classList.toggle('done', cb.checked);
+    cb.addEventListener('change', () => {
+      localStorage.setItem(key, cb.checked ? '1' : '0');
+      cb.closest('li').classList.toggle('done', cb.checked);
+    });
+  });
+</script>
+
+</body>
+</html>
