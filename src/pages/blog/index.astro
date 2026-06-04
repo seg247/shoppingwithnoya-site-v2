@@ -26,49 +26,62 @@
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root { --bg: #0f172a; --surface: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #60a5fa; }
-    html { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    :root { --bg: #0a0a0f; --surface: #13131a; --surface2: #1a1a24; --text: #f0f0f5; --text-sec: #a0a0b0; --accent: #ff3cac; --purple: #7b2fff; --cyan: #00d4ff; --border: rgba(255,255,255,0.08); }
+    html { background: var(--bg); color: var(--text); font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
 
-    .nav-stripe { background: #0f172a; border-bottom: 1px solid #1e293b; width: 100%; }
-    .nav-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; height: 60px; display: flex; align-items: center; justify-content: space-between; }
-    .nav-brand { font-size: 1.15rem; font-weight: 700; color: var(--text); text-decoration: none; }
-    .nav-brand span { color: var(--accent); }
-    .nav-cta { background: #0088cc; color: #fff !important; padding: 8px 18px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; text-decoration: none; }
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; gap: 8px;
+      padding: 0 1.5rem; height: 56px;
+      background: rgba(10,10,15,0.85);
+      backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo {
+      font-size: 1.1rem; font-weight: 700; text-decoration: none; flex-shrink: 0;
+      background: linear-gradient(135deg, var(--accent), var(--purple), var(--cyan));
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    }
+    .nav-spacer { flex: 1; }
+    .nav-link { font-size: 0.78rem; font-weight: 600; color: var(--text); text-decoration: none; white-space: nowrap; flex-shrink: 0; padding: 0.4rem 0.75rem; border-radius: 999px; border: 1px solid var(--border); transition: background 0.2s; }
+    .nav-link:hover { background: var(--surface2); text-decoration: none; }
+    .nav-tg { display: flex; align-items: center; gap: 0.3rem; padding: 0.4rem 0.75rem; background: linear-gradient(135deg, var(--accent), var(--purple)); color: white !important; text-decoration: none; border-radius: 999px; font-size: 0.78rem; font-weight: 600; transition: opacity 0.2s; flex-shrink: 0; white-space: nowrap; }
+    .nav-tg:hover { opacity: 0.85; text-decoration: none; }
 
     .page-body { max-width: 800px; margin: 0 auto; padding: 40px 24px; }
     h1 { font-size: 2rem; font-weight: 800; margin-bottom: 8px; }
-    .subtitle { color: var(--muted); margin-bottom: 40px; font-size: 1rem; }
+    .subtitle { color: var(--text-sec); margin-bottom: 40px; font-size: 1rem; }
 
     .post-list { display: flex; flex-direction: column; gap: 16px; }
     .post-card {
-      background: var(--surface); border-radius: 12px; padding: 20px 24px;
+      background: var(--surface); border-radius: 16px; padding: 20px 24px;
       display: flex; justify-content: space-between; align-items: center;
       text-decoration: none; color: var(--text); gap: 16px;
+      border: 1px solid var(--border);
       transition: background 0.15s, transform 0.1s;
     }
-    .post-card:hover { background: #243347; transform: translateY(-2px); text-decoration: none; }
+    .post-card:hover { background: var(--surface2); transform: translateY(-2px); text-decoration: none; }
     .post-title { font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; }
-    .post-meta { font-size: 0.82rem; color: var(--muted); }
+    .post-meta { font-size: 0.82rem; color: var(--text-sec); }
     .post-cats { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
-    .cat-tag { font-size: 0.72rem; padding: 3px 8px; border-radius: 20px; background: #334155; color: #94a3b8; }
-    .post-arrow { font-size: 1.4rem; color: var(--muted); flex-shrink: 0; }
+    .cat-tag { font-size: 0.72rem; padding: 3px 8px; border-radius: 20px; background: var(--surface2); color: var(--text-sec); border: 1px solid var(--border); }
+    .post-arrow { font-size: 1.4rem; color: var(--text-sec); flex-shrink: 0; }
+    .loading { text-align: center; color: var(--text-sec); padding: 60px 0; }
 
-    .loading { text-align: center; color: var(--muted); padding: 60px 0; }
-
-    footer { margin-top: 60px; border-top: 1px solid #1e293b; }
-    .footer-inner { max-width: 1200px; margin: 0 auto; padding: 24px; text-align: center; font-size: 0.8rem; color: var(--muted); }
+    footer { margin-top: 60px; border-top: 1px solid var(--border); }
+    .footer-inner { max-width: 1200px; margin: 0 auto; padding: 24px; text-align: center; font-size: 0.8rem; color: var(--text-sec); }
     .disclaimer { font-size: 0.72rem; opacity: 0.5; margin-top: 6px; }
-    a { color: var(--accent); text-decoration: none; }
+    a { color: var(--cyan); text-decoration: none; }
   </style>
 </head>
 <body>
 
-  <div class="nav-stripe">
-    <div class="nav-inner">
-      <a href="/" class="nav-brand">Shopping With <span>Noya</span></a>
-      <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Join Telegram</a>
-    </div>
-  </div>
+  <nav>
+    <a href="/" class="nav-logo">🛍️ Shopping With Noya</a>
+    <div class="nav-spacer"></div>
+    <a href="/" class="nav-link">🏷️ All Deals</a>
+    <a href="https://t.me/shoppingwithnoya" class="nav-tg" target="_blank" rel="noopener">📲 Join Telegram</a>
+  </nav>
 
   <div class="page-body">
     <h1>📝 Deal Blog</h1>

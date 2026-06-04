@@ -31,70 +31,77 @@ const canonicalUrl = `https://deals.shoppingwithnoya.com/blog/${date}/`;
 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root { --bg: #0f172a; --surface: #1e293b; --text: #e2e8f0; --muted: #94a3b8; --accent: #60a5fa; }
-    html { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    :root { --bg: #0a0a0f; --surface: #13131a; --surface2: #1a1a24; --text: #f0f0f5; --text-sec: #a0a0b0; --accent: #ff3cac; --purple: #7b2fff; --cyan: #00d4ff; --border: rgba(255,255,255,0.08); }
+    html { background: var(--bg); color: var(--text); font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
 
-    .nav-stripe { background: #0f172a; border-bottom: 1px solid #1e293b; width: 100%; }
-    .nav-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; height: 60px; display: flex; align-items: center; justify-content: space-between; }
-    .nav-brand { font-size: 1.15rem; font-weight: 700; color: var(--text); text-decoration: none; }
-    .nav-brand span { color: var(--accent); }
-    .nav-cta { background: #0088cc; color: #fff !important; padding: 8px 18px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      display: flex; align-items: center; gap: 8px;
+      padding: 0 1.5rem; height: 56px;
+      background: rgba(10,10,15,0.85);
+      backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-logo { font-size: 1.1rem; font-weight: 700; text-decoration: none; flex-shrink: 0; background: linear-gradient(135deg, var(--accent), var(--purple), var(--cyan)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .nav-spacer { flex: 1; }
+    .nav-link { font-size: 0.78rem; font-weight: 600; color: var(--text); text-decoration: none; white-space: nowrap; flex-shrink: 0; padding: 0.4rem 0.75rem; border-radius: 999px; border: 1px solid var(--border); transition: background 0.2s; }
+    .nav-link:hover { background: var(--surface2); text-decoration: none; }
+    .nav-tg { display: flex; align-items: center; gap: 0.3rem; padding: 0.4rem 0.75rem; background: linear-gradient(135deg, var(--accent), var(--purple)); color: white !important; text-decoration: none; border-radius: 999px; font-size: 0.78rem; font-weight: 600; transition: opacity 0.2s; flex-shrink: 0; white-space: nowrap; }
+    .nav-tg:hover { opacity: 0.85; text-decoration: none; }
 
-    .page-body { max-width: 800px; margin: 0 auto; padding: 40px 24px; }
-
-    .breadcrumb { font-size: 0.8rem; color: var(--muted); margin-bottom: 24px; }
-    .breadcrumb a { color: var(--muted); }
-
+    .page-body { max-width: 860px; margin: 0 auto; padding: 40px 24px; }
+    .breadcrumb { font-size: 0.8rem; color: var(--text-sec); margin-bottom: 24px; }
+    .breadcrumb a { color: var(--text-sec); }
     h1 { font-size: 1.8rem; font-weight: 800; margin-bottom: 12px; line-height: 1.3; }
-    .post-meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+    .post-meta { color: var(--text-sec); font-size: 0.85rem; margin-bottom: 20px; }
     .post-intro { color: #cbd5e1; line-height: 1.7; margin-bottom: 36px; font-size: 0.98rem; }
 
     .deals-list { display: flex; flex-direction: column; gap: 14px; margin-bottom: 40px; }
     .deal-row {
-      background: var(--surface); border-radius: 12px; padding: 16px;
-      display: flex; gap: 16px; align-items: center;
+      background: var(--surface); border-radius: 16px; padding: 16px;
+      display: flex; gap: 18px; align-items: center;
       text-decoration: none; color: var(--text);
+      border: 1px solid var(--border);
       transition: background 0.15s, transform 0.1s;
     }
-    .deal-row:hover { background: #243347; transform: translateY(-2px); text-decoration: none; }
-    .deal-img { width: 70px; height: 70px; border-radius: 8px; object-fit: cover; background: #334155; flex-shrink: 0; }
-    .deal-img-placeholder { width: 70px; height: 70px; border-radius: 8px; background: #334155; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; flex-shrink: 0; }
+    .deal-row:hover { background: var(--surface2); transform: translateY(-2px); text-decoration: none; }
+    .deal-img { width: 110px; height: 110px; border-radius: 12px; object-fit: cover; background: var(--surface2); flex-shrink: 0; }
+    .deal-img-placeholder { width: 110px; height: 110px; border-radius: 12px; background: var(--surface2); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; flex-shrink: 0; border: 1px solid var(--border); }
     .deal-body { flex: 1; min-width: 0; }
-    .deal-title { font-size: 0.9rem; font-weight: 600; line-height: 1.3; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-    .deal-badges { display: flex; flex-wrap: wrap; gap: 5px; }
-    .badge-off { font-size: 0.7rem; padding: 2px 8px; border-radius: 20px; background: #ef4444; color: #fff; font-weight: 600; }
-    .badge-cat { font-size: 0.7rem; padding: 2px 8px; border-radius: 20px; background: #334155; color: #94a3b8; }
-    .deal-arrow { color: var(--muted); font-size: 1.2rem; flex-shrink: 0; }
+    .deal-title { font-size: 1rem; font-weight: 700; line-height: 1.4; margin-bottom: 8px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .deal-badges { display: flex; flex-wrap: wrap; gap: 6px; }
+    .badge-off { font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; background: #ef4444; color: #fff; font-weight: 700; }
+    .badge-cat { font-size: 0.75rem; padding: 3px 10px; border-radius: 20px; background: var(--surface2); color: var(--text-sec); border: 1px solid var(--border); }
+    .deal-arrow { color: var(--text-sec); font-size: 1.4rem; flex-shrink: 0; }
 
     .share-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 32px; }
-    .share-label { font-size: 0.82rem; color: var(--muted); }
-    .share-btn { font-size: 0.78rem; padding: 6px 12px; border-radius: 20px; background: var(--surface); color: var(--text); border: 1px solid #334155; cursor: pointer; text-decoration: none; font-family: inherit; transition: background 0.15s; }
-    .share-btn:hover { background: #334155; text-decoration: none; }
+    .share-label { font-size: 0.82rem; color: var(--text-sec); }
+    .share-btn { font-size: 0.78rem; padding: 6px 14px; border-radius: 20px; background: var(--surface); color: var(--text); border: 1px solid var(--border); cursor: pointer; text-decoration: none; font-family: inherit; transition: background 0.15s; }
+    .share-btn:hover { background: var(--surface2); text-decoration: none; }
 
-    .tg-cta { background: #0c2340; border: 1px solid #0088cc44; border-radius: 12px; padding: 20px 24px; margin-bottom: 32px; }
-    .tg-cta h3 { margin-bottom: 8px; }
-    .tg-cta p { color: var(--muted); font-size: 0.9rem; margin-bottom: 14px; }
-    .tg-btn { display: inline-block; background: #0088cc; color: #fff !important; padding: 10px 22px; border-radius: 8px; font-weight: 700; font-size: 0.9rem; text-decoration: none; }
+    .tg-cta { background: linear-gradient(135deg, rgba(255,60,172,0.12), rgba(123,47,255,0.12)); border: 1px solid rgba(255,60,172,0.25); border-radius: 16px; padding: 24px 28px; margin-bottom: 32px; }
+    .tg-cta h3 { margin-bottom: 8px; font-size: 1.1rem; }
+    .tg-cta p { color: var(--text-sec); font-size: 0.9rem; margin-bottom: 16px; }
+    .tg-btn { display: inline-block; background: linear-gradient(135deg, var(--accent), var(--purple)); color: #fff !important; padding: 11px 24px; border-radius: 999px; font-weight: 700; font-size: 0.9rem; text-decoration: none; }
 
     .disclosure { font-size: 0.72rem; color: #475569; margin-bottom: 24px; }
-    .back-link { font-size: 0.85rem; color: var(--muted); }
+    .back-link { font-size: 0.85rem; color: var(--text-sec); }
+    .loading { text-align: center; color: var(--text-sec); padding: 60px 0; }
 
-    .loading { text-align: center; color: var(--muted); padding: 60px 0; }
-
-    footer { margin-top: 60px; border-top: 1px solid #1e293b; }
-    .footer-inner { max-width: 1200px; margin: 0 auto; padding: 24px; text-align: center; font-size: 0.8rem; color: var(--muted); }
+    footer { margin-top: 60px; border-top: 1px solid var(--border); }
+    .footer-inner { max-width: 1200px; margin: 0 auto; padding: 24px; text-align: center; font-size: 0.8rem; color: var(--text-sec); }
     .disclaimer { font-size: 0.72rem; opacity: 0.5; margin-top: 6px; }
-    a { color: var(--accent); text-decoration: none; }
+    a { color: var(--cyan); text-decoration: none; }
   </style>
 </head>
 <body>
 
-  <div class="nav-stripe">
-    <div class="nav-inner">
-      <a href="/" class="nav-brand">Shopping With <span>Noya</span></a>
-      <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Join Telegram</a>
-    </div>
-  </div>
+  <nav>
+    <a href="/" class="nav-logo">🛍️ Shopping With Noya</a>
+    <div class="nav-spacer"></div>
+    <a href="/blog/" class="nav-link">📝 Blog</a>
+    <a href="https://t.me/shoppingwithnoya" class="nav-tg" target="_blank" rel="noopener">📲 Telegram</a>
+  </nav>
 
   <div class="page-body" id="page-body">
     <div class="loading">Loading deals...</div>
