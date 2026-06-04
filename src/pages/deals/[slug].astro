@@ -19,8 +19,8 @@ const imgUrl = deal.asin
 
 const pageTitle = `${deal.title} — ${deal.discount > 0 ? deal.discount + '% Off ' : ''}Deal | Shopping With Noya`;
 const pageDesc = deal.discount > 0
-  ? `Get ${deal.discount}% off ${deal.title}. ${deal.price ? `Now only ${deal.price}.` : ''} Grab this Amazon deal before it's gone. Follow @shoppingwithnoya for more daily deals.`
-  : `${deal.title}${deal.price ? ` — ${deal.price}` : ''}. Find this and more daily Amazon deals at Shopping With Noya.`;
+  ? `Get ${deal.discount}% off ${deal.title}. ${deal.price ? `Now only ${deal.price}.` : ''} Grab this deal before it's gone. Follow @shoppingwithnoya for more daily deals.`
+  : `${deal.title}${deal.price ? ` — ${deal.price}` : ''}. Find this and more daily deals at Shopping With Noya.`;
 
 const dateFormatted = new Date(deal.ts).toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/New_York'
@@ -48,7 +48,7 @@ const jsonLd = {
     priceCurrency: 'USD',
     ...(deal.price && { price: deal.price.replace(/[^0-9.]/g, '') }),
     availability: 'https://schema.org/InStock',
-    seller: { '@type': 'Organization', name: 'Amazon' },
+    seller: { '@type': 'Organization', name: 'Shopping With Noya' },
   },
 };
 ---
@@ -93,10 +93,19 @@ const jsonLd = {
         <p class="deal-date">Posted {dateFormatted}</p>
 
         <a href={deal.url} class="deal-btn" target="_blank" rel="noopener nofollow">
-          🛒 See this deal on Amazon →
+          🛒 Grab This Deal →
         </a>
 
-        <p class="deal-disclosure">#ad — As an Amazon Associate I earn from qualifying purchases.</p>
+        <!-- Share buttons -->
+        <div class="share-row">
+          <span class="share-label">Share this deal:</span>
+          <a class="share-btn share-fb" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(canonicalUrl)}`} target="_blank" rel="noopener" aria-label="Share on Facebook">👥 Facebook</a>
+          <a class="share-btn share-tg" href={`https://t.me/share/url?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(deal.title.replace(/[^\x00-\x7F]/g, ''))}`} target="_blank" rel="noopener" aria-label="Share on Telegram">✈️ Telegram</a>
+          <a class="share-btn share-tw" href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(('🔥 Check out this deal: ' + deal.title).replace(/[^\x00-\x7F]/g, ''))}`} target="_blank" rel="noopener" aria-label="Share on X">🐦 X</a>
+          <button class="share-btn share-copy" data-url={canonicalUrl} onclick="navigator.clipboard.writeText(this.dataset.url).then(()=>{this.textContent='✅ Copied!';setTimeout(()=>this.textContent='🔗 Copy Link',2000)})" aria-label="Copy link">🔗 Copy Link</button>
+        </div>
+
+        <p class="deal-disclosure">#ad — As an affiliate partner I earn from qualifying purchases.</p>
       </div>
     </div>
 
@@ -155,6 +164,22 @@ const jsonLd = {
   .deal-btn:hover { background: #d97706; text-decoration: none; }
 
   .deal-disclosure { font-size: 0.72rem; color: #475569; }
+
+  .share-row {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+    margin-bottom: 16px;
+  }
+  .share-label { font-size: 0.8rem; color: #64748b; }
+  .share-btn {
+    font-size: 0.78rem; padding: 6px 12px; border-radius: 20px;
+    background: #1e293b; color: #e2e8f0; border: 1px solid #334155;
+    cursor: pointer; text-decoration: none; transition: background 0.15s;
+    font-family: inherit;
+  }
+  .share-btn:hover { background: #334155; text-decoration: none; }
+  .share-fb { border-color: #1877f2; color: #60a5fa; }
+  .share-tg { border-color: #0088cc; color: #60a5fa; }
+  .share-tw { border-color: #1da1f2; color: #60a5fa; }
 
   .tg-cta {
     background: #0c2340; border: 1px solid #0088cc44;
