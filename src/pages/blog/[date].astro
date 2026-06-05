@@ -10,19 +10,58 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { date } = Astro.params;
+
+const canonicalUrl = `https://deals.shoppingwithnoya.com/blog/${date}/`;
+const pageTitle    = `${post.title} — Shopping With Noya`;
+const pageDesc     = post.intro || `Top deals for ${date} — hand-picked savings on electronics, home, beauty and more.`;
+const ogImage      = post.deals?.[0]?.imageUrl || 'https://deals.shoppingwithnoya.com/og-image.jpg';
+const fmtDate      = new Date(date + 'T12:00:00').toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+const dealCount    = post.deals?.length ?? 0;
+
+const jsonLd = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": post.title,
+  "description": pageDesc,
+  "datePublished": date,
+  "dateModified": date,
+  "url": canonicalUrl,
+  "image": ogImage,
+  "author": { "@type": "Organization", "name": "Shopping With Noya", "url": "https://deals.shoppingwithnoya.com" },
+  "publisher": { "@type": "Organization", "name": "Shopping With Noya", "url": "https://deals.shoppingwithnoya.com" },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl }
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title id="page-title">Daily Deals — Shopping With Noya</title>
-  <meta name="description" id="page-desc" content="Hand-picked deals updated daily." />
-  <link rel="canonical" href={`https://deals.shoppingwithnoya.com/blog/${date}/`} />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content={`https://deals.shoppingwithnoya.com/blog/${date}/`} />
-  <meta property="og:site_name" content="Shopping With Noya" />
-  <meta property="og:locale" content="en_US" />
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc} />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:url"         content={canonicalUrl} />
+  <meta property="og:title"       content={pageTitle} />
+  <meta property="og:description" content={pageDesc} />
+  <meta property="og:image"       content={ogImage} />
+  <meta property="og:site_name"   content="Shopping With Noya" />
+  <meta property="og:locale"      content="en_US" />
+  <meta property="article:published_time" content={date} />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:title"       content={pageTitle} />
+  <meta name="twitter:description" content={pageDesc} />
+  <meta name="twitter:image"       content={ogImage} />
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json" set:html={jsonLd} />
+
+  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-T75YM7DVKJ');</script>
   <style is:inline>
@@ -123,9 +162,6 @@ const { date } = Astro.params;
         const data = await res.json();
         const post = (data.posts || []).find(p => p.date === date || p.slug === date);
         if (!post) { body.innerHTML = '<div class="loader">Post not found. <a href="/blog/">Back to blog →</a></div>'; return; }
-
-        document.getElementById('page-title').textContent = post.title + ' — Shopping With Noya';
-        document.getElementById('page-desc').setAttribute('content', post.intro);
 
         const fmtDate = new Date(post.date + 'T12:00:00').toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
         const encUrl  = encodeURIComponent(pageUrl);
