@@ -9,8 +9,7 @@
         "Home & Kitchen",
         "Other",
         "Fashion",
-        "Grocery & Food",
-        "Electronics"
+        "Grocery & Food"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -24,6 +23,17 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/718XMo3-KgL.jpg",
             "url": "https://www.amazon.com/CAROTE-Cookware-Detachable-Induction-Non-Toxic/dp/B0G5PD51QN?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8d751c9434ffdf92945d1d7bef0590dc&language=en_US"
+          },
+          {
+            "asin": "B0FLBNWJL5",
+            "slug": "plastic-storage-containers-clear-craft-storage-bins-with-gre",
+            "title": "Plastic Storage Containers Clear Craft Storage Bins with Grey Handle,Organizer Box with Durable Lids Stackable Container",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71BOmhcaneL.jpg",
+            "url": "https://www.amazon.com/dp/B0FLBNWJL5/ref=cm_sw_r_as_gl_api_gl_i_dl_WV9ZFZXM9H40JQZ9FGNR?linkCode=ml1&tag=noya0b-20&linkId=4bbe439d0d7c8b672b26481af441d030"
           },
           {
             "asin": "B08HYFP96K",
@@ -46,33 +56,31 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71k5O9Mig4L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09ZJYWNWR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0F4MQ1JNY",
-            "slug": "ausalivan-baseball-hat-organizer-rack2-pack-acrylic-baseball",
-            "title": "Ausalivan Baseball Hat Organizer Rack,2 Pack Acrylic Baseball Caps Storage Holder for Closet,Retail Hat Display Stand fo",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51AEW7aZe7L.jpg",
-            "url": "https://www.amazon.com/dp/B0F4MQ1JNY/ref=cm_sw_r_as_gl_api_gl_i_74FZVFVGM88P5CBGNWK3?linkCode=ml1&tag=noya0b-20&linkId=622430e35b119b0d576a3041d9001bba"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0F2M7XQP9",
-            "slug": "heeled-sandals-for-women-pumps-pointed-toe-heels-with-ankle",
-            "title": "Heeled Sandals for Women Pumps Pointed Toe Heels with Ankle Strap Closed Toe High Heels Wedding Party Dress Shoes",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61glD+y4R-L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F2M7XQP9/ref=cm_sw_r_as_gl_api_gl_i_CK0PRJ3W602DBHQFBVQC?linkCode=ml1&tag=noya0b-20&linkId=f669c22d7932ca47161f59305cf9cf87"
           }
         ],
         "Other": [
+          {
+            "asin": "B0DNN27CLT",
+            "slug": "greenpeek-microscope-for-kids-with-2-screen-1000x-portable-p",
+            "title": "GreenPeek Microscope for Kids with 2\" Screen 1000x Portable Pocket Digital Kids Mini Scope, 16GB Card, Kids Educational ",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71cob065cTL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNN27CLT/ref=cm_sw_r_as_gl_api_gl_i_MZDXGQ5H92REZ6RFD2YQ?linkCode=ml1&tag=noya0b-20&linkId=21958dbaac43e52b60476e51f6500ff1"
+          },
+          {
+            "asin": "B0CFZFG6GW",
+            "slug": "hydro-flask-32-oz-travel-tumbler-with-handle-lid-and-straw-i",
+            "title": "Hydro Flask 32 Oz Travel Tumbler with Handle, Lid and Straw - Insulated Stainless Steel in 32 Oz White",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/21MtOQqLa6L.jpg",
+            "url": "https://www.amazon.com/dp/B0CFZFG6GW/ref=cm_sw_r_as_gl_api_gl_i_VSB3XDETGGFW00WK7KDA?linkCode=ml1&tag=noya0b-20&linkId=e7e1e2e67f72c5655b3d1ea6bf9e31b6"
+          },
           {
             "asin": "B0C4T1ZW38",
             "slug": "mister-rui-foam-paint-roller-2-inch-mini-paint-roller-kit-9",
@@ -94,17 +102,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71fbABKKmaL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DYY42F52/ref=cm_sw_r_as_gl_api_gl_i_N39V212ARZ3W9QRPJJ7M?linkCode=ml1&tag=noya0b-20&linkId=83575db95e637236a4ef098b82c03c6b"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B07G7XG6BV",
-            "slug": "holikme-6pack-drill-brush-power-scrubber-cleaning-brush-exte",
-            "title": "Holikme 6Pack Drill Brush Power Scrubber Cleaning Brush Extended Long Attachment Set All Purpose Drill Scrub Brushes Kit",
-            "price": "$8",
+            "asin": "B0F2M7XQP9",
+            "slug": "heeled-sandals-for-women-pumps-pointed-toe-heels-with-ankle",
+            "title": "Heeled Sandals for Women Pumps Pointed Toe Heels with Ankle Strap Closed Toe High Heels Wedding Party Dress Shoes",
+            "price": "$19",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81pU0L9JnAL.jpg",
-            "url": "https://www.amazon.com/dp/B07G7XG6BV/ref=cm_sw_r_as_gl_api_gl_i_WXKHEZ6QGNJRXSDRDY6R?linkCode=ml1&tag=noya0b-20&linkId=bbf47536f19899c0cfceeacca6bd8f3a"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61glD+y4R-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F2M7XQP9/ref=cm_sw_r_as_gl_api_gl_i_CK0PRJ3W602DBHQFBVQC?linkCode=ml1&tag=noya0b-20&linkId=f669c22d7932ca47161f59305cf9cf87"
           }
         ],
         "Grocery & Food": [
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/716sT-j-dHL.jpg",
             "url": "https://www.amazon.com/dp/B0F75RMQ8W/ref=cm_sw_r_as_gl_api_gl_i_dl_HG1AMJK7VTMRZZA09RYV?linkCode=ml1&tag=noya0b-20&linkId=a376b32099dc271b0da063eb8789fd11"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0GFCK5F14",
-            "slug": "open-ear-headphones-bluetooth-wireless-on-ear-earbuds-with-e",
-            "title": "Open Ear Headphones Bluetooth Wireless On Ear Earbuds with Ergonomic Earhook Ear Buds, Led Power Display,48h Playtime，Ip",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61bfUP6N+RL.jpg",
-            "url": "https://www.amazon.com/dp/B0GFCK5F14/ref=cm_sw_r_as_gl_api_gl_i_KAB0GXY6909YB7MCQ7Y2?linkCode=ml1&tag=noya0b-20&linkId=562c00be3a1614cb68af04654d1d6bb6"
-          }
         ]
       },
       "deals": [
@@ -145,6 +142,39 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/718XMo3-KgL.jpg",
           "url": "https://www.amazon.com/CAROTE-Cookware-Detachable-Induction-Non-Toxic/dp/B0G5PD51QN?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8d751c9434ffdf92945d1d7bef0590dc&language=en_US"
+        },
+        {
+          "asin": "B0DNN27CLT",
+          "slug": "greenpeek-microscope-for-kids-with-2-screen-1000x-portable-p",
+          "title": "GreenPeek Microscope for Kids with 2\" Screen 1000x Portable Pocket Digital Kids Mini Scope, 16GB Card, Kids Educational ",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cob065cTL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNN27CLT/ref=cm_sw_r_as_gl_api_gl_i_MZDXGQ5H92REZ6RFD2YQ?linkCode=ml1&tag=noya0b-20&linkId=21958dbaac43e52b60476e51f6500ff1"
+        },
+        {
+          "asin": "B0CFZFG6GW",
+          "slug": "hydro-flask-32-oz-travel-tumbler-with-handle-lid-and-straw-i",
+          "title": "Hydro Flask 32 Oz Travel Tumbler with Handle, Lid and Straw - Insulated Stainless Steel in 32 Oz White",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/21MtOQqLa6L.jpg",
+          "url": "https://www.amazon.com/dp/B0CFZFG6GW/ref=cm_sw_r_as_gl_api_gl_i_VSB3XDETGGFW00WK7KDA?linkCode=ml1&tag=noya0b-20&linkId=e7e1e2e67f72c5655b3d1ea6bf9e31b6"
+        },
+        {
+          "asin": "B0FLBNWJL5",
+          "slug": "plastic-storage-containers-clear-craft-storage-bins-with-gre",
+          "title": "Plastic Storage Containers Clear Craft Storage Bins with Grey Handle,Organizer Box with Durable Lids Stackable Container",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71BOmhcaneL.jpg",
+          "url": "https://www.amazon.com/dp/B0FLBNWJL5/ref=cm_sw_r_as_gl_api_gl_i_dl_WV9ZFZXM9H40JQZ9FGNR?linkCode=ml1&tag=noya0b-20&linkId=4bbe439d0d7c8b672b26481af441d030"
         },
         {
           "asin": "B08HYFP96K",
@@ -211,39 +241,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/716sT-j-dHL.jpg",
           "url": "https://www.amazon.com/dp/B0F75RMQ8W/ref=cm_sw_r_as_gl_api_gl_i_dl_HG1AMJK7VTMRZZA09RYV?linkCode=ml1&tag=noya0b-20&linkId=a376b32099dc271b0da063eb8789fd11"
-        },
-        {
-          "asin": "B07G7XG6BV",
-          "slug": "holikme-6pack-drill-brush-power-scrubber-cleaning-brush-exte",
-          "title": "Holikme 6Pack Drill Brush Power Scrubber Cleaning Brush Extended Long Attachment Set All Purpose Drill Scrub Brushes Kit",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81pU0L9JnAL.jpg",
-          "url": "https://www.amazon.com/dp/B07G7XG6BV/ref=cm_sw_r_as_gl_api_gl_i_WXKHEZ6QGNJRXSDRDY6R?linkCode=ml1&tag=noya0b-20&linkId=bbf47536f19899c0cfceeacca6bd8f3a"
-        },
-        {
-          "asin": "B0GFCK5F14",
-          "slug": "open-ear-headphones-bluetooth-wireless-on-ear-earbuds-with-e",
-          "title": "Open Ear Headphones Bluetooth Wireless On Ear Earbuds with Ergonomic Earhook Ear Buds, Led Power Display,48h Playtime，Ip",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61bfUP6N+RL.jpg",
-          "url": "https://www.amazon.com/dp/B0GFCK5F14/ref=cm_sw_r_as_gl_api_gl_i_KAB0GXY6909YB7MCQ7Y2?linkCode=ml1&tag=noya0b-20&linkId=562c00be3a1614cb68af04654d1d6bb6"
-        },
-        {
-          "asin": "B0F4MQ1JNY",
-          "slug": "ausalivan-baseball-hat-organizer-rack2-pack-acrylic-baseball",
-          "title": "Ausalivan Baseball Hat Organizer Rack,2 Pack Acrylic Baseball Caps Storage Holder for Closet,Retail Hat Display Stand fo",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51AEW7aZe7L.jpg",
-          "url": "https://www.amazon.com/dp/B0F4MQ1JNY/ref=cm_sw_r_as_gl_api_gl_i_74FZVFVGM88P5CBGNWK3?linkCode=ml1&tag=noya0b-20&linkId=622430e35b119b0d576a3041d9001bba"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-09T11:10:00.528Z",
-      "updatedAt": "2026-06-09T11:10:00.528Z"
+      "generatedAt": "2026-06-09T11:20:00.295Z",
+      "updatedAt": "2026-06-09T11:20:00.295Z"
     },
     {
       "date": "2026-06-08",
@@ -778,5 +775,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-09T11:10:00.528Z"
+  "generatedAt": "2026-06-09T11:20:00.296Z"
 }
