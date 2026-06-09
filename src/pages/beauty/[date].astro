@@ -1,36 +1,32 @@
 ---
-import blogData from '../../data/blog-data.json';
+import beautyData from '../../data/beauty-blog-data.json';
 
 export async function getStaticPaths() {
-  return (blogData.posts || []).map(post => ({
+  return (beautyData.posts || []).map(post => ({
     params: { date: post.date },
-    props: { post },
+    props:  { post },
   }));
 }
 
 const { post } = Astro.props;
 const { date } = Astro.params;
 
-const canonicalUrl   = `https://deals.shoppingwithnoya.com/blog/${date}/`;
-const fmtDate        = new Date(date + 'T12:00:00').toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
-const fmtShort       = new Date(date + 'T12:00:00').toLocaleDateString('en-US', { month:'long', day:'numeric', year:'numeric' });
-const pageTitle      = `Best Deals ${fmtShort} — Top ${post.deals?.length ?? 0} Discounts Today | Shopping With Noya`;
-const pageDesc       = post.intro || `Top deals for ${fmtDate} — hand-picked savings on electronics, home, beauty and more. Updated daily.`;
-const ogImage        = post.deals?.[0]?.imageUrl || 'https://deals.shoppingwithnoya.com/og-image.jpg';
-const dealCount      = post.deals?.length ?? 0;
-const deals          = post.deals || [];
-const faq            = post.faq || [];
-const byCategory     = post.byCategory || {};
-const topCategories  = post.categories || [];
+const canonicalUrl  = `https://deals.shoppingwithnoya.com/beauty/${date}/`;
+const fmtDate       = new Date(date + 'T12:00:00').toLocaleDateString('en-US', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+const fmtShort      = new Date(date + 'T12:00:00').toLocaleDateString('en-US', { month:'long', day:'numeric', year:'numeric' });
+const pageTitle     = `Best Beauty Deals ${fmtShort} — Skincare, Makeup & Hair | Shopping With Noya`;
+const pageDesc      = post.intro || `Top beauty deals for ${fmtDate} — hand-picked discounts on skincare, makeup, hair care and more.`;
+const ogImage       = post.deals?.[0]?.imageUrl || 'https://deals.shoppingwithnoya.com/og-image.jpg';
+const deals         = post.deals || [];
+const faq           = post.faq || [];
+const bySubcat      = post.bySubcat || {};
+const subcats       = post.subcats || [];
 
-const CAT_EMOJI = {
-  'Electronics':'📱','Home & Kitchen':'🏠','Beauty':'💄','Fashion':'👗',
-  'Toys & Kids':'🧸','Sports & Fitness':'💪','Health':'💊','Grocery & Food':'🛒',
-  'Pet Supplies':'🐾','Garden & Outdoor':'🌿','Gaming':'🎮','Tools & Hardware':'🔧',
-  'Automotive':'🚗','Personal Care':'🧴','Cleaning Supplies':'🧹','Books & Media':'📚','Other':'🛍️',
+const SUBCAT_EMOJI = {
+  'Skincare':'🧴','Makeup':'💋','Hair Care':'💇','Fragrance':'🌸',
+  'Nails':'💅','Body Care':'🫧','Beauty':'💄',
 };
 
-// JSON-LD: BlogPosting + FAQPage + ItemList
 const jsonLdArticle = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -41,9 +37,9 @@ const jsonLdArticle = JSON.stringify({
   "url": canonicalUrl,
   "image": ogImage,
   "author": { "@type": "Organization", "name": "Shopping With Noya", "url": "https://deals.shoppingwithnoya.com" },
-  "publisher": { "@type": "Organization", "name": "Shopping With Noya", "url": "https://deals.shoppingwithnoya.com", "logo": { "@type": "ImageObject", "url": "https://deals.shoppingwithnoya.com/og-image.jpg" } },
+  "publisher": { "@type": "Organization", "name": "Shopping With Noya", "url": "https://deals.shoppingwithnoya.com" },
   "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
-  "keywords": ["deals today", "best deals", fmtShort, ...topCategories].join(", "),
+  "keywords": ["beauty deals today", "skincare deals", "makeup deals", fmtShort, ...subcats].join(", "),
   "inLanguage": "en-US"
 });
 
@@ -60,7 +56,7 @@ const jsonLdFaq = faq.length > 0 ? JSON.stringify({
 const jsonLdItemList = deals.length > 0 ? JSON.stringify({
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "name": `Best Deals ${fmtShort}`,
+  "name": `Best Beauty Deals ${fmtShort}`,
   "description": pageDesc,
   "numberOfItems": deals.length,
   "itemListElement": deals.map((d, i) => ({
@@ -82,8 +78,6 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
   <meta name="robots" content="index, follow" />
   <meta name="author" content="Shopping With Noya" />
   <link rel="canonical" href={canonicalUrl} />
-
-  <!-- Open Graph -->
   <meta property="og:type"        content="article" />
   <meta property="og:url"         content={canonicalUrl} />
   <meta property="og:title"       content={pageTitle} />
@@ -93,32 +87,21 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
   <meta property="og:locale"      content="en_US" />
   <meta property="article:published_time" content={date} />
   <meta property="article:modified_time"  content={post.updatedAt || date} />
-  <meta property="article:section"        content="Deals" />
-
-  <!-- Twitter / X -->
+  <meta property="article:section"        content="Beauty" />
   <meta name="twitter:card"        content="summary_large_image" />
   <meta name="twitter:title"       content={pageTitle} />
   <meta name="twitter:description" content={pageDesc} />
   <meta name="twitter:image"       content={ogImage} />
-
-  <!-- JSON-LD: BlogPosting -->
   <script type="application/ld+json" set:html={jsonLdArticle} />
-  <!-- JSON-LD: FAQPage (AEO — AI engines cite FAQ schema) -->
   {jsonLdFaq && <script type="application/ld+json" set:html={jsonLdFaq} />}
-  <!-- JSON-LD: ItemList (helps AI understand deal list structure) -->
   {jsonLdItemList && <script type="application/ld+json" set:html={jsonLdItemList} />}
-
-  <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-T75YM7DVKJ');</script>
-
   <style is:inline>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     :root{--bg:#0a0a0f;--surface:#13131a;--surface2:#1c1c26;--text:#f0f0f5;--muted:#8888a0;--accent:#ff3cac;--purple:#7b2fff;--cyan:#00d4ff;--border:rgba(255,255,255,0.07)}
     html{background:var(--bg);color:var(--text);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;line-height:1.6}
     a{color:inherit;text-decoration:none}
-
-    /* NAV */
     .site-nav{position:sticky;top:0;z-index:100;display:flex;align-items:center;gap:10px;padding:0 20px;height:54px;background:rgba(10,10,15,0.9);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border-bottom:1px solid var(--border)}
     .nav-brand{font-size:1rem;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--purple),var(--cyan));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;flex-shrink:0}
     .nav-gap{flex:1}
@@ -126,60 +109,40 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
     .nav-pill:hover{color:var(--text);background:var(--surface2)}
     .nav-cta{font-size:0.72rem;font-weight:700;padding:5px 13px;border-radius:999px;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff;white-space:nowrap}
     .nav-cta:hover{opacity:0.88}
-
-    /* PAGE LAYOUT */
     .wrap{max-width:1100px;margin:0 auto;padding:28px 20px 80px}
-
-    /* BREADCRUMB */
     .crumb{font-size:0.72rem;color:var(--muted);margin-bottom:18px}
     .crumb a{color:var(--muted)}
     .crumb a:hover{color:var(--text)}
-
-    /* HEADER */
     .post-h1{font-size:1.7rem;font-weight:800;line-height:1.25;margin-bottom:8px}
     .post-meta{font-size:0.78rem;color:var(--muted);margin-bottom:4px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
     .meta-badge{background:var(--surface2);border:1px solid var(--border);border-radius:20px;padding:2px 10px;font-size:0.7rem;color:var(--muted)}
     .post-updated{font-size:0.7rem;color:var(--muted);margin-bottom:14px}
-
-    /* INTRO — AEO: direct answer paragraph */
     .post-intro{font-size:0.92rem;color:#94a3b8;line-height:1.7;margin-bottom:24px;padding:14px 16px;background:var(--surface);border-left:3px solid var(--accent);border-radius:0 10px 10px 0}
-
-    /* SHARE BAR */
     .share-bar{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-bottom:32px;padding:10px 14px;background:var(--surface);border:1px solid var(--border);border-radius:12px}
     .share-lbl{font-size:0.72rem;color:var(--muted);font-weight:600;margin-right:2px}
-    .share-btn{font-size:0.72rem;font-weight:500;padding:5px 12px;border-radius:20px;background:var(--surface2);color:var(--text);border:1px solid var(--border);cursor:pointer;font-family:inherit;transition:border-color .15s;text-decoration:none;display:inline-block}
+    .share-btn{font-size:0.72rem;font-weight:500;padding:5px 12px;border-radius:20px;background:var(--surface2);color:var(--text);border:1px solid var(--border);text-decoration:none;display:inline-block;transition:border-color .15s}
     .share-btn:hover{border-color:var(--accent)}
-
-    /* CATEGORY SECTION */
     .cat-section{margin-bottom:36px}
     .cat-h2{font-size:1.15rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px;padding-bottom:10px;border-bottom:1px solid var(--border)}
-
-    /* DEAL GRID */
-    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-bottom:8px}
+    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
     @media(min-width:600px){.grid{grid-template-columns:repeat(3,1fr)}}
     @media(min-width:900px){.grid{grid-template-columns:repeat(4,1fr)}}
-
-    /* DEAL CARD */
     .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s,border-color .15s,box-shadow .15s;text-decoration:none;color:var(--text)}
     .card:hover{transform:translateY(-3px);border-color:rgba(255,60,172,0.3);box-shadow:0 8px 32px rgba(255,60,172,0.1)}
     .card-img-box{position:relative;width:100%;padding-top:85%;background:#fff;overflow:hidden}
     .card-img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10px}
     .card-img-ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:2rem;background:var(--surface2)}
-    .card-badge{position:absolute;top:7px;left:7px;font-size:0.6rem;font-weight:700;padding:2px 7px;border-radius:20px;background:linear-gradient(135deg,#ef4444,#b91c1c);color:#fff;white-space:nowrap;box-shadow:0 2px 6px rgba(239,68,68,0.4)}
+    .card-badge{position:absolute;top:7px;left:7px;font-size:0.6rem;font-weight:700;padding:2px 7px;border-radius:20px;background:linear-gradient(135deg,#ef4444,#b91c1c);color:#fff;white-space:nowrap}
     .card-body{padding:10px 12px 6px;flex:1;display:flex;flex-direction:column;gap:5px}
     .card-title{font-size:0.75rem;font-weight:600;line-height:1.35;color:var(--text);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
     .card-price{font-size:0.78rem;font-weight:700;color:var(--accent)}
-    .card-cat{font-size:0.6rem;padding:2px 7px;border-radius:20px;background:rgba(123,47,255,0.15);color:#a78bfa;border:1px solid rgba(123,47,255,0.25);display:inline-block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+    .card-subcat{font-size:0.6rem;padding:2px 7px;border-radius:20px;background:rgba(255,60,172,0.12);color:#f9a8d4;border:1px solid rgba(255,60,172,0.25);display:inline-block;white-space:nowrap}
     .card-btn{display:block;text-align:center;margin:6px 10px 10px;padding:7px 4px;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff;border-radius:8px;font-size:0.68rem;font-weight:700;transition:opacity .2s}
     .card-btn:hover{opacity:0.85}
-
-    /* CTA BOX */
     .tg-box{background:linear-gradient(135deg,rgba(255,60,172,0.08),rgba(123,47,255,0.08));border:1px solid rgba(255,60,172,0.18);border-radius:16px;padding:24px;margin-bottom:32px}
     .tg-box h3{font-size:1.05rem;margin-bottom:8px;font-weight:700}
     .tg-box p{font-size:0.85rem;color:var(--muted);margin-bottom:16px;line-height:1.6}
     .tg-btn{display:inline-block;padding:10px 22px;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff;border-radius:999px;font-weight:700;font-size:0.85rem}
-
-    /* FAQ — AEO: structured Q&A for AI citation */
     .faq-section{margin-bottom:36px}
     .faq-h2{font-size:1.15rem;font-weight:700;margin-bottom:20px;padding-bottom:10px;border-bottom:1px solid var(--border)}
     .faq-item{margin-bottom:18px;background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden}
@@ -189,20 +152,14 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
     .faq-a{font-size:0.83rem;color:var(--muted);padding:0 16px 14px;line-height:1.7;display:none}
     .faq-item.open .faq-a{display:block}
     .faq-item.open .faq-icon{transform:rotate(180deg)}
-
-    /* RELATED POSTS */
     .related-section{margin-bottom:36px}
     .related-h2{font-size:1.05rem;font-weight:700;margin-bottom:14px}
     .related-list{display:flex;flex-direction:column;gap:8px}
     .related-link{font-size:0.82rem;color:var(--cyan);display:flex;align-items:center;gap:6px;padding:8px 12px;background:var(--surface);border:1px solid var(--border);border-radius:8px}
     .related-link:hover{border-color:var(--accent)}
-
-    /* DISCLOSURE */
     .disc{font-size:0.68rem;color:#4b5563;margin-bottom:20px;line-height:1.5}
     .back{font-size:0.82rem;color:var(--muted)}
     .back:hover{color:var(--text)}
-
-    /* FOOTER */
     .site-footer{border-top:1px solid var(--border);padding:22px 20px;text-align:center;font-size:0.75rem;color:var(--muted)}
     .site-footer a{color:var(--muted)}
     .site-footer a:hover{color:var(--text)}
@@ -210,38 +167,33 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
   </style>
 </head>
 <body>
-
   <nav class="site-nav">
     <a href="/" class="nav-brand">🛍️ Shopping With Noya</a>
     <div class="nav-gap"></div>
     <a href="/" class="nav-pill">All Deals</a>
     <a href="/blog/" class="nav-pill">Blog</a>
+    <a href="/beauty/" class="nav-pill">💄 Beauty</a>
     <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Telegram</a>
   </nav>
 
   <main class="wrap">
-
-    <!-- BREADCRUMB (SEO + AEO: helps AI understand page hierarchy) -->
     <nav class="crumb" aria-label="Breadcrumb">
-      <a href="/">Home</a> › <a href="/blog/">Deal Blog</a> › {fmtShort}
+      <a href="/">Home</a> › <a href="/beauty/">Beauty Deals</a> › {fmtShort}
     </nav>
 
-    <!-- H1 — exactly one per page -->
     <h1 class="post-h1">{post.title}</h1>
-
     <div class="post-meta">
       <time datetime={date}>{fmtDate}</time>
-      <span class="meta-badge">📦 {dealCount} deals</span>
-      {topCategories.slice(0,3).map(cat => (
-        <span class="meta-badge">{CAT_EMOJI[cat] || '🛍️'} {cat}</span>
+      <span class="meta-badge">💄 {deals.length} beauty deals</span>
+      {subcats.slice(0,3).map(s => (
+        <span class="meta-badge">{SUBCAT_EMOJI[s] || '💄'} {s}</span>
       ))}
     </div>
     <p class="post-updated">Last updated: {new Date(post.updatedAt || post.generatedAt).toLocaleString('en-US', { month:'long', day:'numeric', year:'numeric', hour:'numeric', minute:'2-digit', timeZone:'America/New_York' })} ET</p>
 
-    <!-- INTRO — AEO: direct answer in first paragraph (40-60 words, keyword-rich) -->
+    <!-- AEO: answer-first intro -->
     <p class="post-intro">{post.intro}</p>
 
-    <!-- SHARE BAR -->
     <div class="share-bar">
       <span class="share-lbl">Share:</span>
       <a class="share-btn" href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(canonicalUrl)}`} target="_blank" rel="noopener noreferrer">📘 Facebook</a>
@@ -249,30 +201,30 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
       <a class="share-btn" href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(post.title)}`} target="_blank" rel="noopener noreferrer">🐦 X</a>
     </div>
 
-    <!-- DEALS — grouped by category with H2 headings (SEO + AEO structure) -->
-    {topCategories.map(cat => {
-      const catDeals = byCategory[cat] || [];
-      if (catDeals.length === 0) return null;
-      const emoji = CAT_EMOJI[cat] || '🛍️';
+    <!-- Deals grouped by subcategory with H2s -->
+    {subcats.map(sub => {
+      const subDeals = bySubcat[sub] || [];
+      if (subDeals.length === 0) return null;
+      const emoji = SUBCAT_EMOJI[sub] || '💄';
       return (
-        <section class="cat-section" aria-labelledby={`cat-${cat.replace(/\s+/g,'-').toLowerCase()}`}>
-          <h2 class="cat-h2" id={`cat-${cat.replace(/\s+/g,'-').toLowerCase()}`}>
-            {emoji} Best {cat} Deals Today
+        <section class="cat-section" aria-labelledby={`sub-${sub.replace(/\s+/g,'-').toLowerCase()}`}>
+          <h2 class="cat-h2" id={`sub-${sub.replace(/\s+/g,'-').toLowerCase()}`}>
+            {emoji} Best {sub} Deals Today
           </h2>
           <div class="grid">
-            {catDeals.map(d => (
+            {subDeals.map(d => (
               <a href={d.url} class="card" target="_blank" rel="noopener noreferrer sponsored">
                 <div class="card-img-box">
                   {d.imageUrl
-                    ? <img class="card-img" src={d.imageUrl} alt={`${d.title} — deal on Shopping With Noya`} loading="lazy" width="300" height="255" />
-                    : <div class="card-img-ph" role="img" aria-label="Product image placeholder">📦</div>
+                    ? <img class="card-img" src={d.imageUrl} alt={`${d.title} — beauty deal on Shopping With Noya`} loading="lazy" width="300" height="255" />
+                    : <div class="card-img-ph" role="img" aria-label="Beauty product image">💄</div>
                   }
                   {d.discount > 0 && <span class="card-badge">🔥 {d.discount}% OFF</span>}
                 </div>
                 <div class="card-body">
                   <h3 class="card-title">{d.title}</h3>
                   {d.price && <span class="card-price">{d.price}</span>}
-                  {d.category && d.category !== 'Other' && <span class="card-cat">{d.category}</span>}
+                  <span class="card-subcat">{SUBCAT_EMOJI[d.subcat] || '💄'} {d.subcat}</span>
                 </div>
                 <span class="card-btn">View Deal →</span>
               </a>
@@ -282,79 +234,61 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
       );
     })}
 
-    <!-- TELEGRAM CTA -->
     <div class="tg-box">
-      <h3>🔔 Never miss a deal!</h3>
-      <p>Join our free Telegram channel — deals delivered instantly, updated every 2 minutes, before they sell out.</p>
+      <h3>💄 Get Beauty Deals First!</h3>
+      <p>Join our free Telegram channel for instant beauty deal alerts — skincare, makeup, hair care and more delivered to your phone before they sell out.</p>
       <a href="https://t.me/shoppingwithnoya" class="tg-btn" target="_blank" rel="noopener noreferrer">📲 Join Free → @shoppingwithnoya</a>
     </div>
 
-    <!-- FAQ SECTION — AEO: FAQPage schema + Q&A format for AI citation -->
     {faq.length > 0 && (
       <section class="faq-section" aria-labelledby="faq-heading">
         <h2 class="faq-h2" id="faq-heading">❓ Frequently Asked Questions</h2>
         {faq.map((item, i) => (
           <div class="faq-item" id={`faq-${i}`}>
             <div class="faq-q" role="button" tabindex="0" aria-expanded="false" aria-controls={`faq-ans-${i}`}>
-              <span>{item.q}</span>
-              <span class="faq-icon">▼</span>
+              <span>{item.q}</span><span class="faq-icon">▼</span>
             </div>
-            <div class="faq-a" id={`faq-ans-${i}`} role="region">{item.a}</div>
+            <div class="faq-a" id={`faq-ans-${i}`}>{item.a}</div>
           </div>
         ))}
       </section>
     )}
 
-    <!-- RELATED POSTS (internal linking — SEO) -->
-    {blogData.posts && blogData.posts.filter(p => p.date !== date).length > 0 && (
+    {beautyData.posts && beautyData.posts.filter(p => p.date !== date).length > 0 && (
       <section class="related-section" aria-labelledby="related-heading">
-        <h2 class="related-h2" id="related-heading">📅 More Daily Deal Roundups</h2>
+        <h2 class="related-h2" id="related-heading">📅 More Beauty Deal Roundups</h2>
         <div class="related-list">
-          {blogData.posts.filter(p => p.date !== date).slice(0, 5).map(p => (
-            <a href={`/blog/${p.date}/`} class="related-link">
-              🔥 {p.title}
+          {beautyData.posts.filter(p => p.date !== date).slice(0, 5).map(p => (
+            <a href={`/beauty/${p.date}/`} class="related-link">
+              💄 {p.title}
             </a>
           ))}
         </div>
       </section>
     )}
 
-    <!-- DISCLOSURE -->
-    <p class="disc">
-      #ad — Shopping With Noya participates in affiliate programs. As an Amazon Associate and affiliate partner, we earn from qualifying purchases at no extra cost to you. Prices and availability may change — check the link for current pricing.
-    </p>
-
-    <a href="/blog/" class="back">← Back to all deal roundups</a>
-
+    <p class="disc">#ad — Shopping With Noya participates in affiliate programs. As an Amazon Associate and affiliate partner, we earn from qualifying purchases at no extra cost to you. Prices may change — check the link for current pricing.</p>
+    <a href="/beauty/" class="back">← Back to all beauty deals</a>
   </main>
 
   <footer class="site-footer">
+    <a href="/beauty/">Beauty Deals</a> &nbsp;·&nbsp;
     <a href="/blog/">Deal Blog</a> &nbsp;·&nbsp;
     <a href="/">All Deals</a> &nbsp;·&nbsp;
     <a href="https://t.me/shoppingwithnoya" target="_blank" rel="noopener">📲 Telegram</a>
     <p class="foot-disc">#ad — As an Amazon Associate and affiliate partner I earn from qualifying purchases.</p>
   </footer>
 
-  <!-- FAQ accordion JS (progressive enhancement only — content is crawlable without JS) -->
   <script>
     document.querySelectorAll('.faq-q').forEach(btn => {
       btn.addEventListener('click', () => {
         const item = btn.closest('.faq-item');
         const isOpen = item.classList.contains('open');
-        document.querySelectorAll('.faq-item.open').forEach(el => {
-          el.classList.remove('open');
-          el.querySelector('.faq-q').setAttribute('aria-expanded', 'false');
-        });
-        if (!isOpen) {
-          item.classList.add('open');
-          btn.setAttribute('aria-expanded', 'true');
-        }
+        document.querySelectorAll('.faq-item.open').forEach(el => { el.classList.remove('open'); el.querySelector('.faq-q').setAttribute('aria-expanded','false'); });
+        if (!isOpen) { item.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
       });
-      btn.addEventListener('keydown', e => {
-        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); btn.click(); }
-      });
+      btn.addEventListener('keydown', e => { if (e.key==='Enter'||e.key===' '){e.preventDefault();btn.click();} });
     });
   </script>
-
 </body>
 </html>
