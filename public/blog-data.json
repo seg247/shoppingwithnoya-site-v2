@@ -9,10 +9,8 @@
         "Home & Kitchen",
         "Fashion",
         "Grocery & Food",
-        "Tools & Hardware",
-        "Toys & Kids",
         "Other",
-        "Beauty"
+        "Tools & Hardware"
       ],
       "byCategory": {
         "Fashion": [
@@ -50,6 +48,17 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71dcUWFmmJL.jpg",
             "url": "https://www.amazon.com/dp/B087K1WVC3?th=1&linkCode=sl2&tag=noya0b-20&linkId=b799ea139d1d4a73553337b2c9e356a0&language=en_US"
+          },
+          {
+            "asin": "B0G3YMQ9SS",
+            "slug": "kind-breakfast-protein-bars-variety-pack-gluten-free-low-sod",
+            "title": "KIND Breakfast Protein Bars Variety Pack, Gluten Free, Low Sodium, Healthy Snacks, Peanut Butter, Honey Oat, Almond Butt",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VodDO307L.jpg",
+            "url": "https://www.amazon.com/dp/B0G3YMQ9SS?ie=UTF8&ascsubtag=008254ec642111f19cb4b26d5796044f0INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=67a23ab34a0d3d94cb3b8e923d7c9c89&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -87,6 +96,30 @@
             "url": "https://www.amazon.com/dp/B0G18QKTGY?th=1&linkCode=sl2&tag=noya0b-20&linkId=9af26f0e91f91f8606114a67fcffe3f9&language=en_US"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0FJQNQJ8D",
+            "slug": "metal-detector-for-kids-intuitive-color-lcd-display-67-glowi",
+            "title": "Metal Detector for Kids, Intuitive Color LCD Display, 6.7” Glowing LED Coil, Kid-Safe Lightweight with Adjustable Handle",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ucukB0nYL.jpg",
+            "url": "https://www.amazon.com/dp/B0FJQNQJ8D?m=A2S36SCZ1VQFU5&th=1&campaignId=amzn1.campaign.2E6SHDOJTTMAY&ascsubtag=srctok-5cffe563bdd1e299&btn_ref=srctok-5cffe563bdd1e299&linkCode=sl2&tag=noya0b-20&linkId=ef1bb2f2a2a087a692f835a71d8991f2&language=en_US"
+          },
+          {
+            "asin": "B0FRNS1XZ3",
+            "slug": "glad-everyday-clear-plastic-cups-with-fall-leaf-print-sturdy",
+            "title": "Glad Everyday Clear Plastic Cups with Fall Leaf Print - Sturdy Disposable Drinking Cups for Parties, Picnics, and Everyd",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81h7imr18KL.jpg",
+            "url": "https://www.amazon.com/dp/B0FRNS1XZ3?th=1&linkCode=sl2&tag=noya0b-20&linkId=b0bfd0ab056fdf71d285d4af6ddec18f&language=en_US"
+          }
+        ],
         "Tools & Hardware": [
           {
             "asin": "B00U0P0GHM",
@@ -98,45 +131,6 @@
             "category": "Tools & Hardware",
             "imageUrl": "https://m.media-amazon.com/images/I/11xqTV3F68L.jpg",
             "url": "https://www.amazon.com/dp/B00U0P0GHM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0CNTW2667",
-            "slug": "disney-junior-ariel-deluxe-atlantica-palace-playset-and-4-in",
-            "title": "Disney Junior Ariel Deluxe Atlantica Palace Playset and 4-inch Figures, Lights and Sounds, 22-pieces, Bonus Pieces, Kids",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81-T5Q-QLHL.jpg",
-            "url": "https://www.amazon.com/dp/B0CNTW2667?psc=1&linkCode=sl2&tag=noya0b-20&linkId=119accb691b38b38e3fea995dd17df73&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B01ABWAP7Y",
-            "slug": "bell-rally-child-helmet-blue-fins-sports-outdoors",
-            "title": "Bell Rally Child Helmet, Blue Fins : Sports & Outdoors",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61MYBNYN2CL.jpg",
-            "url": "https://www.amazon.com/dp/B01ABWAP7Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=3c4798c4906b0d8b7e9416be7999cd93&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00EO23OKI",
-            "slug": "mitchum-mens-triple-odor-protection-antiperspirant-deodorant",
-            "title": "Mitchum Men’s Triple Odor Protection Antiperspirant & Deodorant Gel, Unscented, 48HR Protection, 2 pack",
-            "price": "$6.29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YqLxJOHEL.jpg",
-            "url": "https://www.amazon.com/dp/B00EO23OKI?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
@@ -186,6 +180,39 @@
           "url": "https://www.amazon.com/dp/B0F7RC3W2M?th=1&linkCode=sl2&tag=noya0b-20&linkId=5c5f3ef64805c9db2ea71ed079dd501c&language=en_US"
         },
         {
+          "asin": "B0FJQNQJ8D",
+          "slug": "metal-detector-for-kids-intuitive-color-lcd-display-67-glowi",
+          "title": "Metal Detector for Kids, Intuitive Color LCD Display, 6.7” Glowing LED Coil, Kid-Safe Lightweight with Adjustable Handle",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ucukB0nYL.jpg",
+          "url": "https://www.amazon.com/dp/B0FJQNQJ8D?m=A2S36SCZ1VQFU5&th=1&campaignId=amzn1.campaign.2E6SHDOJTTMAY&ascsubtag=srctok-5cffe563bdd1e299&btn_ref=srctok-5cffe563bdd1e299&linkCode=sl2&tag=noya0b-20&linkId=ef1bb2f2a2a087a692f835a71d8991f2&language=en_US"
+        },
+        {
+          "asin": "B0FRNS1XZ3",
+          "slug": "glad-everyday-clear-plastic-cups-with-fall-leaf-print-sturdy",
+          "title": "Glad Everyday Clear Plastic Cups with Fall Leaf Print - Sturdy Disposable Drinking Cups for Parties, Picnics, and Everyd",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81h7imr18KL.jpg",
+          "url": "https://www.amazon.com/dp/B0FRNS1XZ3?th=1&linkCode=sl2&tag=noya0b-20&linkId=b0bfd0ab056fdf71d285d4af6ddec18f&language=en_US"
+        },
+        {
+          "asin": "B0G3YMQ9SS",
+          "slug": "kind-breakfast-protein-bars-variety-pack-gluten-free-low-sod",
+          "title": "KIND Breakfast Protein Bars Variety Pack, Gluten Free, Low Sodium, Healthy Snacks, Peanut Butter, Honey Oat, Almond Butt",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VodDO307L.jpg",
+          "url": "https://www.amazon.com/dp/B0G3YMQ9SS?ie=UTF8&ascsubtag=008254ec642111f19cb4b26d5796044f0INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=67a23ab34a0d3d94cb3b8e923d7c9c89&language=en_US"
+        },
+        {
           "asin": "B00U0P0GHM",
           "slug": "dewalt-mechanics-tools-kit-and-socket-set-14-38-drive-sae-10",
           "title": "DEWALT Mechanics Tools Kit and Socket Set, 1/4\" & 3/8\" Drive, SAE, 108-Piece (DWMT73801)",
@@ -217,39 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61NYuZxuKHL.jpg",
           "url": "https://www.amazon.com/dp/B0G18QKTGY?th=1&linkCode=sl2&tag=noya0b-20&linkId=9af26f0e91f91f8606114a67fcffe3f9&language=en_US"
-        },
-        {
-          "asin": "B0CNTW2667",
-          "slug": "disney-junior-ariel-deluxe-atlantica-palace-playset-and-4-in",
-          "title": "Disney Junior Ariel Deluxe Atlantica Palace Playset and 4-inch Figures, Lights and Sounds, 22-pieces, Bonus Pieces, Kids",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81-T5Q-QLHL.jpg",
-          "url": "https://www.amazon.com/dp/B0CNTW2667?psc=1&linkCode=sl2&tag=noya0b-20&linkId=119accb691b38b38e3fea995dd17df73&language=en_US"
-        },
-        {
-          "asin": "B01ABWAP7Y",
-          "slug": "bell-rally-child-helmet-blue-fins-sports-outdoors",
-          "title": "Bell Rally Child Helmet, Blue Fins : Sports & Outdoors",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61MYBNYN2CL.jpg",
-          "url": "https://www.amazon.com/dp/B01ABWAP7Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=3c4798c4906b0d8b7e9416be7999cd93&language=en_US"
-        },
-        {
-          "asin": "B00EO23OKI",
-          "slug": "mitchum-mens-triple-odor-protection-antiperspirant-deodorant",
-          "title": "Mitchum Men’s Triple Odor Protection Antiperspirant & Deodorant Gel, Unscented, 48HR Protection, 2 pack",
-          "price": "$6.29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61YqLxJOHEL.jpg",
-          "url": "https://www.amazon.com/dp/B00EO23OKI?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-09T16:40:00.314Z",
-      "updatedAt": "2026-06-09T16:40:00.314Z"
+      "generatedAt": "2026-06-09T16:50:02.011Z",
+      "updatedAt": "2026-06-09T16:50:02.011Z"
     },
     {
       "date": "2026-06-08",
@@ -784,5 +778,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-09T16:40:00.315Z"
+  "generatedAt": "2026-06-09T16:50:02.011Z"
 }
