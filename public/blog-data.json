@@ -10,8 +10,9 @@
         "Grocery & Food",
         "Health",
         "Home & Kitchen",
-        "Sports & Fitness",
-        "Fashion"
+        "Tools & Hardware",
+        "Toys & Kids",
+        "Sports & Fitness"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -25,6 +26,32 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/718XMo3-KgL.jpg",
             "url": "https://www.amazon.com/CAROTE-Cookware-Detachable-Induction-Non-Toxic/dp/B0G5PD51QN?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8d751c9434ffdf92945d1d7bef0590dc&language=en_US"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0FH25H6HD",
+            "slug": "blue-tool-set-tool-bag-with-shoulder-strapbasic-tool-kit-21",
+            "title": "Blue Tool Set | Tool Bag with Shoulder Strap|Basic Tool Kit | 21-Piece Basic Household Hand Tool Kit | Home Repair Tool ",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+            "url": "https://www.amazon.com/dp/B0FH25H6HD/ref=cm_sw_r_as_gl_apa_gl_i_dl_PTAVZ6A5C0KF2RTM5RS8?linkCode=ml1&tag=noya0b-20&linkId=e04739081fb5a1a0aa45b95ee8e2837a"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0D6446BFW",
+            "slug": "disney-cudlie-diaper-tote-bag-for-moms-large-spacious-travel",
+            "title": "Disney Cudlie Diaper Tote Bag for Moms | Large Spacious Travel Diaper Tote for Baby Boy and Girl | 17-Inches Wide Multi-",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71lCeen3yeL.jpg",
+            "url": "https://www.amazon.com/dp/B0D6446BFW/ref=cm_sw_r_as_gl_apa_gl_i_DEER011DBMP4HVTRFBYT?linkCode=ml1&tag=noya0b-20&linkId=0426f79af205176547e8fd64fdec494d"
           }
         ],
         "Other": [
@@ -49,17 +76,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
             "url": "https://www.amazon.com/dp/0544445783/ref=cm_sw_r_as_gl_apa_gl_i_dl_V4PRTZYBE24PDA4W5SC2?linkCode=ml1&tag=noya0b-20&linkId=2baf498cf55eb7ed108bf574633d062e"
-          },
-          {
-            "asin": "B0FFMJR2TR",
-            "slug": "apasiri-cat-bed-cave-for-indoor-cats-new-felt-cat-bed-with-f",
-            "title": "Apasiri Cat Bed Cave for Indoor Cats: New Felt Cat Bed with Fluffy Ball Hanging, Foldable Cat House with Scratch-Resista",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lOxlmI3QL.jpg",
-            "url": "https://www.amazon.com/dp/B0FFMJR2TR/ref=cm_sw_r_as_gl_apa_gl_i_EAJPAK9MJP6C5CQAYNT4?linkCode=ml1&tag=noya0b-20&linkId=75a9f99506c34bd54305a5b87f506a22"
           }
         ],
         "Grocery & Food": [
@@ -122,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71ocu8axAbL.jpg",
             "url": "https://www.amazon.com/dp/B0013HOU28/ref=cm_sw_r_as_gl_apa_gl_i_HA91NZXQJHM37MX2TYK0?linkCode=ml1&tag=noya0b-20&linkId=54971849c520e3128a15246358b849e9"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GHZV3KGV",
-            "slug": "michael-kors-womens-laila-medium-satchel-silver-tone-hardwar",
-            "title": "Michael Kors Women's Laila Medium Satchel, Silver-Tone Hardware/Leather, Optic White : Clothing, Shoes & Jewelry",
-            "price": "$179",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/712LZNsmkNL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GHZV3KGV/ref=cm_sw_r_as_gl_apa_gl_i_ZXN0JMJKD32128BWMY6E?linkCode=ml1&tag=noya0b-20&linkId=1a54e5af594d28759b2280374250a59d"
-          }
         ]
       },
       "deals": [
@@ -148,6 +151,28 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/718XMo3-KgL.jpg",
           "url": "https://www.amazon.com/CAROTE-Cookware-Detachable-Induction-Non-Toxic/dp/B0G5PD51QN?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8d751c9434ffdf92945d1d7bef0590dc&language=en_US"
+        },
+        {
+          "asin": "B0FH25H6HD",
+          "slug": "blue-tool-set-tool-bag-with-shoulder-strapbasic-tool-kit-21",
+          "title": "Blue Tool Set | Tool Bag with Shoulder Strap|Basic Tool Kit | 21-Piece Basic Household Hand Tool Kit | Home Repair Tool ",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+          "url": "https://www.amazon.com/dp/B0FH25H6HD/ref=cm_sw_r_as_gl_apa_gl_i_dl_PTAVZ6A5C0KF2RTM5RS8?linkCode=ml1&tag=noya0b-20&linkId=e04739081fb5a1a0aa45b95ee8e2837a"
+        },
+        {
+          "asin": "B0D6446BFW",
+          "slug": "disney-cudlie-diaper-tote-bag-for-moms-large-spacious-travel",
+          "title": "Disney Cudlie Diaper Tote Bag for Moms | Large Spacious Travel Diaper Tote for Baby Boy and Girl | 17-Inches Wide Multi-",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71lCeen3yeL.jpg",
+          "url": "https://www.amazon.com/dp/B0D6446BFW/ref=cm_sw_r_as_gl_apa_gl_i_DEER011DBMP4HVTRFBYT?linkCode=ml1&tag=noya0b-20&linkId=0426f79af205176547e8fd64fdec494d"
         },
         {
           "asin": "0544445783",
@@ -225,28 +250,6 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71ocu8axAbL.jpg",
           "url": "https://www.amazon.com/dp/B0013HOU28/ref=cm_sw_r_as_gl_apa_gl_i_HA91NZXQJHM37MX2TYK0?linkCode=ml1&tag=noya0b-20&linkId=54971849c520e3128a15246358b849e9"
-        },
-        {
-          "asin": "B0GHZV3KGV",
-          "slug": "michael-kors-womens-laila-medium-satchel-silver-tone-hardwar",
-          "title": "Michael Kors Women's Laila Medium Satchel, Silver-Tone Hardware/Leather, Optic White : Clothing, Shoes & Jewelry",
-          "price": "$179",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/712LZNsmkNL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GHZV3KGV/ref=cm_sw_r_as_gl_apa_gl_i_ZXN0JMJKD32128BWMY6E?linkCode=ml1&tag=noya0b-20&linkId=1a54e5af594d28759b2280374250a59d"
-        },
-        {
-          "asin": "B0FFMJR2TR",
-          "slug": "apasiri-cat-bed-cave-for-indoor-cats-new-felt-cat-bed-with-f",
-          "title": "Apasiri Cat Bed Cave for Indoor Cats: New Felt Cat Bed with Fluffy Ball Hanging, Foldable Cat House with Scratch-Resista",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lOxlmI3QL.jpg",
-          "url": "https://www.amazon.com/dp/B0FFMJR2TR/ref=cm_sw_r_as_gl_apa_gl_i_EAJPAK9MJP6C5CQAYNT4?linkCode=ml1&tag=noya0b-20&linkId=75a9f99506c34bd54305a5b87f506a22"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-09T05:50:02.031Z",
-      "updatedAt": "2026-06-09T05:50:02.031Z"
+      "generatedAt": "2026-06-09T06:00:00.694Z",
+      "updatedAt": "2026-06-09T06:00:00.694Z"
     },
     {
       "date": "2026-06-08",
@@ -781,5 +784,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-09T05:50:02.031Z"
+  "generatedAt": "2026-06-09T06:00:00.694Z"
 }
