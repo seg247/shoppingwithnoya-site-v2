@@ -11,8 +11,7 @@
         "Fashion",
         "Personal Care",
         "Cleaning Supplies",
-        "Toys & Kids",
-        "Health"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -64,6 +63,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B0FY491LBL",
+            "slug": "stranger-things-5-soundtrack-from-the-netflix-series-cds-vin",
+            "title": "Stranger Things 5 (Soundtrack from the Netflix Series): CDs & Vinyl",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+            "url": "https://www.amazon.com/dp/B0FY491LBL?ie=UTF8&ascsubtag=5727b26063ae11f1a33bbacfe5143c670INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e671ea065f979f71ce7912621d526dba&language=en_US"
+          },
           {
             "asin": "B0BHLDRS2S",
             "slug": "revlon-colorstay-micro-eyebrow-pencil-with-built-in-spoolie",
@@ -125,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/716J5ytlEPL.jpg",
             "url": "https://www.amazon.com/dp/B0DLLN713X?ascsubtag=srctok-33154815080f4d7e&btn_ref=srctok-33154815080f4d7e&th=1&linkCode=sl2&tag=noya0b-20&linkId=a9a1ce17c30346f8bcdfb93c3988bcf8&language=en_US"
           }
-        ],
-        "Health": [
-          {
-            "asin": "B00G36TJKW",
-            "slug": "natures-bounty-optimal-solutions-hair-skin-nails-vitamin-gum",
-            "title": "Nature's Bounty Optimal Solutions Hair, Skin & Nails Vitamin Gummies with Biotin, 2500 mcg, Strawberry, 80 Count, 40 Tot",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/7179yGpT0pL.jpg",
-            "url": "https://www.amazon.com/dp/B00G36TJKW?ie=UTF8&ascsubtag=ba3ef02263a711f188a39a3b982a52000INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=77507a1f7e6883a796266c17f50b3359&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -173,6 +170,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71qqAE8bQoL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G4Q137CH?th=1&psc=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FY491LBL",
+          "slug": "stranger-things-5-soundtrack-from-the-netflix-series-cds-vin",
+          "title": "Stranger Things 5 (Soundtrack from the Netflix Series): CDs & Vinyl",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+          "url": "https://www.amazon.com/dp/B0FY491LBL?ie=UTF8&ascsubtag=5727b26063ae11f1a33bbacfe5143c670INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e671ea065f979f71ce7912621d526dba&language=en_US"
         },
         {
           "asin": "B0BHLDRS2S",
@@ -239,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/6153fC-m6GL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DD6TWKTY?th=1&linkCode=sl2&tag=noya0b-20&linkId=a43e4460e021e31152f7242f6b6f222e&language=en_US"
-        },
-        {
-          "asin": "B00G36TJKW",
-          "slug": "natures-bounty-optimal-solutions-hair-skin-nails-vitamin-gum",
-          "title": "Nature's Bounty Optimal Solutions Hair, Skin & Nails Vitamin Gummies with Biotin, 2500 mcg, Strawberry, 80 Count, 40 Tot",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/7179yGpT0pL.jpg",
-          "url": "https://www.amazon.com/dp/B00G36TJKW?ie=UTF8&ascsubtag=ba3ef02263a711f188a39a3b982a52000INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=77507a1f7e6883a796266c17f50b3359&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-09T02:50:01.830Z",
-      "updatedAt": "2026-06-09T02:50:01.830Z"
+      "generatedAt": "2026-06-09T03:00:01.671Z",
+      "updatedAt": "2026-06-09T03:00:01.671Z"
     },
     {
       "date": "2026-06-07",
@@ -513,5 +510,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-09T02:50:01.831Z"
+  "generatedAt": "2026-06-09T03:00:01.671Z"
 }
