@@ -12,24 +12,21 @@
         "Grocery & Food",
         "Pet Supplies",
         "Tools & Hardware",
-        "Fashion",
-        "Garden & Outdoor"
+        "Fashion"
       ],
       "byCategory": {
-        "Beauty": [
+        "Other": [
           {
-            "asin": "B08BTKBVWT",
-            "slug": "nexxus-clean-and-pure-clarifying-shampoo-and-conditioner-2-p",
-            "title": "Nexxus Clean and Pure Clarifying Shampoo and Conditioner 2-Pack",
-            "price": "$18",
+            "asin": "B0GP9T6KBY",
+            "slug": "samsung-50-inch-class-mini-led-m70h-series-samsung-vision-ai",
+            "title": "Samsung 50-Inch Class Mini LED M70H Series Samsung Vision AI Companion Smart TV (2026 Model, 50M70H) Processor 4K, Pure ",
+            "price": "$299.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/21WMWQH3c2L.jpg",
-            "url": "https://www.amazon.com/dp/B08BTKBVWT?th=1&linkCode=sl2&tag=noya0b-20&linkId=02e1910a164b168800fd4af14955daf3&language=en_US"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/21exUw2ezwL.jpg",
+            "url": "https://www.amazon.com/dp/B0GP9T6KBY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B07PXNNFGT",
             "slug": "orgain-organic-vegan-protein-50-superfoods-powder-vanilla-be",
@@ -51,6 +48,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71VHCcAskyL.jpg",
             "url": "https://www.amazon.com/dp/B0CYLKDZJ5/ref=cm_sw_r_as_gl_apa_gl_i_AH33X6KFKT4K18V6WD5A?linkCode=ml1&tag=noya0b-20&linkId=3fc40bc6320bcfd82d7e91e4b06a6bc8"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B08BTKBVWT",
+            "slug": "nexxus-clean-and-pure-clarifying-shampoo-and-conditioner-2-p",
+            "title": "Nexxus Clean and Pure Clarifying Shampoo and Conditioner 2-Pack",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/21WMWQH3c2L.jpg",
+            "url": "https://www.amazon.com/dp/B08BTKBVWT?th=1&linkCode=sl2&tag=noya0b-20&linkId=02e1910a164b168800fd4af14955daf3&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81xZugu3jDL.jpg",
             "url": "https://www.amazon.com/dp/B0FSKQCWVM/ref=cm_sw_r_as_gl_apa_gl_i_S7B6HCQSNVXC9GH4GTGJ?linkCode=ml1&tag=noya0b-20&linkId=b5a2b3f7120b24aaf2ab5384757d5895"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0D2VW7D84",
-            "slug": "better-gro-orchid-plus-fertilizer-and-premium-moss-for-growi",
-            "title": "Better-Gro Orchid Plus Fertilizer and Premium Moss for Growing Orchids - 190 cu in : Patio, Lawn & Garden",
-            "price": "$11.x",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/519axdgTBjL.jpg",
-            "url": "https://www.amazon.com/dp/B0D2VW7D84/ref=cm_sw_r_as_gl_apa_gl_i_MEH2W6M0R8EFVDVDY1ZA?linkCode=ml1&tag=noya0b-20&linkId=8f0876e86f35fde6a18aa9837f707fb4"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GP9T6KBY",
+          "slug": "samsung-50-inch-class-mini-led-m70h-series-samsung-vision-ai",
+          "title": "Samsung 50-Inch Class Mini LED M70H Series Samsung Vision AI Companion Smart TV (2026 Model, 50M70H) Processor 4K, Pure ",
+          "price": "$299.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/21exUw2ezwL.jpg",
+          "url": "https://www.amazon.com/dp/B0GP9T6KBY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B08BTKBVWT",
           "slug": "nexxus-clean-and-pure-clarifying-shampoo-and-conditioner-2-p",
@@ -242,23 +250,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81xZugu3jDL.jpg",
           "url": "https://www.amazon.com/dp/B0FSKQCWVM/ref=cm_sw_r_as_gl_apa_gl_i_S7B6HCQSNVXC9GH4GTGJ?linkCode=ml1&tag=noya0b-20&linkId=b5a2b3f7120b24aaf2ab5384757d5895"
-        },
-        {
-          "asin": "B0D2VW7D84",
-          "slug": "better-gro-orchid-plus-fertilizer-and-premium-moss-for-growi",
-          "title": "Better-Gro Orchid Plus Fertilizer and Premium Moss for Growing Orchids - 190 cu in : Patio, Lawn & Garden",
-          "price": "$11.x",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/519axdgTBjL.jpg",
-          "url": "https://www.amazon.com/dp/B0D2VW7D84/ref=cm_sw_r_as_gl_apa_gl_i_MEH2W6M0R8EFVDVDY1ZA?linkCode=ml1&tag=noya0b-20&linkId=8f0876e86f35fde6a18aa9837f707fb4"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 10, 2026?",
-          "a": "The best deals today include \"Nexxus Clean and Pure Clarifying Shampoo and Conditioner 2-P...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
+          "a": "The best deals today include \"Samsung 50-Inch Class Mini LED M70H Series Samsung Vision AI...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-10T05:30:01.448Z",
-      "updatedAt": "2026-06-10T05:30:01.448Z"
+      "generatedAt": "2026-06-10T05:40:01.762Z",
+      "updatedAt": "2026-06-10T05:40:01.762Z"
     },
     {
       "date": "2026-06-09",
@@ -1055,5 +1052,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-10T05:30:01.448Z"
+  "generatedAt": "2026-06-10T05:40:01.762Z"
 }
