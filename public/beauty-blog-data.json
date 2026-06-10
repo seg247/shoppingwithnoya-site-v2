@@ -4,64 +4,27 @@
       "date": "2026-06-09",
       "slug": "2026-06-09",
       "title": "💄 Best Beauty Deals Today — June 9, 2026",
-      "intro": "Today's best beauty deals for Tuesday, June 9, 2026 — 12 hand-picked discounts on Hair Care, Makeup, Skincare and more. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Tuesday, June 9, 2026 — 12 hand-picked discounts on Skincare, Hair Care, Makeup and more. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
+        "Skincare",
         "Hair Care",
         "Makeup",
-        "Skincare",
         "Beauty",
         "Fragrance"
       ],
       "bySubcat": {
-        "Hair Care": [
-          {
-            "asin": "B0CNKX74CS",
-            "slug": "sun-bum-hair-care-travel-essentials-kit-revitalize-your-hair",
-            "title": "Sun Bum Hair Care Travel Essentials Kit - Revitalize Your Hair With Revitalizing Shampoo, Conditioner, and 3-in-1 Leave ",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ol6tvaYjL.jpg",
-            "url": "https://www.amazon.com/dp/B0CNKX74CS?th=1&psc=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B00J9H8O6C",
-            "slug": "biosilk-hydrating-therapy-pure-moisture-leave-in-hair-spray",
-            "title": "BioSilk Hydrating Therapy Pure Moisture, Leave-In Hair Spray for Frizz Control & Hydration, Adds Shine, Replenishes Hair",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
-            "url": "https://www.amazon.com/dp/B00J9H8O6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=edc590d06958a7aeadc42cee18480d0f&language=en_US"
-          }
-        ],
-        "Makeup": [
-          {
-            "asin": "B0H14YXKNL",
-            "slug": "nylgoxitk-personalized-striped-makeup-bag-portable-toiletry",
-            "title": "NYLGOXITK Personalized striped makeup bag, portable toiletry bag perfect for beach and villa pool vacations. Custom stor",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71aqUZQ2h5L.jpg",
-            "url": "https://www.amazon.com/dp/B0H14YXKNL?tag=noya0b-20"
-          },
-          {
-            "asin": "B00M4TCD2I",
-            "slug": "covergirl-professional-natural-lash-mascara-clear-034-ounce",
-            "title": "Covergirl Professional Natural Lash Mascara, Clear, 0.34 Ounce : Beauty & Personal Care",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vdf18VsML.jpg",
-            "url": "https://www.amazon.com/dp/B00M4TCD2I?th=1&tag=noya0b-20"
-          }
-        ],
         "Skincare": [
+          {
+            "asin": "B09Y3RT3MC",
+            "slug": "plum-beauty-facial-cooling-globes-cool-massage-tools-for-ref",
+            "title": "Plum Beauty Facial Cooling Globes - Cool Massage Tools for Refreshing Skincare Routine, Enhances Self Care, Reduces Puff",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+WLJUkvHL.jpg",
+            "url": "https://www.amazon.com/dp/B09Y3RT3MC?linkCode=sl2&tag=noya0b-20&linkId=834721867bb6132aa4726ee3dd48bf65&language=en_US"
+          },
           {
             "asin": "B0BKG4XW3L",
             "slug": "cessfle-large-capacity-travel-cosmetic-bag-plaid-checkered-m",
@@ -105,6 +68,43 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81zKOwl+3QL.jpg",
             "url": "https://www.amazon.com/dp/B01M69QL5K?th=1&tag=noya0b-20"
+          }
+        ],
+        "Hair Care": [
+          {
+            "asin": "B0CNKX74CS",
+            "slug": "sun-bum-hair-care-travel-essentials-kit-revitalize-your-hair",
+            "title": "Sun Bum Hair Care Travel Essentials Kit - Revitalize Your Hair With Revitalizing Shampoo, Conditioner, and 3-in-1 Leave ",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ol6tvaYjL.jpg",
+            "url": "https://www.amazon.com/dp/B0CNKX74CS?th=1&psc=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B00J9H8O6C",
+            "slug": "biosilk-hydrating-therapy-pure-moisture-leave-in-hair-spray",
+            "title": "BioSilk Hydrating Therapy Pure Moisture, Leave-In Hair Spray for Frizz Control & Hydration, Adds Shine, Replenishes Hair",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
+            "url": "https://www.amazon.com/dp/B00J9H8O6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=edc590d06958a7aeadc42cee18480d0f&language=en_US"
+          }
+        ],
+        "Makeup": [
+          {
+            "asin": "B0H14YXKNL",
+            "slug": "nylgoxitk-personalized-striped-makeup-bag-portable-toiletry",
+            "title": "NYLGOXITK Personalized striped makeup bag, portable toiletry bag perfect for beach and villa pool vacations. Custom stor",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71aqUZQ2h5L.jpg",
+            "url": "https://www.amazon.com/dp/B0H14YXKNL?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -157,6 +157,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B09Y3RT3MC",
+          "slug": "plum-beauty-facial-cooling-globes-cool-massage-tools-for-ref",
+          "title": "Plum Beauty Facial Cooling Globes - Cool Massage Tools for Refreshing Skincare Routine, Enhances Self Care, Reduces Puff",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+WLJUkvHL.jpg",
+          "url": "https://www.amazon.com/dp/B09Y3RT3MC?linkCode=sl2&tag=noya0b-20&linkId=834721867bb6132aa4726ee3dd48bf65&language=en_US"
+        },
         {
           "asin": "B0CNKX74CS",
           "slug": "sun-bum-hair-care-travel-essentials-kit-revitalize-your-hair",
@@ -277,31 +288,20 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/4177My1VHzL.jpg",
           "url": "https://www.amazon.com/dp/B07W6WLZKD?th=1&linkCode=sl2&tag=noya0b-20&linkId=41bbfb2e4f6bcf3abc7985024b5d1bf2&language=en_US"
-        },
-        {
-          "asin": "B00M4TCD2I",
-          "slug": "covergirl-professional-natural-lash-mascara-clear-034-ounce",
-          "title": "Covergirl Professional Natural Lash Mascara, Clear, 0.34 Ounce : Beauty & Personal Care",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vdf18VsML.jpg",
-          "url": "https://www.amazon.com/dp/B00M4TCD2I?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best beauty deals today on June 9, 2026?",
-          "a": "The top beauty deals today include \"Sun Bum Hair Care Travel Essentials Kit - Revitalize Your Ha...\" and 11 other hand-picked discounts across Hair Care, Makeup, Skincare."
+          "a": "The top beauty deals today include \"Plum Beauty Facial Cooling Globes - Cool Massage Tools for R...\" and 11 other hand-picked discounts across Skincare, Hair Care, Makeup."
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include Cessfle Large Capacity Travel Cosmetic Bag Plaid C and Hempz Glow Getter Body Lotion, Hydrating Moisturiz. Check the full list above for current prices."
+          "a": "Today's skincare deals include Plum Beauty Facial Cooling Globes - Cool Massage T and Cessfle Large Capacity Travel Cosmetic Bag Plaid C. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include NYLGOXITK Personalized striped makeup bag, portabl and Covergirl Professional Natural Lash Mascara, Clear and more."
+          "a": "Yes! Today's makeup deals include NYLGOXITK Personalized striped makeup bag, portabl and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -312,8 +312,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-10T00:00:00.152Z",
-      "updatedAt": "2026-06-10T00:00:00.152Z"
+      "generatedAt": "2026-06-10T00:10:00.552Z",
+      "updatedAt": "2026-06-10T00:10:00.552Z"
     },
     {
       "date": "2026-06-08",
@@ -540,5 +540,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-10T00:00:00.152Z"
+  "generatedAt": "2026-06-10T00:10:00.553Z"
 }
