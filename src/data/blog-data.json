@@ -9,35 +9,22 @@
         "Other",
         "Electronics",
         "Grocery & Food",
-        "Home & Kitchen",
-        "Beauty"
+        "Personal Care",
+        "Fashion"
       ],
       "byCategory": {
-        "Electronics": [
-          {
-            "asin": "B0BL8WSCH3",
-            "slug": "amazon-fire-7-kids-tablet-newest-model-ages-3-7-top-selling",
-            "title": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7&#34; kids tablet on Amazon. Includes ad-free and exclus",
-            "price": "$54",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/710lki-m62L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BL8WSCH3/ref=cm_sw_r_as_gl_apa_gl_i_dl_CQ8YCP16NHXS3F5FZF1K?linkCode=ml1&tag=noya0b-20&linkId=4296fa36ad63098be6ac244eeb8c81b1"
-          },
-          {
-            "asin": "B0FX4MC29Z",
-            "slug": "my-little-pony-silent-wireless-mouse-m03-innovative-floating",
-            "title": "My Little Pony Silent Wireless Mouse - M03 Innovative Floating Button Design, Quiet Clicks, 3 Adjustable DPI (800/1600/3",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vKehwxHsL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FX4MC29Z/ref=cm_sw_r_as_gl_apa_gl_i_D22PMAJQ7DMFPW4GXCTG?linkCode=ml1&tag=noya0b-20&linkId=678e928d59eabf411839759ec99490cc"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0H25RFG6L",
+            "slug": "sweetcrispy-bathroom-mirror-30x22-inch-black-metal-framed-ro",
+            "title": "Sweetcrispy Bathroom Mirror 30x22 Inch Black Metal Framed Rounded Rectangle Vanity Mirror for Wall, Over Sink, Farmhouse",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81PVarGO+nL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0H25RFG6L/ref=cm_sw_r_as_gl_apa_gl_i_dl_M7P5V265P26NEADYS64T?linkCode=ml1&tag=noya0b-20&linkId=22154d74bb910c4bc5c1fafe22c8a6e0"
+          },
           {
             "asin": "B0779CXWFL",
             "slug": "amazon-basic-care-uncoated-nicotine-polacrilex-gum-4-mg-mint",
@@ -70,17 +57,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81sp4rY6QHL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FDKQQ9HN/ref=cm_sw_r_as_gl_apa_gl_i_RHSMPMBW3ASGQ0CHBCWD?linkCode=ml1&tag=noya0b-20&linkId=d734b300aff4aea600f371bd37da79f2"
-          },
+          }
+        ],
+        "Personal Care": [
           {
-            "asin": "B07X443PFF",
-            "slug": "wera-5133164001-9509-hex-plus-multicolour-2-l-key-set-metric",
-            "title": "Wera 5133164001 950/9 Hex-Plus Multicolour 2 L-key set, metric, BlackLaser, 9 pieces : Tools & Home Improvement",
-            "price": "$39",
+            "asin": "B0CRB3MQT5",
+            "slug": "anker-solix-f3800-portable-power-station-with-400w-solar-pan",
+            "title": "Anker SOLIX F3800 Portable Power Station with 400W Solar Panel, 3840Wh LiFePO4 Battery, 6000W AC output with 120V/240V, ",
+            "price": "$2399.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71i2SKZhliL.jpg",
-            "url": "https://www.amazon.com/dp/B07X443PFF/ref=cm_sw_r_as_gl_apa_gl_i_K72VCD2NRJ4NJZQX8CRZ?linkCode=ml1&tag=noya0b-20&linkId=f57f52e1595b943d10aaab8ac13a165f"
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/618Wz9sDojL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CRB3MQT5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B09LRBD2CL",
+            "slug": "amazon-essentials-mens-slim-fit-short-sleeve-poplin-shirt-aq",
+            "title": "Amazon Essentials Men's Slim-Fit Short-Sleeve Poplin Shirt, Aqua Blue, Medium : Clothing, Shoes & Jewelry",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/814Hq9rNRUL.jpg",
+            "url": "https://www.amazon.com/dp/B09LRBD2CL/ref=cm_sw_r_as_gl_apa_gl_i_dl_77K37BTYBTMQPCBFBCD0?linkCode=ml1&tag=noya0b-20&linkId=8d6cf721f839812b131a505a7379ba94"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0BL8WSCH3",
+            "slug": "amazon-fire-7-kids-tablet-newest-model-ages-3-7-top-selling",
+            "title": "Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selling 7&#34; kids tablet on Amazon. Includes ad-free and exclus",
+            "price": "$54",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/710lki-m62L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BL8WSCH3/ref=cm_sw_r_as_gl_apa_gl_i_dl_CQ8YCP16NHXS3F5FZF1K?linkCode=ml1&tag=noya0b-20&linkId=4296fa36ad63098be6ac244eeb8c81b1"
+          },
+          {
+            "asin": "B0FX4MC29Z",
+            "slug": "my-little-pony-silent-wireless-mouse-m03-innovative-floating",
+            "title": "My Little Pony Silent Wireless Mouse - M03 Innovative Floating Button Design, Quiet Clicks, 3 Adjustable DPI (800/1600/3",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vKehwxHsL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FX4MC29Z/ref=cm_sw_r_as_gl_apa_gl_i_D22PMAJQ7DMFPW4GXCTG?linkCode=ml1&tag=noya0b-20&linkId=678e928d59eabf411839759ec99490cc"
           }
         ],
         "Grocery & Food": [
@@ -106,35 +132,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81iC8VnA1XL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GPQQ6CLY/ref=cm_sw_r_as_gl_apa_gl_i_VTSJYTX3QSND0ZQ7PGW3?linkCode=ml1&tag=noya0b-20&linkId=82aa98ec503699d5e79bbc21f0ebc33d"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0CHCJGPLZ",
-            "slug": "adidas-750-ml-28-oz-stadium-refillable-plastic-sport-water-b",
-            "title": "adidas 750 ML (28 oz) Stadium Refillable Plastic Sport Water Bottle",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61yrjAci4JL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CHCJGPLZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_YHDGT81AYFB27A4ANDMT?linkCode=ml1&tag=noya0b-20&linkId=d79bcfbc3c6cebf40a0c0fa5f00a1623"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B072BBRKX5",
-            "slug": "chi-infra-thermal-care-kit-moisturizing-restoring-shampoo-co",
-            "title": "CHI Infra Thermal Care Kit, Moisturizing & Restoring Shampoo, Color Protectant & Serum, Sulfate, Paraben, & Cruelty-Free",
-            "price": "$23",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61X8WLT5hEL._SL1024_.jpg",
-            "url": "https://www.amazon.com/dp/B072BBRKX5/ref=cm_sw_r_as_gl_apa_gl_i_D5G2QPMNAXPC9EE6KRQ6?linkCode=ml1&tag=noya0b-20&linkId=be9f716ce5caac8a852359080c0c030a"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0H25RFG6L",
+          "slug": "sweetcrispy-bathroom-mirror-30x22-inch-black-metal-framed-ro",
+          "title": "Sweetcrispy Bathroom Mirror 30x22 Inch Black Metal Framed Rounded Rectangle Vanity Mirror for Wall, Over Sink, Farmhouse",
+          "price": "$27",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81PVarGO+nL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0H25RFG6L/ref=cm_sw_r_as_gl_apa_gl_i_dl_M7P5V265P26NEADYS64T?linkCode=ml1&tag=noya0b-20&linkId=22154d74bb910c4bc5c1fafe22c8a6e0"
+        },
+        {
+          "asin": "B0CRB3MQT5",
+          "slug": "anker-solix-f3800-portable-power-station-with-400w-solar-pan",
+          "title": "Anker SOLIX F3800 Portable Power Station with 400W Solar Panel, 3840Wh LiFePO4 Battery, 6000W AC output with 120V/240V, ",
+          "price": "$2399.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/618Wz9sDojL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CRB3MQT5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B09LRBD2CL",
+          "slug": "amazon-essentials-mens-slim-fit-short-sleeve-poplin-shirt-aq",
+          "title": "Amazon Essentials Men's Slim-Fit Short-Sleeve Poplin Shirt, Aqua Blue, Medium : Clothing, Shoes & Jewelry",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/814Hq9rNRUL.jpg",
+          "url": "https://www.amazon.com/dp/B09LRBD2CL/ref=cm_sw_r_as_gl_apa_gl_i_dl_77K37BTYBTMQPCBFBCD0?linkCode=ml1&tag=noya0b-20&linkId=8d6cf721f839812b131a505a7379ba94"
+        },
         {
           "asin": "B0BL8WSCH3",
           "slug": "amazon-fire-7-kids-tablet-newest-model-ages-3-7-top-selling",
@@ -211,45 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81sp4rY6QHL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FDKQQ9HN/ref=cm_sw_r_as_gl_apa_gl_i_RHSMPMBW3ASGQ0CHBCWD?linkCode=ml1&tag=noya0b-20&linkId=d734b300aff4aea600f371bd37da79f2"
-        },
-        {
-          "asin": "B0CHCJGPLZ",
-          "slug": "adidas-750-ml-28-oz-stadium-refillable-plastic-sport-water-b",
-          "title": "adidas 750 ML (28 oz) Stadium Refillable Plastic Sport Water Bottle",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61yrjAci4JL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CHCJGPLZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_YHDGT81AYFB27A4ANDMT?linkCode=ml1&tag=noya0b-20&linkId=d79bcfbc3c6cebf40a0c0fa5f00a1623"
-        },
-        {
-          "asin": "B072BBRKX5",
-          "slug": "chi-infra-thermal-care-kit-moisturizing-restoring-shampoo-co",
-          "title": "CHI Infra Thermal Care Kit, Moisturizing & Restoring Shampoo, Color Protectant & Serum, Sulfate, Paraben, & Cruelty-Free",
-          "price": "$23",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61X8WLT5hEL._SL1024_.jpg",
-          "url": "https://www.amazon.com/dp/B072BBRKX5/ref=cm_sw_r_as_gl_apa_gl_i_D5G2QPMNAXPC9EE6KRQ6?linkCode=ml1&tag=noya0b-20&linkId=be9f716ce5caac8a852359080c0c030a"
-        },
-        {
-          "asin": "B07X443PFF",
-          "slug": "wera-5133164001-9509-hex-plus-multicolour-2-l-key-set-metric",
-          "title": "Wera 5133164001 950/9 Hex-Plus Multicolour 2 L-key set, metric, BlackLaser, 9 pieces : Tools & Home Improvement",
-          "price": "$39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71i2SKZhliL.jpg",
-          "url": "https://www.amazon.com/dp/B07X443PFF/ref=cm_sw_r_as_gl_apa_gl_i_K72VCD2NRJ4NJZQX8CRZ?linkCode=ml1&tag=noya0b-20&linkId=f57f52e1595b943d10aaab8ac13a165f"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 10, 2026?",
-          "a": "The best deals today include \"Amazon Fire 7 Kids tablet (newest model) ages 3-7. Top-selli...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Sweetcrispy Bathroom Mirror 30x22 Inch Black Metal Framed Ro...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-10T07:10:01.552Z",
-      "updatedAt": "2026-06-10T07:10:01.552Z"
+      "generatedAt": "2026-06-10T07:20:01.758Z",
+      "updatedAt": "2026-06-10T07:20:01.759Z"
     },
     {
       "date": "2026-06-09",
@@ -1046,5 +1046,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-10T07:10:01.553Z"
+  "generatedAt": "2026-06-10T07:20:01.759Z"
 }
