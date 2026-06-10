@@ -4,15 +4,39 @@
       "date": "2026-06-10",
       "slug": "2026-06-10",
       "title": "💄 Best Beauty Deals Today — June 10, 2026",
-      "intro": "Today's best beauty deals for Wednesday, June 10, 2026 — 12 hand-picked discounts on Skincare, Hair Care, Fragrance and more. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Wednesday, June 10, 2026 — 12 hand-picked discounts on Hair Care, Skincare, Fragrance and more. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
-        "Skincare",
         "Hair Care",
+        "Skincare",
         "Fragrance",
         "Makeup",
         "Body Care"
       ],
       "bySubcat": {
+        "Hair Care": [
+          {
+            "asin": "B07T33QN39",
+            "slug": "keratin-perfect-kp-frizz-free-25oz",
+            "title": "Keratin Perfect KP Frizz-free - 2.5oz",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61QgUb5dK1L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07T33QN39?tag=noya0b-20"
+          },
+          {
+            "asin": "B00IKI0AL8",
+            "slug": "biosilk-hydrating-shampoo-replenishes-hair-moisture-for-stro",
+            "title": "BioSilk Hydrating Shampoo, Replenishes Hair Moisture For Strong, Smooth Hair, Sulfate, Paraben, & Cruelty-Free, 34 Oz",
+            "price": "$21",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51KtIAXskbL._SL1500_.jpg",
+            "url": "https://www.amazon.com/BioSilk-Hydrating-Replenishes-Moisture-Cruelty-Free/dp/B00IKI0AL8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=e810466b31d5277649f5d734fa64861e&language=en_US"
+          }
+        ],
         "Skincare": [
           {
             "asin": "B0F5H7M16Z",
@@ -57,30 +81,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/71+Zr2TpExL.jpg",
             "url": "https://www.amazon.com/dp/B083VTP119?th=1&linkCode=sl2&tag=noya0b-20&linkId=4481b5b17dfd1273c62ab5ed27e5ccb2&language=en_US"
-          }
-        ],
-        "Hair Care": [
-          {
-            "asin": "B00IKI0AL8",
-            "slug": "biosilk-hydrating-shampoo-replenishes-hair-moisture-for-stro",
-            "title": "BioSilk Hydrating Shampoo, Replenishes Hair Moisture For Strong, Smooth Hair, Sulfate, Paraben, & Cruelty-Free, 34 Oz",
-            "price": "$21",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51KtIAXskbL._SL1500_.jpg",
-            "url": "https://www.amazon.com/BioSilk-Hydrating-Replenishes-Moisture-Cruelty-Free/dp/B00IKI0AL8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=e810466b31d5277649f5d734fa64861e&language=en_US"
-          },
-          {
-            "asin": "B081QK9539",
-            "slug": "nexxus-clean-pure-shampoo-detox-for-professional-level-silic",
-            "title": "Nexxus CLEAN & PURE Shampoo Detox for Professional-Level Silicon, Sulfate & Paraben Free Hair Care Powered by Clarifix B",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/21WMWQH3c2L.jpg",
-            "url": "https://www.amazon.com/dp/B081QK9539?th=1&linkCode=sl2&tag=noya0b-20&linkId=68297e9d4cadf3a35ea77efbe99cd0c3&language=en_US"
           }
         ],
         "Fragrance": [
@@ -157,6 +157,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B07T33QN39",
+          "slug": "keratin-perfect-kp-frizz-free-25oz",
+          "title": "Keratin Perfect KP Frizz-free - 2.5oz",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61QgUb5dK1L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07T33QN39?tag=noya0b-20"
+        },
         {
           "asin": "B0F5H7M16Z",
           "slug": "sheglam-24k-glow-hair-oil-serum-10-in-1-treatment-for-frizz",
@@ -277,23 +288,12 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71+Zr2TpExL.jpg",
           "url": "https://www.amazon.com/dp/B083VTP119?th=1&linkCode=sl2&tag=noya0b-20&linkId=4481b5b17dfd1273c62ab5ed27e5ccb2&language=en_US"
-        },
-        {
-          "asin": "B081QK9539",
-          "slug": "nexxus-clean-pure-shampoo-detox-for-professional-level-silic",
-          "title": "Nexxus CLEAN & PURE Shampoo Detox for Professional-Level Silicon, Sulfate & Paraben Free Hair Care Powered by Clarifix B",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/21WMWQH3c2L.jpg",
-          "url": "https://www.amazon.com/dp/B081QK9539?th=1&linkCode=sl2&tag=noya0b-20&linkId=68297e9d4cadf3a35ea77efbe99cd0c3&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best beauty deals today on June 10, 2026?",
-          "a": "The top beauty deals today include \"SHEGLAM 24K Glow Hair Oil Serum, 10-in-1 Treatment for Frizz...\" and 11 other hand-picked discounts across Skincare, Hair Care, Fragrance."
+          "a": "The top beauty deals today include \"Keratin Perfect KP Frizz-free - 2.5oz...\" and 11 other hand-picked discounts across Hair Care, Skincare, Fragrance."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -312,8 +312,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-10T21:50:02.073Z",
-      "updatedAt": "2026-06-10T21:50:02.073Z"
+      "generatedAt": "2026-06-10T22:00:02.076Z",
+      "updatedAt": "2026-06-10T22:00:02.076Z"
     },
     {
       "date": "2026-06-09",
@@ -852,5 +852,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-10T21:50:02.074Z"
+  "generatedAt": "2026-06-10T22:00:02.076Z"
 }
