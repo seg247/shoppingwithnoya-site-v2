@@ -4,13 +4,15 @@
       "date": "2026-06-11",
       "slug": "2026-06-11",
       "title": "🔥 Best Deals Today — June 11, 2026",
-      "intro": "Today's best online deals for Thursday, June 11, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Other and more. The best discount today is 75% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, June 11, 2026 — 10 hand-picked discounts across Beauty, Other, Grocery & Food and more. The best discount today is 75% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
-        "Grocery & Food",
+        "Beauty",
         "Other",
+        "Grocery & Food",
         "Electronics",
+        "Home & Kitchen",
         "Cleaning Supplies",
+        "Toys & Kids",
         "Health"
       ],
       "byCategory": {
@@ -25,17 +27,30 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71LZM276JwL.jpg",
             "url": "https://www.amazon.com/dp/B0BB73JQT6?th=1&linkCode=sl2&tag=noya0b-20&linkId=aa404cf155da95c5030d63e68368409f&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FDGZH3PW",
+            "slug": "philosophy-bath-body-holiday-wrapped-up-in-matcha-shower-gel",
+            "title": "philosophy Bath & Body Holiday Wrapped Up in Matcha Shower Gel 16 fl oz (Pack of 1) : Beauty & Personal Care",
+            "price": "$14",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/1130nerdQyL.jpg",
+            "url": "https://www.amazon.com/dp/B0FDGZH3PW?th=1&tag=noya0b-20"
           },
           {
-            "asin": "B077QK3NX4",
-            "slug": "quest-nutrition-chocolate-chip-protein-cookie-15g-protein-1g",
-            "title": "Quest Nutrition Chocolate Chip Protein Cookie, 15g Protein, 1g Sugar, 2g Net Carbs, Keto Friendly, High Protein, Low Car",
-            "price": "$31",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/21YTISmc+PL.jpg",
-            "url": "https://www.amazon.com/dp/B077QK3NX4?ie=UTF8&ascsubtag=ec7e63ce65e111f18c8926b25c1d2aed0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=60fc46569c6b0129d6ce46110444b458&language=en_US"
+            "asin": "B0FPM58QTM",
+            "slug": "elf-skin-wake-the-elf-up-skincare-kit-travel-size-hydrating",
+            "title": "e.l.f. SKIN Wake the e.l.f. Up Skincare Kit, Travel-Size Hydrating Face Cleanser, Sunscreen, Moisturizer & Brightening S",
+            "price": "$29",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/710qd7XOyCL.jpg",
+            "url": "https://www.amazon.com/dp/B0FPM58QTM?th=1&tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -51,6 +66,19 @@
             "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=noya0b-20"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FK22Y1YM",
+            "slug": "owala-freesip-sway-insulated-stainless-steel-water-bottle-wi",
+            "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for",
+            "price": "$35",
+            "discount": 20,
+            "rating": "WARM",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71G+Z89BjXL.jpg",
+            "url": "https://www.amazon.com/dp/B0FK22Y1YM?th=1&tag=noya0b-20"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0GFFMY7T2",
@@ -64,7 +92,31 @@
             "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0BNW95ZT1",
+            "slug": "lego-technic-peugeot-9x8-24h-le-mans-hybrid-hypercar-42156-c",
+            "title": "LEGO Technic Peugeot 9X8 24H Le Mans Hybrid Hypercar 42156 Collectible Race Car Building Kit for Adults and Teens, 1:10 ",
+            "price": "$159",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ZjwJmhBBL.jpg",
+            "url": "https://www.amazon.com/dp/B0BNW95ZT1?ie=UTF8&ascsubtag=f307b6a665e511f18073faa4596f36ad0INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e71944fcb64c00e16bb923bcbecfd95c&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B00A77VPC8",
+            "slug": "mccormick-parsley-flakes-27-oz",
+            "title": "McCormick Parsley Flakes, 2.7 oz",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81H3uspUqDL.jpg",
+            "url": "https://www.amazon.com/dp/B00A77VPC8?ie=UTF8&ascsubtag=035cc22c65e511f1ac203aedde9e95570INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=d04fb801194b2210c557b11701547156&language=en_US"
+          },
           {
             "asin": "B01BVRO7T0",
             "slug": "cellucor-cor-performance-creatine-monohydrate-for-strength-a",
@@ -75,17 +127,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71bC6r2TCzL.jpg",
             "url": "https://www.amazon.com/dp/B01BVRO7T0?ie=UTF8&ascsubtag=2124fd5c65e411f19587029a7c5090580INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=77100d5c4e7a50c331aedf4d2d63cab6&language=en_US"
-          },
-          {
-            "asin": "B0CQN3XSGR",
-            "slug": "old-bay-goldfish-61oz-bag-only-2xx-on-amazon-reg-9",
-            "title": "Old Bay Goldfish 6.1oz Bag Only $2.xx on Amazon (Reg. $9)",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71eJPFthYQL.jpg",
-            "url": "https://www.amazon.com/Goldfish-Old-Bay-Bag-6-1/dp/B0CQN3XSGR?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a02a9bd5e82e6ba06d81b51b9ee6a30&language=en_US"
           }
         ],
         "Health": [
@@ -99,41 +140,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/711dAHSpF7L.jpg",
             "url": "https://www.amazon.com/dp/B0DNTV6T42?ie=UTF8&ascsubtag=a6b6271265e311f19a833aedde9e95570INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=9e98fec7f4abeadca6dd6bcde46f5552&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0H3KXSD3V",
-            "slug": "rechhx-24-wide-farmhouse-nightstand-with-charger-station-bed",
-            "title": "RECHHX 24\" Wide Farmhouse Nightstand with Charger Station, Bedside Tables with 3 Drawer Storage, Thermoformed Curved End",
-            "price": "$84",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/A1rwkOaX0CL.jpg",
-            "url": "https://www.amazon.com/dp/B0H3KXSD3V?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0FPFKJ74X",
-            "slug": "ukiss-kitchen-rugs-waterproof-kitchen-mats-cushioned-anti-fa",
-            "title": "UKISS Kitchen Rugs ，Waterproof Kitchen Mats ，Cushioned Anti Fatigue Kitchen Mat for Floor, Non-Slip Comfort Foam Standin",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
-            "url": "https://www.amazon.com/dp/B0FPFKJ74X?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0FPFKJ74X",
-            "slug": "ukiss-kitchen-rugs-waterproof-kitchen-mats-cushioned-anti-fa",
-            "title": "UKISS Kitchen Rugs ，Waterproof Kitchen Mats ，Cushioned Anti Fatigue Kitchen Mat for Floor, Non-Slip Comfort Foam Standin",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/91pB3hr37WL.jpg",
-            "url": "https://www.amazon.com/dp/B0FPFKJ74X?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -150,6 +156,28 @@
           "url": "https://www.amazon.com/dp/B0BB73JQT6?th=1&linkCode=sl2&tag=noya0b-20&linkId=aa404cf155da95c5030d63e68368409f&language=en_US"
         },
         {
+          "asin": "B0FDGZH3PW",
+          "slug": "philosophy-bath-body-holiday-wrapped-up-in-matcha-shower-gel",
+          "title": "philosophy Bath & Body Holiday Wrapped Up in Matcha Shower Gel 16 fl oz (Pack of 1) : Beauty & Personal Care",
+          "price": "$14",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/1130nerdQyL.jpg",
+          "url": "https://www.amazon.com/dp/B0FDGZH3PW?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FPM58QTM",
+          "slug": "elf-skin-wake-the-elf-up-skincare-kit-travel-size-hydrating",
+          "title": "e.l.f. SKIN Wake the e.l.f. Up Skincare Kit, Travel-Size Hydrating Face Cleanser, Sunscreen, Moisturizer & Brightening S",
+          "price": "$29",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/710qd7XOyCL.jpg",
+          "url": "https://www.amazon.com/dp/B0FPM58QTM?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0FQFB8FMG",
           "slug": "apple-airpods-pro-3-wireless-earbuds-active-noise-cancellati",
           "title": "Apple AirPods Pro 3 Wireless Earbuds, Active Noise Cancellation, Live Translation, Heart Rate Sensing, Hearing Aid Featu",
@@ -161,6 +189,17 @@
           "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=noya0b-20"
         },
         {
+          "asin": "B0FK22Y1YM",
+          "slug": "owala-freesip-sway-insulated-stainless-steel-water-bottle-wi",
+          "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for",
+          "price": "$35",
+          "discount": 20,
+          "rating": "WARM",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71G+Z89BjXL.jpg",
+          "url": "https://www.amazon.com/dp/B0FK22Y1YM?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0GFFMY7T2",
           "slug": "tide-pods-laundry-detergent-soap-with-downy-4-in-1-stain-rem",
           "title": "Tide PODS Laundry Detergent Soap with Downy 4-in-1 Stain Remover Freshness Softness Detergent pacs, April Fresh Scent, 3",
@@ -170,6 +209,28 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+        },
+        {
+          "asin": "B0BNW95ZT1",
+          "slug": "lego-technic-peugeot-9x8-24h-le-mans-hybrid-hypercar-42156-c",
+          "title": "LEGO Technic Peugeot 9X8 24H Le Mans Hybrid Hypercar 42156 Collectible Race Car Building Kit for Adults and Teens, 1:10 ",
+          "price": "$159",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ZjwJmhBBL.jpg",
+          "url": "https://www.amazon.com/dp/B0BNW95ZT1?ie=UTF8&ascsubtag=f307b6a665e511f18073faa4596f36ad0INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e71944fcb64c00e16bb923bcbecfd95c&language=en_US"
+        },
+        {
+          "asin": "B00A77VPC8",
+          "slug": "mccormick-parsley-flakes-27-oz",
+          "title": "McCormick Parsley Flakes, 2.7 oz",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81H3uspUqDL.jpg",
+          "url": "https://www.amazon.com/dp/B00A77VPC8?ie=UTF8&ascsubtag=035cc22c65e511f1ac203aedde9e95570INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=d04fb801194b2210c557b11701547156&language=en_US"
         },
         {
           "asin": "B01BVRO7T0",
@@ -192,71 +253,16 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/711dAHSpF7L.jpg",
           "url": "https://www.amazon.com/dp/B0DNTV6T42?ie=UTF8&ascsubtag=a6b6271265e311f19a833aedde9e95570INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=9e98fec7f4abeadca6dd6bcde46f5552&language=en_US"
-        },
-        {
-          "asin": "B0H3KXSD3V",
-          "slug": "rechhx-24-wide-farmhouse-nightstand-with-charger-station-bed",
-          "title": "RECHHX 24\" Wide Farmhouse Nightstand with Charger Station, Bedside Tables with 3 Drawer Storage, Thermoformed Curved End",
-          "price": "$84",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/A1rwkOaX0CL.jpg",
-          "url": "https://www.amazon.com/dp/B0H3KXSD3V?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FPFKJ74X",
-          "slug": "ukiss-kitchen-rugs-waterproof-kitchen-mats-cushioned-anti-fa",
-          "title": "UKISS Kitchen Rugs ，Waterproof Kitchen Mats ，Cushioned Anti Fatigue Kitchen Mat for Floor, Non-Slip Comfort Foam Standin",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
-          "url": "https://www.amazon.com/dp/B0FPFKJ74X?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FPFKJ74X",
-          "slug": "ukiss-kitchen-rugs-waterproof-kitchen-mats-cushioned-anti-fa",
-          "title": "UKISS Kitchen Rugs ，Waterproof Kitchen Mats ，Cushioned Anti Fatigue Kitchen Mat for Floor, Non-Slip Comfort Foam Standin",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/91pB3hr37WL.jpg",
-          "url": "https://www.amazon.com/dp/B0FPFKJ74X?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B077QK3NX4",
-          "slug": "quest-nutrition-chocolate-chip-protein-cookie-15g-protein-1g",
-          "title": "Quest Nutrition Chocolate Chip Protein Cookie, 15g Protein, 1g Sugar, 2g Net Carbs, Keto Friendly, High Protein, Low Car",
-          "price": "$31",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/21YTISmc+PL.jpg",
-          "url": "https://www.amazon.com/dp/B077QK3NX4?ie=UTF8&ascsubtag=ec7e63ce65e111f18c8926b25c1d2aed0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=60fc46569c6b0129d6ce46110444b458&language=en_US"
-        },
-        {
-          "asin": "B0CQN3XSGR",
-          "slug": "old-bay-goldfish-61oz-bag-only-2xx-on-amazon-reg-9",
-          "title": "Old Bay Goldfish 6.1oz Bag Only $2.xx on Amazon (Reg. $9)",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71eJPFthYQL.jpg",
-          "url": "https://www.amazon.com/Goldfish-Old-Bay-Bag-6-1/dp/B0CQN3XSGR?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a02a9bd5e82e6ba06d81b51b9ee6a30&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 11, 2026?",
-          "a": "The best deals today include \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 75% off on \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\". There are 3 deals with verified discounts today."
+          "a": "The biggest discount today is 75% off on \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\". There are 6 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T22:30:00.790Z",
-      "updatedAt": "2026-06-11T22:30:00.790Z"
+      "generatedAt": "2026-06-11T22:40:01.934Z",
+      "updatedAt": "2026-06-11T22:40:01.934Z"
     },
     {
       "date": "2026-06-10",
@@ -1314,5 +1320,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T22:30:00.791Z"
+  "generatedAt": "2026-06-11T22:40:01.934Z"
 }
