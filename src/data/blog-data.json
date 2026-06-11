@@ -14,6 +14,41 @@
         "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B010LWGDMA",
+            "slug": "atkins-endulge-caramel-nut-chew-bar",
+            "title": "Atkins Endulge Caramel Nut Chew Bar",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/11l0a2iBemL.jpg",
+            "url": "https://www.amazon.com/dp/B010LWGDMA?th=1&linkCode=sl2&tag=noya0b-20&linkId=6c48ab810a7ad91b8b7424da5057e769&language=en_US"
+          },
+          {
+            "asin": "0525457232",
+            "slug": "the-complete-tales-of-winnie-the-pooh-milne-a-a-shepard-erne",
+            "title": "The Complete Tales of Winnie-The-Pooh: Milne, A. A., Shepard, Ernest H.: 9780525457237",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PyuddrkXL.jpg",
+            "url": "https://www.amazon.com/dp/0525457232/ref=cm_sw_r_as_gl_apa_gl_i_dl_9ZRWNCNEV6H7DATB4YJQ?linkCode=ml1&tag=noya0b-20&linkId=7f8d3d2e181ef599c8ff62a5ce295926"
+          },
+          {
+            "asin": "B0CM2YBHZ3",
+            "slug": "chefman-indoor-pizza-oven-makes-12-inch-pizzas-in-minutes-he",
+            "title": "CHEFMAN Indoor Pizza Oven - Makes 12 Inch Pizzas in Minutes, Heats up to 800°F - Countertop Electric Pizza Maker with 5 ",
+            "price": "$225.61",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/711kiaiuKDL.jpg",
+            "url": "https://www.amazon.com/dp/B0CM2YBHZ3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0D14YH68Z",
@@ -100,44 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81Rx4IZMcqL.jpg",
             "url": "https://www.amazon.com/dp/B08KT31VMV?th=1&linkCode=sl2&tag=noya0b-20&linkId=99dfe8d6c96f68dbd4d8ff6cce6273ca&language=en_US"
           }
-        ],
-        "Other": [
-          {
-            "asin": "0525457232",
-            "slug": "the-complete-tales-of-winnie-the-pooh-milne-a-a-shepard-erne",
-            "title": "The Complete Tales of Winnie-The-Pooh: Milne, A. A., Shepard, Ernest H.: 9780525457237",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PyuddrkXL.jpg",
-            "url": "https://www.amazon.com/dp/0525457232/ref=cm_sw_r_as_gl_apa_gl_i_dl_9ZRWNCNEV6H7DATB4YJQ?linkCode=ml1&tag=noya0b-20&linkId=7f8d3d2e181ef599c8ff62a5ce295926"
-          },
-          {
-            "asin": "B0CM2YBHZ3",
-            "slug": "chefman-indoor-pizza-oven-makes-12-inch-pizzas-in-minutes-he",
-            "title": "CHEFMAN Indoor Pizza Oven - Makes 12 Inch Pizzas in Minutes, Heats up to 800°F - Countertop Electric Pizza Maker with 5 ",
-            "price": "$225.61",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/711kiaiuKDL.jpg",
-            "url": "https://www.amazon.com/dp/B0CM2YBHZ3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0FWD2LF7C",
-            "slug": "natures-bounty-zinc-50mg-immune-system-skin-antioxidant-heal",
-            "title": "Nature’s Bounty Zinc 50mg Immune System, Skin, & Antioxidant Health Support Contributes to DNA Formation Vegetarian, Non",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Vluh93mRL.jpg",
-            "url": "https://www.amazon.com/dp/B0FWD2LF7C/ref=cm_sw_r_as_gl_apa_gl_i_G3Q41GB92MPFC61EFY0E?linkCode=ml1&tag=noya0b-20&linkId=e1757b83b06d77fff22d1eafb794ae77"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B010LWGDMA",
+          "slug": "atkins-endulge-caramel-nut-chew-bar",
+          "title": "Atkins Endulge Caramel Nut Chew Bar",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/11l0a2iBemL.jpg",
+          "url": "https://www.amazon.com/dp/B010LWGDMA?th=1&linkCode=sl2&tag=noya0b-20&linkId=6c48ab810a7ad91b8b7424da5057e769&language=en_US"
+        },
         {
           "asin": "B0D14YH68Z",
           "slug": "scotch-brite-heavy-duty-scrub-sponges-for-washing-dishes-and",
@@ -236,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/711kiaiuKDL.jpg",
           "url": "https://www.amazon.com/dp/B0CM2YBHZ3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FWD2LF7C",
-          "slug": "natures-bounty-zinc-50mg-immune-system-skin-antioxidant-heal",
-          "title": "Nature’s Bounty Zinc 50mg Immune System, Skin, & Antioxidant Health Support Contributes to DNA Formation Vegetarian, Non",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Vluh93mRL.jpg",
-          "url": "https://www.amazon.com/dp/B0FWD2LF7C/ref=cm_sw_r_as_gl_apa_gl_i_G3Q41GB92MPFC61EFY0E?linkCode=ml1&tag=noya0b-20&linkId=e1757b83b06d77fff22d1eafb794ae77"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 11, 2026?",
-          "a": "The best deals today include \"Scotch-Brite Heavy Duty Scrub Sponges, for Washing Dishes an...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Atkins Endulge Caramel Nut Chew Bar...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T05:00:01.542Z",
-      "updatedAt": "2026-06-11T05:00:01.542Z"
+      "generatedAt": "2026-06-11T05:10:00.887Z",
+      "updatedAt": "2026-06-11T05:10:00.887Z"
     },
     {
       "date": "2026-06-10",
@@ -1314,5 +1314,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T05:00:01.543Z"
+  "generatedAt": "2026-06-11T05:10:00.887Z"
 }
