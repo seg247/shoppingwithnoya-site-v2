@@ -940,18 +940,9 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       if (discount >= 60) badgeClass = 'fire';
       else if (discount >= 40) badgeClass = 'hot';
 
-      // Price
-      let priceNum = null;
-      if (deal.price) priceNum = parseFloat(String(deal.price).replace(/[^0-9.]/g, ''));
-
+      // Discount badge only — no prices
       let priceHtml = '';
-      if (priceNum && priceNum > 0) {
-        priceHtml = `<div class="card-price-row">
-          <span class="price-current">$${priceNum.toFixed(2)}</span>`;
-        // Only show original price if it came from real data (not calculated)
-        // Never fabricate an original price from discount %
-        priceHtml += `</div>`;
-      } else if (discount > 0) {
+      if (discount > 0) {
         priceHtml = `<div class="card-price-row"><span class="price-savings">-${discount}% off</span></div>`;
       }
 
@@ -987,7 +978,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     }
 
     function getFilteredDeals() {
+      // Dedup by ASIN — keep only the first occurrence (highest score / most recent)
+      const seenAsins = new Set();
       return allDeals.filter(d => {
+        if (d.asin && seenAsins.has(d.asin)) return false;
+        if (d.asin) seenAsins.add(d.asin);
         // Never show "Other" category unless explicitly selected
         if (d.category === 'Other' && activeFilters.size === 0 && !searchQuery) return false;
         // Category filter
