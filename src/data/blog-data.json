@@ -4,13 +4,14 @@
       "date": "2026-06-11",
       "slug": "2026-06-11",
       "title": "🔥 Best Deals Today — June 11, 2026",
-      "intro": "Today's best online deals for Thursday, June 11, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Grocery & Food and more. The best discount today is 75% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, June 11, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Other and more. The best discount today is 75% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
-        "Other",
         "Grocery & Food",
+        "Other",
+        "Electronics",
         "Cleaning Supplies",
-        "Fashion"
+        "Health"
       ],
       "byCategory": {
         "Grocery & Food": [
@@ -37,6 +38,19 @@
             "url": "https://www.amazon.com/dp/B077QK3NX4?ie=UTF8&ascsubtag=ec7e63ce65e111f18c8926b25c1d2aed0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=60fc46569c6b0129d6ce46110444b458&language=en_US"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0FQFB8FMG",
+            "slug": "apple-airpods-pro-3-wireless-earbuds-active-noise-cancellati",
+            "title": "Apple AirPods Pro 3 Wireless Earbuds, Active Noise Cancellation, Live Translation, Heart Rate Sensing, Hearing Aid Featu",
+            "price": "$179",
+            "discount": 28,
+            "rating": "WARM",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61solmQSSlL.jpg",
+            "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=noya0b-20"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0GFFMY7T2",
@@ -50,7 +64,55 @@
             "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
           }
         ],
+        "Other": [
+          {
+            "asin": "B01BVRO7T0",
+            "slug": "cellucor-cor-performance-creatine-monohydrate-for-strength-a",
+            "title": "Cellucor Cor-Performance Creatine Monohydrate for Strength and Muscle Growth, 72 Servings : Everything Else",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71bC6r2TCzL.jpg",
+            "url": "https://www.amazon.com/dp/B01BVRO7T0?ie=UTF8&ascsubtag=2124fd5c65e411f19587029a7c5090580INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=77100d5c4e7a50c331aedf4d2d63cab6&language=en_US"
+          },
+          {
+            "asin": "B0CQN3XSGR",
+            "slug": "old-bay-goldfish-61oz-bag-only-2xx-on-amazon-reg-9",
+            "title": "Old Bay Goldfish 6.1oz Bag Only $2.xx on Amazon (Reg. $9)",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eJPFthYQL.jpg",
+            "url": "https://www.amazon.com/Goldfish-Old-Bay-Bag-6-1/dp/B0CQN3XSGR?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a02a9bd5e82e6ba06d81b51b9ee6a30&language=en_US"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0DNTV6T42",
+            "slug": "colgate-total-active-prevention-deep-clean-toothpaste-antica",
+            "title": "Colgate Total Active Prevention Deep Clean Toothpaste, Anticavity Fluoride Toothpaste, Clinically Proven Fluoride Formul",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/711dAHSpF7L.jpg",
+            "url": "https://www.amazon.com/dp/B0DNTV6T42?ie=UTF8&ascsubtag=a6b6271265e311f19a833aedde9e95570INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=9e98fec7f4abeadca6dd6bcde46f5552&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0H3KXSD3V",
+            "slug": "rechhx-24-wide-farmhouse-nightstand-with-charger-station-bed",
+            "title": "RECHHX 24\" Wide Farmhouse Nightstand with Charger Station, Bedside Tables with 3 Drawer Storage, Thermoformed Curved End",
+            "price": "$84",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/A1rwkOaX0CL.jpg",
+            "url": "https://www.amazon.com/dp/B0H3KXSD3V?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0FPFKJ74X",
             "slug": "ukiss-kitchen-rugs-waterproof-kitchen-mats-cushioned-anti-fa",
@@ -72,65 +134,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/91pB3hr37WL.jpg",
             "url": "https://www.amazon.com/dp/B0FPFKJ74X?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0CZPF82BY",
-            "slug": "bella-4qt-slim-air-fryer-fits-anywhere-kitchenware-evergood",
-            "title": "bella 4Qt Slim Air Fryer, Fits-anywhere™ Kitchenware, EverGood™ Ceramic Nonstick Coating, Adjustable Temperature, 6 Pres",
-            "price": "$46.03",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61EeusgoA5L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CZPF82BY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0CQN3XSGR",
-            "slug": "old-bay-goldfish-61oz-bag-only-2xx-on-amazon-reg-9",
-            "title": "Old Bay Goldfish 6.1oz Bag Only $2.xx on Amazon (Reg. $9)",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71eJPFthYQL.jpg",
-            "url": "https://www.amazon.com/Goldfish-Old-Bay-Bag-6-1/dp/B0CQN3XSGR?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a02a9bd5e82e6ba06d81b51b9ee6a30&language=en_US"
-          },
-          {
-            "asin": "B0GHMMY96Y",
-            "slug": "hooyapik-300ml-long-lasting-water-flosser-adjustable-pressur",
-            "title": "Hooyapik 300ML Long-Lasting Water Flosser Adjustable Pressure Settings Oral Irrigator Flosser with 4 Interchangeable Noz",
-            "price": "$39.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Di8Yx8h4L.jpg",
-            "url": "https://www.amazon.com/dp/B0GHMMY96Y?tag=noya0b-20"
-          },
-          {
-            "asin": "B078PQLHX4",
-            "slug": "burpee-organic-coconut-coir-concentrated-seed-starting-mix-1",
-            "title": "Burpee Organic Coconut Coir Concentrated Seed Starting Mix, 16 Quart",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/717UZWJc5YL.jpg",
-            "url": "https://www.amazon.com/Burpee-Organic-Coir-Compressed-Starting/dp/B078PQLHX4?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b68e443b5bb7af22f335897e5120dc67&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0F3858XD8",
-            "slug": "your-always-charm-beach-jewelry-for-women-shell-necklace-gol",
-            "title": "Your Always Charm Beach Jewelry for Women Shell Necklace Gold Layered Seahell Starfish Necklace Beach Vacation Outfits A",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71D7PVIkHvL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Adjustable-Charm-Necklaces-Essentials-Accessories/dp/B0F3858XD8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=febdb183c9fab29f783d2dc4e1e5980a&language=en_US"
           }
         ]
       },
@@ -147,6 +150,17 @@
           "url": "https://www.amazon.com/dp/B0BB73JQT6?th=1&linkCode=sl2&tag=noya0b-20&linkId=aa404cf155da95c5030d63e68368409f&language=en_US"
         },
         {
+          "asin": "B0FQFB8FMG",
+          "slug": "apple-airpods-pro-3-wireless-earbuds-active-noise-cancellati",
+          "title": "Apple AirPods Pro 3 Wireless Earbuds, Active Noise Cancellation, Live Translation, Heart Rate Sensing, Hearing Aid Featu",
+          "price": "$179",
+          "discount": 28,
+          "rating": "WARM",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61solmQSSlL.jpg",
+          "url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=noya0b-20"
+        },
+        {
           "asin": "B0GFFMY7T2",
           "slug": "tide-pods-laundry-detergent-soap-with-downy-4-in-1-stain-rem",
           "title": "Tide PODS Laundry Detergent Soap with Downy 4-in-1 Stain Remover Freshness Softness Detergent pacs, April Fresh Scent, 3",
@@ -156,6 +170,39 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+        },
+        {
+          "asin": "B01BVRO7T0",
+          "slug": "cellucor-cor-performance-creatine-monohydrate-for-strength-a",
+          "title": "Cellucor Cor-Performance Creatine Monohydrate for Strength and Muscle Growth, 72 Servings : Everything Else",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71bC6r2TCzL.jpg",
+          "url": "https://www.amazon.com/dp/B01BVRO7T0?ie=UTF8&ascsubtag=2124fd5c65e411f19587029a7c5090580INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=77100d5c4e7a50c331aedf4d2d63cab6&language=en_US"
+        },
+        {
+          "asin": "B0DNTV6T42",
+          "slug": "colgate-total-active-prevention-deep-clean-toothpaste-antica",
+          "title": "Colgate Total Active Prevention Deep Clean Toothpaste, Anticavity Fluoride Toothpaste, Clinically Proven Fluoride Formul",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/711dAHSpF7L.jpg",
+          "url": "https://www.amazon.com/dp/B0DNTV6T42?ie=UTF8&ascsubtag=a6b6271265e311f19a833aedde9e95570INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=9e98fec7f4abeadca6dd6bcde46f5552&language=en_US"
+        },
+        {
+          "asin": "B0H3KXSD3V",
+          "slug": "rechhx-24-wide-farmhouse-nightstand-with-charger-station-bed",
+          "title": "RECHHX 24\" Wide Farmhouse Nightstand with Charger Station, Bedside Tables with 3 Drawer Storage, Thermoformed Curved End",
+          "price": "$84",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/A1rwkOaX0CL.jpg",
+          "url": "https://www.amazon.com/dp/B0H3KXSD3V?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FPFKJ74X",
@@ -200,60 +247,16 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71eJPFthYQL.jpg",
           "url": "https://www.amazon.com/Goldfish-Old-Bay-Bag-6-1/dp/B0CQN3XSGR?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a02a9bd5e82e6ba06d81b51b9ee6a30&language=en_US"
-        },
-        {
-          "asin": "B0F3858XD8",
-          "slug": "your-always-charm-beach-jewelry-for-women-shell-necklace-gol",
-          "title": "Your Always Charm Beach Jewelry for Women Shell Necklace Gold Layered Seahell Starfish Necklace Beach Vacation Outfits A",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71D7PVIkHvL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Adjustable-Charm-Necklaces-Essentials-Accessories/dp/B0F3858XD8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=febdb183c9fab29f783d2dc4e1e5980a&language=en_US"
-        },
-        {
-          "asin": "B0GHMMY96Y",
-          "slug": "hooyapik-300ml-long-lasting-water-flosser-adjustable-pressur",
-          "title": "Hooyapik 300ML Long-Lasting Water Flosser Adjustable Pressure Settings Oral Irrigator Flosser with 4 Interchangeable Noz",
-          "price": "$39.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Di8Yx8h4L.jpg",
-          "url": "https://www.amazon.com/dp/B0GHMMY96Y?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CZPF82BY",
-          "slug": "bella-4qt-slim-air-fryer-fits-anywhere-kitchenware-evergood",
-          "title": "bella 4Qt Slim Air Fryer, Fits-anywhere™ Kitchenware, EverGood™ Ceramic Nonstick Coating, Adjustable Temperature, 6 Pres",
-          "price": "$46.03",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61EeusgoA5L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CZPF82BY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B078PQLHX4",
-          "slug": "burpee-organic-coconut-coir-concentrated-seed-starting-mix-1",
-          "title": "Burpee Organic Coconut Coir Concentrated Seed Starting Mix, 16 Quart",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/717UZWJc5YL.jpg",
-          "url": "https://www.amazon.com/Burpee-Organic-Coir-Compressed-Starting/dp/B078PQLHX4?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b68e443b5bb7af22f335897e5120dc67&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 11, 2026?",
-          "a": "The best deals today include \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 75% off on \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\". There are 2 deals with verified discounts today."
+          "a": "The biggest discount today is 75% off on \"Arora RINGAR Round Stoneware 16pc Double Bowl Dinnerware Set...\". There are 3 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T22:20:01.827Z",
-      "updatedAt": "2026-06-11T22:20:01.827Z"
+      "generatedAt": "2026-06-11T22:30:00.790Z",
+      "updatedAt": "2026-06-11T22:30:00.790Z"
     },
     {
       "date": "2026-06-10",
@@ -1311,5 +1314,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T22:20:01.828Z"
+  "generatedAt": "2026-06-11T22:30:00.791Z"
 }
