@@ -4,17 +4,92 @@
       "date": "2026-06-11",
       "slug": "2026-06-11",
       "title": "🔥 Best Deals Today — June 11, 2026",
-      "intro": "Today's best online deals for Thursday, June 11, 2026 — 10 hand-picked discounts across Grocery & Food, Other, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, June 11, 2026 — 10 hand-picked discounts across Grocery & Food, Home & Kitchen, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Grocery & Food",
-        "Other",
         "Home & Kitchen",
+        "Cleaning Supplies",
+        "Toys & Kids",
+        "Fashion",
         "Garden & Outdoor",
-        "Beauty",
-        "Sports & Fitness"
+        "Beauty"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B003O3ACJ4",
+            "slug": "pure-life-purified-water-bottles-24-pack-still-bottled-water",
+            "title": "Pure Life Purified Water Bottles, 24 Pack - Still Bottled Water Enhanced with Minerals for a Crisp Taste, Plastic Bottle",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/813PPs84FqL.jpg",
+            "url": "https://www.amazon.com/dp/B003O3ACJ4?th=1&linkCode=sl2&tag=noya0b-20&linkId=07c73b6030ab66618bd6eb0f8e07c3e9&language=en_US"
+          },
+          {
+            "asin": "B07PFYT8MC",
+            "slug": "reynolds-kitchens-unbleached-parchment-paper-roll-non-stick",
+            "title": "Reynolds Kitchens Unbleached Parchment Paper Roll, Non Stick Parchment Paper for Cooking and Baking, Oven Safe up to 425",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+            "url": "https://www.amazon.com/dp/B07PFYT8MC?th=1&linkCode=sl2&tag=noya0b-20&linkId=ec5de3a28f49833da5035c690e07bfae&language=en_US"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0FJTLQQ8P",
+            "slug": "charmin-toilet-paper-ultra-soft-forever-roll-starter-kit-1-h",
+            "title": "Charmin Toilet Paper Ultra Soft, Forever Roll Starter Kit, 1 Holder, 2 Rolls, 2-ply Bath Tissue : Everything Else",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81+-sY-T6kL.jpg",
+            "url": "https://www.amazon.com/dp/B0FJTLQQ8P?ie=UTF8&ascsubtag=863f84f262db11f1a3caba76b1dd59260INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=b9587b7be5d10d1ea12315f92f218a87&language=en_US"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0BXQL6S69",
+            "slug": "spot-it-squishmallows-fun-card-game-for-kids-and-adults-feat",
+            "title": "Spot It! Squishmallows | Fun Card Game for Kids and Adults | Featuring Mila The Elephant or Cailey The Pink Crab and Mor",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JxnT+ou4L.jpg",
+            "url": "https://www.amazon.com/dp/B0BXQL6S69?psc=1&linkCode=sl2&tag=noya0b-20&linkId=aabd84c1ba8b500a81505fbc88bd8d7e&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0CRQFFBN1",
+            "slug": "silver-buffalo-sanrio-hello-kitty-holiday-christmas-tree-dre",
+            "title": "Silver Buffalo Sanrio Hello Kitty Holiday Christmas Tree Dress 3D Sculpted Ceramic Mug, 20 Ounces",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LnWu8BS+L.jpg",
+            "url": "https://www.amazon.com/dp/B0CRQFFBN1?th=1&linkCode=sl2&tag=noya0b-20&linkId=a4826ff032679ad983688ba60f441c2f&language=en_US"
+          }
+        ],
         "Grocery & Food": [
+          {
+            "asin": "B09CHFS1DV",
+            "slug": "sun-maid-california-sun-dried-raisins-sharing-size-box-dried",
+            "title": "\udecd️Sun-Maid California Sun-Dried Raisins - Sharing-Size Box - Dried Fruit for Healthy Snacks, School Lunches, and Natural",
+            "price": "$23.47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fAYddw4aL.jpg",
+            "url": "https://www.amazon.com/dp/B09CHFS1DV?tag=noya0b-20"
+          },
           {
             "asin": "B0F75D255X",
             "slug": "nostalgia-32-ounce-heated-electric-lunch-box-travel-size-4-c",
@@ -36,41 +111,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/8116+Y2D+vL.jpg",
             "url": "https://www.amazon.com/dp/B00OLSBP9C?th=1&linkCode=sl2&tag=noya0b-20&linkId=a8a0e01b3d563ee71baa3a6c34a5ac7e&language=en_US"
-          },
-          {
-            "asin": "B08P39M3LN",
-            "slug": "rockstar-boom-energy-drink-with-caffeine-and-taurine-packagi",
-            "title": "\udecd️Rockstar, Boom Energy Drink with Caffeine and Taurine Packaging May Vary, Whipped Strawberry, 16 Fl Oz (Pack of 12)",
-            "price": "$27.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/11kQ-RZkuxL.jpg",
-            "url": "https://www.amazon.com/dp/B08P39M3LN?tag=noya0b-20"
-          },
-          {
-            "asin": "B01JS6F66Y",
-            "slug": "frosted-flakes-breakfast-cereal-fat-free-giant-size-55-oz",
-            "title": "\udecd️Frosted Flakes Breakfast Cereal, Fat Free, Giant Size, 55 oz",
-            "price": "$7.88",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Drpg6ZPIL.jpg",
-            "url": "https://www.amazon.com/dp/B01JS6F66Y?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07PFYT8MC",
-            "slug": "reynolds-kitchens-unbleached-parchment-paper-roll-non-stick",
-            "title": "Reynolds Kitchens Unbleached Parchment Paper Roll, Non Stick Parchment Paper for Cooking and Baking, Oven Safe up to 425",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
-            "url": "https://www.amazon.com/dp/B07PFYT8MC?th=1&linkCode=sl2&tag=noya0b-20&linkId=ec5de3a28f49833da5035c690e07bfae&language=en_US"
           }
         ],
         "Garden & Outdoor": [
@@ -98,46 +138,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71GbEtwCnvL.jpg",
             "url": "https://www.amazon.com/dp/B00HF3XT3U?tag=noya0b-20"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B07DNTJPF7",
-            "slug": "franklin-sports-hi-tack-premium-football-receiver-gloves",
-            "title": "\udecd️Franklin Sports Hi-Tack Premium Football Receiver Gloves",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/A1gakzssF1S._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07DNTJPF7?tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0FHS1Q1P7",
-            "slug": "ball-vintage-glass-mason-jars-32-oz-regular-mouth-quart-size",
-            "title": "\udecd️Ball Vintage Glass Mason Jars, 32 Oz Regular Mouth Quart Size, Durable Glass Storage Jars for Canning, Preserving, and",
-            "price": "$57.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/712zobK-0eL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHS1Q1P7?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CHGFG64S",
-            "slug": "chefaide-5-pieces-silicone-spatula-set-food-grade-rubber-spa",
-            "title": "ChefAide 5 Pieces Silicone Spatula Set, Food Grade Rubber Spatula, Upgrade Strong Handle with Ergonomic Grip, Heat Resis",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51hm8-fJJkL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CHGFG64S?th=1&linkCode=sl2&tag=noya0b-20&linkId=253071b302f9ce7bc2601c9ed344dc5d&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B003O3ACJ4",
+          "slug": "pure-life-purified-water-bottles-24-pack-still-bottled-water",
+          "title": "Pure Life Purified Water Bottles, 24 Pack - Still Bottled Water Enhanced with Minerals for a Crisp Taste, Plastic Bottle",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/813PPs84FqL.jpg",
+          "url": "https://www.amazon.com/dp/B003O3ACJ4?th=1&linkCode=sl2&tag=noya0b-20&linkId=07c73b6030ab66618bd6eb0f8e07c3e9&language=en_US"
+        },
+        {
+          "asin": "B0FJTLQQ8P",
+          "slug": "charmin-toilet-paper-ultra-soft-forever-roll-starter-kit-1-h",
+          "title": "Charmin Toilet Paper Ultra Soft, Forever Roll Starter Kit, 1 Holder, 2 Rolls, 2-ply Bath Tissue : Everything Else",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81+-sY-T6kL.jpg",
+          "url": "https://www.amazon.com/dp/B0FJTLQQ8P?ie=UTF8&ascsubtag=863f84f262db11f1a3caba76b1dd59260INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=b9587b7be5d10d1ea12315f92f218a87&language=en_US"
+        },
+        {
+          "asin": "B0BXQL6S69",
+          "slug": "spot-it-squishmallows-fun-card-game-for-kids-and-adults-feat",
+          "title": "Spot It! Squishmallows | Fun Card Game for Kids and Adults | Featuring Mila The Elephant or Cailey The Pink Crab and Mor",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JxnT+ou4L.jpg",
+          "url": "https://www.amazon.com/dp/B0BXQL6S69?psc=1&linkCode=sl2&tag=noya0b-20&linkId=aabd84c1ba8b500a81505fbc88bd8d7e&language=en_US"
+        },
+        {
+          "asin": "B0CRQFFBN1",
+          "slug": "silver-buffalo-sanrio-hello-kitty-holiday-christmas-tree-dre",
+          "title": "Silver Buffalo Sanrio Hello Kitty Holiday Christmas Tree Dress 3D Sculpted Ceramic Mug, 20 Ounces",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LnWu8BS+L.jpg",
+          "url": "https://www.amazon.com/dp/B0CRQFFBN1?th=1&linkCode=sl2&tag=noya0b-20&linkId=a4826ff032679ad983688ba60f441c2f&language=en_US"
+        },
+        {
+          "asin": "B09CHFS1DV",
+          "slug": "sun-maid-california-sun-dried-raisins-sharing-size-box-dried",
+          "title": "\udecd️Sun-Maid California Sun-Dried Raisins - Sharing-Size Box - Dried Fruit for Healthy Snacks, School Lunches, and Natural",
+          "price": "$23.47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fAYddw4aL.jpg",
+          "url": "https://www.amazon.com/dp/B09CHFS1DV?tag=noya0b-20"
+        },
         {
           "asin": "B0F75D255X",
           "slug": "nostalgia-32-ounce-heated-electric-lunch-box-travel-size-4-c",
@@ -192,67 +250,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/8116+Y2D+vL.jpg",
           "url": "https://www.amazon.com/dp/B00OLSBP9C?th=1&linkCode=sl2&tag=noya0b-20&linkId=a8a0e01b3d563ee71baa3a6c34a5ac7e&language=en_US"
-        },
-        {
-          "asin": "B07DNTJPF7",
-          "slug": "franklin-sports-hi-tack-premium-football-receiver-gloves",
-          "title": "\udecd️Franklin Sports Hi-Tack Premium Football Receiver Gloves",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/A1gakzssF1S._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07DNTJPF7?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FHS1Q1P7",
-          "slug": "ball-vintage-glass-mason-jars-32-oz-regular-mouth-quart-size",
-          "title": "\udecd️Ball Vintage Glass Mason Jars, 32 Oz Regular Mouth Quart Size, Durable Glass Storage Jars for Canning, Preserving, and",
-          "price": "$57.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/712zobK-0eL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHS1Q1P7?tag=noya0b-20"
-        },
-        {
-          "asin": "B08P39M3LN",
-          "slug": "rockstar-boom-energy-drink-with-caffeine-and-taurine-packagi",
-          "title": "\udecd️Rockstar, Boom Energy Drink with Caffeine and Taurine Packaging May Vary, Whipped Strawberry, 16 Fl Oz (Pack of 12)",
-          "price": "$27.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/11kQ-RZkuxL.jpg",
-          "url": "https://www.amazon.com/dp/B08P39M3LN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CHGFG64S",
-          "slug": "chefaide-5-pieces-silicone-spatula-set-food-grade-rubber-spa",
-          "title": "ChefAide 5 Pieces Silicone Spatula Set, Food Grade Rubber Spatula, Upgrade Strong Handle with Ergonomic Grip, Heat Resis",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51hm8-fJJkL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CHGFG64S?th=1&linkCode=sl2&tag=noya0b-20&linkId=253071b302f9ce7bc2601c9ed344dc5d&language=en_US"
-        },
-        {
-          "asin": "B01JS6F66Y",
-          "slug": "frosted-flakes-breakfast-cereal-fat-free-giant-size-55-oz",
-          "title": "\udecd️Frosted Flakes Breakfast Cereal, Fat Free, Giant Size, 55 oz",
-          "price": "$7.88",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Drpg6ZPIL.jpg",
-          "url": "https://www.amazon.com/dp/B01JS6F66Y?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 11, 2026?",
-          "a": "The best deals today include \"\udecd️Nostalgia 32-Ounce Heated Electric Lunch Box – Travel Size...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Other, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Pure Life Purified Water Bottles, 24 Pack - Still Bottled Wa...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T13:40:00.461Z",
-      "updatedAt": "2026-06-11T13:40:00.461Z"
+      "generatedAt": "2026-06-11T13:50:01.752Z",
+      "updatedAt": "2026-06-11T13:50:01.752Z"
     },
     {
       "date": "2026-06-10",
@@ -1314,5 +1317,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T13:40:00.462Z"
+  "generatedAt": "2026-06-11T13:50:01.753Z"
 }
