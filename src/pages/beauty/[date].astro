@@ -132,7 +132,7 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
     .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s,border-color .15s,box-shadow .15s;text-decoration:none;color:var(--text)}
     .card:hover{transform:translateY(-3px);border-color:rgba(255,60,172,0.3);box-shadow:0 8px 32px rgba(255,60,172,0.1)}
     .card-img-box{position:relative;width:100%;padding-top:85%;background:#1e1e2e;overflow:hidden}
-    .card-img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10px;mix-blend-mode:normal}
+    .card-img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10px;background:#fff;border-radius:8px}
     .card-img-ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:2rem;background:var(--surface2)}
     .card-badge{position:absolute;top:7px;left:7px;font-size:0.6rem;font-weight:700;padding:2px 7px;border-radius:20px;background:linear-gradient(135deg,#ef4444,#b91c1c);color:#fff;white-space:nowrap}
     .card-badge--featured{background:linear-gradient(135deg,#f59e0b,#d97706);}
@@ -234,13 +234,10 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
             {emoji} Best {sub} Deals Today
           </h2>
           <div class="grid">
-            {cardsToRender.map(d => (
+            {cardsToRender.map(d => d.imageUrl ? (
               <a href={d.url} class="card" target="_blank" rel="noopener noreferrer sponsored">
                 <div class="card-img-box">
-                  {d.imageUrl
-                    ? <img class="card-img" src={d.imageUrl} alt={`${d.title} — beauty deal on Shopping With Noya`} loading="lazy" width="300" height="255" />
-                    : <div class="card-img-ph" role="img" aria-label="Beauty product image">💄</div>
-                  }
+                  <img class="card-img" src={d.imageUrl} alt={`${d.title} — beauty deal on Shopping With Noya`} loading="lazy" width="300" height="255" />
                   {d.__featured && <span class="card-badge card-badge--featured">⭐ Featured</span>}
                   {!d.__featured && d.discount > 0 && <span class="card-badge">🔥 {d.discount}% OFF</span>}
                 </div>
@@ -250,7 +247,7 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
                 </div>
                 <span class="card-btn">Check Price →</span>
               </a>
-            ))}
+            ) : null)}
           </div>
         </section>
       );
