@@ -20,6 +20,8 @@ const ogImage       = post.deals?.[0]?.imageUrl || 'https://deals.shoppingwithno
 const deals         = post.deals || [];
 const faq           = post.faq || [];
 const bySubcat      = post.bySubcat || {};
+    const featuredDeal  = post.featuredDeal || null;
+    const seintPromo    = post.seintPromo || null;
 const subcats       = post.subcats || [];
 
 const SUBCAT_EMOJI = {
@@ -139,6 +141,21 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
     .card-subcat{font-size:0.6rem;padding:2px 7px;border-radius:20px;background:rgba(255,60,172,0.12);color:#f9a8d4;border:1px solid rgba(255,60,172,0.25);display:inline-block;white-space:nowrap}
     .card-btn{display:block;text-align:center;margin:6px 10px 10px;padding:7px 4px;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff;border-radius:8px;font-size:0.68rem;font-weight:700;transition:opacity .2s}
     .card-btn:hover{opacity:0.85}
+    .featured-box{background:linear-gradient(135deg,rgba(0,212,255,0.07),rgba(123,47,255,0.07));border:1px solid rgba(0,212,255,0.25);border-radius:16px;padding:22px 24px;margin-bottom:32px}
+    .featured-top{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+    .featured-badge{font-size:0.68rem;font-weight:700;padding:3px 10px;border-radius:20px;background:linear-gradient(135deg,var(--cyan),var(--purple));color:#fff;display:inline-block}
+    .featured-eyebrow{font-size:0.72rem;color:var(--muted);font-style:italic}
+    .featured-box h3{font-size:1.05rem;font-weight:800;margin-bottom:6px}
+    .featured-box p{font-size:0.84rem;color:var(--muted);line-height:1.6;margin-bottom:14px}
+    .featured-btn{display:inline-block;padding:10px 22px;background:linear-gradient(135deg,var(--cyan),var(--purple));color:#fff;border-radius:999px;font-weight:700;font-size:0.85rem}
+    .featured-btn:hover{opacity:0.88}
+    .seint-box{background:linear-gradient(135deg,rgba(255,180,0,0.07),rgba(255,60,172,0.07));border:1px solid rgba(255,180,0,0.25);border-radius:16px;padding:24px;margin-bottom:32px;display:flex;flex-wrap:wrap;align-items:center;gap:18px}
+    .seint-text{flex:1;min-width:200px}
+    .seint-text h3{font-size:1.05rem;font-weight:800;margin-bottom:6px}
+    .seint-text p{font-size:0.84rem;color:var(--muted);line-height:1.6;margin-bottom:0}
+    .seint-badge{font-size:0.68rem;font-weight:700;padding:3px 10px;border-radius:20px;background:linear-gradient(135deg,#f59e0b,#ef4444);color:#fff;display:inline-block;margin-bottom:8px}
+    .seint-btn{display:inline-block;padding:10px 22px;background:linear-gradient(135deg,#f59e0b,#ef4444);color:#fff;border-radius:999px;font-weight:700;font-size:0.85rem;white-space:nowrap;flex-shrink:0}
+    .seint-btn:hover{opacity:0.88}
     .tg-box{background:linear-gradient(135deg,rgba(255,60,172,0.08),rgba(123,47,255,0.08));border:1px solid rgba(255,60,172,0.18);border-radius:16px;padding:24px;margin-bottom:32px}
     .tg-box h3{font-size:1.05rem;margin-bottom:8px;font-weight:700}
     .tg-box p{font-size:0.85rem;color:var(--muted);margin-bottom:16px;line-height:1.6}
@@ -201,6 +218,19 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
       <a class="share-btn" href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(post.title)}`} target="_blank" rel="noopener noreferrer">🐦 X</a>
     </div>
 
+    <!-- Featured Deal -->
+    {featuredDeal && (
+      <div class="featured-box">
+        <div class="featured-top">
+          <span class="featured-badge">{featuredDeal.badge}</span>
+          <span class="featured-eyebrow">Hand-picked by Shopping With Noya</span>
+        </div>
+        <h3>🫇 {featuredDeal.title}</h3>
+        <p>{featuredDeal.description}</p>
+        <a href={featuredDeal.url} class="featured-btn" target="_blank" rel="noopener noreferrer sponsored">Shop Now →</a>
+      </div>
+    )}
+
     <!-- Deals grouped by subcategory with H2s -->
     {subcats.map(sub => {
       const subDeals = bySubcat[sub] || [];
@@ -223,16 +253,26 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
                 </div>
                 <div class="card-body">
                   <h3 class="card-title">{d.title}</h3>
-                  {d.price && <span class="card-price">{d.price}</span>}
                   <span class="card-subcat">{SUBCAT_EMOJI[d.subcat] || '💄'} {d.subcat}</span>
                 </div>
-                <span class="card-btn">View Deal →</span>
+                <span class="card-btn">Check Price →</span>
               </a>
             ))}
           </div>
         </section>
       );
     })}
+
+    {seintPromo && (
+      <div class="seint-box">
+        <div class="seint-text">
+          <span class="seint-badge">{seintPromo.badge}</span>
+          <h3>✨ {seintPromo.title}</h3>
+          <p>{seintPromo.description}</p>
+        </div>
+        <a href={seintPromo.url} class="seint-btn" target="_blank" rel="noopener noreferrer sponsored">Shop Seint →</a>
+      </div>
+    )}
 
     <div class="tg-box">
       <h3>💄 Get Beauty Deals First!</h3>
@@ -292,3 +332,4 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
   </script>
 </body>
 </html>
+<!-- rebuild Thu Jun 11 14:56:10 EDT 2026 -->
