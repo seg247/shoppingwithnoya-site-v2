@@ -9,9 +9,9 @@
         "Other",
         "Grocery & Food",
         "Cleaning Supplies",
-        "Pet Supplies",
+        "Toys & Kids",
         "Electronics",
-        "Home & Kitchen"
+        "Pet Supplies"
       ],
       "byCategory": {
         "Cleaning Supplies": [
@@ -25,6 +25,78 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0F63764N7",
+            "slug": "sticker-maker-for-kids-make-your-own-90-puffy-stickers-kit-d",
+            "title": "Sticker Maker for Kids - Make Your Own 90 Puffy Stickers Kit - DIY More 3D Stickers Arts and Crafts for Kids Ages 6-10 -",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81x3DmYmNdL.jpg",
+            "url": "https://www.amazon.com/dp/B0F63764N7?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0CM9MNS53",
+            "slug": "daemson-mini-led-keychain-flashlight-ultra-bright-tiny-flash",
+            "title": "Daemson Mini LED Keychain Flashlight, Ultra Bright Tiny Flashlight, Small Keychain Flashlight White Light, Micro Pocket ",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61b3MNunmaL.jpg",
+            "url": "https://www.amazon.com/dp/B0CM9MNS53?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B09RRKQP98",
+            "slug": "edge-shave-gel-for-men-cedarwood-shea-butter-7oz-3-pack-shav",
+            "title": "Edge Shave Gel for Men, Cedarwood & Shea Butter, 7oz (3 Pack) - Shaving Gel For Men That Moisturizes, Protects and Sooth",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fzaRbd2QL.jpg",
+            "url": "https://www.amazon.com/dp/B09RRKQP98?ie=UTF8&ascsubtag=5cf6310665c211f18c564e915cc1e5e80INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=35944ab629e25d4851e6c2860082bb0a&language=en_US"
+          },
+          {
+            "asin": "B082R1KPH9",
+            "slug": "ovente-electric-gravy-boat-warmer-with-ceramic-pot-and-lid-d",
+            "title": "OVENTE Electric Gravy Boat Warmer with Ceramic Pot and Lid, Detachable Warming Base and Easy-Pour Spout, 13.5 Ounce Idea",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/613fU289IqL.jpg",
+            "url": "https://www.amazon.com/dp/B082R1KPH9?tag=noya0b-20"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0GXSFBZN6",
+            "slug": "dergo-upgraded-water-table-for-toddlers-toy-set-kids-sensory",
+            "title": "Dergo Upgraded Water Table for Toddlers Toy Set, Kids Sensory Sand Table Play Sink Shower Sprinkler, Summer Birthday Gif",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71AiEs3Bw-L.jpg",
+            "url": "https://www.amazon.com/dp/B0GXSFBZN6?ascsubtag=srctok-1d405f078fda3fa2&btn_ref=srctok-1d405f078fda3fa2&linkCode=sl2&tag=noya0b-20&linkId=4ac836308ac9a54d6b7aedc69f14abc8&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GWHPR36S",
+            "slug": "smart-watch-for-men-women-fitness-183fitness-tracker-with-bl",
+            "title": "Smart watch for Men Women Fitness: 1.83\"Fitness Tracker with Blutooth Call 24/7 Heart Rate SpO2 Sleep Monitor IP68 Water",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71pCIwwLThL.jpg",
+            "url": "https://www.amazon.com/dp/B0GWHPR36S?th=1&tag=noya0b-20"
           }
         ],
         "Pet Supplies": [
@@ -63,78 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71W4zwfawvL.jpg",
             "url": "https://www.amazon.com/dp/B07BMF82VN?ie=UTF8&ascsubtag=281f109c65c211f1bab8ca23f5eace7f0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=9351798a4ebbb8480202c64e0cf34068&language=en_US"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0CM9MNS53",
-            "slug": "daemson-mini-led-keychain-flashlight-ultra-bright-tiny-flash",
-            "title": "Daemson Mini LED Keychain Flashlight, Ultra Bright Tiny Flashlight, Small Keychain Flashlight White Light, Micro Pocket ",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61b3MNunmaL.jpg",
-            "url": "https://www.amazon.com/dp/B0CM9MNS53?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B09RRKQP98",
-            "slug": "edge-shave-gel-for-men-cedarwood-shea-butter-7oz-3-pack-shav",
-            "title": "Edge Shave Gel for Men, Cedarwood & Shea Butter, 7oz (3 Pack) - Shaving Gel For Men That Moisturizes, Protects and Sooth",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fzaRbd2QL.jpg",
-            "url": "https://www.amazon.com/dp/B09RRKQP98?ie=UTF8&ascsubtag=5cf6310665c211f18c564e915cc1e5e80INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=35944ab629e25d4851e6c2860082bb0a&language=en_US"
-          },
-          {
-            "asin": "B082R1KPH9",
-            "slug": "ovente-electric-gravy-boat-warmer-with-ceramic-pot-and-lid-d",
-            "title": "OVENTE Electric Gravy Boat Warmer with Ceramic Pot and Lid, Detachable Warming Base and Easy-Pour Spout, 13.5 Ounce Idea",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/613fU289IqL.jpg",
-            "url": "https://www.amazon.com/dp/B082R1KPH9?tag=noya0b-20"
-          },
-          {
-            "asin": "B093X11PKX",
-            "slug": "igloo-12-gallon-insulated-sports-water-jug-latitude-series",
-            "title": "Igloo 1/2 Gallon Insulated Sports Water Jug | Latitude Series",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/7140MNonMzS._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B093X11PKX?th=1&tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0D3GPMNCP",
-            "slug": "mofii-wireless-keyboard-and-mouse-combo-cute-colorful-full-s",
-            "title": "MOFII Wireless Keyboard and Mouse Combo, Cute Colorful Full Size Keyboard and Adjustable Mouse, 2.4GHz Retro Typewriter ",
-            "price": "$18.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71V4AlwEDbL.jpg",
-            "url": "https://www.amazon.com/dp/B0D3GPMNCP?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B00E3V3XI8",
-            "slug": "furinno-go-green-desk-31534-wide-gaming-desk-with-2-side-she",
-            "title": "Furinno Go Green Desk, 31.5&#34; Wide Gaming Desk with 2 Side Shelves and Storage Bins, Computer Desk, Office Desk for H",
-            "price": "$24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71hMRi2YniL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00E3V3XI8?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,39 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+        },
+        {
+          "asin": "B0F63764N7",
+          "slug": "sticker-maker-for-kids-make-your-own-90-puffy-stickers-kit-d",
+          "title": "Sticker Maker for Kids - Make Your Own 90 Puffy Stickers Kit - DIY More 3D Stickers Arts and Crafts for Kids Ages 6-10 -",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81x3DmYmNdL.jpg",
+          "url": "https://www.amazon.com/dp/B0F63764N7?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GXSFBZN6",
+          "slug": "dergo-upgraded-water-table-for-toddlers-toy-set-kids-sensory",
+          "title": "Dergo Upgraded Water Table for Toddlers Toy Set, Kids Sensory Sand Table Play Sink Shower Sprinkler, Summer Birthday Gif",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71AiEs3Bw-L.jpg",
+          "url": "https://www.amazon.com/dp/B0GXSFBZN6?ascsubtag=srctok-1d405f078fda3fa2&btn_ref=srctok-1d405f078fda3fa2&linkCode=sl2&tag=noya0b-20&linkId=4ac836308ac9a54d6b7aedc69f14abc8&language=en_US"
+        },
+        {
+          "asin": "B0GWHPR36S",
+          "slug": "smart-watch-for-men-women-fitness-183fitness-tracker-with-bl",
+          "title": "Smart watch for Men Women Fitness: 1.83\"Fitness Tracker with Blutooth Call 24/7 Heart Rate SpO2 Sleep Monitor IP68 Water",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pCIwwLThL.jpg",
+          "url": "https://www.amazon.com/dp/B0GWHPR36S?th=1&tag=noya0b-20"
         },
         {
           "asin": "B01N3B0U84",
@@ -214,39 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/613fU289IqL.jpg",
           "url": "https://www.amazon.com/dp/B082R1KPH9?tag=noya0b-20"
-        },
-        {
-          "asin": "B093X11PKX",
-          "slug": "igloo-12-gallon-insulated-sports-water-jug-latitude-series",
-          "title": "Igloo 1/2 Gallon Insulated Sports Water Jug | Latitude Series",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/7140MNonMzS._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B093X11PKX?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0D3GPMNCP",
-          "slug": "mofii-wireless-keyboard-and-mouse-combo-cute-colorful-full-s",
-          "title": "MOFII Wireless Keyboard and Mouse Combo, Cute Colorful Full Size Keyboard and Adjustable Mouse, 2.4GHz Retro Typewriter ",
-          "price": "$18.50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71V4AlwEDbL.jpg",
-          "url": "https://www.amazon.com/dp/B0D3GPMNCP?tag=noya0b-20"
-        },
-        {
-          "asin": "B00E3V3XI8",
-          "slug": "furinno-go-green-desk-31534-wide-gaming-desk-with-2-side-she",
-          "title": "Furinno Go Green Desk, 31.5&#34; Wide Gaming Desk with 2 Side Shelves and Storage Bins, Computer Desk, Office Desk for H",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71hMRi2YniL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00E3V3XI8?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T18:32:19.840Z",
-      "updatedAt": "2026-06-11T18:32:19.840Z"
+      "generatedAt": "2026-06-11T18:40:01.692Z",
+      "updatedAt": "2026-06-11T18:40:01.692Z"
     },
     {
       "date": "2026-06-10",
@@ -1314,5 +1314,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T18:32:19.841Z"
+  "generatedAt": "2026-06-11T18:40:01.693Z"
 }
