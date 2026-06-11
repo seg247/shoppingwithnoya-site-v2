@@ -135,6 +135,7 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
     .card-img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:10px}
     .card-img-ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:2rem;background:var(--surface2)}
     .card-badge{position:absolute;top:7px;left:7px;font-size:0.6rem;font-weight:700;padding:2px 7px;border-radius:20px;background:linear-gradient(135deg,#ef4444,#b91c1c);color:#fff;white-space:nowrap}
+    .card-badge--featured{background:linear-gradient(135deg,#f59e0b,#d97706);}
     .card-body{padding:10px 12px 6px;flex:1;display:flex;flex-direction:column;gap:5px}
     .card-title{font-size:0.75rem;font-weight:600;line-height:1.35;color:var(--text);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
     .card-price{font-size:0.78rem;font-weight:700;color:var(--accent)}
@@ -218,42 +219,34 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
       <a class="share-btn" href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(post.title)}`} target="_blank" rel="noopener noreferrer">🐦 X</a>
     </div>
 
-    <!-- Featured Deal -->
-    {featuredDeal && (
-      <div class="featured-box">
-        <div class="featured-top">
-          <span class="featured-badge">{featuredDeal.badge}</span>
-          <span class="featured-eyebrow">Hand-picked by Shopping With Noya</span>
-        </div>
-        <h3>🫇 {featuredDeal.title}</h3>
-        <p>{featuredDeal.description}</p>
-        <a href={featuredDeal.url} class="featured-btn" target="_blank" rel="noopener noreferrer sponsored">Shop Now →</a>
-      </div>
-    )}
-
     <!-- Deals grouped by subcategory with H2s -->
-    {subcats.map(sub => {
+    {subcats.map((sub, subIdx) => {
       const subDeals = bySubcat[sub] || [];
       if (subDeals.length === 0) return null;
       const emoji = SUBCAT_EMOJI[sub] || '💄';
+      // Inject featured deal as first card in first subcategory
+      const cardsToRender = (subIdx === 0 && featuredDeal)
+        ? [{ __featured: true, ...featuredDeal }, ...subDeals]
+        : subDeals;
       return (
         <section class="cat-section" aria-labelledby={`sub-${sub.replace(/\s+/g,'-').toLowerCase()}`}>
           <h2 class="cat-h2" id={`sub-${sub.replace(/\s+/g,'-').toLowerCase()}`}>
             {emoji} Best {sub} Deals Today
           </h2>
           <div class="grid">
-            {subDeals.map(d => (
+            {cardsToRender.map(d => (
               <a href={d.url} class="card" target="_blank" rel="noopener noreferrer sponsored">
                 <div class="card-img-box">
                   {d.imageUrl
                     ? <img class="card-img" src={d.imageUrl} alt={`${d.title} — beauty deal on Shopping With Noya`} loading="lazy" width="300" height="255" />
                     : <div class="card-img-ph" role="img" aria-label="Beauty product image">💄</div>
                   }
-                  {d.discount > 0 && <span class="card-badge">🔥 {d.discount}% OFF</span>}
+                  {d.__featured && <span class="card-badge card-badge--featured">⭐ Featured</span>}
+                  {!d.__featured && d.discount > 0 && <span class="card-badge">🔥 {d.discount}% OFF</span>}
                 </div>
                 <div class="card-body">
                   <h3 class="card-title">{d.title}</h3>
-                  <span class="card-subcat">{SUBCAT_EMOJI[d.subcat] || '💄'} {d.subcat}</span>
+                  <span class="card-subcat">{SUBCAT_EMOJI[d.subcat] || '💄'} {d.subcat || 'Body Care'}</span>
                 </div>
                 <span class="card-btn">Check Price →</span>
               </a>
