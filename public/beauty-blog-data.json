@@ -9,8 +9,8 @@
         "Hair Care",
         "Beauty",
         "Fragrance",
-        "Skincare",
         "Makeup",
+        "Skincare",
         "Body Care"
       ],
       "bySubcat": {
@@ -52,7 +52,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/51LWVVioctL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B000GFWIOU/ref=cm_sw_r_as_gl_apa_gl_i_8QGRSS24EBNG77RZ0S2V?linkCode=ml1&tag=noya0b-20&linkId=33c7e7ea24e10c661ab68294e9f9f7aa"
           },
           {
@@ -168,16 +168,28 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/71ZqqQ2Dc-L.jpg",
             "url": "https://www.amazon.com/dp/B0DHKQX7JS?tag=noya0b-20"
-          },
+          }
+        ],
+        "Makeup": [
           {
-            "asin": "B0C1G9YSLS",
-            "slug": "strn-citronella-reed-diffuser-set-lemongrass-fragrance-diffu",
-            "title": "\udecd️STRN Citronella Reed Diffuser Set, Lemongrass Fragrance Diffuser 200ML with 6 Sticks for Summer Indoor, Bathroom, Bedr",
+            "asin": "B0GGHMT6ZQ",
+            "slug": "famikya-hair-mascara-for-flyaways-fly-away-hair-stick-wax-st",
+            "title": "FAMIKYA Hair Mascara for Flyaways, Fly Away Hair Stick, Wax Stick for Hair, Lightweight Anti Frizz Slick Back Hair Styli",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PRSjTBOrL.jpg",
-            "url": "https://www.amazon.com/dp/B0C1G9YSLS?_encoding=UTF8&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQG0oCrBaWU94ERpeyXY0K8qAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM6IDR%2Bg0u%2BXtQrf2cAgEQgDsXzxPF2maxvgKiS6c5N%2FwUe%2FHpOYhchk7XnFLWVgax2dxbUYbD0vaoF4pX%2BmNN6Bm7fv824Ak9JqfgsQ%3D%3D&rsd=Ku1Km5%2BkzZLZK3paNPV2o9lLOoUSk0YNoIB%2FvUeX7t%2FvmBrqmZQEvjPy6xo1jLckCqXAlyT6h0qN1yx1aufBl7X2%2FwAfFm%2B7XcX6ek5Nv7zTK40%3D&social_share=cm_sw_r_cso_tg_apin_dp_KDJJQQAWCVJVT1T8NE4V&linkCode=sl2&tag=noya0b-20&linkId=20835a74882f8419664f96b4d930f878&language=en_US"
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51Zqvi7YKAL.jpg",
+            "url": "https://www.amazon.com/dp/B0GGHMT6ZQ?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0F5BY8D2X",
+            "slug": "covergirl-x-stranger-things-upseye-down-kohl-eyeliner-160-fo",
+            "title": "COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeliner - 160 For Eddie, : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71NQVRXC-7L.jpg",
+            "url": "https://www.amazon.com/dp/B0F5BY8D2X?th=1&tag=noya0b-20"
           }
         ],
         "Skincare": [
@@ -302,18 +314,6 @@
             "url": "https://www.amazon.com/dp/B0F5H7M16Z?tag=noya0b-20"
           }
         ],
-        "Makeup": [
-          {
-            "asin": "B0F5BY8D2X",
-            "slug": "covergirl-x-stranger-things-upseye-down-kohl-eyeliner-160-fo",
-            "title": "COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeliner - 160 For Eddie, : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71NQVRXC-7L.jpg",
-            "url": "https://www.amazon.com/dp/B0F5BY8D2X?th=1&tag=noya0b-20"
-          }
-        ],
         "Body Care": [
           {
             "asin": "B00HF3XT3U",
@@ -367,6 +367,16 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/21Ga0s7LnHL.jpg",
           "url": "https://www.amazon.com/dp/B09DFP9T5Y?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GGHMT6ZQ",
+          "slug": "famikya-hair-mascara-for-flyaways-fly-away-hair-stick-wax-st",
+          "title": "FAMIKYA Hair Mascara for Flyaways, Fly Away Hair Stick, Wax Stick for Hair, Lightweight Anti Frizz Slick Back Hair Styli",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/51Zqvi7YKAL.jpg",
+          "url": "https://www.amazon.com/dp/B0GGHMT6ZQ?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FWNSJ8RN",
@@ -465,7 +475,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51LWVVioctL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B000GFWIOU/ref=cm_sw_r_as_gl_apa_gl_i_8QGRSS24EBNG77RZ0S2V?linkCode=ml1&tag=noya0b-20&linkId=33c7e7ea24e10c661ab68294e9f9f7aa"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/71ZqqQ2Dc-L.jpg",
           "url": "https://www.amazon.com/dp/B0DHKQX7JS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C1G9YSLS",
-          "slug": "strn-citronella-reed-diffuser-set-lemongrass-fragrance-diffu",
-          "title": "\udecd️STRN Citronella Reed Diffuser Set, Lemongrass Fragrance Diffuser 200ML with 6 Sticks for Summer Indoor, Bathroom, Bedr",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/61PRSjTBOrL.jpg",
-          "url": "https://www.amazon.com/dp/B0C1G9YSLS?_encoding=UTF8&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQG0oCrBaWU94ERpeyXY0K8qAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM6IDR%2Bg0u%2BXtQrf2cAgEQgDsXzxPF2maxvgKiS6c5N%2FwUe%2FHpOYhchk7XnFLWVgax2dxbUYbD0vaoF4pX%2BmNN6Bm7fv824Ak9JqfgsQ%3D%3D&rsd=Ku1Km5%2BkzZLZK3paNPV2o9lLOoUSk0YNoIB%2FvUeX7t%2FvmBrqmZQEvjPy6xo1jLckCqXAlyT6h0qN1yx1aufBl7X2%2FwAfFm%2B7XcX6ek5Nv7zTK40%3D&social_share=cm_sw_r_cso_tg_apin_dp_KDJJQQAWCVJVT1T8NE4V&linkCode=sl2&tag=noya0b-20&linkId=20835a74882f8419664f96b4d930f878&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeli and more."
+          "a": "Yes! Today's makeup deals include FAMIKYA Hair Mascara for Flyaways, Fly Away Hair S and COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeli and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-11T21:20:04.180Z",
-      "updatedAt": "2026-06-11T21:20:04.180Z"
+      "generatedAt": "2026-06-11T21:30:03.958Z",
+      "updatedAt": "2026-06-11T21:30:03.958Z"
     },
     {
       "date": "2026-06-10",
@@ -1520,5 +1520,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-11T21:20:04.181Z"
+  "generatedAt": "2026-06-11T21:30:03.959Z"
 }
