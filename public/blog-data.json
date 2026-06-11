@@ -9,6 +9,7 @@
         "Other",
         "Grocery & Food",
         "Cleaning Supplies",
+        "Pet Supplies",
         "Electronics",
         "Home & Kitchen"
       ],
@@ -24,6 +25,19 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B01N3B0U84",
+            "slug": "blue-buffalo-wilderness-kitten-grain-free-chicken-pat-salmon",
+            "title": "Blue Buffalo Wilderness Kitten Grain-Free Chicken Paté & Salmon Paté Wet Cat Food with DHA, High-Protein & Made with Nat",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+uxfXBS6L.jpg",
+            "url": "https://www.amazon.com/dp/B01N3B0U84?ie=UTF8&ascsubtag=c1b14f9a65c211f1a5378ab146c404700INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=836f09c1c503d3bf1f174ad4a8725b66&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -94,17 +108,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/7140MNonMzS._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B093X11PKX?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0GCCD4DDC",
-            "slug": "pleneal-beach-bags-for-women-women-weekender-bag-extra-large",
-            "title": "Pleneal Beach Bags for Women - Women Weekender Bag, Extra Large Beach Tote Bag Waterproof Sandproof Zipper Travel & Over",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/811DjxWZGzL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GCCD4DDC?th=1&tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -145,6 +148,17 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+        },
+        {
+          "asin": "B01N3B0U84",
+          "slug": "blue-buffalo-wilderness-kitten-grain-free-chicken-pat-salmon",
+          "title": "Blue Buffalo Wilderness Kitten Grain-Free Chicken Paté & Salmon Paté Wet Cat Food with DHA, High-Protein & Made with Nat",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+uxfXBS6L.jpg",
+          "url": "https://www.amazon.com/dp/B01N3B0U84?ie=UTF8&ascsubtag=c1b14f9a65c211f1a5378ab146c404700INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=836f09c1c503d3bf1f174ad4a8725b66&language=en_US"
         },
         {
           "asin": "B0DS6LGSV6",
@@ -233,17 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71hMRi2YniL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00E3V3XI8?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GCCD4DDC",
-          "slug": "pleneal-beach-bags-for-women-women-weekender-bag-extra-large",
-          "title": "Pleneal Beach Bags for Women - Women Weekender Bag, Extra Large Beach Tote Bag Waterproof Sandproof Zipper Travel & Over",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/811DjxWZGzL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GCCD4DDC?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T18:30:09.308Z",
-      "updatedAt": "2026-06-11T18:30:09.308Z"
+      "generatedAt": "2026-06-11T18:30:38.335Z",
+      "updatedAt": "2026-06-11T18:30:38.335Z"
     },
     {
       "date": "2026-06-10",
@@ -1311,5 +1314,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T18:30:09.309Z"
+  "generatedAt": "2026-06-11T18:30:38.336Z"
 }
