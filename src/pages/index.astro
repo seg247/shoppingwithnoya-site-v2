@@ -980,7 +980,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     function getFilteredDeals() {
       // Dedup by ASIN — keep only the first occurrence (highest score / most recent)
       const seenAsins = new Set();
-      return allDeals.filter(d => {
+      const deduped = allDeals.filter(d => {
         if (d.asin && seenAsins.has(d.asin)) return false;
         if (d.asin) seenAsins.add(d.asin);
         // Never show "Other" category unless explicitly selected
@@ -994,7 +994,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
             catMatch = activeFilters.has(d.category);
           }
         }
-        // Search filter — search overrides category filter, searches cleaned title + category
+        // Search filter — search overrides category filter
         if (searchQuery) {
           const q = searchQuery.toLowerCase();
           const titleMatch = cleanTitle(d.title).toLowerCase().includes(q);
@@ -1003,6 +1003,18 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         }
         return catMatch;
       });
+
+      // Limit to today's best 30 when no search/filter active
+      if (activeFilters.size === 0 && !searchQuery) {
+        const todayStr = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
+        const today = deduped.filter(d => d.ts && d.ts.slice(0,10) === todayStr);
+        const older = deduped.filter(d => !d.ts || d.ts.slice(0,10) !== todayStr);
+        const todaySlice = today.slice(0, 30);
+        const fill = older.slice(0, Math.max(0, 30 - todaySlice.length));
+        return [...todaySlice, ...fill];
+      }
+
+      return deduped;
     }
 
     function renderDeals() {
