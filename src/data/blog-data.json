@@ -10,8 +10,8 @@
         "Grocery & Food",
         "Toys & Kids",
         "Cleaning Supplies",
-        "Garden & Outdoor",
-        "Beauty"
+        "Health",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Cleaning Supplies": [
@@ -25,6 +25,19 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0GQ69HQDR",
+            "slug": "ensure-max-protein-shake-2-in-1-muscle-support-30g-high-prot",
+            "title": "Ensure Max Protein Shake | 2-in-1 Muscle Support | 30g High Protein | HMB | 26 Vitamins & Minerals | Ready to Drink | Mi",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/61okuudk7+L.jpg",
+            "url": "https://www.amazon.com/dp/B0GQ69HQDR?ie=UTF8&ascsubtag=52f0f7c665c811f1ab65da3a1becd2c90INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=91f0faceb30fe1c6c4b8289e8a8c5d5b&language=en_US"
           }
         ],
         "Other": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81PweoWXdrL.jpg",
             "url": "https://www.amazon.com/dp/B0GKVPS15Y?th=1&tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0F5BY8D2X",
-            "slug": "covergirl-x-stranger-things-upseye-down-kohl-eyeliner-160-fo",
-            "title": "COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeliner - 160 For Eddie, : Beauty & Personal Care",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71NQVRXC-7L.jpg",
-            "url": "https://www.amazon.com/dp/B0F5BY8D2X?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,17 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+        },
+        {
+          "asin": "B0GQ69HQDR",
+          "slug": "ensure-max-protein-shake-2-in-1-muscle-support-30g-high-prot",
+          "title": "Ensure Max Protein Shake | 2-in-1 Muscle Support | 30g High Protein | HMB | 26 Vitamins & Minerals | Ready to Drink | Mi",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/61okuudk7+L.jpg",
+          "url": "https://www.amazon.com/dp/B0GQ69HQDR?ie=UTF8&ascsubtag=52f0f7c665c811f1ab65da3a1becd2c90INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=91f0faceb30fe1c6c4b8289e8a8c5d5b&language=en_US"
         },
         {
           "asin": "B0GSR786CB",
@@ -236,17 +247,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/716zr91ckVL.jpg",
           "url": "https://www.amazon.com/dp/B00YIW48OK?ie=UTF8&ascsubtag=fb198b02639311f19f3dd6fb945afc4d0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=6a5f3960dbd2572b5d2dcfd35fd77f21&language=en_US"
-        },
-        {
-          "asin": "B0F5BY8D2X",
-          "slug": "covergirl-x-stranger-things-upseye-down-kohl-eyeliner-160-fo",
-          "title": "COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeliner - 160 For Eddie, : Beauty & Personal Care",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71NQVRXC-7L.jpg",
-          "url": "https://www.amazon.com/dp/B0F5BY8D2X?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T19:04:58.859Z",
-      "updatedAt": "2026-06-11T19:04:58.859Z"
+      "generatedAt": "2026-06-11T19:07:38.537Z",
+      "updatedAt": "2026-06-11T19:07:38.537Z"
     },
     {
       "date": "2026-06-10",
@@ -1314,5 +1314,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T19:04:58.860Z"
+  "generatedAt": "2026-06-11T19:07:38.537Z"
 }
