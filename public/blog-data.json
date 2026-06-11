@@ -10,7 +10,8 @@
         "Beauty",
         "Grocery & Food",
         "Fashion",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
@@ -48,15 +49,15 @@
             "url": "https://www.amazon.com/Tide-Laundry-Remover-Clothes-Upholstery/dp/B09C2KFZ22?th=1&linkCode=sl2&tag=noya0b-20&linkId=6ed9ba06585dbe7c47f7e72859b46523&language=en_US"
           },
           {
-            "asin": "B0CB6B2JWG",
-            "slug": "admin-here-i-got-this-and-its-amazing",
-            "title": "Admin here! I got this and it's amazing!",
-            "price": "$139",
+            "asin": "B0CH929RS5",
+            "slug": "amazon-basics-100-count-sandwich-bags-only-2-on-amazon",
+            "title": "Amazon Basics 100-Count Sandwich Bags Only $2 on Amazon",
+            "price": "$2",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/218lB9jCT7L.jpg",
-            "url": "https://www.amazon.com/LEVOIT-Tangle-Resistant-Rechargeable-Lightweight-Versatile/dp/B0CB6B2JWG?th=1&linkCode=sl2&tag=noya0b-20&linkId=c7af2f6e89bc9cccfac63c632e372b0c&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/61b6cvR7+IL.jpg",
+            "url": "https://www.amazon.com/dp/B0CH929RS5?linkCode=sl1&tag=noya0b-20&linkId=912abb0cb8312af4df180316f53fe5f7&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -94,17 +95,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
             "url": "https://www.amazon.com/dp/B00KXBT51Q?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0CYQCS4KZ",
-            "slug": "hempz-glow-getter-body-lotion-hydrating-moisturizer-with-shi",
-            "title": "Hempz Glow Getter Body Lotion, Hydrating Moisturizer with Shimmer, 17 oz. : Beauty & Personal Care",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ap73ySoLL.jpg",
-            "url": "https://www.amazon.com/dp/B0CYQCS4KZ?ie=UTF8&ascsubtag=bd826f80645511f1ac8b1e3b2eadb57d0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=ca029bfae9ac3c44ac89e6a31f8fdc4b&language=en_US"
           }
         ],
         "Fashion": [
@@ -131,6 +121,19 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/91lLWzBSn+L.jpg",
             "url": "https://www.amazon.com/dp/B01NBM8ONK?th=1&linkCode=sl2&tag=noya0b-20&linkId=80e734b8edf33542ec15fb07818df728&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FM84YJCW",
+            "slug": "bedlore-full-mattress-topper-thick-pillow-top-pad-for-back-p",
+            "title": "BEDLORE Full Mattress Topper, Thick Pillow Top Pad for Back Pain Relief, Soft Mattress Cover with Deep Pockets 6-15 inch",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HS0TS6lKL.jpg",
+            "url": "https://www.amazon.com/dp/B0FM84YJCW?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -213,6 +216,28 @@
           "url": "https://www.amazon.com/dp/B01NBM8ONK?th=1&linkCode=sl2&tag=noya0b-20&linkId=80e734b8edf33542ec15fb07818df728&language=en_US"
         },
         {
+          "asin": "B0CH929RS5",
+          "slug": "amazon-basics-100-count-sandwich-bags-only-2-on-amazon",
+          "title": "Amazon Basics 100-Count Sandwich Bags Only $2 on Amazon",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61b6cvR7+IL.jpg",
+          "url": "https://www.amazon.com/dp/B0CH929RS5?linkCode=sl1&tag=noya0b-20&linkId=912abb0cb8312af4df180316f53fe5f7&language=en_US"
+        },
+        {
+          "asin": "B0FM84YJCW",
+          "slug": "bedlore-full-mattress-topper-thick-pillow-top-pad-for-back-p",
+          "title": "BEDLORE Full Mattress Topper, Thick Pillow Top Pad for Back Pain Relief, Soft Mattress Cover with Deep Pockets 6-15 inch",
+          "price": "$27",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HS0TS6lKL.jpg",
+          "url": "https://www.amazon.com/dp/B0FM84YJCW?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B00KXBT51Q",
           "slug": "worx-cordless-string-trimmer-lawn-edger-electric-weed-wacker",
           "title": "WORX Cordless String Trimmer & Lawn Edger, Electric Weed Wacker with 4.2 LBS, 20V Weed Eater with Auto Feed, Battery & C",
@@ -222,28 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
           "url": "https://www.amazon.com/dp/B00KXBT51Q?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0CB6B2JWG",
-          "slug": "admin-here-i-got-this-and-its-amazing",
-          "title": "Admin here! I got this and it's amazing!",
-          "price": "$139",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/218lB9jCT7L.jpg",
-          "url": "https://www.amazon.com/LEVOIT-Tangle-Resistant-Rechargeable-Lightweight-Versatile/dp/B0CB6B2JWG?th=1&linkCode=sl2&tag=noya0b-20&linkId=c7af2f6e89bc9cccfac63c632e372b0c&language=en_US"
-        },
-        {
-          "asin": "B0CYQCS4KZ",
-          "slug": "hempz-glow-getter-body-lotion-hydrating-moisturizer-with-shi",
-          "title": "Hempz Glow Getter Body Lotion, Hydrating Moisturizer with Shimmer, 17 oz. : Beauty & Personal Care",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ap73ySoLL.jpg",
-          "url": "https://www.amazon.com/dp/B0CYQCS4KZ?ie=UTF8&ascsubtag=bd826f80645511f1ac8b1e3b2eadb57d0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=ca029bfae9ac3c44ac89e6a31f8fdc4b&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-11T00:20:01.957Z",
-      "updatedAt": "2026-06-11T00:20:01.957Z"
+      "generatedAt": "2026-06-11T00:30:01.862Z",
+      "updatedAt": "2026-06-11T00:30:01.862Z"
     },
     {
       "date": "2026-06-09",
@@ -1046,5 +1049,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-11T00:20:01.958Z"
+  "generatedAt": "2026-06-11T00:30:01.862Z"
 }
