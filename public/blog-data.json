@@ -4,18 +4,65 @@
       "date": "2026-06-12",
       "slug": "2026-06-12",
       "title": "🔥 Best Deals Today — June 12, 2026",
-      "intro": "Today's best online deals for Friday, June 12, 2026 — 10 hand-picked discounts across Garden & Outdoor, Electronics, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, June 12, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Garden & Outdoor",
-        "Electronics",
-        "Toys & Kids",
+        "Other",
         "Home & Kitchen",
+        "Garden & Outdoor",
+        "Toys & Kids",
         "Beauty",
         "Cleaning Supplies",
-        "Grocery & Food",
-        "Other"
+        "Electronics"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0F6K59466",
+            "slug": "amazon-business-accounts",
+            "title": "Amazon business accounts",
+            "price": "$0.76",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/517iuii+nHL.jpg",
+            "url": "https://www.amazon.com/dp/B0F6K59466/ref=cm_sw_r_as_gl_apa_gl_i_Y8ZZVYFA76CQB1R0RRSX?linkCode=ml1&tag=noya0b-20&linkId=91bd6a2ba689a2808414c3fb54bd8456"
+          },
+          {
+            "asin": "B0DNSNM17F",
+            "slug": "amazon-basics-non-adjustable-weighted-vest-with-reflective-s",
+            "title": "Amazon Basics Non-Adjustable Weighted Vest with Reflective Stripe, 12 lb, Black : Sports & Outdoors",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81nP+V9PjSL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNSNM17F/ref=cm_sw_r_as_gl_apa_gl_i_dl_256VHN05FA077KF0FHVE?linkCode=ml1&tag=noya0b-20&linkId=dca12ffa84661d0dc9144f46ba444421"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B08FVCDNW1",
+            "slug": "cuisinart-c77ss-15pg-15pc-german-stainless-steel-hollow-hand",
+            "title": "Cuisinart C77SS-15PG 15pc German Stainless Steel Hollow Handle Cutlery Block Set: Home & Kitchen",
+            "price": "$77",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/717jAF+mrEL.jpg",
+            "url": "https://www.amazon.com/dp/B08FVCDNW1/ref=cm_sw_r_as_gl_apa_gl_i_DA2BFH77RMWY0A2R0XNF?linkCode=ml1&tag=noya0b-20&linkId=2f4a73f14621e5e8d934cb0e391f11a4"
+          },
+          {
+            "asin": "B0G2L3NZ2X",
+            "slug": "sunally-rolling-kitchen-cart-with-drawers-4-tier-utility-car",
+            "title": "SUNALLY Rolling Kitchen Cart with Drawers, 4-Tier Utility Cart Fruit Vegetable Storage Cart with Lockable Wheels, Wooden",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/6141pausMRL.jpg",
+            "url": "https://www.amazon.com/dp/B0G2L3NZ2X/ref=cm_sw_r_as_gl_apa_gl_i_dl_76M3HWKZMVCEA3GHKVY8?linkCode=ml1&tag=noya0b-20&linkId=eb93c69ded1cbc47f41dabfca0d2da01"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B08V751T8P",
@@ -51,19 +98,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/61PTWCcDHxL.jpg",
             "url": "https://www.amazon.com/dp/B0DVBWGQ9J?linkCode=sl2&tag=noya0b-20&linkId=48903c1036222ae734b3538df1542814&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0G2L3NZ2X",
-            "slug": "sunally-rolling-kitchen-cart-with-drawers-4-tier-utility-car",
-            "title": "SUNALLY Rolling Kitchen Cart with Drawers, 4-Tier Utility Cart Fruit Vegetable Storage Cart with Lockable Wheels, Wooden",
-            "price": "$27",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/6141pausMRL.jpg",
-            "url": "https://www.amazon.com/dp/B0G2L3NZ2X/ref=cm_sw_r_as_gl_apa_gl_i_dl_76M3HWKZMVCEA3GHKVY8?linkCode=ml1&tag=noya0b-20&linkId=eb93c69ded1cbc47f41dabfca0d2da01"
           }
         ],
         "Beauty": [
@@ -103,47 +137,43 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/21PBcT54tIL.jpg",
             "url": "https://www.amazon.com/dp/B0FDKR4RVP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0CJ5W7G41",
-            "slug": "glorious-gaming-model-d-2-pro-wireless-gaming-mouse-24ghz-wi",
-            "title": "GLORIOUS Gaming Model D 2 PRO Wireless Gaming Mouse - 2.4GHz Wireless 1ms delay, 100M clicks, 60g Ultralight, Long Batte",
-            "price": "$50.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61+-MIorK8L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CJ5W7G41?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0CP9WF89B",
-            "slug": "bai-antioxidant-infused-water-beverage-raspberry-lemon-lime",
-            "title": "Bai Antioxidant Infused Water Beverage, Raspberry Lemon Lime, with Vitamin C and No Artificial Sweeteners, 18 Fluid Ounc",
-            "price": "$14.88",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/814LMD0WFVL.jpg",
-            "url": "https://www.amazon.com/dp/B0CP9WF89B?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0GH41F7XS",
-            "slug": "inflatable-stand-up-paddle-board-for-all-skill-levels-portab",
-            "title": "Inflatable Stand Up Paddle Board for All Skill Levels - Portable SUP Paddleboard with Premium Accessories, Durable Const",
-            "price": "$97.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81uUmkw3DNL.jpg",
-            "url": "https://www.amazon.com/dp/B0GH41F7XS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F6K59466",
+          "slug": "amazon-business-accounts",
+          "title": "Amazon business accounts",
+          "price": "$0.76",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/517iuii+nHL.jpg",
+          "url": "https://www.amazon.com/dp/B0F6K59466/ref=cm_sw_r_as_gl_apa_gl_i_Y8ZZVYFA76CQB1R0RRSX?linkCode=ml1&tag=noya0b-20&linkId=91bd6a2ba689a2808414c3fb54bd8456"
+        },
+        {
+          "asin": "B0DNSNM17F",
+          "slug": "amazon-basics-non-adjustable-weighted-vest-with-reflective-s",
+          "title": "Amazon Basics Non-Adjustable Weighted Vest with Reflective Stripe, 12 lb, Black : Sports & Outdoors",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81nP+V9PjSL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNSNM17F/ref=cm_sw_r_as_gl_apa_gl_i_dl_256VHN05FA077KF0FHVE?linkCode=ml1&tag=noya0b-20&linkId=dca12ffa84661d0dc9144f46ba444421"
+        },
+        {
+          "asin": "B08FVCDNW1",
+          "slug": "cuisinart-c77ss-15pg-15pc-german-stainless-steel-hollow-hand",
+          "title": "Cuisinart C77SS-15PG 15pc German Stainless Steel Hollow Handle Cutlery Block Set: Home & Kitchen",
+          "price": "$77",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/717jAF+mrEL.jpg",
+          "url": "https://www.amazon.com/dp/B08FVCDNW1/ref=cm_sw_r_as_gl_apa_gl_i_DA2BFH77RMWY0A2R0XNF?linkCode=ml1&tag=noya0b-20&linkId=2f4a73f14621e5e8d934cb0e391f11a4"
+        },
         {
           "asin": "B08V751T8P",
           "slug": "fisher-price-imaginext-dc-super-friends-batman-toy-bat-tech",
@@ -220,49 +250,16 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/21PBcT54tIL.jpg",
           "url": "https://www.amazon.com/dp/B0FDKR4RVP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CP9WF89B",
-          "slug": "bai-antioxidant-infused-water-beverage-raspberry-lemon-lime",
-          "title": "Bai Antioxidant Infused Water Beverage, Raspberry Lemon Lime, with Vitamin C and No Artificial Sweeteners, 18 Fluid Ounc",
-          "price": "$14.88",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/814LMD0WFVL.jpg",
-          "url": "https://www.amazon.com/dp/B0CP9WF89B?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CJ5W7G41",
-          "slug": "glorious-gaming-model-d-2-pro-wireless-gaming-mouse-24ghz-wi",
-          "title": "GLORIOUS Gaming Model D 2 PRO Wireless Gaming Mouse - 2.4GHz Wireless 1ms delay, 100M clicks, 60g Ultralight, Long Batte",
-          "price": "$50.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61+-MIorK8L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CJ5W7G41?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GH41F7XS",
-          "slug": "inflatable-stand-up-paddle-board-for-all-skill-levels-portab",
-          "title": "Inflatable Stand Up Paddle Board for All Skill Levels - Portable SUP Paddleboard with Premium Accessories, Durable Const",
-          "price": "$97.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81uUmkw3DNL.jpg",
-          "url": "https://www.amazon.com/dp/B0GH41F7XS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 12, 2026?",
-          "a": "The best deals today include \"Fisher-Price Imaginext DC Super Friends Batman Toy Bat-Tech ...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Electronics, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Garden & Outdoor and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-12T06:20:01.852Z",
-      "updatedAt": "2026-06-12T06:20:01.852Z"
+      "generatedAt": "2026-06-12T06:30:01.851Z",
+      "updatedAt": "2026-06-12T06:30:01.851Z"
     },
     {
       "date": "2026-06-11",
@@ -1588,5 +1585,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-12T06:20:01.852Z"
+  "generatedAt": "2026-06-12T06:30:01.852Z"
 }
