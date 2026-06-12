@@ -4,17 +4,79 @@
       "date": "2026-06-12",
       "slug": "2026-06-12",
       "title": "🔥 Best Deals Today — June 12, 2026",
-      "intro": "Today's best online deals for Friday, June 12, 2026 — 10 hand-picked discounts across Other, Fashion, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, June 12, 2026 — 10 hand-picked discounts across Garden & Outdoor, Fashion, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Fashion",
-        "Home & Kitchen",
         "Garden & Outdoor",
+        "Fashion",
+        "Other",
+        "Cleaning Supplies",
         "Sports & Fitness",
-        "Pet Supplies"
+        "Electronics",
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Cleaning Supplies": [
+          {
+            "asin": "B0BKKPYX6P",
+            "slug": "glade-plugins-refills-air-freshener-scented-and-essential-oi",
+            "title": "\udecd️Glade PlugIns Refills Air Freshener, Scented and Essential Oils for Home and Bathroom, Clean Linen, 6.7 Fl Oz, 10 Coun",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Bh51ka1TL.jpg",
+            "url": "https://www.amazon.com/dp/B0BKKPYX6P/ref=cm_sw_r_as_gl_api_gl_i_TEQ06CVM10Q2F53466SZ?linkCode=ml1&tag=noya0b-20&linkId=59970d038509f8e83971a02675425800"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B0FP12LW82",
+            "slug": "noetifex-weighted-heavy-basketball-3lbs22lbs-295287-training",
+            "title": "Noetifex Weighted Heavy Basketball 3LBS/2.2LBS 29.5\"/28.7\" Training Equipment for Indoor & Outdoor – Improve Dribbling, ",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/81iXu+WIPKL.jpg",
+            "url": "https://www.amazon.com/Noetifex-Weighted-Basketball-Training-Equipment/dp/B0FP12LW82?content-id=amzn1.sym.5c99805c-d3b5-46b3-8a3c-38c54fad4eab&pd_rd_i=B0FP12LW82&th=1&linkCode=sl2&tag=noya0b-20&linkId=0245368e5e46af2e0c99b44855af45e2&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0D6NQKDWJ",
+            "slug": "coleman-46810-person-instant-camping-tent-with-1-minute-setu",
+            "title": "Coleman 4/6/8/10 Person Instant Camping Tent with 1-Minute Setup, Large Family Tent with Pre-Attached Poles, Air Vent, &",
+            "price": "$176.47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71DDUmkA3-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D6NQKDWJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B09Q39ZY44",
+            "slug": "east-oak-outdoor-storage-box-31-gallon-deck-box-indoor-and-o",
+            "title": "EAST OAK Outdoor Storage Box, 31 Gallon Deck Box Indoor and Outdoor Use, Waterproof Resin Storage Bin for Package Delive",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MSe-p8uDL.jpg",
+            "url": "https://www.amazon.com/dp/B09Q39ZY44?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Fashion": [
+          {
+            "asin": "B0BV8YD1HV",
+            "slug": "michael-kors-unisex-hudson-utility-crossbody-bag-handbags",
+            "title": "Michael Kors Unisex Hudson Utility Crossbody Bag: Handbags",
+            "price": "$99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61pnU1-vxrL._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/Hudson-Logo-Utility-Crossbody-Bag/dp/B0BV8YD1HV?content-id=amzn1.sym.b2ea96de-4ff7-488a-9aef-60031d957bf3&pd_rd_i=B0BV8YD1HV&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=77c673c0a96a62e316c01f7d81a9f25a&language=en_US"
+          },
           {
             "asin": "B0D9R8RHHG",
             "slug": "karl-lagerfeld-paris-womens-handbags-hoboblackgunmental1sz-c",
@@ -25,17 +87,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81G68N64ydL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/KARL-LAGERFELD-Womens-Handbags-Gunmental/dp/B0D9R8RHHG?content-id=amzn1.sym.b2ea96de-4ff7-488a-9aef-60031d957bf3&pd_rd_i=B0D9R8RHHG&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=5a540621241ff481b41c194183312a40&language=en_US"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0F1SNXBZV",
-            "slug": "wzjly-chunky-gold-bracelets-for-women-14k-gold-plated-bracel",
-            "title": "\udecd️WZJLY Chunky Gold Bracelets for Women, 14K Gold Plated Bracelet Stack Non Tarnish Layered Cable Chain Herringbone Snak",
-            "price": "$2.99",
+            "asin": "B0101Q5ZD4",
+            "slug": "emergen-c-chewable-vitamin-c-1000mg-with-b-vitamins-and-anti",
+            "title": "\udecd️Emergen-C Chewable Vitamin C 1000mg, With B Vitamins And Antioxidants Tablet (40 Count, Orange Blast Flavor), Dietary ",
+            "price": "$12.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ByQT7ZUUL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F1SNXBZV?tag=noya0b-20"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fC2L7d7EL.jpg",
+            "url": "https://www.amazon.com/dp/B0101Q5ZD4/ref=cm_sw_r_as_gl_api_gl_i_02N4HRYGRZT9Y9GFTC94?linkCode=ml1&tag=noya0b-20&linkId=375c3a2ad12990e63a433d184d8551db"
           }
         ],
         "Home & Kitchen": [
@@ -49,17 +113,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/41zqGCVxagL._AC_SL1024_.jpg",
             "url": "https://www.amazon.com/dp/B009GQ034C?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0G6BH9116",
-            "slug": "susurration-2-pack-thick-muslin-baby-towels-100-cotton-soft",
-            "title": "\udecd️Susurration 2 Pack Thick Muslin Baby Towels, 100% Cotton Soft and Absorbent Baby Bath Hooded Towel for Newborn, Infant",
-            "price": "$16.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81nSnyVJeNL.jpg",
-            "url": "https://www.amazon.com/dp/B0G6BH9116?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -84,60 +137,65 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/21exUw2ezwL.jpg",
             "url": "https://www.amazon.com/dp/B0DXMJGQWC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B000H6QI2G",
-            "slug": "single-color-duckworth-duck-mini-4-assorted-sizepack-of-1",
-            "title": "\udecd️single color Duckworth Duck MINI 4\" Assorted Size:Pack of 1",
-            "price": "$4.29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81HE9BWv7aL.jpg",
-            "url": "https://www.amazon.com/dp/B000H6QI2G?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B09Q39ZY44",
-            "slug": "east-oak-outdoor-storage-box-31-gallon-deck-box-indoor-and-o",
-            "title": "EAST OAK Outdoor Storage Box, 31 Gallon Deck Box Indoor and Outdoor Use, Waterproof Resin Storage Bin for Package Delive",
-            "price": "$24.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MSe-p8uDL.jpg",
-            "url": "https://www.amazon.com/dp/B09Q39ZY44?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0CM31YZFZ",
-            "slug": "fecawd-6-pack-wristbands-sweatbands-for-men-women-breathable",
-            "title": "\udecd️Fecawd 6 Pack Wristbands Sweatbands for Men & Women, Breathable Tennis Wrist Bands Absorbent Sweat Band Multiuse Wrist",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/81x5Y+Ysg3L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CM31YZFZ?tag=noya0b-20"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B007V9VQ06",
-            "slug": "milk-bone-original-biscuits-medium-dog-treats-24-oz-box",
-            "title": "Milk-Bone Original Biscuits, Medium Dog Treats, 24 Oz. Box",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81v9NrdGI9L.jpg",
-            "url": "https://www.amazon.com/dp/B007V9VQ06?ascsubtag=srctok-4e9f8bc8b9c424e8&btn_ref=srctok-4e9f8bc8b9c424e8&th=1&linkCode=sl2&tag=noya0b-20&linkId=39e1faf55dda140986b5f97f1839a067&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0BKKPYX6P",
+          "slug": "glade-plugins-refills-air-freshener-scented-and-essential-oi",
+          "title": "\udecd️Glade PlugIns Refills Air Freshener, Scented and Essential Oils for Home and Bathroom, Clean Linen, 6.7 Fl Oz, 10 Coun",
+          "price": "$24.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Bh51ka1TL.jpg",
+          "url": "https://www.amazon.com/dp/B0BKKPYX6P/ref=cm_sw_r_as_gl_api_gl_i_TEQ06CVM10Q2F53466SZ?linkCode=ml1&tag=noya0b-20&linkId=59970d038509f8e83971a02675425800"
+        },
+        {
+          "asin": "B0FP12LW82",
+          "slug": "noetifex-weighted-heavy-basketball-3lbs22lbs-295287-training",
+          "title": "Noetifex Weighted Heavy Basketball 3LBS/2.2LBS 29.5\"/28.7\" Training Equipment for Indoor & Outdoor – Improve Dribbling, ",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/81iXu+WIPKL.jpg",
+          "url": "https://www.amazon.com/Noetifex-Weighted-Basketball-Training-Equipment/dp/B0FP12LW82?content-id=amzn1.sym.5c99805c-d3b5-46b3-8a3c-38c54fad4eab&pd_rd_i=B0FP12LW82&th=1&linkCode=sl2&tag=noya0b-20&linkId=0245368e5e46af2e0c99b44855af45e2&language=en_US"
+        },
+        {
+          "asin": "B0D6NQKDWJ",
+          "slug": "coleman-46810-person-instant-camping-tent-with-1-minute-setu",
+          "title": "Coleman 4/6/8/10 Person Instant Camping Tent with 1-Minute Setup, Large Family Tent with Pre-Attached Poles, Air Vent, &",
+          "price": "$176.47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71DDUmkA3-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0D6NQKDWJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0BV8YD1HV",
+          "slug": "michael-kors-unisex-hudson-utility-crossbody-bag-handbags",
+          "title": "Michael Kors Unisex Hudson Utility Crossbody Bag: Handbags",
+          "price": "$99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61pnU1-vxrL._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/Hudson-Logo-Utility-Crossbody-Bag/dp/B0BV8YD1HV?content-id=amzn1.sym.b2ea96de-4ff7-488a-9aef-60031d957bf3&pd_rd_i=B0BV8YD1HV&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=77c673c0a96a62e316c01f7d81a9f25a&language=en_US"
+        },
+        {
+          "asin": "B0101Q5ZD4",
+          "slug": "emergen-c-chewable-vitamin-c-1000mg-with-b-vitamins-and-anti",
+          "title": "\udecd️Emergen-C Chewable Vitamin C 1000mg, With B Vitamins And Antioxidants Tablet (40 Count, Orange Blast Flavor), Dietary ",
+          "price": "$12.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fC2L7d7EL.jpg",
+          "url": "https://www.amazon.com/dp/B0101Q5ZD4/ref=cm_sw_r_as_gl_api_gl_i_02N4HRYGRZT9Y9GFTC94?linkCode=ml1&tag=noya0b-20&linkId=375c3a2ad12990e63a433d184d8551db"
+        },
         {
           "asin": "B0D9R8RHHG",
           "slug": "karl-lagerfeld-paris-womens-handbags-hoboblackgunmental1sz-c",
@@ -192,71 +250,16 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/21exUw2ezwL.jpg",
           "url": "https://www.amazon.com/dp/B0DXMJGQWC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CM31YZFZ",
-          "slug": "fecawd-6-pack-wristbands-sweatbands-for-men-women-breathable",
-          "title": "\udecd️Fecawd 6 Pack Wristbands Sweatbands for Men & Women, Breathable Tennis Wrist Bands Absorbent Sweat Band Multiuse Wrist",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/81x5Y+Ysg3L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CM31YZFZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B007V9VQ06",
-          "slug": "milk-bone-original-biscuits-medium-dog-treats-24-oz-box",
-          "title": "Milk-Bone Original Biscuits, Medium Dog Treats, 24 Oz. Box",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81v9NrdGI9L.jpg",
-          "url": "https://www.amazon.com/dp/B007V9VQ06?ascsubtag=srctok-4e9f8bc8b9c424e8&btn_ref=srctok-4e9f8bc8b9c424e8&th=1&linkCode=sl2&tag=noya0b-20&linkId=39e1faf55dda140986b5f97f1839a067&language=en_US"
-        },
-        {
-          "asin": "B0F1SNXBZV",
-          "slug": "wzjly-chunky-gold-bracelets-for-women-14k-gold-plated-bracel",
-          "title": "\udecd️WZJLY Chunky Gold Bracelets for Women, 14K Gold Plated Bracelet Stack Non Tarnish Layered Cable Chain Herringbone Snak",
-          "price": "$2.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ByQT7ZUUL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F1SNXBZV?tag=noya0b-20"
-        },
-        {
-          "asin": "B0G6BH9116",
-          "slug": "susurration-2-pack-thick-muslin-baby-towels-100-cotton-soft",
-          "title": "\udecd️Susurration 2 Pack Thick Muslin Baby Towels, 100% Cotton Soft and Absorbent Baby Bath Hooded Towel for Newborn, Infant",
-          "price": "$16.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81nSnyVJeNL.jpg",
-          "url": "https://www.amazon.com/dp/B0G6BH9116?tag=noya0b-20"
-        },
-        {
-          "asin": "B000H6QI2G",
-          "slug": "single-color-duckworth-duck-mini-4-assorted-sizepack-of-1",
-          "title": "\udecd️single color Duckworth Duck MINI 4\" Assorted Size:Pack of 1",
-          "price": "$4.29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81HE9BWv7aL.jpg",
-          "url": "https://www.amazon.com/dp/B000H6QI2G?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 12, 2026?",
-          "a": "The best deals today include \"KARL LAGERFELD Paris Women's Handbags Hobo,Black/Gunmental,1...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"\udecd️Glade PlugIns Refills Air Freshener, Scented and Essential...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Fashion, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Garden & Outdoor and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-12T14:30:01.370Z",
-      "updatedAt": "2026-06-12T14:30:01.370Z"
+      "generatedAt": "2026-06-12T14:40:02.149Z",
+      "updatedAt": "2026-06-12T14:40:02.150Z"
     },
     {
       "date": "2026-06-11",
@@ -1582,5 +1585,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-12T14:30:01.370Z"
+  "generatedAt": "2026-06-12T14:40:02.150Z"
 }
