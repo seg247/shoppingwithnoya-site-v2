@@ -9,9 +9,70 @@
         "Other",
         "Grocery & Food",
         "Home & Kitchen",
-        "Beauty"
+        "Fashion"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0D2LZK8Z1",
+            "slug": "disney-moana-fruit-flavored-snacks-fat-free-and-gluten-free",
+            "title": "Disney Moana Fruit Flavored Snacks, Fat Free and Gluten Free Snacks, 8 oz (10 Pouches) : Grocery & Gourmet Food",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81V3Y3g3NoL.jpg",
+            "url": "https://www.amazon.com/dp/B0D2LZK8Z1/ref=cm_sw_r_as_gl_apa_gl_i_F8DT8Z3W38707GEPPNWP?linkCode=ml1&tag=noya0b-20&linkId=376b6c89692c2d82918dd73e67d63ef7"
+          },
+          {
+            "asin": "B0CSH9MXWG",
+            "slug": "dr-teals-pink-himalayan-salt-body-scrub-restore-replenish-wi",
+            "title": "Dr Teal's Pink Himalayan Salt Body Scrub, Restore & Replenish with Pure Epsom Salt & Essential Oils, 16 oz (Pack of 3) :",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71e0NAJhVsL.jpg",
+            "url": "https://www.amazon.com/dp/B0CSH9MXWG/ref=cm_sw_r_as_gl_apa_gl_i_5M2MDBDG9NB2JS4WR0YE?linkCode=ml1&tag=noya0b-20&linkId=55a4cf72fb6ff82e366bc56970fd3c6c"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0F22THKY9",
+            "slug": "michael-kors-hudson-double-zip-mini-flight-bag-silver-tone-h",
+            "title": "Michael Kors Hudson Double Zip Mini Flight Bag, Silver Tone-Hardware/Bright White : Clothing, Shoes & Jewelry",
+            "price": "$79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81sErlOLoIL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F22THKY9/ref=cm_sw_r_as_gl_apa_gl_i_dl_C20KBP2YRBNJRTQR9YRG?linkCode=ml1&tag=noya0b-20&linkId=e04b82ceeefe508e5065372b909df513"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B00IXBMS6M",
+            "slug": "nuwave-bravo-air-fryer-toaster-smart-oven-12-in-1-countertop",
+            "title": "Nuwave Bravo Air Fryer Toaster Smart Oven, 12-in-1 Countertop Convection, 30-QT XL Capacity, 50°-500°F Temperature Contr",
+            "price": "$129.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81UDiz1iWPL.jpg",
+            "url": "https://www.amazon.com/dp/B00IXBMS6M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0CJMV9RZK",
+            "slug": "nuwave-bravo-xl-pro-air-fryer-toaster-oven-improved-100-supe",
+            "title": "Nuwave Bravo XL Pro Air Fryer Toaster Oven, Improved 100% Super Convection, Quicker & Crispier Results, 100 Presets, Mul",
+            "price": "$143.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71QBhM7Q9HL.jpg",
+            "url": "https://www.amazon.com/dp/B0CJMV9RZK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Other": [
           {
             "asin": "0544562399",
@@ -68,70 +129,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31DKPSKFbfL.jpg",
             "url": "https://www.amazon.com/dp/B0GRWNHL76?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0CJMV9RZK",
-            "slug": "nuwave-bravo-xl-pro-air-fryer-toaster-oven-improved-100-supe",
-            "title": "Nuwave Bravo XL Pro Air Fryer Toaster Oven, Improved 100% Super Convection, Quicker & Crispier Results, 100 Presets, Mul",
-            "price": "$143.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71QBhM7Q9HL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJMV9RZK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0CSH9MXWG",
-            "slug": "dr-teals-pink-himalayan-salt-body-scrub-restore-replenish-wi",
-            "title": "Dr Teal's Pink Himalayan Salt Body Scrub, Restore & Replenish with Pure Epsom Salt & Essential Oils, 16 oz (Pack of 3) :",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71e0NAJhVsL.jpg",
-            "url": "https://www.amazon.com/dp/B0CSH9MXWG/ref=cm_sw_r_as_gl_apa_gl_i_5M2MDBDG9NB2JS4WR0YE?linkCode=ml1&tag=noya0b-20&linkId=55a4cf72fb6ff82e366bc56970fd3c6c"
-          },
-          {
-            "asin": "B0D5P77MYW",
-            "slug": "c4-energy-drink-hawaiian-punch-fruit-juicy-red-carbonated-su",
-            "title": "C4 Energy Drink, Hawaiian Punch Fruit Juicy Red, Carbonated Sugar Free Pre Workout Performance Drink with no Artificial ",
-            "price": "$22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/816pws2v1VL.jpg",
-            "url": "https://www.amazon.com/dp/B0D5P77MYW/ref=cm_sw_r_as_gl_apa_gl_i_JDJMXSXAM7M3W2P1YPST?linkCode=ml1&tag=noya0b-20&linkId=58f9a267670e6322a9f4396146d5f27b"
-          },
-          {
-            "asin": "B0DV27G7S5",
-            "slug": "snows-wild-caught-chopped-clams-canned-15-oz-can-served-in-c",
-            "title": "Snow's Wild Caught Chopped Clams Canned, 15 oz Can - Served in Clam Juice - 4g Protein Per Serving - Gluten Free, Keto F",
-            "price": "$3.55",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81veOWLI7DL.jpg",
-            "url": "https://www.amazon.com/dp/B0DV27G7S5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B08FW89JBN",
-            "slug": "eltamd-uv-restoreface-sunscreen-spf-40-mineral-sunscreen-for",
-            "title": "EltaMD UV Restore,Face Sunscreen, SPF 40, Mineral Sunscreen for Sun Damaged Skin Repair, Anti-Aging Zinc Oxide Sunscreen",
-            "price": "$24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61c7t1IzM-L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08FW89JBN/ref=cm_sw_r_as_gl_apa_gl_i_FDWQ73XD6PTEEBGSQVPK?linkCode=ml1&tag=noya0b-20&linkId=241e0fe013f6997f9d48e2a71d009e9a"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D2LZK8Z1",
+          "slug": "disney-moana-fruit-flavored-snacks-fat-free-and-gluten-free",
+          "title": "Disney Moana Fruit Flavored Snacks, Fat Free and Gluten Free Snacks, 8 oz (10 Pouches) : Grocery & Gourmet Food",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81V3Y3g3NoL.jpg",
+          "url": "https://www.amazon.com/dp/B0D2LZK8Z1/ref=cm_sw_r_as_gl_apa_gl_i_F8DT8Z3W38707GEPPNWP?linkCode=ml1&tag=noya0b-20&linkId=376b6c89692c2d82918dd73e67d63ef7"
+        },
+        {
+          "asin": "B0F22THKY9",
+          "slug": "michael-kors-hudson-double-zip-mini-flight-bag-silver-tone-h",
+          "title": "Michael Kors Hudson Double Zip Mini Flight Bag, Silver Tone-Hardware/Bright White : Clothing, Shoes & Jewelry",
+          "price": "$79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81sErlOLoIL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F22THKY9/ref=cm_sw_r_as_gl_apa_gl_i_dl_C20KBP2YRBNJRTQR9YRG?linkCode=ml1&tag=noya0b-20&linkId=e04b82ceeefe508e5065372b909df513"
+        },
+        {
+          "asin": "B00IXBMS6M",
+          "slug": "nuwave-bravo-air-fryer-toaster-smart-oven-12-in-1-countertop",
+          "title": "Nuwave Bravo Air Fryer Toaster Smart Oven, 12-in-1 Countertop Convection, 30-QT XL Capacity, 50°-500°F Temperature Contr",
+          "price": "$129.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81UDiz1iWPL.jpg",
+          "url": "https://www.amazon.com/dp/B00IXBMS6M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "0544562399",
           "slug": "curious-george-classic-collection-7-book-box-set-97805445623",
@@ -208,45 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/31DKPSKFbfL.jpg",
           "url": "https://www.amazon.com/dp/B0GRWNHL76?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D5P77MYW",
-          "slug": "c4-energy-drink-hawaiian-punch-fruit-juicy-red-carbonated-su",
-          "title": "C4 Energy Drink, Hawaiian Punch Fruit Juicy Red, Carbonated Sugar Free Pre Workout Performance Drink with no Artificial ",
-          "price": "$22",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/816pws2v1VL.jpg",
-          "url": "https://www.amazon.com/dp/B0D5P77MYW/ref=cm_sw_r_as_gl_apa_gl_i_JDJMXSXAM7M3W2P1YPST?linkCode=ml1&tag=noya0b-20&linkId=58f9a267670e6322a9f4396146d5f27b"
-        },
-        {
-          "asin": "B08FW89JBN",
-          "slug": "eltamd-uv-restoreface-sunscreen-spf-40-mineral-sunscreen-for",
-          "title": "EltaMD UV Restore,Face Sunscreen, SPF 40, Mineral Sunscreen for Sun Damaged Skin Repair, Anti-Aging Zinc Oxide Sunscreen",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61c7t1IzM-L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08FW89JBN/ref=cm_sw_r_as_gl_apa_gl_i_FDWQ73XD6PTEEBGSQVPK?linkCode=ml1&tag=noya0b-20&linkId=241e0fe013f6997f9d48e2a71d009e9a"
-        },
-        {
-          "asin": "B0DV27G7S5",
-          "slug": "snows-wild-caught-chopped-clams-canned-15-oz-can-served-in-c",
-          "title": "Snow's Wild Caught Chopped Clams Canned, 15 oz Can - Served in Clam Juice - 4g Protein Per Serving - Gluten Free, Keto F",
-          "price": "$3.55",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81veOWLI7DL.jpg",
-          "url": "https://www.amazon.com/dp/B0DV27G7S5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 12, 2026?",
-          "a": "The best deals today include \"Curious George Classic Collection: 7-Book Box Set: 978054456...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Disney Moana Fruit Flavored Snacks, Fat Free and Gluten Free...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-12T07:30:01.896Z",
-      "updatedAt": "2026-06-12T07:30:01.896Z"
+      "generatedAt": "2026-06-12T07:40:01.372Z",
+      "updatedAt": "2026-06-12T07:40:01.372Z"
     },
     {
       "date": "2026-06-11",
@@ -1576,5 +1576,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-12T07:30:01.897Z"
+  "generatedAt": "2026-06-12T07:40:01.373Z"
 }
