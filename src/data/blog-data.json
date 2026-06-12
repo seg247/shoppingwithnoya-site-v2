@@ -9,11 +9,22 @@
         "Home & Kitchen",
         "Other",
         "Grocery & Food",
-        "Beauty",
-        "Electronics"
+        "Garden & Outdoor",
+        "Beauty"
       ],
       "byCategory": {
         "Home & Kitchen": [
+          {
+            "asin": "B0GL7Z3V7G",
+            "slug": "sweetcrispy-4-fabric-drawer-small-dresser-bedside-nightstand",
+            "title": "Sweetcrispy 4 Fabric Drawer Small Dresser, Bedside Nightstand with Wooden Top Sturdy Frame, Entryway Closet Bedroom Stor",
+            "price": "$28",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/31Ewlq-IkiL.jpg",
+            "url": "https://www.amazon.com/dp/B0GL7Z3V7G?th=1&linkCode=sl2&tag=noya0b-20&linkId=e867b7f5c55ef58ecfb3ea4e6c818abf&language=en_US"
+          },
           {
             "asin": "B0FWRMJBPY",
             "slug": "juicy-couture-disco-cherry-bows-plush-5034-x-7034-throw-blan",
@@ -48,7 +59,44 @@
             "url": "https://www.amazon.com/dp/B0D49ZG8D2?th=1&tag=noya0b-20"
           }
         ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0DVBWGQ9J",
+            "slug": "gourmia-3-in-1-indoor-grill-griddle-electric-combo-dual-inde",
+            "title": "Gourmia 3-in-1 Indoor Grill & Griddle Electric Combo – Dual Independent Cooking Zones, Reversible Nonstick Ceramic Plate",
+            "price": "$55",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61PTWCcDHxL.jpg",
+            "url": "https://www.amazon.com/dp/B0DVBWGQ9J?linkCode=sl2&tag=noya0b-20&linkId=d63cce031d9d1c2a9cd620541dd2a693&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B003KNQ968",
+            "slug": "revlon-photoready-blurring-face-powder-face-makeup-packaging",
+            "title": "Revlon PhotoReady Blurring Face Powder, Face Makeup, Packaging May Vary, 030 Medium Deep : Beauty & Personal Care",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71DQmgWeJhL.jpg",
+            "url": "https://www.amazon.com/dp/B003KNQ968?th=1&tag=noya0b-20"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0FB7KNN6K",
+            "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw-14-oz-flo",
+            "title": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 14 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel ",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+            "url": "https://www.amazon.com/dp/B0FB7KNN6K?th=1&linkCode=sl2&tag=noya0b-20&linkId=b81927a90bb13cb39a648b35032fe820&language=en_US"
+          },
           {
             "asin": "B0CRMYHY1B",
             "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw-40-oz-flo",
@@ -59,28 +107,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/11QNjMPxpaL.jpg",
             "url": "https://www.amazon.com/dp/B0CRMYHY1B?th=1&linkCode=sl2&tag=noya0b-20&linkId=1f29d013d0c2bda35ad152975b878ac0&language=en_US"
-          },
-          {
-            "asin": "B0GPXVH9QY",
-            "slug": "newbulig-mini-stepper-for-exercise-at-home-stair-step-machin",
-            "title": "\udecd️NEWBULIG Mini Stepper for Exercise at Home Stair Step Machine for Indoor Fitness Portable Home Gym Stepper for Full Bo",
-            "price": "$45.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61s599eifpL.jpg",
-            "url": "https://www.amazon.com/dp/B0GPXVH9QY?tag=noya0b-20"
-          },
-          {
-            "asin": "B07PFYT8MC",
-            "slug": "reynolds-unbleached-parchment-paper-only-2xx-each-wyb-2-on-a",
-            "title": "Reynolds Unbleached Parchment Paper Only $2.xx each WYB 2 on Amazon! Clip coupon and select Subscribe and Save!",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/31X4yshHTTL.jpg",
-            "url": "https://www.amazon.com/dp/B07PFYT8MC?th=1&linkCode=sl1&tag=noya0b-20&linkId=9e6989dbf0a5418a655a6187ba423098&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -106,35 +132,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81R9y+x4I0L.jpg",
             "url": "https://www.amazon.com/dp/B000VDWJ0U?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DD7CZFNY",
-            "slug": "sun-bum-original-spf-30-sunscreen-lotion-vegan-and-hawaii-10",
-            "title": "Sun Bum Original SPF 30 Sunscreen Lotion | Vegan and Hawaii 104 Act Compliant (Octinoxate & Oxybenzone Free) Broad Spect",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Z9F4akcxL.jpg",
-            "url": "https://www.amazon.com/dp/B0DD7CZFNY?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FNCSJVP4",
-            "slug": "interactive-educational-learning-tablet-toy-for-kidsscreen-f",
-            "title": "Interactive Educational Learning Tablet Toy for Kids,Screen-Free Phonics Learning Toy with 30 Flash Cards for Alphabets,",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Cv7yObt7L.jpg",
-            "url": "https://www.amazon.com/Interactive-Educational-Learning-Screen-Free-Alphabets/dp/B0FNCSJVP4?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4260a68dd5810e7c99f833063ee9cc76&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GL7Z3V7G",
+          "slug": "sweetcrispy-4-fabric-drawer-small-dresser-bedside-nightstand",
+          "title": "Sweetcrispy 4 Fabric Drawer Small Dresser, Bedside Nightstand with Wooden Top Sturdy Frame, Entryway Closet Bedroom Stor",
+          "price": "$28",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/31Ewlq-IkiL.jpg",
+          "url": "https://www.amazon.com/dp/B0GL7Z3V7G?th=1&linkCode=sl2&tag=noya0b-20&linkId=e867b7f5c55ef58ecfb3ea4e6c818abf&language=en_US"
+        },
+        {
+          "asin": "B0DVBWGQ9J",
+          "slug": "gourmia-3-in-1-indoor-grill-griddle-electric-combo-dual-inde",
+          "title": "Gourmia 3-in-1 Indoor Grill & Griddle Electric Combo – Dual Independent Cooking Zones, Reversible Nonstick Ceramic Plate",
+          "price": "$55",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61PTWCcDHxL.jpg",
+          "url": "https://www.amazon.com/dp/B0DVBWGQ9J?linkCode=sl2&tag=noya0b-20&linkId=d63cce031d9d1c2a9cd620541dd2a693&language=en_US"
+        },
+        {
+          "asin": "B003KNQ968",
+          "slug": "revlon-photoready-blurring-face-powder-face-makeup-packaging",
+          "title": "Revlon PhotoReady Blurring Face Powder, Face Makeup, Packaging May Vary, 030 Medium Deep : Beauty & Personal Care",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71DQmgWeJhL.jpg",
+          "url": "https://www.amazon.com/dp/B003KNQ968?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FB7KNN6K",
+          "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw-14-oz-flo",
+          "title": "STANLEY Quencher H2.0 Tumbler with Handle and Straw 14 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel ",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/11sp+7icGML.jpg",
+          "url": "https://www.amazon.com/dp/B0FB7KNN6K?th=1&linkCode=sl2&tag=noya0b-20&linkId=b81927a90bb13cb39a648b35032fe820&language=en_US"
+        },
         {
           "asin": "B0FWRMJBPY",
           "slug": "juicy-couture-disco-cherry-bows-plush-5034-x-7034-throw-blan",
@@ -200,56 +244,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81R9y+x4I0L.jpg",
           "url": "https://www.amazon.com/dp/B000VDWJ0U?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GPXVH9QY",
-          "slug": "newbulig-mini-stepper-for-exercise-at-home-stair-step-machin",
-          "title": "\udecd️NEWBULIG Mini Stepper for Exercise at Home Stair Step Machine for Indoor Fitness Portable Home Gym Stepper for Full Bo",
-          "price": "$45.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61s599eifpL.jpg",
-          "url": "https://www.amazon.com/dp/B0GPXVH9QY?tag=noya0b-20"
-        },
-        {
-          "asin": "B07PFYT8MC",
-          "slug": "reynolds-unbleached-parchment-paper-only-2xx-each-wyb-2-on-a",
-          "title": "Reynolds Unbleached Parchment Paper Only $2.xx each WYB 2 on Amazon! Clip coupon and select Subscribe and Save!",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/31X4yshHTTL.jpg",
-          "url": "https://www.amazon.com/dp/B07PFYT8MC?th=1&linkCode=sl1&tag=noya0b-20&linkId=9e6989dbf0a5418a655a6187ba423098&language=en_US"
-        },
-        {
-          "asin": "B0DD7CZFNY",
-          "slug": "sun-bum-original-spf-30-sunscreen-lotion-vegan-and-hawaii-10",
-          "title": "Sun Bum Original SPF 30 Sunscreen Lotion | Vegan and Hawaii 104 Act Compliant (Octinoxate & Oxybenzone Free) Broad Spect",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Z9F4akcxL.jpg",
-          "url": "https://www.amazon.com/dp/B0DD7CZFNY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FNCSJVP4",
-          "slug": "interactive-educational-learning-tablet-toy-for-kidsscreen-f",
-          "title": "Interactive Educational Learning Tablet Toy for Kids,Screen-Free Phonics Learning Toy with 30 Flash Cards for Alphabets,",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Cv7yObt7L.jpg",
-          "url": "https://www.amazon.com/Interactive-Educational-Learning-Screen-Free-Alphabets/dp/B0FNCSJVP4?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4260a68dd5810e7c99f833063ee9cc76&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 12, 2026?",
-          "a": "The best deals today include \"Juicy Couture Disco Cherry Bows Plush 50&#34; x 70&#34; Thro...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Sweetcrispy 4 Fabric Drawer Small Dresser, Bedside Nightstan...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-12T21:10:02.201Z",
-      "updatedAt": "2026-06-12T21:10:02.201Z"
+      "generatedAt": "2026-06-12T21:20:00.446Z",
+      "updatedAt": "2026-06-12T21:20:00.446Z"
     },
     {
       "date": "2026-06-11",
@@ -1579,5 +1579,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-12T21:10:02.202Z"
+  "generatedAt": "2026-06-12T21:20:00.447Z"
 }
