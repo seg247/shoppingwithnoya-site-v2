@@ -9,13 +9,23 @@
         "Other",
         "Home & Kitchen",
         "Garden & Outdoor",
+        "Electronics",
         "Toys & Kids",
-        "Beauty",
-        "Cleaning Supplies",
-        "Electronics"
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B0GH2K942P",
+            "slug": "lacoste-capbreton-mens-quartz-watch-silicone-strap-diving-st",
+            "title": "Lacoste Capbreton Men’s Quartz Watch - Silicone Strap, Diving-Style Metal Bezel, Three-Hand Dial - Sporty, Nautical Time",
+            "price": "$76",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/711TufyuE-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GH2K942P/ref=cm_sw_r_as_gl_apa_gl_i_26GTYMT9P236QW1K3PM5?linkCode=ml1&tag=noya0b-20&linkId=0c50eea1e387c2b5aaa455c9ae53f63b"
+          },
           {
             "asin": "B0F6K59466",
             "slug": "amazon-business-accounts",
@@ -37,6 +47,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81nP+V9PjSL.jpg",
             "url": "https://www.amazon.com/dp/B0DNSNM17F/ref=cm_sw_r_as_gl_apa_gl_i_dl_256VHN05FA077KF0FHVE?linkCode=ml1&tag=noya0b-20&linkId=dca12ffa84661d0dc9144f46ba444421"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0F6VV1ZFG",
+            "slug": "blink-video-doorbell-outdoor-4-wireless-smart-security-camer",
+            "title": "Blink Video Doorbell + Outdoor 4 – Wireless smart security cameras, head-to-toe HD view, two-year battery life. Sync Mod",
+            "price": "$114",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
+            "url": "https://www.amazon.com/dp/B0F6VV1ZFG/ref=cm_sw_r_as_gl_apa_gl_i_dl_8ZDX738NGNBVWTKMWNGX?linkCode=ml1&tag=noya0b-20&linkId=0b8445db031cc45b84251b68e27dc71a"
           }
         ],
         "Home & Kitchen": [
@@ -112,35 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/512UgRg1dVL.jpg",
             "url": "https://www.amazon.com/dp/B0GHD22JLT/ref=cm_sw_r_as_gl_apa_gl_i_A99SWE7W1Z7QJGKECF65?linkCode=ml1&tag=noya0b-20&linkId=ce0e22d04d070afe1a027fe6402c19f7"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B07BW1717J",
-            "slug": "all-clad-electric-deep-fryer-with-basket-and-lid-stainless-s",
-            "title": "All-Clad Electric Deep Fryer with Basket and Lid, Stainless Steel Deep Fryer for Home Use, 1700W, Dishwasher Safe",
-            "price": "$149.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/111sjmvHUWL.jpg",
-            "url": "https://www.amazon.com/dp/B07BW1717J?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FDKR4RVP",
-            "slug": "bose-ultra-open-earbuds-bluetooth-open-ear-earbuds-with-open",
-            "title": "Bose Ultra Open Earbuds - Bluetooth Open Ear Earbuds with OpenAudio for Awareness, Clip-On Design for Comfort, Water Res",
-            "price": "$199.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/21PBcT54tIL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDKR4RVP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GH2K942P",
+          "slug": "lacoste-capbreton-mens-quartz-watch-silicone-strap-diving-st",
+          "title": "Lacoste Capbreton Men’s Quartz Watch - Silicone Strap, Diving-Style Metal Bezel, Three-Hand Dial - Sporty, Nautical Time",
+          "price": "$76",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/711TufyuE-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GH2K942P/ref=cm_sw_r_as_gl_apa_gl_i_26GTYMT9P236QW1K3PM5?linkCode=ml1&tag=noya0b-20&linkId=0c50eea1e387c2b5aaa455c9ae53f63b"
+        },
+        {
+          "asin": "B0F6VV1ZFG",
+          "slug": "blink-video-doorbell-outdoor-4-wireless-smart-security-camer",
+          "title": "Blink Video Doorbell + Outdoor 4 – Wireless smart security cameras, head-to-toe HD view, two-year battery life. Sync Mod",
+          "price": "$114",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
+          "url": "https://www.amazon.com/dp/B0F6VV1ZFG/ref=cm_sw_r_as_gl_apa_gl_i_dl_8ZDX738NGNBVWTKMWNGX?linkCode=ml1&tag=noya0b-20&linkId=0b8445db031cc45b84251b68e27dc71a"
+        },
         {
           "asin": "B0F6K59466",
           "slug": "amazon-business-accounts",
@@ -228,34 +247,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/61PTWCcDHxL.jpg",
           "url": "https://www.amazon.com/dp/B0DVBWGQ9J?linkCode=sl2&tag=noya0b-20&linkId=48903c1036222ae734b3538df1542814&language=en_US"
-        },
-        {
-          "asin": "B07BW1717J",
-          "slug": "all-clad-electric-deep-fryer-with-basket-and-lid-stainless-s",
-          "title": "All-Clad Electric Deep Fryer with Basket and Lid, Stainless Steel Deep Fryer for Home Use, 1700W, Dishwasher Safe",
-          "price": "$149.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/111sjmvHUWL.jpg",
-          "url": "https://www.amazon.com/dp/B07BW1717J?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FDKR4RVP",
-          "slug": "bose-ultra-open-earbuds-bluetooth-open-ear-earbuds-with-open",
-          "title": "Bose Ultra Open Earbuds - Bluetooth Open Ear Earbuds with OpenAudio for Awareness, Clip-On Design for Comfort, Water Res",
-          "price": "$199.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/21PBcT54tIL.jpg",
-          "url": "https://www.amazon.com/dp/B0FDKR4RVP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 12, 2026?",
-          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Lacoste Capbreton Men’s Quartz Watch - Silicone Strap, Divin...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-12T06:30:01.851Z",
-      "updatedAt": "2026-06-12T06:30:01.851Z"
+      "generatedAt": "2026-06-12T06:40:01.464Z",
+      "updatedAt": "2026-06-12T06:40:01.464Z"
     },
     {
       "date": "2026-06-11",
@@ -1585,5 +1582,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-12T06:30:01.852Z"
+  "generatedAt": "2026-06-12T06:40:01.464Z"
 }
