@@ -9,8 +9,8 @@
         "Beauty",
         "Skincare",
         "Makeup",
-        "Fragrance",
         "Body Care",
+        "Fragrance",
         "Hair Care"
       ],
       "bySubcat": {
@@ -126,16 +126,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61-1bRdhl4L.jpg",
             "url": "https://www.amazon.com/dp/B0CSYS9CVR?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0FPM7GPLH",
-            "slug": "elf-skin-best-obsessed-skincare-kit-travel-size-makeup-remov",
-            "title": "e.l.f. SKIN Best & Obsessed Skincare Kit, Travel-Size Makeup Remover, Sunscreen & Brightening Serums For Glowy Skin, Veg",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PZH79rs8L.jpg",
-            "url": "https://www.amazon.com/dp/B0FPM7GPLH?th=1&tag=noya0b-20"
           }
         ],
         "Makeup": [
@@ -230,29 +220,17 @@
             "url": "https://www.amazon.com/dp/B003KNQ968?th=1&tag=noya0b-20"
           }
         ],
-        "Fragrance": [
-          {
-            "asin": "B008SBKTLI",
-            "slug": "lancme-la-vie-est-belle-eau-de-parfum-long-lasting-fragrance",
-            "title": "\udecd️Lancôme La Vie Est Belle Eau de Parfum - Long Lasting Fragrance with Notes of Iris, Earthy Patchouli, Warm Vanilla & S",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61-wv6lq91L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B008SBKTLI?th=1&linkCode=sl2&tag=noya0b-20&linkId=2195238d19834b9c9fd99d366c6f4f08&language=en_US"
-          },
-          {
-            "asin": "B09LXV1FZ2",
-            "slug": "hair-gel-for-men-ego-black-450ml-male-fragrance-extra-strong",
-            "title": "\udecd️Hair GEL For MEN eGo Black (450ml) / Male Fragrance Extra STRONG -Pack of 2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ljsuDilrL.jpg",
-            "url": "https://www.amazon.com/dp/B09LXV1FZ2?tag=noya0b-20"
-          }
-        ],
         "Body Care": [
+          {
+            "asin": "B00004RFMT",
+            "slug": "henckels-classic-razor-sharp-8-inch-chef-knife-german-engine",
+            "title": "HENCKELS Classic Razor-Sharp 8-inch Chef Knife, German Engineered Informed by 100+ Years of Mastery",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00004RFMT?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B00JJWYHBI",
             "slug": "hempz-body-lotion-green-tea-and-asian-pear-daily-moisturizin",
@@ -284,6 +262,28 @@
             "url": "https://www.amazon.com/Belle-Maison-Essential-Luxurious-Exfoliator/dp/B0DFMQRMZ9?linkCode=sl2&tag=noya0b-20&linkId=c792c8039fd0e5d862e08f9bbd16abcf&language=en_US"
           }
         ],
+        "Fragrance": [
+          {
+            "asin": "B008SBKTLI",
+            "slug": "lancme-la-vie-est-belle-eau-de-parfum-long-lasting-fragrance",
+            "title": "\udecd️Lancôme La Vie Est Belle Eau de Parfum - Long Lasting Fragrance with Notes of Iris, Earthy Patchouli, Warm Vanilla & S",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-wv6lq91L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B008SBKTLI?th=1&linkCode=sl2&tag=noya0b-20&linkId=2195238d19834b9c9fd99d366c6f4f08&language=en_US"
+          },
+          {
+            "asin": "B09LXV1FZ2",
+            "slug": "hair-gel-for-men-ego-black-450ml-male-fragrance-extra-strong",
+            "title": "\udecd️Hair GEL For MEN eGo Black (450ml) / Male Fragrance Extra STRONG -Pack of 2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ljsuDilrL.jpg",
+            "url": "https://www.amazon.com/dp/B09LXV1FZ2?tag=noya0b-20"
+          }
+        ],
         "Hair Care": [
           {
             "asin": "B0F9PZ6SM4",
@@ -302,7 +302,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61RmHX8aPfL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B081QK9539/ref=cm_sw_r_as_gl_apa_gl_i_QDEWT4GW0D77AAEVWDFJ?linkCode=ml1&tag=noya0b-20&linkId=7047a74fa3fd8bd5fe7b2ea2d0c626bd"
           },
           {
@@ -377,6 +377,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/214JgMTfjuL.jpg",
           "url": "https://www.amazon.com/dp/B0DJDVK9ZB?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B00004RFMT",
+          "slug": "henckels-classic-razor-sharp-8-inch-chef-knife-german-engine",
+          "title": "HENCKELS Classic Razor-Sharp 8-inch Chef Knife, German Engineered Informed by 100+ Years of Mastery",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00004RFMT?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "B0DSZW144Q",
@@ -475,7 +485,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61RmHX8aPfL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B081QK9539/ref=cm_sw_r_as_gl_apa_gl_i_QDEWT4GW0D77AAEVWDFJ?linkCode=ml1&tag=noya0b-20&linkId=7047a74fa3fd8bd5fe7b2ea2d0c626bd"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/81ljsuDilrL.jpg",
           "url": "https://www.amazon.com/dp/B09LXV1FZ2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FPM7GPLH",
-          "slug": "elf-skin-best-obsessed-skincare-kit-travel-size-makeup-remov",
-          "title": "e.l.f. SKIN Best & Obsessed Skincare Kit, Travel-Size Makeup Remover, Sunscreen & Brightening Serums For Glowy Skin, Veg",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PZH79rs8L.jpg",
-          "url": "https://www.amazon.com/dp/B0FPM7GPLH?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-13T17:00:03.379Z",
-      "updatedAt": "2026-06-13T17:00:03.379Z"
+      "generatedAt": "2026-06-13T17:10:03.427Z",
+      "updatedAt": "2026-06-13T17:10:03.427Z"
     },
     {
       "date": "2026-06-12",
@@ -2856,5 +2856,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-13T17:00:03.381Z"
+  "generatedAt": "2026-06-13T17:10:03.428Z"
 }
