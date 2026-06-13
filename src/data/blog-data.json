@@ -4,15 +4,88 @@
       "date": "2026-06-13",
       "slug": "2026-06-13",
       "title": "🔥 Best Deals Today — June 13, 2026",
-      "intro": "Today's best online deals for Saturday, June 13, 2026 — 10 hand-picked discounts across Other, Beauty, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, June 13, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Beauty",
-        "Grocery & Food",
         "Home & Kitchen",
-        "Cleaning Supplies"
+        "Other",
+        "Garden & Outdoor",
+        "Health",
+        "Grocery & Food",
+        "Beauty"
       ],
       "byCategory": {
+        "Garden & Outdoor": [
+          {
+            "asin": "B004TPU7LO",
+            "slug": "planters-salted-peanuts-48-1-ounce-packs",
+            "title": "Planters Salted Peanuts (48 1-ounce packs)",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/912iDUsPTFL.jpg",
+            "url": "https://www.amazon.com/dp/B004TPU7LO?th=1&linkCode=sl2&tag=noya0b-20&linkId=b2b869e2183dfae52fbd8bb00fafe08c&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B01NBKTPTS",
+            "slug": "instant-pot-duo-plus-9-in-1-multicooker-pressure-cooker-slow",
+            "title": "\udecd️Instant Pot Duo Plus 9-in-1 Multicooker, Pressure Cooker, Slow Cook, Rice Maker, Steamer, Sauté, Yogurt, Warmer & Ster",
+            "price": "$139.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nx65qZq6L.jpg",
+            "url": "https://www.amazon.com/dp/B01NBKTPTS?th=1&linkCode=sl2&tag=noya0b-20&linkId=23cbb08509d133bd7c7ca2d102e18125&language=en_US"
+          },
+          {
+            "asin": "B0BMKT5K3Y",
+            "slug": "kitchenaid-quilted-cotton-terry-cloth-oven-mitt-pot-holder-k",
+            "title": "KITCHENAID Quilted Cotton Terry Cloth Oven Mitt, Pot Holder, Kitchen Towel 4-Pack Set, Heat Resistant, Silicone Grip, 16",
+            "price": "$13.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71442VcDBLL.jpg",
+            "url": "https://www.amazon.com/dp/B0BMKT5K3Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0GJZ4ZLKV",
+            "slug": "xlsxexcl-funny-apron-for-men-super-dad-super-cook-dad-apron",
+            "title": "XLSXEXCL Funny Apron for Men, Super Dad Super Cook, Dad Apron BBQ Apron Kitchen Cooking Aprons with Pockets, Birthday, F",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71yjjCVxmIL.jpg",
+            "url": "https://www.amazon.com/dp/B0GJZ4ZLKV?psc=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0FNN6M285",
+            "slug": "nightstand-small-2-drawer-dresser-end-table-bedside-furnitur",
+            "title": "Nightstand, Small 2 Drawer Dresser End Table Bedside Furniture, Wooden Top Fabric Bins for Bedroom, Closet, Entryway, Do",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61lMCY5WlNL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNN6M285?th=1&tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B00WF8A7MQ",
+            "slug": "natures-bounty-optimal-solutions-womens-multivitamin-immune",
+            "title": "Nature's Bounty Optimal Solutions Women's Multivitamin, Immune and Cellular Energy Support, Bone Health, Raspberry Flavo",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/715nuyl7Z9L.jpg",
+            "url": "https://www.amazon.com/Natures-Bounty-Solutions-Multivitamin-Raspberry/dp/B00WF8A7MQ?th=1&linkCode=sl1&tag=noya0b-20&linkId=eed49600ea361638baa9c2fb81b87aed&language=en_US"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0D89BZXJM",
@@ -48,28 +121,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71OjDT4VAML.jpg",
             "url": "https://www.amazon.com/Flash-Furniture-Piece-Black-Folding/dp/B09X1ZY8JN?crid=BFUX461J6T2S&dib=eyJ2IjoiMSJ9.YGx6uii0Yw8V3oQ47qTH4ufV2cJoaxybcM_VFcw6XD74r8ipf5ZoCGQgSaTP2NHfxYNYQNK81I5mEhzHyEo0QrMpqqlsgmU0qsQh6dq3vz0fkLgkLDs1k24wsIC95JBNniVjxOZl3z-Keoh-pVaCUef4P6Rw1vNV9rrr__LC6zBXnpds0o8ZNZze5c85WXRgK15yxrr5M-1FG5LksWQZHVYQZF_abDvFVyVotDgQ8qAmkC14UIPF1ufGNO2LPodbkEs1bMkVr1DJKFLcX9U6zC2b6P-HYA0oAXvy8fe0ZmQ.jiTaHdYr4ZS6mnRkgrLUrXqlBaDv6JXnJ1Ab1o55cLE&dib_tag=se&keywords=Simple%2Bfoldable%2Bchair%2Band%2Btable%2Bset&qid=1779276905&refinements=p_n_deal_type%3A23566065011%2Cp_n_free_shipping_afn_mfn%3A23598027011&rnid=23598024011&sprefix=simple%2Bfoldable%2Bchair%2Band%2Btable%2Bset%2Caps%2C418&th=1&linkCode=sl2&tag=noya0b-20&linkId=425e8334b74ed44cbcb258372865dfda&language=en_US"
-          },
-          {
-            "asin": "B0FXDWD2BX",
-            "slug": "hiskiwuu-4-tier-free-standing-shoe-rack-with-storage-box-bla",
-            "title": "\udecd️HISKIWUU 4 Tier Free Standing Shoe Rack with Storage Box, Black",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PU13WCeEL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Standing-Organizer-Capacity-Entryway-Corridor/dp/B0FXDWD2BX?linkCode=sl2&tag=noya0b-20&linkId=81324180b02feb3213d2bd6704ca8896&language=en_US"
-          },
-          {
-            "asin": "B0FFHHZKJ1",
-            "slug": "gerber-unisex-baby-9-piece-baby-gift-set-for-newborn-boys-gi",
-            "title": "\udecd️Gerber Unisex Baby 9-Piece Baby Gift Set for Newborn Boys & Girls – Premium Cotton Baby Essentials Layette Set, Deer, ",
-            "price": "$44.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81BCtfRwvpL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Gerber-Unisex-9-Piece-Newborn-Girls/dp/B0FFHHZKJ1?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=58806de90fe952ae3150da1452299af0&language=en_US"
           }
         ],
         "Beauty": [
@@ -83,58 +134,65 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/811sCglC9tL.jpg",
             "url": "https://www.amazon.com/Pickclub-Minoxidil-Regrowth-Fast-Absorbing-Dropper/dp/B0GT8ZYZ6H?content-id=amzn1.sym.0a3d7af1-408b-4d97-8532-5af55b19637b%3Aamzn1.sym.0a3d7af1-408b-4d97-8532-5af55b19637b&crid=3NQT9RE4RTS8Y&cv_ct_cx=Minoxidil&keywords=Minoxidil&pd_rd_i=B0GT8ZYZ6H&qid=1779279229&refinements=p_n_free_shipping_afn_mfn%3A23598027011%2Cp_n_deal_type%3A23566065011&rnid=23566063011&s=hpc&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=minoxidil%2Chpc%2C234&aref=jIEm73ogVB&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=sl2&tag=noya0b-20&linkId=d87f5f0ebc67c81091f76936f2e410a3&language=en_US"
-          },
-          {
-            "asin": "B0GFY5H5FJ",
-            "slug": "philosophy-amazing-grace-perfume-duo-gift-set-clean-floral-w",
-            "title": "philosophy amazing grace perfume duo gift set- clean & floral women's perfume - with notes of bergamot, muguet & musk - ",
-            "price": "$33",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0GFY5H5FJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=944a3519f140ffe12a65bb56bf3dcb33&language=en_US"
-          },
-          {
-            "asin": "B09HVNWXXS",
-            "slug": "pr-minerals-x-care-3-piece-facial-mist-kit-1-ct-beauty-perso",
-            "title": "PÜR MINERALS x CARE 3-Piece Facial Mist Kit, 1 ct. : Beauty & Personal Care",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09HVNWXXS?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FNN6M285",
-            "slug": "nightstand-small-2-drawer-dresser-end-table-bedside-furnitur",
-            "title": "Nightstand, Small 2 Drawer Dresser End Table Bedside Furniture, Wooden Top Fabric Bins for Bedroom, Closet, Entryway, Do",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61lMCY5WlNL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNN6M285?th=1&tag=noya0b-20"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B01DC7P3OA",
-            "slug": "tovolo-zombie-ice-pop-mold-set-of-4-silicone-halloween-popsi",
-            "title": "Tovolo Zombie Ice Pop Mold Set of 4 Silicone Halloween Popsicle Molds with Skeleton Sticks, Dishwasher Safe Spooky Zombi",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/518LrvJmMQL.jpg",
-            "url": "https://www.amazon.com/dp/B01DC7P3OA?th=1&linkCode=sl2&tag=noya0b-20&linkId=957424629573efe27a824e7057909ffc&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B004TPU7LO",
+          "slug": "planters-salted-peanuts-48-1-ounce-packs",
+          "title": "Planters Salted Peanuts (48 1-ounce packs)",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/912iDUsPTFL.jpg",
+          "url": "https://www.amazon.com/dp/B004TPU7LO?th=1&linkCode=sl2&tag=noya0b-20&linkId=b2b869e2183dfae52fbd8bb00fafe08c&language=en_US"
+        },
+        {
+          "asin": "B01NBKTPTS",
+          "slug": "instant-pot-duo-plus-9-in-1-multicooker-pressure-cooker-slow",
+          "title": "\udecd️Instant Pot Duo Plus 9-in-1 Multicooker, Pressure Cooker, Slow Cook, Rice Maker, Steamer, Sauté, Yogurt, Warmer & Ster",
+          "price": "$139.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nx65qZq6L.jpg",
+          "url": "https://www.amazon.com/dp/B01NBKTPTS?th=1&linkCode=sl2&tag=noya0b-20&linkId=23cbb08509d133bd7c7ca2d102e18125&language=en_US"
+        },
+        {
+          "asin": "B0BMKT5K3Y",
+          "slug": "kitchenaid-quilted-cotton-terry-cloth-oven-mitt-pot-holder-k",
+          "title": "KITCHENAID Quilted Cotton Terry Cloth Oven Mitt, Pot Holder, Kitchen Towel 4-Pack Set, Heat Resistant, Silicone Grip, 16",
+          "price": "$13.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71442VcDBLL.jpg",
+          "url": "https://www.amazon.com/dp/B0BMKT5K3Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B00WF8A7MQ",
+          "slug": "natures-bounty-optimal-solutions-womens-multivitamin-immune",
+          "title": "Nature's Bounty Optimal Solutions Women's Multivitamin, Immune and Cellular Energy Support, Bone Health, Raspberry Flavo",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/715nuyl7Z9L.jpg",
+          "url": "https://www.amazon.com/Natures-Bounty-Solutions-Multivitamin-Raspberry/dp/B00WF8A7MQ?th=1&linkCode=sl1&tag=noya0b-20&linkId=eed49600ea361638baa9c2fb81b87aed&language=en_US"
+        },
+        {
+          "asin": "B0GJZ4ZLKV",
+          "slug": "xlsxexcl-funny-apron-for-men-super-dad-super-cook-dad-apron",
+          "title": "XLSXEXCL Funny Apron for Men, Super Dad Super Cook, Dad Apron BBQ Apron Kitchen Cooking Aprons with Pockets, Birthday, F",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71yjjCVxmIL.jpg",
+          "url": "https://www.amazon.com/dp/B0GJZ4ZLKV?psc=1&tag=noya0b-20"
+        },
         {
           "asin": "B0D89BZXJM",
           "slug": "melting-forest-mushroom-coffee-with-7-functional-mushrooms-c",
@@ -189,71 +247,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61lMCY5WlNL.jpg",
           "url": "https://www.amazon.com/dp/B0FNN6M285?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFY5H5FJ",
-          "slug": "philosophy-amazing-grace-perfume-duo-gift-set-clean-floral-w",
-          "title": "philosophy amazing grace perfume duo gift set- clean & floral women's perfume - with notes of bergamot, muguet & musk - ",
-          "price": "$33",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0GFY5H5FJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=944a3519f140ffe12a65bb56bf3dcb33&language=en_US"
-        },
-        {
-          "asin": "B0FXDWD2BX",
-          "slug": "hiskiwuu-4-tier-free-standing-shoe-rack-with-storage-box-bla",
-          "title": "\udecd️HISKIWUU 4 Tier Free Standing Shoe Rack with Storage Box, Black",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PU13WCeEL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Standing-Organizer-Capacity-Entryway-Corridor/dp/B0FXDWD2BX?linkCode=sl2&tag=noya0b-20&linkId=81324180b02feb3213d2bd6704ca8896&language=en_US"
-        },
-        {
-          "asin": "B0FFHHZKJ1",
-          "slug": "gerber-unisex-baby-9-piece-baby-gift-set-for-newborn-boys-gi",
-          "title": "\udecd️Gerber Unisex Baby 9-Piece Baby Gift Set for Newborn Boys & Girls – Premium Cotton Baby Essentials Layette Set, Deer, ",
-          "price": "$44.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81BCtfRwvpL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Gerber-Unisex-9-Piece-Newborn-Girls/dp/B0FFHHZKJ1?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=58806de90fe952ae3150da1452299af0&language=en_US"
-        },
-        {
-          "asin": "B01DC7P3OA",
-          "slug": "tovolo-zombie-ice-pop-mold-set-of-4-silicone-halloween-popsi",
-          "title": "Tovolo Zombie Ice Pop Mold Set of 4 Silicone Halloween Popsicle Molds with Skeleton Sticks, Dishwasher Safe Spooky Zombi",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/518LrvJmMQL.jpg",
-          "url": "https://www.amazon.com/dp/B01DC7P3OA?th=1&linkCode=sl2&tag=noya0b-20&linkId=957424629573efe27a824e7057909ffc&language=en_US"
-        },
-        {
-          "asin": "B09HVNWXXS",
-          "slug": "pr-minerals-x-care-3-piece-facial-mist-kit-1-ct-beauty-perso",
-          "title": "PÜR MINERALS x CARE 3-Piece Facial Mist Kit, 1 ct. : Beauty & Personal Care",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09HVNWXXS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 13, 2026?",
-          "a": "The best deals today include \"Melting Forest Mushroom Coffee, with 7 Functional Mushrooms,...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Planters Salted Peanuts (48 1-ounce packs)...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-13T17:50:02.130Z",
-      "updatedAt": "2026-06-13T17:50:02.130Z"
+      "generatedAt": "2026-06-13T18:00:01.851Z",
+      "updatedAt": "2026-06-13T18:00:01.851Z"
     },
     {
       "date": "2026-06-12",
@@ -1847,5 +1850,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-13T17:50:02.131Z"
+  "generatedAt": "2026-06-13T18:00:01.852Z"
 }
