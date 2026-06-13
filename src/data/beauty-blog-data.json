@@ -9,8 +9,8 @@
         "Beauty",
         "Skincare",
         "Makeup",
-        "Body Care",
         "Hair Care",
+        "Body Care",
         "Fragrance"
       ],
       "bySubcat": {
@@ -136,16 +136,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/51akUEyS-uL.jpg",
             "url": "https://www.amazon.com/dp/B0CRZ5ZQGQ?m=AO44XW81QI97Y&th=1&linkCode=sl2&tag=noya0b-20&linkId=fb37b406ac8821c8f15ca6134a5242f6&language=en_US"
-          },
-          {
-            "asin": "B0F8RGY529",
-            "slug": "chi-pour-homme-moisturizing-daily-shampoo-for-men-sulfate-fr",
-            "title": "\udecd️CHI Pour Homme Moisturizing Daily Shampoo for Men, Sulfate-Free Hair Cleanser with Aloe Vera & Nettle, Hydrates & Fort",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Rj4zA3IdL.jpg",
-            "url": "https://www.amazon.com/dp/B0F8RGY529?tag=noya0b-20"
           }
         ],
         "Makeup": [
@@ -198,6 +188,38 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71DQmgWeJhL.jpg",
             "url": "https://www.amazon.com/dp/B003KNQ968?th=1&tag=noya0b-20"
+          }
+        ],
+        "Hair Care": [
+          {
+            "asin": "B00J9H8O6C",
+            "slug": "biosilk-hydrating-therapy-pure-moisture-leave-in-hair-spray",
+            "title": "BioSilk Hydrating Therapy Pure Moisture, Leave-In Hair Spray for Frizz Control & Hydration, Adds Shine, Replenishes Hair",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
+            "url": "https://www.amazon.com/dp/B00J9H8O6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=edc590d06958a7aeadc42cee18480d0f&language=en_US"
+          },
+          {
+            "asin": "B0DZ6SDS57",
+            "slug": "rotating-curling-iron-3-in1-automatic-curling-iron-with-inte",
+            "title": "Rotating Curling Iron - 3 in1 Automatic Curling Iron with Interchangeable CurlingWand, 3/4, 1 1/4, 1 Inch CurlingIron fo",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71h58T4vb9L.jpg",
+            "url": "https://www.amazon.com/dp/B0DZ6SDS57?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a040166e2962bac646c1967297f8dea&language=en_US"
+          },
+          {
+            "asin": "B003562VCQ",
+            "slug": "chi-magnified-volume-conditioner-boosts-volume-body-strength",
+            "title": "CHI Magnified Volume Conditioner, Boosts Volume & Body & Strengthens Hair, Detangles, Hydrates & Conditions Hair, Sulfat",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/41JLrG61bpL.jpg",
+            "url": "https://www.amazon.com/dp/B003562VCQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=0bed610f67c8b4306c143ffc14980aa7&language=en_US"
           }
         ],
         "Body Care": [
@@ -270,28 +292,6 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/21OmiRRqAaL.jpg",
             "url": "https://www.amazon.com/dp/B01HTJTPZA?ascsubtag=srctok-3e849f43025c71d8&btn_ref=srctok-3e849f43025c71d8&th=1&linkCode=sl2&tag=noya0b-20&linkId=753d35e2b738f17abea5daa81731cf1d&language=en_US"
-          }
-        ],
-        "Hair Care": [
-          {
-            "asin": "B0DZ6SDS57",
-            "slug": "rotating-curling-iron-3-in1-automatic-curling-iron-with-inte",
-            "title": "Rotating Curling Iron - 3 in1 Automatic Curling Iron with Interchangeable CurlingWand, 3/4, 1 1/4, 1 Inch CurlingIron fo",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71h58T4vb9L.jpg",
-            "url": "https://www.amazon.com/dp/B0DZ6SDS57?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a040166e2962bac646c1967297f8dea&language=en_US"
-          },
-          {
-            "asin": "B003562VCQ",
-            "slug": "chi-magnified-volume-conditioner-boosts-volume-body-strength",
-            "title": "CHI Magnified Volume Conditioner, Boosts Volume & Body & Strengthens Hair, Detangles, Hydrates & Conditions Hair, Sulfat",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/41JLrG61bpL.jpg",
-            "url": "https://www.amazon.com/dp/B003562VCQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=0bed610f67c8b4306c143ffc14980aa7&language=en_US"
           }
         ],
         "Fragrance": [
@@ -377,6 +377,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/214JgMTfjuL.jpg",
           "url": "https://www.amazon.com/dp/B0DJDVK9ZB?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B00J9H8O6C",
+          "slug": "biosilk-hydrating-therapy-pure-moisture-leave-in-hair-spray",
+          "title": "BioSilk Hydrating Therapy Pure Moisture, Leave-In Hair Spray for Frizz Control & Hydration, Adds Shine, Replenishes Hair",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
+          "url": "https://www.amazon.com/dp/B00J9H8O6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=edc590d06958a7aeadc42cee18480d0f&language=en_US"
         },
         {
           "asin": "B00JJWYHBI",
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/51akUEyS-uL.jpg",
           "url": "https://www.amazon.com/dp/B0CRZ5ZQGQ?m=AO44XW81QI97Y&th=1&linkCode=sl2&tag=noya0b-20&linkId=fb37b406ac8821c8f15ca6134a5242f6&language=en_US"
-        },
-        {
-          "asin": "B0F8RGY529",
-          "slug": "chi-pour-homme-moisturizing-daily-shampoo-for-men-sulfate-fr",
-          "title": "\udecd️CHI Pour Homme Moisturizing Daily Shampoo for Men, Sulfate-Free Hair Cleanser with Aloe Vera & Nettle, Hydrates & Fort",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Rj4zA3IdL.jpg",
-          "url": "https://www.amazon.com/dp/B0F8RGY529?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-13T02:50:01.534Z",
-      "updatedAt": "2026-06-13T02:50:01.534Z"
+      "generatedAt": "2026-06-13T03:00:01.485Z",
+      "updatedAt": "2026-06-13T03:00:01.485Z"
     },
     {
       "date": "2026-06-11",
@@ -2188,5 +2188,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-13T02:50:01.535Z"
+  "generatedAt": "2026-06-13T03:00:01.486Z"
 }
