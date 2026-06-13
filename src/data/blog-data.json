@@ -9,11 +9,21 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
-        "Fashion",
-        "Grocery & Food"
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B0861R1PQS",
+            "slug": "even-lower-price-now",
+            "title": "Even lower price now!",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/21ctSliRe0L.jpg",
+            "url": "https://www.amazon.com/dp/B0861R1PQS?th=1&linkCode=sl2&tag=noya0b-20&linkId=cd8aa558b11bddaad80485ccc9398996&language=en_US"
+          },
           {
             "asin": "B0CYNYZYHL",
             "slug": "stanley-all-day-slim-bottle-20-oz-twist-on-lid-with-leakproo",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71iOe5IoCPL.jpg",
             "url": "https://www.amazon.com/dp/B00CFN3KHK/ref=cm_sw_r_as_gl_apa_gl_i_70ZYMMP0Q9VPTP72SQ02?linkCode=ml1&tag=noya0b-20&linkId=e052025a6352a70302ddf630852aff8c"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0GYS1TZSH",
-            "slug": "butter-squishy-stress-toy-stretchy-squeeze-bun-fidget-toys-w",
-            "title": "Butter Squishy Stress Toy, Stretchy Squeeze Bun Fidget Toys with Steamer Box, Soft Slow Rebound Sensory Stress Relief De",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-            "url": "https://www.amazon.com/dp/B0GYS1TZSH/ref=cm_sw_r_as_gl_apa_gl_i_WCNCN21YJY0PQ4G3YTMN?linkCode=ml1&tag=noya0b-20&linkId=9aa92b29dae1807a5250ce4d6153ee9e"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0861R1PQS",
+          "slug": "even-lower-price-now",
+          "title": "Even lower price now!",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/21ctSliRe0L.jpg",
+          "url": "https://www.amazon.com/dp/B0861R1PQS?th=1&linkCode=sl2&tag=noya0b-20&linkId=cd8aa558b11bddaad80485ccc9398996&language=en_US"
+        },
         {
           "asin": "B0CYNYZYHL",
           "slug": "stanley-all-day-slim-bottle-20-oz-twist-on-lid-with-leakproo",
@@ -233,23 +241,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71iOe5IoCPL.jpg",
           "url": "https://www.amazon.com/dp/B00CFN3KHK/ref=cm_sw_r_as_gl_apa_gl_i_70ZYMMP0Q9VPTP72SQ02?linkCode=ml1&tag=noya0b-20&linkId=e052025a6352a70302ddf630852aff8c"
-        },
-        {
-          "asin": "B0GYS1TZSH",
-          "slug": "butter-squishy-stress-toy-stretchy-squeeze-bun-fidget-toys-w",
-          "title": "Butter Squishy Stress Toy, Stretchy Squeeze Bun Fidget Toys with Steamer Box, Soft Slow Rebound Sensory Stress Relief De",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/21qJoDwE+TL.jpg",
-          "url": "https://www.amazon.com/dp/B0GYS1TZSH/ref=cm_sw_r_as_gl_apa_gl_i_WCNCN21YJY0PQ4G3YTMN?linkCode=ml1&tag=noya0b-20&linkId=9aa92b29dae1807a5250ce4d6153ee9e"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 13, 2026?",
-          "a": "The best deals today include \"Stanley All Day Slim Bottle 20 oz | Twist On Lid with Leakpr...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Electronics and are updated daily."
+          "a": "The best deals today include \"Even lower price now!...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-13T05:10:02.170Z",
-      "updatedAt": "2026-06-13T05:10:02.170Z"
+      "generatedAt": "2026-06-13T05:20:02.190Z",
+      "updatedAt": "2026-06-13T05:20:02.190Z"
     },
     {
       "date": "2026-06-12",
@@ -1847,5 +1844,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-13T05:10:02.172Z"
+  "generatedAt": "2026-06-13T05:20:02.191Z"
 }
