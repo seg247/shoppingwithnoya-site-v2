@@ -4,17 +4,52 @@
       "date": "2026-06-13",
       "slug": "2026-06-13",
       "title": "🔥 Best Deals Today — June 13, 2026",
-      "intro": "Today's best online deals for Saturday, June 13, 2026 — 10 hand-picked discounts across Electronics, Other, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, June 13, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Books & Media and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Electronics",
         "Other",
         "Home & Kitchen",
         "Books & Media",
         "Health",
+        "Electronics",
         "Toys & Kids",
         "Beauty"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B09QD5CBSQ",
+            "slug": "bare-home-bedding-duvet-cover-queen-size-premium-1800-super",
+            "title": "Bare Home Bedding Duvet Cover Queen Size - Premium 1800 Super Soft Collection - Lightweight, Duvet Cover - Soft Textured",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71z0HQC2PjL.jpg",
+            "url": "https://www.amazon.com/dp/B09QD5CBSQ/ref=cm_sw_r_as_gl_api_gl_i_SV5Q86ZYPZ13V36W9YRC?linkCode=ml1&tag=noya0b-20&linkId=acdb78339e7789fc387918aa9771fe6b"
+          },
+          {
+            "asin": "B08HH4V46K",
+            "slug": "funko-pop-animation-hazbin-hotel-charlie-morningstar-16-odds",
+            "title": "Funko Pop! Animation: Hazbin Hotel - Charlie Morningstar - 1/6 Odds for Rare Chase Variant - Collectable Vinyl Figure - ",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TlOYAZiHL.jpg",
+            "url": "https://www.amazon.com/dp/B08HH4V46K/ref=cm_sw_r_as_gl_api_gl_i_F0E5X7GAR3V0DYSZXG4S?linkCode=ml1&tag=noya0b-20&linkId=c3118a56f643a0e55686427c036d96af"
+          },
+          {
+            "asin": "B08V4KN4G5",
+            "slug": "natrol-kids-sleep-calm-sleep-gummies-for-kids",
+            "title": "\udecd️Natrol Kids Sleep+ Calm Sleep Gummies for Kids",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71t6oA6WdsL.jpg",
+            "url": "https://www.amazon.com/dp/B08V4KN4G5?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7884a75bb1b4ea7b4820079a874f5a2&language=en_US"
+          }
+        ],
         "Books & Media": [
           {
             "asin": "1632367009",
@@ -52,41 +87,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71lJNuwnCcL.jpg",
             "url": "https://www.amazon.com/COKUNST-Portable-Rechargeable-Personal-Smoothie/dp/B0G6K4PVPT?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c5bbdfd0a3ad07f47351afc034af73c5&language=en_US"
-          },
-          {
-            "asin": "B08W23KG5F",
-            "slug": "cocomelon-sing-and-learn-laptop-toy-for-kids-lights-sounds-a",
-            "title": "\udecd️CoComelon Sing and Learn Laptop Toy for Kids, Lights, Sounds, and Music Encourages Letter, Number, Shape, and Animal R",
-            "price": "$13.46",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/91yWa4e9woL.jpg",
-            "url": "https://www.amazon.com/dp/B08W23KG5F?th=1&linkCode=sl2&tag=noya0b-20&linkId=3500cb7cddd36b394ddccde110492cbb&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B08HH4V46K",
-            "slug": "funko-pop-animation-hazbin-hotel-charlie-morningstar-16-odds",
-            "title": "Funko Pop! Animation: Hazbin Hotel - Charlie Morningstar - 1/6 Odds for Rare Chase Variant - Collectable Vinyl Figure - ",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71TlOYAZiHL.jpg",
-            "url": "https://www.amazon.com/dp/B08HH4V46K/ref=cm_sw_r_as_gl_api_gl_i_F0E5X7GAR3V0DYSZXG4S?linkCode=ml1&tag=noya0b-20&linkId=c3118a56f643a0e55686427c036d96af"
-          },
-          {
-            "asin": "B08V4KN4G5",
-            "slug": "natrol-kids-sleep-calm-sleep-gummies-for-kids",
-            "title": "\udecd️Natrol Kids Sleep+ Calm Sleep Gummies for Kids",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71t6oA6WdsL.jpg",
-            "url": "https://www.amazon.com/dp/B08V4KN4G5?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7884a75bb1b4ea7b4820079a874f5a2&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -141,6 +141,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B09QD5CBSQ",
+          "slug": "bare-home-bedding-duvet-cover-queen-size-premium-1800-super",
+          "title": "Bare Home Bedding Duvet Cover Queen Size - Premium 1800 Super Soft Collection - Lightweight, Duvet Cover - Soft Textured",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71z0HQC2PjL.jpg",
+          "url": "https://www.amazon.com/dp/B09QD5CBSQ/ref=cm_sw_r_as_gl_api_gl_i_SV5Q86ZYPZ13V36W9YRC?linkCode=ml1&tag=noya0b-20&linkId=acdb78339e7789fc387918aa9771fe6b"
+        },
         {
           "asin": "1632367009",
           "slug": "attack-on-titan-season-1-part-2-manga-box-set-attack-on-tita",
@@ -239,27 +250,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61DnShELbdL.jpg",
           "url": "https://www.amazon.com/dp/B00JJWYHBI?th=1&linkCode=sl2&tag=noya0b-20&linkId=295b7008d90d66fb40e80b17d8e00e5d&language=en_US"
-        },
-        {
-          "asin": "B08W23KG5F",
-          "slug": "cocomelon-sing-and-learn-laptop-toy-for-kids-lights-sounds-a",
-          "title": "\udecd️CoComelon Sing and Learn Laptop Toy for Kids, Lights, Sounds, and Music Encourages Letter, Number, Shape, and Animal R",
-          "price": "$13.46",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/91yWa4e9woL.jpg",
-          "url": "https://www.amazon.com/dp/B08W23KG5F?th=1&linkCode=sl2&tag=noya0b-20&linkId=3500cb7cddd36b394ddccde110492cbb&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 13, 2026?",
-          "a": "The best deals today include \"Attack on Titan Season 1 Part 2 Manga Box Set (Attack on Tit...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Bare Home Bedding Duvet Cover Queen Size - Premium 1800 Supe...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Books & Media and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-13T14:10:01.550Z",
-      "updatedAt": "2026-06-13T14:10:01.550Z"
+      "generatedAt": "2026-06-13T14:20:01.637Z",
+      "updatedAt": "2026-06-13T14:20:01.637Z"
     },
     {
       "date": "2026-06-12",
@@ -1853,5 +1853,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-13T14:10:01.551Z"
+  "generatedAt": "2026-06-13T14:20:01.638Z"
 }
