@@ -9,8 +9,8 @@
         "Beauty",
         "Makeup",
         "Skincare",
-        "Fragrance",
         "Hair Care",
+        "Fragrance",
         "Body Care"
       ],
       "bySubcat": {
@@ -42,7 +42,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MqS1qGUUL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B09HVNWXXS?tag=noya0b-20"
           }
         ],
@@ -106,16 +106,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/61iVoHcxHOL.jpg",
             "url": "https://www.amazon.com/dp/B0FK4QTYPW/ref=cm_sw_r_as_gl_api_gl_i_K6W1C9014BXZ0ZCX5AC3?linkCode=ml1&tag=noya0b-20&linkId=950f453ed4cf165bba66a2ce44a229a5"
-          },
-          {
-            "asin": "B086LJMNCM",
-            "slug": "mineral-fusion-pressed-powder-foundation-matte-finish-face-p",
-            "title": "Mineral Fusion Pressed Powder Foundation - Matte Finish Face Powder for Medium Skin with Neutral Undertones - Age Defyin",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/710A3v9lFpL.jpg",
-            "url": "https://www.amazon.com/dp/B086LJMNCM/ref=cm_sw_r_as_gl_apa_gl_i_9JXVJD8Y7J9ZT3FB5GR5?linkCode=ml1&tag=noya0b-20&linkId=5cc9255c77850f8b10f4fe4911a9366e"
           }
         ],
         "Skincare": [
@@ -190,6 +180,58 @@
             "url": "https://www.amazon.com/dp/B0DD7CZFNY/ref=cm_sw_r_as_gl_apa_gl_i_RVHWD6XXXF636TX1VXS5?linkCode=ml1&tag=noya0b-20&linkId=d2b75299b18aa4efc057709b241a146a"
           }
         ],
+        "Hair Care": [
+          {
+            "asin": "B09L16CZY8",
+            "slug": "luseta-biotin-b-complex-hair-oil-thickening-strengthening-fo",
+            "title": "Luseta Biotin B-Complex Hair Oil Thickening & Strengthening for Thin and Dry Hair Promote Hair Growth 3.38oz : Beauty & ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51U5+5s9DyL.jpg",
+            "url": "https://www.amazon.com/Luseta-B-Complex-Thickening-Strengthening-Promote/dp/B09L16CZY8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d72c5b24e909a661c1faef37f54f11a7&language=en_US"
+          },
+          {
+            "asin": "B0B9ZMZ65C",
+            "slug": "shark-hair-dryer-flexstyle-hair-styling-system-portable-powe",
+            "title": "Shark Hair Dryer | FlexStyle Hair Styling System | Portable & Powerful Blow Dryer Brush | Hair Curler & Volumizer | 6 St",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Shark-HD440BK-Curl-Defining-Concentrator-Attachments/dp/B0B9ZMZ65C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9feb5dedc68967c0cde36c84cf86faa9&language=en_US"
+          },
+          {
+            "asin": "B0DZ7RZ14S",
+            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
+            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oGUZBmhbL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/Shark-FlexStyle%C2%AE-Multi-Styler-Concentrator-HD433CP/dp/B0DZ7RZ14S?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3da40636df8946b028f92be7450ed9ee&language=en_US"
+          },
+          {
+            "asin": "B0F9PZ6SM4",
+            "slug": "shark-flex-fusion-hair-straightener-powerful-hair-dryer-with",
+            "title": "Shark Flex Fusion Hair Straightener & Powerful Hair Dryer with Fusion Hair Brush, Air Styler with Auto-Wrap Hair Curlers",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71xjTl9wV8L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F9PZ6SM4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B081QK9539",
+            "slug": "nexxus-clean-pure-shampoo-detox-for-professional-level-silic",
+            "title": "Nexxus CLEAN & PURE Shampoo Detox for Professional-Level Silicon, Sulfate & Paraben Free Hair Care Powered by Clarifix B",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B081QK9539/ref=cm_sw_r_as_gl_apa_gl_i_QDEWT4GW0D77AAEVWDFJ?linkCode=ml1&tag=noya0b-20&linkId=7047a74fa3fd8bd5fe7b2ea2d0c626bd"
+          }
+        ],
         "Fragrance": [
           {
             "asin": "B0DBRB5VZ2",
@@ -240,48 +282,6 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/61-wv6lq91L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B008SBKTLI?th=1&linkCode=sl2&tag=noya0b-20&linkId=2195238d19834b9c9fd99d366c6f4f08&language=en_US"
-          }
-        ],
-        "Hair Care": [
-          {
-            "asin": "B0B9ZMZ65C",
-            "slug": "shark-hair-dryer-flexstyle-hair-styling-system-portable-powe",
-            "title": "Shark Hair Dryer | FlexStyle Hair Styling System | Portable & Powerful Blow Dryer Brush | Hair Curler & Volumizer | 6 St",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71b5gpPEKxL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Shark-HD440BK-Curl-Defining-Concentrator-Attachments/dp/B0B9ZMZ65C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9feb5dedc68967c0cde36c84cf86faa9&language=en_US"
-          },
-          {
-            "asin": "B0DZ7RZ14S",
-            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
-            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oGUZBmhbL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Shark-FlexStyle%C2%AE-Multi-Styler-Concentrator-HD433CP/dp/B0DZ7RZ14S?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3da40636df8946b028f92be7450ed9ee&language=en_US"
-          },
-          {
-            "asin": "B0F9PZ6SM4",
-            "slug": "shark-flex-fusion-hair-straightener-powerful-hair-dryer-with",
-            "title": "Shark Flex Fusion Hair Straightener & Powerful Hair Dryer with Fusion Hair Brush, Air Styler with Auto-Wrap Hair Curlers",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xjTl9wV8L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F9PZ6SM4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B081QK9539",
-            "slug": "nexxus-clean-pure-shampoo-detox-for-professional-level-silic",
-            "title": "Nexxus CLEAN & PURE Shampoo Detox for Professional-Level Silicon, Sulfate & Paraben Free Hair Care Powered by Clarifix B",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B081QK9539/ref=cm_sw_r_as_gl_apa_gl_i_QDEWT4GW0D77AAEVWDFJ?linkCode=ml1&tag=noya0b-20&linkId=7047a74fa3fd8bd5fe7b2ea2d0c626bd"
           }
         ],
         "Body Care": [
@@ -359,6 +359,16 @@
           "url": "https://www.amazon.com/dp/B0DJDVK9ZB?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B09L16CZY8",
+          "slug": "luseta-biotin-b-complex-hair-oil-thickening-strengthening-fo",
+          "title": "Luseta Biotin B-Complex Hair Oil Thickening & Strengthening for Thin and Dry Hair Promote Hair Growth 3.38oz : Beauty & ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51U5+5s9DyL.jpg",
+          "url": "https://www.amazon.com/Luseta-B-Complex-Thickening-Strengthening-Promote/dp/B09L16CZY8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d72c5b24e909a661c1faef37f54f11a7&language=en_US"
+        },
+        {
           "asin": "B0DBRB5VZ2",
           "slug": "armani-beauty-acqua-di-gi-parfum-cologne-for-men-fresh-woody",
           "title": "Armani Beauty - Acqua di Giò - Parfum - Cologne for Men - Fresh & Woody Men’s Fragrance - Bergamot, Ginger, Marine, Gera",
@@ -385,7 +395,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71b5gpPEKxL._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/Shark-HD440BK-Curl-Defining-Concentrator-Attachments/dp/B0B9ZMZ65C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9feb5dedc68967c0cde36c84cf86faa9&language=en_US"
         },
         {
@@ -505,7 +515,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MqS1qGUUL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B09HVNWXXS?tag=noya0b-20"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B081QK9539/ref=cm_sw_r_as_gl_apa_gl_i_QDEWT4GW0D77AAEVWDFJ?linkCode=ml1&tag=noya0b-20&linkId=7047a74fa3fd8bd5fe7b2ea2d0c626bd"
-        },
-        {
-          "asin": "B086LJMNCM",
-          "slug": "mineral-fusion-pressed-powder-foundation-matte-finish-face-p",
-          "title": "Mineral Fusion Pressed Powder Foundation - Matte Finish Face Powder for Medium Skin with Neutral Undertones - Age Defyin",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/710A3v9lFpL.jpg",
-          "url": "https://www.amazon.com/dp/B086LJMNCM/ref=cm_sw_r_as_gl_apa_gl_i_9JXVJD8Y7J9ZT3FB5GR5?linkCode=ml1&tag=noya0b-20&linkId=5cc9255c77850f8b10f4fe4911a9366e"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-13T22:40:04.709Z",
-      "updatedAt": "2026-06-13T22:40:04.709Z"
+      "generatedAt": "2026-06-13T22:50:04.256Z",
+      "updatedAt": "2026-06-13T22:50:04.256Z"
     },
     {
       "date": "2026-06-12",
@@ -2856,5 +2856,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-13T22:40:04.711Z"
+  "generatedAt": "2026-06-13T22:50:04.257Z"
 }
