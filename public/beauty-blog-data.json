@@ -219,16 +219,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61NDj1N5pRL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GYFYTLJZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=71dc3fb945b398ba97ca351977f1a142&language=en_US"
-          },
-          {
-            "asin": "B0CZ7MXPG8",
-            "slug": "laneige-bouncy-and-firm-sleeping-mask-revitalize-smooth-peon",
-            "title": "LANEIGE Bouncy and Firm Sleeping Mask: Revitalize, Smooth, Peony & Collagen Complex, Barrier-Boosting Hydration",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61gEghvCy-L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CZ7MXPG8/ref=cm_sw_r_as_gl_apa_gl_i_MATN7SNSNCW9WQ535FH1?linkCode=ml1&tag=noya0b-20&linkId=2dfe2640dc5269298ffb0e3a95f5bc02"
           }
         ],
         "Beauty": [
@@ -254,6 +244,16 @@
           }
         ],
         "Hair Care": [
+          {
+            "asin": "B0BBSFTJG5",
+            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
+            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61SZx-gz+sL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BBSFTJG5?th=1&linkCode=sl2&tag=noya0b-20&linkId=94dfd0f25c39cd19f0b864a3691f0787&language=en_US"
+          },
           {
             "asin": "B000094ZDX",
             "slug": "conair-compact-travel-dual-voltage-hair-dryer-compact-1600w",
@@ -313,7 +313,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lvmxgya-L._AC_SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CYH83YS6/ref=cm_sw_r_as_gl_api_gl_i_dl_QQE3CBTRAXCNFSGEZBM0?linkCode=ml1&tag=noya0b-20&linkId=78287e0527631229aa796d7d68b2bb9a"
           }
         ],
@@ -420,6 +420,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61ibizog57L.jpg",
           "url": "https://www.amazon.com/dp/B0DSLXS4G9?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0BBSFTJG5",
+          "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
+          "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61SZx-gz+sL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0BBSFTJG5?th=1&linkCode=sl2&tag=noya0b-20&linkId=94dfd0f25c39cd19f0b864a3691f0787&language=en_US"
         },
         {
           "asin": "B0DC8BD6RK",
@@ -588,7 +598,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Lvmxgya-L._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CYH83YS6/ref=cm_sw_r_as_gl_api_gl_i_dl_QQE3CBTRAXCNFSGEZBM0?linkCode=ml1&tag=noya0b-20&linkId=78287e0527631229aa796d7d68b2bb9a"
         },
         {
@@ -620,16 +630,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61NDj1N5pRL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GYFYTLJZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=71dc3fb945b398ba97ca351977f1a142&language=en_US"
-        },
-        {
-          "asin": "B0CZ7MXPG8",
-          "slug": "laneige-bouncy-and-firm-sleeping-mask-revitalize-smooth-peon",
-          "title": "LANEIGE Bouncy and Firm Sleeping Mask: Revitalize, Smooth, Peony & Collagen Complex, Barrier-Boosting Hydration",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61gEghvCy-L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CZ7MXPG8/ref=cm_sw_r_as_gl_apa_gl_i_MATN7SNSNCW9WQ535FH1?linkCode=ml1&tag=noya0b-20&linkId=2dfe2640dc5269298ffb0e3a95f5bc02"
         }
       ],
       "featuredDeal": {
@@ -668,8 +668,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-17T22:10:03.053Z",
-      "updatedAt": "2026-06-17T22:10:03.053Z"
+      "generatedAt": "2026-06-17T22:20:01.952Z",
+      "updatedAt": "2026-06-17T22:20:01.953Z"
     },
     {
       "date": "2026-06-15",
@@ -4195,5 +4195,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-17T22:10:03.054Z"
+  "generatedAt": "2026-06-17T22:20:01.955Z"
 }
