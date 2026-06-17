@@ -4,15 +4,80 @@
       "date": "2026-06-17",
       "slug": "2026-06-17",
       "title": "🔥 Best Deals Today — June 17, 2026",
-      "intro": "Today's best online deals for Wednesday, June 17, 2026 — 10 hand-picked discounts across Other, Electronics, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, June 17, 2026 — 10 hand-picked discounts across Garden & Outdoor, Electronics, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Electronics",
         "Garden & Outdoor",
-        "Fashion",
-        "Beauty"
+        "Electronics",
+        "Other",
+        "Toys & Kids",
+        "Grocery & Food",
+        "Beauty",
+        "Fashion"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0CGS363W3",
+            "slug": "magna-tiles-downhill-duo-40-piece-magnetic-construction-set",
+            "title": "MAGNA-TILES Downhill Duo 40-Piece Magnetic Construction Set, The Original Magnetic Building Brand : Toys & Games",
+            "price": "$46",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CGS363W3/ref=cm_sw_r_as_gl_api_gl_i_dl_6C1DBC4AZ7PEEPQ134MY?linkCode=ml1&tag=noya0b-20&linkId=1e86514d5a2b41f16b1c0e08b1aad000"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0FS78V8TK",
+            "slug": "laetenin-automatic-card-shuffler-2-decks-electric-card-shuff",
+            "title": "LAETENIN Automatic Card Shuffler 2 Decks, Electric Card Shuffler Machine with AUTO/Manual Mode, 2000mAh Battery | Low No",
+            "price": "$17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/719eqv5tlTL.jpg",
+            "url": "https://www.amazon.com/dp/B0FS78V8TK/ref=cm_sw_r_as_gl_api_gl_i_0G4DAME6BSQ3HGA7WT38?linkCode=ml1&tag=noya0b-20&linkId=f5cff7642fd8fab166cfeda0b10b9bd5"
+          },
+          {
+            "asin": "B079SQRL46",
+            "slug": "keter-urban-bloomer-127-gallon-raised-garden-bed-and-outdoor",
+            "title": "\udecd️Keter Urban Bloomer 12.7 Gallon Raised Garden Bed and Outdoor Herb Garden Planter with Self Watering Gauge and Drainag",
+            "price": "$99.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/91VfUFs5zjL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B079SQRL46?tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0FSGKXL5C",
+            "slug": "goldfish-disney-pixar-toy-story-cheddar-cheese-crackers-66-o",
+            "title": "Goldfish Disney Pixar Toy Story Cheddar Cheese Crackers, 6.6 Oz Bag",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71uxoo+Lw5L.jpg",
+            "url": "https://www.amazon.com/dp/B0FSGKXL5C/ref=cm_sw_r_as_gl_api_gl_i_7D9KNPD7MYW5X0XRW72M?linkCode=ml1&tag=noya0b-20&linkId=7c2cac37efdc7d158adaf462d12f723d"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0CLHJ3TQF",
+            "slug": "sally-hansen-color-therapy-nail-polish-biotin-argan-oil-long",
+            "title": "\udecd️Sally Hansen Color Therapy Nail Polish | Biotin, Argan Oil, Long Lasting, Healthy Nails, Nail Strengthener, Opaque | 4",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Ad8wT5b-L.jpg",
+            "url": "https://www.amazon.com/dp/B0CLHJ3TQF?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0D41ZMYB2",
@@ -35,19 +100,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51AerzvinPL._SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0F4LTTBG1?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B079SQRL46",
-            "slug": "keter-urban-bloomer-127-gallon-raised-garden-bed-and-outdoor",
-            "title": "\udecd️Keter Urban Bloomer 12.7 Gallon Raised Garden Bed and Outdoor Herb Garden Planter with Self Watering Gauge and Drainag",
-            "price": "$99.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/91VfUFs5zjL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B079SQRL46?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -85,56 +137,54 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61u57C29RPL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GS33WJP7/ref=cm_sw_r_as_gl_api_gl_i_X453KF53JS2D5KKWYNJD?linkCode=ml1&tag=noya0b-20&linkId=f62d190a31aafdc023074dd405cfb8a3"
-          },
-          {
-            "asin": "B0CYCL5T9F",
-            "slug": "ozone-generator-45000mgh-homeindustrial-o3-car-deodorizer-oz",
-            "title": "Ozone Generator 45,000mg/h, Home/Industrial O3 Car Deodorizer. Ozone Machine Air Ionizer Ozone Odor Eliminator for Stron",
-            "price": "$24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71OJU4+xf3L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CYCL5T9F?linkCode=sl2&tag=noya0b-20&linkId=318e2827c8eae48cf7ece2f4b83df599&language=en_US"
-          },
-          {
-            "asin": "B0DG6LZSLC",
-            "slug": "bissell-turboclean-pet-upright-carpet-upholstery-cleaner-394",
-            "title": "BISSELL TurboClean PET, Upright Carpet & Upholstery Cleaner, 3948",
-            "price": "$124.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71V4Vf4AMSL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DG6LZSLC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B078MV9R3R",
-            "slug": "toddler-suit-for-kids-boy-easter-christmas-tuxedo-slim-fit-f",
-            "title": "\udecd️Toddler Suit for Kids Boy Easter Christmas Tuxedo Slim fit for Wedding Ring Bearer Outfit Baby Homecoming Formal Wear ",
-            "price": "$9.90",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61hqY6ftNPL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B078MV9R3R?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DRCJVLD8",
-            "slug": "ulibermagnet-garage-weedeater-rackwall-mount-2-slot-utility",
-            "title": "\udecd️ULIBERMAGNET Garage Weedeater Rack,Wall Mount 2 Slot Utility Storage Rack for Garden Tool,Grass Trimmer,Hedge Weedeate",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xu95peLAL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DRCJVLD8?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CGS363W3",
+          "slug": "magna-tiles-downhill-duo-40-piece-magnetic-construction-set",
+          "title": "MAGNA-TILES Downhill Duo 40-Piece Magnetic Construction Set, The Original Magnetic Building Brand : Toys & Games",
+          "price": "$46",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CGS363W3/ref=cm_sw_r_as_gl_api_gl_i_dl_6C1DBC4AZ7PEEPQ134MY?linkCode=ml1&tag=noya0b-20&linkId=1e86514d5a2b41f16b1c0e08b1aad000"
+        },
+        {
+          "asin": "B0FS78V8TK",
+          "slug": "laetenin-automatic-card-shuffler-2-decks-electric-card-shuff",
+          "title": "LAETENIN Automatic Card Shuffler 2 Decks, Electric Card Shuffler Machine with AUTO/Manual Mode, 2000mAh Battery | Low No",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/719eqv5tlTL.jpg",
+          "url": "https://www.amazon.com/dp/B0FS78V8TK/ref=cm_sw_r_as_gl_api_gl_i_0G4DAME6BSQ3HGA7WT38?linkCode=ml1&tag=noya0b-20&linkId=f5cff7642fd8fab166cfeda0b10b9bd5"
+        },
+        {
+          "asin": "B0FSGKXL5C",
+          "slug": "goldfish-disney-pixar-toy-story-cheddar-cheese-crackers-66-o",
+          "title": "Goldfish Disney Pixar Toy Story Cheddar Cheese Crackers, 6.6 Oz Bag",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71uxoo+Lw5L.jpg",
+          "url": "https://www.amazon.com/dp/B0FSGKXL5C/ref=cm_sw_r_as_gl_api_gl_i_7D9KNPD7MYW5X0XRW72M?linkCode=ml1&tag=noya0b-20&linkId=7c2cac37efdc7d158adaf462d12f723d"
+        },
+        {
+          "asin": "B0CLHJ3TQF",
+          "slug": "sally-hansen-color-therapy-nail-polish-biotin-argan-oil-long",
+          "title": "\udecd️Sally Hansen Color Therapy Nail Polish | Biotin, Argan Oil, Long Lasting, Healthy Nails, Nail Strengthener, Opaque | 4",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Ad8wT5b-L.jpg",
+          "url": "https://www.amazon.com/dp/B0CLHJ3TQF?tag=noya0b-20"
+        },
         {
           "asin": "B0D41ZMYB2",
           "slug": "digital-picture-frame-101-frameo-digital-frame-wifi-32gb-mem",
@@ -200,60 +250,16 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61u57C29RPL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GS33WJP7/ref=cm_sw_r_as_gl_api_gl_i_X453KF53JS2D5KKWYNJD?linkCode=ml1&tag=noya0b-20&linkId=f62d190a31aafdc023074dd405cfb8a3"
-        },
-        {
-          "asin": "B0CYCL5T9F",
-          "slug": "ozone-generator-45000mgh-homeindustrial-o3-car-deodorizer-oz",
-          "title": "Ozone Generator 45,000mg/h, Home/Industrial O3 Car Deodorizer. Ozone Machine Air Ionizer Ozone Odor Eliminator for Stron",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71OJU4+xf3L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CYCL5T9F?linkCode=sl2&tag=noya0b-20&linkId=318e2827c8eae48cf7ece2f4b83df599&language=en_US"
-        },
-        {
-          "asin": "B0DRCJVLD8",
-          "slug": "ulibermagnet-garage-weedeater-rackwall-mount-2-slot-utility",
-          "title": "\udecd️ULIBERMAGNET Garage Weedeater Rack,Wall Mount 2 Slot Utility Storage Rack for Garden Tool,Grass Trimmer,Hedge Weedeate",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xu95peLAL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DRCJVLD8?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DG6LZSLC",
-          "slug": "bissell-turboclean-pet-upright-carpet-upholstery-cleaner-394",
-          "title": "BISSELL TurboClean PET, Upright Carpet & Upholstery Cleaner, 3948",
-          "price": "$124.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71V4Vf4AMSL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DG6LZSLC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B078MV9R3R",
-          "slug": "toddler-suit-for-kids-boy-easter-christmas-tuxedo-slim-fit-f",
-          "title": "\udecd️Toddler Suit for Kids Boy Easter Christmas Tuxedo Slim fit for Wedding Ring Bearer Outfit Baby Homecoming Formal Wear ",
-          "price": "$9.90",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61hqY6ftNPL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B078MV9R3R?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 17, 2026?",
-          "a": "The best deals today include \"\udecd️Digital Picture Frame, 10.1'' Frameo Digital Frame Wifi, 3...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"MAGNA-TILES Downhill Duo 40-Piece Magnetic Construction Set,...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Electronics, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Garden & Outdoor and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-17T12:10:01.385Z",
-      "updatedAt": "2026-06-17T12:10:01.385Z"
+      "generatedAt": "2026-06-17T12:20:02.085Z",
+      "updatedAt": "2026-06-17T12:20:02.085Z"
     },
     {
       "date": "2026-06-15",
@@ -2392,5 +2398,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-17T12:10:01.386Z"
+  "generatedAt": "2026-06-17T12:20:02.086Z"
 }
