@@ -4,17 +4,94 @@
       "date": "2026-06-17",
       "slug": "2026-06-17",
       "title": "🔥 Best Deals Today — June 17, 2026",
-      "intro": "Today's best online deals for Wednesday, June 17, 2026 — 10 hand-picked discounts across Grocery & Food, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, June 17, 2026 — 10 hand-picked discounts across Other, Beauty, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Grocery & Food",
         "Other",
         "Beauty",
-        "Garden & Outdoor",
         "Electronics",
-        "Toys & Kids",
-        "Home & Kitchen"
+        "Tools & Hardware",
+        "Home & Kitchen",
+        "Pet Supplies",
+        "Garden & Outdoor",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B07V1C8V3P",
+            "slug": "madison-park-signature-ansen-ceramic-handmade-vase-set-home",
+            "title": "Madison Park Signature Ansen Ceramic Handmade Vase Set Home Décor - Metallic Accent Living Room Decoration Ideal for She",
+            "price": "$21",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/713k5ay6sdL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07V1C8V3P/ref=cm_sw_r_as_gl_api_gl_i_dl_QA41KBJ9DRKFE33GQFKQ?linkCode=ml1&tag=noya0b-20&linkId=e7f719fcdcdf1895bb4dceb5dc0bdc89"
+          },
+          {
+            "asin": "B0CMQMPSDK",
+            "slug": "sakugi-over-the-sink-dish-drying-rack-adjustable-2-tier-larg",
+            "title": "Sakugi Over The Sink Dish Drying Rack - Adjustable 2 Tier Large Capacity Stainless Steel Drainer with Cutlery & Utensil ",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71T0RDYMMWL.jpg",
+            "url": "https://www.amazon.com/dp/B0CMQMPSDK/ref=cm_sw_r_as_gl_api_gl_i_dl_SWKV677G35EF69X2F4ZG?linkCode=ml1&tag=noya0b-20&linkId=a519ec010ea7f831633efe903be0917c"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0D94NBL6F",
+            "slug": "google-pixel-watch-3-45mm-2024-model-android-smartwatch-hear",
+            "title": "Google Pixel Watch 3 (45mm) 2024 Model - Android Smartwatch, Heart Rate Tracking, Fitbit Advanced Running, Fitness Insig",
+            "price": "$239.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0D94NBL6F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0CVSF9NPM",
+            "slug": "carhartt-onsite-tool-bag-durable-water-resistant-tool-storag",
+            "title": "Carhartt Onsite Tool Bag, Durable Water-Resistant, Tool Storage Bag, Heavyweight, 14-Inch 26 Pocket, Carhartt Brown",
+            "price": "$56",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/81EASLtNhrL.jpg",
+            "url": "https://www.amazon.com/dp/B0CVSF9NPM/ref=cm_sw_r_as_gl_api_gl_i_Y2Q95ASNWX42WAM67TTX?linkCode=ml1&tag=noya0b-20&linkId=1c79781044439071fef8e41046670aa7"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0GFCZTRKL",
+            "slug": "3-piece-set-bamboo-cutting-board-for-kitchen-crack-resistant",
+            "title": "3-Piece Set Bamboo Cutting Board for Kitchen - Crack-Resistant Wood Chopping Boards with Deep Juice Grooves, Pre-Oiled B",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MTOyhiJ5L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GFCZTRKL/ref=cm_sw_r_as_gl_api_gl_i_GNGR6SV19RX23RG2S90A?linkCode=ml1&tag=noya0b-20&linkId=8cdf025ecb575b1e1afce7ec4f7814af"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B0GJTJWRB2",
+            "slug": "bissell-cleanwell-automated-cat-litter-box-with-odorvault-te",
+            "title": "BISSELL CleanWell Automated Cat Litter Box with OdorVault Technology, 20-Day XL bin Capacity, App Control & Health Monit",
+            "price": "$299.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71iHEYpI2VL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GJTJWRB2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0FLFR47WC",
@@ -39,41 +116,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/813lw3gS2vL.jpg",
             "url": "https://www.amazon.com/dp/B0C9V4L32W?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0FFJXYV91",
-            "slug": "amazon-essentials-x-sofia-grainge-womens-stretch-modal-long",
-            "title": "Amazon Essentials x Sofia Grainge Women's Stretch Modal Long-Sleeve and Full-Length Bottom Pajama Set, Light Blue Geese,",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Y356KTatL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FFJXYV91/ref=cm_sw_r_as_gl_api_gl_i_dl_384K8SPDBDHDYJHR9WFS?linkCode=ml1&tag=noya0b-20&linkId=52cb00b3a5ab9139b0c02804af5c6784"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0CMQMPSDK",
-            "slug": "sakugi-over-the-sink-dish-drying-rack-adjustable-2-tier-larg",
-            "title": "Sakugi Over The Sink Dish Drying Rack - Adjustable 2 Tier Large Capacity Stainless Steel Drainer with Cutlery & Utensil ",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71T0RDYMMWL.jpg",
-            "url": "https://www.amazon.com/dp/B0CMQMPSDK/ref=cm_sw_r_as_gl_api_gl_i_dl_SWKV677G35EF69X2F4ZG?linkCode=ml1&tag=noya0b-20&linkId=a519ec010ea7f831633efe903be0917c"
-          },
-          {
-            "asin": "B0F99D17ZZ",
-            "slug": "feshfen-long-dirty-blonde-wigs-for-women-24-inch-middle-part",
-            "title": "FESHFEN Long Dirty Blonde Wigs for Women, 24 inch Middle Parting Synthetic Wavy Wig for Daily Party",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81XaN18NeoL.jpg",
-            "url": "https://www.amazon.com/dp/B0F99D17ZZ/ref=cm_sw_r_as_gl_api_gl_i_S19YBPJAYD1C2JE9RRBE?linkCode=ml1&tag=noya0b-20&linkId=de25d500e3c3ef906150043ca6c46884"
           }
         ],
         "Beauty": [
@@ -99,48 +141,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71tu-o-RbeL.jpg",
             "url": "https://www.amazon.com/dp/B01ACPW2QC/ref=cm_sw_r_as_gl_api_gl_i_237D39D0HFG0PES9FV7E?linkCode=ml1&tag=noya0b-20&linkId=fa4f24c488b616322abeb2db0f5cb756"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0D5NQJM3S",
-            "slug": "limited-edition-spider-man-stand-for-amazon-echo-dot-4th-5th",
-            "title": "Limited Edition, Spider-Man Stand for Amazon Echo Dot (4th & 5th Generations). Device Sold Separately.",
-            "price": "$20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71adUzSlz5L.jpg",
-            "url": "https://www.amazon.com/dp/B0D5NQJM3S/ref=cm_sw_r_as_gl_api_gl_i_dl_XAX3KWQCM5XMNY5XFTJS?linkCode=ml1&tag=noya0b-20&linkId=8d275c09cd36b091ecce6a8cf013d9ce"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0DRW5QJ5R",
-            "slug": "lego-star-wars-327th-star-corps-clone-troopers-battle-pack-b",
-            "title": "LEGO Star Wars 327th Star Corps Clone Troopers Battle Pack Building Toy - Pretend Play Set for Boys & Girls, Ages 7+ - C",
-            "price": "$35",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/813BxQUHP8L.jpg",
-            "url": "https://www.amazon.com/dp/B0DRW5QJ5R/ref=cm_sw_r_as_gl_api_gl_i_P7X71YQYR8SEBK4K7HD5?linkCode=ml1&tag=noya0b-20&linkId=01adb2aad6bc93c31b1e9464147afa54"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0D3VJC5JD",
-            "slug": "hydro-flask-water-bottle-insulated-stainless-steel-wide-mout",
-            "title": "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Mouth FLex Lid, Non Spill, Leakproof and Refillable in 32 Oz",
-            "price": "$22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D3VJC5JD/ref=cm_sw_r_as_gl_api_gl_i_D0FX1JDSJ3MYEDJMXHNG?linkCode=ml1&tag=noya0b-20&linkId=a1ec8ddff15d9da1b4e95287281e7643"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07V1C8V3P",
+          "slug": "madison-park-signature-ansen-ceramic-handmade-vase-set-home",
+          "title": "Madison Park Signature Ansen Ceramic Handmade Vase Set Home Décor - Metallic Accent Living Room Decoration Ideal for She",
+          "price": "$21",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/713k5ay6sdL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07V1C8V3P/ref=cm_sw_r_as_gl_api_gl_i_dl_QA41KBJ9DRKFE33GQFKQ?linkCode=ml1&tag=noya0b-20&linkId=e7f719fcdcdf1895bb4dceb5dc0bdc89"
+        },
+        {
+          "asin": "B0D94NBL6F",
+          "slug": "google-pixel-watch-3-45mm-2024-model-android-smartwatch-hear",
+          "title": "Google Pixel Watch 3 (45mm) 2024 Model - Android Smartwatch, Heart Rate Tracking, Fitbit Advanced Running, Fitness Insig",
+          "price": "$239.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0D94NBL6F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0CVSF9NPM",
+          "slug": "carhartt-onsite-tool-bag-durable-water-resistant-tool-storag",
+          "title": "Carhartt Onsite Tool Bag, Durable Water-Resistant, Tool Storage Bag, Heavyweight, 14-Inch 26 Pocket, Carhartt Brown",
+          "price": "$56",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EASLtNhrL.jpg",
+          "url": "https://www.amazon.com/dp/B0CVSF9NPM/ref=cm_sw_r_as_gl_api_gl_i_Y2Q95ASNWX42WAM67TTX?linkCode=ml1&tag=noya0b-20&linkId=1c79781044439071fef8e41046670aa7"
+        },
+        {
+          "asin": "B0GFCZTRKL",
+          "slug": "3-piece-set-bamboo-cutting-board-for-kitchen-crack-resistant",
+          "title": "3-Piece Set Bamboo Cutting Board for Kitchen - Crack-Resistant Wood Chopping Boards with Deep Juice Grooves, Pre-Oiled B",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71MTOyhiJ5L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GFCZTRKL/ref=cm_sw_r_as_gl_api_gl_i_GNGR6SV19RX23RG2S90A?linkCode=ml1&tag=noya0b-20&linkId=8cdf025ecb575b1e1afce7ec4f7814af"
+        },
+        {
+          "asin": "B0GJTJWRB2",
+          "slug": "bissell-cleanwell-automated-cat-litter-box-with-odorvault-te",
+          "title": "BISSELL CleanWell Automated Cat Litter Box with OdorVault Technology, 20-Day XL bin Capacity, App Control & Health Monit",
+          "price": "$299.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71iHEYpI2VL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GJTJWRB2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0FLFR47WC",
           "slug": "miracle-gro-6-x-4-x-6-outdoor-mini-walk-in-greenhouse-plant",
@@ -195,71 +253,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71tu-o-RbeL.jpg",
           "url": "https://www.amazon.com/dp/B01ACPW2QC/ref=cm_sw_r_as_gl_api_gl_i_237D39D0HFG0PES9FV7E?linkCode=ml1&tag=noya0b-20&linkId=fa4f24c488b616322abeb2db0f5cb756"
-        },
-        {
-          "asin": "B0F99D17ZZ",
-          "slug": "feshfen-long-dirty-blonde-wigs-for-women-24-inch-middle-part",
-          "title": "FESHFEN Long Dirty Blonde Wigs for Women, 24 inch Middle Parting Synthetic Wavy Wig for Daily Party",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81XaN18NeoL.jpg",
-          "url": "https://www.amazon.com/dp/B0F99D17ZZ/ref=cm_sw_r_as_gl_api_gl_i_S19YBPJAYD1C2JE9RRBE?linkCode=ml1&tag=noya0b-20&linkId=de25d500e3c3ef906150043ca6c46884"
-        },
-        {
-          "asin": "B0D5NQJM3S",
-          "slug": "limited-edition-spider-man-stand-for-amazon-echo-dot-4th-5th",
-          "title": "Limited Edition, Spider-Man Stand for Amazon Echo Dot (4th & 5th Generations). Device Sold Separately.",
-          "price": "$20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71adUzSlz5L.jpg",
-          "url": "https://www.amazon.com/dp/B0D5NQJM3S/ref=cm_sw_r_as_gl_api_gl_i_dl_XAX3KWQCM5XMNY5XFTJS?linkCode=ml1&tag=noya0b-20&linkId=8d275c09cd36b091ecce6a8cf013d9ce"
-        },
-        {
-          "asin": "B0DRW5QJ5R",
-          "slug": "lego-star-wars-327th-star-corps-clone-troopers-battle-pack-b",
-          "title": "LEGO Star Wars 327th Star Corps Clone Troopers Battle Pack Building Toy - Pretend Play Set for Boys & Girls, Ages 7+ - C",
-          "price": "$35",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/813BxQUHP8L.jpg",
-          "url": "https://www.amazon.com/dp/B0DRW5QJ5R/ref=cm_sw_r_as_gl_api_gl_i_P7X71YQYR8SEBK4K7HD5?linkCode=ml1&tag=noya0b-20&linkId=01adb2aad6bc93c31b1e9464147afa54"
-        },
-        {
-          "asin": "B0D3VJC5JD",
-          "slug": "hydro-flask-water-bottle-insulated-stainless-steel-wide-mout",
-          "title": "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Mouth FLex Lid, Non Spill, Leakproof and Refillable in 32 Oz",
-          "price": "$22",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D3VJC5JD/ref=cm_sw_r_as_gl_api_gl_i_D0FX1JDSJ3MYEDJMXHNG?linkCode=ml1&tag=noya0b-20&linkId=a1ec8ddff15d9da1b4e95287281e7643"
-        },
-        {
-          "asin": "B0FFJXYV91",
-          "slug": "amazon-essentials-x-sofia-grainge-womens-stretch-modal-long",
-          "title": "Amazon Essentials x Sofia Grainge Women's Stretch Modal Long-Sleeve and Full-Length Bottom Pajama Set, Light Blue Geese,",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Y356KTatL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FFJXYV91/ref=cm_sw_r_as_gl_api_gl_i_dl_384K8SPDBDHDYJHR9WFS?linkCode=ml1&tag=noya0b-20&linkId=52cb00b3a5ab9139b0c02804af5c6784"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 17, 2026?",
-          "a": "The best deals today include \"Miracle-GRO 6' x 4' x 6' Outdoor Mini Walk-in Greenhouse Pla...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Madison Park Signature Ansen Ceramic Handmade Vase Set Home ...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Grocery & Food and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-17T10:50:01.474Z",
-      "updatedAt": "2026-06-17T10:50:01.474Z"
+      "generatedAt": "2026-06-17T11:00:01.315Z",
+      "updatedAt": "2026-06-17T11:00:01.316Z"
     },
     {
       "date": "2026-06-15",
@@ -2398,5 +2401,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-17T10:50:01.475Z"
+  "generatedAt": "2026-06-17T11:00:01.317Z"
 }
