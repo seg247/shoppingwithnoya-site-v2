@@ -10,8 +10,8 @@
         "Body Care",
         "Skincare",
         "Beauty",
-        "Nails",
         "Makeup",
+        "Nails",
         "Hair Care"
       ],
       "bySubcat": {
@@ -63,7 +63,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Fragrance",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71e2DxwFZXL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GFY5H5FJ?tag=noya0b-20"
           }
         ],
@@ -213,19 +213,17 @@
             "url": "https://www.amazon.com/dp/B004KRXFGK?tag=noya0b-20"
           }
         ],
-        "Nails": [
+        "Makeup": [
           {
-            "asin": "B0CLHJ3TQF",
-            "slug": "sally-hansen-color-therapy-nail-polish-biotin-argan-oil-long",
-            "title": "\udecd️Sally Hansen Color Therapy Nail Polish | Biotin, Argan Oil, Long Lasting, Healthy Nails, Nail Strengthener, Opaque | 4",
+            "asin": "B00EMAM9BC",
+            "slug": "covergirl-lash-blast-volume-mascara-very-black",
+            "title": "Covergirl Lash Blast Volume Mascara, Very Black",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Ad8wT5b-L.jpg",
-            "url": "https://www.amazon.com/dp/B0CLHJ3TQF?tag=noya0b-20"
-          }
-        ],
-        "Makeup": [
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/715GLPXClnL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00EMAM9BC?ie=UTF8&ascsubtag=2b073eb269e411f1b30d8a36b04c5c450INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6a320f0bfd86d2fc0965f66cf58ed32&language=en_US"
+          },
           {
             "asin": "B000KC009Y",
             "slug": "super-economy-box-fire-starter-tan-brown-100-count-pack-of-1",
@@ -243,7 +241,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lvmxgya-L._AC_SL1500_.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/91EANBbcFcL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CYH83YS6/ref=cm_sw_r_as_gl_api_gl_i_dl_QQE3CBTRAXCNFSGEZBM0?linkCode=ml1&tag=noya0b-20&linkId=78287e0527631229aa796d7d68b2bb9a"
           },
           {
@@ -255,16 +253,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/913hNE6iCvL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B006OZF0WS?th=1&linkCode=sl2&tag=noya0b-20&linkId=795ed71aa62065f640e2500062e73293&language=en_US"
-          },
-          {
-            "asin": "B00EMAM9BC",
-            "slug": "covergirl-lash-blast-volume-mascara-very-black-cover-girl-la",
-            "title": "Covergirl Lash Blast Volume Mascara, Very Black : Cover Girl Lash Blast Mascara : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/715GLPXClnL.jpg",
-            "url": "https://www.amazon.com/dp/B00EMAM9BC?ie=UTF8&ascsubtag=2b073eb269e411f1b30d8a36b04c5c450INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6a320f0bfd86d2fc0965f66cf58ed32&language=en_US"
           },
           {
             "asin": "B0FNS4T8FD",
@@ -285,6 +273,18 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71BEYzEteYL.jpg",
             "url": "https://www.amazon.com/myQ-Smart-Garage-Starter-Plug/dp/B0GY82BG3J?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4dbb50d0e20fd7fe3225a3a166a81159&language=en_US"
+          }
+        ],
+        "Nails": [
+          {
+            "asin": "B0CLHJ3TQF",
+            "slug": "sally-hansen-color-therapy-nail-polish-biotin-argan-oil-long",
+            "title": "\udecd️Sally Hansen Color Therapy Nail Polish | Biotin, Argan Oil, Long Lasting, Healthy Nails, Nail Strengthener, Opaque | 4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Ad8wT5b-L.jpg",
+            "url": "https://www.amazon.com/dp/B0CLHJ3TQF?tag=noya0b-20"
           }
         ],
         "Hair Care": [
@@ -412,13 +412,23 @@
           "url": "https://www.amazon.com/dp/B0DSLXS4G9?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B00EMAM9BC",
+          "slug": "covergirl-lash-blast-volume-mascara-very-black",
+          "title": "Covergirl Lash Blast Volume Mascara, Very Black",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/715GLPXClnL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00EMAM9BC?ie=UTF8&ascsubtag=2b073eb269e411f1b30d8a36b04c5c450INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6a320f0bfd86d2fc0965f66cf58ed32&language=en_US"
+        },
+        {
           "asin": "B0GFY5H5FJ",
           "slug": "philosophy-amazing-grace-perfume-duo-gift-set-clean-floral-w",
           "title": "\udecd️philosophy amazing grace perfume duo gift set- clean & floral women's perfume - with notes of bergamot, muguet & musk ",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Fragrance",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71e2DxwFZXL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFY5H5FJ?tag=noya0b-20"
         },
         {
@@ -468,7 +478,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Lvmxgya-L._AC_SL1500_.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/91EANBbcFcL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CYH83YS6/ref=cm_sw_r_as_gl_api_gl_i_dl_QQE3CBTRAXCNFSGEZBM0?linkCode=ml1&tag=noya0b-20&linkId=78287e0527631229aa796d7d68b2bb9a"
         },
         {
@@ -530,16 +540,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/41M4HAM8YjL._AC_SL1024_.jpg",
           "url": "https://www.amazon.com/CHI-Ultra-Fast-Increases-Diffuser-Attachments/dp/B07TMQDDLY?th=1&linkCode=sl2&tag=noya0b-20&linkId=d42f762fe464d88339da2566e83d1671&language=en_US"
-        },
-        {
-          "asin": "B00EMAM9BC",
-          "slug": "covergirl-lash-blast-volume-mascara-very-black-cover-girl-la",
-          "title": "Covergirl Lash Blast Volume Mascara, Very Black : Cover Girl Lash Blast Mascara : Beauty & Personal Care",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/715GLPXClnL.jpg",
-          "url": "https://www.amazon.com/dp/B00EMAM9BC?ie=UTF8&ascsubtag=2b073eb269e411f1b30d8a36b04c5c450INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6a320f0bfd86d2fc0965f66cf58ed32&language=en_US"
         },
         {
           "asin": "B0BV6F941G",
@@ -657,7 +657,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include Super Economy Box Fire Starter , Tan Brown, 100 Co and 5.1\" Mini Makeup Bag for Purse, Nylon Small Makeup and more."
+          "a": "Yes! Today's makeup deals include Covergirl Lash Blast Volume Mascara, Very Black and Super Economy Box Fire Starter , Tan Brown, 100 Co and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -668,8 +668,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-17T14:20:03.384Z",
-      "updatedAt": "2026-06-17T14:20:03.384Z"
+      "generatedAt": "2026-06-17T14:30:04.972Z",
+      "updatedAt": "2026-06-17T14:30:04.972Z"
     },
     {
       "date": "2026-06-15",
@@ -4195,5 +4195,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-17T14:20:03.385Z"
+  "generatedAt": "2026-06-17T14:30:04.973Z"
 }
