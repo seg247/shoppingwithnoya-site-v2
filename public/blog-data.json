@@ -11,10 +11,55 @@
         "Home & Kitchen",
         "Sports & Fitness",
         "Beauty",
-        "Toys & Kids",
-        "Pet Supplies"
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0DSWFXLV3",
+            "slug": "funko-pop-sanrio-my-melody",
+            "title": "Funko Pop! Sanrio: My Melody",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61UFs1pmYeL._AC_SL1300_.jpg",
+            "url": "https://www.amazon.com/dp/B0DSWFXLV3?linkCode=sl2&tag=noya0b-20&linkId=d6b5df30e34dfa326daed5cd59fde105&language=en_US"
+          },
+          {
+            "asin": "B092R9M9G1",
+            "slug": "amazon-business-accounts",
+            "title": "Amazon business accounts",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81S8JK7vFDL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B092R9M9G1/ref=cm_sw_r_as_gl_apa_gl_i_EAJHQ5F8EV47E054MMCB?linkCode=ml1&tag=noya0b-20&linkId=3a39cd874a6745473bc9a55fe6ad41ff"
+          },
+          {
+            "asin": "B00W45280O",
+            "slug": "temporary-oos-but-can-still-order",
+            "title": "Temporary oos but can still order",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/810T4X2GuTL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00W45280O/ref=cm_sw_r_as_gl_apa_gl_i_0ZCXCAPW051NG1G1A186?linkCode=ml1&tag=noya0b-20&linkId=7b7f77efb6c353765114ce9aeb853813"
+          },
+          {
+            "asin": "B09B18SW3Y",
+            "slug": "philips-one-by-sonicare-2pk-brush-heads-black-bh102206",
+            "title": "Philips One by Sonicare 2pk Brush Heads, Black BH1022/06",
+            "price": "$9.96",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61huv7DCZlL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09B18SW3Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0B8Z15QHK",
@@ -65,41 +110,6 @@
             "url": "https://www.amazon.com/dp/B0GXKHNWLC?th=1&linkCode=sl2&tag=noya0b-20&linkId=7411f379db650d6d934c77251f0b1ab0&language=en_US"
           }
         ],
-        "Other": [
-          {
-            "asin": "B092R9M9G1",
-            "slug": "amazon-business-accounts",
-            "title": "Amazon business accounts",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81S8JK7vFDL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B092R9M9G1/ref=cm_sw_r_as_gl_apa_gl_i_EAJHQ5F8EV47E054MMCB?linkCode=ml1&tag=noya0b-20&linkId=3a39cd874a6745473bc9a55fe6ad41ff"
-          },
-          {
-            "asin": "B00W45280O",
-            "slug": "temporary-oos-but-can-still-order",
-            "title": "Temporary oos but can still order",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/810T4X2GuTL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00W45280O/ref=cm_sw_r_as_gl_apa_gl_i_0ZCXCAPW051NG1G1A186?linkCode=ml1&tag=noya0b-20&linkId=7b7f77efb6c353765114ce9aeb853813"
-          },
-          {
-            "asin": "B09B18SW3Y",
-            "slug": "philips-one-by-sonicare-2pk-brush-heads-black-bh102206",
-            "title": "Philips One by Sonicare 2pk Brush Heads, Black BH1022/06",
-            "price": "$9.96",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61huv7DCZlL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09B18SW3Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0GYFYTLJZ",
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81D-Af8JtYL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09NLCRC9L/ref=cm_sw_r_as_gl_apa_gl_i_VYY13660NG4YH8CXTT1J?linkCode=ml1&tag=noya0b-20&linkId=e7ef5a9241b92e49a7a3034d7b6b820d"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B00WWP1MIK",
-            "slug": "petarmor-plus-flea-and-tick-prevention-for-dogs-large-dog-fl",
-            "title": "PetArmor Plus Flea and Tick Prevention for Dogs, Large Dog Flea and Tick Treatment, 3 Doses, Waterproof Topical, Fast Ac",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ilWqfHTAL.jpg",
-            "url": "https://www.amazon.com/dp/B00WWP1MIK/ref=cm_sw_r_as_gl_apa_gl_i_0K21KRV1GHEH0CDDX98M?linkCode=ml1&tag=noya0b-20&linkId=aaf84679de408b932232c3d3272e2bc7"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DSWFXLV3",
+          "slug": "funko-pop-sanrio-my-melody",
+          "title": "Funko Pop! Sanrio: My Melody",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61UFs1pmYeL._AC_SL1300_.jpg",
+          "url": "https://www.amazon.com/dp/B0DSWFXLV3?linkCode=sl2&tag=noya0b-20&linkId=d6b5df30e34dfa326daed5cd59fde105&language=en_US"
+        },
         {
           "asin": "B0B8Z15QHK",
           "slug": "furinno-jensen-living-room-wooden-leg-lift-top-coffee-table",
@@ -239,23 +247,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81D-Af8JtYL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09NLCRC9L/ref=cm_sw_r_as_gl_apa_gl_i_VYY13660NG4YH8CXTT1J?linkCode=ml1&tag=noya0b-20&linkId=e7ef5a9241b92e49a7a3034d7b6b820d"
-        },
-        {
-          "asin": "B00WWP1MIK",
-          "slug": "petarmor-plus-flea-and-tick-prevention-for-dogs-large-dog-fl",
-          "title": "PetArmor Plus Flea and Tick Prevention for Dogs, Large Dog Flea and Tick Treatment, 3 Doses, Waterproof Topical, Fast Ac",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ilWqfHTAL.jpg",
-          "url": "https://www.amazon.com/dp/B00WWP1MIK/ref=cm_sw_r_as_gl_apa_gl_i_0K21KRV1GHEH0CDDX98M?linkCode=ml1&tag=noya0b-20&linkId=aaf84679de408b932232c3d3272e2bc7"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 17, 2026?",
-          "a": "The best deals today include \"Furinno Jensen Living Room Wooden Leg Lift Top Coffee Table ...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Funko Pop! Sanrio: My Melody...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-17T06:00:01.552Z",
-      "updatedAt": "2026-06-17T06:00:01.552Z"
+      "generatedAt": "2026-06-17T06:10:01.271Z",
+      "updatedAt": "2026-06-17T06:10:01.271Z"
     },
     {
       "date": "2026-06-15",
@@ -2398,5 +2395,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-17T06:00:01.553Z"
+  "generatedAt": "2026-06-17T06:10:01.272Z"
 }
