@@ -4,16 +4,40 @@
       "date": "2026-06-18",
       "slug": "2026-06-18",
       "title": "🔥 Best Deals Today — June 18, 2026",
-      "intro": "Today's best online deals for Thursday, June 18, 2026 — 10 hand-picked discounts across Home & Kitchen, Fashion, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, June 18, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
-        "Fashion",
-        "Grocery & Food",
-        "Cleaning Supplies",
         "Other",
-        "Electronics"
+        "Fashion",
+        "Cleaning Supplies",
+        "Electronics",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0DCF6DKWX",
+            "slug": "onenine-8-colors-temporary-hair-chalk-hair-dye-for-girls-kid",
+            "title": "OneNine 8 Colors Temporary Hair Chalk Hair Dye For Girls Kids Adults, Non-Sticky Washable Hair Dye, Vibrant Hair Color M",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JvZHRQK9L.jpg",
+            "url": "https://www.amazon.com/dp/B0DCF6DKWX/ref=cm_sw_r_as_gl_api_gl_i_KBVJ38FB4J6S4NC7BP6J?linkCode=ml1&tag=noya0b-20&linkId=633ebba2716ec1d8d5b6412360419d65"
+          },
+          {
+            "asin": "B0D8ZDTKB9",
+            "slug": "fidozen-dog-car-door-protector-2-pack-durable-universal-fit",
+            "title": "fidozen Dog Car Door Protector - 2 Pack Durable & Universal Fit Anti-Scratch Waterproof Vehicle Door Covers, Guards Your",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Uf1VdUJQL.jpg",
+            "url": "https://www.amazon.com/dp/B0D8ZDTKB9/ref=cm_sw_r_as_gl_api_gl_i_298X7QQ6M994ZPED5XW4?linkCode=ml1&tag=noya0b-20&linkId=4960198d99aba5a18c6ad308ded936f5"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0F2J7615T",
@@ -86,19 +110,6 @@
             "url": "https://www.amazon.com/dp/B0G1MFWQ9S/ref=cm_sw_r_as_gl_apa_gl_i_dl_2D87S9EXCS0TG4EFWJ8A?tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0D8ZDTKB9",
-            "slug": "fidozen-dog-car-door-protector-2-pack-durable-universal-fit",
-            "title": "fidozen Dog Car Door Protector - 2 Pack Durable & Universal Fit Anti-Scratch Waterproof Vehicle Door Covers, Guards Your",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Uf1VdUJQL.jpg",
-            "url": "https://www.amazon.com/dp/B0D8ZDTKB9/ref=cm_sw_r_as_gl_api_gl_i_298X7QQ6M994ZPED5XW4?linkCode=ml1&tag=noya0b-20&linkId=4960198d99aba5a18c6ad308ded936f5"
-          }
-        ],
         "Electronics": [
           {
             "asin": "B0DH3F6RPB",
@@ -123,21 +134,21 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/61eg-fX49vL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FFJXYV91/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZA6676XX8PNE4D5AK5GN?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FDW9TXYM",
-            "slug": "ratrabas-upgraded-airpot-coffee-carafe-with-double-pump-84oz",
-            "title": "\udecd️Ratrabas Upgraded Airpot Coffee Carafe with Double Pump - 84oz/2.5L Coffee Carafe for Keeping Hot, Beverage Dispenser ",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61wP871axsL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDW9TXYM/ref=cm_sw_r_as_gl_api_gl_i_dl_00ZVJDJ0J80H4T7YJBBC?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DCF6DKWX",
+          "slug": "onenine-8-colors-temporary-hair-chalk-hair-dye-for-girls-kid",
+          "title": "OneNine 8 Colors Temporary Hair Chalk Hair Dye For Girls Kids Adults, Non-Sticky Washable Hair Dye, Vibrant Hair Color M",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JvZHRQK9L.jpg",
+          "url": "https://www.amazon.com/dp/B0DCF6DKWX/ref=cm_sw_r_as_gl_api_gl_i_KBVJ38FB4J6S4NC7BP6J?linkCode=ml1&tag=noya0b-20&linkId=633ebba2716ec1d8d5b6412360419d65"
+        },
         {
           "asin": "B0F2J7615T",
           "slug": "amazon-basics-stemless-white-wine-glasses-14-oz-dishwasher-s",
@@ -236,23 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/61eg-fX49vL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FFJXYV91/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZA6676XX8PNE4D5AK5GN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FDW9TXYM",
-          "slug": "ratrabas-upgraded-airpot-coffee-carafe-with-double-pump-84oz",
-          "title": "\udecd️Ratrabas Upgraded Airpot Coffee Carafe with Double Pump - 84oz/2.5L Coffee Carafe for Keeping Hot, Beverage Dispenser ",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61wP871axsL.jpg",
-          "url": "https://www.amazon.com/dp/B0FDW9TXYM/ref=cm_sw_r_as_gl_api_gl_i_dl_00ZVJDJ0J80H4T7YJBBC?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 18, 2026?",
-          "a": "The best deals today include \"\udecd️Amazon Basics Stemless White Wine Glasses, 14 oz., Dishwas...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"OneNine 8 Colors Temporary Hair Chalk Hair Dye For Girls Kid...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T12:30:02.162Z",
-      "updatedAt": "2026-06-18T12:30:02.162Z"
+      "generatedAt": "2026-06-18T12:40:01.732Z",
+      "updatedAt": "2026-06-18T12:40:01.732Z"
     },
     {
       "date": "2026-06-17",
@@ -2672,5 +2672,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T12:30:02.164Z"
+  "generatedAt": "2026-06-18T12:40:01.733Z"
 }
