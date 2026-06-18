@@ -13,31 +13,18 @@
         "Grocery & Food"
       ],
       "byCategory": {
-        "Home & Kitchen": [
-          {
-            "asin": "B082L5FCWP",
-            "slug": "betsey-johnson-twin-xl-size-sheet-set-ultra-soft-lightweight",
-            "title": "Betsey Johnson - Twin XL Size Sheet Set, Ultra-Soft & Lightweight Bedding with Pillowcase, Fully Elastic Fitted Sheet, D",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/91ZyypcblSL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B082L5FCWP/ref=cm_sw_r_as_gl_apa_gl_i_dl_1RKM09MXP5G21YNBA26K?linkCode=ml1&tag=noya0b-20&linkId=be0a042377e8f3d201adff6271cb96a1"
-          },
-          {
-            "asin": "B08BG5X577",
-            "slug": "colleta-home-colorful-mixing-bowl-4-pc-set-stackable-nesting",
-            "title": "Colleta Home Colorful Mixing Bowl- 4 Pc Set- Stackable Nesting Bowls- Stainless Steel Mixing Bowls Non Slip Silicone Bot",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71iUjRQ21iL.jpg",
-            "url": "https://www.amazon.com/dp/B08BG5X577/ref=cm_sw_r_as_gl_apa_gl_i_75MDFMZX8DZSEG7CTNVP?linkCode=ml1&tag=noya0b-20&linkId=cacde700c6d3c33b31f7688383a384b4"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0F3BB8D37",
+            "slug": "blink-mini-2k-black-amazon",
+            "title": "Blink Mini 2K+ | Black | Amazon",
+            "price": "$17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Qnc-GPyLL.jpg",
+            "url": "https://www.amazon.com/dp/B0F3BB8D37/ref=cm_sw_r_as_gl_apa_gl_i_dl_QV7D391NYDB9RC5HA68J?linkCode=ml1&tag=noya0b-20&linkId=b1e9dbd500a2101f0ec158100280b561"
+          },
           {
             "asin": "B0DZ6W5HJZ",
             "slug": "kleenex-ultra-soft-facial-tissues-cube-boxes80-tissues-per-b",
@@ -81,17 +68,30 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FDW5JJCZ/ref=cm_sw_r_as_gl_apa_gl_i_EAXQSF4Y31CVZT04X1PK?linkCode=ml1&tag=noya0b-20&linkId=2e70b7163eb1ccb2b312b1be3a572f30"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0DGQVYW2K",
-            "slug": "blink-video-doorbell-required-sync-module",
-            "title": "Blink Video Doorbell + Required Sync Module",
-            "price": "$19",
+            "asin": "B082L5FCWP",
+            "slug": "betsey-johnson-twin-xl-size-sheet-set-ultra-soft-lightweight",
+            "title": "Betsey Johnson - Twin XL Size Sheet Set, Ultra-Soft & Lightweight Bedding with Pillowcase, Fully Elastic Fitted Sheet, D",
+            "price": "$14",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
-            "url": "https://www.amazon.com/dp/B0DGQVYW2K/ref=cm_sw_r_as_gl_apa_gl_i_dl_CKV4F4Z26QXV6ZDECZ20?linkCode=ml1&tag=noya0b-20&linkId=4de3b944e26014c347e911ebff119248"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/91ZyypcblSL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B082L5FCWP/ref=cm_sw_r_as_gl_apa_gl_i_dl_1RKM09MXP5G21YNBA26K?linkCode=ml1&tag=noya0b-20&linkId=be0a042377e8f3d201adff6271cb96a1"
+          },
+          {
+            "asin": "B08BG5X577",
+            "slug": "colleta-home-colorful-mixing-bowl-4-pc-set-stackable-nesting",
+            "title": "Colleta Home Colorful Mixing Bowl- 4 Pc Set- Stackable Nesting Bowls- Stainless Steel Mixing Bowls Non Slip Silicone Bot",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71iUjRQ21iL.jpg",
+            "url": "https://www.amazon.com/dp/B08BG5X577/ref=cm_sw_r_as_gl_apa_gl_i_75MDFMZX8DZSEG7CTNVP?linkCode=ml1&tag=noya0b-20&linkId=cacde700c6d3c33b31f7688383a384b4"
           }
         ],
         "Fashion": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0F3BB8D37",
+          "slug": "blink-mini-2k-black-amazon",
+          "title": "Blink Mini 2K+ | Black | Amazon",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Qnc-GPyLL.jpg",
+          "url": "https://www.amazon.com/dp/B0F3BB8D37/ref=cm_sw_r_as_gl_apa_gl_i_dl_QV7D391NYDB9RC5HA68J?linkCode=ml1&tag=noya0b-20&linkId=b1e9dbd500a2101f0ec158100280b561"
+        },
         {
           "asin": "B082L5FCWP",
           "slug": "betsey-johnson-twin-xl-size-sheet-set-ultra-soft-lightweight",
@@ -233,23 +244,12 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B088SWV8LP/ref=cm_sw_r_as_gl_apa_gl_i_dl_YJKW4CH0CCQ8NJR20K7C?linkCode=ml1&tag=noya0b-20&linkId=612f7a2ce0c1f9545afd421847aa875b"
-        },
-        {
-          "asin": "B0DGQVYW2K",
-          "slug": "blink-video-doorbell-required-sync-module",
-          "title": "Blink Video Doorbell + Required Sync Module",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
-          "url": "https://www.amazon.com/dp/B0DGQVYW2K/ref=cm_sw_r_as_gl_apa_gl_i_dl_CKV4F4Z26QXV6ZDECZ20?linkCode=ml1&tag=noya0b-20&linkId=4de3b944e26014c347e911ebff119248"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 18, 2026?",
-          "a": "The best deals today include \"Betsey Johnson - Twin XL Size Sheet Set, Ultra-Soft & Lightw...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Fashion and are updated daily."
+          "a": "The best deals today include \"Blink Mini 2K+ | Black | Amazon...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T04:50:00.464Z",
-      "updatedAt": "2026-06-18T04:50:00.464Z"
+      "generatedAt": "2026-06-18T05:00:00.670Z",
+      "updatedAt": "2026-06-18T05:00:00.671Z"
     },
     {
       "date": "2026-06-17",
@@ -2669,5 +2669,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T04:50:00.465Z"
+  "generatedAt": "2026-06-18T05:00:00.672Z"
 }
