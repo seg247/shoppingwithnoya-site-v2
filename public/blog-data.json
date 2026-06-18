@@ -9,34 +9,35 @@
         "Other",
         "Grocery & Food",
         "Beauty",
-        "Fashion"
+        "Home & Kitchen",
+        "Electronics"
       ],
       "byCategory": {
-        "Grocery & Food": [
+        "Home & Kitchen": [
           {
-            "asin": "B0FDW9TXYM",
-            "slug": "ratrabas-upgraded-airpot-coffee-carafe-with-double-pump-84oz",
-            "title": "\udecd️Ratrabas Upgraded Airpot Coffee Carafe with Double Pump - 84oz/2.5L Coffee Carafe for Keeping Hot, Beverage Dispenser ",
+            "asin": "B0G1MFWQ9S",
+            "slug": "qianying-kitchen-knife-set-14-pcs-with-magnet-holder-strong",
+            "title": "\udecd️Qianying Kitchen Knife Set 14 Pcs with Magnet Holder, Strong Magnetic Knife Strip for Wall, Knives Block Set with Shea",
             "price": "$39.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61wP871axsL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDW9TXYM/ref=cm_sw_r_as_gl_api_gl_i_dl_00ZVJDJ0J80H4T7YJBBC?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CMXCJZ7J",
-            "slug": "loscarol-honey-jar-with-dipper-and-lid-8-oz-glass-honey-pot",
-            "title": "\udecd️Loscarol Honey Jar with Dipper and Lid, 8 oz Glass Honey Pot Dispenser with 2 Dippers Sticks Set, Honey Containers for",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VZjvZiC7L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CMXCJZ7J/ref=cm_sw_r_as_gl_api_gl_i_4BKN1JEET6DM9FPTV7GF?tag=noya0b-20"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/818PW7p+UEL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G1MFWQ9S/ref=cm_sw_r_as_gl_apa_gl_i_dl_2D87S9EXCS0TG4EFWJ8A?tag=noya0b-20"
           }
         ],
         "Other": [
+          {
+            "asin": "B0D8ZDTKB9",
+            "slug": "fidozen-dog-car-door-protector-2-pack-durable-universal-fit",
+            "title": "fidozen Dog Car Door Protector - 2 Pack Durable & Universal Fit Anti-Scratch Waterproof Vehicle Door Covers, Guards Your",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Uf1VdUJQL.jpg",
+            "url": "https://www.amazon.com/dp/B0D8ZDTKB9/ref=cm_sw_r_as_gl_api_gl_i_298X7QQ6M994ZPED5XW4?linkCode=ml1&tag=noya0b-20&linkId=4960198d99aba5a18c6ad308ded936f5"
+          },
           {
             "asin": "B08HDQW84P",
             "slug": "loreal-paris-elvive-tr5-power-restore-multi-use-treatment-pa",
@@ -58,28 +59,54 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/8131RNLjILL.jpg",
             "url": "https://www.amazon.com/dp/B0FCNN51KX/ref=cm_sw_r_as_gl_api_gl_i_dl_FKRM20YR38BTH4BBC7MD?tag=noya0b-20"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B07YCCDVPY",
-            "slug": "pure-bedding-quilt-set-fullqueen-size-black-oversized-bedspr",
-            "title": "\udecd️Pure Bedding Quilt Set Full/Queen Size Black - Oversized Bedspread - Soft Microfiber Lightweight Coverlet for All Seas",
-            "price": "$25.64",
+            "asin": "B0DH3F6RPB",
+            "slug": "jocisland-manual-recliner-couch-3-seater-reclining-with-cup",
+            "title": "\udecd️Jocisland Manual Recliner Couch, 3 Seater Reclining with Cup Holders, Console with Charging Socket, Comfy Recliner Sof",
+            "price": "$699.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91wqiT39V+L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07YCCDVPY/ref=cm_sw_r_as_gl_api_gl_i_dl_Y2EQF9N16WM5VT1EZWMY?tag=noya0b-20"
-          },
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/91+9j5rUZOL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DH3F6RPB?tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0FNR3243Z",
-            "slug": "4-pcs-mesh-laundry-bags-set-for-delicates-with-auto-lock-zip",
-            "title": "4 Pcs Mesh Laundry Bags Set for Delicates with AUTO-Lock Zipper, Lingerie Bags for Washing Delicates, Laundry Bags Mesh ",
-            "price": "$4",
+            "asin": "B0FFJXYV91",
+            "slug": "amazon-essentials-x-sofia-grainge-womens-stretch-modal-long",
+            "title": "\udecd️Amazon Essentials x Sofia Grainge Women's Stretch Modal Long-Sleeve and Full-Length Bottom Pajama Set, Light Blue Gees",
+            "price": "$17.94",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/916+V91hGRL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FNR3243Z/ref=cm_sw_r_as_gl_api_gl_i_dl_JTY3134JTG8GYWWGZR2X?linkCode=ml1&tag=noya0b-20&linkId=531701618050a7de201395cf0476e1a3"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61eg-fX49vL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FFJXYV91/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZA6676XX8PNE4D5AK5GN?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FDW9TXYM",
+            "slug": "ratrabas-upgraded-airpot-coffee-carafe-with-double-pump-84oz",
+            "title": "\udecd️Ratrabas Upgraded Airpot Coffee Carafe with Double Pump - 84oz/2.5L Coffee Carafe for Keeping Hot, Beverage Dispenser ",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61wP871axsL.jpg",
+            "url": "https://www.amazon.com/dp/B0FDW9TXYM/ref=cm_sw_r_as_gl_api_gl_i_dl_00ZVJDJ0J80H4T7YJBBC?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CMXCJZ7J",
+            "slug": "loscarol-honey-jar-with-dipper-and-lid-8-oz-glass-honey-pot",
+            "title": "\udecd️Loscarol Honey Jar with Dipper and Lid, 8 oz Glass Honey Pot Dispenser with 2 Dippers Sticks Set, Honey Containers for",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VZjvZiC7L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CMXCJZ7J/ref=cm_sw_r_as_gl_api_gl_i_4BKN1JEET6DM9FPTV7GF?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -105,33 +132,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61aDluwKSxL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DGPSZVW3/ref=cm_sw_r_as_gl_api_gl_i_HPGZCQYB9QA0T2P0AFYV?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B08JCL9KGW",
-            "slug": "women-fashion-synthetic-leather-handbags-tote-bag-shoulder-b",
-            "title": "Women Fashion Synthetic Leather Handbags Tote Bag Shoulder Bag Top Handle Satchel Purse Set 4pcs: Handbags",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UlKvzpJpL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08JCL9KGW?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ce71504dcfcc5b992a3d08a58dd26d0c&language=en_US"
-          },
-          {
-            "asin": "B08JCL9KGW",
-            "slug": "women-fashion-synthetic-leather-handbags-tote-bag-shoulder-b",
-            "title": "Women Fashion Synthetic Leather Handbags Tote Bag Shoulder Bag Top Handle Satchel Purse Set",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dndN4n73L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08JCL9KGW?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ce71504dcfcc5b992a3d08a58dd26d0c&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G1MFWQ9S",
+          "slug": "qianying-kitchen-knife-set-14-pcs-with-magnet-holder-strong",
+          "title": "\udecd️Qianying Kitchen Knife Set 14 Pcs with Magnet Holder, Strong Magnetic Knife Strip for Wall, Knives Block Set with Shea",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/818PW7p+UEL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G1MFWQ9S/ref=cm_sw_r_as_gl_apa_gl_i_dl_2D87S9EXCS0TG4EFWJ8A?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D8ZDTKB9",
+          "slug": "fidozen-dog-car-door-protector-2-pack-durable-universal-fit",
+          "title": "fidozen Dog Car Door Protector - 2 Pack Durable & Universal Fit Anti-Scratch Waterproof Vehicle Door Covers, Guards Your",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Uf1VdUJQL.jpg",
+          "url": "https://www.amazon.com/dp/B0D8ZDTKB9/ref=cm_sw_r_as_gl_api_gl_i_298X7QQ6M994ZPED5XW4?linkCode=ml1&tag=noya0b-20&linkId=4960198d99aba5a18c6ad308ded936f5"
+        },
+        {
+          "asin": "B0DH3F6RPB",
+          "slug": "jocisland-manual-recliner-couch-3-seater-reclining-with-cup",
+          "title": "\udecd️Jocisland Manual Recliner Couch, 3 Seater Reclining with Cup Holders, Console with Charging Socket, Comfy Recliner Sof",
+          "price": "$699.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/91+9j5rUZOL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DH3F6RPB?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FFJXYV91",
+          "slug": "amazon-essentials-x-sofia-grainge-womens-stretch-modal-long",
+          "title": "\udecd️Amazon Essentials x Sofia Grainge Women's Stretch Modal Long-Sleeve and Full-Length Bottom Pajama Set, Light Blue Gees",
+          "price": "$17.94",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61eg-fX49vL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FFJXYV91/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZA6676XX8PNE4D5AK5GN?tag=noya0b-20"
+        },
         {
           "asin": "B0FDW9TXYM",
           "slug": "ratrabas-upgraded-airpot-coffee-carafe-with-double-pump-84oz",
@@ -197,56 +244,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71VZjvZiC7L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CMXCJZ7J/ref=cm_sw_r_as_gl_api_gl_i_4BKN1JEET6DM9FPTV7GF?tag=noya0b-20"
-        },
-        {
-          "asin": "B07YCCDVPY",
-          "slug": "pure-bedding-quilt-set-fullqueen-size-black-oversized-bedspr",
-          "title": "\udecd️Pure Bedding Quilt Set Full/Queen Size Black - Oversized Bedspread - Soft Microfiber Lightweight Coverlet for All Seas",
-          "price": "$25.64",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/91wqiT39V+L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07YCCDVPY/ref=cm_sw_r_as_gl_api_gl_i_dl_Y2EQF9N16WM5VT1EZWMY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FNR3243Z",
-          "slug": "4-pcs-mesh-laundry-bags-set-for-delicates-with-auto-lock-zip",
-          "title": "4 Pcs Mesh Laundry Bags Set for Delicates with AUTO-Lock Zipper, Lingerie Bags for Washing Delicates, Laundry Bags Mesh ",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/916+V91hGRL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FNR3243Z/ref=cm_sw_r_as_gl_api_gl_i_dl_JTY3134JTG8GYWWGZR2X?linkCode=ml1&tag=noya0b-20&linkId=531701618050a7de201395cf0476e1a3"
-        },
-        {
-          "asin": "B08JCL9KGW",
-          "slug": "women-fashion-synthetic-leather-handbags-tote-bag-shoulder-b",
-          "title": "Women Fashion Synthetic Leather Handbags Tote Bag Shoulder Bag Top Handle Satchel Purse Set 4pcs: Handbags",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71UlKvzpJpL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08JCL9KGW?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ce71504dcfcc5b992a3d08a58dd26d0c&language=en_US"
-        },
-        {
-          "asin": "B08JCL9KGW",
-          "slug": "women-fashion-synthetic-leather-handbags-tote-bag-shoulder-b",
-          "title": "Women Fashion Synthetic Leather Handbags Tote Bag Shoulder Bag Top Handle Satchel Purse Set",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71dndN4n73L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08JCL9KGW?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ce71504dcfcc5b992a3d08a58dd26d0c&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 18, 2026?",
-          "a": "The best deals today include \"\udecd️Ratrabas Upgraded Airpot Coffee Carafe with Double Pump - ...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Beauty and are updated daily."
+          "a": "The best deals today include \"\udecd️Qianying Kitchen Knife Set 14 Pcs with Magnet Holder, Stro...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T12:10:01.884Z",
-      "updatedAt": "2026-06-18T12:10:01.884Z"
+      "generatedAt": "2026-06-18T12:20:02.027Z",
+      "updatedAt": "2026-06-18T12:20:02.027Z"
     },
     {
       "date": "2026-06-17",
@@ -2666,5 +2669,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T12:10:01.885Z"
+  "generatedAt": "2026-06-18T12:20:02.028Z"
 }
