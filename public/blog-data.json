@@ -9,9 +9,10 @@
         "Other",
         "Gaming",
         "Grocery & Food",
+        "Electronics",
+        "Home & Kitchen",
         "Health",
-        "Pet Supplies",
-        "Electronics"
+        "Pet Supplies"
       ],
       "byCategory": {
         "Other": [
@@ -58,17 +59,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81egq-KTn2L.jpg",
             "url": "https://www.amazon.com/Why-Son-Needs-Gregory-Lang/dp/1728235871?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=1028b4412b10d72be0c3199baaf4cfa9&language=en_US"
-          },
-          {
-            "asin": "B08PVX3MFB",
-            "slug": "wet-ones-for-pets-multi-purpose-dog-wipes-with-aloe-vera-50",
-            "title": "Wet Ones for Pets Multi-Purpose Dog Wipes with Aloe Vera, 50 Count - 3 Pack | Dog Wipes for All Dogs in Tropical Splash,",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81GaAjUrCpL.jpg",
-            "url": "https://www.amazon.com/dp/B08PVX3MFB?th=1&linkCode=sl2&tag=noya0b-20&linkId=098cabfe6a6fdc94a642914461afe94e&language=en_US"
           }
         ],
         "Gaming": [
@@ -97,6 +87,32 @@
             "url": "https://www.amazon.com/dp/B00284TTG2?linkCode=sl2&tag=noya0b-20&linkId=ec1d15bcc4d6661ec8bad9f58bf167c2&language=en_US"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0FZQTL43Q",
+            "slug": "amazon-kindle-colorsoft-bundle-bundle-includes-amazon-kindle",
+            "title": "Amazon Kindle Colorsoft Bundle: Bundle Includes Amazon Kindle Colorsoft 16GB | Black and Sling Bag | Dune",
+            "price": "$169",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ZvXPYWdxL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FZQTL43Q?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=60acae986b4811f18de62e9aeabd78780INT&psc=1&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=121bdc2fbbff2c8f52faab56919a894b&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B01N78EINC",
+            "slug": "dii-everyday-basic-kitchen-collection",
+            "title": "DII Everyday Basic Kitchen Collection",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41KQtuL8X2L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B01N78EINC?lv=shuf&rsd=xV3zpCt936xho%2BvxsNh5iEZnsG0Uoy5vFqjZjPc1WtKWndHu3cW9ZRQ7AOkfaSkSZyvho3BQTxi5ykBgvH4EB7mr5Of%2Bry2HUP2y%2Fy9uG63rGmmV2eub&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQGboYi0RdI8Vz1iNeGDUPDYAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM9sj%2BAbo6HGVEM34CAgEQgDsEuhmE23lWii2kAraGfSvxAwZ26eY1JL%2BZCaBRC%2B97jDz%2F42CEiVcKdby5SiWjaryafvW1jrMA66zJWQ&social_share=cm_sw_r_apan_dp_ZA7PGGNPJGSVCBAN9XTX&channelId=704&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=03592d6e091e55e015d2cb1c3a3078be&language=en_US"
+          }
+        ],
         "Health": [
           {
             "asin": "B0FWKYJZ8Q",
@@ -121,19 +137,6 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81-f377eFlL.jpg",
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DNLZQG5W",
-            "slug": "lgmcf-battery-operated-wall-sconce-set-of-2-rechargeable-wal",
-            "title": "LGMCF Battery Operated Wall Sconce Set of 2, Rechargeable Wall Lights with Dimmable Detachable Charging Bulbs and Remote",
-            "price": "$24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61s7p8pD-tL.jpg",
-            "url": "https://www.amazon.com/Operated-Rechargeable-Dimmable-Detachable-Temperature/dp/B0DNLZQG5W?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=26ea14488f28f126063045cebdd7a1d5&language=en_US"
           }
         ]
       },
@@ -194,6 +197,28 @@
           "url": "https://www.amazon.com/dp/B00284TTG2?linkCode=sl2&tag=noya0b-20&linkId=ec1d15bcc4d6661ec8bad9f58bf167c2&language=en_US"
         },
         {
+          "asin": "B0FZQTL43Q",
+          "slug": "amazon-kindle-colorsoft-bundle-bundle-includes-amazon-kindle",
+          "title": "Amazon Kindle Colorsoft Bundle: Bundle Includes Amazon Kindle Colorsoft 16GB | Black and Sling Bag | Dune",
+          "price": "$169",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZvXPYWdxL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FZQTL43Q?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=60acae986b4811f18de62e9aeabd78780INT&psc=1&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=121bdc2fbbff2c8f52faab56919a894b&language=en_US"
+        },
+        {
+          "asin": "B01N78EINC",
+          "slug": "dii-everyday-basic-kitchen-collection",
+          "title": "DII Everyday Basic Kitchen Collection",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/41KQtuL8X2L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B01N78EINC?lv=shuf&rsd=xV3zpCt936xho%2BvxsNh5iEZnsG0Uoy5vFqjZjPc1WtKWndHu3cW9ZRQ7AOkfaSkSZyvho3BQTxi5ykBgvH4EB7mr5Of%2Bry2HUP2y%2Fy9uG63rGmmV2eub&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQGboYi0RdI8Vz1iNeGDUPDYAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM9sj%2BAbo6HGVEM34CAgEQgDsEuhmE23lWii2kAraGfSvxAwZ26eY1JL%2BZCaBRC%2B97jDz%2F42CEiVcKdby5SiWjaryafvW1jrMA66zJWQ&social_share=cm_sw_r_apan_dp_ZA7PGGNPJGSVCBAN9XTX&channelId=704&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=03592d6e091e55e015d2cb1c3a3078be&language=en_US"
+        },
+        {
           "asin": "1728235871",
           "slug": "why-a-son-needs-a-dad-celebrate-your-father-and-son-bond-wit",
           "title": "Why a Son Needs a Dad: Celebrate Your Father and Son Bond with this Heartwarming Gift!: 9781728235875: Gregory E. Lang, ",
@@ -225,28 +250,6 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81-f377eFlL.jpg",
           "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DNLZQG5W",
-          "slug": "lgmcf-battery-operated-wall-sconce-set-of-2-rechargeable-wal",
-          "title": "LGMCF Battery Operated Wall Sconce Set of 2, Rechargeable Wall Lights with Dimmable Detachable Charging Bulbs and Remote",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61s7p8pD-tL.jpg",
-          "url": "https://www.amazon.com/Operated-Rechargeable-Dimmable-Detachable-Temperature/dp/B0DNLZQG5W?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=26ea14488f28f126063045cebdd7a1d5&language=en_US"
-        },
-        {
-          "asin": "B08PVX3MFB",
-          "slug": "wet-ones-for-pets-multi-purpose-dog-wipes-with-aloe-vera-50",
-          "title": "Wet Ones for Pets Multi-Purpose Dog Wipes with Aloe Vera, 50 Count - 3 Pack | Dog Wipes for All Dogs in Tropical Splash,",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81GaAjUrCpL.jpg",
-          "url": "https://www.amazon.com/dp/B08PVX3MFB?th=1&linkCode=sl2&tag=noya0b-20&linkId=098cabfe6a6fdc94a642914461afe94e&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T19:00:01.863Z",
-      "updatedAt": "2026-06-18T19:00:01.864Z"
+      "generatedAt": "2026-06-18T19:10:00.786Z",
+      "updatedAt": "2026-06-18T19:10:00.786Z"
     },
     {
       "date": "2026-06-17",
@@ -2672,5 +2675,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T19:00:01.865Z"
+  "generatedAt": "2026-06-18T19:10:00.787Z"
 }
