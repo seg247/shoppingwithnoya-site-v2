@@ -8,9 +8,37 @@
       "categories": [
         "Home & Kitchen",
         "Other",
-        "Toys & Kids"
+        "Toys & Kids",
+        "Fashion",
+        "Beauty"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0G2RJDDN1",
+            "slug": "cowboy-boot-wall-planter-decor-western-farmhouse-wooden-boot",
+            "title": "Cowboy Boot Wall Planter Decor: Western Farmhouse Wooden Boots Wall Decor Cowgirl Flower Hanging Vase for Bedroom, Livin",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0G2RJDDN1/ref=cm_sw_r_as_gl_apa_gl_i_4QXWQPBK78BK4K4318SF?linkCode=ml1&tag=noya0b-20&linkId=c51e034704b6edf96d3f018c34182f38"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0CVHHKLYR",
+            "slug": "fresh-kidz-body-wash-169-floz-and-2-roll-on-deodorants-186-f",
+            "title": "Fresh Kidz Body Wash 16.9 fl.oz. and 2 Roll-On Deodorants 1.86 fl.oz. for Kids and Teens - Girls Purple Set : Beauty & P",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61+TdQS-YNL.jpg",
+            "url": "https://www.amazon.com/dp/B0CVHHKLYR/ref=cm_sw_r_as_gl_apa_gl_i_N6K36RMBA19JF3CCC9XN?linkCode=ml1&tag=noya0b-20&linkId=277da4149e86a2c45f28d042e7dbb660"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0GK8FBP3P",
@@ -44,17 +72,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81k0U+4BtlL.jpg",
             "url": "https://www.amazon.com/dp/B0FK4V8NMJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_HTAZC034AR34W087KVNR?linkCode=ml1&tag=noya0b-20&linkId=4a8b46b432df23e8413b6c5b4b202ab6"
-          },
-          {
-            "asin": "B0DZ35C3PH",
-            "slug": "glad-forceflex-tall-kitchen-trash-bags-13-gallon-gain-origin",
-            "title": "Glad ForceFlex Tall Kitchen Trash Bags, 13 Gallon, Gain Original, 140 Count (Package May Vary)",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ffnLIl2iL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DZ35C3PH/ref=cm_sw_r_as_gl_apa_gl_i_NJE7MYZ6T4Z8NFZWJJPF?linkCode=ml1&tag=noya0b-20&linkId=8acdfa6eb69f3c3990f06f5c1562f87a"
           }
         ],
         "Other": [
@@ -90,17 +107,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61jboK4jW-L.jpg",
             "url": "https://www.amazon.com/dp/B09SZS1SGQ/ref=cm_sw_r_as_gl_apa_gl_i_2SR3NXBXJC97K15C94MJ?linkCode=ml1&tag=noya0b-20&linkId=2667fe05f46e8a2bd9661a627e892335"
-          },
-          {
-            "asin": "B0GS1GNBKH",
-            "slug": "3x4-washable-kid-bedroom-rug-for-girls-pink-baby-nursery-are",
-            "title": "3x4 Washable Kid Bedroom Rug for Girls, Pink Baby Nursery Area Rug, Soft Non-Slip Toddler Playroom Carpet, Cute Colorful",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81xDn5IgtbL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GS1GNBKH/ref=cm_sw_r_as_gl_apa_gl_i_96K8JHCPW3NW3Y4V7ZG7?linkCode=ml1&tag=noya0b-20&linkId=bed39ef2f16bb183e3a5428aa54657d7"
           }
         ],
         "Toys & Kids": [
@@ -129,6 +135,28 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0G2RJDDN1",
+          "slug": "cowboy-boot-wall-planter-decor-western-farmhouse-wooden-boot",
+          "title": "Cowboy Boot Wall Planter Decor: Western Farmhouse Wooden Boots Wall Decor Cowgirl Flower Hanging Vase for Bedroom, Livin",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0G2RJDDN1/ref=cm_sw_r_as_gl_apa_gl_i_4QXWQPBK78BK4K4318SF?linkCode=ml1&tag=noya0b-20&linkId=c51e034704b6edf96d3f018c34182f38"
+        },
+        {
+          "asin": "B0CVHHKLYR",
+          "slug": "fresh-kidz-body-wash-169-floz-and-2-roll-on-deodorants-186-f",
+          "title": "Fresh Kidz Body Wash 16.9 fl.oz. and 2 Roll-On Deodorants 1.86 fl.oz. for Kids and Teens - Girls Purple Set : Beauty & P",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+TdQS-YNL.jpg",
+          "url": "https://www.amazon.com/dp/B0CVHHKLYR/ref=cm_sw_r_as_gl_apa_gl_i_N6K36RMBA19JF3CCC9XN?linkCode=ml1&tag=noya0b-20&linkId=277da4149e86a2c45f28d042e7dbb660"
+        },
         {
           "asin": "B0GK8FBP3P",
           "slug": "carote-22pcs-hybrid-nonstick-pots-and-pans-set-stainless-ste",
@@ -216,34 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61jboK4jW-L.jpg",
           "url": "https://www.amazon.com/dp/B09SZS1SGQ/ref=cm_sw_r_as_gl_apa_gl_i_2SR3NXBXJC97K15C94MJ?linkCode=ml1&tag=noya0b-20&linkId=2667fe05f46e8a2bd9661a627e892335"
-        },
-        {
-          "asin": "B0DZ35C3PH",
-          "slug": "glad-forceflex-tall-kitchen-trash-bags-13-gallon-gain-origin",
-          "title": "Glad ForceFlex Tall Kitchen Trash Bags, 13 Gallon, Gain Original, 140 Count (Package May Vary)",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ffnLIl2iL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DZ35C3PH/ref=cm_sw_r_as_gl_apa_gl_i_NJE7MYZ6T4Z8NFZWJJPF?linkCode=ml1&tag=noya0b-20&linkId=8acdfa6eb69f3c3990f06f5c1562f87a"
-        },
-        {
-          "asin": "B0GS1GNBKH",
-          "slug": "3x4-washable-kid-bedroom-rug-for-girls-pink-baby-nursery-are",
-          "title": "3x4 Washable Kid Bedroom Rug for Girls, Pink Baby Nursery Area Rug, Soft Non-Slip Toddler Playroom Carpet, Cute Colorful",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xDn5IgtbL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GS1GNBKH/ref=cm_sw_r_as_gl_apa_gl_i_96K8JHCPW3NW3Y4V7ZG7?linkCode=ml1&tag=noya0b-20&linkId=bed39ef2f16bb183e3a5428aa54657d7"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 18, 2026?",
-          "a": "The best deals today include \"CAROTE 22pcs Hybrid Nonstick Pots and Pans Set, Stainless St...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Cowboy Boot Wall Planter Decor: Western Farmhouse Wooden Boo...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -262,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T06:30:02.081Z",
-      "updatedAt": "2026-06-18T06:30:02.081Z"
+      "generatedAt": "2026-06-18T06:40:01.926Z",
+      "updatedAt": "2026-06-18T06:40:01.926Z"
     },
     {
       "date": "2026-06-17",
@@ -2663,5 +2669,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T06:30:02.082Z"
+  "generatedAt": "2026-06-18T06:40:01.927Z"
 }
