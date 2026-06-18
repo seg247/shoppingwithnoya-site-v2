@@ -9,9 +9,9 @@
         "Fragrance",
         "Skincare",
         "Makeup",
+        "Beauty",
         "Body Care",
         "Hair Care",
-        "Beauty",
         "Nails"
       ],
       "bySubcat": {
@@ -147,16 +147,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61Rncot-U9L.jpg",
             "url": "https://www.amazon.com/dp/B07L1PHSY9/ref=cm_sw_r_as_gl_api_gl_i_NNTH801X7RZSG7H2DST7?linkCode=ml1&tag=noya0b-20&linkId=d27c089e54a757c14c7392ec42776eb9"
-          },
-          {
-            "asin": "B0GYFYTLJZ",
-            "slug": "supergoop-play-lip-shield-spf-30-2-pack",
-            "title": "Supergoop! PLAY Lip Shield SPF 30 2 Pack",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61NDj1N5pRL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GYFYTLJZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=71dc3fb945b398ba97ca351977f1a142&language=en_US"
           }
         ],
         "Makeup": [
@@ -209,6 +199,28 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71Lvmxgya-L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CYH83YS6/ref=cm_sw_r_as_gl_api_gl_i_dl_QQE3CBTRAXCNFSGEZBM0?linkCode=ml1&tag=noya0b-20&linkId=78287e0527631229aa796d7d68b2bb9a"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0GGTLRGDT",
+            "slug": "disney-sleeping-beauty-spinning-wheel-mini-backpack-clothing",
+            "title": "Disney Sleeping Beauty Spinning Wheel Mini Backpack : Clothing, Shoes & Jewelry",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fCe96ZTlL.jpg",
+            "url": "https://www.amazon.com/dp/B0GGTLRGDT/ref=cm_sw_r_as_gl_apa_gl_i_MB04G9CEA8SX0H79EJ3Z?linkCode=ml1&tag=noya0b-20&linkId=e2986b7485904c76f77232c5cb802637"
+          },
+          {
+            "asin": "B0BW23V2QJ",
+            "slug": "tommy-bahama-st-barts-seascape-mens-3-pc-set-beauty-personal",
+            "title": "Tommy Bahama St. Barts Seascape Men's 3-pc Set : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oor0aj8+L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BW23V2QJ?th=1&tag=noya0b-20"
           }
         ],
         "Body Care": [
@@ -305,18 +317,6 @@
             "url": "https://www.amazon.com/dp/B00J9H8O6C/ref=cm_sw_r_as_gl_apa_gl_i_TES91W0E79P36PCJK9X4?linkCode=ml1&tag=noya0b-20&linkId=2c6478ea90d7eaa971097183b4fa9328"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B0BW23V2QJ",
-            "slug": "tommy-bahama-st-barts-seascape-mens-3-pc-set-beauty-personal",
-            "title": "Tommy Bahama St. Barts Seascape Men's 3-pc Set : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oor0aj8+L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BW23V2QJ?th=1&tag=noya0b-20"
-          }
-        ],
         "Nails": [
           {
             "asin": "B0CLHJ3TQF",
@@ -360,6 +360,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/71LF0iqn6oL.jpg",
           "url": "https://www.amazon.com/dp/B01ACPVXKI?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GGTLRGDT",
+          "slug": "disney-sleeping-beauty-spinning-wheel-mini-backpack-clothing",
+          "title": "Disney Sleeping Beauty Spinning Wheel Mini Backpack : Clothing, Shoes & Jewelry",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fCe96ZTlL.jpg",
+          "url": "https://www.amazon.com/dp/B0GGTLRGDT/ref=cm_sw_r_as_gl_apa_gl_i_MB04G9CEA8SX0H79EJ3Z?linkCode=ml1&tag=noya0b-20&linkId=e2986b7485904c76f77232c5cb802637"
         },
         {
           "asin": "B0GHDQ8ZG5",
@@ -620,16 +630,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
           "url": "https://www.amazon.com/dp/B00J9H8O6C/ref=cm_sw_r_as_gl_apa_gl_i_TES91W0E79P36PCJK9X4?linkCode=ml1&tag=noya0b-20&linkId=2c6478ea90d7eaa971097183b4fa9328"
-        },
-        {
-          "asin": "B0GYFYTLJZ",
-          "slug": "supergoop-play-lip-shield-spf-30-2-pack",
-          "title": "Supergoop! PLAY Lip Shield SPF 30 2 Pack",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61NDj1N5pRL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GYFYTLJZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=71dc3fb945b398ba97ca351977f1a142&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -668,8 +668,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-18T07:40:02.295Z",
-      "updatedAt": "2026-06-18T07:40:02.295Z"
+      "generatedAt": "2026-06-18T07:50:03.764Z",
+      "updatedAt": "2026-06-18T07:50:03.764Z"
     },
     {
       "date": "2026-06-17",
@@ -4866,5 +4866,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-18T07:40:02.296Z"
+  "generatedAt": "2026-06-18T07:50:03.766Z"
 }
