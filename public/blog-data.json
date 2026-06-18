@@ -11,7 +11,8 @@
         "Beauty",
         "Grocery & Food",
         "Health",
-        "Cleaning Supplies"
+        "Cleaning Supplies",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -47,17 +48,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71LF0iqn6oL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01ACPVXKI?tag=noya0b-20"
-          },
-          {
-            "asin": "B00C1TGH4Q",
-            "slug": "melissa-doug-busy-barn-shaped-jumbo-floor-puzzle-32-pieces-2",
-            "title": "Melissa & Doug Busy Barn Shaped Jumbo Floor Puzzle (32 Pieces, 2 x 3 Feet), Jigsaw Puzzle for Preschoolers and Kids Ages",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81YpgC27BaL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Melissa-Doug-Shaped-Jigsaw-Puzzle/dp/B00C1TGH4Q?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a385adf5ff8a3d452e6584d3e53aaa63&language=en_US"
           }
         ],
         "Beauty": [
@@ -134,6 +124,19 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0CQ3HQBP6",
+            "slug": "nerf-n-series-n1-darts-includes-20-refill-darts-compatible-o",
+            "title": "Nerf N Series N1 Darts, Includes 20 Refill Darts, Compatible Only with Nerf N Series Blasters, Outdoor Games, Ages 8+ : ",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Darts-Compatible-Blasters-Outdoor-Games/dp/B0CQ3HQBP6?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=5aaa569621c5ab23d53024cdb2c34f88&language=en_US"
           }
         ]
       },
@@ -238,15 +241,15 @@
           "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
         },
         {
-          "asin": "B00C1TGH4Q",
-          "slug": "melissa-doug-busy-barn-shaped-jumbo-floor-puzzle-32-pieces-2",
-          "title": "Melissa & Doug Busy Barn Shaped Jumbo Floor Puzzle (32 Pieces, 2 x 3 Feet), Jigsaw Puzzle for Preschoolers and Kids Ages",
-          "price": "$7",
+          "asin": "B0CQ3HQBP6",
+          "slug": "nerf-n-series-n1-darts-includes-20-refill-darts-compatible-o",
+          "title": "Nerf N Series N1 Darts, Includes 20 Refill Darts, Compatible Only with Nerf N Series Blasters, Outdoor Games, Ages 8+ : ",
+          "price": "$1",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81YpgC27BaL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Melissa-Doug-Shaped-Jigsaw-Puzzle/dp/B00C1TGH4Q?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a385adf5ff8a3d452e6584d3e53aaa63&language=en_US"
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Darts-Compatible-Blasters-Outdoor-Games/dp/B0CQ3HQBP6?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=5aaa569621c5ab23d53024cdb2c34f88&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T00:20:00.435Z",
-      "updatedAt": "2026-06-18T00:20:00.435Z"
+      "generatedAt": "2026-06-18T00:30:00.766Z",
+      "updatedAt": "2026-06-18T00:30:00.766Z"
     },
     {
       "date": "2026-06-15",
@@ -2395,5 +2398,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T00:20:00.436Z"
+  "generatedAt": "2026-06-18T00:30:00.768Z"
 }
