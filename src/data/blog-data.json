@@ -11,7 +11,7 @@
         "Home & Kitchen",
         "Grocery & Food",
         "Health",
-        "Cleaning Supplies"
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -123,17 +123,17 @@
             "url": "https://www.amazon.com/dp/B082F1QH7S?th=1&tag=noya0b-20"
           }
         ],
-        "Cleaning Supplies": [
+        "Electronics": [
           {
-            "asin": "B0GFFMY7T2",
-            "slug": "tide-pods-laundry-detergent-soap-with-downy-4-in-1-stain-rem",
-            "title": "Tide PODS Laundry Detergent Soap with Downy 4-in-1 Stain Remover Freshness Softness Detergent pacs, April Fresh Scent, 3",
-            "price": "$38",
-            "discount": 15,
-            "rating": "GOOD",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
+            "asin": "B0FS5SJZHP",
+            "slug": "vuexar-2k-webcam-with-microphone-web-camera-withtripod-dual",
+            "title": "Vuexar 2K Webcam with Microphone, Web Camera withTripod, Dual Mics, Plug & Play Computer Camera for Online Calling, Came",
+            "price": "$15",
+            "discount": 30,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61K2tM+QvzL.jpg",
+            "url": "https://www.amazon.com/dp/B0FS5SJZHP?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -216,6 +216,17 @@
           "url": "https://www.amazon.com/dp/B082F1QH7S?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0FS5SJZHP",
+          "slug": "vuexar-2k-webcam-with-microphone-web-camera-withtripod-dual",
+          "title": "Vuexar 2K Webcam with Microphone, Web Camera withTripod, Dual Mics, Plug & Play Computer Camera for Online Calling, Came",
+          "price": "$15",
+          "discount": 30,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61K2tM+QvzL.jpg",
+          "url": "https://www.amazon.com/dp/B0FS5SJZHP?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B01ACPVXKI",
           "slug": "save-30-on-your-subscribe-save-subscription-promotion",
           "title": "Save 30% on your Subscribe & Save subscription promotion",
@@ -236,17 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71LF0iqn6oL.jpg",
           "url": "https://www.amazon.com/dp/B01ACPVXKI?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFFMY7T2",
-          "slug": "tide-pods-laundry-detergent-soap-with-downy-4-in-1-stain-rem",
-          "title": "Tide PODS Laundry Detergent Soap with Downy 4-in-1 Stain Remover Freshness Softness Detergent pacs, April Fresh Scent, 3",
-          "price": "$38",
-          "discount": 15,
-          "rating": "GOOD",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/810ofwYxjfL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GFFMY7T2?SubscriptionId=AKIAJPZLBECZNBCPHMZQ&th=1&linkCode=sl2&tag=noya0b-20&linkId=566383925eae691b8b12df3bc2b84170&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-18T03:10:00.668Z",
-      "updatedAt": "2026-06-18T03:10:00.668Z"
+      "generatedAt": "2026-06-18T03:20:00.588Z",
+      "updatedAt": "2026-06-18T03:20:00.588Z"
     },
     {
       "date": "2026-06-15",
@@ -2395,5 +2395,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-18T03:10:00.669Z"
+  "generatedAt": "2026-06-18T03:20:00.589Z"
 }
