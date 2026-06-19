@@ -10,8 +10,7 @@
         "Free Deal",
         "Pet Supplies",
         "Fashion",
-        "Electronics",
-        "Cleaning Supplies"
+        "Electronics"
       ],
       "byCategory": {
         "Free Deal": [
@@ -60,6 +59,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61iSMAD4fsL.jpg",
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
+          },
+          {
+            "asin": "B0832578WQ",
+            "slug": "blue-buffalo-bursts-crunchy-creamy-cat-treats-great-for-trai",
+            "title": "Blue Buffalo Bursts Crunchy & Creamy Cat Treats, Great for Training, Savory Seafood, 5-oz Bag",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71X+LofQOPL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0832578WQ?lv=shuf&ascsubtag=d11d21506c0411f1aaa60ed624e18a310INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=82440f487560fb3ab666bab92e273aef&language=en_US"
           },
           {
             "asin": "B09L77YZZQ",
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/715LggScjhL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CGKPH78F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B07H3SDKDP",
-            "slug": "seventh-generation-easydose-laundry-detergent-fresh-lavender",
-            "title": "Seventh Generation EasyDose Laundry Detergent Fresh Lavender Ultra Concentrated Washing Detergent 23 oz",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Glbwx4taL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07H3SDKDP?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=06fe12646b6c11f1b853ee76443f88790INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3afda433f2551f5bf6728a72f9be8ebe&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -194,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "B0832578WQ",
+          "slug": "blue-buffalo-bursts-crunchy-creamy-cat-treats-great-for-trai",
+          "title": "Blue Buffalo Bursts Crunchy & Creamy Cat Treats, Great for Training, Savory Seafood, 5-oz Bag",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71X+LofQOPL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0832578WQ?lv=shuf&ascsubtag=d11d21506c0411f1aaa60ed624e18a310INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=82440f487560fb3ab666bab92e273aef&language=en_US"
+        },
+        {
           "asin": "B0CY87XR8H",
           "slug": "coovan-12-pack-mens-socks-black-ankle-low-cut-comfort-breath",
           "title": "COOVAN 12 Pack Mens Socks Black Ankle Low Cut Comfort Breathable Casual Cushion Socks（12 Pairs ） : Clothing, Shoes & Jew",
@@ -236,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/715LggScjhL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CGKPH78F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07H3SDKDP",
-          "slug": "seventh-generation-easydose-laundry-detergent-fresh-lavender",
-          "title": "Seventh Generation EasyDose Laundry Detergent Fresh Lavender Ultra Concentrated Washing Detergent 23 oz",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Glbwx4taL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07H3SDKDP?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=06fe12646b6c11f1b853ee76443f88790INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3afda433f2551f5bf6728a72f9be8ebe&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T17:30:01.933Z",
-      "updatedAt": "2026-06-19T17:30:01.933Z"
+      "generatedAt": "2026-06-19T17:40:01.722Z",
+      "updatedAt": "2026-06-19T17:40:01.722Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2940,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T17:30:01.935Z"
+  "generatedAt": "2026-06-19T17:40:01.723Z"
 }
