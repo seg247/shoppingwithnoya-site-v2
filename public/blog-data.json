@@ -10,8 +10,7 @@
         "Free Deal",
         "Home & Kitchen",
         "Pet Supplies",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
         "Free Deal": [
@@ -60,6 +59,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61iSMAD4fsL.jpg",
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
+          },
+          {
+            "asin": "0142300004",
+            "slug": "pet-show-picture-puffins",
+            "title": "Pet Show! (Picture Puffins)",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/913ogMpvjqL._SL1500_.jpg",
+            "url": "https://www.amazon.com/Show-Picture-Puffins-Ezra-Keats/dp/0142300004?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=33dee76ac074803072e8f18350e0a9ca&language=en_US"
           },
           {
             "asin": "B0F6SL3LJX",
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81G36tso-FL._SL1500_.jpg",
             "url": "https://www.amazon.com/Aquaphor-Naturally-Inspired-Hydrating-Immediately/dp/B0DPJ9ZRY7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=fab790d54fc19ed19862fd1ed95fa08f&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0DVBFW4JW",
-            "slug": "3-in-1-vintage-giant-checkers-set-tic-tac-toe-with-reversibl",
-            "title": "3-in-1 Vintage Giant Checkers Set, Tic Tac Toe with Reversible Mat, 24 Jumbo Chips, Family Board Game, Lawn Game, BBQ Pa",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/916ThhOo7hL.jpg",
-            "url": "https://www.amazon.com/Vintage-Checkers-Reversible-Outdoor-Activity/dp/B0DVBFW4JW?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=f9d540a76ac029d75041120df6f14d76&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -194,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "0142300004",
+          "slug": "pet-show-picture-puffins",
+          "title": "Pet Show! (Picture Puffins)",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/913ogMpvjqL._SL1500_.jpg",
+          "url": "https://www.amazon.com/Show-Picture-Puffins-Ezra-Keats/dp/0142300004?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=33dee76ac074803072e8f18350e0a9ca&language=en_US"
+        },
+        {
           "asin": "B009VUHLHA",
           "slug": "kitchenaid-5-ultra-power-speed-hand-mixer-khm512-empire-red",
           "title": "KitchenAid 5 Ultra Power Speed Hand Mixer - KHM512, Empire Red",
@@ -236,17 +244,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81G36tso-FL._SL1500_.jpg",
           "url": "https://www.amazon.com/Aquaphor-Naturally-Inspired-Hydrating-Immediately/dp/B0DPJ9ZRY7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=fab790d54fc19ed19862fd1ed95fa08f&language=en_US"
-        },
-        {
-          "asin": "B0DVBFW4JW",
-          "slug": "3-in-1-vintage-giant-checkers-set-tic-tac-toe-with-reversibl",
-          "title": "3-in-1 Vintage Giant Checkers Set, Tic Tac Toe with Reversible Mat, 24 Jumbo Chips, Family Board Game, Lawn Game, BBQ Pa",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/916ThhOo7hL.jpg",
-          "url": "https://www.amazon.com/Vintage-Checkers-Reversible-Outdoor-Activity/dp/B0DVBFW4JW?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=f9d540a76ac029d75041120df6f14d76&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T16:20:01.583Z",
-      "updatedAt": "2026-06-19T16:20:01.583Z"
+      "generatedAt": "2026-06-19T16:30:01.318Z",
+      "updatedAt": "2026-06-19T16:30:01.319Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2940,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T16:20:01.584Z"
+  "generatedAt": "2026-06-19T16:30:01.320Z"
 }
