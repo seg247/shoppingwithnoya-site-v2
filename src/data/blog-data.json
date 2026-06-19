@@ -9,9 +9,8 @@
         "Other",
         "Free Deal",
         "Home & Kitchen",
-        "Garden & Outdoor",
-        "Tools & Hardware",
-        "Beauty"
+        "Grocery & Food",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Free Deal": [
@@ -36,6 +35,43 @@
             "category": "Free Deal",
             "imageUrl": "https://m.media-amazon.com/images/I/61IifYy5ntL.jpg",
             "url": "https://www.amazon.com/dp/B0BX7NSZ59/ref=cm_sw_r_as_gl_apa_gl_i_dl_CDV6Z1QBA8NVF7KG7TY6?linkCode=ml1&tag=noya0b-20&linkId=61e414650bb595c34dbc1ec050681965"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0FP43X6M8",
+            "slug": "promoted-to-great-aunt-uncle-coffee-mug-est-2026-pregnancy-r",
+            "title": "Promoted To Great Aunt Uncle Coffee Mug Est 2026, Pregnancy Reveal Announcement Mug Gift Set, First Time Uncle & Aunt Gi",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71de52ae5lL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FP43X6M8/ref=cm_sw_r_as_gl_api_gl_i_HJ0HWN250XWJ67WCEWQ7?linkCode=ml1&tag=noya0b-20&linkId=3ef018f3cb6a45a0d4034dd32be18f35"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FK11TD9X",
+            "slug": "owala-freesip-sway-insulated-stainless-steel-water-bottle-wi",
+            "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Gvo-Ck6BL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FK11TD9X/ref=cm_sw_r_as_gl_api_gl_i_CH1EQ1K5T8RHAD0T2VPD?linkCode=ml1&tag=noya0b-20&linkId=8a17a9e260b1b5b4bdcba89806e19fa4"
+          },
+          {
+            "asin": "B0FNJTLC7L",
+            "slug": "zippered-business-checkbook-binder-premium-pu-leather-organi",
+            "title": "Zippered Business Checkbook Binder, Premium PU Leather Organizer with 2 Loose-Leaf Binder Pockets, 600 Check Capacity, D",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/718RkSEO1KL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNJTLC7L/ref=cm_sw_r_as_gl_api_gl_i_dl_S7K0N6NZBYMVKTFC9GFZ?linkCode=ml1&tag=noya0b-20&linkId=218772b270f484ee10506b725c07d546"
           }
         ],
         "Other": [
@@ -84,19 +120,6 @@
             "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FNJTLC7L",
-            "slug": "zippered-business-checkbook-binder-premium-pu-leather-organi",
-            "title": "Zippered Business Checkbook Binder, Premium PU Leather Organizer with 2 Loose-Leaf Binder Pockets, 600 Check Capacity, D",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/718RkSEO1KL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNJTLC7L/ref=cm_sw_r_as_gl_api_gl_i_dl_S7K0N6NZBYMVKTFC9GFZ?linkCode=ml1&tag=noya0b-20&linkId=218772b270f484ee10506b725c07d546"
-          }
-        ],
         "Garden & Outdoor": [
           {
             "asin": "B0GGM2H185",
@@ -108,32 +131,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/71v2vPxZzHL.jpg",
             "url": "https://www.amazon.com/dp/B0GGM2H185/ref=cm_sw_r_as_gl_api_gl_i_dl_BAKAX5SXAPZKPAZZ4JVB?linkCode=ml1&tag=noya0b-20&linkId=1222e25e476da70b431a42a11fec4279"
-          }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B09KKXPDJ5",
-            "slug": "dewalt-20v-max-powerstack-lithium-ion-battery-2-pack-dcbp034",
-            "title": "DEWALT 20V MAX POWERSTACK Lithium Ion Battery 2 Pack (DCBP034-2)",
-            "price": "$79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MD2OJR+0L.jpg",
-            "url": "https://www.amazon.com/dp/B09KKXPDJ5/ref=cm_sw_r_as_gl_api_gl_i_KD61620AG70EKTQZ2YE0?linkCode=ml1&tag=noya0b-20&linkId=59e73118ca88a73bee88e13b42a61964"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FRHV9G6H",
-            "slug": "nicole-miller-fleur-de-mmoires-20ml-coffret-collection-beaut",
-            "title": "Nicole Miller Fleur De Mémoires 20ml Coffret Collection : Beauty & Personal Care",
-            "price": "$25",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ZuITBvJkL.jpg",
-            "url": "https://www.amazon.com/dp/B0FRHV9G6H/ref=cm_sw_r_as_gl_apa_gl_i_TANZGS5Q85V9WS3PP2V5?linkCode=ml1&tag=noya0b-20&linkId=6769896da1c8d4f167a0abb33e21f65e"
           }
         ]
       },
@@ -159,6 +156,28 @@
           "category": "Free Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/61IifYy5ntL.jpg",
           "url": "https://www.amazon.com/dp/B0BX7NSZ59/ref=cm_sw_r_as_gl_apa_gl_i_dl_CDV6Z1QBA8NVF7KG7TY6?linkCode=ml1&tag=noya0b-20&linkId=61e414650bb595c34dbc1ec050681965"
+        },
+        {
+          "asin": "B0FP43X6M8",
+          "slug": "promoted-to-great-aunt-uncle-coffee-mug-est-2026-pregnancy-r",
+          "title": "Promoted To Great Aunt Uncle Coffee Mug Est 2026, Pregnancy Reveal Announcement Mug Gift Set, First Time Uncle & Aunt Gi",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71de52ae5lL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FP43X6M8/ref=cm_sw_r_as_gl_api_gl_i_HJ0HWN250XWJ67WCEWQ7?linkCode=ml1&tag=noya0b-20&linkId=3ef018f3cb6a45a0d4034dd32be18f35"
+        },
+        {
+          "asin": "B0FK11TD9X",
+          "slug": "owala-freesip-sway-insulated-stainless-steel-water-bottle-wi",
+          "title": "Owala FreeSip Sway Insulated Stainless Steel Water Bottle with Two-Way Spout, Built-In Straw and Bucket Handle, Made for",
+          "price": "$27",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Gvo-Ck6BL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FK11TD9X/ref=cm_sw_r_as_gl_api_gl_i_CH1EQ1K5T8RHAD0T2VPD?linkCode=ml1&tag=noya0b-20&linkId=8a17a9e260b1b5b4bdcba89806e19fa4"
         },
         {
           "asin": "B084T9B3V2",
@@ -225,28 +244,6 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/71v2vPxZzHL.jpg",
           "url": "https://www.amazon.com/dp/B0GGM2H185/ref=cm_sw_r_as_gl_api_gl_i_dl_BAKAX5SXAPZKPAZZ4JVB?linkCode=ml1&tag=noya0b-20&linkId=1222e25e476da70b431a42a11fec4279"
-        },
-        {
-          "asin": "B09KKXPDJ5",
-          "slug": "dewalt-20v-max-powerstack-lithium-ion-battery-2-pack-dcbp034",
-          "title": "DEWALT 20V MAX POWERSTACK Lithium Ion Battery 2 Pack (DCBP034-2)",
-          "price": "$79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MD2OJR+0L.jpg",
-          "url": "https://www.amazon.com/dp/B09KKXPDJ5/ref=cm_sw_r_as_gl_api_gl_i_KD61620AG70EKTQZ2YE0?linkCode=ml1&tag=noya0b-20&linkId=59e73118ca88a73bee88e13b42a61964"
-        },
-        {
-          "asin": "B0FRHV9G6H",
-          "slug": "nicole-miller-fleur-de-mmoires-20ml-coffret-collection-beaut",
-          "title": "Nicole Miller Fleur De Mémoires 20ml Coffret Collection : Beauty & Personal Care",
-          "price": "$25",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ZuITBvJkL.jpg",
-          "url": "https://www.amazon.com/dp/B0FRHV9G6H/ref=cm_sw_r_as_gl_apa_gl_i_TANZGS5Q85V9WS3PP2V5?linkCode=ml1&tag=noya0b-20&linkId=6769896da1c8d4f167a0abb33e21f65e"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T09:30:01.891Z",
-      "updatedAt": "2026-06-19T09:30:01.891Z"
+      "generatedAt": "2026-06-19T09:40:01.785Z",
+      "updatedAt": "2026-06-19T09:40:01.785Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2940,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T09:30:01.892Z"
+  "generatedAt": "2026-06-19T09:40:01.787Z"
 }
