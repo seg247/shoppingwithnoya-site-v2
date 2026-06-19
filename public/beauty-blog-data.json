@@ -4,14 +4,14 @@
       "date": "2026-06-18",
       "slug": "2026-06-18",
       "title": "💄 Best Beauty Deals Today — June 18, 2026",
-      "intro": "Today's best beauty deals for Thursday, June 18, 2026 — 30 hand-picked discounts on Fragrance, Makeup, Skincare and more. The best beauty discount today is 61% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Thursday, June 18, 2026 — 30 hand-picked discounts on Fragrance, Makeup, Beauty and more. The best beauty discount today is 61% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
         "Fragrance",
         "Makeup",
+        "Beauty",
         "Skincare",
         "Hair Care",
-        "Body Care",
-        "Beauty"
+        "Body Care"
       ],
       "bySubcat": {
         "Fragrance": [
@@ -108,6 +108,28 @@
             "url": "https://www.amazon.com/dp/B0BLT2ZM21/ref=cm_sw_r_as_gl_apa_gl_i_2SFMJGPDFTG8DT5ZC3WR?linkCode=ml1&tag=noya0b-20&linkId=956b284acaacabff307d0404a302022b"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0D7ZCRWJK",
+            "slug": "hempz-mini-whipped-vanilla-coconut-cream-body-hand-lotion-22",
+            "title": "Hempz Mini Whipped Vanilla & Coconut Cream Body & Hand Lotion 2.25 oz. : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61V82lBnEOL.jpg",
+            "url": "https://www.amazon.com/dp/B0D7ZCRWJK?lv=shuf&aa_adgroupid=lv_sLDRUC80zAAPhsUIu2&th=1&maas=maas_adg_api_578905002051855097_static_9_129&aa_campaignid=lv_jGD4c9weCS4tRu1ACH&aa_creativeid=lv_HoLG03IYYs9bD6WDn1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7a08570d13192665dc6dacd208e12586&language=en_US"
+          },
+          {
+            "asin": "B0GGTLRGDT",
+            "slug": "disney-sleeping-beauty-spinning-wheel-mini-backpack-clothing",
+            "title": "Disney Sleeping Beauty Spinning Wheel Mini Backpack : Clothing, Shoes & Jewelry",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fCe96ZTlL.jpg",
+            "url": "https://www.amazon.com/dp/B0GGTLRGDT/ref=cm_sw_r_as_gl_apa_gl_i_MB04G9CEA8SX0H79EJ3Z?linkCode=ml1&tag=noya0b-20&linkId=e2986b7485904c76f77232c5cb802637"
+          }
+        ],
         "Skincare": [
           {
             "asin": "B01M31HUYJ",
@@ -178,16 +200,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61aDluwKSxL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DGPSZVW3/ref=cm_sw_r_as_gl_api_gl_i_HPGZCQYB9QA0T2P0AFYV?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CLKNYZ71",
-            "slug": "dove-body-wash-with-pump-relax-lavender-oil-chamomile-for-24",
-            "title": "Dove Body Wash with Pump Relax Lavender Oil & Chamomile For 24hr Lotion-Soft Skin Moisturizing Skin Cleanser with No Sul",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/7148rmcsGWL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CLKNYZ71?ie=UTF8&ascsubtag=96775bda6abd11f18ff72201c27a6d0f0INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=0e2bd1da302043633fee22c00b9f7973&language=en_US"
           }
         ],
         "Hair Care": [
@@ -208,7 +220,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/715B5XoDNaL._AC_SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CBNHP6HY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -313,18 +325,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71H83uk4O5L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FKSDGGNX?th=1&tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0GGTLRGDT",
-            "slug": "disney-sleeping-beauty-spinning-wheel-mini-backpack-clothing",
-            "title": "Disney Sleeping Beauty Spinning Wheel Mini Backpack : Clothing, Shoes & Jewelry",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fCe96ZTlL.jpg",
-            "url": "https://www.amazon.com/dp/B0GGTLRGDT/ref=cm_sw_r_as_gl_apa_gl_i_MB04G9CEA8SX0H79EJ3Z?linkCode=ml1&tag=noya0b-20&linkId=e2986b7485904c76f77232c5cb802637"
-          }
         ]
       },
       "deals": [
@@ -347,6 +347,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/71LF0iqn6oL.jpg",
           "url": "https://www.amazon.com/dp/B01ACPVXKI?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D7ZCRWJK",
+          "slug": "hempz-mini-whipped-vanilla-coconut-cream-body-hand-lotion-22",
+          "title": "Hempz Mini Whipped Vanilla & Coconut Cream Body & Hand Lotion 2.25 oz. : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61V82lBnEOL.jpg",
+          "url": "https://www.amazon.com/dp/B0D7ZCRWJK?lv=shuf&aa_adgroupid=lv_sLDRUC80zAAPhsUIu2&th=1&maas=maas_adg_api_578905002051855097_static_9_129&aa_campaignid=lv_jGD4c9weCS4tRu1ACH&aa_creativeid=lv_HoLG03IYYs9bD6WDn1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7a08570d13192665dc6dacd208e12586&language=en_US"
         },
         {
           "asin": "B07YPKZZHF",
@@ -485,7 +495,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/715B5XoDNaL._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CBNHP6HY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Body Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71H83uk4O5L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FKSDGGNX?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0CLKNYZ71",
-          "slug": "dove-body-wash-with-pump-relax-lavender-oil-chamomile-for-24",
-          "title": "Dove Body Wash with Pump Relax Lavender Oil & Chamomile For 24hr Lotion-Soft Skin Moisturizing Skin Cleanser with No Sul",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/7148rmcsGWL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CLKNYZ71?ie=UTF8&ascsubtag=96775bda6abd11f18ff72201c27a6d0f0INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=0e2bd1da302043633fee22c00b9f7973&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -646,7 +646,7 @@
       "faq": [
         {
           "q": "What are the best beauty deals today on June 18, 2026?",
-          "a": "The top beauty deals today include \"Babyganics Toy & Highchair Cleaner Spray, Fragrance Free, 17...\" and 29 other hand-picked discounts across Fragrance, Makeup, Skincare."
+          "a": "The top beauty deals today include \"Babyganics Toy & Highchair Cleaner Spray, Fragrance Free, 17...\" and 29 other hand-picked discounts across Fragrance, Makeup, Beauty."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-19T00:40:03.076Z",
-      "updatedAt": "2026-06-19T00:40:03.076Z"
+      "generatedAt": "2026-06-19T00:50:03.707Z",
+      "updatedAt": "2026-06-19T00:50:03.707Z"
     },
     {
       "date": "2026-06-17",
@@ -4863,5 +4863,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-19T00:40:03.079Z"
+  "generatedAt": "2026-06-19T00:50:03.709Z"
 }
