@@ -10,7 +10,8 @@
         "Free Deal",
         "Grocery & Food",
         "Pet Supplies",
-        "Toys & Kids",
+        "Electronics",
+        "Personal Care",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -49,17 +50,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71gPwqQICEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08CPYMBJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=3fd65109a0738fccc91082c0677a3487&language=en_US"
-          },
-          {
-            "asin": "B01LXFWL91",
-            "slug": "maxwell-house-breakfast-blend-mild-roast-ground-coffee-256-o",
-            "title": "Maxwell House Breakfast Blend Mild Roast Ground Coffee, 25.6 oz Canister : Grocery & Gourmet Food",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/716oSJXcysL.jpg",
-            "url": "https://www.amazon.com/dp/B01LXFWL91?th=1&linkCode=sl2&tag=noya0b-20&linkId=d39ff047f004e69effb58656cc1e0bac&language=en_US"
           }
         ],
         "Other": [
@@ -86,15 +76,15 @@
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
           },
           {
-            "asin": "B0DJ7WRCVC",
-            "slug": "couch-console-caddy-with-cup-holder-and-food-trays-for-eatin",
-            "title": "Couch Console - Caddy with Cup Holder and Food Trays for Eating on Couch",
+            "asin": "B0C7JMP592",
+            "slug": "making-the-grade-mini-curbside-recycle-can-pencil-cup-holder",
+            "title": "Making the Grade Mini Curbside Recycle Can Pencil Cup Holder - 5.5 Inches Tall - Light Green",
             "price": "$0.01",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nzTV6+I+L.jpg",
-            "url": "https://www.amazon.com/dp/B0DJ7WRCVC?social_share=cm_sw_r_cso_cp_apin_dp_hul_TM6JZQ8TCRJRQBCZD728&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=b8d5cff7cf06ddecc5eb671730d6dba2&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/51KvbjKQ93L.jpg",
+            "url": "https://www.amazon.com/dp/B0C7JMP592?social_share=cm_sw_r_cso_cp_apin_dp_hul_N2MRHREJSSAB783889C0&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=971cd45829d2391cc5514243dc62b8b5&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -110,30 +100,43 @@
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
           }
         ],
-        "Toys & Kids": [
+        "Electronics": [
           {
-            "asin": "B0FDGZDRGS",
-            "slug": "barbie-skipper-babysitters-inc-playset-with-brunette-doll-bl",
-            "title": "Barbie Skipper Babysitters, Inc. Playset with Brunette Doll, Blonde Baby Doll, Stroller with Removable Car Seat & 7 Acce",
-            "price": "$12",
+            "asin": "B0G2C2FH3Z",
+            "slug": "for-pixel-earbuds-wireless-ear-buds-bluetooth-53-headphones",
+            "title": "\udecd️for Pixel Earbuds Wireless Ear Buds Bluetooth 5.3 Headphones for Google Pixel 10/10 Pro/10 Pro XL/Fold/9a/9/8/7/6,Sams",
+            "price": "$8.49",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FDGZDRGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=74fd4b1b893ff53e98bfe5bb97660005&language=en_US"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51zSiUuz6LL.jpg",
+            "url": "https://www.amazon.com/dp/B0G2C2FH3Z?tag=noya0b-20"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B00B6A6XOK",
+            "slug": "band-aid-brand-flexible-fabric-adhesive-bandages-comfortable",
+            "title": "BAND-AID Brand Flexible Fabric Adhesive Bandages, Comfortable Sterile Protection & Wound Care for Minor Cuts, Scrapes & ",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/41vgQVo7+VL.jpg",
+            "url": "https://www.amazon.com/dp/B00B6A6XOK?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bfd3bc8b54156f11f0a4e856791d43dd&language=en_US"
           }
         ],
         "Home & Kitchen": [
           {
-            "asin": "B07GHJ4LYL",
-            "slug": "chesapeake-bay-candle-pt40886-scented-candle-awaken-invigora",
-            "title": "Chesapeake Bay Candle PT40886 Scented Candle Awaken + Invigorate (Lemongrass Eucalyptus) Medium Green Home Décor",
-            "price": "$7",
+            "asin": "B0BMK56P9D",
+            "slug": "kitchenaid-quilted-cotton-terry-cloth-oven-mitt-pot-holder-k",
+            "title": "\udecd️KitchenAid Quilted Cotton Terry Cloth Oven Mitt, Pot Holder, Kitchen Towel 4-Pack Set, Heat Resistant, Silicone Grip, ",
+            "price": "$49.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51QI4nlGPqL.jpg",
-            "url": "https://www.amazon.com/dp/B07GHJ4LYL?th=1&linkCode=sl2&tag=noya0b-20&linkId=37805c4e6c0b81cd609289e683265cb8&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/61SQ8DZEQWL.jpg",
+            "url": "https://www.amazon.com/dp/B0BMK56P9D?tag=noya0b-20"
           }
         ]
       },
@@ -205,48 +208,48 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
-          "asin": "B0DJ7WRCVC",
-          "slug": "couch-console-caddy-with-cup-holder-and-food-trays-for-eatin",
-          "title": "Couch Console - Caddy with Cup Holder and Food Trays for Eating on Couch",
+          "asin": "B0G2C2FH3Z",
+          "slug": "for-pixel-earbuds-wireless-ear-buds-bluetooth-53-headphones",
+          "title": "\udecd️for Pixel Earbuds Wireless Ear Buds Bluetooth 5.3 Headphones for Google Pixel 10/10 Pro/10 Pro XL/Fold/9a/9/8/7/6,Sams",
+          "price": "$8.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51zSiUuz6LL.jpg",
+          "url": "https://www.amazon.com/dp/B0G2C2FH3Z?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C7JMP592",
+          "slug": "making-the-grade-mini-curbside-recycle-can-pencil-cup-holder",
+          "title": "Making the Grade Mini Curbside Recycle Can Pencil Cup Holder - 5.5 Inches Tall - Light Green",
           "price": "$0.01",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71nzTV6+I+L.jpg",
-          "url": "https://www.amazon.com/dp/B0DJ7WRCVC?social_share=cm_sw_r_cso_cp_apin_dp_hul_TM6JZQ8TCRJRQBCZD728&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=b8d5cff7cf06ddecc5eb671730d6dba2&language=en_US"
+          "imageUrl": "https://m.media-amazon.com/images/I/51KvbjKQ93L.jpg",
+          "url": "https://www.amazon.com/dp/B0C7JMP592?social_share=cm_sw_r_cso_cp_apin_dp_hul_N2MRHREJSSAB783889C0&s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=971cd45829d2391cc5514243dc62b8b5&language=en_US"
         },
         {
-          "asin": "B01LXFWL91",
-          "slug": "maxwell-house-breakfast-blend-mild-roast-ground-coffee-256-o",
-          "title": "Maxwell House Breakfast Blend Mild Roast Ground Coffee, 25.6 oz Canister : Grocery & Gourmet Food",
-          "price": "$6",
+          "asin": "B00B6A6XOK",
+          "slug": "band-aid-brand-flexible-fabric-adhesive-bandages-comfortable",
+          "title": "BAND-AID Brand Flexible Fabric Adhesive Bandages, Comfortable Sterile Protection & Wound Care for Minor Cuts, Scrapes & ",
+          "price": "$4",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/716oSJXcysL.jpg",
-          "url": "https://www.amazon.com/dp/B01LXFWL91?th=1&linkCode=sl2&tag=noya0b-20&linkId=d39ff047f004e69effb58656cc1e0bac&language=en_US"
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/41vgQVo7+VL.jpg",
+          "url": "https://www.amazon.com/dp/B00B6A6XOK?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bfd3bc8b54156f11f0a4e856791d43dd&language=en_US"
         },
         {
-          "asin": "B0FDGZDRGS",
-          "slug": "barbie-skipper-babysitters-inc-playset-with-brunette-doll-bl",
-          "title": "Barbie Skipper Babysitters, Inc. Playset with Brunette Doll, Blonde Baby Doll, Stroller with Removable Car Seat & 7 Acce",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FDGZDRGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=74fd4b1b893ff53e98bfe5bb97660005&language=en_US"
-        },
-        {
-          "asin": "B07GHJ4LYL",
-          "slug": "chesapeake-bay-candle-pt40886-scented-candle-awaken-invigora",
-          "title": "Chesapeake Bay Candle PT40886 Scented Candle Awaken + Invigorate (Lemongrass Eucalyptus) Medium Green Home Décor",
-          "price": "$7",
+          "asin": "B0BMK56P9D",
+          "slug": "kitchenaid-quilted-cotton-terry-cloth-oven-mitt-pot-holder-k",
+          "title": "\udecd️KitchenAid Quilted Cotton Terry Cloth Oven Mitt, Pot Holder, Kitchen Towel 4-Pack Set, Heat Resistant, Silicone Grip, ",
+          "price": "$49.99",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51QI4nlGPqL.jpg",
-          "url": "https://www.amazon.com/dp/B07GHJ4LYL?th=1&linkCode=sl2&tag=noya0b-20&linkId=37805c4e6c0b81cd609289e683265cb8&language=en_US"
+          "imageUrl": "https://m.media-amazon.com/images/I/61SQ8DZEQWL.jpg",
+          "url": "https://www.amazon.com/dp/B0BMK56P9D?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T19:20:01.730Z",
-      "updatedAt": "2026-06-19T19:20:01.730Z"
+      "generatedAt": "2026-06-19T19:30:01.414Z",
+      "updatedAt": "2026-06-19T19:30:01.414Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2946,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T19:20:01.731Z"
+  "generatedAt": "2026-06-19T19:30:01.416Z"
 }
