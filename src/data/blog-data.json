@@ -9,9 +9,9 @@
         "Other",
         "Free Deal",
         "Home & Kitchen",
+        "Grocery & Food",
         "Electronics",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
         "Free Deal": [
@@ -36,6 +36,19 @@
             "category": "Free Deal",
             "imageUrl": "https://m.media-amazon.com/images/I/61IifYy5ntL.jpg",
             "url": "https://www.amazon.com/dp/B0BX7NSZ59/ref=cm_sw_r_as_gl_apa_gl_i_dl_CDV6Z1QBA8NVF7KG7TY6?linkCode=ml1&tag=noya0b-20&linkId=61e414650bb595c34dbc1ec050681965"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0FF9V7F19",
+            "slug": "liemand-6x16-oz-salad-dressing-container-to-go-leakproof-reu",
+            "title": "LIEMAND 6x1.6 oz Salad Dressing Container to Go, Leakproof Reusable Stainless Steel Small Container with Lid,Sauce Conta",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TRefhyIzL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FF9V7F19/ref=cm_sw_r_as_gl_api_gl_i_F8TGJ580TH3KZG0Z1RGX?linkCode=ml1&tag=noya0b-20&linkId=a07d3a9f312b267aa0d6b82506c07017"
           }
         ],
         "Other": [
@@ -122,19 +135,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F3DV3DCN/ref=cm_sw_r_as_gl_api_gl_i_dl_521WDX3P5H74XYFK17N0?linkCode=ml1&tag=noya0b-20&linkId=6723b49d445303d695bade227f341352"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FP43X6M8",
-            "slug": "promoted-to-great-aunt-uncle-coffee-mug-est-2026-pregnancy-r",
-            "title": "Promoted To Great Aunt Uncle Coffee Mug Est 2026, Pregnancy Reveal Announcement Mug Gift Set, First Time Uncle & Aunt Gi",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71de52ae5lL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FP43X6M8/ref=cm_sw_r_as_gl_api_gl_i_HJ0HWN250XWJ67WCEWQ7?linkCode=ml1&tag=noya0b-20&linkId=3ef018f3cb6a45a0d4034dd32be18f35"
-          }
         ]
       },
       "deals": [
@@ -159,6 +159,17 @@
           "category": "Free Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/61IifYy5ntL.jpg",
           "url": "https://www.amazon.com/dp/B0BX7NSZ59/ref=cm_sw_r_as_gl_apa_gl_i_dl_CDV6Z1QBA8NVF7KG7TY6?linkCode=ml1&tag=noya0b-20&linkId=61e414650bb595c34dbc1ec050681965"
+        },
+        {
+          "asin": "B0FF9V7F19",
+          "slug": "liemand-6x16-oz-salad-dressing-container-to-go-leakproof-reu",
+          "title": "LIEMAND 6x1.6 oz Salad Dressing Container to Go, Leakproof Reusable Stainless Steel Small Container with Lid,Sauce Conta",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TRefhyIzL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FF9V7F19/ref=cm_sw_r_as_gl_api_gl_i_F8TGJ580TH3KZG0Z1RGX?linkCode=ml1&tag=noya0b-20&linkId=a07d3a9f312b267aa0d6b82506c07017"
         },
         {
           "asin": "B0FYP99D5X",
@@ -236,17 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61wIO0GqHwL.jpg",
           "url": "https://www.amazon.com/dp/B0FYC5YV13/ref=cm_sw_r_as_gl_api_gl_i_DEQF5VKEH3TSGV70MSEB?linkCode=ml1&tag=noya0b-20&linkId=1fe3607ca8c4cba498ae33193c4e6501"
-        },
-        {
-          "asin": "B0FP43X6M8",
-          "slug": "promoted-to-great-aunt-uncle-coffee-mug-est-2026-pregnancy-r",
-          "title": "Promoted To Great Aunt Uncle Coffee Mug Est 2026, Pregnancy Reveal Announcement Mug Gift Set, First Time Uncle & Aunt Gi",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71de52ae5lL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FP43X6M8/ref=cm_sw_r_as_gl_api_gl_i_HJ0HWN250XWJ67WCEWQ7?linkCode=ml1&tag=noya0b-20&linkId=3ef018f3cb6a45a0d4034dd32be18f35"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T10:10:02.097Z",
-      "updatedAt": "2026-06-19T10:10:02.097Z"
+      "generatedAt": "2026-06-19T10:20:02.020Z",
+      "updatedAt": "2026-06-19T10:20:02.020Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2943,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T10:10:02.098Z"
+  "generatedAt": "2026-06-19T10:20:02.022Z"
 }
