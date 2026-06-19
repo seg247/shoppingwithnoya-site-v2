@@ -9,9 +9,9 @@
         "Other",
         "Free Deal",
         "Pet Supplies",
+        "Fashion",
         "Electronics",
-        "Cleaning Supplies",
-        "Grocery & Food"
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Free Deal": [
@@ -97,6 +97,19 @@
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0CY87XR8H",
+            "slug": "coovan-12-pack-mens-socks-black-ankle-low-cut-comfort-breath",
+            "title": "COOVAN 12 Pack Mens Socks Black Ankle Low Cut Comfort Breathable Casual Cushion Socks（12 Pairs ） : Clothing, Shoes & Jew",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71lpndhKUIL.jpg",
+            "url": "https://www.amazon.com/COOVAN-Comfort-Breathable-Cushion-Socks%EF%BC%8812/dp/B0CY87XR8H?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7bc8e6f784288661261c1b7752e16fb9&language=en_US"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CGKPH78F",
@@ -121,19 +134,6 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/71Glbwx4taL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B07H3SDKDP?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=06fe12646b6c11f1b853ee76443f88790INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3afda433f2551f5bf6728a72f9be8ebe&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B08L4RBHHH",
-            "slug": "frito-lay-ultimate-smart-care-package-20-variety-assortment",
-            "title": "Frito-Lay Ultimate Smart Care Package 2.0, Variety Assortment of Snacks (Pack of 40)",
-            "price": "$17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/91QwWy62GvL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08L4RBHHH?th=1&linkCode=sl2&tag=noya0b-20&linkId=e314c36099f4d1922bb3eca55fd18477&language=en_US"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "B0CY87XR8H",
+          "slug": "coovan-12-pack-mens-socks-black-ankle-low-cut-comfort-breath",
+          "title": "COOVAN 12 Pack Mens Socks Black Ankle Low Cut Comfort Breathable Casual Cushion Socks（12 Pairs ） : Clothing, Shoes & Jew",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71lpndhKUIL.jpg",
+          "url": "https://www.amazon.com/COOVAN-Comfort-Breathable-Cushion-Socks%EF%BC%8812/dp/B0CY87XR8H?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7bc8e6f784288661261c1b7752e16fb9&language=en_US"
+        },
+        {
           "asin": "B09L77YZZQ",
           "slug": "giant-magic-cube-18cm-big-3x3-speed-cube-color-matching-3d-s",
           "title": "Giant Magic Cube, 18CM Big 3x3 Speed Cube Color-Matching 3D Sensory Puzzle Box Super Large Birthday Christmas Stocking S",
@@ -236,17 +247,6 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/71Glbwx4taL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B07H3SDKDP?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=06fe12646b6c11f1b853ee76443f88790INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3afda433f2551f5bf6728a72f9be8ebe&language=en_US"
-        },
-        {
-          "asin": "B08L4RBHHH",
-          "slug": "frito-lay-ultimate-smart-care-package-20-variety-assortment",
-          "title": "Frito-Lay Ultimate Smart Care Package 2.0, Variety Assortment of Snacks (Pack of 40)",
-          "price": "$17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/91QwWy62GvL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08L4RBHHH?th=1&linkCode=sl2&tag=noya0b-20&linkId=e314c36099f4d1922bb3eca55fd18477&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T17:20:01.979Z",
-      "updatedAt": "2026-06-19T17:20:01.979Z"
+      "generatedAt": "2026-06-19T17:30:01.933Z",
+      "updatedAt": "2026-06-19T17:30:01.933Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2943,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T17:20:01.981Z"
+  "generatedAt": "2026-06-19T17:30:01.935Z"
 }
