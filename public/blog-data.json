@@ -9,8 +9,7 @@
         "Other",
         "Free Deal",
         "Pet Supplies",
-        "Fashion",
-        "Electronics"
+        "Fashion"
       ],
       "byCategory": {
         "Free Deal": [
@@ -59,6 +58,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61iSMAD4fsL.jpg",
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
+          },
+          {
+            "asin": "B0FVSKX1PT",
+            "slug": "black-sheet-cake-pan-with-lid-2-pack-15102-deep-jelly-roll-p",
+            "title": "Black Sheet Cake Pan with Lid, 2-Pack 15\"×10\"×2\" Deep Jelly Roll Pan, Nonstick Ceramic Coating, PFOA & PTFE Free, Oven S",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81TPBjdPe0L.jpg",
+            "url": "https://www.amazon.com/Spmarkt-Nonstick-Ceramic-Coating-Brownies/dp/B0FVSKX1PT?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=258ef5983bbdf0fec83285d1d8c1d49f&language=en_US"
           },
           {
             "asin": "B0832578WQ",
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71lpndhKUIL.jpg",
             "url": "https://www.amazon.com/COOVAN-Comfort-Breathable-Cushion-Socks%EF%BC%8812/dp/B0CY87XR8H?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7bc8e6f784288661261c1b7752e16fb9&language=en_US"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0CGKPH78F",
-            "slug": "samsung-34-viewfinity-s65uc-ultra-wqhd-100hz-amd-freesync-hd",
-            "title": "Samsung 34” ViewFinity S65UC, Ultra-WQHD, 100Hz, AMD FreeSync™ HDR10, KVM Switch Built in Speakers with USB-C Curved Mon",
-            "price": "$349.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/715LggScjhL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CGKPH78F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -191,6 +188,17 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "B0FVSKX1PT",
+          "slug": "black-sheet-cake-pan-with-lid-2-pack-15102-deep-jelly-roll-p",
+          "title": "Black Sheet Cake Pan with Lid, 2-Pack 15\"×10\"×2\" Deep Jelly Roll Pan, Nonstick Ceramic Coating, PFOA & PTFE Free, Oven S",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81TPBjdPe0L.jpg",
+          "url": "https://www.amazon.com/Spmarkt-Nonstick-Ceramic-Coating-Brownies/dp/B0FVSKX1PT?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=258ef5983bbdf0fec83285d1d8c1d49f&language=en_US"
+        },
+        {
           "asin": "B0832578WQ",
           "slug": "blue-buffalo-bursts-crunchy-creamy-cat-treats-great-for-trai",
           "title": "Blue Buffalo Bursts Crunchy & Creamy Cat Treats, Great for Training, Savory Seafood, 5-oz Bag",
@@ -233,17 +241,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71Il67Mwk-L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0BBQX7P5J?campaignId=amzn1.campaign.2YPO013000UOG&th=1&linkCode=sl1&tag=noya0b-20&linkId=db33e0e81d1eb6720ccebbcce1a9f61f&language=en_US"
-        },
-        {
-          "asin": "B0CGKPH78F",
-          "slug": "samsung-34-viewfinity-s65uc-ultra-wqhd-100hz-amd-freesync-hd",
-          "title": "Samsung 34” ViewFinity S65UC, Ultra-WQHD, 100Hz, AMD FreeSync™ HDR10, KVM Switch Built in Speakers with USB-C Curved Mon",
-          "price": "$349.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/715LggScjhL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CGKPH78F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T17:40:01.722Z",
-      "updatedAt": "2026-06-19T17:40:01.722Z"
+      "generatedAt": "2026-06-19T17:50:01.953Z",
+      "updatedAt": "2026-06-19T17:50:01.953Z"
     },
     {
       "date": "2026-06-18",
@@ -2940,5 +2937,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T17:40:01.723Z"
+  "generatedAt": "2026-06-19T17:50:01.954Z"
 }
