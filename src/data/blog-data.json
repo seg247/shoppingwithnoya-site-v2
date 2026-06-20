@@ -9,10 +9,10 @@
         "Other",
         "Electronics",
         "Free Deal",
+        "Home & Kitchen",
         "Garden & Outdoor",
         "Grocery & Food",
-        "Beauty",
-        "Home & Kitchen"
+        "Beauty"
       ],
       "byCategory": {
         "Free Deal": [
@@ -61,6 +61,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81JHtI1kMmL.jpg",
             "url": "https://www.amazon.com/dp/B002HC53ZQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=33041e59d6583f17f6ebbf9b666d71ef&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B00EI7DPI0",
+            "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
+            "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71k1RTjfAhL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00EI7DPI0?th=1&tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61iBtxCUabL.jpg",
             "url": "https://www.amazon.com/dp/B0DGHMNQ5Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=61016673dd8b53149aa07dc79da7ea72&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B000H0XFCS",
-            "slug": "amazoncom-eva-dry-wireless-mini-dehumidifier-white-e-333-deh",
-            "title": "Amazon.com - Eva-Dry Wireless Mini Dehumidifier, White (E-333) - Dehumidifiers",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B000H0XFCS?th=1&psc=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/7128THvfUFL.jpg",
           "url": "https://www.amazon.com/dp/B0FGGDXFK1?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6c81b9c48b880bf69574bf749686f66&language=en_US"
+        },
+        {
+          "asin": "B00EI7DPI0",
+          "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
+          "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71k1RTjfAhL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00EI7DPI0?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0DGKNXN8Q",
@@ -239,17 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81JHtI1kMmL.jpg",
           "url": "https://www.amazon.com/dp/B002HC53ZQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=33041e59d6583f17f6ebbf9b666d71ef&language=en_US"
-        },
-        {
-          "asin": "B000H0XFCS",
-          "slug": "amazoncom-eva-dry-wireless-mini-dehumidifier-white-e-333-deh",
-          "title": "Amazon.com - Eva-Dry Wireless Mini Dehumidifier, White (E-333) - Dehumidifiers",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B000H0XFCS?th=1&psc=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T21:40:01.280Z",
-      "updatedAt": "2026-06-20T21:40:01.280Z"
+      "generatedAt": "2026-06-20T21:50:01.255Z",
+      "updatedAt": "2026-06-20T21:50:01.256Z"
     },
     {
       "date": "2026-06-19",
@@ -3217,5 +3217,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T21:40:01.281Z"
+  "generatedAt": "2026-06-20T21:50:01.257Z"
 }
