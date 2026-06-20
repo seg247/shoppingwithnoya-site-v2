@@ -9,9 +9,10 @@
         "Other",
         "Electronics",
         "Free Deal",
+        "Garden & Outdoor",
+        "Grocery & Food",
         "Beauty",
-        "Home & Kitchen",
-        "Garden & Outdoor"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Free Deal": [
@@ -40,6 +41,17 @@
             "url": "https://www.amazon.com/dp/B0FGGDXFK1?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6c81b9c48b880bf69574bf749686f66&language=en_US"
           },
           {
+            "asin": "B0G2BLW6WN",
+            "slug": "kastewill-acrylic-paint-set-52pcs-with-paint-painting-brushe",
+            "title": "KASTEWILL Acrylic Paint Set, 52PCS with Paint, Painting Brushes,Acrylic Paints Book,Easel,Brush Washer,4 Blank Canvas,Pa",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WYNc6Iq7L.jpg",
+            "url": "https://www.amazon.com/KASTEWILL-Acrylic-Painting-Hobbyists-Beginners/dp/B0G2BLW6WN?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=f4c442dcca50235b376ef184568e6c62&language=en_US"
+          },
+          {
             "asin": "B002HC53ZQ",
             "slug": "cra-z-art-24ct-crayons-pack-perfect-back-to-school-essential",
             "title": "Cra-Z-Art 24ct Crayons Pack, Perfect Back to School Essential, Art Supplies for Coloring Fun, Ages 3 and Up",
@@ -49,28 +61,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81JHtI1kMmL.jpg",
             "url": "https://www.amazon.com/dp/B002HC53ZQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=33041e59d6583f17f6ebbf9b666d71ef&language=en_US"
-          },
+          }
+        ],
+        "Garden & Outdoor": [
           {
-            "asin": "B0FBS2HXNX",
-            "slug": "blackcat-ramen-style-tote-bag-for-women-cat-lover-gifts-for",
-            "title": "Blackcat Ramen Style Tote Bag for Women, Cat Lover Gifts for Women, Japan Travel Bags for Her, with Inner Pocket. : Clot",
-            "price": "$4",
+            "asin": "B0DGKNXN8Q",
+            "slug": "purplebird-grill-brush-bristle-free-for-outdoor-grill-3-in-1",
+            "title": "PURPLEBIRD Grill Brush Bristle Free for Outdoor Grill, 3 in 1 BBQ Brush with Scraper & Bottle Opener, Grills Cleaning Br",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cMmbk3ONL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Blackcat-Ramen-Style-Travel-Pocket/dp/B0FBS2HXNX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d88cf5c568927fa9a4adcd42bf8daaeb&language=en_US"
-          },
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71spVOcNqfL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/PURPLEBIRD-Bristle-Cleaning-Replacement-Scrubber/dp/B0DGKNXN8Q?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=1be1fd2fdce656915c1ed3c0098ea24c&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0FP9ZYNMW",
-            "slug": "orthopedic-dog-beds-large-sized-dog-with-removable-faux-fur",
-            "title": "Orthopedic Dog Beds Large Sized Dog with Removable Faux Fur Washable Covers,Waterproof Pet Couch Bed with Cooling Gel Me",
-            "price": "$24",
+            "asin": "B0F9Y26PFK",
+            "slug": "20oz-ribbed-glass-tumbler-with-straw-lid-2-pack-iced-coffee",
+            "title": "20oz Ribbed Glass Tumbler with Straw & Lid – 2 Pack Iced Coffee Cups,Glass Mug for Cold & Hot Beverages Travel Cup for S",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PiDmuAQFL.jpg",
-            "url": "https://www.amazon.com/Orthopedic-Removable-Washable-Waterproof-Cooling/dp/B0FP9ZYNMW?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=bbe6addcfd4232f89bb5d7b66026a420&language=en_US"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61+cIkShynL._AC_SL1280_.jpg",
+            "url": "https://www.amazon.com/dp/B0F9Y26PFK?th=1&tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -122,19 +138,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B000H0XFCS?th=1&psc=1&tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0GKPB6KBN",
-            "slug": "oursieez-garden-hose-holder-with-shepherds-hooks-freestandin",
-            "title": "Oursieez Garden Hose Holder with Shepherds Hooks - Freestanding Metal Water Hose Holder Stand Holds 150ft, Heavy Duty Ga",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71x37BT-UEL.jpg",
-            "url": "https://www.amazon.com/dp/B0GKPB6KBN?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -159,6 +162,39 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/7128THvfUFL.jpg",
           "url": "https://www.amazon.com/dp/B0FGGDXFK1?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6c81b9c48b880bf69574bf749686f66&language=en_US"
+        },
+        {
+          "asin": "B0DGKNXN8Q",
+          "slug": "purplebird-grill-brush-bristle-free-for-outdoor-grill-3-in-1",
+          "title": "PURPLEBIRD Grill Brush Bristle Free for Outdoor Grill, 3 in 1 BBQ Brush with Scraper & Bottle Opener, Grills Cleaning Br",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71spVOcNqfL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/PURPLEBIRD-Bristle-Cleaning-Replacement-Scrubber/dp/B0DGKNXN8Q?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=1be1fd2fdce656915c1ed3c0098ea24c&language=en_US"
+        },
+        {
+          "asin": "B0G2BLW6WN",
+          "slug": "kastewill-acrylic-paint-set-52pcs-with-paint-painting-brushe",
+          "title": "KASTEWILL Acrylic Paint Set, 52PCS with Paint, Painting Brushes,Acrylic Paints Book,Easel,Brush Washer,4 Blank Canvas,Pa",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WYNc6Iq7L.jpg",
+          "url": "https://www.amazon.com/KASTEWILL-Acrylic-Painting-Hobbyists-Beginners/dp/B0G2BLW6WN?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=f4c442dcca50235b376ef184568e6c62&language=en_US"
+        },
+        {
+          "asin": "B0F9Y26PFK",
+          "slug": "20oz-ribbed-glass-tumbler-with-straw-lid-2-pack-iced-coffee",
+          "title": "20oz Ribbed Glass Tumbler with Straw & Lid – 2 Pack Iced Coffee Cups,Glass Mug for Cold & Hot Beverages Travel Cup for S",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+cIkShynL._AC_SL1280_.jpg",
+          "url": "https://www.amazon.com/dp/B0F9Y26PFK?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FR6T3P41",
@@ -214,39 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B000H0XFCS?th=1&psc=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FBS2HXNX",
-          "slug": "blackcat-ramen-style-tote-bag-for-women-cat-lover-gifts-for",
-          "title": "Blackcat Ramen Style Tote Bag for Women, Cat Lover Gifts for Women, Japan Travel Bags for Her, with Inner Pocket. : Clot",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cMmbk3ONL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Blackcat-Ramen-Style-Travel-Pocket/dp/B0FBS2HXNX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d88cf5c568927fa9a4adcd42bf8daaeb&language=en_US"
-        },
-        {
-          "asin": "B0FP9ZYNMW",
-          "slug": "orthopedic-dog-beds-large-sized-dog-with-removable-faux-fur",
-          "title": "Orthopedic Dog Beds Large Sized Dog with Removable Faux Fur Washable Covers,Waterproof Pet Couch Bed with Cooling Gel Me",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PiDmuAQFL.jpg",
-          "url": "https://www.amazon.com/Orthopedic-Removable-Washable-Waterproof-Cooling/dp/B0FP9ZYNMW?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=bbe6addcfd4232f89bb5d7b66026a420&language=en_US"
-        },
-        {
-          "asin": "B0GKPB6KBN",
-          "slug": "oursieez-garden-hose-holder-with-shepherds-hooks-freestandin",
-          "title": "Oursieez Garden Hose Holder with Shepherds Hooks - Freestanding Metal Water Hose Holder Stand Holds 150ft, Heavy Duty Ga",
-          "price": "$18",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71x37BT-UEL.jpg",
-          "url": "https://www.amazon.com/dp/B0GKPB6KBN?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T21:30:02.127Z",
-      "updatedAt": "2026-06-20T21:30:02.127Z"
+      "generatedAt": "2026-06-20T21:40:01.280Z",
+      "updatedAt": "2026-06-20T21:40:01.280Z"
     },
     {
       "date": "2026-06-19",
@@ -3214,5 +3217,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T21:30:02.128Z"
+  "generatedAt": "2026-06-20T21:40:01.281Z"
 }
