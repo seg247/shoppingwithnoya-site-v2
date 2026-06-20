@@ -10,7 +10,8 @@
         "Fashion",
         "Free Deal",
         "Beauty",
-        "Home & Kitchen"
+        "Cleaning Supplies",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Free Deal": [
@@ -59,31 +60,20 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61OzWwpL4VL.jpg",
             "url": "https://www.amazon.com/dp/B00BTIUYOO?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0CF2TSN5T",
-            "slug": "paper-mate-flair-nature-escape-scented-felt-tip-pens-medium",
-            "title": "Paper Mate Flair Nature Escape Scented Felt Tip Pens, Medium Point (0.7mm), Assorted Colors, 16 Count - Perfect for Jour",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81d1bj2p62L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Paper-Mate-Nature-Scented-Assorted/dp/B0CF2TSN5T?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=96b62f2e5be63b1626b86bf524d46ac4&language=en_US"
-          },
-          {
-            "asin": "B0GWZYKZGS",
-            "slug": "avidlove-black-mesh-top-long-sleeve-mesh-undershirt-concert",
-            "title": "Avidlove Black Mesh Top Long Sleeve Mesh Undershirt Concert Outfits Women Black See Through Top Club Shirts Geometric M ",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81D4yS9VtyL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GWZYKZGS?th=1&psc=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
+          {
+            "asin": "B00KBIDF7Q",
+            "slug": "hanes-mens-ultimate-cotton-heavyweight-pullover-hoodie-sweat",
+            "title": "Hanes Men's Ultimate Cotton Heavyweight Pullover Hoodie Sweatshirt, Light Steel, XX-Large at Amazon Men’s Clothing store",
+            "price": "$10",
+            "discount": 68,
+            "rating": "FIRE",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71CYkRyv8oL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00KBIDF7Q?th=1&psc=1&tag=noya0b-20"
+          },
           {
             "asin": "B0G1YF4NKK",
             "slug": "lyrur-womens-summer-tube-top-dress-smocked-strapless-dresses",
@@ -120,17 +110,30 @@
             "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
           }
         ],
-        "Home & Kitchen": [
+        "Cleaning Supplies": [
           {
-            "asin": "B09NZQQ6XX",
-            "slug": "kitchenaid-beacon-two-tone-non-slip-mini-oven-mitt-set-pista",
-            "title": "KitchenAid Beacon Two-Tone Non-Slip Mini Oven Mitt Set, Pistachio/Graphite Green, 5.5\"x8\", 2 Piece : Home & Kitchen",
-            "price": "$10",
+            "asin": "B0D9PDMSGB",
+            "slug": "swig-life-40oz-mega-mug-40-oz-tumbler-with-handle-and-straw",
+            "title": "Swig Life 40oz Mega Mug, 40 oz Tumbler with Handle and Straw, Cup Holder Friendly, Dishwasher Safe, Extra Large Insulate",
+            "price": "$24",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/KitchenAid-Beacon-Two-Tone-Pistachio-Graphite/dp/B09NZQQ6XX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4a33e6ecc38566c83003e9b8e789f0aa&language=en_US"
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/51QCL-8ApQL.jpg",
+            "url": "https://www.amazon.com/Swig-Life-Mega-Mug-Insulated/dp/B0D9PDMSGB?content-id=amzn1.sym.0a8559f7-1b40-48dc-ad97-6b3baa480689&pd_rd_i=B0D9PDMSGB&th=1&linkCode=sl2&tag=noya0b-20&linkId=4de64bae2b1c50ec876d5d5d1c9b45b0&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0D3DX9KDK",
+            "slug": "6-pack-smores-sticks-for-fire-pit-32-inch-marshmallow-roasti",
+            "title": "6 pack Smores Sticks for Fire Pit, 32 Inch Marshmallow Roasting long Skewers kit for Campfire - Hot Dog Fork Portable Ex",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71f2SS4gkFL.jpg",
+            "url": "https://www.amazon.com/dp/B0D3DX9KDK?tag=noya0b-20"
           }
         ]
       },
@@ -156,6 +159,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/7128THvfUFL.jpg",
           "url": "https://www.amazon.com/dp/B0FGGDXFK1?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6c81b9c48b880bf69574bf749686f66&language=en_US"
+        },
+        {
+          "asin": "B00KBIDF7Q",
+          "slug": "hanes-mens-ultimate-cotton-heavyweight-pullover-hoodie-sweat",
+          "title": "Hanes Men's Ultimate Cotton Heavyweight Pullover Hoodie Sweatshirt, Light Steel, XX-Large at Amazon Men’s Clothing store",
+          "price": "$10",
+          "discount": 68,
+          "rating": "FIRE",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71CYkRyv8oL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00KBIDF7Q?th=1&psc=1&tag=noya0b-20"
         },
         {
           "asin": "B0G1YF4NKK",
@@ -213,37 +227,26 @@
           "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
         },
         {
-          "asin": "B09NZQQ6XX",
-          "slug": "kitchenaid-beacon-two-tone-non-slip-mini-oven-mitt-set-pista",
-          "title": "KitchenAid Beacon Two-Tone Non-Slip Mini Oven Mitt Set, Pistachio/Graphite Green, 5.5\"x8\", 2 Piece : Home & Kitchen",
-          "price": "$10",
+          "asin": "B0D9PDMSGB",
+          "slug": "swig-life-40oz-mega-mug-40-oz-tumbler-with-handle-and-straw",
+          "title": "Swig Life 40oz Mega Mug, 40 oz Tumbler with Handle and Straw, Cup Holder Friendly, Dishwasher Safe, Extra Large Insulate",
+          "price": "$24",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/KitchenAid-Beacon-Two-Tone-Pistachio-Graphite/dp/B09NZQQ6XX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4a33e6ecc38566c83003e9b8e789f0aa&language=en_US"
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/51QCL-8ApQL.jpg",
+          "url": "https://www.amazon.com/Swig-Life-Mega-Mug-Insulated/dp/B0D9PDMSGB?content-id=amzn1.sym.0a8559f7-1b40-48dc-ad97-6b3baa480689&pd_rd_i=B0D9PDMSGB&th=1&linkCode=sl2&tag=noya0b-20&linkId=4de64bae2b1c50ec876d5d5d1c9b45b0&language=en_US"
         },
         {
-          "asin": "B0CF2TSN5T",
-          "slug": "paper-mate-flair-nature-escape-scented-felt-tip-pens-medium",
-          "title": "Paper Mate Flair Nature Escape Scented Felt Tip Pens, Medium Point (0.7mm), Assorted Colors, 16 Count - Perfect for Jour",
-          "price": "$9",
+          "asin": "B0D3DX9KDK",
+          "slug": "6-pack-smores-sticks-for-fire-pit-32-inch-marshmallow-roasti",
+          "title": "6 pack Smores Sticks for Fire Pit, 32 Inch Marshmallow Roasting long Skewers kit for Campfire - Hot Dog Fork Portable Ex",
+          "price": "$5",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81d1bj2p62L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Paper-Mate-Nature-Scented-Assorted/dp/B0CF2TSN5T?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=96b62f2e5be63b1626b86bf524d46ac4&language=en_US"
-        },
-        {
-          "asin": "B0GWZYKZGS",
-          "slug": "avidlove-black-mesh-top-long-sleeve-mesh-undershirt-concert",
-          "title": "Avidlove Black Mesh Top Long Sleeve Mesh Undershirt Concert Outfits Women Black See Through Top Club Shirts Geometric M ",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81D4yS9VtyL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GWZYKZGS?th=1&psc=1&tag=noya0b-20"
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71f2SS4gkFL.jpg",
+          "url": "https://www.amazon.com/dp/B0D3DX9KDK?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -253,7 +256,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 100% off on \"\udecd️STANLEY Quencher H2.0 Tumbler with Handle and Straw 40 oz ...\". There are 7 deals with verified discounts today."
+          "a": "The biggest discount today is 100% off on \"\udecd️STANLEY Quencher H2.0 Tumbler with Handle and Straw 40 oz ...\". There are 8 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T22:50:01.344Z",
-      "updatedAt": "2026-06-20T22:50:01.344Z"
+      "generatedAt": "2026-06-20T23:00:02.031Z",
+      "updatedAt": "2026-06-20T23:00:02.031Z"
     },
     {
       "date": "2026-06-19",
@@ -3211,5 +3214,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T22:50:01.345Z"
+  "generatedAt": "2026-06-20T23:00:02.033Z"
 }
