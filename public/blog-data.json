@@ -9,7 +9,8 @@
         "Other",
         "Free Deal",
         "Grocery & Food",
-        "Pet Supplies"
+        "Pet Supplies",
+        "Electronics"
       ],
       "byCategory": {
         "Free Deal": [
@@ -73,6 +74,17 @@
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
           },
           {
+            "asin": "B0DQHJR1YB",
+            "slug": "rain-shower-head-with-handheld-only-47xx-on-amazon-reg-80",
+            "title": "Rain Shower Head with Handheld Only $47.xx on Amazon (Reg. $80)!\ude31",
+            "price": "$47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/814QIPBjFhL._AC_SL1493_.jpg",
+            "url": "https://www.amazon.com/High-Pressure-Rain-Shower-Built/dp/B0DQHJR1YB?th=1&linkCode=sl2&tag=noya0b-20&linkId=b3fe86e0e43ba7f0cfe6d055542394bd&language=en_US"
+          },
+          {
             "asin": "B09R82X1S5",
             "slug": "hth-pool-care-shock-advanced-12-pack-only-36xx-on-amazon-reg",
             "title": "HTH Pool Care Shock Advanced 12-Pack Only $36.xx on Amazon (Reg. $56)",
@@ -93,28 +105,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81YYStQvnsL.jpg",
             "url": "https://www.amazon.com/Love-You-Like-No-Otter/dp/1728213746?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=9046d8056ab37125a4f411c2da72c500&language=en_US"
-          },
-          {
-            "asin": "B0GYWCVX36",
-            "slug": "bestena-shapewear-shortshigh-waisted-shapewear-for-women-tum",
-            "title": "BESTENA Shapewear Shorts,High Waisted Shapewear for Women Tummy Control,Seamless Body Shaper Shorts Thigh Slimmer",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61v69tXxgyL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/BESTENA-Shapewear-Waisted-Control-Seamless/dp/B0GYWCVX36?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=cb6285868a3802138e4f71add533f599&language=en_US"
-          },
-          {
-            "asin": "1523517360",
-            "slug": "brain-quest-workbook-2nd-grade-revised-edition",
-            "title": "Brain Quest Workbook: 2nd Grade Revised Edition",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81hbl3KxMmL._SL1500_.jpg",
-            "url": "https://www.amazon.com/Brain-Quest-Workbook-Revised-Workbooks/dp/1523517360?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=3820e6b0e1a631152fe21ee0d8f6b479&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -128,6 +118,19 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81-f377eFlL.jpg",
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B08DHJX8RN",
+            "slug": "amazon-exclusive-kids-backpack-birds-compatible-with-kids-fi",
+            "title": "Amazon Exclusive Kids Backpack, Birds (Compatible with Kids Fire 7&#34;-8&#34; Tablet and Kindle Kids Edition)",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81dp3-WpuZL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08DHJX8RN?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e15dc6520d822433de21ca59094d66c&language=en_US"
           }
         ]
       },
@@ -199,6 +202,28 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "B08DHJX8RN",
+          "slug": "amazon-exclusive-kids-backpack-birds-compatible-with-kids-fi",
+          "title": "Amazon Exclusive Kids Backpack, Birds (Compatible with Kids Fire 7&#34;-8&#34; Tablet and Kindle Kids Edition)",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dp3-WpuZL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08DHJX8RN?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e15dc6520d822433de21ca59094d66c&language=en_US"
+        },
+        {
+          "asin": "B0DQHJR1YB",
+          "slug": "rain-shower-head-with-handheld-only-47xx-on-amazon-reg-80",
+          "title": "Rain Shower Head with Handheld Only $47.xx on Amazon (Reg. $80)!\ude31",
+          "price": "$47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/814QIPBjFhL._AC_SL1493_.jpg",
+          "url": "https://www.amazon.com/High-Pressure-Rain-Shower-Built/dp/B0DQHJR1YB?th=1&linkCode=sl2&tag=noya0b-20&linkId=b3fe86e0e43ba7f0cfe6d055542394bd&language=en_US"
+        },
+        {
           "asin": "B09R82X1S5",
           "slug": "hth-pool-care-shock-advanced-12-pack-only-36xx-on-amazon-reg",
           "title": "HTH Pool Care Shock Advanced 12-Pack Only $36.xx on Amazon (Reg. $56)",
@@ -219,28 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81YYStQvnsL.jpg",
           "url": "https://www.amazon.com/Love-You-Like-No-Otter/dp/1728213746?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=9046d8056ab37125a4f411c2da72c500&language=en_US"
-        },
-        {
-          "asin": "B0GYWCVX36",
-          "slug": "bestena-shapewear-shortshigh-waisted-shapewear-for-women-tum",
-          "title": "BESTENA Shapewear Shorts,High Waisted Shapewear for Women Tummy Control,Seamless Body Shaper Shorts Thigh Slimmer",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61v69tXxgyL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/BESTENA-Shapewear-Waisted-Control-Seamless/dp/B0GYWCVX36?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=cb6285868a3802138e4f71add533f599&language=en_US"
-        },
-        {
-          "asin": "1523517360",
-          "slug": "brain-quest-workbook-2nd-grade-revised-edition",
-          "title": "Brain Quest Workbook: 2nd Grade Revised Edition",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81hbl3KxMmL._SL1500_.jpg",
-          "url": "https://www.amazon.com/Brain-Quest-Workbook-Revised-Workbooks/dp/1523517360?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=3820e6b0e1a631152fe21ee0d8f6b479&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-19T23:50:01.787Z",
-      "updatedAt": "2026-06-19T23:50:01.787Z"
+      "generatedAt": "2026-06-20T00:00:02.034Z",
+      "updatedAt": "2026-06-20T00:00:02.034Z"
     },
     {
       "date": "2026-06-18",
@@ -2937,5 +2940,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-19T23:50:01.788Z"
+  "generatedAt": "2026-06-20T00:00:02.035Z"
 }
