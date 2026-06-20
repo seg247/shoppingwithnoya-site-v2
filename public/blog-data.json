@@ -4,14 +4,14 @@
       "date": "2026-06-20",
       "slug": "2026-06-20",
       "title": "🔥 Best Deals Today — June 20, 2026",
-      "intro": "Today's best online deals for Saturday, June 20, 2026 — 10 hand-picked discounts across Other, Free Deal, Electronics and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, June 20, 2026 — 10 hand-picked discounts across Other, Electronics, Free Deal and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Free Deal",
         "Electronics",
+        "Free Deal",
+        "Beauty",
         "Home & Kitchen",
-        "Garden & Outdoor",
-        "Toys & Kids"
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Free Deal": [
@@ -71,20 +71,33 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71PiDmuAQFL.jpg",
             "url": "https://www.amazon.com/Orthopedic-Removable-Washable-Waterproof-Cooling/dp/B0FP9ZYNMW?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=bbe6addcfd4232f89bb5d7b66026a420&language=en_US"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B00DFBDALC",
-            "slug": "amazoncom-shark-rocket-ultra-light-corded-stick-vacuum-clean",
-            "title": "Amazon.com - Shark Rocket Ultra-Light | Corded Stick Vacuum Cleaner for Carpet, Rugs & Hard Floors | Lightweight Hand Va",
-            "price": "$99",
+            "asin": "B0FR6T3P41",
+            "slug": "disney-stitch-unbrush-mini-dryer-travel-set-beauty-personal",
+            "title": "Disney Stitch UNbrush & Mini Dryer Travel Set : Beauty & Personal Care",
+            "price": "$18",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
+            "category": "Beauty",
             "imageUrl": null,
-            "url": "https://www.amazon.com/Shark-Ultra-Light-Cleaning-Steering-HV301/dp/B00DFBDALC?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=e6614bad988a6f9b3d74b3f4fb6d5eb0&language=en_US"
+            "url": "https://www.amazon.com/dp/B0FR6T3P41?tag=noya0b-20"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0BLBLRLJB",
+            "slug": "fire-7-kids-tablet-amazon",
+            "title": "Fire 7 Kids tablet | Amazon",
+            "price": "$54",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+qN1ewY9L.jpg",
+            "url": "https://www.amazon.com/dp/B0BLBLRLJB?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0DGHMNQ5Z",
             "slug": "apple-airpods-4-wireless-earbuds-bluetooth-headphones-person",
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71x37BT-UEL.jpg",
             "url": "https://www.amazon.com/dp/B0GKPB6KBN?th=1&tag=noya0b-20"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0FCM6S83C",
-            "slug": "stbernard-kids-first-aid-kit-edc-mini-portable-medical-kit-w",
-            "title": "StBernard Kids First Aid Kit, EDC Mini Portable Medical Kit with Cute Bandages, Tools for Children's Daily Boo-Boos, Sui",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71W76lzzxvL.jpg",
-            "url": "https://www.amazon.com/StBernard-Portable-Bandages-Childrens-Backpacking/dp/B0FCM6S83C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=1f441289ca781f92d066b8f9b3de2a8a&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -159,6 +159,28 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/7128THvfUFL.jpg",
           "url": "https://www.amazon.com/dp/B0FGGDXFK1?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6c81b9c48b880bf69574bf749686f66&language=en_US"
+        },
+        {
+          "asin": "B0FR6T3P41",
+          "slug": "disney-stitch-unbrush-mini-dryer-travel-set-beauty-personal",
+          "title": "Disney Stitch UNbrush & Mini Dryer Travel Set : Beauty & Personal Care",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FR6T3P41?tag=noya0b-20"
+        },
+        {
+          "asin": "B0BLBLRLJB",
+          "slug": "fire-7-kids-tablet-amazon",
+          "title": "Fire 7 Kids tablet | Amazon",
+          "price": "$54",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+qN1ewY9L.jpg",
+          "url": "https://www.amazon.com/dp/B0BLBLRLJB?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0DGHMNQ5Z",
@@ -225,34 +247,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/71x37BT-UEL.jpg",
           "url": "https://www.amazon.com/dp/B0GKPB6KBN?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FCM6S83C",
-          "slug": "stbernard-kids-first-aid-kit-edc-mini-portable-medical-kit-w",
-          "title": "StBernard Kids First Aid Kit, EDC Mini Portable Medical Kit with Cute Bandages, Tools for Children's Daily Boo-Boos, Sui",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/71W76lzzxvL.jpg",
-          "url": "https://www.amazon.com/StBernard-Portable-Bandages-Childrens-Backpacking/dp/B0FCM6S83C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=1f441289ca781f92d066b8f9b3de2a8a&language=en_US"
-        },
-        {
-          "asin": "B00DFBDALC",
-          "slug": "amazoncom-shark-rocket-ultra-light-corded-stick-vacuum-clean",
-          "title": "Amazon.com - Shark Rocket Ultra-Light | Corded Stick Vacuum Cleaner for Carpet, Rugs & Hard Floors | Lightweight Hand Va",
-          "price": "$99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Shark-Ultra-Light-Cleaning-Steering-HV301/dp/B00DFBDALC?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=e6614bad988a6f9b3d74b3f4fb6d5eb0&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 20, 2026?",
-          "a": "The best deals today include \"\udecd️STANLEY Quencher H2.0 Tumbler with Handle and Straw 40 oz ...\" and 9 other hand-picked discounts. Deals span Other, Free Deal, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️STANLEY Quencher H2.0 Tumbler with Handle and Straw 40 oz ...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Free Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T21:20:01.876Z",
-      "updatedAt": "2026-06-20T21:20:01.876Z"
+      "generatedAt": "2026-06-20T21:30:02.127Z",
+      "updatedAt": "2026-06-20T21:30:02.127Z"
     },
     {
       "date": "2026-06-19",
@@ -3214,5 +3214,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T21:20:01.877Z"
+  "generatedAt": "2026-06-20T21:30:02.128Z"
 }
