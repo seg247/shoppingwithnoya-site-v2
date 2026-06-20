@@ -89,6 +89,30 @@
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0CB6HDJMN",
+            "slug": "barbie-dollhouse-playset-getaway-house-with-11-accessories-i",
+            "title": "Barbie Dollhouse Playset, Getaway House with 11 Accessories Including 2 Chairs, 4 Play Areas & 360-degree Play : Toys & ",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81uBso0S3jL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CB6HDJMN?psc=1&linkCode=sl2&tag=noya0b-20&linkId=cdf482b99eb9d66e136a1df0f8d22e1f&language=en_US"
+          },
+          {
+            "asin": "B0FNKQSCC5",
+            "slug": "super7-toho-shogun-godzilla-blind-box-flat-12-pack-375-toho",
+            "title": "Super7 Toho Shogun Godzilla Blind Box Flat - (12 Pack) 3.75\" Toho Godzilla Action Figures - Classic Movie Monster Collec",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71mLFQIe6oL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FNKQSCC5/ref=cm_sw_r_as_gl_api_gl_i_NQMV3FMRABEKK3VRDX61?linkCode=ml1&tag=noya0b-20&linkId=47c1d13fadeb8b758a9ca713cb14a3f9"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B09V1T3QMN",
@@ -113,30 +137,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/71PXJJUMtNL.jpg",
             "url": "https://www.amazon.com/SmartyPants-Prenatal-Complete-Daily-Vitamins/dp/B00VFYYAC4?ie=UTF8&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&linkId=cd18562d044a1bffdcb902e7a709353f&th=1&ASIN=B00VFYYAC4&language=en_US&tag=noya0b-20&ie=UTF8"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0FNKQSCC5",
-            "slug": "super7-toho-shogun-godzilla-blind-box-flat-12-pack-375-toho",
-            "title": "Super7 Toho Shogun Godzilla Blind Box Flat - (12 Pack) 3.75\" Toho Godzilla Action Figures - Classic Movie Monster Collec",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71mLFQIe6oL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FNKQSCC5/ref=cm_sw_r_as_gl_api_gl_i_NQMV3FMRABEKK3VRDX61?linkCode=ml1&tag=noya0b-20&linkId=47c1d13fadeb8b758a9ca713cb14a3f9"
-          },
-          {
-            "asin": "B0BMFW4Q6Y",
-            "slug": "wooden-montessori-sorting-stacking-toy-for-toddlers-only-8xx",
-            "title": "Wooden Montessori Sorting & Stacking Toy for Toddlers Only $8.xx on Amazon (Reg. $15)!",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71meTCh1LTL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Montessori-Stacking-Preschool-Recognition-Educational/dp/B0BMFW4Q6Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=a2afd21f81608203a565264a47bc1f23&language=en_US"
           }
         ]
       },
@@ -208,6 +208,17 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "B0CB6HDJMN",
+          "slug": "barbie-dollhouse-playset-getaway-house-with-11-accessories-i",
+          "title": "Barbie Dollhouse Playset, Getaway House with 11 Accessories Including 2 Chairs, 4 Play Areas & 360-degree Play : Toys & ",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81uBso0S3jL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CB6HDJMN?psc=1&linkCode=sl2&tag=noya0b-20&linkId=cdf482b99eb9d66e136a1df0f8d22e1f&language=en_US"
+        },
+        {
           "asin": "B09V1T3QMN",
           "slug": "shark-air-purifier-for-home-large-room-clean-sense-technolog",
           "title": "Shark Air Purifier for Home Large Room, Clean Sense Technology, HEPA Air Filter, 1000 Sq Ft, Kitchen, Filters Smoke, Cap",
@@ -239,17 +250,6 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/71mLFQIe6oL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FNKQSCC5/ref=cm_sw_r_as_gl_api_gl_i_NQMV3FMRABEKK3VRDX61?linkCode=ml1&tag=noya0b-20&linkId=47c1d13fadeb8b758a9ca713cb14a3f9"
-        },
-        {
-          "asin": "B0BMFW4Q6Y",
-          "slug": "wooden-montessori-sorting-stacking-toy-for-toddlers-only-8xx",
-          "title": "Wooden Montessori Sorting & Stacking Toy for Toddlers Only $8.xx on Amazon (Reg. $15)!",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/71meTCh1LTL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Montessori-Stacking-Preschool-Recognition-Educational/dp/B0BMFW4Q6Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=a2afd21f81608203a565264a47bc1f23&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T00:20:01.547Z",
-      "updatedAt": "2026-06-20T00:20:01.547Z"
+      "generatedAt": "2026-06-20T00:30:01.582Z",
+      "updatedAt": "2026-06-20T00:30:01.582Z"
     },
     {
       "date": "2026-06-18",
@@ -2946,5 +2946,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T00:20:01.549Z"
+  "generatedAt": "2026-06-20T00:30:01.584Z"
 }
