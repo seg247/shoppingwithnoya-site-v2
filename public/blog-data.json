@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Free Deal",
-        "Grocery & Food",
-        "Fashion"
+        "Beauty",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Free Deal": [
@@ -26,7 +26,42 @@
             "url": "https://www.amazon.com/dp/B0CRMYHY1B?th=1&linkCode=sl2&tag=noya0b-20&linkId=09d3c181e07c40d433141b0a2866289a&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B005T2SU92",
+            "slug": "victorias-secret-body-fragrance-mist-amber-romance-84-fl-oz",
+            "title": "\udecd️Victoria's Secret Body Fragrance Mist, Amber Romance - 8.4 fl oz",
+            "price": "$19.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PtuJmhvPL.jpg",
+            "url": "https://www.amazon.com/dp/B005T2SU92?social_share=cm_sw_r_cso_tg_apin_dp_7RFPMFP7M3JRWKXMWTNS&th=1&linkCode=sl2&tag=noya0b-20&linkId=c51cf4425ebfe8df71a4252bf77aa86e&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0B3256H88",
+            "slug": "cantu-moisturizing-curl-activator-cream-for-natural-hair-wit",
+            "title": "\udecd️Cantu Moisturizing Curl Activator Cream for Natural Hair with Pure Shea Butter, 12 fl oz (Pack of 2)",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71QBFmUNGNL.jpg",
+            "url": "https://www.amazon.com/Cantu-Moisturizing-Activator-Natural-Packaging/dp/B0B3256H88?content-id=amzn1.sym.657ef1e8-aef1-4fea-8703-8be46e27259a&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl2&tag=noya0b-20&linkId=0177618467f68349ac28ba802fbdabc7&language=en_US"
+          },
+          {
+            "asin": "B00070QEBC",
+            "slug": "speedo-unisex-adult-swim-cap-silicone",
+            "title": "\udecd️Speedo Unisex-Adult Swim Cap Silicone",
+            "price": "$18.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51cgEl514EL.jpg",
+            "url": "https://www.amazon.com/dp/B00070QEBC?th=1&linkCode=sl2&tag=noya0b-20&linkId=00ef5955576fda2b6af97b75d95b048c&language=en_US"
+          },
           {
             "asin": "B0GCBTK3ST",
             "slug": "stanley-all-day-slim-bottle-20-oz-twist-on-lid-with-leakproo",
@@ -48,42 +83,33 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71DVEDSQaiL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0856N8NV6?linkCode=sl2&tag=noya0b-20&linkId=a8e715165514336797212dbdce6adac3&language=en_US"
-          },
+          }
+        ],
+        "Toys & Kids": [
           {
-            "asin": "B0FN3VV397",
-            "slug": "ahfulife-brazil-flag-set-includes-1-pc-3x5-ft-brazilian-flag",
-            "title": "\udecd️AhfuLife Brazil Flag Set, Includes 1 Pc 3x5 Ft Brazilian Flag, 1 Brazil String Banner with 30 Pcs Small Flags, 12 Pcs ",
-            "price": "$14.99",
+            "asin": "B0DLKQJFKW",
+            "slug": "sloosh-pool-toys-games-set-pong-toss-game-water-toys-for-adu",
+            "title": "\udecd️SLOOSH Pool Toys Games Set - Pong Toss Game Water Toys for Adults Kids Family Games, Inflatable Floats Lounge Raft Flo",
+            "price": "$39.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Q8u67LXOL.jpg",
-            "url": "https://www.amazon.com/dp/B0FN3VV397?linkCode=sl2&tag=noya0b-20&linkId=d1c0dfb6c562342823ce3095f06174e8&language=en_US"
-          },
-          {
-            "asin": "B0067OT3HY",
-            "slug": "silicon-mix-liso-sedoso-intensive-leave-in-8-oz",
-            "title": "\udecd️Silicon Mix Liso Sedoso intensive leave-in 8 Oz",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GehZg3t7L.jpg",
-            "url": "https://www.amazon.com/dp/B0067OT3HY?social_share=cm_sw_r_cso_tg_apin_dp_623SD93PTDSNWT7792PN&rsd=FAZmnkGtOo7BveLC3RVNHYWa4JhJEN%2F6I6x5asHAzRA8XVqa6O8iQpJSM7kiyuuqyCIjWDcGZ1D7zJNxewIU5RVtEG1EDL5rgox3f4gPh7tEyE2qonz%2F&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFLBHKvDAfGGiwJhfqMDZ5NAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSCrwpjO%2Fv%2FJotHGpAgEQgDsXr6uggorZFjhnTRn419BDQZ974Rvmh9UdEptwLqW3zTw%2BdWZsIdtNipo6jRQ5OVqJisnPfFYylmsnPg%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d33b9b8d7abc6d563014c94e8e2987bf&language=en_US"
-          },
-          {
-            "asin": "B09R824NVT",
-            "slug": "hth-42049-pool-care-1-chlorine-tabs-swimming-pool-sanitizer",
-            "title": "\udecd️HTH 42049 Pool Care 1\" Chlorine Tabs, Swimming Pool Sanitizer with Added Clarifier - Eliminates Bacteria & Algae, Make",
-            "price": "$24.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/617GjCxM-rL.jpg",
-            "url": "https://www.amazon.com/dp/B09R824NVT?th=1&linkCode=sl2&tag=noya0b-20&linkId=8dbcbd6eda3fcd4e48590dbb7d5cd449&language=en_US"
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DLKQJFKW?linkCode=sl2&tag=noya0b-20&linkId=a6665b162e43bc3bac0b6cb68fd17ca4&language=en_US"
           }
         ],
         "Home & Kitchen": [
+          {
+            "asin": "B0G3X3ZSK4",
+            "slug": "dumos-40-inch-electric-standing-desk-height-adjustable-sit-t",
+            "title": "DUMOS 40 Inch Electric Standing Desk Height Adjustable, Sit to Stand Up Computer Workstations Work PC Table Home Office ",
+            "price": "$65",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61+zEkYPikL.jpg",
+            "url": "https://www.amazon.com/dp/B0G3X3ZSK4?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0FGXR2KCM",
             "slug": "3-piece-organic-bamboo-cutting-board-set-for-kitchen-carboni",
@@ -106,32 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71F6LsygFSL.jpg",
             "url": "https://www.amazon.com/dp/B0DQH6TLFT?th=1&linkCode=sl2&tag=noya0b-20&linkId=560fd89ff4d23b812f1704f59dd287c8&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B07X264CSK",
-            "slug": "amazon-grocery-vanilla-sandwich-cookies-143-oz",
-            "title": "Amazon Grocery, Vanilla Sandwich Cookies, 14.3 Oz",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/712shHNyYIL.jpg",
-            "url": "https://www.amazon.com/dp/B07X264CSK?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=a483c3246ccc11f18de046b7b71a05020INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=caba465f96f6671e176efd00edef64b5&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0C65GYMMR",
-            "slug": "skechers-womens-max-cushioning-elite-20-sneaker-navyteal-9",
-            "title": "\udecd️Skechers Women's Max Cushioning Elite 2.0 Sneaker, Navy/Teal, 9",
-            "price": "$77.28",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81J29UFO8jL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C65GYMMR?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7abbbbb84e41697624cbce6bc1efeb64&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -145,6 +145,61 @@
           "category": "Free Deal",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CRMYHY1B?th=1&linkCode=sl2&tag=noya0b-20&linkId=09d3c181e07c40d433141b0a2866289a&language=en_US"
+        },
+        {
+          "asin": "B005T2SU92",
+          "slug": "victorias-secret-body-fragrance-mist-amber-romance-84-fl-oz",
+          "title": "\udecd️Victoria's Secret Body Fragrance Mist, Amber Romance - 8.4 fl oz",
+          "price": "$19.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71PtuJmhvPL.jpg",
+          "url": "https://www.amazon.com/dp/B005T2SU92?social_share=cm_sw_r_cso_tg_apin_dp_7RFPMFP7M3JRWKXMWTNS&th=1&linkCode=sl2&tag=noya0b-20&linkId=c51cf4425ebfe8df71a4252bf77aa86e&language=en_US"
+        },
+        {
+          "asin": "B0B3256H88",
+          "slug": "cantu-moisturizing-curl-activator-cream-for-natural-hair-wit",
+          "title": "\udecd️Cantu Moisturizing Curl Activator Cream for Natural Hair with Pure Shea Butter, 12 fl oz (Pack of 2)",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QBFmUNGNL.jpg",
+          "url": "https://www.amazon.com/Cantu-Moisturizing-Activator-Natural-Packaging/dp/B0B3256H88?content-id=amzn1.sym.657ef1e8-aef1-4fea-8703-8be46e27259a&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl2&tag=noya0b-20&linkId=0177618467f68349ac28ba802fbdabc7&language=en_US"
+        },
+        {
+          "asin": "B00070QEBC",
+          "slug": "speedo-unisex-adult-swim-cap-silicone",
+          "title": "\udecd️Speedo Unisex-Adult Swim Cap Silicone",
+          "price": "$18.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51cgEl514EL.jpg",
+          "url": "https://www.amazon.com/dp/B00070QEBC?th=1&linkCode=sl2&tag=noya0b-20&linkId=00ef5955576fda2b6af97b75d95b048c&language=en_US"
+        },
+        {
+          "asin": "B0DLKQJFKW",
+          "slug": "sloosh-pool-toys-games-set-pong-toss-game-water-toys-for-adu",
+          "title": "\udecd️SLOOSH Pool Toys Games Set - Pong Toss Game Water Toys for Adults Kids Family Games, Inflatable Floats Lounge Raft Flo",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DLKQJFKW?linkCode=sl2&tag=noya0b-20&linkId=a6665b162e43bc3bac0b6cb68fd17ca4&language=en_US"
+        },
+        {
+          "asin": "B0G3X3ZSK4",
+          "slug": "dumos-40-inch-electric-standing-desk-height-adjustable-sit-t",
+          "title": "DUMOS 40 Inch Electric Standing Desk Height Adjustable, Sit to Stand Up Computer Workstations Work PC Table Home Office ",
+          "price": "$65",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+zEkYPikL.jpg",
+          "url": "https://www.amazon.com/dp/B0G3X3ZSK4?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0GCBTK3ST",
@@ -189,61 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71DVEDSQaiL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0856N8NV6?linkCode=sl2&tag=noya0b-20&linkId=a8e715165514336797212dbdce6adac3&language=en_US"
-        },
-        {
-          "asin": "B0FN3VV397",
-          "slug": "ahfulife-brazil-flag-set-includes-1-pc-3x5-ft-brazilian-flag",
-          "title": "\udecd️AhfuLife Brazil Flag Set, Includes 1 Pc 3x5 Ft Brazilian Flag, 1 Brazil String Banner with 30 Pcs Small Flags, 12 Pcs ",
-          "price": "$14.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Q8u67LXOL.jpg",
-          "url": "https://www.amazon.com/dp/B0FN3VV397?linkCode=sl2&tag=noya0b-20&linkId=d1c0dfb6c562342823ce3095f06174e8&language=en_US"
-        },
-        {
-          "asin": "B0067OT3HY",
-          "slug": "silicon-mix-liso-sedoso-intensive-leave-in-8-oz",
-          "title": "\udecd️Silicon Mix Liso Sedoso intensive leave-in 8 Oz",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GehZg3t7L.jpg",
-          "url": "https://www.amazon.com/dp/B0067OT3HY?social_share=cm_sw_r_cso_tg_apin_dp_623SD93PTDSNWT7792PN&rsd=FAZmnkGtOo7BveLC3RVNHYWa4JhJEN%2F6I6x5asHAzRA8XVqa6O8iQpJSM7kiyuuqyCIjWDcGZ1D7zJNxewIU5RVtEG1EDL5rgox3f4gPh7tEyE2qonz%2F&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFLBHKvDAfGGiwJhfqMDZ5NAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSCrwpjO%2Fv%2FJotHGpAgEQgDsXr6uggorZFjhnTRn419BDQZ974Rvmh9UdEptwLqW3zTw%2BdWZsIdtNipo6jRQ5OVqJisnPfFYylmsnPg%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d33b9b8d7abc6d563014c94e8e2987bf&language=en_US"
-        },
-        {
-          "asin": "B07X264CSK",
-          "slug": "amazon-grocery-vanilla-sandwich-cookies-143-oz",
-          "title": "Amazon Grocery, Vanilla Sandwich Cookies, 14.3 Oz",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/712shHNyYIL.jpg",
-          "url": "https://www.amazon.com/dp/B07X264CSK?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=a483c3246ccc11f18de046b7b71a05020INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=caba465f96f6671e176efd00edef64b5&language=en_US"
-        },
-        {
-          "asin": "B0C65GYMMR",
-          "slug": "skechers-womens-max-cushioning-elite-20-sneaker-navyteal-9",
-          "title": "\udecd️Skechers Women's Max Cushioning Elite 2.0 Sneaker, Navy/Teal, 9",
-          "price": "$77.28",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81J29UFO8jL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C65GYMMR?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7abbbbb84e41697624cbce6bc1efeb64&language=en_US"
-        },
-        {
-          "asin": "B09R824NVT",
-          "slug": "hth-42049-pool-care-1-chlorine-tabs-swimming-pool-sanitizer",
-          "title": "\udecd️HTH 42049 Pool Care 1\" Chlorine Tabs, Swimming Pool Sanitizer with Added Clarifier - Eliminates Bacteria & Algae, Make",
-          "price": "$24.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/617GjCxM-rL.jpg",
-          "url": "https://www.amazon.com/dp/B09R824NVT?th=1&linkCode=sl2&tag=noya0b-20&linkId=8dbcbd6eda3fcd4e48590dbb7d5cd449&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T17:40:01.763Z",
-      "updatedAt": "2026-06-20T17:40:01.763Z"
+      "generatedAt": "2026-06-20T17:50:01.802Z",
+      "updatedAt": "2026-06-20T17:50:01.802Z"
     },
     {
       "date": "2026-06-19",
@@ -3211,5 +3211,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T17:40:01.764Z"
+  "generatedAt": "2026-06-20T17:50:01.803Z"
 }
