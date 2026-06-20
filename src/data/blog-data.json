@@ -9,10 +9,33 @@
         "Other",
         "Grocery & Food",
         "Garden & Outdoor",
-        "Gaming",
-        "Books & Media"
+        "Gaming"
       ],
       "byCategory": {
+        "Garden & Outdoor": [
+          {
+            "asin": "B0DWZQNNMR",
+            "slug": "lawn-leveling-rake-44x10-inch-heavy-duty-lawn-leveler-tool-w",
+            "title": "Lawn Leveling Rake 44x10 inch, Heavy Duty Lawn Leveler Tool with 77” Adjustable Long Handle, Powder-Coat Steel Garden Ra",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HkLownUeL._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B0DWZQNNMR/ref=cm_sw_r_as_gl_api_gl_i_ER9WNZKS3VVVT96K6YTX?linkCode=ml1&tag=noya0b-20&linkId=68a064731d496d8c15838635d56c61f2"
+          },
+          {
+            "asin": "B08J3ZQHCL",
+            "slug": "rubbermaid-7-foot-by-7-foot-weatherproof-outdoor-storage-she",
+            "title": "Rubbermaid 7 Foot by 7 Foot Weatherproof Outdoor Storage Shed for Garden Tools and Lawn Machinery Organization with Lock",
+            "price": "$727",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71o83g5PxlL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08J3ZQHCL/ref=cm_sw_r_as_gl_api_gl_i_dl_M9YFG7448WJVSRP7CH11?linkCode=ml1&tag=noya0b-20&linkId=80532e283f2022e97d7ed68e24ed853e"
+          }
+        ],
         "Other": [
           {
             "asin": "B08GR54V58",
@@ -57,19 +80,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71XE0WNRryL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B012CG8N26/ref=cm_sw_r_as_gl_api_gl_i_dl_FHMFGNTES7VD505R9JN3?linkCode=ml1&tag=noya0b-20&linkId=54b4713b4f850f17f4ad613ac2d1c28b"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B08J3ZQHCL",
-            "slug": "rubbermaid-7-foot-by-7-foot-weatherproof-outdoor-storage-she",
-            "title": "Rubbermaid 7 Foot by 7 Foot Weatherproof Outdoor Storage Shed for Garden Tools and Lawn Machinery Organization with Lock",
-            "price": "$727",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71o83g5PxlL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08J3ZQHCL/ref=cm_sw_r_as_gl_api_gl_i_dl_M9YFG7448WJVSRP7CH11?linkCode=ml1&tag=noya0b-20&linkId=80532e283f2022e97d7ed68e24ed853e"
           }
         ],
         "Grocery & Food": [
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61LSrri-C5L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0C4CDZ818/ref=cm_sw_r_as_gl_api_gl_i_dl_0N8E8ESRYQSJ34VJVBPK?linkCode=ml1&tag=noya0b-20&linkId=4d2adb393bdf0647977a0f304ab692d7"
           }
-        ],
-        "Books & Media": [
-          {
-            "asin": "B0B2G4HKSH",
-            "slug": "nelson-line-modern-cartoon-collection-assorted-card-box-8-bl",
-            "title": "Nelson Line Modern Cartoon Collection Assorted Card Box | 8 Blank Cards & Envelopes | Birthday & Everyday Greeting Cards",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Books & Media",
-            "imageUrl": "https://m.media-amazon.com/images/I/81PGa8DeOoL.jpg",
-            "url": "https://www.amazon.com/dp/B0B2G4HKSH/ref=cm_sw_r_as_gl_api_gl_i_JN421474JPD7YR7DGZ9C?linkCode=ml1&tag=noya0b-20&linkId=bbad64581c91c3a80236b8591a294d4f"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DWZQNNMR",
+          "slug": "lawn-leveling-rake-44x10-inch-heavy-duty-lawn-leveler-tool-w",
+          "title": "Lawn Leveling Rake 44x10 inch, Heavy Duty Lawn Leveler Tool with 77” Adjustable Long Handle, Powder-Coat Steel Garden Ra",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HkLownUeL._AC_SL1200_.jpg",
+          "url": "https://www.amazon.com/dp/B0DWZQNNMR/ref=cm_sw_r_as_gl_api_gl_i_ER9WNZKS3VVVT96K6YTX?linkCode=ml1&tag=noya0b-20&linkId=68a064731d496d8c15838635d56c61f2"
+        },
         {
           "asin": "B08GR54V58",
           "slug": "arctic-mx-4-4-g-incl-spatula-thermal-paste",
@@ -233,23 +241,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/915MRU3i6+L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GFGJ6QH3/ref=cm_sw_r_as_gl_api_gl_i_7FH1Z9N6QFQN5ZVT4RKE?linkCode=ml1&tag=noya0b-20&linkId=463ffd8b13521a0832f1941a98e8d5cc"
-        },
-        {
-          "asin": "B0B2G4HKSH",
-          "slug": "nelson-line-modern-cartoon-collection-assorted-card-box-8-bl",
-          "title": "Nelson Line Modern Cartoon Collection Assorted Card Box | 8 Blank Cards & Envelopes | Birthday & Everyday Greeting Cards",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Books & Media",
-          "imageUrl": "https://m.media-amazon.com/images/I/81PGa8DeOoL.jpg",
-          "url": "https://www.amazon.com/dp/B0B2G4HKSH/ref=cm_sw_r_as_gl_api_gl_i_JN421474JPD7YR7DGZ9C?linkCode=ml1&tag=noya0b-20&linkId=bbad64581c91c3a80236b8591a294d4f"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 20, 2026?",
-          "a": "The best deals today include \"ARCTIC MX-4 (4 g incl. Spatula) Thermal Paste...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Lawn Leveling Rake 44x10 inch, Heavy Duty Lawn Leveler Tool ...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T11:50:01.531Z",
-      "updatedAt": "2026-06-20T11:50:01.532Z"
+      "generatedAt": "2026-06-20T12:00:02.049Z",
+      "updatedAt": "2026-06-20T12:00:02.049Z"
     },
     {
       "date": "2026-06-19",
@@ -3211,5 +3208,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T11:50:01.533Z"
+  "generatedAt": "2026-06-20T12:00:02.050Z"
 }
