@@ -10,8 +10,7 @@
         "Free Deal",
         "Grocery & Food",
         "Pet Supplies",
-        "Personal Care",
-        "Electronics",
+        "Beauty",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -50,6 +49,17 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71gPwqQICEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08CPYMBJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=3fd65109a0738fccc91082c0677a3487&language=en_US"
+          },
+          {
+            "asin": "B083WP5WY5",
+            "slug": "aw-root-beer-powder-drink-mix-12-boxes-72-sticks-sugar-free",
+            "title": "A&W, Root Beer – Powder Drink Mix - (12 boxes, 72 sticks) – Sugar Free & Delicious, Makes 72 flavored water beverages : ",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81aKsn10+DL.jpg",
+            "url": "https://www.amazon.com/dp/B083WP5WY5/ref=cm_sw_r_as_gl_apa_gl_i_GCYCWE0FTEEDX6CVRCHK?linkCode=ml1&tag=noya0b-20&linkId=bfd3863daac94c6ca14ccec91af88200"
           }
         ],
         "Other": [
@@ -76,15 +86,15 @@
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
           },
           {
-            "asin": "B0G71FY5NZ",
-            "slug": "flusing-2-person-inflatable-pool-float-adult87-x-44-extra-la",
-            "title": "FluSing 2 Person Inflatable Pool Float Adult,87” x 44” Extra Large Inflatable Tanning Pool Lounger Float with Cup & Phon",
-            "price": "$28",
+            "asin": "B0DSCG19SQ",
+            "slug": "spin-master-games-just-the-tip-explore-the-depths-of-your-fr",
+            "title": "Spin Master Games, Just the Tip – Explore the Depths of Your Friendships with Hilarious Questions, Party Game, Adult Car",
+            "price": "$3",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81+XqLtU+5L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G71FY5NZ?tag=noya0b-20"
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DSCG19SQ/ref=cm_sw_r_as_gl_apa_gl_i_CF69K18KFE41FH0BQ9ZX?linkCode=ml1&tag=noya0b-20&linkId=1c64b4296d2b2ba39c0a214901865055"
           }
         ],
         "Pet Supplies": [
@@ -100,43 +110,30 @@
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
           }
         ],
-        "Personal Care": [
+        "Beauty": [
           {
-            "asin": "B0H2ZJFN9G",
-            "slug": "ultra-slim-bidet-attachment-posteriorfeminine-wash-retractab",
-            "title": "Ultra-Slim Bidet Attachment, Posterior&Feminine Wash-(Retractable Dual Nozzles), Non-Electric Bidet Attachment for Toile",
-            "price": "$29",
+            "asin": "B0BBBSMV94",
+            "slug": "native-coconut-vanilla-shampoo-and-conditioner-contain-natur",
+            "title": "Native Coconut & Vanilla Shampoo and Conditioner Contain Naturally Derived Ingredients | All Hair Types, Color & Treated",
+            "price": "$13",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51k8GNYz6iL._AC_SL1447_.jpg",
-            "url": "https://www.amazon.com/dp/B0H2ZJFN9G/ref=cm_sw_r_as_gl_apa_gl_i_dl_BJ7Y5FF89H4B2FM11AST?linkCode=ml1&tag=noya0b-20&linkId=1acd789e481b561f7a42f7c6cf58ff2c"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0CSDS34CQ",
-            "slug": "shark-flexbreeze-fan-indoor-outdoor-oscillating-cooling-fan",
-            "title": "Shark FlexBreeze Fan, Indoor & Outdoor Oscillating Cooling Fan, Floor & Tabletop, Portable Cordless & Corded, Bedroom, O",
-            "price": "$119.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Vx1SI3FWL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CSDS34CQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0BBBSMV94/ref=cm_sw_r_as_gl_apa_gl_i_dl_1GXYMTH1N9M5NBCZT2CG?linkCode=ml1&tag=noya0b-20&linkId=3ba3820bbe473d163883d59f9a78ef99"
           }
         ],
         "Home & Kitchen": [
           {
-            "asin": "B071H85712",
-            "slug": "melissa-doug-wooden-childs-lift-top-desk-chair-white-play-de",
-            "title": "Melissa & Doug Wooden Child's Lift-Top Desk & Chair - White Play Desk and Chair Set for Toddlers and Kids Ages 3+",
-            "price": "$78",
+            "asin": "B0CQM95HJB",
+            "slug": "cook-with-color-mixing-bowls-with-lids",
+            "title": "COOK WITH COLOR Mixing Bowls with Lids",
+            "price": "$24",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51lvszsxO3L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B071H85712/ref=cm_sw_r_as_gl_apa_gl_i_GQWAKD7A22W2C255XEMN?linkCode=ml1&tag=noya0b-20&linkId=67083ae0aded78ecdcc70b7f90e8a45a"
+            "imageUrl": "https://m.media-amazon.com/images/I/71QMir5kznL.jpg",
+            "url": "https://www.amazon.com/dp/B0CQM95HJB?th=1&linkCode=sl2&tag=noya0b-20&linkId=3f4fa06041c844358fb5761a20932516&language=en_US"
           }
         ]
       },
@@ -208,48 +205,48 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
-          "asin": "B0H2ZJFN9G",
-          "slug": "ultra-slim-bidet-attachment-posteriorfeminine-wash-retractab",
-          "title": "Ultra-Slim Bidet Attachment, Posterior&Feminine Wash-(Retractable Dual Nozzles), Non-Electric Bidet Attachment for Toile",
-          "price": "$29",
+          "asin": "B0BBBSMV94",
+          "slug": "native-coconut-vanilla-shampoo-and-conditioner-contain-natur",
+          "title": "Native Coconut & Vanilla Shampoo and Conditioner Contain Naturally Derived Ingredients | All Hair Types, Color & Treated",
+          "price": "$13",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/51k8GNYz6iL._AC_SL1447_.jpg",
-          "url": "https://www.amazon.com/dp/B0H2ZJFN9G/ref=cm_sw_r_as_gl_apa_gl_i_dl_BJ7Y5FF89H4B2FM11AST?linkCode=ml1&tag=noya0b-20&linkId=1acd789e481b561f7a42f7c6cf58ff2c"
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0BBBSMV94/ref=cm_sw_r_as_gl_apa_gl_i_dl_1GXYMTH1N9M5NBCZT2CG?linkCode=ml1&tag=noya0b-20&linkId=3ba3820bbe473d163883d59f9a78ef99"
         },
         {
-          "asin": "B0G71FY5NZ",
-          "slug": "flusing-2-person-inflatable-pool-float-adult87-x-44-extra-la",
-          "title": "FluSing 2 Person Inflatable Pool Float Adult,87” x 44” Extra Large Inflatable Tanning Pool Lounger Float with Cup & Phon",
-          "price": "$28",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81+XqLtU+5L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G71FY5NZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CSDS34CQ",
-          "slug": "shark-flexbreeze-fan-indoor-outdoor-oscillating-cooling-fan",
-          "title": "Shark FlexBreeze Fan, Indoor & Outdoor Oscillating Cooling Fan, Floor & Tabletop, Portable Cordless & Corded, Bedroom, O",
-          "price": "$119.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Vx1SI3FWL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CSDS34CQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B071H85712",
-          "slug": "melissa-doug-wooden-childs-lift-top-desk-chair-white-play-de",
-          "title": "Melissa & Doug Wooden Child's Lift-Top Desk & Chair - White Play Desk and Chair Set for Toddlers and Kids Ages 3+",
-          "price": "$78",
+          "asin": "B0CQM95HJB",
+          "slug": "cook-with-color-mixing-bowls-with-lids",
+          "title": "COOK WITH COLOR Mixing Bowls with Lids",
+          "price": "$24",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51lvszsxO3L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B071H85712/ref=cm_sw_r_as_gl_apa_gl_i_GQWAKD7A22W2C255XEMN?linkCode=ml1&tag=noya0b-20&linkId=67083ae0aded78ecdcc70b7f90e8a45a"
+          "imageUrl": "https://m.media-amazon.com/images/I/71QMir5kznL.jpg",
+          "url": "https://www.amazon.com/dp/B0CQM95HJB?th=1&linkCode=sl2&tag=noya0b-20&linkId=3f4fa06041c844358fb5761a20932516&language=en_US"
+        },
+        {
+          "asin": "B083WP5WY5",
+          "slug": "aw-root-beer-powder-drink-mix-12-boxes-72-sticks-sugar-free",
+          "title": "A&W, Root Beer – Powder Drink Mix - (12 boxes, 72 sticks) – Sugar Free & Delicious, Makes 72 flavored water beverages : ",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81aKsn10+DL.jpg",
+          "url": "https://www.amazon.com/dp/B083WP5WY5/ref=cm_sw_r_as_gl_apa_gl_i_GCYCWE0FTEEDX6CVRCHK?linkCode=ml1&tag=noya0b-20&linkId=bfd3863daac94c6ca14ccec91af88200"
+        },
+        {
+          "asin": "B0DSCG19SQ",
+          "slug": "spin-master-games-just-the-tip-explore-the-depths-of-your-fr",
+          "title": "Spin Master Games, Just the Tip – Explore the Depths of Your Friendships with Hilarious Questions, Party Game, Adult Car",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DSCG19SQ/ref=cm_sw_r_as_gl_apa_gl_i_CF69K18KFE41FH0BQ9ZX?linkCode=ml1&tag=noya0b-20&linkId=1c64b4296d2b2ba39c0a214901865055"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T03:10:01.239Z",
-      "updatedAt": "2026-06-20T03:10:01.239Z"
+      "generatedAt": "2026-06-20T03:20:01.997Z",
+      "updatedAt": "2026-06-20T03:20:01.998Z"
     },
     {
       "date": "2026-06-18",
@@ -2946,5 +2943,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T03:10:01.241Z"
+  "generatedAt": "2026-06-20T03:20:02.001Z"
 }
