@@ -10,9 +10,8 @@
         "Free Deal",
         "Grocery & Food",
         "Pet Supplies",
-        "Sports & Fitness",
-        "Home & Kitchen",
-        "Fashion"
+        "Electronics",
+        "Sports & Fitness"
       ],
       "byCategory": {
         "Free Deal": [
@@ -50,6 +49,17 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71gPwqQICEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08CPYMBJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=3fd65109a0738fccc91082c0677a3487&language=en_US"
+          },
+          {
+            "asin": "B0GWKQ52V2",
+            "slug": "-11xx-parkling-ice-lifesavers-variety-pack-flavored-sparklin",
+            "title": "\udf6c $11.xx parkling Ice, LifeSavers Variety Pack, Flavored Sparkling Water 12 Pack!",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81azZzV-KXL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GWKQ52V2?th=1&linkCode=sl2&tag=noya0b-20&linkId=4860486b176290d892028636347b2ca0&language=en_US"
           }
         ],
         "Other": [
@@ -76,15 +86,15 @@
             "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
           },
           {
-            "asin": "B0BMQB4XXS",
-            "slug": "amazon-basics-satin-scrunchies-no-crease-no-damage-hair-ties",
-            "title": "Amazon Basics Satin Scrunchies – No Crease, No Damage Hair Ties – Frizz Free, Gentle, Stylish Scrunchies. Black, 8 Count",
-            "price": "$5.18",
+            "asin": "1647397197",
+            "slug": "the-5-minute-gratitude-journal-give-thanks-practice-positivi",
+            "title": "The 5-Minute Gratitude Journal: Give Thanks, Practice Positivity, Find Joy",
+            "price": "$7",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HcI8FN3bL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BMQB4XXS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/61AGaqII5eL._SL1500_.jpg",
+            "url": "https://www.amazon.com/5-Minute-Gratitude-Journal-Practice-Positivity/dp/1647397197?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=e97093bf94b9a5672551d8f91bad2a81&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -100,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0CFX8T281",
+            "slug": "arlo-essential-security-cameras-wireless-outdoor-2k-2nd-gen",
+            "title": "Arlo Essential Security Cameras Wireless Outdoor 2K (2nd Gen, 2023 Release) - Battery Power, Person Recognition, Package",
+            "price": "$59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ryyyl34OL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CFX8T281?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c57285e92c0b9a0592ec91af7dff21cb&language=en_US"
+          }
+        ],
         "Sports & Fitness": [
           {
             "asin": "B083R4RDGF",
@@ -111,32 +134,6 @@
             "category": "Sports & Fitness",
             "imageUrl": "https://m.media-amazon.com/images/I/71B5OR6KU+L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B083R4RDGF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0BMK56P9D",
-            "slug": "kitchenaid-quilted-cotton-terry-cloth-oven-mitt-pot-holder-k",
-            "title": "KitchenAid Quilted Cotton Terry Cloth Oven Mitt, Pot Holder, Kitchen Towel 4-Pack Set, Heat Resistant, Silicone Grip, Gi",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SQ8DZEQWL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/KitchenAid-Onion-Quilt-Kitchen-Potholder/dp/B0BMK56P9D?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4aef0088c594b651211ac643e24403a2&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CVYGNHDZ",
-            "slug": "rainbow-loom-wrap-it-loom-bracelet-maker-diy-friendship-stri",
-            "title": "Rainbow Loom: Wrap it Loom Bracelet Maker - DIY Friendship String Bracelet Kit, 600 Beads, 4 Bracelet Styles, Jewelry Cr",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Q6v2lyO3L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Rainbow-Loom-Bracelet-Friendship-Crafting/dp/B0CVYGNHDZ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=9e377b8af01153e1ace25de15e0d055f&language=en_US"
           }
         ]
       },
@@ -208,6 +205,39 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "1647397197",
+          "slug": "the-5-minute-gratitude-journal-give-thanks-practice-positivi",
+          "title": "The 5-Minute Gratitude Journal: Give Thanks, Practice Positivity, Find Joy",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61AGaqII5eL._SL1500_.jpg",
+          "url": "https://www.amazon.com/5-Minute-Gratitude-Journal-Practice-Positivity/dp/1647397197?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=e97093bf94b9a5672551d8f91bad2a81&language=en_US"
+        },
+        {
+          "asin": "B0CFX8T281",
+          "slug": "arlo-essential-security-cameras-wireless-outdoor-2k-2nd-gen",
+          "title": "Arlo Essential Security Cameras Wireless Outdoor 2K (2nd Gen, 2023 Release) - Battery Power, Person Recognition, Package",
+          "price": "$59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ryyyl34OL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CFX8T281?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c57285e92c0b9a0592ec91af7dff21cb&language=en_US"
+        },
+        {
+          "asin": "B0GWKQ52V2",
+          "slug": "-11xx-parkling-ice-lifesavers-variety-pack-flavored-sparklin",
+          "title": "\udf6c $11.xx parkling Ice, LifeSavers Variety Pack, Flavored Sparkling Water 12 Pack!",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81azZzV-KXL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GWKQ52V2?th=1&linkCode=sl2&tag=noya0b-20&linkId=4860486b176290d892028636347b2ca0&language=en_US"
+        },
+        {
           "asin": "B083R4RDGF",
           "slug": "cap-barbell-olympic-trap-bar-and-shrug-bar-for-deadlifts",
           "title": "CAP Barbell Olympic Trap Bar and Shrug Bar for Deadlifts",
@@ -217,39 +247,6 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/71B5OR6KU+L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B083R4RDGF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0BMK56P9D",
-          "slug": "kitchenaid-quilted-cotton-terry-cloth-oven-mitt-pot-holder-k",
-          "title": "KitchenAid Quilted Cotton Terry Cloth Oven Mitt, Pot Holder, Kitchen Towel 4-Pack Set, Heat Resistant, Silicone Grip, Gi",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61SQ8DZEQWL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/KitchenAid-Onion-Quilt-Kitchen-Potholder/dp/B0BMK56P9D?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4aef0088c594b651211ac643e24403a2&language=en_US"
-        },
-        {
-          "asin": "B0CVYGNHDZ",
-          "slug": "rainbow-loom-wrap-it-loom-bracelet-maker-diy-friendship-stri",
-          "title": "Rainbow Loom: Wrap it Loom Bracelet Maker - DIY Friendship String Bracelet Kit, 600 Beads, 4 Bracelet Styles, Jewelry Cr",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Q6v2lyO3L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Rainbow-Loom-Bracelet-Friendship-Crafting/dp/B0CVYGNHDZ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=9e377b8af01153e1ace25de15e0d055f&language=en_US"
-        },
-        {
-          "asin": "B0BMQB4XXS",
-          "slug": "amazon-basics-satin-scrunchies-no-crease-no-damage-hair-ties",
-          "title": "Amazon Basics Satin Scrunchies – No Crease, No Damage Hair Ties – Frizz Free, Gentle, Stylish Scrunchies. Black, 8 Count",
-          "price": "$5.18",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71HcI8FN3bL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BMQB4XXS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T01:00:01.359Z",
-      "updatedAt": "2026-06-20T01:00:01.359Z"
+      "generatedAt": "2026-06-20T01:10:01.568Z",
+      "updatedAt": "2026-06-20T01:10:01.568Z"
     },
     {
       "date": "2026-06-18",
@@ -2946,5 +2943,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T01:00:01.361Z"
+  "generatedAt": "2026-06-20T01:10:01.569Z"
 }
