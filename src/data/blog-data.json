@@ -9,12 +9,80 @@
         "Other",
         "Grocery & Food",
         "Electronics",
-        "Beauty",
-        "Sports & Fitness",
-        "Garden & Outdoor"
+        "Beauty"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0812HZGGZ",
+            "slug": "capri-sun-flavored-with-other-natural-flavor-juice-drink-ble",
+            "title": "Capri Sun Flavored with Other Natural Flavor Juice Drink Blend, 30 Pouches, for School Lunches and On-the-Go Hydration, ",
+            "price": "$30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/817UoGbPdXL.jpg",
+            "url": "https://www.amazon.com/dp/B0812HZGGZ/ref=cm_sw_r_as_gl_apa_gl_i_YDMJM1ZSWD2X6S8KBXW3?linkCode=ml1&tag=noya0b-20&linkId=7f847c821a7c6e6a5e1cfbe07b68ddb0"
+          },
+          {
+            "asin": "B09P7PR4HV",
+            "slug": "16-oz-insulated-foam-cups-50-pack-disposable-coffee-cups-for",
+            "title": "16 oz Insulated Foam Cups [50 Pack] Disposable Coffee Cups for Hot & Cold Drinks, Lightweight White Drinkware for Home, ",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61yhafVJv0L.jpg",
+            "url": "https://www.amazon.com/dp/B09P7PR4HV/ref=cm_sw_r_as_gl_apa_gl_i_C33GJ26AT62SAAZNFH0F?linkCode=ml1&tag=noya0b-20&linkId=4344e6eebdb0b31905c9e3b6f8f2e385"
+          },
+          {
+            "asin": "B07X122GM9",
+            "slug": "bare-baked-crunchy-apple-chips-2-flavor-variety-053oz-snack",
+            "title": "bare Baked Crunchy Apple Chips, 2 Flavor Variety, 0.53oz Snack Bags (7 Pack) : Everything Else",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07X122GM9/ref=cm_sw_r_as_gl_apa_gl_i_dl_Q27HS7X9A30S3X9468X4?linkCode=ml1&tag=noya0b-20&linkId=ad33b5bb9133b06adb29ba62000cff8a"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DZ75TN5F",
+            "slug": "apple-ipad-11-inch-a16-chip-11-inch-model-liquid-retina-disp",
+            "title": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch I",
+            "price": "$299",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61aPY8odPSL.jpg",
+            "url": "https://www.amazon.com/dp/B0DZ75TN5F/ref=cm_sw_r_as_gl_apa_gl_i_6WW88JX6VSRMGDXFDE63?linkCode=ml1&tag=noya0b-20&linkId=3afba009d5951b52b04161e66f117ea9"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0BL5XTB28",
+            "slug": "carrera-smart-glasses-with-alexa-newest-model-smart-audio-gl",
+            "title": "Carrera Smart Glasses with Alexa (newest model), Smart audio glasses, Sprinter black frames with polarized sunglass lens",
+            "price": "$99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/512xaHkVf-L.jpg",
+            "url": "https://www.amazon.com/dp/B0BL5XTB28/ref=cm_sw_r_as_gl_apa_gl_i_dl_58G8YTNN5DVK8QZP276D?linkCode=ml1&tag=noya0b-20&linkId=3b558ddd023ae313948aed283181b2f9"
+          },
+          {
+            "asin": "B075SBMTQL",
+            "slug": "thermacell-fuel-zoneguard-base-fuel-powered-mosquito-repelle",
+            "title": "Thermacell Fuel-ZoneGuard Base Fuel Powered Mosquito Repeller; 15-Foot Zone of Scientifically Proven Outdoor Protection;",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71i5My8MJ4L.jpg",
+            "url": "https://www.amazon.com/dp/B075SBMTQL/ref=cm_sw_r_as_gl_apa_gl_i_dl_8CJVPE9MVETZDYYY7T81?linkCode=ml1&tag=noya0b-20&linkId=3ef02a48bbcd183de1acdca29f741261"
+          },
           {
             "asin": "B0866CR7BN",
             "slug": "2-for-as-low-as-22xx-was-59xx",
@@ -61,83 +129,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71ezYr1a7sL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0857LTYZ2/ref=cm_sw_r_as_gl_apa_gl_i_dl_0SAEAZBNQ7AM8PW792E7?linkCode=ml1&tag=noya0b-20&linkId=27726db0ce5ac2adb975e02286d891f9"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B07X122GM9",
-            "slug": "bare-baked-crunchy-apple-chips-2-flavor-variety-053oz-snack",
-            "title": "bare Baked Crunchy Apple Chips, 2 Flavor Variety, 0.53oz Snack Bags (7 Pack) : Everything Else",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07X122GM9/ref=cm_sw_r_as_gl_apa_gl_i_dl_Q27HS7X9A30S3X9468X4?linkCode=ml1&tag=noya0b-20&linkId=ad33b5bb9133b06adb29ba62000cff8a"
-          },
-          {
-            "asin": "B0FBZMP71Q",
-            "slug": "post-oreo-puff-chocolate-breakfast-cereal-10-oz-box-pack-of",
-            "title": "Post Oreo Puff Chocolate Breakfast Cereal, 10 oz Box (Pack of 2)",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Zkr01xFuL.jpg",
-            "url": "https://www.amazon.com/dp/B0FBZMP71Q/ref=cm_sw_r_as_gl_apa_gl_i_ENE8HHZK53ZFGA0QGD8C?linkCode=ml1&tag=noya0b-20&linkId=dc3c936ee02734a81495056d2de2a66e"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FXS1D3B3",
-            "slug": "perytong-sleep-headphones-bluetooth-54-headband-wireless-sle",
-            "title": "Perytong Sleep Headphones Bluetooth 5.4 Headband, Wireless Sleep Headphones with Ultra-Thin HD Stereo Speakers for Side ",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81i4GmJO5PL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FXS1D3B3/ref=cm_sw_r_as_gl_apa_gl_i_dl_N4ED06JAQWS7NAWQF05B?linkCode=ml1&tag=noya0b-20&linkId=b36b39d16e8078d42e4d77010a388d82"
-          },
-          {
-            "asin": "B0DP7BBSN7",
-            "slug": "dash-cam-front-and-rear-4k25k-dual-channel-dash-cam-5ghz-wif",
-            "title": "Dash Cam Front and Rear: 4K+2.5K Dual Channel Dash Cam-5GHz WiFi, GPS Dash Camera for Cars with 64GB Card, 2.0\" IPS Scre",
-            "price": "$34",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71k1bvSCOZL.jpg",
-            "url": "https://www.amazon.com/dp/B0DP7BBSN7/ref=cm_sw_r_as_gl_apa_gl_i_dl_78PXH4F9XM0PJ03ZYE3W?linkCode=ml1&tag=noya0b-20&linkId=c223082fd15e80b50f0e3bc3c6d16c3e"
-          }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0CC644KMJ",
-            "slug": "fitbit-charge-6-fitness-tracker-with-google-apps-heart-rate",
-            "title": "Fitbit Charge 6 Fitness Tracker with Google Apps - Heart Rate on Exercise Equipment - 3-Month Google Health Premium Memb",
-            "price": "$79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/619to+LfvJL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CC644KMJ/ref=cm_sw_r_as_gl_apa_gl_i_T3KWF6C9GZ4D79HK9M8X?linkCode=ml1&tag=noya0b-20&linkId=2f515155f61bf74ec5cb7b6396028511"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0DHW9T4KH",
-            "slug": "blackstone-28-inch-original-omnivore-griddle-2206-blackstone",
-            "title": "Blackstone 28 Inch Original Omnivore Griddle 2206, Blackstone 2 Burner Griddle Outdoor Flat Top Grill, Propane Portable ",
-            "price": "$269",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61rpcTF-GvL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DHW9T4KH/ref=cm_sw_r_as_gl_apa_gl_i_X39VCFZF4BCW309KFF5V?linkCode=ml1&tag=noya0b-20&linkId=9fcd9e1928174a52ab437fa32f37d456"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0812HZGGZ",
+          "slug": "capri-sun-flavored-with-other-natural-flavor-juice-drink-ble",
+          "title": "Capri Sun Flavored with Other Natural Flavor Juice Drink Blend, 30 Pouches, for School Lunches and On-the-Go Hydration, ",
+          "price": "$30",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/817UoGbPdXL.jpg",
+          "url": "https://www.amazon.com/dp/B0812HZGGZ/ref=cm_sw_r_as_gl_apa_gl_i_YDMJM1ZSWD2X6S8KBXW3?linkCode=ml1&tag=noya0b-20&linkId=7f847c821a7c6e6a5e1cfbe07b68ddb0"
+        },
+        {
+          "asin": "B0DZ75TN5F",
+          "slug": "apple-ipad-11-inch-a16-chip-11-inch-model-liquid-retina-disp",
+          "title": "Apple iPad 11-inch: A16 chip, 11-inch Model, Liquid Retina Display, 128GB, Wi-Fi 6, 12MP Front/12MP Back Camera, Touch I",
+          "price": "$299",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61aPY8odPSL.jpg",
+          "url": "https://www.amazon.com/dp/B0DZ75TN5F/ref=cm_sw_r_as_gl_apa_gl_i_6WW88JX6VSRMGDXFDE63?linkCode=ml1&tag=noya0b-20&linkId=3afba009d5951b52b04161e66f117ea9"
+        },
+        {
+          "asin": "B09P7PR4HV",
+          "slug": "16-oz-insulated-foam-cups-50-pack-disposable-coffee-cups-for",
+          "title": "16 oz Insulated Foam Cups [50 Pack] Disposable Coffee Cups for Hot & Cold Drinks, Lightweight White Drinkware for Home, ",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61yhafVJv0L.jpg",
+          "url": "https://www.amazon.com/dp/B09P7PR4HV/ref=cm_sw_r_as_gl_apa_gl_i_C33GJ26AT62SAAZNFH0F?linkCode=ml1&tag=noya0b-20&linkId=4344e6eebdb0b31905c9e3b6f8f2e385"
+        },
+        {
+          "asin": "B0BL5XTB28",
+          "slug": "carrera-smart-glasses-with-alexa-newest-model-smart-audio-gl",
+          "title": "Carrera Smart Glasses with Alexa (newest model), Smart audio glasses, Sprinter black frames with polarized sunglass lens",
+          "price": "$99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/512xaHkVf-L.jpg",
+          "url": "https://www.amazon.com/dp/B0BL5XTB28/ref=cm_sw_r_as_gl_apa_gl_i_dl_58G8YTNN5DVK8QZP276D?linkCode=ml1&tag=noya0b-20&linkId=3b558ddd023ae313948aed283181b2f9"
+        },
+        {
+          "asin": "B075SBMTQL",
+          "slug": "thermacell-fuel-zoneguard-base-fuel-powered-mosquito-repelle",
+          "title": "Thermacell Fuel-ZoneGuard Base Fuel Powered Mosquito Repeller; 15-Foot Zone of Scientifically Proven Outdoor Protection;",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71i5My8MJ4L.jpg",
+          "url": "https://www.amazon.com/dp/B075SBMTQL/ref=cm_sw_r_as_gl_apa_gl_i_dl_8CJVPE9MVETZDYYY7T81?linkCode=ml1&tag=noya0b-20&linkId=3ef02a48bbcd183de1acdca29f741261"
+        },
         {
           "asin": "B0866CR7BN",
           "slug": "2-for-as-low-as-22xx-was-59xx",
@@ -192,67 +241,12 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07X122GM9/ref=cm_sw_r_as_gl_apa_gl_i_dl_Q27HS7X9A30S3X9468X4?linkCode=ml1&tag=noya0b-20&linkId=ad33b5bb9133b06adb29ba62000cff8a"
-        },
-        {
-          "asin": "B0FXS1D3B3",
-          "slug": "perytong-sleep-headphones-bluetooth-54-headband-wireless-sle",
-          "title": "Perytong Sleep Headphones Bluetooth 5.4 Headband, Wireless Sleep Headphones with Ultra-Thin HD Stereo Speakers for Side ",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81i4GmJO5PL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FXS1D3B3/ref=cm_sw_r_as_gl_apa_gl_i_dl_N4ED06JAQWS7NAWQF05B?linkCode=ml1&tag=noya0b-20&linkId=b36b39d16e8078d42e4d77010a388d82"
-        },
-        {
-          "asin": "B0DP7BBSN7",
-          "slug": "dash-cam-front-and-rear-4k25k-dual-channel-dash-cam-5ghz-wif",
-          "title": "Dash Cam Front and Rear: 4K+2.5K Dual Channel Dash Cam-5GHz WiFi, GPS Dash Camera for Cars with 64GB Card, 2.0\" IPS Scre",
-          "price": "$34",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71k1bvSCOZL.jpg",
-          "url": "https://www.amazon.com/dp/B0DP7BBSN7/ref=cm_sw_r_as_gl_apa_gl_i_dl_78PXH4F9XM0PJ03ZYE3W?linkCode=ml1&tag=noya0b-20&linkId=c223082fd15e80b50f0e3bc3c6d16c3e"
-        },
-        {
-          "asin": "B0CC644KMJ",
-          "slug": "fitbit-charge-6-fitness-tracker-with-google-apps-heart-rate",
-          "title": "Fitbit Charge 6 Fitness Tracker with Google Apps - Heart Rate on Exercise Equipment - 3-Month Google Health Premium Memb",
-          "price": "$79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/619to+LfvJL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CC644KMJ/ref=cm_sw_r_as_gl_apa_gl_i_T3KWF6C9GZ4D79HK9M8X?linkCode=ml1&tag=noya0b-20&linkId=2f515155f61bf74ec5cb7b6396028511"
-        },
-        {
-          "asin": "B0DHW9T4KH",
-          "slug": "blackstone-28-inch-original-omnivore-griddle-2206-blackstone",
-          "title": "Blackstone 28 Inch Original Omnivore Griddle 2206, Blackstone 2 Burner Griddle Outdoor Flat Top Grill, Propane Portable ",
-          "price": "$269",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61rpcTF-GvL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DHW9T4KH/ref=cm_sw_r_as_gl_apa_gl_i_X39VCFZF4BCW309KFF5V?linkCode=ml1&tag=noya0b-20&linkId=9fcd9e1928174a52ab437fa32f37d456"
-        },
-        {
-          "asin": "B0FBZMP71Q",
-          "slug": "post-oreo-puff-chocolate-breakfast-cereal-10-oz-box-pack-of",
-          "title": "Post Oreo Puff Chocolate Breakfast Cereal, 10 oz Box (Pack of 2)",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Zkr01xFuL.jpg",
-          "url": "https://www.amazon.com/dp/B0FBZMP71Q/ref=cm_sw_r_as_gl_apa_gl_i_ENE8HHZK53ZFGA0QGD8C?linkCode=ml1&tag=noya0b-20&linkId=dc3c936ee02734a81495056d2de2a66e"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 20, 2026?",
-          "a": "The best deals today include \"2 for as low as $22.xx was $59.xx‼️...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Electronics and are updated daily."
+          "a": "The best deals today include \"Capri Sun Flavored with Other Natural Flavor Juice Drink Ble...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T08:40:01.775Z",
-      "updatedAt": "2026-06-20T08:40:01.775Z"
+      "generatedAt": "2026-06-20T08:50:01.456Z",
+      "updatedAt": "2026-06-20T08:50:01.456Z"
     },
     {
       "date": "2026-06-19",
@@ -3214,5 +3208,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T08:40:01.776Z"
+  "generatedAt": "2026-06-20T08:50:01.457Z"
 }
