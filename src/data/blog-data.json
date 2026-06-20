@@ -10,8 +10,8 @@
         "Free Deal",
         "Grocery & Food",
         "Pet Supplies",
-        "Electronics",
-        "Sports & Fitness"
+        "Toys & Kids",
+        "Electronics"
       ],
       "byCategory": {
         "Free Deal": [
@@ -110,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B000GZ1BNE?tag=noya0b-20"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B09R6NHW8Q",
+            "slug": "flybar-funpark-6v-bumper-car-for-toddlers-electric-toddler-r",
+            "title": "Flybar FunPark 6V Bumper Car for Toddlers, Electric Toddler Ride On Toys for Kids, Baby, Ages 1.5-4 Years, LED Lights, 3",
+            "price": "$69",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/5121gzGg27L._AC_SL1080_.jpg",
+            "url": "https://www.amazon.com/dp/B09R6NHW8Q?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1f9dccc1aeb1042b0054251692ec1a66&language=en_US"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CFX8T281",
@@ -121,19 +134,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71ryyyl34OL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CFX8T281?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c57285e92c0b9a0592ec91af7dff21cb&language=en_US"
-          }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B083R4RDGF",
-            "slug": "cap-barbell-olympic-trap-bar-and-shrug-bar-for-deadlifts",
-            "title": "CAP Barbell Olympic Trap Bar and Shrug Bar for Deadlifts",
-            "price": "$51.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/71B5OR6KU+L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B083R4RDGF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
@@ -205,6 +205,17 @@
           "url": "https://www.amazon.com/dp/B083MB422G?linkCode=sl2&tag=noya0b-20&linkId=18a42aeb950916640d5d28e17d364241&language=en_US"
         },
         {
+          "asin": "B09R6NHW8Q",
+          "slug": "flybar-funpark-6v-bumper-car-for-toddlers-electric-toddler-r",
+          "title": "Flybar FunPark 6V Bumper Car for Toddlers, Electric Toddler Ride On Toys for Kids, Baby, Ages 1.5-4 Years, LED Lights, 3",
+          "price": "$69",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/5121gzGg27L._AC_SL1080_.jpg",
+          "url": "https://www.amazon.com/dp/B09R6NHW8Q?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1f9dccc1aeb1042b0054251692ec1a66&language=en_US"
+        },
+        {
           "asin": "1647397197",
           "slug": "the-5-minute-gratitude-journal-give-thanks-practice-positivi",
           "title": "The 5-Minute Gratitude Journal: Give Thanks, Practice Positivity, Find Joy",
@@ -236,17 +247,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81azZzV-KXL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GWKQ52V2?th=1&linkCode=sl2&tag=noya0b-20&linkId=4860486b176290d892028636347b2ca0&language=en_US"
-        },
-        {
-          "asin": "B083R4RDGF",
-          "slug": "cap-barbell-olympic-trap-bar-and-shrug-bar-for-deadlifts",
-          "title": "CAP Barbell Olympic Trap Bar and Shrug Bar for Deadlifts",
-          "price": "$51.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/71B5OR6KU+L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B083R4RDGF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T01:10:01.568Z",
-      "updatedAt": "2026-06-20T01:10:01.568Z"
+      "generatedAt": "2026-06-20T01:20:01.765Z",
+      "updatedAt": "2026-06-20T01:20:01.765Z"
     },
     {
       "date": "2026-06-18",
@@ -2943,5 +2943,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T01:10:01.569Z"
+  "generatedAt": "2026-06-20T01:20:01.767Z"
 }
