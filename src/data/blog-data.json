@@ -10,7 +10,7 @@
         "Fashion",
         "Beauty",
         "Free Deal",
-        "Electronics"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Free Deal": [
@@ -98,6 +98,17 @@
         ],
         "Beauty": [
           {
+            "asin": "B01M7M9NXX",
+            "slug": "zinus-shalini-upholstered-platform-bed-frame-mattress-founda",
+            "title": "Zinus Shalini Upholstered Platform Bed Frame, Mattress Foundation, Wood Slat Support, No Box Spring Needed, Easy Assembl",
+            "price": "$99",
+            "discount": 61,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01M7M9NXX?th=1&tag=noya0b-20"
+          },
+          {
             "asin": "B09HN7NTJP",
             "slug": "laneige-lip-glowy-balm-sheer-tinted-lip-moisturizer-with-she",
             "title": "LANEIGE Lip Glowy Balm: Sheer Tinted Lip Moisturizer with Shea Butter, for Hydrating Shine & Soft Lips",
@@ -107,30 +118,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61HzwNX24KL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0FMFCN1C3",
-            "slug": "ear-and-nose-hair-trimmer-clippers-2026-professional-painles",
-            "title": "Ear and Nose Hair Trimmer Clippers: 2026 Professional Painless Eyebrow & Facial Hair Trimmers Remover for Men Women, Bat",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/619bxC38f+L.jpg",
-            "url": "https://www.amazon.com/Nose-Hair-Trimmer-Clippers-Battery-Operated/dp/B0FMFCN1C3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b97f708429082f42982df49ef1c3517d&language=en_US"
           }
         ],
-        "Electronics": [
+        "Home & Kitchen": [
           {
-            "asin": "B07G4SYH34",
-            "slug": "disney-baby-girl-socks-12-pack-minnie-mouse-daisy-duck-princ",
-            "title": "Disney Baby Girl Socks - 12 Pack Minnie Mouse, Daisy Duck, Princess Socks for Infants - Newborn Essentials for Girls (0-",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/7179njkPF1L.jpg",
-            "url": "https://www.amazon.com/dp/B07G4SYH34?lv=shuf&ascsubtag=srctok-491a1c045630db5a&btn_ref=srctok-491a1c045630db5a&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cf374775e03d09ca7e3ae74cdb995f2e&language=en_US"
+            "asin": "B0GK7C4GSY",
+            "slug": "marsail-mobile-stand-up-desk-with-wheels-adjustable-height-d",
+            "title": "Marsail Mobile Stand Up Desk with Wheels, Adjustable Height Desk from 28.3″ to 46.5″, Rolling Standing Desk with Lockabl",
+            "price": "$38",
+            "discount": 45,
+            "rating": "HOT",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Ad5PvVRiL.jpg",
+            "url": "https://www.amazon.com/dp/B0GK7C4GSY?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -180,6 +180,28 @@
           "url": "https://www.amazon.com/dp/B0G1YF4NKK?th=1&psc=1&tag=noya0b-20"
         },
         {
+          "asin": "B01M7M9NXX",
+          "slug": "zinus-shalini-upholstered-platform-bed-frame-mattress-founda",
+          "title": "Zinus Shalini Upholstered Platform Bed Frame, Mattress Foundation, Wood Slat Support, No Box Spring Needed, Easy Assembl",
+          "price": "$99",
+          "discount": 61,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B01M7M9NXX?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GK7C4GSY",
+          "slug": "marsail-mobile-stand-up-desk-with-wheels-adjustable-height-d",
+          "title": "Marsail Mobile Stand Up Desk with Wheels, Adjustable Height Desk from 28.3″ to 46.5″, Rolling Standing Desk with Lockabl",
+          "price": "$38",
+          "discount": 45,
+          "rating": "HOT",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Ad5PvVRiL.jpg",
+          "url": "https://www.amazon.com/dp/B0GK7C4GSY?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DGVY42MP",
           "slug": "case-mate-jelly-tote-bag",
           "title": "Case-Mate Jelly Tote Bag",
@@ -222,28 +244,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61HzwNX24KL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FMFCN1C3",
-          "slug": "ear-and-nose-hair-trimmer-clippers-2026-professional-painles",
-          "title": "Ear and Nose Hair Trimmer Clippers: 2026 Professional Painless Eyebrow & Facial Hair Trimmers Remover for Men Women, Bat",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/619bxC38f+L.jpg",
-          "url": "https://www.amazon.com/Nose-Hair-Trimmer-Clippers-Battery-Operated/dp/B0FMFCN1C3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b97f708429082f42982df49ef1c3517d&language=en_US"
-        },
-        {
-          "asin": "B07G4SYH34",
-          "slug": "disney-baby-girl-socks-12-pack-minnie-mouse-daisy-duck-princ",
-          "title": "Disney Baby Girl Socks - 12 Pack Minnie Mouse, Daisy Duck, Princess Socks for Infants - Newborn Essentials for Girls (0-",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/7179njkPF1L.jpg",
-          "url": "https://www.amazon.com/dp/B07G4SYH34?lv=shuf&ascsubtag=srctok-491a1c045630db5a&btn_ref=srctok-491a1c045630db5a&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cf374775e03d09ca7e3ae74cdb995f2e&language=en_US"
         }
       ],
       "faq": [
@@ -253,7 +253,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 100% off on \"\udecd️STANLEY Quencher H2.0 Tumbler with Handle and Straw 40 oz ...\". There are 8 deals with verified discounts today."
+          "a": "The biggest discount today is 100% off on \"\udecd️STANLEY Quencher H2.0 Tumbler with Handle and Straw 40 oz ...\". There are 10 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T23:10:01.935Z",
-      "updatedAt": "2026-06-20T23:10:01.935Z"
+      "generatedAt": "2026-06-20T23:20:01.858Z",
+      "updatedAt": "2026-06-20T23:20:01.858Z"
     },
     {
       "date": "2026-06-19",
@@ -3211,5 +3211,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T23:10:01.937Z"
+  "generatedAt": "2026-06-20T23:20:01.860Z"
 }
