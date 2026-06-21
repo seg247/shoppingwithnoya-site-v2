@@ -10,9 +10,9 @@
         "Grocery & Food",
         "Electronics",
         "Beauty",
-        "Pet Supplies",
-        "Fashion",
-        "Toys & Kids"
+        "Home & Kitchen",
+        "Garden & Outdoor",
+        "Pet Supplies"
       ],
       "byCategory": {
         "Other": [
@@ -100,6 +100,32 @@
             "url": "https://www.amazon.com/dp/B018MMISCY?th=1&tag=noya0b-20"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B00EI7DPI0",
+            "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
+            "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
+            "price": "$23",
+            "discount": 41,
+            "rating": "HOT",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71k1RTjfAhL.jpg",
+            "url": "https://www.amazon.com/dp/B00EI7DPI0?th=1&tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B07BLHC2G3",
+            "slug": "coleman-roadtrip-285-portable-stand-up-propane-grill-with-3",
+            "title": "Coleman RoadTrip 285 Portable Stand-Up Propane Grill with 3 Adjustable Burners & Instastart Ignition, 20,000 BTUs of Pow",
+            "price": "$249",
+            "discount": 41,
+            "rating": "HOT",
+            "category": "Garden & Outdoor",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07BLHC2G3?th=1&tag=noya0b-20"
+          }
+        ],
         "Pet Supplies": [
           {
             "asin": "B002UT92EY",
@@ -111,32 +137,6 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0C9LVSKLH",
-            "slug": "kenneth-cole-reaction-renegade-luggage-expandable-8-wheel-sp",
-            "title": "Kenneth Cole REACTION Renegade Luggage Expandable 8-Wheel Spinner Lightweight Hardside Suitcase, Seafoam, 20-Inch Carry ",
-            "price": "$59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cSpJm0OWL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/Kenneth-Cole-REACTION-Expandable-Lightweight/dp/B0C9LVSKLH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=bf22a5fa3cada7c6ec3a763d47f019ef&language=en_US"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B08HW1L75J",
-            "slug": "lego-botanicals-flower-bouquet-building-set-artificial-flowe",
-            "title": "LEGO Botanicals Flower Bouquet Building Set - Artificial Flowers for Decoration for Home and Display, Ages 18+ - Small F",
-            "price": "$33",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B08HW1L75J?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=56315e28a324b4b582b2a72f93c61b02&language=en_US"
           }
         ]
       },
@@ -197,6 +197,28 @@
           "url": "https://www.amazon.com/dp/B0CT25P53Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=027f12d986d0f20ec2602d204c457b88&language=en_US"
         },
         {
+          "asin": "B00EI7DPI0",
+          "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
+          "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
+          "price": "$23",
+          "discount": 41,
+          "rating": "HOT",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71k1RTjfAhL.jpg",
+          "url": "https://www.amazon.com/dp/B00EI7DPI0?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B07BLHC2G3",
+          "slug": "coleman-roadtrip-285-portable-stand-up-propane-grill-with-3",
+          "title": "Coleman RoadTrip 285 Portable Stand-Up Propane Grill with 3 Adjustable Burners & Instastart Ignition, 20,000 BTUs of Pow",
+          "price": "$249",
+          "discount": 41,
+          "rating": "HOT",
+          "category": "Garden & Outdoor",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07BLHC2G3?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B018MMISCY",
           "slug": "gci-outdoor-firepit-rocker-low-ride-outdoor-rocking-chair-wi",
           "title": "GCI Outdoor FirePit Rocker Low-Ride Outdoor Rocking Chair with Beverage Holder : Sports & Outdoors",
@@ -228,28 +250,6 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C9LVSKLH",
-          "slug": "kenneth-cole-reaction-renegade-luggage-expandable-8-wheel-sp",
-          "title": "Kenneth Cole REACTION Renegade Luggage Expandable 8-Wheel Spinner Lightweight Hardside Suitcase, Seafoam, 20-Inch Carry ",
-          "price": "$59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cSpJm0OWL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/Kenneth-Cole-REACTION-Expandable-Lightweight/dp/B0C9LVSKLH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=bf22a5fa3cada7c6ec3a763d47f019ef&language=en_US"
-        },
-        {
-          "asin": "B08HW1L75J",
-          "slug": "lego-botanicals-flower-bouquet-building-set-artificial-flowe",
-          "title": "LEGO Botanicals Flower Bouquet Building Set - Artificial Flowers for Decoration for Home and Display, Ages 18+ - Small F",
-          "price": "$33",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B08HW1L75J?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=56315e28a324b4b582b2a72f93c61b02&language=en_US"
         }
       ],
       "faq": [
@@ -259,7 +259,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 71% off on \"AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free...\". There are 8 deals with verified discounts today."
+          "a": "The biggest discount today is 71% off on \"AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free...\". There are 10 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T22:20:01.552Z",
-      "updatedAt": "2026-06-21T22:20:01.552Z"
+      "generatedAt": "2026-06-21T22:30:02.240Z",
+      "updatedAt": "2026-06-21T22:30:02.240Z"
     },
     {
       "date": "2026-06-20",
@@ -3488,5 +3488,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T22:20:01.554Z"
+  "generatedAt": "2026-06-21T22:30:02.243Z"
 }
