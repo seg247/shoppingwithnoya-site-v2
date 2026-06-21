@@ -9,25 +9,33 @@
         "Beauty",
         "Gaming",
         "Other",
-        "Sports & Fitness",
         "Home & Kitchen",
         "Electronics"
       ],
       "byCategory": {
-        "Home & Kitchen": [
+        "Beauty": [
           {
-            "asin": "B0C384T4P2",
-            "slug": "breville-bsv600pss-joule-turbo-sous-vide-machine-polished-st",
-            "title": "Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished Stainless Steel : Home & Kitchen",
-            "price": "$142",
+            "asin": "B0DYDK5NGN",
+            "slug": "pacifica-body-wash-vanilla-crystal-super-hydrating-body-wash",
+            "title": "Pacifica Body Wash - Vanilla Crystal Super Hydrating Body Wash - Bath & Shower Gel - Clean Beauty, Vegan & Cruelty-Free ",
+            "price": "$7",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61obB5QTx9L.jpg",
+            "url": "https://www.amazon.com/dp/B0DYDK5NGN/ref=cm_sw_r_as_gl_apa_gl_i_D7TMMRQ0QWRPE8XYPPGA?linkCode=ml1&tag=noya0b-20&linkId=9a55d6c3f42ae6f0727b189a239d2d25"
+          },
+          {
+            "asin": "B0F1NH9JVS",
+            "slug": "biolage-full-rescue-shampoo-and-conditioner-set-for-thin-hai",
+            "title": "Biolage Full Rescue Shampoo and Conditioner Set - For Thin Hair, Fortifies, Instantly Fuller-Looking, Rosemary Oil & Nia",
+            "price": "$59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
             "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0C384T4P2/ref=cm_sw_r_as_gl_apa_gl_i_dl_635VG27QA6F489RRMC0H?linkCode=ml1&tag=noya0b-20&linkId=7d9d63fa69fe1347985bfa7406b65da7"
-          }
-        ],
-        "Beauty": [
+            "url": "https://www.amazon.com/dp/B0F1NH9JVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e0790d65dbef6a0af20bcb8e00e189b3&language=en_US"
+          },
           {
             "asin": "B009ZJ2M7G",
             "slug": "amazoncom-hoover-powerscrub-deluxe-carpet-cleaner-machine-de",
@@ -49,6 +57,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71EcIlkadIL.jpg",
             "url": "https://www.amazon.com/dp/B0F42WQ7VM/ref=cm_sw_r_as_gl_apa_gl_i_07084NY03N1HF6GT868E?linkCode=ml1&tag=noya0b-20&linkId=81c06b839e587132ab7bcc4a60fa65e8"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0C384T4P2",
+            "slug": "breville-bsv600pss-joule-turbo-sous-vide-machine-polished-st",
+            "title": "Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished Stainless Steel : Home & Kitchen",
+            "price": "$142",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0C384T4P2/ref=cm_sw_r_as_gl_apa_gl_i_dl_635VG27QA6F489RRMC0H?linkCode=ml1&tag=noya0b-20&linkId=7d9d63fa69fe1347985bfa7406b65da7"
           }
         ],
         "Gaming": [
@@ -111,33 +132,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41gNMpuXoqS._AC_SL1200_.jpg",
             "url": "https://www.amazon.com/dp/B00NJ2M43M/ref=cm_sw_r_as_gl_apa_gl_i_dl_XEC9XQ4R3QTNERTN67NX?linkCode=ml1&tag=noya0b-20&linkId=9551739aaef232caf545c95febf36ad2"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0GLF57N4L",
-            "slug": "gym-bag-sports-duffle-bag-with-wet-pocket-weekender-overnigh",
-            "title": "Gym Bag Sports Duffle Bag with Wet Pocket Weekender Overnight Bags with Waterproof Shoe Pouch and Air Hole for Girls Kid",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/81W9Y+32O2L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GLF57N4L/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z432WER7SPV0R04HR9FN?linkCode=ml1&tag=noya0b-20&linkId=7850eca1990c8c427bf7c7bde69b587b"
-          },
-          {
-            "asin": "B0FGDRKPQ8",
-            "slug": "fisher-price-grow-to-pro-basketball-hoop-for-toddlers-kids-a",
-            "title": "Fisher-Price™ Grow-to-Pro Basketball Hoop for Toddlers & Kids - Adjustable Height Indoor/Outdoor Play Set with Ball, 18 ",
-            "price": "$52",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/71gdO+TBw3L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FGDRKPQ8/ref=cm_sw_r_as_gl_apa_gl_i_dl_MQCFMZ81T21RAVR9Q3DW?linkCode=ml1&tag=noya0b-20&linkId=6261137c164b695e746d810b83ab5d1c"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DYDK5NGN",
+          "slug": "pacifica-body-wash-vanilla-crystal-super-hydrating-body-wash",
+          "title": "Pacifica Body Wash - Vanilla Crystal Super Hydrating Body Wash - Bath & Shower Gel - Clean Beauty, Vegan & Cruelty-Free ",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61obB5QTx9L.jpg",
+          "url": "https://www.amazon.com/dp/B0DYDK5NGN/ref=cm_sw_r_as_gl_apa_gl_i_D7TMMRQ0QWRPE8XYPPGA?linkCode=ml1&tag=noya0b-20&linkId=9a55d6c3f42ae6f0727b189a239d2d25"
+        },
+        {
+          "asin": "B0F1NH9JVS",
+          "slug": "biolage-full-rescue-shampoo-and-conditioner-set-for-thin-hai",
+          "title": "Biolage Full Rescue Shampoo and Conditioner Set - For Thin Hair, Fortifies, Instantly Fuller-Looking, Rosemary Oil & Nia",
+          "price": "$59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0F1NH9JVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e0790d65dbef6a0af20bcb8e00e189b3&language=en_US"
+        },
         {
           "asin": "B0C384T4P2",
           "slug": "breville-bsv600pss-joule-turbo-sous-vide-machine-polished-st",
@@ -225,34 +244,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/41gNMpuXoqS._AC_SL1200_.jpg",
           "url": "https://www.amazon.com/dp/B00NJ2M43M/ref=cm_sw_r_as_gl_apa_gl_i_dl_XEC9XQ4R3QTNERTN67NX?linkCode=ml1&tag=noya0b-20&linkId=9551739aaef232caf545c95febf36ad2"
-        },
-        {
-          "asin": "B0GLF57N4L",
-          "slug": "gym-bag-sports-duffle-bag-with-wet-pocket-weekender-overnigh",
-          "title": "Gym Bag Sports Duffle Bag with Wet Pocket Weekender Overnight Bags with Waterproof Shoe Pouch and Air Hole for Girls Kid",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/81W9Y+32O2L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GLF57N4L/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z432WER7SPV0R04HR9FN?linkCode=ml1&tag=noya0b-20&linkId=7850eca1990c8c427bf7c7bde69b587b"
-        },
-        {
-          "asin": "B0FGDRKPQ8",
-          "slug": "fisher-price-grow-to-pro-basketball-hoop-for-toddlers-kids-a",
-          "title": "Fisher-Price™ Grow-to-Pro Basketball Hoop for Toddlers & Kids - Adjustable Height Indoor/Outdoor Play Set with Ball, 18 ",
-          "price": "$52",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/71gdO+TBw3L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FGDRKPQ8/ref=cm_sw_r_as_gl_apa_gl_i_dl_MQCFMZ81T21RAVR9Q3DW?linkCode=ml1&tag=noya0b-20&linkId=6261137c164b695e746d810b83ab5d1c"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 21, 2026?",
-          "a": "The best deals today include \"Breville BSV600PSS Joule Turbo Sous Vide Machine, Polished S...\" and 9 other hand-picked discounts. Deals span Beauty, Gaming, Other and are updated daily."
+          "a": "The best deals today include \"Pacifica Body Wash - Vanilla Crystal Super Hydrating Body Wa...\" and 9 other hand-picked discounts. Deals span Beauty, Gaming, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T08:30:00.518Z",
-      "updatedAt": "2026-06-21T08:30:00.518Z"
+      "generatedAt": "2026-06-21T08:40:00.616Z",
+      "updatedAt": "2026-06-21T08:40:00.616Z"
     },
     {
       "date": "2026-06-20",
@@ -3485,5 +3482,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T08:30:00.520Z"
+  "generatedAt": "2026-06-21T08:40:00.617Z"
 }
