@@ -9,9 +9,9 @@
         "Other",
         "Grocery & Food",
         "Pet Supplies",
-        "Electronics",
+        "Sports & Fitness",
         "Beauty",
-        "Home & Kitchen"
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -38,6 +38,28 @@
             "url": "https://www.amazon.com/dp/B0CW3SH3BN?th=1&linkCode=sl1&tag=noya0b-20&linkId=e93c8c0bb83cf76ca101fc7d6b5c6127&language=en_US"
           },
           {
+            "asin": "B0H3VQ4KK2",
+            "slug": "automatic-litter-box-self-cleaning-litter-box-for-multiple-c",
+            "title": "Automatic Litter Box, Self Cleaning Litter Box for Multiple Cats, APP Control and Safety Sensors, Odor Control, Open-Top",
+            "price": "$99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81YqrwZdOrL.jpg",
+            "url": "https://www.amazon.com/dp/B0H3VQ4KK2?th=1&psc=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0G2PHZ8NH",
+            "slug": "amazoncom-bissell-powerclean-furfinder-corded-stick-vacuum-t",
+            "title": "Amazon.com - Bissell PowerClean FurFinder Corded Stick Vacuum, Tangle-Free Brush Roll, 30-Foot Power Cord, Self-Standing",
+            "price": "$94",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Bissell-PowerClean-Tangle-Free-Self-Standing-4282K/dp/B0G2PHZ8NH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=5905d1ea25e88102b836c7bb1723aaa2&language=en_US"
+          },
+          {
             "asin": "B0CMHJLSMX",
             "slug": "cuyoca-storage-ottoman-bench-foldable-seat-footrest-shoe-ben",
             "title": "CUYOCA Storage Ottoman Bench Foldable Seat Footrest Shoe Bench End of Bed Storage with Flipping Lid, 75L Storage Space, ",
@@ -60,28 +82,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/61l0OEEB9LL.jpg",
             "url": "https://www.amazon.com/dp/B0CT25P53Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=027f12d986d0f20ec2602d204c457b88&language=en_US"
-          },
-          {
-            "asin": "B0DNG786P1",
-            "slug": "bissell-crosswave-hydrosteam-deluxe-steam-mop-3-in-1-wet-dry",
-            "title": "Bissell CrossWave HydroSteam Deluxe Steam Mop, 3-in-1 Wet Dry Vacuum Mop with Steam Function, Hard Floor Cleaner Machine",
-            "price": "$199",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Bissell-CrossWave-HydroSteam-Function-3515G/dp/B0DNG786P1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=34bdcc54faf99e7f8f938d9d31318e60&language=en_US"
-          },
-          {
-            "asin": "B0DNG786P1",
-            "slug": "bissell-crosswave-hydrosteam-deluxe-steam-mop-3-in-1-wet-dry",
-            "title": "Bissell CrossWave HydroSteam Deluxe Steam Mop, 3-in-1 Wet Dry Vacuum Mop with Steam Function, Hard Floor Cleaner Machine",
-            "price": "$199",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Bissell-CrossWave-HydroSteam-Function-3515G/dp/B0DNG786P1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=34bdcc54faf99e7f8f938d9d31318e60&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -97,43 +97,43 @@
             "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
           }
         ],
-        "Electronics": [
+        "Sports & Fitness": [
           {
-            "asin": "B0BWWZXWPL",
-            "slug": "blink-mini-2-plug-in-smart-security-camera-hd-night-view-in",
-            "title": "Blink Mini 2 — Plug-in smart security camera, HD night view in color, built-in spotlight, two-way audio, motion detectio",
-            "price": "$12",
+            "asin": "B0FXKNBTQ3",
+            "slug": "goture-fishing-lures-kit-trout-lures-fishing-spinners-hard-m",
+            "title": "Goture Fishing Lures Kit, Trout Lures Fishing Spinners, Hard Metal Spinner Baits for Freshwater and Saltwater, Spinner L",
+            "price": "$5",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/611ygjiMZNL.jpg",
-            "url": "https://www.amazon.com/Blink-Mini-2-Camera-White/dp/B0BWWZXWPL?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=da97c73fd5690e1781a96d613c842fe6&language=en_US"
+            "category": "Sports & Fitness",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FXKNBTQ3?tag=noya0b-20"
           }
         ],
         "Beauty": [
           {
-            "asin": "B0857LKWKY",
-            "slug": "aussie-total-miracle-hair-care-bundle-shampoo-conditioner-an",
-            "title": "Aussie Total Miracle Hair Care Bundle: Shampoo, Conditioner, and 3 Minute Deep Treatment with Apricot & Macadamia Oil, P",
-            "price": "$14",
+            "asin": "B09BK4GZL7",
+            "slug": "kitchenaid-albany-kitchen-towel-4-pack-set-matcha-greenwhite",
+            "title": "KitchenAid Albany Kitchen Towel 4-Pack Set, Matcha Green/White, 16\"x26\" : Beauty & Personal Care",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
-            "url": "https://www.amazon.com/dp/B0857LKWKY?lv=shuf&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c37c9f41f6a26af6b57458f04c7561ad&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/81Hx2auRr9L.jpg",
+            "url": "https://www.amazon.com/KitchenAid-Albany-Kitchen-Towel-Matcha/dp/B09BK4GZL7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=72cfcc208310cbfa79b112abf418d249&language=en_US"
           }
         ],
-        "Home & Kitchen": [
+        "Fashion": [
           {
-            "asin": "B00OFNM2TU",
-            "slug": "command-5-lb-universal-picture-hanger-3-frame-hangers-6-comm",
-            "title": "Command 5 lb Universal Picture Hanger, 3 Frame Hangers, 6 Command Strips and 6 Frame Stabilizer Strips for Sawtooth, D-R",
-            "price": "$5.69",
+            "asin": "B0CTJ3RJVJ",
+            "slug": "hanes-ultimate-boys-originals-boxer-brief-underwear-supersof",
+            "title": "Hanes Ultimate Boys' Originals Boxer Brief Underwear, SuperSoft Boxer Briefs for Boys, Assorted 5-Pack: Clothing, Shoes ",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61fartA3A9L.jpg",
-            "url": "https://www.amazon.com/dp/B00OFNM2TU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/710wirhK+6L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/Hanes-Ultimate-Originals-Supersoft-Underwear/dp/B0CTJ3RJVJ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=6370683f528866fb9926950af5fa5697&language=en_US"
           }
         ]
       },
@@ -183,6 +183,61 @@
           "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
         },
         {
+          "asin": "B0H3VQ4KK2",
+          "slug": "automatic-litter-box-self-cleaning-litter-box-for-multiple-c",
+          "title": "Automatic Litter Box, Self Cleaning Litter Box for Multiple Cats, APP Control and Safety Sensors, Odor Control, Open-Top",
+          "price": "$99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YqrwZdOrL.jpg",
+          "url": "https://www.amazon.com/dp/B0H3VQ4KK2?th=1&psc=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0G2PHZ8NH",
+          "slug": "amazoncom-bissell-powerclean-furfinder-corded-stick-vacuum-t",
+          "title": "Amazon.com - Bissell PowerClean FurFinder Corded Stick Vacuum, Tangle-Free Brush Roll, 30-Foot Power Cord, Self-Standing",
+          "price": "$94",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Bissell-PowerClean-Tangle-Free-Self-Standing-4282K/dp/B0G2PHZ8NH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=5905d1ea25e88102b836c7bb1723aaa2&language=en_US"
+        },
+        {
+          "asin": "B0FXKNBTQ3",
+          "slug": "goture-fishing-lures-kit-trout-lures-fishing-spinners-hard-m",
+          "title": "Goture Fishing Lures Kit, Trout Lures Fishing Spinners, Hard Metal Spinner Baits for Freshwater and Saltwater, Spinner L",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FXKNBTQ3?tag=noya0b-20"
+        },
+        {
+          "asin": "B09BK4GZL7",
+          "slug": "kitchenaid-albany-kitchen-towel-4-pack-set-matcha-greenwhite",
+          "title": "KitchenAid Albany Kitchen Towel 4-Pack Set, Matcha Green/White, 16\"x26\" : Beauty & Personal Care",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Hx2auRr9L.jpg",
+          "url": "https://www.amazon.com/KitchenAid-Albany-Kitchen-Towel-Matcha/dp/B09BK4GZL7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=72cfcc208310cbfa79b112abf418d249&language=en_US"
+        },
+        {
+          "asin": "B0CTJ3RJVJ",
+          "slug": "hanes-ultimate-boys-originals-boxer-brief-underwear-supersof",
+          "title": "Hanes Ultimate Boys' Originals Boxer Brief Underwear, SuperSoft Boxer Briefs for Boys, Assorted 5-Pack: Clothing, Shoes ",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/710wirhK+6L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/Hanes-Ultimate-Originals-Supersoft-Underwear/dp/B0CTJ3RJVJ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=6370683f528866fb9926950af5fa5697&language=en_US"
+        },
+        {
           "asin": "B0CMHJLSMX",
           "slug": "cuyoca-storage-ottoman-bench-foldable-seat-footrest-shoe-ben",
           "title": "CUYOCA Storage Ottoman Bench Foldable Seat Footrest Shoe Bench End of Bed Storage with Flipping Lid, 75L Storage Space, ",
@@ -192,61 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81Bp5J9jhHL.jpg",
           "url": "https://www.amazon.com/dp/B0CMHJLSMX?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0BWWZXWPL",
-          "slug": "blink-mini-2-plug-in-smart-security-camera-hd-night-view-in",
-          "title": "Blink Mini 2 — Plug-in smart security camera, HD night view in color, built-in spotlight, two-way audio, motion detectio",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/611ygjiMZNL.jpg",
-          "url": "https://www.amazon.com/Blink-Mini-2-Camera-White/dp/B0BWWZXWPL?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=da97c73fd5690e1781a96d613c842fe6&language=en_US"
-        },
-        {
-          "asin": "B0857LKWKY",
-          "slug": "aussie-total-miracle-hair-care-bundle-shampoo-conditioner-an",
-          "title": "Aussie Total Miracle Hair Care Bundle: Shampoo, Conditioner, and 3 Minute Deep Treatment with Apricot & Macadamia Oil, P",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
-          "url": "https://www.amazon.com/dp/B0857LKWKY?lv=shuf&sbo=RZvfv%2F%2FHxDF+O5021pAnSA%3D%3D&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c37c9f41f6a26af6b57458f04c7561ad&language=en_US"
-        },
-        {
-          "asin": "B00OFNM2TU",
-          "slug": "command-5-lb-universal-picture-hanger-3-frame-hangers-6-comm",
-          "title": "Command 5 lb Universal Picture Hanger, 3 Frame Hangers, 6 Command Strips and 6 Frame Stabilizer Strips for Sawtooth, D-R",
-          "price": "$5.69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61fartA3A9L.jpg",
-          "url": "https://www.amazon.com/dp/B00OFNM2TU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DNG786P1",
-          "slug": "bissell-crosswave-hydrosteam-deluxe-steam-mop-3-in-1-wet-dry",
-          "title": "Bissell CrossWave HydroSteam Deluxe Steam Mop, 3-in-1 Wet Dry Vacuum Mop with Steam Function, Hard Floor Cleaner Machine",
-          "price": "$199",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Bissell-CrossWave-HydroSteam-Function-3515G/dp/B0DNG786P1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=34bdcc54faf99e7f8f938d9d31318e60&language=en_US"
-        },
-        {
-          "asin": "B0DNG786P1",
-          "slug": "bissell-crosswave-hydrosteam-deluxe-steam-mop-3-in-1-wet-dry",
-          "title": "Bissell CrossWave HydroSteam Deluxe Steam Mop, 3-in-1 Wet Dry Vacuum Mop with Steam Function, Hard Floor Cleaner Machine",
-          "price": "$199",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Bissell-CrossWave-HydroSteam-Function-3515G/dp/B0DNG786P1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=34bdcc54faf99e7f8f938d9d31318e60&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T21:00:02.144Z",
-      "updatedAt": "2026-06-21T21:00:02.144Z"
+      "generatedAt": "2026-06-21T21:10:01.572Z",
+      "updatedAt": "2026-06-21T21:10:01.572Z"
     },
     {
       "date": "2026-06-20",
@@ -3485,5 +3485,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T21:00:02.146Z"
+  "generatedAt": "2026-06-21T21:10:01.573Z"
 }
