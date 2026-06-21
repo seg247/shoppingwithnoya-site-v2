@@ -8,7 +8,9 @@
       "categories": [
         "Other",
         "Grocery & Food",
-        "Pet Supplies"
+        "Pet Supplies",
+        "Personal Care",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -55,17 +57,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71KxLtftqjL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DR8FFXRZ/ref=cm_sw_r_as_gl_api_gl_i_NDAWJ2Y4XG8A7AB5ZNE5?linkCode=ml1&tag=noya0b-20&linkId=c024c4776a840b0296a2e991bbf98dd5"
-          },
-          {
-            "asin": "B00006IE7K",
-            "slug": "bic-round-stic-xtra-life-black-ballpoint-pens-medium-point-1",
-            "title": "BIC Round Stic Xtra Life Black Ballpoint Pens, Medium Point (1.0mm), 12-Count Pack of Bulk Pens, Flexible Round Barrel f",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71JsF3prXZL.jpg",
-            "url": "https://www.amazon.com/dp/B00006IE7K?lv=shuf&ascsubtag=srctok-3d8444faab0ad83e&btn_ref=srctok-3d8444faab0ad83e&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=31daea1e6910e72e23ec6e0706e8104a&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -101,17 +92,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81rxVv41ndL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GKHLG6N8/ref=cm_sw_r_as_gl_api_gl_i_ZAF0NCZEFPF2SDQME94E?linkCode=ml1&tag=noya0b-20&linkId=6c06f22ec7f0e784fdef3831eb9da784"
-          },
-          {
-            "asin": "B0752GGQG2",
-            "slug": "nespresso-capsules-originalline-arpeggio-dark-roast-espresso",
-            "title": "Nespresso Capsules OriginalLine, Arpeggio, Dark Roast Espresso, 50-Count Espresso Coffee Pods",
-            "price": "$34.20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0752GGQG2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -125,6 +105,32 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B00LHSAARW",
+            "slug": "rayovac-aa-batteries-double-a-battery-alkaline-60-count-elec",
+            "title": "Rayovac AA Batteries, Double A Battery Alkaline, 60 Count : Electronics",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71AgD-R0a6L.jpg",
+            "url": "https://www.amazon.com/dp/B00LHSAARW?lv=shuf&ascsubtag=e5fd82ba6d8d11f1a15542c7a6ea06620INT&th=1&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=09eef4464703312db62c95db7e67d921&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B07BLHHP7V",
+            "slug": "coleman-roadtrip-225-portable-tabletop-grill-2-burner-gas-gr",
+            "title": "Coleman RoadTrip 225 Portable Tabletop Grill, 2-Burner Gas Grill with Matchless Ignition & Adjustable Temperature Contro",
+            "price": "$159",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07BLHHP7V?lv=shuf&ascsubtag=5d16897a6d8c11f1be8232e2f310d4490INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ab563e57b02e511bfedaa69e5033c894&language=en_US"
           }
         ]
       },
@@ -161,6 +167,28 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
+        },
+        {
+          "asin": "B00LHSAARW",
+          "slug": "rayovac-aa-batteries-double-a-battery-alkaline-60-count-elec",
+          "title": "Rayovac AA Batteries, Double A Battery Alkaline, 60 Count : Electronics",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71AgD-R0a6L.jpg",
+          "url": "https://www.amazon.com/dp/B00LHSAARW?lv=shuf&ascsubtag=e5fd82ba6d8d11f1a15542c7a6ea06620INT&th=1&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=09eef4464703312db62c95db7e67d921&language=en_US"
+        },
+        {
+          "asin": "B07BLHHP7V",
+          "slug": "coleman-roadtrip-225-portable-tabletop-grill-2-burner-gas-gr",
+          "title": "Coleman RoadTrip 225 Portable Tabletop Grill, 2-Burner Gas Grill with Matchless Ignition & Adjustable Temperature Contro",
+          "price": "$159",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07BLHHP7V?lv=shuf&ascsubtag=5d16897a6d8c11f1be8232e2f310d4490INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ab563e57b02e511bfedaa69e5033c894&language=en_US"
         },
         {
           "asin": "B0FRGKSCY5",
@@ -216,28 +244,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81rxVv41ndL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GKHLG6N8/ref=cm_sw_r_as_gl_api_gl_i_ZAF0NCZEFPF2SDQME94E?linkCode=ml1&tag=noya0b-20&linkId=6c06f22ec7f0e784fdef3831eb9da784"
-        },
-        {
-          "asin": "B0752GGQG2",
-          "slug": "nespresso-capsules-originalline-arpeggio-dark-roast-espresso",
-          "title": "Nespresso Capsules OriginalLine, Arpeggio, Dark Roast Espresso, 50-Count Espresso Coffee Pods",
-          "price": "$34.20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0752GGQG2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B00006IE7K",
-          "slug": "bic-round-stic-xtra-life-black-ballpoint-pens-medium-point-1",
-          "title": "BIC Round Stic Xtra Life Black Ballpoint Pens, Medium Point (1.0mm), 12-Count Pack of Bulk Pens, Flexible Round Barrel f",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71JsF3prXZL.jpg",
-          "url": "https://www.amazon.com/dp/B00006IE7K?lv=shuf&ascsubtag=srctok-3d8444faab0ad83e&btn_ref=srctok-3d8444faab0ad83e&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=31daea1e6910e72e23ec6e0706e8104a&language=en_US"
         }
       ],
       "faq": [
@@ -262,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T16:20:01.985Z",
-      "updatedAt": "2026-06-21T16:20:01.985Z"
+      "generatedAt": "2026-06-21T16:30:00.390Z",
+      "updatedAt": "2026-06-21T16:30:00.390Z"
     },
     {
       "date": "2026-06-20",
@@ -3476,5 +3482,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T16:20:01.986Z"
+  "generatedAt": "2026-06-21T16:30:00.392Z"
 }
