@@ -10,8 +10,7 @@
         "Fashion",
         "Free Deal",
         "Beauty",
-        "Home & Kitchen",
-        "Sports & Fitness"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Free Deal": [
@@ -38,6 +37,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/7128THvfUFL.jpg",
             "url": "https://www.amazon.com/dp/B0FGGDXFK1?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6c81b9c48b880bf69574bf749686f66&language=en_US"
+          },
+          {
+            "asin": "B0BRL9S8L9",
+            "slug": "igloo-25-qt-latitude-marine-ultra-white-cooler-sports-outdoo",
+            "title": "Igloo 25 QT Latitude Marine Ultra White Cooler : Sports & Outdoors",
+            "price": "$27",
+            "discount": 40,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61P9NF6m9jL.jpg",
+            "url": "https://www.amazon.com/dp/B0BRL9S8L9?th=1&tag=noya0b-20"
           },
           {
             "asin": "B0DGVY42MP",
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61Ad5PvVRiL.jpg",
             "url": "https://www.amazon.com/dp/B0GK7C4GSY?th=1&tag=noya0b-20"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0FD37LJFR",
-            "slug": "goocrun-pilates-ring-set-exercise-equipment-with-exercise-re",
-            "title": "Goocrun Pilates Ring Set Exercise Equipment, with Exercise Resistance Bands Set, Pilates Ball, Sliding Disks. Portable H",
-            "price": "$9",
-            "discount": 23,
-            "rating": "WARM",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qUfQpWgyL.jpg",
-            "url": "https://www.amazon.com/dp/B0FD37LJFR?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -205,6 +202,17 @@
           "url": "https://www.amazon.com/dp/B0GK7C4GSY?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0BRL9S8L9",
+          "slug": "igloo-25-qt-latitude-marine-ultra-white-cooler-sports-outdoo",
+          "title": "Igloo 25 QT Latitude Marine Ultra White Cooler : Sports & Outdoors",
+          "price": "$27",
+          "discount": 40,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61P9NF6m9jL.jpg",
+          "url": "https://www.amazon.com/dp/B0BRL9S8L9?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DGVY42MP",
           "slug": "case-mate-jelly-tote-bag",
           "title": "Case-Mate Jelly Tote Bag",
@@ -236,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61OzWwpL4VL.jpg",
           "url": "https://www.amazon.com/dp/B00BTIUYOO?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FD37LJFR",
-          "slug": "goocrun-pilates-ring-set-exercise-equipment-with-exercise-re",
-          "title": "Goocrun Pilates Ring Set Exercise Equipment, with Exercise Resistance Bands Set, Pilates Ball, Sliding Disks. Portable H",
-          "price": "$9",
-          "discount": 23,
-          "rating": "WARM",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qUfQpWgyL.jpg",
-          "url": "https://www.amazon.com/dp/B0FD37LJFR?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-20T23:50:01.956Z",
-      "updatedAt": "2026-06-20T23:50:01.956Z"
+      "generatedAt": "2026-06-21T00:00:01.678Z",
+      "updatedAt": "2026-06-21T00:00:01.678Z"
     },
     {
       "date": "2026-06-19",
@@ -3214,5 +3211,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-20T23:50:01.957Z"
+  "generatedAt": "2026-06-21T00:00:01.679Z"
 }
