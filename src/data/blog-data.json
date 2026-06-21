@@ -4,15 +4,15 @@
       "date": "2026-06-21",
       "slug": "2026-06-21",
       "title": "🔥 Best Deals Today — June 21, 2026",
-      "intro": "Today's best online deals for Sunday, June 21, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Electronics and more. The best discount today is 71% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, June 21, 2026 — 10 hand-picked discounts across Other, Electronics, Grocery & Food and more. The best discount today is 71% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Grocery & Food",
         "Electronics",
+        "Grocery & Food",
         "Beauty",
+        "Fashion",
         "Home & Kitchen",
-        "Garden & Outdoor",
-        "Pet Supplies"
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Other": [
@@ -37,17 +37,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51j5FNmiDPL.jpg",
             "url": "https://www.amazon.com/dp/B0CW3SH3BN?th=1&linkCode=sl1&tag=noya0b-20&linkId=e93c8c0bb83cf76ca101fc7d6b5c6127&language=en_US"
-          },
-          {
-            "asin": "B0DG62Y3DM",
-            "slug": "brita-extra-large-27-cup-water-dispenser-with-britaplus-filt",
-            "title": "Brita Extra-Large 27-Cup Water Dispenser with BritaPlus Filter, WQA NSF/ANSI Certified, Reduces 2X Contaminants vs. Stan",
-            "price": "$30",
-            "discount": 38,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71T+ra7bkQL.jpg",
-            "url": "https://www.amazon.com/dp/B0DG62Y3DM?th=1&tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -61,6 +50,17 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61gw-l3qyVL.jpg",
             "url": "https://www.amazon.com/dp/B0C6W3D4RM?tag=noya0b-20"
+          },
+          {
+            "asin": "B0051U9D5M",
+            "slug": "tervis-clear-colorful-tabletop-made-in-usa-double-walled-ins",
+            "title": "Tervis Clear & Colorful Tabletop Made in USA Double Walled Insulated Tumbler Travel Cup Keeps Drinks Cold & Hot, 16oz - ",
+            "price": "$20",
+            "discount": 49,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HvSQUPm-L.jpg",
+            "url": "https://www.amazon.com/dp/B0051U9D5M?th=1&tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -100,6 +100,19 @@
             "url": "https://www.amazon.com/dp/B018MMISCY?th=1&tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B085B42F5G",
+            "slug": "us-traveler-boren-expandable-hardside-rugged-travel-luggage",
+            "title": "U.S. Traveler Boren Expandable Hardside Rugged Travel Luggage with 8 Spinner Wheels, Mint, Checked-Medium 26-Inch | Suit",
+            "price": "$58",
+            "discount": 47,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61bzP38wBHL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B085B42F5G?th=1&tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B00EI7DPI0",
@@ -124,19 +137,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07BLHC2G3?th=1&tag=noya0b-20"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B002UT92EY",
-            "slug": "go-score-blue-buffalo-dog-cat-food-for-an-extra-35-off-clip",
-            "title": "Go score blue buffalo dog & cat food for an extra 35% off clip q + sub and save up to 15% off + check for any extra coup",
-            "price": "$46.98",
-            "discount": 35,
-            "rating": "HOT",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
           }
         ]
       },
@@ -197,6 +197,28 @@
           "url": "https://www.amazon.com/dp/B0CT25P53Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=027f12d986d0f20ec2602d204c457b88&language=en_US"
         },
         {
+          "asin": "B0051U9D5M",
+          "slug": "tervis-clear-colorful-tabletop-made-in-usa-double-walled-ins",
+          "title": "Tervis Clear & Colorful Tabletop Made in USA Double Walled Insulated Tumbler Travel Cup Keeps Drinks Cold & Hot, 16oz - ",
+          "price": "$20",
+          "discount": 49,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HvSQUPm-L.jpg",
+          "url": "https://www.amazon.com/dp/B0051U9D5M?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B085B42F5G",
+          "slug": "us-traveler-boren-expandable-hardside-rugged-travel-luggage",
+          "title": "U.S. Traveler Boren Expandable Hardside Rugged Travel Luggage with 8 Spinner Wheels, Mint, Checked-Medium 26-Inch | Suit",
+          "price": "$58",
+          "discount": 47,
+          "rating": "HOT",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61bzP38wBHL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B085B42F5G?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B00EI7DPI0",
           "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
           "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
@@ -228,34 +250,12 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B018MMISCY?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DG62Y3DM",
-          "slug": "brita-extra-large-27-cup-water-dispenser-with-britaplus-filt",
-          "title": "Brita Extra-Large 27-Cup Water Dispenser with BritaPlus Filter, WQA NSF/ANSI Certified, Reduces 2X Contaminants vs. Stan",
-          "price": "$30",
-          "discount": 38,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71T+ra7bkQL.jpg",
-          "url": "https://www.amazon.com/dp/B0DG62Y3DM?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B002UT92EY",
-          "slug": "go-score-blue-buffalo-dog-cat-food-for-an-extra-35-off-clip",
-          "title": "Go score blue buffalo dog & cat food for an extra 35% off clip q + sub and save up to 15% off + check for any extra coup",
-          "price": "$46.98",
-          "discount": 35,
-          "rating": "HOT",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 21, 2026?",
-          "a": "The best deals today include \"AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Electronics and are updated daily."
+          "a": "The best deals today include \"AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T22:40:01.857Z",
-      "updatedAt": "2026-06-21T22:40:01.857Z"
+      "generatedAt": "2026-06-21T22:50:02.133Z",
+      "updatedAt": "2026-06-21T22:50:02.134Z"
     },
     {
       "date": "2026-06-20",
@@ -3488,5 +3488,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T22:40:01.859Z"
+  "generatedAt": "2026-06-21T22:50:02.135Z"
 }
