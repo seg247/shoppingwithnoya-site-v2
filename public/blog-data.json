@@ -9,10 +9,48 @@
         "Home & Kitchen",
         "Other",
         "Grocery & Food",
+        "Cleaning Supplies",
         "Toys & Kids",
         "Electronics"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0FPCYCBCT",
+            "slug": "40-sets-upgrade-3d-sticker-scene-collection-book-for-girls-k",
+            "title": "40 Sets Upgrade 3D Sticker Scene Collection Book for Girls Kids Adults DIY 3D House Stickers Set Make Your Own Shop Hous",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FPCYCBCT/ref=cm_sw_r_as_gl_api_gl_i_F4P387ERK73M3ED10ETN?linkCode=ml1&tag=noya0b-20&linkId=c2eb02f106dfda9c30bb9bd6e97809f2"
+          },
+          {
+            "asin": "B0DX6Q2VLV",
+            "slug": "pug-gifts-for-men-pug-owner-tumbler-birthday-fathers-day-gif",
+            "title": "Pug Gifts For Men, Pug Owner Tumbler, Birthday, Fathers Day Gift For Men, Christmas Presents For Dad, From Dogs To Dad, ",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DX6Q2VLV/ref=cm_sw_r_as_gl_api_gl_i_dl_VTSTBFD6BSDXJVMSHD3C?linkCode=ml1&tag=noya0b-20&linkId=87bed3c7f52b0b7121718e111d151626"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B00C9SOB1K",
+            "slug": "finish-jet-dry-dishwasher-rinse-aid-compatible-with-dishwash",
+            "title": "Finish Jet-Dry Dishwasher Rinse Aid, Compatible with Dishwasher Detergent, Prevents Spots & Residues, Dries, Shine & Pro",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71CknN1+iWL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00C9SOB1K/ref=cm_sw_r_as_gl_api_gl_i_Z624DXJJR664RD1CRTSK?linkCode=ml1&tag=noya0b-20&linkId=ffe74491ef2e89af7c33d1e8b944373b"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0DHLSZ13Q",
@@ -97,44 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61BddOBZojL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FN4LZQGT/ref=cm_sw_r_as_gl_api_gl_i_dl_0FFY7NV1TA9WK6T83CD8?linkCode=ml1&tag=noya0b-20&linkId=fd05d2414e64c388d59283f77bcf2d48"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0DX6Q2VLV",
-            "slug": "pug-gifts-for-men-pug-owner-tumbler-birthday-fathers-day-gif",
-            "title": "Pug Gifts For Men, Pug Owner Tumbler, Birthday, Fathers Day Gift For Men, Christmas Presents For Dad, From Dogs To Dad, ",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DX6Q2VLV/ref=cm_sw_r_as_gl_api_gl_i_dl_VTSTBFD6BSDXJVMSHD3C?linkCode=ml1&tag=noya0b-20&linkId=87bed3c7f52b0b7121718e111d151626"
-          },
-          {
-            "asin": "B0F4DYPF9S",
-            "slug": "hxod-rectangular-tablecloth-cationic-fabric-waterproof-stain",
-            "title": "HX&OD Rectangular Tablecloth Cationic Fabric Waterproof Stain Resistant Wrinkle-Resistant for Home/Decoration/Party/Buff",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71sXmDB+trL.jpg",
-            "url": "https://www.amazon.com/dp/B0F4DYPF9S/ref=cm_sw_r_as_gl_api_gl_i_dl_EHGV4MDT2H4VDX4S758P?linkCode=ml1&tag=noya0b-20&linkId=ee1861646a7b160c586663a1cb0e7e22"
-          },
-          {
-            "asin": "B0DZVPGLXD",
-            "slug": "20-rolls-of-instant-camera-paper-for-kids-hd-thermal-print-p",
-            "title": "20 Rolls of Instant Camera Paper for Kids, HD Thermal Print Paper Refill for Mini Printer & Instant Cameras, Creative, S",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61swey1J4zL.jpg",
-            "url": "https://www.amazon.com/dp/B0DZVPGLXD/ref=cm_sw_r_as_gl_api_gl_i_45Y7B7PH5Z7TA13HZQVM?linkCode=ml1&tag=noya0b-20&linkId=ea0cddc41acb54ad92fb2df4f865c85e"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FPCYCBCT",
+          "slug": "40-sets-upgrade-3d-sticker-scene-collection-book-for-girls-k",
+          "title": "40 Sets Upgrade 3D Sticker Scene Collection Book for Girls Kids Adults DIY 3D House Stickers Set Make Your Own Shop Hous",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FPCYCBCT/ref=cm_sw_r_as_gl_api_gl_i_F4P387ERK73M3ED10ETN?linkCode=ml1&tag=noya0b-20&linkId=c2eb02f106dfda9c30bb9bd6e97809f2"
+        },
+        {
+          "asin": "B00C9SOB1K",
+          "slug": "finish-jet-dry-dishwasher-rinse-aid-compatible-with-dishwash",
+          "title": "Finish Jet-Dry Dishwasher Rinse Aid, Compatible with Dishwasher Detergent, Prevents Spots & Residues, Dries, Shine & Pro",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71CknN1+iWL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00C9SOB1K/ref=cm_sw_r_as_gl_api_gl_i_Z624DXJJR664RD1CRTSK?linkCode=ml1&tag=noya0b-20&linkId=ffe74491ef2e89af7c33d1e8b944373b"
+        },
         {
           "asin": "B0DHLSZ13Q",
           "slug": "graco-turn2me-3-in-1-rotating-convertible-car-seat-mancheste",
@@ -222,34 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71nn3WNB92L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09RNGZF7N/ref=cm_sw_r_as_gl_api_gl_i_9242P81DW3KRSM7XSPDD?linkCode=ml1&tag=noya0b-20&linkId=5e0eae0bb13dd30153ee9b41627468fd"
-        },
-        {
-          "asin": "B0F4DYPF9S",
-          "slug": "hxod-rectangular-tablecloth-cationic-fabric-waterproof-stain",
-          "title": "HX&OD Rectangular Tablecloth Cationic Fabric Waterproof Stain Resistant Wrinkle-Resistant for Home/Decoration/Party/Buff",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71sXmDB+trL.jpg",
-          "url": "https://www.amazon.com/dp/B0F4DYPF9S/ref=cm_sw_r_as_gl_api_gl_i_dl_EHGV4MDT2H4VDX4S758P?linkCode=ml1&tag=noya0b-20&linkId=ee1861646a7b160c586663a1cb0e7e22"
-        },
-        {
-          "asin": "B0DZVPGLXD",
-          "slug": "20-rolls-of-instant-camera-paper-for-kids-hd-thermal-print-p",
-          "title": "20 Rolls of Instant Camera Paper for Kids, HD Thermal Print Paper Refill for Mini Printer & Instant Cameras, Creative, S",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61swey1J4zL.jpg",
-          "url": "https://www.amazon.com/dp/B0DZVPGLXD/ref=cm_sw_r_as_gl_api_gl_i_45Y7B7PH5Z7TA13HZQVM?linkCode=ml1&tag=noya0b-20&linkId=ea0cddc41acb54ad92fb2df4f865c85e"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 21, 2026?",
-          "a": "The best deals today include \"Graco Turn2Me 3-in-1 Rotating Convertible Car Seat, Manchest...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"40 Sets Upgrade 3D Sticker Scene Collection Book for Girls K...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T10:00:00.508Z",
-      "updatedAt": "2026-06-21T10:00:00.508Z"
+      "generatedAt": "2026-06-21T10:10:00.616Z",
+      "updatedAt": "2026-06-21T10:10:00.616Z"
     },
     {
       "date": "2026-06-20",
@@ -3482,5 +3485,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T10:00:00.510Z"
+  "generatedAt": "2026-06-21T10:10:00.617Z"
 }
