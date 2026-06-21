@@ -9,8 +9,8 @@
         "Skincare",
         "Hair Care",
         "Body Care",
-        "Makeup",
         "Nails",
+        "Makeup",
         "Fragrance"
       ],
       "bySubcat": {
@@ -114,19 +114,19 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/71EcIlkadIL.jpg",
             "url": "https://www.amazon.com/dp/B0F42WQ7VM/ref=cm_sw_r_as_gl_apa_gl_i_07084NY03N1HF6GT868E?linkCode=ml1&tag=noya0b-20&linkId=81c06b839e587132ab7bcc4a60fa65e8"
-          },
-          {
-            "asin": "B01MDT786Y",
-            "slug": "kiehls-age-defender-eye-repair-mens-anti-aging-eye-cream-red",
-            "title": "Kiehl's Age Defender Eye Repair, Men's Anti-Aging Eye Cream, Reduces Dark Circles, Wrinkles and Puffiness while Firming ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PMF26C2UL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B01MDT786Y/ref=cm_sw_r_as_gl_apa_gl_i_dl_M9X7551D57TW7T837ZP1?linkCode=ml1&tag=noya0b-20&linkId=8ed972aadfa4f90a7fd7337b402009f0"
           }
         ],
         "Hair Care": [
+          {
+            "asin": "B005YNB6VA",
+            "slug": "redken-all-soft-heavy-cream-mask-treatment-moisturizing-deep",
+            "title": "Redken All Soft Heavy Cream Mask Treatment- Moisturizing Deep Conditioner Treatment For Dry Hair, Softens and Smooths Ha",
+            "discount": 30,
+            "rating": "HOT",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B005YNB6VA?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B09GV3RGW2",
             "slug": "pantene-shampoo-conditioner-set-daily-moisture-renewal-pro-v",
@@ -246,16 +246,6 @@
             "subcat": "Hair Care",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F1NH9JVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e0790d65dbef6a0af20bcb8e00e189b3&language=en_US"
-          },
-          {
-            "asin": "B0GZSYD85M",
-            "slug": "yoztrs-foldable-ionic-hair-dryer-with-diffuser-800w-fast-dry",
-            "title": "YOZTRS Foldable Ionic Hair Dryer with Diffuser, 800W Fast Drying Blow Dryer, 38000 RPM, Lightweight, Pink Blue, for Home",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61zqAxPU1rL.jpg",
-            "url": "https://www.amazon.com/dp/B0GZSYD85M?th=1&tag=noya0b-20"
           }
         ],
         "Body Care": [
@@ -290,6 +280,28 @@
             "url": "https://www.amazon.com/dp/B00OCN96FQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
+        "Nails": [
+          {
+            "asin": "B076FCFLXD",
+            "slug": "dream-water-beauty-sleep-aid-drink-supplement-melatonin-5mg",
+            "title": "Dream Water Beauty Sleep Aid Drink Supplement; Melatonin 5mg, GABA, 5-HTP, Plus Biotin for Healthy Skin, Hair and Nails;",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/81-sGnhT+WL.jpg",
+            "url": "https://www.amazon.com/Dream-Water-Natural-Melatonin-Juvecol/dp/B076FCFLXD?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=2bc088ea618d0c34499f0492ec2506c6&language=en_US"
+          },
+          {
+            "asin": "B0FHQ29LPV",
+            "slug": "una-gella-blooming-gel-nail-polish-15ml-super-clear-for-spre",
+            "title": "UNA GELLA Blooming Gel Nail Polish 15ml Super Clear for Spreading Effect U V/LED Needed Nail Blooming Gel for Marble Nat",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/71xjnkrZaPL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHQ29LPV/ref=cm_sw_r_as_gl_api_gl_i_ZTTNNY9TXZYBQ2MWN64Z?linkCode=ml1&tag=noya0b-20&linkId=15720988f1df292532545525485e57f8"
+          }
+        ],
         "Makeup": [
           {
             "asin": "B08HDPDRN3",
@@ -300,18 +312,6 @@
             "subcat": "Makeup",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08HDPDRN3?th=1&tag=noya0b-20"
-          }
-        ],
-        "Nails": [
-          {
-            "asin": "B0FHQ29LPV",
-            "slug": "una-gella-blooming-gel-nail-polish-15ml-super-clear-for-spre",
-            "title": "UNA GELLA Blooming Gel Nail Polish 15ml Super Clear for Spreading Effect U V/LED Needed Nail Blooming Gel for Marble Nat",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xjnkrZaPL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHQ29LPV/ref=cm_sw_r_as_gl_api_gl_i_ZTTNNY9TXZYBQ2MWN64Z?linkCode=ml1&tag=noya0b-20&linkId=15720988f1df292532545525485e57f8"
           }
         ],
         "Fragrance": [
@@ -337,6 +337,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61zVXsYbevL.jpg",
           "url": "https://www.amazon.com/dp/B0CBR3KRMB?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B005YNB6VA",
+          "slug": "redken-all-soft-heavy-cream-mask-treatment-moisturizing-deep",
+          "title": "Redken All Soft Heavy Cream Mask Treatment- Moisturizing Deep Conditioner Treatment For Dry Hair, Softens and Smooths Ha",
+          "discount": 30,
+          "rating": "HOT",
+          "subcat": "Hair Care",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B005YNB6VA?th=1&tag=noya0b-20"
         },
         {
           "asin": "B00PBX3L7K",
@@ -377,6 +387,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HzwNX24KL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B076FCFLXD",
+          "slug": "dream-water-beauty-sleep-aid-drink-supplement-melatonin-5mg",
+          "title": "Dream Water Beauty Sleep Aid Drink Supplement; Melatonin 5mg, GABA, 5-HTP, Plus Biotin for Healthy Skin, Hair and Nails;",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Nails",
+          "imageUrl": "https://m.media-amazon.com/images/I/81-sGnhT+WL.jpg",
+          "url": "https://www.amazon.com/Dream-Water-Natural-Melatonin-Juvecol/dp/B076FCFLXD?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=2bc088ea618d0c34499f0492ec2506c6&language=en_US"
         },
         {
           "asin": "B0D7XZCSLP",
@@ -607,26 +627,6 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/71Nqg5yY4CL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CLTDQSHF/ref=cm_sw_r_as_gl_apa_gl_i_ZBXXR0YHBXKZZH57HTTE?linkCode=ml1&tag=noya0b-20&linkId=067f6e56b5d16b09e50bdd262e6be1ec"
-        },
-        {
-          "asin": "B01MDT786Y",
-          "slug": "kiehls-age-defender-eye-repair-mens-anti-aging-eye-cream-red",
-          "title": "Kiehl's Age Defender Eye Repair, Men's Anti-Aging Eye Cream, Reduces Dark Circles, Wrinkles and Puffiness while Firming ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61PMF26C2UL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B01MDT786Y/ref=cm_sw_r_as_gl_apa_gl_i_dl_M9X7551D57TW7T837ZP1?linkCode=ml1&tag=noya0b-20&linkId=8ed972aadfa4f90a7fd7337b402009f0"
-        },
-        {
-          "asin": "B0GZSYD85M",
-          "slug": "yoztrs-foldable-ionic-hair-dryer-with-diffuser-800w-fast-dry",
-          "title": "YOZTRS Foldable Ionic Hair Dryer with Diffuser, 800W Fast Drying Blow Dryer, 38000 RPM, Lightweight, Pink Blue, for Home",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61zqAxPU1rL.jpg",
-          "url": "https://www.amazon.com/dp/B0GZSYD85M?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-21T23:30:03.800Z",
-      "updatedAt": "2026-06-21T23:30:03.800Z"
+      "generatedAt": "2026-06-21T23:40:04.308Z",
+      "updatedAt": "2026-06-21T23:40:04.308Z"
     },
     {
       "date": "2026-06-20",
@@ -6867,5 +6867,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-21T23:30:03.803Z"
+  "generatedAt": "2026-06-21T23:40:04.311Z"
 }
