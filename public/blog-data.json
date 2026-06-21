@@ -4,17 +4,29 @@
       "date": "2026-06-21",
       "slug": "2026-06-21",
       "title": "🔥 Best Deals Today — June 21, 2026",
-      "intro": "Today's best online deals for Sunday, June 21, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, June 21, 2026 — 10 hand-picked discounts across Other, Beauty, Cleaning Supplies and more. The best discount today is 71% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Home & Kitchen",
+        "Beauty",
         "Cleaning Supplies",
         "Toys & Kids",
         "Electronics",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B09RNC8MTL",
+            "slug": "as-low-as-71-off-on-sale-plus-buy-1-get-1-free",
+            "title": "AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free",
+            "price": "$22.99",
+            "discount": 71,
+            "rating": "FIRE",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B09RNC8MTL?tag=noya0b-20"
+          },
           {
             "asin": "B0FX3FYVK9",
             "slug": "hamilton-beach-sandwich-stacker-customizable-hot-sandwich-ma",
@@ -47,6 +59,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FPCYCBCT/ref=cm_sw_r_as_gl_api_gl_i_F4P387ERK73M3ED10ETN?linkCode=ml1&tag=noya0b-20&linkId=c2eb02f106dfda9c30bb9bd6e97809f2"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B009ZJ2M7G",
+            "slug": "hoover-powerscrub-deluxe-carpet-cleaner-machine-deep-cleanin",
+            "title": "Hoover PowerScrub Deluxe Carpet Cleaner Machine, Deep Cleaning Carpet Shampooer Machine, SpinScrub Brushes, HeatForce Dr",
+            "price": "$169.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71z52p-4LpL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B009ZJ2M7G?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Cleaning Supplies": [
@@ -112,32 +137,32 @@
             "category": "Home & Kitchen",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FJ7BCS8V/ref=cm_sw_r_as_gl_api_gl_i_3YZTBGSZCZ7CMCTHNGYA?linkCode=ml1&tag=noya0b-20&linkId=695028c45c7774bac46d0f598b7029f3"
-          },
-          {
-            "asin": "B0FQ5795TT",
-            "slug": "kitexpert-non-stick-frying-pans-titanium-ceramic-skillet-set",
-            "title": "KITEXPERT Non Stick Frying Pans, Titanium Ceramic Skillet Set for Cooking, 8&#34; 9.5&#34; 11&#34; Non Toxic Ceramic Pan",
-            "price": "$24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JM0sEsglL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FQ5795TT/ref=cm_sw_r_as_gl_api_gl_i_dl_622XE6G31TSYQA49Z0ZV?linkCode=ml1&tag=noya0b-20&linkId=80c7f0f7c3de0d6a9d8aa8e627005908"
-          },
-          {
-            "asin": "B0FN4LZQGT",
-            "slug": "starfrit-personal-blender-two-828ml-cups-high-low-pulse-mode",
-            "title": "Starfrit Personal Blender - Two 828ml Cups - High, Low & Pulse Modes - 300W - Sage",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61BddOBZojL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FN4LZQGT/ref=cm_sw_r_as_gl_api_gl_i_dl_0FFY7NV1TA9WK6T83CD8?linkCode=ml1&tag=noya0b-20&linkId=fd05d2414e64c388d59283f77bcf2d48"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B09RNC8MTL",
+          "slug": "as-low-as-71-off-on-sale-plus-buy-1-get-1-free",
+          "title": "AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free",
+          "price": "$22.99",
+          "discount": 71,
+          "rating": "FIRE",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B09RNC8MTL?tag=noya0b-20"
+        },
+        {
+          "asin": "B009ZJ2M7G",
+          "slug": "hoover-powerscrub-deluxe-carpet-cleaner-machine-deep-cleanin",
+          "title": "Hoover PowerScrub Deluxe Carpet Cleaner Machine, Deep Cleaning Carpet Shampooer Machine, SpinScrub Brushes, HeatForce Dr",
+          "price": "$169.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71z52p-4LpL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B009ZJ2M7G?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0FX3FYVK9",
           "slug": "hamilton-beach-sandwich-stacker-customizable-hot-sandwich-ma",
@@ -225,38 +250,16 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FJ7BCS8V/ref=cm_sw_r_as_gl_api_gl_i_3YZTBGSZCZ7CMCTHNGYA?linkCode=ml1&tag=noya0b-20&linkId=695028c45c7774bac46d0f598b7029f3"
-        },
-        {
-          "asin": "B0FQ5795TT",
-          "slug": "kitexpert-non-stick-frying-pans-titanium-ceramic-skillet-set",
-          "title": "KITEXPERT Non Stick Frying Pans, Titanium Ceramic Skillet Set for Cooking, 8&#34; 9.5&#34; 11&#34; Non Toxic Ceramic Pan",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JM0sEsglL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FQ5795TT/ref=cm_sw_r_as_gl_api_gl_i_dl_622XE6G31TSYQA49Z0ZV?linkCode=ml1&tag=noya0b-20&linkId=80c7f0f7c3de0d6a9d8aa8e627005908"
-        },
-        {
-          "asin": "B0FN4LZQGT",
-          "slug": "starfrit-personal-blender-two-828ml-cups-high-low-pulse-mode",
-          "title": "Starfrit Personal Blender - Two 828ml Cups - High, Low & Pulse Modes - 300W - Sage",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61BddOBZojL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FN4LZQGT/ref=cm_sw_r_as_gl_api_gl_i_dl_0FFY7NV1TA9WK6T83CD8?linkCode=ml1&tag=noya0b-20&linkId=fd05d2414e64c388d59283f77bcf2d48"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 21, 2026?",
-          "a": "The best deals today include \"Hamilton Beach Sandwich Stacker Customizable Hot Sandwich Ma...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Cleaning Supplies and are updated daily."
+          "a": "The best deals today include \"AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "The biggest discount today is 71% off on \"AS LOW AS 71% OFF! On sale plus Buy 1 Get 1 Free...\". There are 1 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T10:20:00.759Z",
-      "updatedAt": "2026-06-21T10:20:00.759Z"
+      "generatedAt": "2026-06-21T10:30:01.854Z",
+      "updatedAt": "2026-06-21T10:30:01.854Z"
     },
     {
       "date": "2026-06-20",
@@ -3485,5 +3488,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T10:20:00.760Z"
+  "generatedAt": "2026-06-21T10:30:01.856Z"
 }
