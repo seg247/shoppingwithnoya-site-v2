@@ -9,9 +9,9 @@
         "Other",
         "Electronics",
         "Fashion",
-        "Home & Kitchen",
         "Beauty",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
@@ -36,6 +36,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51j5FNmiDPL.jpg",
             "url": "https://www.amazon.com/dp/B0CW3SH3BN?th=1&linkCode=sl1&tag=noya0b-20&linkId=e93c8c0bb83cf76ca101fc7d6b5c6127&language=en_US"
+          },
+          {
+            "asin": "B0DRV4YCFB",
+            "slug": "tribesigns-63-black-console-table-farmhouse-entryway-table-w",
+            "title": "Tribesigns 63\" Black Console Table, Farmhouse Entryway Table with Trapezoidal Base, Narrow Long Wood Sofa Table Behind C",
+            "price": "$83",
+            "discount": 48,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81XyA-pavXL.jpg",
+            "url": "https://www.amazon.com/dp/B0DRV4YCFB?th=1&tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -123,17 +134,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81FfjmHx9zL.jpg",
             "url": "https://www.amazon.com/dp/B0D65N34TV?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B00EI7DPI0",
-            "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
-            "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
-            "price": "$23",
-            "discount": 41,
-            "rating": "HOT",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71k1RTjfAhL.jpg",
-            "url": "https://www.amazon.com/dp/B00EI7DPI0?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -216,6 +216,17 @@
           "url": "https://www.amazon.com/dp/B0051U9D5M?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0DRV4YCFB",
+          "slug": "tribesigns-63-black-console-table-farmhouse-entryway-table-w",
+          "title": "Tribesigns 63\" Black Console Table, Farmhouse Entryway Table with Trapezoidal Base, Narrow Long Wood Sofa Table Behind C",
+          "price": "$83",
+          "discount": 48,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81XyA-pavXL.jpg",
+          "url": "https://www.amazon.com/dp/B0DRV4YCFB?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B085B42F5G",
           "slug": "us-traveler-boren-expandable-hardside-rugged-travel-luggage",
           "title": "U.S. Traveler Boren Expandable Hardside Rugged Travel Luggage with 8 Spinner Wheels, Mint, Checked-Medium 26-Inch | Suit",
@@ -236,17 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81FfjmHx9zL.jpg",
           "url": "https://www.amazon.com/dp/B0D65N34TV?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B00EI7DPI0",
-          "slug": "hamilton-beach-power-elite-wave-action-blender-for-smoothies",
-          "title": "Hamilton Beach Power Elite Wave Action Blender For Smoothies, 40 Oz Glass Jar, 12 Functions Including Puree, Crush Ice, ",
-          "price": "$23",
-          "discount": 41,
-          "rating": "HOT",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71k1RTjfAhL.jpg",
-          "url": "https://www.amazon.com/dp/B00EI7DPI0?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-21T23:40:02.069Z",
-      "updatedAt": "2026-06-21T23:40:02.069Z"
+      "generatedAt": "2026-06-21T23:50:02.215Z",
+      "updatedAt": "2026-06-21T23:50:02.215Z"
     },
     {
       "date": "2026-06-20",
@@ -3485,5 +3485,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-21T23:40:02.070Z"
+  "generatedAt": "2026-06-21T23:50:02.216Z"
 }
