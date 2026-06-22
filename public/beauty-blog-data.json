@@ -9,6 +9,7 @@
         "Skincare",
         "Hair Care",
         "Body Care",
+        "Beauty",
         "Nails",
         "Makeup"
       ],
@@ -133,7 +134,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51oXkf2poGL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01MQYUM3N?lv=shuf&ascsubtag=c5f9310a6de011f1a8624243ebccb2840INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e8e990e0234b15316cff1211f8b5435c&language=en_US"
           },
           {
@@ -143,7 +144,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/51qmX2A31iL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0876WXY8D?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -213,18 +214,8 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JFQRx5PUL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07KQQF6DZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ae55bdcb018169b46052e328dead037&language=en_US"
-          },
-          {
-            "asin": "B0CQ8WB1MY",
-            "slug": "biolage-scalp-sync-universal-conditioner-nourishing-hydratin",
-            "title": "\udecd️Biolage Scalp Sync Universal Conditioner - Nourishing & Hydrating for All Scalp Types, Lightweight Moisturizing & Cond",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51DT5unlspL._SL1500_.jpg",
-            "url": "https://www.amazon.com/Biolage-Scalp-Sync-Anti-Dandruff-Shampoo/dp/B0CQ8WB1MY?content-id=amzn1.sym.b2ea96de-4ff7-488a-9aef-60031d957bf3&pd_rd_i=B0CQ8WB1MY&th=1&linkCode=sl2&tag=noya0b-20&linkId=e59a008b5aef22c2c5d5354db8e02470&language=en_US"
           }
         ],
         "Body Care": [
@@ -235,7 +226,7 @@
             "discount": 25,
             "rating": "WARM",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61hEqhpKebL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/Degree-Antiperspirant-Deodorant-Flowers-Lychee/dp/B0080PEM3S?linkCode=sl2&tag=noya0b-20&linkId=211eb4668b17ad7f5d29f006a41cf33f&language=en_US"
           },
           {
@@ -289,6 +280,18 @@
             "url": "https://www.amazon.com/dp/B0C2ZRN6QG?lv=shuf&ascsubtag=dfa96b7e6dd611f18235de80373c4e0a0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c7e905000a7569a9eec4b8ce3e2a14e3&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0DWXMKB9G",
+            "slug": "150-pcs-referral-cards-for-business-loyalty-reward-discount",
+            "title": "150 Pcs Referral Cards for Business - Loyalty Reward Discount Cards 3.5 x 2 Inch Double Sided for Beauty Salons Small Bu",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
+            "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
+          }
+        ],
         "Nails": [
           {
             "asin": "B076HVJXNY",
@@ -319,7 +322,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RSydRYwTL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08HDPDRN3?th=1&tag=noya0b-20"
           }
         ]
@@ -372,7 +375,7 @@
           "discount": 25,
           "rating": "WARM",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61hEqhpKebL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/Degree-Antiperspirant-Deodorant-Flowers-Lychee/dp/B0080PEM3S?linkCode=sl2&tag=noya0b-20&linkId=211eb4668b17ad7f5d29f006a41cf33f&language=en_US"
         },
         {
@@ -384,6 +387,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HzwNX24KL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0DWXMKB9G",
+          "slug": "150-pcs-referral-cards-for-business-loyalty-reward-discount",
+          "title": "150 Pcs Referral Cards for Business - Loyalty Reward Discount Cards 3.5 x 2 Inch Double Sided for Beauty Salons Small Bu",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
+          "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
         },
         {
           "asin": "B099N1LC4R",
@@ -452,7 +465,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/51oXkf2poGL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01MQYUM3N?lv=shuf&ascsubtag=c5f9310a6de011f1a8624243ebccb2840INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e8e990e0234b15316cff1211f8b5435c&language=en_US"
         },
         {
@@ -462,7 +475,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51qmX2A31iL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0876WXY8D?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -542,7 +555,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RSydRYwTL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08HDPDRN3?th=1&tag=noya0b-20"
         },
         {
@@ -612,18 +625,8 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JFQRx5PUL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07KQQF6DZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ae55bdcb018169b46052e328dead037&language=en_US"
-        },
-        {
-          "asin": "B0CQ8WB1MY",
-          "slug": "biolage-scalp-sync-universal-conditioner-nourishing-hydratin",
-          "title": "\udecd️Biolage Scalp Sync Universal Conditioner - Nourishing & Hydrating for All Scalp Types, Lightweight Moisturizing & Cond",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/51DT5unlspL._SL1500_.jpg",
-          "url": "https://www.amazon.com/Biolage-Scalp-Sync-Anti-Dandruff-Shampoo/dp/B0CQ8WB1MY?content-id=amzn1.sym.b2ea96de-4ff7-488a-9aef-60031d957bf3&pd_rd_i=B0CQ8WB1MY&th=1&linkCode=sl2&tag=noya0b-20&linkId=e59a008b5aef22c2c5d5354db8e02470&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -662,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-22T10:30:04.295Z",
-      "updatedAt": "2026-06-22T10:30:04.295Z"
+      "generatedAt": "2026-06-22T10:40:03.796Z",
+      "updatedAt": "2026-06-22T10:40:03.796Z"
     },
     {
       "date": "2026-06-21",
@@ -7529,5 +7532,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-22T10:30:04.297Z"
+  "generatedAt": "2026-06-22T10:40:03.798Z"
 }
