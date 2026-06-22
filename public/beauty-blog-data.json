@@ -9,9 +9,9 @@
         "Skincare",
         "Hair Care",
         "Body Care",
+        "Beauty",
         "Makeup",
-        "Nails",
-        "Beauty"
+        "Nails"
       ],
       "bySubcat": {
         "Skincare": [
@@ -246,7 +246,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61sTVlvcLWL.jpg",
             "url": "https://www.amazon.com/Native-Deodorant-Aluminum-Probiotics-Blueberry/dp/B0F6ZWGJZB?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d8d80405eec33a8b7d4fb1f7572fd215&language=en_US"
           },
           {
@@ -278,16 +278,28 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71yP8A7R4GL.jpg",
             "url": "https://www.amazon.com/dp/B0GSXHVH1C?tag=noya0b-20"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B08TV3WZZC",
-            "slug": "aveeno-baby-cleansing-therapy-moisturizing-baby-body-wash-wi",
-            "title": "Aveeno Baby Cleansing Therapy Moisturizing Baby Body Wash with Natural Oatmeal & ProVitamin B5, Gentle Tear-Free Baby Ba",
+            "asin": "B07YL4L81W",
+            "slug": "tiffany-love-by-tiffany-co-for-her-16-oz-eau-de-parfum-spray",
+            "title": "Tiffany & Love by Tiffany & Co. for Her 1.6 oz Eau de Parfum Spray : Beauty & Personal Care",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B08TV3WZZC/ref=cm_sw_r_as_gl_apa_gl_i_SFGPQN632FE5PSBESFX4?linkCode=ml1&tag=noya0b-20&linkId=e42709cd9f8ab39d7d5271ba58ea8111"
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41oi+ZxXvQL.jpg",
+            "url": "https://www.amazon.com/dp/B07YL4L81W?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0DWXMKB9G",
+            "slug": "150-pcs-referral-cards-for-business-loyalty-reward-discount",
+            "title": "150 Pcs Referral Cards for Business - Loyalty Reward Discount Cards 3.5 x 2 Inch Double Sided for Beauty Salons Small Bu",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
+            "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
           }
         ],
         "Makeup": [
@@ -312,18 +324,6 @@
             "subcat": "Nails",
             "imageUrl": "https://m.media-amazon.com/images/I/71xjnkrZaPL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FHQ29LPV/ref=cm_sw_r_as_gl_api_gl_i_ZTTNNY9TXZYBQ2MWN64Z?linkCode=ml1&tag=noya0b-20&linkId=15720988f1df292532545525485e57f8"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DWXMKB9G",
-            "slug": "150-pcs-referral-cards-for-business-loyalty-reward-discount",
-            "title": "150 Pcs Referral Cards for Business - Loyalty Reward Discount Cards 3.5 x 2 Inch Double Sided for Beauty Salons Small Bu",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
-            "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
           }
         ]
       },
@@ -389,6 +389,16 @@
           "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B07YL4L81W",
+          "slug": "tiffany-love-by-tiffany-co-for-her-16-oz-eau-de-parfum-spray",
+          "title": "Tiffany & Love by Tiffany & Co. for Her 1.6 oz Eau de Parfum Spray : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/41oi+ZxXvQL.jpg",
+          "url": "https://www.amazon.com/dp/B07YL4L81W?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B07GDT961B",
           "slug": "cetaphil-dermacontrol-oil-absorbing-moisturizer-with-spf-30",
           "title": "Cetaphil DermaControl Oil Absorbing Moisturizer with SPF 30, For Sensitive, Oily Skin, 4 Fl oz, Absorbs Oil, Reduces Shi",
@@ -445,7 +455,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61sTVlvcLWL.jpg",
           "url": "https://www.amazon.com/Native-Deodorant-Aluminum-Probiotics-Blueberry/dp/B0F6ZWGJZB?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d8d80405eec33a8b7d4fb1f7572fd215&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
           "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
-        },
-        {
-          "asin": "B08TV3WZZC",
-          "slug": "aveeno-baby-cleansing-therapy-moisturizing-baby-body-wash-wi",
-          "title": "Aveeno Baby Cleansing Therapy Moisturizing Baby Body Wash with Natural Oatmeal & ProVitamin B5, Gentle Tear-Free Baby Ba",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B08TV3WZZC/ref=cm_sw_r_as_gl_apa_gl_i_SFGPQN632FE5PSBESFX4?linkCode=ml1&tag=noya0b-20&linkId=e42709cd9f8ab39d7d5271ba58ea8111"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-22T20:50:04.059Z",
-      "updatedAt": "2026-06-22T20:50:04.059Z"
+      "generatedAt": "2026-06-22T21:00:03.928Z",
+      "updatedAt": "2026-06-22T21:00:03.928Z"
     },
     {
       "date": "2026-06-21",
@@ -7532,5 +7532,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-22T20:50:04.061Z"
+  "generatedAt": "2026-06-22T21:00:03.931Z"
 }
