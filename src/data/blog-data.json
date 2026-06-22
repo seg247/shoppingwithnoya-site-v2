@@ -4,13 +4,13 @@
       "date": "2026-06-22",
       "slug": "2026-06-22",
       "title": "🔥 Best Deals Today — June 22, 2026",
-      "intro": "Today's best online deals for Monday, June 22, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Pet Supplies and more. The best discount today is 35% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, June 22, 2026 — 10 hand-picked discounts across Grocery & Food, Home & Kitchen, Other and more. The best discount today is 35% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
         "Grocery & Food",
+        "Home & Kitchen",
+        "Other",
         "Pet Supplies",
-        "Beauty",
-        "Personal Care"
+        "Electronics"
       ],
       "byCategory": {
         "Pet Supplies": [
@@ -26,7 +26,90 @@
             "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
           }
         ],
+        "Grocery & Food": [
+          {
+            "asin": "B07VBFLCFN",
+            "slug": "snapple-apple-juice-drink-16-fl-oz-recycled-plastic-bottle-a",
+            "title": "Snapple Apple Juice Drink, 16 Fl Oz Recycled Plastic Bottle, All Natural, No Artificial Flavors Or Sweeteners, Gluten-fr",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81qCE0es+RL.jpg",
+            "url": "https://www.amazon.com/dp/B07VBFLCFN?th=1&linkCode=sl2&tag=noya0b-20&linkId=9cd66c5b48775b3a3bba52f2216d11c1&language=en_US"
+          },
+          {
+            "asin": "B07VMK49QZ",
+            "slug": "davinci-gourmet-classic-banana-syrup-254-fluid-ounces-pack-o",
+            "title": "DaVinci Gourmet Classic Banana Syrup, 25.4 Fluid Ounces (Pack of 1) : Grocery & Gourmet Food",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71a0dojOglL.jpg",
+            "url": "https://www.amazon.com/dp/B07VMK49QZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=7daa2d6fa935b323367c343b7a5626a3&language=en_US"
+          },
+          {
+            "asin": "B0CN3V9YX7",
+            "slug": "flavor-aid-aguas-frescas-singles-to-go-variety-pack-powdered",
+            "title": "Flavor Aid Aguas Frescas Singles To Go Variety Pack, Powdered Drink Mix, 1 Box (50 Single Servings) : Grocery & Gourmet ",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81vI44yecdL.jpg",
+            "url": "https://www.amazon.com/Flavor-Aid-Frescas-Powdered-Servings/dp/B0CN3V9YX7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=274fa792e04a33a27eb12a36e4918f62&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B00L5IOU5M",
+            "slug": "wholesome-sweeteners-44-ounce-organic-raw-blue-agave-nectar",
+            "title": "Wholesome Sweeteners 44-Ounce Organic Raw Blue Agave Nectar, Fair Trade, 100% Pure, Non GMO, Gluten Free & Vegan, 1 Pack",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61OAecpjhNL.jpg",
+            "url": "https://www.amazon.com/Wholesome-Sweeteners-Certified-Organic-Single/dp/B00L5IOU5M?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a79aee0a1bf571fdf6f6a620322416ac&language=en_US"
+          },
+          {
+            "asin": "B0CGS363W3",
+            "slug": "magna-tiles-downhill-duo-40-piece-magnetic-construction-set",
+            "title": "\udecd️MAGNA-TILES Downhill Duo 40-Piece Magnetic Construction Set, The Original Magnetic Building Brand",
+            "price": "$69.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CGS363W3?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0G6KM3PVK",
+            "slug": "wireless-keyboard-and-mouse-combo-mowux-compact-typewriter-r",
+            "title": "\udecd️Wireless Keyboard and Mouse Combo, MOWUX Compact Typewriter Retro Round Computer Keyboard, Cute Optical Mouse Wireless",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/619lgutEiYL.jpg",
+            "url": "https://www.amazon.com/dp/B0G6KM3PVK?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0C3C6LT2H",
+            "slug": "bjpkpk-insulated-water-bottles-with-straw-20-oz-cute-water-b",
+            "title": "\udecd️BJPKPK Insulated Water Bottles with Straw, 20 oz Cute Water Bottles with Handle, BPA Free Stainless Steel Metal Jug, E",
+            "price": "$16.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71onGrwKYRL.jpg",
+            "url": "https://www.amazon.com/dp/B0C3C6LT2H?tag=noya0b-20"
+          },
           {
             "asin": "B0GD6JWR59",
             "slug": "collapsible-colanders-food-strainers-3-pack-foldable-kitchen",
@@ -48,89 +131,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51EpAABDpML.jpg",
             "url": "https://www.amazon.com/dp/B0711WZ7S7?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BMT7WW6H",
-            "slug": "niuyichee-set-of-4-water-absorbent-diatomite-coasters-diatom",
-            "title": "\udecd️NiuYichee Set of 4 Water Absorbent Diatomite Coasters, Diatomaceous Earth Kitchen Soap Dish, Bathroom Trays, Water Abs",
-            "price": "$14.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61kDgIPgNvL.jpg",
-            "url": "https://www.amazon.com/dp/B0BMT7WW6H?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GQCDSY7C",
-            "slug": "hamilton-beach-2-slice-extra-wide-slot-toaster-with-bagel-de",
-            "title": "\udecd️Hamilton Beach 2 Slice Extra Wide Slot Toaster with Bagel & Defrost Settings, Shade Selector with 7 Browning Levels, T",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71iSmaXlK9L.jpg",
-            "url": "https://www.amazon.com/dp/B0GQCDSY7C?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F43PZZXT",
-            "slug": "goovilla-freezer-organizer-bins-with-foldable-handle-4-pack",
-            "title": "\udecd️Goovilla Freezer Organizer Bins with Foldable Handle, 4 Pack Stackable Freezer Baskets for 3.5-7 Cu.FT Deep Chest Free",
-            "price": "$38.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/716jOCoOppL.jpg",
-            "url": "https://www.amazon.com/dp/B0F43PZZXT?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0CN3V9YX7",
-            "slug": "flavor-aid-aguas-frescas-singles-to-go-variety-pack-powdered",
-            "title": "Flavor Aid Aguas Frescas Singles To Go Variety Pack, Powdered Drink Mix, 1 Box (50 Single Servings) : Grocery & Gourmet ",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vI44yecdL.jpg",
-            "url": "https://www.amazon.com/Flavor-Aid-Frescas-Powdered-Servings/dp/B0CN3V9YX7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=274fa792e04a33a27eb12a36e4918f62&language=en_US"
-          },
-          {
-            "asin": "B09YTBNMYM",
-            "slug": "hyperchiller-hc2as-patented-iced-coffeebeverage-cooler-new-i",
-            "title": "\udecd️HyperChiller HC2AS Patented Iced Coffee/Beverage Cooler, NEW, IMPROVED,STRONGER AND MORE DURABLE! Ready in One Minute,",
-            "price": "$24.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09YTBNMYM?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B099N1LC4R",
-            "slug": "cetaphil-face-body-moisturizer-hydrating-moisturizing-cream",
-            "title": "\udecd️Cetaphil Face & Body Moisturizer, Hydrating Moisturizing Cream for Dry to Very Dry, Sensitive Skin, NEW 20 oz, Fragran",
-            "price": "$15.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71w8dfE39aL.jpg",
-            "url": "https://www.amazon.com/dp/B099N1LC4R?tag=noya0b-20"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0CDFWGNWR",
-            "slug": "azen-16-pack-self-adhesive-bandage-wrap-2-x-5-yards-elastic",
-            "title": "AZEN 16 Pack Self Adhesive Bandage Wrap, 2\" X 5 Yards Elastic Cohesive Bandage Wrap, Color Athletic Tape, Vet Wrap, Ankl",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81v7knCTqWL.jpg",
-            "url": "https://www.amazon.com/dp/B0CDFWGNWR/ref=cm_sw_r_as_gl_api_gl_i_TEK71Z9P94PZ0PPEH2Q9?linkCode=ml1&tag=noya0b-20&linkId=b6520cc51531d82d6e9b51a298f88cc6"
           }
         ]
       },
@@ -145,6 +145,72 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL.jpg",
           "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
+        },
+        {
+          "asin": "B07VBFLCFN",
+          "slug": "snapple-apple-juice-drink-16-fl-oz-recycled-plastic-bottle-a",
+          "title": "Snapple Apple Juice Drink, 16 Fl Oz Recycled Plastic Bottle, All Natural, No Artificial Flavors Or Sweeteners, Gluten-fr",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81qCE0es+RL.jpg",
+          "url": "https://www.amazon.com/dp/B07VBFLCFN?th=1&linkCode=sl2&tag=noya0b-20&linkId=9cd66c5b48775b3a3bba52f2216d11c1&language=en_US"
+        },
+        {
+          "asin": "B07VMK49QZ",
+          "slug": "davinci-gourmet-classic-banana-syrup-254-fluid-ounces-pack-o",
+          "title": "DaVinci Gourmet Classic Banana Syrup, 25.4 Fluid Ounces (Pack of 1) : Grocery & Gourmet Food",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71a0dojOglL.jpg",
+          "url": "https://www.amazon.com/dp/B07VMK49QZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=7daa2d6fa935b323367c343b7a5626a3&language=en_US"
+        },
+        {
+          "asin": "B00L5IOU5M",
+          "slug": "wholesome-sweeteners-44-ounce-organic-raw-blue-agave-nectar",
+          "title": "Wholesome Sweeteners 44-Ounce Organic Raw Blue Agave Nectar, Fair Trade, 100% Pure, Non GMO, Gluten Free & Vegan, 1 Pack",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61OAecpjhNL.jpg",
+          "url": "https://www.amazon.com/Wholesome-Sweeteners-Certified-Organic-Single/dp/B00L5IOU5M?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a79aee0a1bf571fdf6f6a620322416ac&language=en_US"
+        },
+        {
+          "asin": "B0G6KM3PVK",
+          "slug": "wireless-keyboard-and-mouse-combo-mowux-compact-typewriter-r",
+          "title": "\udecd️Wireless Keyboard and Mouse Combo, MOWUX Compact Typewriter Retro Round Computer Keyboard, Cute Optical Mouse Wireless",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/619lgutEiYL.jpg",
+          "url": "https://www.amazon.com/dp/B0G6KM3PVK?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C3C6LT2H",
+          "slug": "bjpkpk-insulated-water-bottles-with-straw-20-oz-cute-water-b",
+          "title": "\udecd️BJPKPK Insulated Water Bottles with Straw, 20 oz Cute Water Bottles with Handle, BPA Free Stainless Steel Metal Jug, E",
+          "price": "$16.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71onGrwKYRL.jpg",
+          "url": "https://www.amazon.com/dp/B0C3C6LT2H?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CGS363W3",
+          "slug": "magna-tiles-downhill-duo-40-piece-magnetic-construction-set",
+          "title": "\udecd️MAGNA-TILES Downhill Duo 40-Piece Magnetic Construction Set, The Original Magnetic Building Brand",
+          "price": "$69.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CGS363W3?tag=noya0b-20"
         },
         {
           "asin": "B0GD6JWR59",
@@ -178,78 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51EpAABDpML.jpg",
           "url": "https://www.amazon.com/dp/B0711WZ7S7?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BMT7WW6H",
-          "slug": "niuyichee-set-of-4-water-absorbent-diatomite-coasters-diatom",
-          "title": "\udecd️NiuYichee Set of 4 Water Absorbent Diatomite Coasters, Diatomaceous Earth Kitchen Soap Dish, Bathroom Trays, Water Abs",
-          "price": "$14.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61kDgIPgNvL.jpg",
-          "url": "https://www.amazon.com/dp/B0BMT7WW6H?tag=noya0b-20"
-        },
-        {
-          "asin": "B09YTBNMYM",
-          "slug": "hyperchiller-hc2as-patented-iced-coffeebeverage-cooler-new-i",
-          "title": "\udecd️HyperChiller HC2AS Patented Iced Coffee/Beverage Cooler, NEW, IMPROVED,STRONGER AND MORE DURABLE! Ready in One Minute,",
-          "price": "$24.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09YTBNMYM?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GQCDSY7C",
-          "slug": "hamilton-beach-2-slice-extra-wide-slot-toaster-with-bagel-de",
-          "title": "\udecd️Hamilton Beach 2 Slice Extra Wide Slot Toaster with Bagel & Defrost Settings, Shade Selector with 7 Browning Levels, T",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71iSmaXlK9L.jpg",
-          "url": "https://www.amazon.com/dp/B0GQCDSY7C?tag=noya0b-20"
-        },
-        {
-          "asin": "B099N1LC4R",
-          "slug": "cetaphil-face-body-moisturizer-hydrating-moisturizing-cream",
-          "title": "\udecd️Cetaphil Face & Body Moisturizer, Hydrating Moisturizing Cream for Dry to Very Dry, Sensitive Skin, NEW 20 oz, Fragran",
-          "price": "$15.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71w8dfE39aL.jpg",
-          "url": "https://www.amazon.com/dp/B099N1LC4R?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F43PZZXT",
-          "slug": "goovilla-freezer-organizer-bins-with-foldable-handle-4-pack",
-          "title": "\udecd️Goovilla Freezer Organizer Bins with Foldable Handle, 4 Pack Stackable Freezer Baskets for 3.5-7 Cu.FT Deep Chest Free",
-          "price": "$38.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/716jOCoOppL.jpg",
-          "url": "https://www.amazon.com/dp/B0F43PZZXT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CDFWGNWR",
-          "slug": "azen-16-pack-self-adhesive-bandage-wrap-2-x-5-yards-elastic",
-          "title": "AZEN 16 Pack Self Adhesive Bandage Wrap, 2\" X 5 Yards Elastic Cohesive Bandage Wrap, Color Athletic Tape, Vet Wrap, Ankl",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81v7knCTqWL.jpg",
-          "url": "https://www.amazon.com/dp/B0CDFWGNWR/ref=cm_sw_r_as_gl_api_gl_i_TEK71Z9P94PZ0PPEH2Q9?linkCode=ml1&tag=noya0b-20&linkId=b6520cc51531d82d6e9b51a298f88cc6"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 22, 2026?",
-          "a": "The best deals today include \"Go score blue buffalo dog & cat food for an extra 35% off cl...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Pet Supplies and are updated daily."
+          "a": "The best deals today include \"Go score blue buffalo dog & cat food for an extra 35% off cl...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-22T13:50:01.519Z",
-      "updatedAt": "2026-06-22T13:50:01.519Z"
+      "generatedAt": "2026-06-22T14:00:01.589Z",
+      "updatedAt": "2026-06-22T14:00:01.589Z"
     },
     {
       "date": "2026-06-21",
@@ -3753,5 +3753,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-22T13:50:01.521Z"
+  "generatedAt": "2026-06-22T14:00:01.590Z"
 }
