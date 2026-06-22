@@ -9,8 +9,8 @@
         "Skincare",
         "Hair Care",
         "Body Care",
-        "Beauty",
         "Nails",
+        "Beauty",
         "Makeup"
       ],
       "bySubcat": {
@@ -104,7 +104,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61cEV7xEfsL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B005YNB6VA?th=1&tag=noya0b-20"
           },
           {
@@ -154,7 +154,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/617nmDgkTfL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B002WTC38Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -206,16 +206,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71I9W3r2mnL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B07S1WP26M?lv=shuf&ascsubtag=65f592f06d9d11f18d683277642fb7b30INT&psc=1&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a0d7cef7d310725201929fb271ed5abd&language=en_US"
-          },
-          {
-            "asin": "B07KQQF6DZ",
-            "slug": "kerastase-blond-absolu-cicaflash-hydrating-conditioner-hair",
-            "title": "\udecd️Kerastase Blond Absolu Cicaflash Hydrating Conditioner - Hair Repair For Bleached & Damaged Hair, Strengthens & Nouris",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07KQQF6DZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ae55bdcb018169b46052e328dead037&language=en_US"
           }
         ],
         "Body Care": [
@@ -226,7 +216,7 @@
             "discount": 25,
             "rating": "WARM",
             "subcat": "Body Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61hEqhpKebL._SL1500_.jpg",
             "url": "https://www.amazon.com/Degree-Antiperspirant-Deodorant-Flowers-Lychee/dp/B0080PEM3S?linkCode=sl2&tag=noya0b-20&linkId=211eb4668b17ad7f5d29f006a41cf33f&language=en_US"
           },
           {
@@ -266,7 +256,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/91Zef3Z8AKL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01JIRKQ04?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=26911815c1aacc6301d3fb071db2b289&language=en_US"
           },
           {
@@ -280,19 +270,17 @@
             "url": "https://www.amazon.com/dp/B0C2ZRN6QG?lv=shuf&ascsubtag=dfa96b7e6dd611f18235de80373c4e0a0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c7e905000a7569a9eec4b8ce3e2a14e3&language=en_US"
           }
         ],
-        "Beauty": [
+        "Nails": [
           {
-            "asin": "B0DWXMKB9G",
-            "slug": "150-pcs-referral-cards-for-business-loyalty-reward-discount",
-            "title": "150 Pcs Referral Cards for Business - Loyalty Reward Discount Cards 3.5 x 2 Inch Double Sided for Beauty Salons Small Bu",
+            "asin": "B0FHQ29LPV",
+            "slug": "una-gella-blooming-gel-nail-polish-15ml-super-clear-for-spre",
+            "title": "UNA GELLA Blooming Gel Nail Polish 15ml Super Clear for Spreading Effect U V/LED Needed Nail Blooming Gel for Marble Nat",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
-            "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
-          }
-        ],
-        "Nails": [
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/71xjnkrZaPL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FHQ29LPV/ref=cm_sw_r_as_gl_api_gl_i_ZTTNNY9TXZYBQ2MWN64Z?linkCode=ml1&tag=noya0b-20&linkId=15720988f1df292532545525485e57f8"
+          },
           {
             "asin": "B076HVJXNY",
             "slug": "dream-water-beauty-sleep-aid-drink-supplement-melatonin-5mg",
@@ -312,6 +300,18 @@
             "subcat": "Nails",
             "imageUrl": "https://m.media-amazon.com/images/I/81-sGnhT+WL.jpg",
             "url": "https://www.amazon.com/Dream-Water-Natural-Melatonin-Juvecol/dp/B076FCFLXD?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=2bc088ea618d0c34499f0492ec2506c6&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0DWXMKB9G",
+            "slug": "150-pcs-referral-cards-for-business-loyalty-reward-discount",
+            "title": "150 Pcs Referral Cards for Business - Loyalty Reward Discount Cards 3.5 x 2 Inch Double Sided for Beauty Salons Small Bu",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YgS3HAytL.jpg",
+            "url": "https://www.amazon.com/dp/B0DWXMKB9G/ref=cm_sw_r_as_gl_api_gl_i_J98EDNHNYYKFSNCW55ES?linkCode=ml1&tag=noya0b-20&linkId=96696a9045a4afc10572551cfdc5d652"
           }
         ],
         "Makeup": [
@@ -345,7 +345,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61cEV7xEfsL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B005YNB6VA?th=1&tag=noya0b-20"
         },
         {
@@ -375,7 +375,7 @@
           "discount": 25,
           "rating": "WARM",
           "subcat": "Body Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61hEqhpKebL._SL1500_.jpg",
           "url": "https://www.amazon.com/Degree-Antiperspirant-Deodorant-Flowers-Lychee/dp/B0080PEM3S?linkCode=sl2&tag=noya0b-20&linkId=211eb4668b17ad7f5d29f006a41cf33f&language=en_US"
         },
         {
@@ -387,6 +387,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HzwNX24KL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09HN7NTJP?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FHQ29LPV",
+          "slug": "una-gella-blooming-gel-nail-polish-15ml-super-clear-for-spre",
+          "title": "UNA GELLA Blooming Gel Nail Polish 15ml Super Clear for Spreading Effect U V/LED Needed Nail Blooming Gel for Marble Nat",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Nails",
+          "imageUrl": "https://m.media-amazon.com/images/I/71xjnkrZaPL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FHQ29LPV/ref=cm_sw_r_as_gl_api_gl_i_ZTTNNY9TXZYBQ2MWN64Z?linkCode=ml1&tag=noya0b-20&linkId=15720988f1df292532545525485e57f8"
         },
         {
           "asin": "B0DWXMKB9G",
@@ -455,7 +465,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/91Zef3Z8AKL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01JIRKQ04?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=26911815c1aacc6301d3fb071db2b289&language=en_US"
         },
         {
@@ -485,7 +495,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/617nmDgkTfL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B002WTC38Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71DdvQ4psAL.jpg",
           "url": "https://www.amazon.com/dp/B0081NLR0K?linkCode=sl2&tag=noya0b-20&linkId=0b13bf00ee3f1b388032ed9599e789de&language=en_US"
-        },
-        {
-          "asin": "B07KQQF6DZ",
-          "slug": "kerastase-blond-absolu-cicaflash-hydrating-conditioner-hair",
-          "title": "\udecd️Kerastase Blond Absolu Cicaflash Hydrating Conditioner - Hair Repair For Bleached & Damaged Hair, Strengthens & Nouris",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B07KQQF6DZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ae55bdcb018169b46052e328dead037&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-22T10:50:03.637Z",
-      "updatedAt": "2026-06-22T10:50:03.637Z"
+      "generatedAt": "2026-06-22T11:00:04.405Z",
+      "updatedAt": "2026-06-22T11:00:04.405Z"
     },
     {
       "date": "2026-06-21",
@@ -7532,5 +7532,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-22T10:50:03.639Z"
+  "generatedAt": "2026-06-22T11:00:04.409Z"
 }
