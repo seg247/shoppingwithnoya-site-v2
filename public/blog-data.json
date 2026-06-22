@@ -10,8 +10,7 @@
         "Grocery & Food",
         "Pet Supplies",
         "Toys & Kids",
-        "Electronics",
-        "Home & Kitchen"
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -25,6 +24,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71TJI8MXdnL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B091C3Z1FP?th=1&linkCode=sl2&tag=noya0b-20&linkId=6a88e85464547ca239bc09e57f677634&language=en_US"
+          },
+          {
+            "asin": "B0GMT987FX",
+            "slug": "brita-large-10-cup-water-filter-pitcher-with-britaplus-filte",
+            "title": "Brita Large 10-Cup Water Filter Pitcher with BritaPlus Filter, WQA NSF/ANSI Certified, Reduces 2X Contaminants vs. Stand",
+            "price": "$24",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71XPKOoNJjL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GMT987FX?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&campaignId=amzn1.campaign.AXCONZF16N0N&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bfee396773c44c6b7b3d33d3a91ee41b&language=en_US"
           },
           {
             "asin": "B0DY7DNFPB",
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51A+nRCJlmL._AC_SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0CRJM1RP4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07HYSS699",
-            "slug": "elite-gourmet-egl-6101-personal-stir-fry-griddle-pan-rapid-h",
-            "title": "Elite Gourmet EGL-6101 Personal Stir Fry Griddle Pan, Rapid Heat Up, 650 Watts Non-stick Electric Skillet with Tempered ",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/714GS1YC8CL.jpg",
-            "url": "https://www.amazon.com/dp/B07HYSS699/ref=cm_sw_r_as_gl_api_gl_i_PVF32M38CG4CQSFFTH6V?linkCode=ml1&tag=noya0b-20&linkId=92bb0281e28828d250b553bc93eabfb0"
-          }
         ]
       },
       "deals": [
@@ -159,6 +156,17 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL.jpg",
           "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GMT987FX",
+          "slug": "brita-large-10-cup-water-filter-pitcher-with-britaplus-filte",
+          "title": "Brita Large 10-Cup Water Filter Pitcher with BritaPlus Filter, WQA NSF/ANSI Certified, Reduces 2X Contaminants vs. Stand",
+          "price": "$24",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71XPKOoNJjL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GMT987FX?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&campaignId=amzn1.campaign.AXCONZF16N0N&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bfee396773c44c6b7b3d33d3a91ee41b&language=en_US"
         },
         {
           "asin": "B0DY7DNFPB",
@@ -236,17 +244,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/6198Sid2ZOL.jpg",
           "url": "https://www.amazon.com/dp/B0DTJ18V3H/ref=cm_sw_r_as_gl_api_gl_i_74FHC2RH75B25VHRV65X?linkCode=ml1&tag=noya0b-20&linkId=af5a4e68216c594f8273db130a54ecce"
-        },
-        {
-          "asin": "B07HYSS699",
-          "slug": "elite-gourmet-egl-6101-personal-stir-fry-griddle-pan-rapid-h",
-          "title": "Elite Gourmet EGL-6101 Personal Stir Fry Griddle Pan, Rapid Heat Up, 650 Watts Non-stick Electric Skillet with Tempered ",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/714GS1YC8CL.jpg",
-          "url": "https://www.amazon.com/dp/B07HYSS699/ref=cm_sw_r_as_gl_api_gl_i_PVF32M38CG4CQSFFTH6V?linkCode=ml1&tag=noya0b-20&linkId=92bb0281e28828d250b553bc93eabfb0"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-22T16:30:01.296Z",
-      "updatedAt": "2026-06-22T16:30:01.296Z"
+      "generatedAt": "2026-06-22T16:40:02.251Z",
+      "updatedAt": "2026-06-22T16:40:02.252Z"
     },
     {
       "date": "2026-06-21",
@@ -3756,5 +3753,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-22T16:30:01.297Z"
+  "generatedAt": "2026-06-22T16:40:02.253Z"
 }
