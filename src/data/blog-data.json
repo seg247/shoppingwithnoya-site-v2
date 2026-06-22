@@ -9,24 +9,43 @@
         "Other",
         "Electronics",
         "Toys & Kids",
-        "Home & Kitchen",
-        "Grocery & Food"
+        "Home & Kitchen"
       ],
       "byCategory": {
-        "Home & Kitchen": [
+        "Other": [
           {
-            "asin": "B0D64CT5FD",
-            "slug": "northwest-disney-princess-silk-touch-throw-blanket-5034-x-60",
-            "title": "NORTHWEST Disney Princess Silk Touch Throw Blanket, 50&#34; x 60&#34;, Garden",
-            "price": "$10",
+            "asin": "B0CCGLPV35",
+            "slug": "downy-light-laundry-scent-booster-beads-white-lavender-scent",
+            "title": "Downy Light Laundry Scent Booster Beads, White Lavender Scent, 24.0 OZ, In-wash fabric beads designed to be gentle with ",
+            "price": "$15.97",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ni79QllBL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D64CT5FD/ref=cm_sw_r_as_gl_api_gl_i_EEYVB14Y9RAGSNHH4E8Y?linkCode=ml1&tag=noya0b-20&linkId=15a025b9c0e8d08f6ad8bed43a27d636"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/710hju6kwNL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CCGLPV35?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0CCGLPV35",
+            "slug": "downy-light-laundry-scent-booster-beads-white-lavender-scent",
+            "title": "Downy Light Laundry Scent Booster Beads, White Lavender Scent, 24.0 OZ, In-wash fabric beads designed to be gentle with ",
+            "price": "$15.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/710hju6kwNL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CCGLPV35?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0B6G1HBCR",
+            "slug": "santa-claus-costume-for-men-santa-suit-deluxe-professional-9",
+            "title": "Santa Claus Costume for Men, Santa Suit Deluxe Professional 9PCS Santa Costume Adult for Christmas Holiday Party",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71QhpDvFqVL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0B6G1HBCR/ref=cm_sw_r_as_gl_api_gl_i_WHPV2NTAMQ0APCEY3957?linkCode=ml1&tag=noya0b-20&linkId=7ba9319e503e35ac01efc2758623f075"
+          },
           {
             "asin": "B004XG92PQ",
             "slug": "ischolar-no-2-yellow-pencils-with-erasers-1-pack-of-10-penci",
@@ -59,17 +78,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61oUyc9rBBL._AC_SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0BL5SP2VD/ref=cm_sw_r_as_gl_apa_gl_i_dl_GTYGGAR2H254MGPBZ5BK?linkCode=ml1&tag=noya0b-20&linkId=c0973c389e1118e26624aac6f1b9aca8"
-          },
+          }
+        ],
+        "Toys & Kids": [
           {
-            "asin": "B07CPVPFTD",
-            "slug": "ingenuity-smartclean-trio-elite-3-in-1-convertible-baby-high",
-            "title": "Ingenuity SmartClean Trio Elite 3-in-1 Convertible Baby High Chair, Toddler Chair, and Dining Booster Seat, For Ages 6 M",
-            "price": "$119.99",
+            "asin": "B0CPQ2C2FL",
+            "slug": "disney-stitch-jumbo-mystery-capsule-9-inch-figure-head-blind",
+            "title": "Disney Stitch Jumbo Mystery Capsule 9-Inch Figure Head Blind Box – 10 Surprise Toys, Plush, Mini Figures, Accessories & ",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61LKV3-oisL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07CPVPFTD?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81iSokQshxL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CPQ2C2FL/ref=cm_sw_r_as_gl_api_gl_i_dl_AJJ4HQB5151N58QH0RWF?linkCode=ml1&tag=noya0b-20&linkId=da1d77b5e66ffc63dce3231067e77573"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0D64CT5FD",
+            "slug": "northwest-disney-princess-silk-touch-throw-blanket-5034-x-60",
+            "title": "NORTHWEST Disney Princess Silk Touch Throw Blanket, 50&#34; x 60&#34;, Garden",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ni79QllBL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D64CT5FD/ref=cm_sw_r_as_gl_api_gl_i_EEYVB14Y9RAGSNHH4E8Y?linkCode=ml1&tag=noya0b-20&linkId=15a025b9c0e8d08f6ad8bed43a27d636"
           }
         ],
         "Electronics": [
@@ -95,46 +129,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81kSry+H-1L.jpg",
             "url": "https://www.amazon.com/dp/B0DRV2ST6S/ref=cm_sw_r_as_gl_apa_gl_i_dl_TKJ4CK8GB35BQJF644R9?linkCode=ml1&tag=noya0b-20&linkId=55dc1b58c2ec8110b970e13b848e02e5"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0DZLM8QYL",
-            "slug": "ravensburger-play-roll-play-sound-cube-wild-animals-motion-a",
-            "title": "Ravensburger Play+ Roll & Play Sound Cube - Wild Animals | Motion-Activated Sound Toy | Encourages Crawling & Coordinati",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/718C+CvKHvL._AC_SL1200_.jpg",
-            "url": "https://www.amazon.com/dp/B0DZLM8QYL/ref=cm_sw_r_as_gl_apa_gl_i_dl_HKFY0GSPJMNFFF0E80NF?linkCode=ml1&tag=noya0b-20&linkId=61568ede62d1c4a3293821755e7e3592"
-          },
-          {
-            "asin": "B0CN1N25HV",
-            "slug": "squishmallows-original-suri-sunset-cow-3-pack-35in-5in-8in-o",
-            "title": "Squishmallows Original Suri Sunset Cow 3-Pack (3.5in, 5in, 8in) – Official Jazwares Plush",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71NwybLDWRL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CN1N25HV/ref=cm_sw_r_as_gl_apa_gl_i_dl_NAH3JRKR21GKSNBWR2X1?linkCode=ml1&tag=noya0b-20&linkId=759055a009267b66562af0d4308b160b"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B07262XS4K",
-            "slug": "doritos-cool-ranch-flavored-tortilla-chips-1-ounce-pack-of-4",
-            "title": "Doritos Cool Ranch Flavored Tortilla Chips, 1 Ounce (Pack of 40)",
-            "price": "$22.43",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81dyqJqm4US._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07262XS4K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CCGLPV35",
+          "slug": "downy-light-laundry-scent-booster-beads-white-lavender-scent",
+          "title": "Downy Light Laundry Scent Booster Beads, White Lavender Scent, 24.0 OZ, In-wash fabric beads designed to be gentle with ",
+          "price": "$15.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/710hju6kwNL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CCGLPV35?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0CCGLPV35",
+          "slug": "downy-light-laundry-scent-booster-beads-white-lavender-scent",
+          "title": "Downy Light Laundry Scent Booster Beads, White Lavender Scent, 24.0 OZ, In-wash fabric beads designed to be gentle with ",
+          "price": "$15.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/710hju6kwNL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CCGLPV35?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0B6G1HBCR",
+          "slug": "santa-claus-costume-for-men-santa-suit-deluxe-professional-9",
+          "title": "Santa Claus Costume for Men, Santa Suit Deluxe Professional 9PCS Santa Costume Adult for Christmas Holiday Party",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QhpDvFqVL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0B6G1HBCR/ref=cm_sw_r_as_gl_api_gl_i_WHPV2NTAMQ0APCEY3957?linkCode=ml1&tag=noya0b-20&linkId=7ba9319e503e35ac01efc2758623f075"
+        },
+        {
+          "asin": "B0CPQ2C2FL",
+          "slug": "disney-stitch-jumbo-mystery-capsule-9-inch-figure-head-blind",
+          "title": "Disney Stitch Jumbo Mystery Capsule 9-Inch Figure Head Blind Box – 10 Surprise Toys, Plush, Mini Figures, Accessories & ",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81iSokQshxL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CPQ2C2FL/ref=cm_sw_r_as_gl_api_gl_i_dl_AJJ4HQB5151N58QH0RWF?linkCode=ml1&tag=noya0b-20&linkId=da1d77b5e66ffc63dce3231067e77573"
+        },
         {
           "asin": "B0D64CT5FD",
           "slug": "northwest-disney-princess-silk-touch-throw-blanket-5034-x-60",
@@ -200,56 +241,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/81kSry+H-1L.jpg",
           "url": "https://www.amazon.com/dp/B0DRV2ST6S/ref=cm_sw_r_as_gl_apa_gl_i_dl_TKJ4CK8GB35BQJF644R9?linkCode=ml1&tag=noya0b-20&linkId=55dc1b58c2ec8110b970e13b848e02e5"
-        },
-        {
-          "asin": "B0DZLM8QYL",
-          "slug": "ravensburger-play-roll-play-sound-cube-wild-animals-motion-a",
-          "title": "Ravensburger Play+ Roll & Play Sound Cube - Wild Animals | Motion-Activated Sound Toy | Encourages Crawling & Coordinati",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/718C+CvKHvL._AC_SL1200_.jpg",
-          "url": "https://www.amazon.com/dp/B0DZLM8QYL/ref=cm_sw_r_as_gl_apa_gl_i_dl_HKFY0GSPJMNFFF0E80NF?linkCode=ml1&tag=noya0b-20&linkId=61568ede62d1c4a3293821755e7e3592"
-        },
-        {
-          "asin": "B07CPVPFTD",
-          "slug": "ingenuity-smartclean-trio-elite-3-in-1-convertible-baby-high",
-          "title": "Ingenuity SmartClean Trio Elite 3-in-1 Convertible Baby High Chair, Toddler Chair, and Dining Booster Seat, For Ages 6 M",
-          "price": "$119.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61LKV3-oisL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07CPVPFTD?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07262XS4K",
-          "slug": "doritos-cool-ranch-flavored-tortilla-chips-1-ounce-pack-of-4",
-          "title": "Doritos Cool Ranch Flavored Tortilla Chips, 1 Ounce (Pack of 40)",
-          "price": "$22.43",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81dyqJqm4US._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07262XS4K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CN1N25HV",
-          "slug": "squishmallows-original-suri-sunset-cow-3-pack-35in-5in-8in-o",
-          "title": "Squishmallows Original Suri Sunset Cow 3-Pack (3.5in, 5in, 8in) – Official Jazwares Plush",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/71NwybLDWRL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CN1N25HV/ref=cm_sw_r_as_gl_apa_gl_i_dl_NAH3JRKR21GKSNBWR2X1?linkCode=ml1&tag=noya0b-20&linkId=759055a009267b66562af0d4308b160b"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 22, 2026?",
-          "a": "The best deals today include \"NORTHWEST Disney Princess Silk Touch Throw Blanket, 50&#34; ...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Downy Light Laundry Scent Booster Beads, White Lavender Scen...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-22T09:20:01.552Z",
-      "updatedAt": "2026-06-22T09:20:01.553Z"
+      "generatedAt": "2026-06-22T09:30:01.493Z",
+      "updatedAt": "2026-06-22T09:30:01.493Z"
     },
     {
       "date": "2026-06-21",
@@ -3753,5 +3750,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-22T09:20:01.554Z"
+  "generatedAt": "2026-06-22T09:30:01.495Z"
 }
