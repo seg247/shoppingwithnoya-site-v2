@@ -4,16 +4,40 @@
       "date": "2026-06-22",
       "slug": "2026-06-22",
       "title": "🔥 Best Deals Today — June 22, 2026",
-      "intro": "Today's best online deals for Monday, June 22, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, June 22, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Grocery & Food",
-        "Home & Kitchen",
         "Toys & Kids",
-        "Electronics"
+        "Electronics",
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0CP4B2CY9",
+            "slug": "play-doh-bluey-goes-camping-playset-with-campfire-themed-too",
+            "title": "Play-Doh Bluey Goes Camping Playset with Campfire Themed Tools, Kids Arts and Crafts Toys for Girls and Boys 3 Years & U",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CP4B2CY9/ref=cm_sw_r_as_gl_apa_gl_i_dl_303Q5S6SRGJM3JN733SR?linkCode=ml1&tag=noya0b-20&linkId=7b68dafec4b3b5a2a055302705335641"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0GWDKPQB5",
+            "slug": "hisense-32-inch-class-qd4sr-series-hi-qled-hd-smart-roku-tv",
+            "title": "Hisense 32-Inch Class QD4SR Series Hi-QLED HD Smart Roku TV (32QD4HSR, 2026 Model) – Hi-QLED Color, Dolby Audio, Compati",
+            "price": "$109.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Umclmhc7L.jpg",
+            "url": "https://www.amazon.com/dp/B0GWDKPQB5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B00IT70ZV0",
             "slug": "8-packs-of-drinks-for-as-low-as-29xx",
@@ -57,31 +81,33 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08BJVHYSC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0CN3V9YX7",
-            "slug": "flavor-aid-aguas-frescas-singles-to-go-variety-pack-powdered",
-            "title": "Flavor Aid Aguas Frescas Singles To Go Variety Pack, Powdered Drink Mix, 1 Box (50 Single Servings)",
-            "price": "$4.99",
+            "asin": "B0F2B6BM8J",
+            "slug": "soundcore-p41i-by-anker-adaptive-noise-cancelling-earbuds-wi",
+            "title": "Soundcore P41i by Anker, Adaptive Noise Cancelling Earbuds with Portable Phone Charger and Built-in Lightning Adapter, 1",
+            "price": "$42.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vI44yecdL.jpg",
-            "url": "https://www.amazon.com/dp/B0CN3V9YX7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0CVPNFL8Z",
-            "slug": "sony-85-inch-mini-led-qled-4k-ultra-hd-tv-bravia-9-smart-goo",
-            "title": "Sony 85 Inch Mini LED QLED 4K Ultra HD TV BRAVIA 9 Smart Google TV with Dolby Vision HDR and Exclusive Features for Play",
-            "price": "$2998.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CVPNFL8Z?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41erFjwoCpL.jpg",
+            "url": "https://www.amazon.com/dp/B0F2B6BM8J?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Grocery & Food": [
+          {
+            "asin": "B0DFHTW5HN",
+            "slug": "premier-protein-shake-chocolate-peanut-butter-30g-protein-no",
+            "title": "Premier Protein Shake, Chocolate Peanut Butter, 30g Protein, No Added Sugar, 24 Vitamins & Minerals to Support Immune He",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TlV9MShCL.jpg",
+            "url": "https://www.amazon.com/dp/B0DFHTW5HN/ref=cm_sw_r_as_gl_apa_gl_i_SWPMXDR8ZCFR1C02DXFX?linkCode=ml1&tag=noya0b-20&linkId=00bbe808811e1e88e2f30a99f4e99cdb"
+          },
           {
             "asin": "B0G6F1PGGQ",
             "slug": "dunkin-zero-sugar-refreshers-singles-to-go-powdered-drink-mi",
@@ -106,35 +132,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81lzV4X9BcL.jpg",
             "url": "https://www.amazon.com/dp/B00MA5LADE/ref=cm_sw_r_as_gl_apa_gl_i_62CGYNA2DMWS6DNS3SQ8?linkCode=ml1&tag=noya0b-20&linkId=bbc46345cfebbf8a882a0d3248925bc8"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0FN9LK17Q",
-            "slug": "disney-stitch-angel-many-moods-14-inch-interactive-plush-50",
-            "title": "Disney Stitch Angel Many Moods 14-inch Interactive Plush, 50+ Sounds & Effects, Expressive LCD Eyes Show Her Moods, Toy ",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81es6udv5PL.jpg",
-            "url": "https://www.amazon.com/dp/B0FN9LK17Q/ref=cm_sw_r_as_gl_apa_gl_i_dl_XQ6EMFJXAJP46EPCZ5BS?linkCode=ml1&tag=noya0b-20&linkId=4735dd10733500936b0d81881d64f3a9"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DD8SHVZL",
-            "slug": "sony-mdr-m1-professional-reference-closed-monitor-headphones",
-            "title": "Sony MDR-M1 Professional Reference Closed Monitor Headphones",
-            "price": "$268.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/519hVWS5TCL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B0DD8SHVZL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CP4B2CY9",
+          "slug": "play-doh-bluey-goes-camping-playset-with-campfire-themed-too",
+          "title": "Play-Doh Bluey Goes Camping Playset with Campfire Themed Tools, Kids Arts and Crafts Toys for Girls and Boys 3 Years & U",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CP4B2CY9/ref=cm_sw_r_as_gl_apa_gl_i_dl_303Q5S6SRGJM3JN733SR?linkCode=ml1&tag=noya0b-20&linkId=7b68dafec4b3b5a2a055302705335641"
+        },
+        {
+          "asin": "B0GWDKPQB5",
+          "slug": "hisense-32-inch-class-qd4sr-series-hi-qled-hd-smart-roku-tv",
+          "title": "Hisense 32-Inch Class QD4SR Series Hi-QLED HD Smart Roku TV (32QD4HSR, 2026 Model) – Hi-QLED Color, Dolby Audio, Compati",
+          "price": "$109.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Umclmhc7L.jpg",
+          "url": "https://www.amazon.com/dp/B0GWDKPQB5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0F2B6BM8J",
+          "slug": "soundcore-p41i-by-anker-adaptive-noise-cancelling-earbuds-wi",
+          "title": "Soundcore P41i by Anker, Adaptive Noise Cancelling Earbuds with Portable Phone Charger and Built-in Lightning Adapter, 1",
+          "price": "$42.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/41erFjwoCpL.jpg",
+          "url": "https://www.amazon.com/dp/B0F2B6BM8J?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DFHTW5HN",
+          "slug": "premier-protein-shake-chocolate-peanut-butter-30g-protein-no",
+          "title": "Premier Protein Shake, Chocolate Peanut Butter, 30g Protein, No Added Sugar, 24 Vitamins & Minerals to Support Immune He",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TlV9MShCL.jpg",
+          "url": "https://www.amazon.com/dp/B0DFHTW5HN/ref=cm_sw_r_as_gl_apa_gl_i_SWPMXDR8ZCFR1C02DXFX?linkCode=ml1&tag=noya0b-20&linkId=00bbe808811e1e88e2f30a99f4e99cdb"
+        },
         {
           "asin": "B00IT70ZV0",
           "slug": "8-packs-of-drinks-for-as-low-as-29xx",
@@ -200,56 +244,12 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08BJVHYSC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FN9LK17Q",
-          "slug": "disney-stitch-angel-many-moods-14-inch-interactive-plush-50",
-          "title": "Disney Stitch Angel Many Moods 14-inch Interactive Plush, 50+ Sounds & Effects, Expressive LCD Eyes Show Her Moods, Toy ",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81es6udv5PL.jpg",
-          "url": "https://www.amazon.com/dp/B0FN9LK17Q/ref=cm_sw_r_as_gl_apa_gl_i_dl_XQ6EMFJXAJP46EPCZ5BS?linkCode=ml1&tag=noya0b-20&linkId=4735dd10733500936b0d81881d64f3a9"
-        },
-        {
-          "asin": "B0CN3V9YX7",
-          "slug": "flavor-aid-aguas-frescas-singles-to-go-variety-pack-powdered",
-          "title": "Flavor Aid Aguas Frescas Singles To Go Variety Pack, Powdered Drink Mix, 1 Box (50 Single Servings)",
-          "price": "$4.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vI44yecdL.jpg",
-          "url": "https://www.amazon.com/dp/B0CN3V9YX7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DD8SHVZL",
-          "slug": "sony-mdr-m1-professional-reference-closed-monitor-headphones",
-          "title": "Sony MDR-M1 Professional Reference Closed Monitor Headphones",
-          "price": "$268.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/519hVWS5TCL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B0DD8SHVZL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CVPNFL8Z",
-          "slug": "sony-85-inch-mini-led-qled-4k-ultra-hd-tv-bravia-9-smart-goo",
-          "title": "Sony 85 Inch Mini LED QLED 4K Ultra HD TV BRAVIA 9 Smart Google TV with Dolby Vision HDR and Exclusive Features for Play",
-          "price": "$2998.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0CVPNFL8Z?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 22, 2026?",
-          "a": "The best deals today include \"8 packs of drinks for as low as $29.xx...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Play-Doh Bluey Goes Camping Playset with Campfire Themed Too...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-22T08:20:01.846Z",
-      "updatedAt": "2026-06-22T08:20:01.846Z"
+      "generatedAt": "2026-06-22T08:30:01.925Z",
+      "updatedAt": "2026-06-22T08:30:01.925Z"
     },
     {
       "date": "2026-06-21",
@@ -3753,5 +3753,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-22T08:20:01.847Z"
+  "generatedAt": "2026-06-22T08:30:01.926Z"
 }
