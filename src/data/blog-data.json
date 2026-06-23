@@ -4,17 +4,52 @@
       "date": "2026-06-23",
       "slug": "2026-06-23",
       "title": "🔥 Best Deals Today — June 23, 2026",
-      "intro": "Today's best online deals for Tuesday, June 23, 2026 — 10 hand-picked discounts across Electronics, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, June 23, 2026 — 10 hand-picked discounts across Electronics, Beauty, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
-        "Other",
         "Beauty",
-        "Garden & Outdoor",
         "Home & Kitchen",
-        "Cleaning Supplies"
+        "Fashion",
+        "Other",
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0FZWVMSG4",
+            "slug": "tree-hut-raspberry-fizz-body-wash-hydrating-moisturizing-sho",
+            "title": "Tree Hut Raspberry Fizz Body Wash, Hydrating & Moisturizing Shower Gel with Shea Butter & Essential Oils, Soft Smooth Gl",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51laY-3o55L.jpg",
+            "url": "https://www.amazon.com/dp/B0FZWVMSG4/ref=cm_sw_r_as_gl_apa_gl_i_dl_Y00Y6JHZST82GN79HGQ5?linkCode=ml1&tag=noya0b-20&linkId=5d6affd4c706d8e8aa922ca2a0eb612d"
+          },
+          {
+            "asin": "B08L88LZ4V",
+            "slug": "neutrogena-clear-face-sunscreen-lotion-spf-50-for-acne-prone",
+            "title": "Neutrogena Clear Face Sunscreen Lotion SPF 50 for Acne-Prone Skin Broad Spectrum UVA UVB Protection Oil-Free No-Fragranc",
+            "price": "$6.64",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08L88LZ4V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Electronics": [
+          {
+            "asin": "B0GT2K9XBV",
+            "slug": "asus-rt-be90u-tri-band-wifi-7-router-commercial-grade-networ",
+            "title": "ASUS RT-BE90U Tri-Band WiFi 7 Router: Commercial-Grade Network Security, AiMesh Extendable Router, Quad 2.5G Ports, Smar",
+            "price": "$179.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0GT2K9XBV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B07N1HDXDF",
             "slug": "garmin-approach-g80-all-in-one-premium-gps-golf-handheld-wit",
@@ -36,17 +71,43 @@
             "category": "Electronics",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F22H6BL8?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0C65CMKTK",
-            "slug": "segway-ninebot-max-series-electric-scooter-up-to-2228-mph-lo",
-            "title": "Segway Ninebot MAX Series Electric Scooter, Up to 22–28 MPH, Long Rang, Dual Suspension & Braking System, Fast Charging,",
-            "price": "$594.99",
+            "asin": "B0FGGDXFK1",
+            "slug": "goodcook-ceramic-cookware-set-5-piece-with-removable-handle",
+            "title": "GoodCook Ceramic Cookware Set 5-Piece with Removable Handle, Induction Compatible, Nonstick and Oven Safe with 8-Inch Fr",
+            "price": "$23.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61sLM-QIp5L.jpg",
-            "url": "https://www.amazon.com/dp/B0C65CMKTK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71E8madf3pL.jpg",
+            "url": "https://www.amazon.com/dp/B0FGGDXFK1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B004UB6C7K",
+            "slug": "poland-spring-maine-spring-water-bottles-12-pack-crisp-still",
+            "title": "Poland Spring Maine Spring Water Bottles, 12 Pack – Crisp, Still Bottled Water with Naturally Balanced Occurring Mineral",
+            "price": "$2.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81QLPUBhU0L.jpg",
+            "url": "https://www.amazon.com/dp/B004UB6C7K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B084HLHWTB",
+            "slug": "calvin-klein-mens-cotton-classics-3-pack-boxer-brief-at-amaz",
+            "title": "Calvin Klein Men's Cotton Classics 3-Pack Boxer Brief at Amazon Men’s Clothing store",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51fWxgaE74L._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B084HLHWTB?th=1&ascsubtag=srctok-39364f6adc0287eb&btn_ref=srctok-39364f6adc0287eb&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e8d90f186e9b1e2ec3383d38b98a40f4&language=en_US"
           }
         ],
         "Other": [
@@ -60,17 +121,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/912n6QwysQL.jpg",
             "url": "https://www.amazon.com/dp/B0FKPD1TF9?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0C1QF2SCF",
-            "slug": "wen-quiet-and-lightweight-4800-watt-rv-ready-portable-invert",
-            "title": "WEN Quiet and Lightweight 4800-Watt RV-Ready Portable Inverter Generator with Fuel Shut Off (56477i)",
-            "price": "$423.73",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81oG66CFm-L.jpg",
-            "url": "https://www.amazon.com/dp/B0C1QF2SCF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Garden & Outdoor": [
@@ -85,59 +135,53 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F45DWJYH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B004UB6C7K",
-            "slug": "poland-spring-maine-spring-water-bottles-12-pack-crisp-still",
-            "title": "Poland Spring Maine Spring Water Bottles, 12 Pack – Crisp, Still Bottled Water with Naturally Balanced Occurring Mineral",
-            "price": "$2.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81QLPUBhU0L.jpg",
-            "url": "https://www.amazon.com/dp/B004UB6C7K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B08L88LZ4V",
-            "slug": "neutrogena-clear-face-sunscreen-lotion-spf-50-for-acne-prone",
-            "title": "Neutrogena Clear Face Sunscreen Lotion SPF 50 for Acne-Prone Skin Broad Spectrum UVA UVB Protection Oil-Free No-Fragranc",
-            "price": "$6.64",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B08L88LZ4V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0D6X5XDFK",
-            "slug": "ogx-extra-strength-refreshing-scalp-rosemary-mint-shampoo-cl",
-            "title": "OGX Extra Strength Refreshing Scalp + Rosemary Mint Shampoo, Clarifying Shampoo for Oily Hair Visibly Helps Remove Oil &",
-            "price": "$3.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D6X5XDFK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B01MECSGOU",
-            "slug": "seventh-generation-dishwasher-detergent-packs-free-clear-72",
-            "title": "Seventh Generation Dishwasher Detergent Packs, Free & Clear, 72 Count, Pack of 1, Plant Powered Cleaning, Fights Greasy ",
-            "price": "$14.70",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01MECSGOU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FZWVMSG4",
+          "slug": "tree-hut-raspberry-fizz-body-wash-hydrating-moisturizing-sho",
+          "title": "Tree Hut Raspberry Fizz Body Wash, Hydrating & Moisturizing Shower Gel with Shea Butter & Essential Oils, Soft Smooth Gl",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51laY-3o55L.jpg",
+          "url": "https://www.amazon.com/dp/B0FZWVMSG4/ref=cm_sw_r_as_gl_apa_gl_i_dl_Y00Y6JHZST82GN79HGQ5?linkCode=ml1&tag=noya0b-20&linkId=5d6affd4c706d8e8aa922ca2a0eb612d"
+        },
+        {
+          "asin": "B0GT2K9XBV",
+          "slug": "asus-rt-be90u-tri-band-wifi-7-router-commercial-grade-networ",
+          "title": "ASUS RT-BE90U Tri-Band WiFi 7 Router: Commercial-Grade Network Security, AiMesh Extendable Router, Quad 2.5G Ports, Smar",
+          "price": "$179.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0GT2K9XBV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FGGDXFK1",
+          "slug": "goodcook-ceramic-cookware-set-5-piece-with-removable-handle",
+          "title": "GoodCook Ceramic Cookware Set 5-Piece with Removable Handle, Induction Compatible, Nonstick and Oven Safe with 8-Inch Fr",
+          "price": "$23.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71E8madf3pL.jpg",
+          "url": "https://www.amazon.com/dp/B0FGGDXFK1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B084HLHWTB",
+          "slug": "calvin-klein-mens-cotton-classics-3-pack-boxer-brief-at-amaz",
+          "title": "Calvin Klein Men's Cotton Classics 3-Pack Boxer Brief at Amazon Men’s Clothing store",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51fWxgaE74L._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B084HLHWTB?th=1&ascsubtag=srctok-39364f6adc0287eb&btn_ref=srctok-39364f6adc0287eb&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e8d90f186e9b1e2ec3383d38b98a40f4&language=en_US"
+        },
         {
           "asin": "B07N1HDXDF",
           "slug": "garmin-approach-g80-all-in-one-premium-gps-golf-handheld-wit",
@@ -203,56 +247,12 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08L88LZ4V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B01MECSGOU",
-          "slug": "seventh-generation-dishwasher-detergent-packs-free-clear-72",
-          "title": "Seventh Generation Dishwasher Detergent Packs, Free & Clear, 72 Count, Pack of 1, Plant Powered Cleaning, Fights Greasy ",
-          "price": "$14.70",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01MECSGOU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0C1QF2SCF",
-          "slug": "wen-quiet-and-lightweight-4800-watt-rv-ready-portable-invert",
-          "title": "WEN Quiet and Lightweight 4800-Watt RV-Ready Portable Inverter Generator with Fuel Shut Off (56477i)",
-          "price": "$423.73",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81oG66CFm-L.jpg",
-          "url": "https://www.amazon.com/dp/B0C1QF2SCF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0C65CMKTK",
-          "slug": "segway-ninebot-max-series-electric-scooter-up-to-2228-mph-lo",
-          "title": "Segway Ninebot MAX Series Electric Scooter, Up to 22–28 MPH, Long Rang, Dual Suspension & Braking System, Fast Charging,",
-          "price": "$594.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61sLM-QIp5L.jpg",
-          "url": "https://www.amazon.com/dp/B0C65CMKTK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D6X5XDFK",
-          "slug": "ogx-extra-strength-refreshing-scalp-rosemary-mint-shampoo-cl",
-          "title": "OGX Extra Strength Refreshing Scalp + Rosemary Mint Shampoo, Clarifying Shampoo for Oily Hair Visibly Helps Remove Oil &",
-          "price": "$3.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D6X5XDFK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 23, 2026?",
-          "a": "The best deals today include \"Garmin Approach G80, All-in-One Premium GPS Golf Handheld wi...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Tree Hut Raspberry Fizz Body Wash, Hydrating & Moisturizing ...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-23T08:30:02.063Z",
-      "updatedAt": "2026-06-23T08:30:02.063Z"
+      "generatedAt": "2026-06-23T08:40:01.575Z",
+      "updatedAt": "2026-06-23T08:40:01.575Z"
     },
     {
       "date": "2026-06-22",
@@ -4024,5 +4024,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-23T08:30:02.064Z"
+  "generatedAt": "2026-06-23T08:40:01.576Z"
 }
