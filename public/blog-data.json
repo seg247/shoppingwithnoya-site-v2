@@ -4,13 +4,14 @@
       "date": "2026-06-23",
       "slug": "2026-06-23",
       "title": "🔥 Best Deals Today — June 23, 2026",
-      "intro": "Today's best online deals for Tuesday, June 23, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Grocery & Food and more. The best discount today is 30% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, June 23, 2026 — 10 hand-picked discounts across Other, Beauty, Toys & Kids and more. The best discount today is 30% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Home & Kitchen",
-        "Grocery & Food",
+        "Beauty",
         "Toys & Kids",
-        "Fashion"
+        "Personal Care",
+        "Fashion",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Toys & Kids": [
@@ -27,6 +28,28 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B0CZ5WG4BN",
+            "slug": "stanley-all-day-julienne-soft-cooler-bag-and-lunch-box-insul",
+            "title": "Stanley All Day Julienne Soft Cooler Bag and Lunch Box | Insulated Travel Bag with Zipper | BPA-Free",
+            "price": "$60.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81zTR7jwPAL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZ5WG4BN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B01H61RUW6",
+            "slug": "trademark-innovations-60-clover-column-windsock-blows-in-the",
+            "title": "Trademark Innovations 60\" Clover Column Windsock - Blows in the Wind",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61E8rREyPpL.jpg",
+            "url": "https://www.amazon.com/dp/B01H61RUW6/ref=cm_sw_r_as_gl_api_gl_i_dl_4HWTZ9YEWCDE9TKVMYN7?linkCode=ml1&tag=noya0b-20&linkId=c58d6c8827880b430d2d5cde8791b626"
+          },
           {
             "asin": "B08TDPSG86",
             "slug": "raid-max-liquid-ant-bait-ant-traps-indoor-and-outdoor-use-in",
@@ -48,28 +71,43 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81cBaF4vUVL.jpg",
             "url": "https://www.amazon.com/dp/B0CD242GTZ/ref=cm_sw_r_as_gl_api_gl_i_B9Z98QXY2KF38TSQ5CN4?linkCode=ml1&tag=noya0b-20&linkId=204bd7dbaaa37662775a9923ee2460b0"
-          },
+          }
+        ],
+        "Personal Care": [
           {
-            "asin": "B0DZ68PCHY",
-            "slug": "amazon-basics-60-lightweight-tripod-for-camera-and-phone-wit",
-            "title": "Amazon Basics 60\" Lightweight Tripod for Camera and Phone with Travel Bag, Remote Control, Phone Holder, Height Adjustab",
-            "price": "$27.29",
+            "asin": "B0FKQSXHN6",
+            "slug": "oura-ring-4-ceramic-cloud-size-5-sleep-activity-womens-healt",
+            "title": "Oura Ring 4 - Ceramic Cloud - Size 5 - Sleep, Activity, Women’s Health, AI Advisor, Up to 8 Days of Battery Life, Size B",
+            "price": "$259",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LPebbVbFL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DZ68PCHY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+            "category": "Personal Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FKQSXHN6?th=1&linkCode=sl2&tag=noya0b-20&linkId=2cabc53b401cdd57c6f7414d15401511&language=en_US"
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B07BFK7G5N",
-            "slug": "ego-power-lb5800-580cfm-56-volt-variable-speed-lithium-ion-c",
-            "title": "EGO Power+ LB5800 580CFM 56-Volt Variable-Speed Lithium-ion Cordless Blower, Tool Only, Black",
-            "price": "$199.99",
+            "asin": "B0BLTC97QG",
+            "slug": "billie-eilish-eau-de-parfum-spray-perfume-for-women-notes-of",
+            "title": "Billie Eilish Eau de Parfum Spray Perfume for Women, Notes of Sugared Petals, Vanilla & Musk,1.0 Fl Oz : Beauty & Person",
+            "price": "$34",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41DdObqrbyL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B07BFK7G5N?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/517gLsq1-7L.jpg",
+            "url": "https://www.amazon.com/dp/B0BLTC97QG?asc_item-id=amzn1.ideas.35GPCXB9L7H5W&th=1&linkCode=sl2&tag=noya0b-20&linkId=e3bb623eb6c98c70ba8faecd8c0f8736&language=en_US"
+          },
+          {
+            "asin": "B0G8LN26Q3",
+            "slug": "shiseido-ultimate-sun-protector-clear-stick-spf-60-invisible",
+            "title": "Shiseido Ultimate Sun Protector Clear Stick SPF 60+ - Invisible, Portable Sunscreen for Face & Body - Visibly Improves F",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Shiseido-Ultimate-Protector-Clear-Stick/dp/B0G8LN26Q3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a8bba7951cec74d772566602419953e1&language=en_US"
           }
         ],
         "Fashion": [
@@ -96,41 +134,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71eood2xIWL.jpg",
             "url": "https://www.amazon.com/dp/B078NN17K3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B000VDV1UE",
-            "slug": "arrowhead-mountain-spring-water-bottles-12-pack-still-bottle",
-            "title": "Arrowhead Mountain Spring Water Bottles, 12 Pack - Still Bottled Water with Naturally Occurring Minerals & Electrolytes ",
-            "price": "$4.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71c+wHpfrML._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B000VDV1UE?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0GWR7YZB5",
-            "slug": "these-look-cozy-11xx-womens-pajamas",
-            "title": "These look cozy! $11.xx Women's Pajamas",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YG0L++8bL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GWR7YZB5?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c0283489d0718f42286cd7e4eb3a15d3&language=en_US"
-          },
-          {
-            "asin": "B07CBKMHT1",
-            "slug": "diet-pepsi-soda-75-ounce-mini-cans-10-pack-grocery-gourmet-f",
-            "title": "Diet Pepsi Soda, 7.5 Ounce Mini Cans, 10 Pack : Grocery & Gourmet Food",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81cNn1uBL+L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07CBKMHT1/ref=cm_sw_r_as_gl_api_gl_i_dl_NBN6TEN9TT3PZE2C4YCZ?linkCode=ml1&tag=noya0b-20&linkId=068587e0981b8f6633c94e1b2a21faa0"
           }
         ]
       },
@@ -145,6 +148,61 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/71vlRUJ6Q+L.jpg",
           "url": "https://www.amazon.com/dp/B07SWMVDBD?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CZ5WG4BN",
+          "slug": "stanley-all-day-julienne-soft-cooler-bag-and-lunch-box-insul",
+          "title": "Stanley All Day Julienne Soft Cooler Bag and Lunch Box | Insulated Travel Bag with Zipper | BPA-Free",
+          "price": "$60.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81zTR7jwPAL.jpg",
+          "url": "https://www.amazon.com/dp/B0CZ5WG4BN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FKQSXHN6",
+          "slug": "oura-ring-4-ceramic-cloud-size-5-sleep-activity-womens-healt",
+          "title": "Oura Ring 4 - Ceramic Cloud - Size 5 - Sleep, Activity, Women’s Health, AI Advisor, Up to 8 Days of Battery Life, Size B",
+          "price": "$259",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FKQSXHN6?th=1&linkCode=sl2&tag=noya0b-20&linkId=2cabc53b401cdd57c6f7414d15401511&language=en_US"
+        },
+        {
+          "asin": "B01H61RUW6",
+          "slug": "trademark-innovations-60-clover-column-windsock-blows-in-the",
+          "title": "Trademark Innovations 60\" Clover Column Windsock - Blows in the Wind",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61E8rREyPpL.jpg",
+          "url": "https://www.amazon.com/dp/B01H61RUW6/ref=cm_sw_r_as_gl_api_gl_i_dl_4HWTZ9YEWCDE9TKVMYN7?linkCode=ml1&tag=noya0b-20&linkId=c58d6c8827880b430d2d5cde8791b626"
+        },
+        {
+          "asin": "B0BLTC97QG",
+          "slug": "billie-eilish-eau-de-parfum-spray-perfume-for-women-notes-of",
+          "title": "Billie Eilish Eau de Parfum Spray Perfume for Women, Notes of Sugared Petals, Vanilla & Musk,1.0 Fl Oz : Beauty & Person",
+          "price": "$34",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/517gLsq1-7L.jpg",
+          "url": "https://www.amazon.com/dp/B0BLTC97QG?asc_item-id=amzn1.ideas.35GPCXB9L7H5W&th=1&linkCode=sl2&tag=noya0b-20&linkId=e3bb623eb6c98c70ba8faecd8c0f8736&language=en_US"
+        },
+        {
+          "asin": "B0G8LN26Q3",
+          "slug": "shiseido-ultimate-sun-protector-clear-stick-spf-60-invisible",
+          "title": "Shiseido Ultimate Sun Protector Clear Stick SPF 60+ - Invisible, Portable Sunscreen for Face & Body - Visibly Improves F",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Shiseido-Ultimate-Protector-Clear-Stick/dp/B0G8LN26Q3?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a8bba7951cec74d772566602419953e1&language=en_US"
         },
         {
           "asin": "B08TDPSG86",
@@ -189,67 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81cBaF4vUVL.jpg",
           "url": "https://www.amazon.com/dp/B0CD242GTZ/ref=cm_sw_r_as_gl_api_gl_i_B9Z98QXY2KF38TSQ5CN4?linkCode=ml1&tag=noya0b-20&linkId=204bd7dbaaa37662775a9923ee2460b0"
-        },
-        {
-          "asin": "B0DZ68PCHY",
-          "slug": "amazon-basics-60-lightweight-tripod-for-camera-and-phone-wit",
-          "title": "Amazon Basics 60\" Lightweight Tripod for Camera and Phone with Travel Bag, Remote Control, Phone Holder, Height Adjustab",
-          "price": "$27.29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LPebbVbFL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DZ68PCHY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07BFK7G5N",
-          "slug": "ego-power-lb5800-580cfm-56-volt-variable-speed-lithium-ion-c",
-          "title": "EGO Power+ LB5800 580CFM 56-Volt Variable-Speed Lithium-ion Cordless Blower, Tool Only, Black",
-          "price": "$199.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41DdObqrbyL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B07BFK7G5N?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GWR7YZB5",
-          "slug": "these-look-cozy-11xx-womens-pajamas",
-          "title": "These look cozy! $11.xx Women's Pajamas",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71YG0L++8bL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GWR7YZB5?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c0283489d0718f42286cd7e4eb3a15d3&language=en_US"
-        },
-        {
-          "asin": "B000VDV1UE",
-          "slug": "arrowhead-mountain-spring-water-bottles-12-pack-still-bottle",
-          "title": "Arrowhead Mountain Spring Water Bottles, 12 Pack - Still Bottled Water with Naturally Occurring Minerals & Electrolytes ",
-          "price": "$4.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71c+wHpfrML._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B000VDV1UE?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07CBKMHT1",
-          "slug": "diet-pepsi-soda-75-ounce-mini-cans-10-pack-grocery-gourmet-f",
-          "title": "Diet Pepsi Soda, 7.5 Ounce Mini Cans, 10 Pack : Grocery & Gourmet Food",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81cNn1uBL+L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07CBKMHT1/ref=cm_sw_r_as_gl_api_gl_i_dl_NBN6TEN9TT3PZE2C4YCZ?linkCode=ml1&tag=noya0b-20&linkId=068587e0981b8f6633c94e1b2a21faa0"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 23, 2026?",
-          "a": "The best deals today include \"Extra 30% off select diapers for prime members!! Clip Q + su...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Extra 30% off select diapers for prime members!! Clip Q + su...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-23T11:20:01.657Z",
-      "updatedAt": "2026-06-23T11:20:01.657Z"
+      "generatedAt": "2026-06-23T11:30:02.090Z",
+      "updatedAt": "2026-06-23T11:30:02.090Z"
     },
     {
       "date": "2026-06-22",
@@ -4021,5 +4024,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-23T11:20:01.658Z"
+  "generatedAt": "2026-06-23T11:30:02.092Z"
 }
