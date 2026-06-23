@@ -9,8 +9,8 @@
         "Other",
         "Toys & Kids",
         "Beauty",
-        "Home & Kitchen",
-        "Garden & Outdoor"
+        "Cleaning Supplies",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Toys & Kids": [
@@ -37,7 +37,66 @@
             "url": "https://www.amazon.com/dp/B00005850H?crid=29P40I09SH7CI&dib=eyJ2IjoiMSJ9.-nk17IyChRK3I0qvdn4oDmiP_5KNqkmDj5Z89Ay9tX9yfTHOAkCygyOmRXwsBRm9FdMJE2qDISYYgz0XQl9ePLDs5Yat-uxsOvygcIf1z0cESOt-7pioAdnE6yAoDCln3XtrO6pB5Dp8Zcj5TP6jnKm1QJr_8w1jW3SrN5YxLx1GrnPaWp8WJQzGM8IIhf0xPxUrQtUANqNxDWSjBi_u7fdaFNlGakHAfU6L2H87BGsNFVhZcKg6VyiZRdxXbWWo14lib2cyN7TenS1KQytaBHNJuCberwBiEDFewP8zpxo.MG-PLZi5v_88tf_iekxzV_Epu9NsUTfY801T_MobQHA&dib_tag=se&keywords=TIKES&qid=1782218363&s=bazaar&sprefix=tikes%2Cbazaar%2C153&srs=121974693011&psc=1&th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=5df8c2951dfc7804da28ede6ee9153fd&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B00CHJUJTO",
+            "slug": "degree-clinical-strength-antiperspirant-deodorant-shower-cle",
+            "title": "Degree Clinical Strength Antiperspirant Deodorant Shower Clean Soft Solid 96-Hour Sweat and Odor Protection 5x Types of ",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00CHJUJTO/ref=cm_sw_r_as_gl_apa_gl_i_dl_6E0HJQZPXC570MEMFX8V?linkCode=ml1&tag=noya0b-20&linkId=744993ecc80f8d665efb3291a3072102"
+          },
+          {
+            "asin": "B08KXSPHY6",
+            "slug": "o-boticario-floratta-eau-de-toilette-love-flower-long-lastin",
+            "title": "\udecd️O BOTICARIO Floratta Eau de Toilette Love Flower | Long-Lasting Floral Fragrance Perfume for Women, 2.5 Ounce",
+            "price": "$56.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51BBztmX7oL.jpg",
+            "url": "https://www.amazon.com/dp/B08KXSPHY6/ref=cm_sw_r_as_gl_api_gl_i_DDQQ6F4YWPGDADKJPA7K?tag=noya0b-20"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B07F246YG1",
+            "slug": "amazon-basics-disinfecting-wipes-lemon-fresh-scent-sanitizes",
+            "title": "\udecd️Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, Sanitizes, Cleans, Disinfects & Deodorizes, 255 Count (3 Packs ",
+            "price": "$11.69",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HKpJPcVML.jpg",
+            "url": "https://www.amazon.com/dp/B07F246YG1?tag=noya0b-20"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0CRR8FJSD",
+            "slug": "tineco-ifloor-5-breeze-complete-wet-dry-vacuum-cordless-floo",
+            "title": "\udecd️Tineco iFLOOR 5 Breeze Complete Wet Dry Vacuum Cordless Floor Washer, One-Step Cleaning for Hard Floors, Edge Clean, A",
+            "price": "$299.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CRR8FJSD?tag=noya0b-20"
+          },
+          {
+            "asin": "B07P97CD5T",
+            "slug": "miele-classic-c1-pure-suction-bagged-canister-vacuum-graphit",
+            "title": "\udecd️Miele Classic C1 Pure Suction Bagged Canister Vacuum, Graphite Grey - Portable, Household",
+            "price": "$399.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07P97CD5T?tag=noya0b-20"
+          },
           {
             "asin": "B0DHHKF6VR",
             "slug": "handheld-digital-microscope-portable-pocket-magnifying-glass",
@@ -59,28 +118,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/Nexxus-Thermal-protection-StyleProtect-Technology/dp/B0CN9N41R2?crid=M1LX1LOEO18G&dib=eyJ2IjoiMSJ9.nbKULBRRylZuDl6U_WOONR06dzVEYmIcPLwcH2jv7BruRidquRWZP3IrRUOVHkjcdD10ZW3L2ApidCqKaL3j09lA50Fsu_nOxeSNZNlvrka_gFJouAoJ8d6RFyfzCycehQ4v1AvbQ2EuIX14XxVtWr5OOJMmcaN1bMUxLpcZC7FaC62katW5OjVQRbCh2NIUljab9-OW9JOKgckxvVIOsr_-4at1lH0WsqPjKCW1zlvhLooCNMu2Y-UuVx7QNhC2HCcCsiJMh-900_unhKb8hGl3vKUqUEypOCrxqZR_rkM.XhG_3YsUfloOipbsQ6P2iOvzN1huL2yPaT7dy9qPBm0&dib_tag=se&keywords=Nexxus&qid=1782218298&s=beauty&sprefix=nexx%2Cbeauty%2C255&th=1&linkCode=sl2&tag=noya0b-20&linkId=53e3e305522c7cd5015075970df38719&language=en_US"
-          },
-          {
-            "asin": "B07VXM5T7Y",
-            "slug": "1xx-ground-coriander-275-oz",
-            "title": "⚡️$1.xx Ground Coriander, 2.75 Oz",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71abpxP09oL.jpg",
-            "url": "https://www.amazon.com/Amazon-Brand-Coriander-Ground-Ounces/dp/B07VXM5T7Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=53274cf3d6fd63e7aa52240d035a0014&language=en_US"
-          },
-          {
-            "asin": "B0FCJWQCQP",
-            "slug": "michael-kors-hamiton-extra-small-convertible-crossbody-bag-g",
-            "title": "\udecd️Michael Kors Hamiton Extra Small Convertible Crossbody Bag, Gold-Tone Hardware/Urbino Leather/French Blue",
-            "price": "$158.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71+XsyHl2hL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FCJWQCQP?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -95,43 +132,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0BNYR7MQV/ref=cm_sw_r_as_gl_api_gl_i_dl_N8TWP5B5SW1R4202R2KE?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B08KXSPHY6",
-            "slug": "o-boticario-floratta-eau-de-toilette-love-flower-long-lastin",
-            "title": "\udecd️O BOTICARIO Floratta Eau de Toilette Love Flower | Long-Lasting Floral Fragrance Perfume for Women, 2.5 Ounce",
-            "price": "$56.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51BBztmX7oL.jpg",
-            "url": "https://www.amazon.com/dp/B08KXSPHY6/ref=cm_sw_r_as_gl_api_gl_i_DDQQ6F4YWPGDADKJPA7K?tag=noya0b-20"
-          },
-          {
-            "asin": "B09X3HB2BR",
-            "slug": "sol-de-janeiro-brazilian-crush-cheirosa-62-hair-body-fragran",
-            "title": "\udecd️SOL DE JANEIRO Brazilian Crush Cheirosa '62 Hair & Body Fragrance Mist 240mL/8 fl oz",
-            "price": "$39.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61iUgqAgoBL.jpg",
-            "url": "https://www.amazon.com/dp/B09X3HB2BR/ref=cm_sw_r_as_gl_api_gl_i_dl_A4KCND32D6E7BCY3847W?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B07JBKJBW5",
-            "slug": "tcg-players-1xx-deck-box",
-            "title": "TCG Players! $1.xx Deck Box!",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/51n2PYj1zNL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07JBKJBW5?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=8c0cf952d038e4d2b0d740ea8afb07c1&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -145,6 +145,50 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/71vlRUJ6Q+L.jpg",
           "url": "https://www.amazon.com/dp/B07SWMVDBD?tag=noya0b-20"
+        },
+        {
+          "asin": "B00CHJUJTO",
+          "slug": "degree-clinical-strength-antiperspirant-deodorant-shower-cle",
+          "title": "Degree Clinical Strength Antiperspirant Deodorant Shower Clean Soft Solid 96-Hour Sweat and Odor Protection 5x Types of ",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00CHJUJTO/ref=cm_sw_r_as_gl_apa_gl_i_dl_6E0HJQZPXC570MEMFX8V?linkCode=ml1&tag=noya0b-20&linkId=744993ecc80f8d665efb3291a3072102"
+        },
+        {
+          "asin": "B07F246YG1",
+          "slug": "amazon-basics-disinfecting-wipes-lemon-fresh-scent-sanitizes",
+          "title": "\udecd️Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, Sanitizes, Cleans, Disinfects & Deodorizes, 255 Count (3 Packs ",
+          "price": "$11.69",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HKpJPcVML.jpg",
+          "url": "https://www.amazon.com/dp/B07F246YG1?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CRR8FJSD",
+          "slug": "tineco-ifloor-5-breeze-complete-wet-dry-vacuum-cordless-floo",
+          "title": "\udecd️Tineco iFLOOR 5 Breeze Complete Wet Dry Vacuum Cordless Floor Washer, One-Step Cleaning for Hard Floors, Edge Clean, A",
+          "price": "$299.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CRR8FJSD?tag=noya0b-20"
+        },
+        {
+          "asin": "B07P97CD5T",
+          "slug": "miele-classic-c1-pure-suction-bagged-canister-vacuum-graphit",
+          "title": "\udecd️Miele Classic C1 Pure Suction Bagged Canister Vacuum, Graphite Grey - Portable, Household",
+          "price": "$399.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07P97CD5T?tag=noya0b-20"
         },
         {
           "asin": "B00005850H",
@@ -200,50 +244,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/Nexxus-Thermal-protection-StyleProtect-Technology/dp/B0CN9N41R2?crid=M1LX1LOEO18G&dib=eyJ2IjoiMSJ9.nbKULBRRylZuDl6U_WOONR06dzVEYmIcPLwcH2jv7BruRidquRWZP3IrRUOVHkjcdD10ZW3L2ApidCqKaL3j09lA50Fsu_nOxeSNZNlvrka_gFJouAoJ8d6RFyfzCycehQ4v1AvbQ2EuIX14XxVtWr5OOJMmcaN1bMUxLpcZC7FaC62katW5OjVQRbCh2NIUljab9-OW9JOKgckxvVIOsr_-4at1lH0WsqPjKCW1zlvhLooCNMu2Y-UuVx7QNhC2HCcCsiJMh-900_unhKb8hGl3vKUqUEypOCrxqZR_rkM.XhG_3YsUfloOipbsQ6P2iOvzN1huL2yPaT7dy9qPBm0&dib_tag=se&keywords=Nexxus&qid=1782218298&s=beauty&sprefix=nexx%2Cbeauty%2C255&th=1&linkCode=sl2&tag=noya0b-20&linkId=53e3e305522c7cd5015075970df38719&language=en_US"
-        },
-        {
-          "asin": "B09X3HB2BR",
-          "slug": "sol-de-janeiro-brazilian-crush-cheirosa-62-hair-body-fragran",
-          "title": "\udecd️SOL DE JANEIRO Brazilian Crush Cheirosa '62 Hair & Body Fragrance Mist 240mL/8 fl oz",
-          "price": "$39.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61iUgqAgoBL.jpg",
-          "url": "https://www.amazon.com/dp/B09X3HB2BR/ref=cm_sw_r_as_gl_api_gl_i_dl_A4KCND32D6E7BCY3847W?tag=noya0b-20"
-        },
-        {
-          "asin": "B07VXM5T7Y",
-          "slug": "1xx-ground-coriander-275-oz",
-          "title": "⚡️$1.xx Ground Coriander, 2.75 Oz",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71abpxP09oL.jpg",
-          "url": "https://www.amazon.com/Amazon-Brand-Coriander-Ground-Ounces/dp/B07VXM5T7Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=53274cf3d6fd63e7aa52240d035a0014&language=en_US"
-        },
-        {
-          "asin": "B0FCJWQCQP",
-          "slug": "michael-kors-hamiton-extra-small-convertible-crossbody-bag-g",
-          "title": "\udecd️Michael Kors Hamiton Extra Small Convertible Crossbody Bag, Gold-Tone Hardware/Urbino Leather/French Blue",
-          "price": "$158.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+XsyHl2hL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FCJWQCQP?tag=noya0b-20"
-        },
-        {
-          "asin": "B07JBKJBW5",
-          "slug": "tcg-players-1xx-deck-box",
-          "title": "TCG Players! $1.xx Deck Box!",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/51n2PYj1zNL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07JBKJBW5?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=8c0cf952d038e4d2b0d740ea8afb07c1&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-23T12:50:02.212Z",
-      "updatedAt": "2026-06-23T12:50:02.212Z"
+      "generatedAt": "2026-06-23T13:00:01.500Z",
+      "updatedAt": "2026-06-23T13:00:01.500Z"
     },
     {
       "date": "2026-06-22",
@@ -4021,5 +4021,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-23T12:50:02.214Z"
+  "generatedAt": "2026-06-23T13:00:01.502Z"
 }
