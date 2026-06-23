@@ -11,8 +11,8 @@
         "Beauty",
         "Grocery & Food",
         "Home & Kitchen",
-        "Tools & Hardware",
-        "Other"
+        "Other",
+        "Tools & Hardware"
       ],
       "byCategory": {
         "Fashion": [
@@ -89,6 +89,19 @@
             "url": "https://www.amazon.com/Instant-Vortex-Plus-Air-Fryer/dp/B07VHFMZHJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=bfee71807b7469192f39816cb187d0fd&language=en_US"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0DRCN687R",
+            "slug": "tineco-floor-one-switch-s6-stretch-wet-dry-vacuum-cleaner-mu",
+            "title": "Tineco Floor ONE Switch S6 Stretch Wet Dry Vacuum Cleaner, Multi-Function, 180° Lay-Flat, Anti-Tangle Design, Self-Clean",
+            "price": "$399",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DRCN687R?th=1&tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0C3V62RBD",
@@ -124,19 +137,6 @@
             "category": "Tools & Hardware",
             "imageUrl": null,
             "url": "https://www.amazon.com/DEWALT-DWA2FTS100-Screwdriving-Drilling-Piece/dp/B00VQCBTXS?linkCode=sl2&tag=noya0b-20&linkId=e6d6cb97b3ea06485fe6390507cb9aa2&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0BF7GQXTP",
-            "slug": "bartesian-professional-cocktail-machine-and-margarita-maker",
-            "title": "Bartesian Professional Cocktail Machine and Margarita Maker - High Capacity Bar Cocktail Mixer with 5 Premium Glass Bott",
-            "price": "$298",
-            "discount": 40,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cC176W+mL.jpg",
-            "url": "https://www.amazon.com/dp/B0BF7GQXTP?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -197,6 +197,17 @@
           "url": "https://www.amazon.com/Instant-Vortex-Plus-Air-Fryer/dp/B07VHFMZHJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=bfee71807b7469192f39816cb187d0fd&language=en_US"
         },
         {
+          "asin": "B0DRCN687R",
+          "slug": "tineco-floor-one-switch-s6-stretch-wet-dry-vacuum-cleaner-mu",
+          "title": "Tineco Floor ONE Switch S6 Stretch Wet Dry Vacuum Cleaner, Multi-Function, 180° Lay-Flat, Anti-Tangle Design, Self-Clean",
+          "price": "$399",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DRCN687R?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0C3V62RBD",
           "slug": "saie-glowy-super-skin-tint-liquid-foundation-weightless-dewy",
           "title": "Saie Glowy Super Skin Tint Liquid Foundation - Weightless + Dewy Foundation with Lightweight Medium Coverage - Hydrating",
@@ -239,17 +250,6 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/51n8PCddVjL._SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B07NYH9H9V?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0BF7GQXTP",
-          "slug": "bartesian-professional-cocktail-machine-and-margarita-maker",
-          "title": "Bartesian Professional Cocktail Machine and Margarita Maker - High Capacity Bar Cocktail Mixer with 5 Premium Glass Bott",
-          "price": "$298",
-          "discount": 40,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cC176W+mL.jpg",
-          "url": "https://www.amazon.com/dp/B0BF7GQXTP?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-23T23:40:01.645Z",
-      "updatedAt": "2026-06-23T23:40:01.646Z"
+      "generatedAt": "2026-06-23T23:50:01.595Z",
+      "updatedAt": "2026-06-23T23:50:01.595Z"
     },
     {
       "date": "2026-06-22",
@@ -4027,5 +4027,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-23T23:40:01.647Z"
+  "generatedAt": "2026-06-23T23:50:01.596Z"
 }
