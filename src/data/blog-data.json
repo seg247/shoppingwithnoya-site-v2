@@ -11,7 +11,8 @@
         "Home & Kitchen",
         "Tools & Hardware",
         "Toys & Kids",
-        "Beauty",
+        "Garden & Outdoor",
+        "Other",
         "Electronics"
       ],
       "byCategory": {
@@ -37,6 +38,17 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/91oRKs6vfmL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/American-Tourister-Expandable-Hardside-Raspberry/dp/B0DKB2H91S?th=1&linkCode=sl2&tag=noya0b-20&linkId=e39798fdf04e7d720dd97a50af3f73f8&language=en_US"
+          },
+          {
+            "asin": "B0844HH4TL",
+            "slug": "flame-king-vt-101-2-burner-portable-camping-stove-grill-grea",
+            "title": "Flame King VT-101 2-Burner Portable Camping Stove Grill, Great for Outdoor Cooking, Backpacking, Compatible with 1LB Pro",
+            "price": "$28.58",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RRjF7hvaL.jpg",
+            "url": "https://www.amazon.com/dp/B0844HH4TL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -50,17 +62,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81sxxZoX22L.jpg",
             "url": "https://www.amazon.com/High-Brew-Coffee-Double-Espresso/dp/B01GW3M6EQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=340893a0ef730e2f6a3fd302c00e0f62&language=en_US"
-          },
-          {
-            "asin": "B0FL9GK819",
-            "slug": "bloom-nutrition-sparkling-energy-drink-natural-caffeine-zero",
-            "title": "Bloom Nutrition Sparkling Energy Drink - Natural Caffeine, Zero Sugar, 180mg Caffeine - Antioxidant-Rich with Green Coff",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Bloom-Nutrition-Sparkling-Energy-Drink/dp/B0FL9GK819?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=20af077a378ab8bd483902b79a8cc3a9&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -74,17 +75,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71GPWtT61gL.jpg",
             "url": "https://www.amazon.com/Instant-Vortex-Plus-Air-Fryer/dp/B07VHFMZHJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=bfee71807b7469192f39816cb187d0fd&language=en_US"
-          },
-          {
-            "asin": "B0GS6JJ5GS",
-            "slug": "hefty-ultra-strong-signature-scents-13-gallon-trash-bags-lav",
-            "title": "Hefty Ultra Strong Signature Scents 13 Gallon Trash Bags, Lavender Vanilla Bliss Scent, Tall Kitchen Trash Bags with 25%",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/91scXEwujQL.jpg",
-            "url": "https://www.amazon.com/Hefty-Signature-Lavender-Vanilla-Technology/dp/B0GS6JJ5GS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=56c7ec2d1e4457db68bef0d8c13cb0e2&language=en_US"
           }
         ],
         "Tools & Hardware": [
@@ -113,30 +103,43 @@
             "url": "https://www.amazon.com/dp/B07SWMVDBD?tag=noya0b-20"
           }
         ],
-        "Beauty": [
+        "Garden & Outdoor": [
           {
-            "asin": "B0GYM79B36",
-            "slug": "olaplex-n3plus-complete-repair-treatment-and-n6-bond-smoothe",
-            "title": "Olaplex N°.3PLUS Complete Repair Treatment and N°.6 Bond Smoother Bundle : Beauty & Personal Care",
-            "price": "$46",
+            "asin": "B01K1SETD4",
+            "slug": "gigalumi-solar-lights-outdoor-waterproof-12-pack-stainless-s",
+            "title": "GIGALUMI Solar Lights Outdoor Waterproof, 12 Pack, Stainless Steel LED Solar Garden Lights for Patio, Lawn, Yard and Lan",
+            "price": "$19",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ZCxBfh+-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B01K1SETD4?s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=b165243f243e38adb6dc17c04b861596&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0GS9S3HDQ",
+            "slug": "awesome-bundle-promo",
+            "title": "AWESOME BUNDLE PROMO!",
+            "price": "$199",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
             "imageUrl": null,
-            "url": "https://www.amazon.com/Olaplex-N%C2%B0-3PLUS-Complete-Treatment-Smoother/dp/B0GYM79B36?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4ab7b33b58cf9ed7a8ee4dca2a2a0a6b&language=en_US"
+            "url": "https://www.amazon.com/Cricut-Explore%C2%AE-Deluxe-Digital-Content/dp/B0GS9S3HDQ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=6022eeecb674c5264fddfea2ca3ab001&language=en_US"
           }
         ],
         "Electronics": [
           {
-            "asin": "B095GG31KX",
-            "slug": "innoview-portable-monitor-156-inch-fhd-1080p-hdmi-usb-c-seco",
-            "title": "InnoView Portable Monitor, 15.6 Inch FHD 1080P HDMI USB C Second External Monitor for Laptop, Desktop, MacBook, Phones, ",
-            "price": "$49",
+            "asin": "B0DRYQSXWV",
+            "slug": "aferiy-2048wh-portable-power-station-2400w-peak-4800wp210-li",
+            "title": "AFERIY 2048Wh Portable Power Station 2400W (Peak 4800W),P210 LiFePO4 Battery Generator,AC Fast Charging, 12V/25A XT60 DC",
+            "price": "$484.00",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71C3uFMWVJL.jpg",
-            "url": "https://www.amazon.com/Portable-Monitor-InnoView-External-Protective/dp/B095GG31KX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c679b5190bef04138124d5481aee542f&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/61X1luzHmKL.jpg",
+            "url": "https://www.amazon.com/dp/B0DRYQSXWV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
@@ -208,48 +211,48 @@
           "url": "https://www.amazon.com/dp/B07SWMVDBD?tag=noya0b-20"
         },
         {
-          "asin": "B0FL9GK819",
-          "slug": "bloom-nutrition-sparkling-energy-drink-natural-caffeine-zero",
-          "title": "Bloom Nutrition Sparkling Energy Drink - Natural Caffeine, Zero Sugar, 180mg Caffeine - Antioxidant-Rich with Green Coff",
-          "price": "$18",
+          "asin": "B01K1SETD4",
+          "slug": "gigalumi-solar-lights-outdoor-waterproof-12-pack-stainless-s",
+          "title": "GIGALUMI Solar Lights Outdoor Waterproof, 12 Pack, Stainless Steel LED Solar Garden Lights for Patio, Lawn, Yard and Lan",
+          "price": "$19",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Bloom-Nutrition-Sparkling-Energy-Drink/dp/B0FL9GK819?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=20af077a378ab8bd483902b79a8cc3a9&language=en_US"
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZCxBfh+-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B01K1SETD4?s=bazaar&linkCode=sl2&tag=noya0b-20&linkId=b165243f243e38adb6dc17c04b861596&language=en_US"
         },
         {
-          "asin": "B0GYM79B36",
-          "slug": "olaplex-n3plus-complete-repair-treatment-and-n6-bond-smoothe",
-          "title": "Olaplex N°.3PLUS Complete Repair Treatment and N°.6 Bond Smoother Bundle : Beauty & Personal Care",
-          "price": "$46",
+          "asin": "B0844HH4TL",
+          "slug": "flame-king-vt-101-2-burner-portable-camping-stove-grill-grea",
+          "title": "Flame King VT-101 2-Burner Portable Camping Stove Grill, Great for Outdoor Cooking, Backpacking, Compatible with 1LB Pro",
+          "price": "$28.58",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Olaplex-N%C2%B0-3PLUS-Complete-Treatment-Smoother/dp/B0GYM79B36?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=4ab7b33b58cf9ed7a8ee4dca2a2a0a6b&language=en_US"
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RRjF7hvaL.jpg",
+          "url": "https://www.amazon.com/dp/B0844HH4TL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
-          "asin": "B095GG31KX",
-          "slug": "innoview-portable-monitor-156-inch-fhd-1080p-hdmi-usb-c-seco",
-          "title": "InnoView Portable Monitor, 15.6 Inch FHD 1080P HDMI USB C Second External Monitor for Laptop, Desktop, MacBook, Phones, ",
-          "price": "$49",
+          "asin": "B0GS9S3HDQ",
+          "slug": "awesome-bundle-promo",
+          "title": "AWESOME BUNDLE PROMO!",
+          "price": "$199",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Cricut-Explore%C2%AE-Deluxe-Digital-Content/dp/B0GS9S3HDQ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=6022eeecb674c5264fddfea2ca3ab001&language=en_US"
+        },
+        {
+          "asin": "B0DRYQSXWV",
+          "slug": "aferiy-2048wh-portable-power-station-2400w-peak-4800wp210-li",
+          "title": "AFERIY 2048Wh Portable Power Station 2400W (Peak 4800W),P210 LiFePO4 Battery Generator,AC Fast Charging, 12V/25A XT60 DC",
+          "price": "$484.00",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71C3uFMWVJL.jpg",
-          "url": "https://www.amazon.com/Portable-Monitor-InnoView-External-Protective/dp/B095GG31KX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c679b5190bef04138124d5481aee542f&language=en_US"
-        },
-        {
-          "asin": "B0GS6JJ5GS",
-          "slug": "hefty-ultra-strong-signature-scents-13-gallon-trash-bags-lav",
-          "title": "Hefty Ultra Strong Signature Scents 13 Gallon Trash Bags, Lavender Vanilla Bliss Scent, Tall Kitchen Trash Bags with 25%",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/91scXEwujQL.jpg",
-          "url": "https://www.amazon.com/Hefty-Signature-Lavender-Vanilla-Technology/dp/B0GS6JJ5GS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=56c7ec2d1e4457db68bef0d8c13cb0e2&language=en_US"
+          "imageUrl": "https://m.media-amazon.com/images/I/61X1luzHmKL.jpg",
+          "url": "https://www.amazon.com/dp/B0DRYQSXWV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-23T17:20:01.351Z",
-      "updatedAt": "2026-06-23T17:20:01.351Z"
+      "generatedAt": "2026-06-23T17:30:02.113Z",
+      "updatedAt": "2026-06-23T17:30:02.113Z"
     },
     {
       "date": "2026-06-22",
@@ -4027,5 +4030,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-23T17:20:01.353Z"
+  "generatedAt": "2026-06-23T17:30:02.115Z"
 }
