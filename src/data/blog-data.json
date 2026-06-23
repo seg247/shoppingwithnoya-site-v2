@@ -9,6 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
+        "Electronics",
         "Pet Supplies"
       ],
       "byCategory": {
@@ -67,17 +68,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71Ka2obBynL.jpg",
             "url": "https://www.amazon.com/dp/B0GMSG1KHT?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0F7TLKMLD",
-            "slug": "david-beckham-amber-breeze-giftset-33-fl-oz-amber-breeze-edp",
-            "title": "David Beckham Amber Breeze Giftset, 3.3 fl oz Amber Breeze EDP + 5 fl oz Shower Gel, Notes of Bargamot, Lavender, and Wo",
-            "price": "$19",
-            "discount": 34,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81-Wlp1ebrL.jpg",
-            "url": "https://www.amazon.com/dp/B0F7TLKMLD?th=1&tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -115,6 +105,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/514YCMftobL.jpg",
             "url": "https://www.amazon.com/dp/B0815KPZVB?th=1&tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B09N719G17",
+            "slug": "fire-tv-40-2-series-1080p-hd-smart-tv-amazon",
+            "title": "Fire TV 40\" 2-Series 1080p HD smart TV | Amazon",
+            "price": "$149",
+            "discount": 40,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61eE1gQOAzL.jpg",
+            "url": "https://www.amazon.com/dp/B09N719G17?th=1&tag=noya0b-20"
           }
         ],
         "Pet Supplies": [
@@ -188,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B091C3Z1FP?th=1&linkCode=sl2&tag=noya0b-20&linkId=6a88e85464547ca239bc09e57f677634&language=en_US"
         },
         {
+          "asin": "B09N719G17",
+          "slug": "fire-tv-40-2-series-1080p-hd-smart-tv-amazon",
+          "title": "Fire TV 40\" 2-Series 1080p HD smart TV | Amazon",
+          "price": "$149",
+          "discount": 40,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61eE1gQOAzL.jpg",
+          "url": "https://www.amazon.com/dp/B09N719G17?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0815KPZVB",
           "slug": "dash-tasti-crisp-air-fryer-aircrisp-technology-compact-desig",
           "title": "Dash Tasti-Crisp™ Air Fryer - AirCrisp® Technology - Compact Design with Adjustable Temperature Control - Nonstick Fry B",
@@ -230,17 +244,6 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81vVD70YtxL.jpg",
           "url": "https://www.amazon.com/dp/B002UT92EY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F7TLKMLD",
-          "slug": "david-beckham-amber-breeze-giftset-33-fl-oz-amber-breeze-edp",
-          "title": "David Beckham Amber Breeze Giftset, 3.3 fl oz Amber Breeze EDP + 5 fl oz Shower Gel, Notes of Bargamot, Lavender, and Wo",
-          "price": "$19",
-          "discount": 34,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81-Wlp1ebrL.jpg",
-          "url": "https://www.amazon.com/dp/B0F7TLKMLD?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-23T00:20:02.060Z",
-      "updatedAt": "2026-06-23T00:20:02.060Z"
+      "generatedAt": "2026-06-23T00:30:01.273Z",
+      "updatedAt": "2026-06-23T00:30:01.273Z"
     },
     {
       "date": "2026-06-21",
@@ -3750,5 +3753,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-23T00:20:02.061Z"
+  "generatedAt": "2026-06-23T00:30:01.275Z"
 }
