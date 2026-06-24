@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
-        "Grocery & Food",
-        "Gaming"
+        "Fashion",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0CVF8R2DJ?linkCode=sl2&tag=noya0b-20&linkId=6813bf56e0fae7dc1ae9f69b2cf0ecc5&language=en_US"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0GXHMQTNM",
+            "slug": "cushionaire-pool-slides-for-women-water-resistant-double-buc",
+            "title": "CUSHIONAIRE Pool Slides for Women Water Resistant Double Buckle Adjustable Slip-On Womens Sandals for Beach Shower Casua",
+            "price": "$32",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/710wHYogIYL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GXHMQTNM?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0BG8ZNZDG",
@@ -118,19 +131,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81HCEeOrXEL.jpg",
             "url": "https://www.amazon.com/BODYARMOR-Low-Calorie-Strawberry-Potassium-Packed-Electrolytes/dp/B0BG8ZNZDG?th=1&linkCode=sl2&tag=noya0b-20&linkId=a508f09f0ea73a53161d464d6bdeb6d3&language=en_US"
-          }
-        ],
-        "Gaming": [
-          {
-            "asin": "B01GTX8KQ2",
-            "slug": "tired-of-board-game-boxes-falling-apart",
-            "title": "Tired of board game boxes falling apart?",
-            "price": "$30",
-            "discount": 45,
-            "rating": "HOT",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/71QFxNN0aNL.jpg",
-            "url": "https://www.amazon.com/dp/B01GTX8KQ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=6ac6db7015d36c6e91232a40b7798f09&language=en_US"
           }
         ]
       },
@@ -191,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B0DSCP5SXZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=3871f8c6a32d14c7ebd5bfb9af910aef&language=en_US"
         },
         {
+          "asin": "B0GXHMQTNM",
+          "slug": "cushionaire-pool-slides-for-women-water-resistant-double-buc",
+          "title": "CUSHIONAIRE Pool Slides for Women Water Resistant Double Buckle Adjustable Slip-On Womens Sandals for Beach Shower Casua",
+          "price": "$32",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/710wHYogIYL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GXHMQTNM?th=1&psc=1&tag=noya0b-20"
+        },
+        {
           "asin": "B011M6K81Q",
           "slug": "check-all-lots-on-sale-for-prime-stack-with-promo",
           "title": "CHECK ALL LOTS ON SALE FOR PRIME + STACK WITH PROMO\udfc3‍♀️",
@@ -233,17 +244,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B019QROV9S?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a8c10003c7f0d54d58ae901cc0e966e&language=en_US"
-        },
-        {
-          "asin": "B01GTX8KQ2",
-          "slug": "tired-of-board-game-boxes-falling-apart",
-          "title": "Tired of board game boxes falling apart?",
-          "price": "$30",
-          "discount": 45,
-          "rating": "HOT",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QFxNN0aNL.jpg",
-          "url": "https://www.amazon.com/dp/B01GTX8KQ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=6ac6db7015d36c6e91232a40b7798f09&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-24T22:10:00.654Z",
-      "updatedAt": "2026-06-24T22:10:00.654Z"
+      "generatedAt": "2026-06-24T22:20:02.005Z",
+      "updatedAt": "2026-06-24T22:20:02.006Z"
     },
     {
       "date": "2026-06-23",
@@ -4295,5 +4295,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-24T22:10:00.656Z"
+  "generatedAt": "2026-06-24T22:20:02.007Z"
 }
