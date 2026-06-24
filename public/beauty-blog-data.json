@@ -9,8 +9,8 @@
         "Makeup",
         "Hair Care",
         "Skincare",
-        "Beauty",
-        "Body Care"
+        "Body Care",
+        "Beauty"
       ],
       "bySubcat": {
         "Makeup": [
@@ -93,7 +93,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -287,16 +287,28 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/51CRssUhs5L.jpg",
             "url": "https://amazon.com/dp/B0GF86QJK7?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Body Care": [
           {
-            "asin": "B0FVT77ZLL",
-            "slug": "anua-pdrn-collagen-glow-facial-serum-spray-hydrating-face-mi",
-            "title": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Ins",
+            "asin": "B00272GTH2",
+            "slug": "gillette-venus-comfortglide-white-tea-womens-disposable-razo",
+            "title": "Gillette Venus ComfortGlide White Tea Women's Disposable Razor, 2 Count",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
-            "url": "https://www.amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/715IcD9r1kL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00272GTH2/ref=cm_sw_r_as_gl_apa_gl_i_ZETVRP7MMECZ8H852SQS?linkCode=ml1&tag=noya0b-20&linkId=55bde2f1f7eacb2a479a64c6872b999b"
+          },
+          {
+            "asin": "B08VJLHSXD",
+            "slug": "henckels-solution-razor-sharp-16-pc-knife-set-includes-chef",
+            "title": "HENCKELS Solution Razor-Sharp 16-pc Knife Set, Includes Chef, Bread & Steak Knives, German Engineered Informed by 100+ Y",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71EawySF39L._SL1500_.jpg",
+            "url": "https://www.amazon.com/HENCKELS-Razor-Sharp-Self-Sharpening-Engineered-Masterful/dp/B08VJLHSXD?crid=65BY1CQLM2QR&dib=eyJ2IjoiMSJ9.KX6GC0GOfS8mjWBSeB78o5QGuMem8DHHYHJ0IGCB5JBkPksTh9veWQsCzIOqYumIJcTY9Pv2QDl1wyP0GBoQRWmo6mKGnrRJm5tMXBPEN_wqDEESwn_w0-IpRt50RSPqMmQtPaYvR0EHr8d0wwWB8q9ZBrMLjmeraBAstlRo3yG5GC1psGYpUMm1AI87j9VaD32MXqf9lDaLgADrGrdo3tja8H5jK-dZrkVIyuz2-PsSJ0ypU-T-ZgScvWu30LS19O1ggfbJomMdq9xo0H7a2d1qg9dAM_jziFUp6mMRUpo.vwnuzlTZdziOcfNpp2At8M9Zcz-pY3rToELxFnvz1ec&dib_tag=se&keywords=HENCKELS%2BSolution%2BRazor-Sharp%2B16-pc%2BKnife%2BSet%2C%2BIncludes%2BChef%2C%2BBread%2B%26%2BSteak%2BKnives%2C%2BGerman%2BEngineered%2BInformed%2Bby%2B100%2B%2BYears%2Bof%2BMastery&nsdOptOutParam=true&qid=1782267040&sprefix=henckels%2Bsolution%2Brazor-sharp%2B16-pc%2Bknife%2Bset%2C%2Bincludes%2Bchef%2C%2Bbread%2B%26%2Bsteak%2Bknives%2C%2Bgerman%2Bengineered%2Binformed%2Bby%2B100%2B%2Byears%2Bof%2Bmastery%2Caps%2C226&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666&th=1&linkCode=sl2&tag=noya0b-20&linkId=d403c21b593e34fcba7fba0bf052cc15&language=en_US"
           }
         ],
         "Beauty": [
@@ -309,18 +321,6 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71QiWGWZgFL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DTWGN51L/ref=cm_sw_r_as_gl_apa_gl_i_D5EJMMDYQ0PWQPWCVQCF?linkCode=ml1&tag=noya0b-20&linkId=335d1514a1f4d897b5b2d3ab7f4cf905"
-          }
-        ],
-        "Body Care": [
-          {
-            "asin": "B08VJLHSXD",
-            "slug": "henckels-solution-razor-sharp-16-pc-knife-set-includes-chef",
-            "title": "HENCKELS Solution Razor-Sharp 16-pc Knife Set, Includes Chef, Bread & Steak Knives, German Engineered Informed by 100+ Y",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71EawySF39L._SL1500_.jpg",
-            "url": "https://www.amazon.com/HENCKELS-Razor-Sharp-Self-Sharpening-Engineered-Masterful/dp/B08VJLHSXD?crid=65BY1CQLM2QR&dib=eyJ2IjoiMSJ9.KX6GC0GOfS8mjWBSeB78o5QGuMem8DHHYHJ0IGCB5JBkPksTh9veWQsCzIOqYumIJcTY9Pv2QDl1wyP0GBoQRWmo6mKGnrRJm5tMXBPEN_wqDEESwn_w0-IpRt50RSPqMmQtPaYvR0EHr8d0wwWB8q9ZBrMLjmeraBAstlRo3yG5GC1psGYpUMm1AI87j9VaD32MXqf9lDaLgADrGrdo3tja8H5jK-dZrkVIyuz2-PsSJ0ypU-T-ZgScvWu30LS19O1ggfbJomMdq9xo0H7a2d1qg9dAM_jziFUp6mMRUpo.vwnuzlTZdziOcfNpp2At8M9Zcz-pY3rToELxFnvz1ec&dib_tag=se&keywords=HENCKELS%2BSolution%2BRazor-Sharp%2B16-pc%2BKnife%2BSet%2C%2BIncludes%2BChef%2C%2BBread%2B%26%2BSteak%2BKnives%2C%2BGerman%2BEngineered%2BInformed%2Bby%2B100%2B%2BYears%2Bof%2BMastery&nsdOptOutParam=true&qid=1782267040&sprefix=henckels%2Bsolution%2Brazor-sharp%2B16-pc%2Bknife%2Bset%2C%2Bincludes%2Bchef%2C%2Bbread%2B%26%2Bsteak%2Bknives%2C%2Bgerman%2Bengineered%2Binformed%2Bby%2B100%2B%2Byears%2Bof%2Bmastery%2Caps%2C226&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666&th=1&linkCode=sl2&tag=noya0b-20&linkId=d403c21b593e34fcba7fba0bf052cc15&language=en_US"
           }
         ]
       },
@@ -352,7 +352,7 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
         },
         {
@@ -404,6 +404,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
           "url": "https://www.amazon.com/dp/B0857LKWKY?tag=noya0b-20"
+        },
+        {
+          "asin": "B00272GTH2",
+          "slug": "gillette-venus-comfortglide-white-tea-womens-disposable-razo",
+          "title": "Gillette Venus ComfortGlide White Tea Women's Disposable Razor, 2 Count",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/715IcD9r1kL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00272GTH2/ref=cm_sw_r_as_gl_apa_gl_i_ZETVRP7MMECZ8H852SQS?linkCode=ml1&tag=noya0b-20&linkId=55bde2f1f7eacb2a479a64c6872b999b"
         },
         {
           "asin": "B0DTWGN51L",
@@ -614,16 +624,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/51eIqfZI1GL.jpg",
           "url": "https://www.amazon.com/dp/B00J9H8O6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=edc590d06958a7aeadc42cee18480d0f&language=en_US"
-        },
-        {
-          "asin": "B0FVT77ZLL",
-          "slug": "anua-pdrn-collagen-glow-facial-serum-spray-hydrating-face-mi",
-          "title": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Ins",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
-          "url": "https://www.amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-24T04:30:04.652Z",
-      "updatedAt": "2026-06-24T04:30:04.652Z"
+      "generatedAt": "2026-06-24T04:40:04.139Z",
+      "updatedAt": "2026-06-24T04:40:04.139Z"
     },
     {
       "date": "2026-06-23",
@@ -8859,5 +8859,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-24T04:30:04.655Z"
+  "generatedAt": "2026-06-24T04:40:04.143Z"
 }
