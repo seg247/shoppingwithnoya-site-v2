@@ -9,8 +9,8 @@
         "Makeup",
         "Hair Care",
         "Skincare",
-        "Fragrance",
         "Body Care",
+        "Fragrance",
         "Beauty"
       ],
       "bySubcat": {
@@ -42,7 +42,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/615RAJr+rxL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00LNC3JD4?th=1&tag=noya0b-20"
           },
           {
@@ -72,7 +72,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/512ZLHGW9LL._SL1500_.jpg",
             "url": "https://www.amazon.com/tarte-shape-tape-concealer-stick/dp/B0FJRNHH9C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=037088fa69d95f888573c3fb0c714706&language=en_US"
           },
           {
@@ -196,16 +196,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/61oSL6dPopL.jpg",
             "url": "https://www.amazon.com/dp/B08R4VP8JC/ref=cm_sw_r_as_gl_apa_gl_i_5PV55MDB29VPBD27N0NT?linkCode=ml1&tag=noya0b-20&linkId=eeb82f817beda0105e4e2a6fb3f7a591"
-          },
-          {
-            "asin": "B0DXWK9X6P",
-            "slug": "kitsch-hair-perfume-for-women-amber-shores-clean-deodorizing",
-            "title": "Kitsch Hair Perfume for Women - Amber Shores | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Bo",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WHN2rxosL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DXWK9X6P?th=1&tag=noya0b-20"
           }
         ],
         "Skincare": [
@@ -248,31 +238,19 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/718Y1pvI4uL.jpg",
             "url": "https://www.amazon.com/dp/B0GYN3FZ72?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CS6TV191",
-            "slug": "sheamoisture-antiperspirant-deodorant-stick-moisturizing-raw",
-            "title": "SheaMoisture Antiperspirant Deodorant Stick Moisturizing Raw Shea Butter & Hyaluronic Acid 2 Count for 48HR Sweat & Odor",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/81cTeljgeIL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CS6TV191/ref=cm_sw_r_as_gl_apa_gl_i_dl_HH2E35JV51Q11N10DHQD?linkCode=ml1&tag=noya0b-20&linkId=3fc9565a8592af16ab8825b129979c28"
-          }
-        ],
-        "Fragrance": [
-          {
-            "asin": "B0DWC889LR",
-            "slug": "touchland-body-hair-fragrance-mist-2-fl-oz-vanilla-velvet",
-            "title": "Touchland Body & Hair Fragrance Mist, 2 FL OZ - Vanilla Velvet",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Upr-OBE0L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DWC889LR/ref=cm_sw_r_as_gl_api_gl_i_dl_TAZ8TDP7SEHZZ2GTP7Z5?linkCode=ml1&tag=noya0b-20&linkId=39db15555608eaa0ce1a180de4ee18a2"
           }
         ],
         "Body Care": [
+          {
+            "asin": "B0BGFBMPXM",
+            "slug": "salt-stone-aluminum-free-deodorant-extra-strength-48-hour-pr",
+            "title": "\udecd️Salt & Stone Aluminum Free Deodorant | Extra Strength 48 Hour Protection for Women & Men | Made with Seaweed Extracts,",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/517jwmjTy7L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BGFBMPXM?tag=noya0b-20"
+          },
           {
             "asin": "B0GPR3ZMBY",
             "slug": "dr-squatch-x-jukebox-natural-men-and-womens-bar-soap-and-alu",
@@ -302,6 +280,28 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/715IcD9r1kL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00272GTH2/ref=cm_sw_r_as_gl_apa_gl_i_ZETVRP7MMECZ8H852SQS?linkCode=ml1&tag=noya0b-20&linkId=55bde2f1f7eacb2a479a64c6872b999b"
+          }
+        ],
+        "Fragrance": [
+          {
+            "asin": "B09QF39VHG",
+            "slug": "lattafa-perfumes-qimmah-for-women-edp-eau-de-parfum-100ml-34",
+            "title": "\udecd️Lattafa Perfumes Qimmah for Women EDP (Eau De Parfum) - 100ML (3.4 oz) |Featuring notes: Cedar, Oudh, Myrrh, Amber, La",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61K478oVkJL._SL1024_.jpg",
+            "url": "https://www.amazon.com/dp/B09QF39VHG?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DWC889LR",
+            "slug": "touchland-body-hair-fragrance-mist-2-fl-oz-vanilla-velvet",
+            "title": "Touchland Body & Hair Fragrance Mist, 2 FL OZ - Vanilla Velvet",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Upr-OBE0L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DWC889LR/ref=cm_sw_r_as_gl_api_gl_i_dl_TAZ8TDP7SEHZZ2GTP7Z5?linkCode=ml1&tag=noya0b-20&linkId=39db15555608eaa0ce1a180de4ee18a2"
           }
         ],
         "Beauty": [
@@ -375,7 +375,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/615RAJr+rxL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00LNC3JD4?th=1&tag=noya0b-20"
         },
         {
@@ -407,6 +407,26 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
           "url": "https://www.amazon.com/dp/B0857LKWKY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0BGFBMPXM",
+          "slug": "salt-stone-aluminum-free-deodorant-extra-strength-48-hour-pr",
+          "title": "\udecd️Salt & Stone Aluminum Free Deodorant | Extra Strength 48 Hour Protection for Women & Men | Made with Seaweed Extracts,",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/517jwmjTy7L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0BGFBMPXM?tag=noya0b-20"
+        },
+        {
+          "asin": "B09QF39VHG",
+          "slug": "lattafa-perfumes-qimmah-for-women-edp-eau-de-parfum-100ml-34",
+          "title": "\udecd️Lattafa Perfumes Qimmah for Women EDP (Eau De Parfum) - 100ML (3.4 oz) |Featuring notes: Cedar, Oudh, Myrrh, Amber, La",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/61K478oVkJL._SL1024_.jpg",
+          "url": "https://www.amazon.com/dp/B09QF39VHG?tag=noya0b-20"
         },
         {
           "asin": "B0DWC889LR",
@@ -455,7 +475,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/512ZLHGW9LL._SL1500_.jpg",
           "url": "https://www.amazon.com/tarte-shape-tape-concealer-stick/dp/B0FJRNHH9C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=037088fa69d95f888573c3fb0c714706&language=en_US"
         },
         {
@@ -607,26 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61oSL6dPopL.jpg",
           "url": "https://www.amazon.com/dp/B08R4VP8JC/ref=cm_sw_r_as_gl_apa_gl_i_5PV55MDB29VPBD27N0NT?linkCode=ml1&tag=noya0b-20&linkId=eeb82f817beda0105e4e2a6fb3f7a591"
-        },
-        {
-          "asin": "B0CS6TV191",
-          "slug": "sheamoisture-antiperspirant-deodorant-stick-moisturizing-raw",
-          "title": "SheaMoisture Antiperspirant Deodorant Stick Moisturizing Raw Shea Butter & Hyaluronic Acid 2 Count for 48HR Sweat & Odor",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/81cTeljgeIL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CS6TV191/ref=cm_sw_r_as_gl_apa_gl_i_dl_HH2E35JV51Q11N10DHQD?linkCode=ml1&tag=noya0b-20&linkId=3fc9565a8592af16ab8825b129979c28"
-        },
-        {
-          "asin": "B0DXWK9X6P",
-          "slug": "kitsch-hair-perfume-for-women-amber-shores-clean-deodorizing",
-          "title": "Kitsch Hair Perfume for Women - Amber Shores | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Bo",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WHN2rxosL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DXWK9X6P?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-24T11:50:04.919Z",
-      "updatedAt": "2026-06-24T11:50:04.919Z"
+      "generatedAt": "2026-06-24T12:00:05.519Z",
+      "updatedAt": "2026-06-24T12:00:05.519Z"
     },
     {
       "date": "2026-06-23",
@@ -8862,5 +8862,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-24T11:50:04.922Z"
+  "generatedAt": "2026-06-24T12:00:05.522Z"
 }
