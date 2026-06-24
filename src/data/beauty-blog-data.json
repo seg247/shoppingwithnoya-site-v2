@@ -9,8 +9,8 @@
         "Makeup",
         "Hair Care",
         "Skincare",
-        "Beauty",
-        "Body Care"
+        "Body Care",
+        "Beauty"
       ],
       "bySubcat": {
         "Makeup": [
@@ -53,6 +53,16 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0FJRNHH9C",
+            "slug": "tarte-shape-tape-blur-concealer-stick",
+            "title": "tarte shape tape blur concealer stick",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/tarte-shape-tape-concealer-stick/dp/B0FJRNHH9C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=037088fa69d95f888573c3fb0c714706&language=en_US"
           },
           {
             "asin": "B0CJYFMTG3",
@@ -267,16 +277,28 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/41ktNHYvNgL.jpg",
             "url": "https://www.amazon.com/dp/B0D4Y6MNTF?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Body Care": [
           {
-            "asin": "B00HA2ZKFQ",
-            "slug": "sport-brella-versa-brella-spf-50-adjustable-umbrella-with-un",
-            "title": "Sport-Brella Versa-Brella SPF 50+ Adjustable Umbrella with Universal Clamp",
+            "asin": "B0FZLN5MLX",
+            "slug": "dove-clinical-care-antiperspirant-deodorant-stick-for-women",
+            "title": "Dove Clinical + Care Antiperspirant Deodorant Stick for Women | Palo Santo & Sage Scent, 72H Sweat & Odor Protection, FI",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/51dlQXHkTxL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00HA2ZKFQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FZLN5MLX/ref=cm_sw_r_as_gl_apa_gl_i_dl_43GZNGD6BCG3PW3THNDA?linkCode=ml1&tag=noya0b-20&linkId=e218747622e7e6c9d17b8abfb4371ffe"
+          },
+          {
+            "asin": "B00272GTH2",
+            "slug": "gillette-venus-comfortglide-white-tea-womens-disposable-razo",
+            "title": "Gillette Venus ComfortGlide White Tea Women's Disposable Razor, 2 Count",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/715IcD9r1kL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00272GTH2/ref=cm_sw_r_as_gl_apa_gl_i_ZETVRP7MMECZ8H852SQS?linkCode=ml1&tag=noya0b-20&linkId=55bde2f1f7eacb2a479a64c6872b999b"
           }
         ],
         "Beauty": [
@@ -299,28 +321,6 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71QiWGWZgFL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DTWGN51L/ref=cm_sw_r_as_gl_apa_gl_i_D5EJMMDYQ0PWQPWCVQCF?linkCode=ml1&tag=noya0b-20&linkId=335d1514a1f4d897b5b2d3ab7f4cf905"
-          }
-        ],
-        "Body Care": [
-          {
-            "asin": "B00272GTH2",
-            "slug": "gillette-venus-comfortglide-white-tea-womens-disposable-razo",
-            "title": "Gillette Venus ComfortGlide White Tea Women's Disposable Razor, 2 Count",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/715IcD9r1kL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00272GTH2/ref=cm_sw_r_as_gl_apa_gl_i_ZETVRP7MMECZ8H852SQS?linkCode=ml1&tag=noya0b-20&linkId=55bde2f1f7eacb2a479a64c6872b999b"
-          },
-          {
-            "asin": "B08VJLHSXD",
-            "slug": "henckels-solution-razor-sharp-16-pc-knife-set-includes-chef",
-            "title": "HENCKELS Solution Razor-Sharp 16-pc Knife Set, Includes Chef, Bread & Steak Knives, German Engineered Informed by 100+ Y",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/HENCKELS-Razor-Sharp-Self-Sharpening-Engineered-Masterful/dp/B08VJLHSXD?crid=65BY1CQLM2QR&dib=eyJ2IjoiMSJ9.KX6GC0GOfS8mjWBSeB78o5QGuMem8DHHYHJ0IGCB5JBkPksTh9veWQsCzIOqYumIJcTY9Pv2QDl1wyP0GBoQRWmo6mKGnrRJm5tMXBPEN_wqDEESwn_w0-IpRt50RSPqMmQtPaYvR0EHr8d0wwWB8q9ZBrMLjmeraBAstlRo3yG5GC1psGYpUMm1AI87j9VaD32MXqf9lDaLgADrGrdo3tja8H5jK-dZrkVIyuz2-PsSJ0ypU-T-ZgScvWu30LS19O1ggfbJomMdq9xo0H7a2d1qg9dAM_jziFUp6mMRUpo.vwnuzlTZdziOcfNpp2At8M9Zcz-pY3rToELxFnvz1ec&dib_tag=se&keywords=HENCKELS%2BSolution%2BRazor-Sharp%2B16-pc%2BKnife%2BSet%2C%2BIncludes%2BChef%2C%2BBread%2B%26%2BSteak%2BKnives%2C%2BGerman%2BEngineered%2BInformed%2Bby%2B100%2B%2BYears%2Bof%2BMastery&nsdOptOutParam=true&qid=1782267040&sprefix=henckels%2Bsolution%2Brazor-sharp%2B16-pc%2Bknife%2Bset%2C%2Bincludes%2Bchef%2C%2Bbread%2B%26%2Bsteak%2Bknives%2C%2Bgerman%2Bengineered%2Binformed%2Bby%2B100%2B%2Byears%2Bof%2Bmastery%2Caps%2C226&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666&th=1&linkCode=sl2&tag=noya0b-20&linkId=d403c21b593e34fcba7fba0bf052cc15&language=en_US"
           }
         ]
       },
@@ -404,6 +404,26 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
           "url": "https://www.amazon.com/dp/B0857LKWKY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FZLN5MLX",
+          "slug": "dove-clinical-care-antiperspirant-deodorant-stick-for-women",
+          "title": "Dove Clinical + Care Antiperspirant Deodorant Stick for Women | Palo Santo & Sage Scent, 72H Sweat & Odor Protection, FI",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FZLN5MLX/ref=cm_sw_r_as_gl_apa_gl_i_dl_43GZNGD6BCG3PW3THNDA?linkCode=ml1&tag=noya0b-20&linkId=e218747622e7e6c9d17b8abfb4371ffe"
+        },
+        {
+          "asin": "B0FJRNHH9C",
+          "slug": "tarte-shape-tape-blur-concealer-stick",
+          "title": "tarte shape tape blur concealer stick",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/tarte-shape-tape-concealer-stick/dp/B0FJRNHH9C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=037088fa69d95f888573c3fb0c714706&language=en_US"
         },
         {
           "asin": "B0CJYFMTG3",
@@ -604,26 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/41ktNHYvNgL.jpg",
           "url": "https://www.amazon.com/dp/B0D4Y6MNTF?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B08VJLHSXD",
-          "slug": "henckels-solution-razor-sharp-16-pc-knife-set-includes-chef",
-          "title": "HENCKELS Solution Razor-Sharp 16-pc Knife Set, Includes Chef, Bread & Steak Knives, German Engineered Informed by 100+ Y",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/HENCKELS-Razor-Sharp-Self-Sharpening-Engineered-Masterful/dp/B08VJLHSXD?crid=65BY1CQLM2QR&dib=eyJ2IjoiMSJ9.KX6GC0GOfS8mjWBSeB78o5QGuMem8DHHYHJ0IGCB5JBkPksTh9veWQsCzIOqYumIJcTY9Pv2QDl1wyP0GBoQRWmo6mKGnrRJm5tMXBPEN_wqDEESwn_w0-IpRt50RSPqMmQtPaYvR0EHr8d0wwWB8q9ZBrMLjmeraBAstlRo3yG5GC1psGYpUMm1AI87j9VaD32MXqf9lDaLgADrGrdo3tja8H5jK-dZrkVIyuz2-PsSJ0ypU-T-ZgScvWu30LS19O1ggfbJomMdq9xo0H7a2d1qg9dAM_jziFUp6mMRUpo.vwnuzlTZdziOcfNpp2At8M9Zcz-pY3rToELxFnvz1ec&dib_tag=se&keywords=HENCKELS%2BSolution%2BRazor-Sharp%2B16-pc%2BKnife%2BSet%2C%2BIncludes%2BChef%2C%2BBread%2B%26%2BSteak%2BKnives%2C%2BGerman%2BEngineered%2BInformed%2Bby%2B100%2B%2BYears%2Bof%2BMastery&nsdOptOutParam=true&qid=1782267040&sprefix=henckels%2Bsolution%2Brazor-sharp%2B16-pc%2Bknife%2Bset%2C%2Bincludes%2Bchef%2C%2Bbread%2B%26%2Bsteak%2Bknives%2C%2Bgerman%2Bengineered%2Binformed%2Bby%2B100%2B%2Byears%2Bof%2Bmastery%2Caps%2C226&ufe=app_do%3Aamzn1.fos.9fe8cbfa-bf43-43d1-a707-3f4e65a4b666&th=1&linkCode=sl2&tag=noya0b-20&linkId=d403c21b593e34fcba7fba0bf052cc15&language=en_US"
-        },
-        {
-          "asin": "B00HA2ZKFQ",
-          "slug": "sport-brella-versa-brella-spf-50-adjustable-umbrella-with-un",
-          "title": "Sport-Brella Versa-Brella SPF 50+ Adjustable Umbrella with Universal Clamp",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/51dlQXHkTxL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00HA2ZKFQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-24T08:00:03.283Z",
-      "updatedAt": "2026-06-24T08:00:03.283Z"
+      "generatedAt": "2026-06-24T08:10:03.130Z",
+      "updatedAt": "2026-06-24T08:10:03.131Z"
     },
     {
       "date": "2026-06-23",
@@ -8859,5 +8859,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-24T08:00:03.288Z"
+  "generatedAt": "2026-06-24T08:10:03.135Z"
 }
