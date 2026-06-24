@@ -9,6 +9,7 @@
         "Makeup",
         "Hair Care",
         "Skincare",
+        "Fragrance",
         "Body Care",
         "Beauty"
       ],
@@ -31,7 +32,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
           },
           {
@@ -111,7 +112,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/913jrtLennL._AC_SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D5RJF5LT/ref=cm_sw_r_as_gl_apa_gl_i_F3SVAH1R58CHWKJ2ESY6?linkCode=ml1&tag=noya0b-20&linkId=72e97f11e425bf3b6d0f4fb2e2feac00"
           }
         ],
@@ -257,16 +258,18 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81cTeljgeIL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CS6TV191/ref=cm_sw_r_as_gl_apa_gl_i_dl_HH2E35JV51Q11N10DHQD?linkCode=ml1&tag=noya0b-20&linkId=3fc9565a8592af16ab8825b129979c28"
-          },
+          }
+        ],
+        "Fragrance": [
           {
-            "asin": "B004D24818",
-            "slug": "neutrogena-rapid-wrinkle-repair-retinol-eye-cream-for-dark-c",
-            "title": "Neutrogena Rapid Wrinkle Repair Retinol Eye Cream for Dark Circles, Daily Anti-Aging Under Eye Cream with Retinol & Hyal",
+            "asin": "B0DWC889LR",
+            "slug": "touchland-body-hair-fragrance-mist-2-fl-oz-vanilla-velvet",
+            "title": "Touchland Body & Hair Fragrance Mist, 2 FL OZ - Vanilla Velvet",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RDYj4gf6L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B004D24818?th=1&tag=noya0b-20"
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Upr-OBE0L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DWC889LR/ref=cm_sw_r_as_gl_api_gl_i_dl_TAZ8TDP7SEHZZ2GTP7Z5?linkCode=ml1&tag=noya0b-20&linkId=39db15555608eaa0ce1a180de4ee18a2"
           }
         ],
         "Body Care": [
@@ -362,7 +365,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
         },
         {
@@ -404,6 +407,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
           "url": "https://www.amazon.com/dp/B0857LKWKY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DWC889LR",
+          "slug": "touchland-body-hair-fragrance-mist-2-fl-oz-vanilla-velvet",
+          "title": "Touchland Body & Hair Fragrance Mist, 2 FL OZ - Vanilla Velvet",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Upr-OBE0L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DWC889LR/ref=cm_sw_r_as_gl_api_gl_i_dl_TAZ8TDP7SEHZZ2GTP7Z5?linkCode=ml1&tag=noya0b-20&linkId=39db15555608eaa0ce1a180de4ee18a2"
         },
         {
           "asin": "B0FSDHT1N8",
@@ -532,7 +545,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/913jrtLennL._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D5RJF5LT/ref=cm_sw_r_as_gl_apa_gl_i_F3SVAH1R58CHWKJ2ESY6?linkCode=ml1&tag=noya0b-20&linkId=72e97f11e425bf3b6d0f4fb2e2feac00"
         },
         {
@@ -614,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71WHN2rxosL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DXWK9X6P?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B004D24818",
-          "slug": "neutrogena-rapid-wrinkle-repair-retinol-eye-cream-for-dark-c",
-          "title": "Neutrogena Rapid Wrinkle Repair Retinol Eye Cream for Dark Circles, Daily Anti-Aging Under Eye Cream with Retinol & Hyal",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RDYj4gf6L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B004D24818?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -662,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-24T11:30:03.862Z",
-      "updatedAt": "2026-06-24T11:30:03.862Z"
+      "generatedAt": "2026-06-24T11:40:04.950Z",
+      "updatedAt": "2026-06-24T11:40:04.950Z"
     },
     {
       "date": "2026-06-23",
@@ -8859,5 +8862,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-24T11:30:03.866Z"
+  "generatedAt": "2026-06-24T11:40:04.953Z"
 }
