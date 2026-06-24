@@ -9,6 +9,7 @@
         "Makeup",
         "Hair Care",
         "Skincare",
+        "Beauty",
         "Body Care"
       ],
       "bySubcat": {
@@ -72,16 +73,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/913jrtLennL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0D5RJF5LT/ref=cm_sw_r_as_gl_apa_gl_i_F3SVAH1R58CHWKJ2ESY6?linkCode=ml1&tag=noya0b-20&linkId=72e97f11e425bf3b6d0f4fb2e2feac00"
-          },
-          {
-            "asin": "B0FLC1YV32",
-            "slug": "bobbi-brown-pot-rouge-multi-use-cream-blush-and-lip-tint-dew",
-            "title": "Bobbi Brown Pot Rouge | Multi-Use Cream Blush and Lip Tint | Dewy, Natural-Looking Flush for Cheeks and Lips | Mirrored ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GhiM0Jl+L._SL1500_.jpg",
-            "url": "https://www.amazon.com/Bobbi-Brown-Flushed-Natural-Looking-Chocolate/dp/B0FLC1YV32?campaignId=amzn1.campaign.25NXKQ1BZXNG9&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=266de190ce47b940f7845e9bbd0ba950&language=en_US"
           }
         ],
         "Hair Care": [
@@ -102,7 +93,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -122,7 +113,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/81ei0m8rstL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0G34JL2ZS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -224,7 +215,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71RDYj4gf6L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B004D24818?th=1&tag=noya0b-20"
           },
           {
@@ -308,6 +299,18 @@
             "url": "https://www.amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0DTWGN51L",
+            "slug": "loungefly-disney-princess-stained-glass-collection-tiana-ear",
+            "title": "Loungefly Disney Princess Stained Glass Collection: Tiana Ears, Amazon Exclusive : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71QiWGWZgFL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DTWGN51L/ref=cm_sw_r_as_gl_apa_gl_i_D5EJMMDYQ0PWQPWCVQCF?linkCode=ml1&tag=noya0b-20&linkId=335d1514a1f4d897b5b2d3ab7f4cf905"
+          }
+        ],
         "Body Care": [
           {
             "asin": "B08VJLHSXD",
@@ -349,7 +352,7 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
         },
         {
@@ -403,6 +406,16 @@
           "url": "https://www.amazon.com/dp/B0857LKWKY?tag=noya0b-20"
         },
         {
+          "asin": "B0DTWGN51L",
+          "slug": "loungefly-disney-princess-stained-glass-collection-tiana-ear",
+          "title": "Loungefly Disney Princess Stained Glass Collection: Tiana Ears, Amazon Exclusive : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QiWGWZgFL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DTWGN51L/ref=cm_sw_r_as_gl_apa_gl_i_D5EJMMDYQ0PWQPWCVQCF?linkCode=ml1&tag=noya0b-20&linkId=335d1514a1f4d897b5b2d3ab7f4cf905"
+        },
+        {
           "asin": "B0D2HH3NRT",
           "slug": "gaiatop-mini-neck-fan-rechargeable-handheld-desk-use-led-pow",
           "title": "Gaiatop Mini Neck Fan, Rechargeable Handheld Desk Use, LED Power Display 3 Speed 360°Rotate Mirror for Lash Makeup, Cute",
@@ -439,7 +452,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/81ei0m8rstL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G34JL2ZS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -509,7 +522,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71RDYj4gf6L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B004D24818?th=1&tag=noya0b-20"
         },
         {
@@ -611,16 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
           "url": "https://www.amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FLC1YV32",
-          "slug": "bobbi-brown-pot-rouge-multi-use-cream-blush-and-lip-tint-dew",
-          "title": "Bobbi Brown Pot Rouge | Multi-Use Cream Blush and Lip Tint | Dewy, Natural-Looking Flush for Cheeks and Lips | Mirrored ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GhiM0Jl+L._SL1500_.jpg",
-          "url": "https://www.amazon.com/Bobbi-Brown-Flushed-Natural-Looking-Chocolate/dp/B0FLC1YV32?campaignId=amzn1.campaign.25NXKQ1BZXNG9&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=266de190ce47b940f7845e9bbd0ba950&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -659,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-24T04:20:04.050Z",
-      "updatedAt": "2026-06-24T04:20:04.050Z"
+      "generatedAt": "2026-06-24T04:30:04.652Z",
+      "updatedAt": "2026-06-24T04:30:04.652Z"
     },
     {
       "date": "2026-06-23",
@@ -8856,5 +8859,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-24T04:20:04.054Z"
+  "generatedAt": "2026-06-24T04:30:04.655Z"
 }
