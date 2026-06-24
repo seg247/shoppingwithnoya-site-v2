@@ -9,6 +9,7 @@
         "Other",
         "Electronics",
         "Grocery & Food",
+        "Toys & Kids",
         "Tools & Hardware",
         "Pet Supplies"
       ],
@@ -48,6 +49,19 @@
             "url": "https://www.amazon.com/dp/B0F2NZ8LKV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0DXGPHGGG",
+            "slug": "bratz-x-mean-girls-spring-fling-collector-doll-janis",
+            "title": "Bratz X Mean Girls Spring Fling Collector Doll - Janis",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/817hkepzpuL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DXGPHGGG?linkCode=sl2&tag=noya0b-20&linkId=1f99eb847cfe3abde06f46d953f0bdab&language=en_US"
+          }
+        ],
         "Tools & Hardware": [
           {
             "asin": "B0CDYT8LVV",
@@ -83,17 +97,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61-SGpdmgRL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F2GYMC8H/ref=cm_sw_r_as_gl_apa_gl_i_dl_BDJ3YSHEEM8BXEDRTAHY?linkCode=ml1&tag=noya0b-20&linkId=c4526f3365556b7d50866db8774966ed"
-          },
-          {
-            "asin": "B0BGQS8YV4",
-            "slug": "apple-iphone-13-128gb-pink-unlocked-renewed-premium",
-            "title": "Apple iPhone 13, 128GB, Pink - Unlocked (Renewed Premium)",
-            "price": "$324.42",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/516QZcrv+dL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B0BGQS8YV4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -145,6 +148,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
           "url": "https://www.amazon.com/dp/B0F1BMM2B7/ref=cm_sw_r_as_gl_api_gl_i_dl_WAC1K2XC2D5JBDP47C68?th=1&linkCode=sl2&tag=noya0b-20&linkId=3519765787c949f98b48ed4c38d2dc28&language=en_US"
+        },
+        {
+          "asin": "B0DXGPHGGG",
+          "slug": "bratz-x-mean-girls-spring-fling-collector-doll-janis",
+          "title": "Bratz X Mean Girls Spring Fling Collector Doll - Janis",
+          "price": "$27",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/817hkepzpuL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DXGPHGGG?linkCode=sl2&tag=noya0b-20&linkId=1f99eb847cfe3abde06f46d953f0bdab&language=en_US"
         },
         {
           "asin": "B0CDYT8LVV",
@@ -233,17 +247,6 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81UaJzjkUVL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B001QCKS4O/ref=cm_sw_r_as_gl_apa_gl_i_dl_6WZKZRNCRWM5XHVV61N3?linkCode=ml1&tag=noya0b-20&linkId=02b14a18c43a619632039dc51966b6c6"
-        },
-        {
-          "asin": "B0BGQS8YV4",
-          "slug": "apple-iphone-13-128gb-pink-unlocked-renewed-premium",
-          "title": "Apple iPhone 13, 128GB, Pink - Unlocked (Renewed Premium)",
-          "price": "$324.42",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/516QZcrv+dL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B0BGQS8YV4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-24T05:10:00.920Z",
-      "updatedAt": "2026-06-24T05:10:00.920Z"
+      "generatedAt": "2026-06-24T05:20:01.351Z",
+      "updatedAt": "2026-06-24T05:20:01.351Z"
     },
     {
       "date": "2026-06-23",
@@ -4295,5 +4298,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-24T05:10:00.921Z"
+  "generatedAt": "2026-06-24T05:20:01.353Z"
 }
