@@ -9,10 +9,9 @@
         "Makeup",
         "Hair Care",
         "Skincare",
-        "Nails",
         "Fragrance",
-        "Body Care",
-        "Beauty"
+        "Nails",
+        "Body Care"
       ],
       "bySubcat": {
         "Makeup": [
@@ -261,6 +260,28 @@
             "url": "https://www.amazon.com/dp/B0CGZ4FWZG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
+        "Fragrance": [
+          {
+            "asin": "B0D6ZPNZ4Z",
+            "slug": "sol-de-janeiro-cheirosa-76-hair-body-fragrance-mist-240ml81",
+            "title": "Sol de Janeiro Cheirosa 76 Hair & Body Fragrance Mist 240mL/8.1 fl oz. : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/71yWK9nzCTL.jpg",
+            "url": "https://www.amazon.com/SOL-JANEIRO-Cheirosa-Fragrance-240mL/dp/B0D6ZPNZ4Z?content-id=amzn1.sym.48563fb6-e641-4992-a4a1-b14d8f694ecd&pd_rd_i=B0D6ZPNZ4Z&th=1&linkCode=sl2&tag=noya0b-20&linkId=f6173eb3f953fc9483993f73ba132440&language=en_US"
+          },
+          {
+            "asin": "B07BX5PGKT",
+            "slug": "azzaro-wanted-by-night-eau-de-parfum-mens-cologne-woody-orie",
+            "title": "Azzaro Wanted By Night Eau de Parfum - Mens Cologne - Woody, Oriental & Spicy Fragrance",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07BX5PGKT?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Nails": [
           {
             "asin": "B0D2DWPV5W",
@@ -271,18 +292,6 @@
             "subcat": "Nails",
             "imageUrl": "https://m.media-amazon.com/images/I/71Dx7WPWVJL.jpg",
             "url": "https://www.amazon.com/dp/B0D2DWPV5W?th=1&linkCode=sl2&tag=noya0b-20&linkId=b0944f16f1c7e698b9d20059d04ab11d&language=en_US"
-          }
-        ],
-        "Fragrance": [
-          {
-            "asin": "B07BX5PGKT",
-            "slug": "azzaro-wanted-by-night-eau-de-parfum-mens-cologne-woody-orie",
-            "title": "Azzaro Wanted By Night Eau de Parfum - Mens Cologne - Woody, Oriental & Spicy Fragrance",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07BX5PGKT?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Body Care": [
@@ -315,18 +324,6 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/611SjWyNHJL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0013OJUY4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FY85BTGY",
-            "slug": "sol-de-janeiro-body-boldly-body-cream-discovery-set-trial-si",
-            "title": "\udecd️Sol de Janeiro Body Boldly Body Cream Discovery Set | Trial Size Beauty Minis | Gift Set | Set of 4 - 25mL | Amazon Ex",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71QywHHqXyL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FY85BTGY/ref=cm_sw_r_as_gl_apa_gl_i_dl_11M1KH9YQ8Z67CHV524V?tag=noya0b-20"
           }
         ]
       },
@@ -420,6 +417,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71ehMGWlb5L.jpg",
           "url": "https://www.amazon.com/dp/B0857LKWKY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D6ZPNZ4Z",
+          "slug": "sol-de-janeiro-cheirosa-76-hair-body-fragrance-mist-240ml81",
+          "title": "Sol de Janeiro Cheirosa 76 Hair & Body Fragrance Mist 240mL/8.1 fl oz. : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/71yWK9nzCTL.jpg",
+          "url": "https://www.amazon.com/SOL-JANEIRO-Cheirosa-Fragrance-240mL/dp/B0D6ZPNZ4Z?content-id=amzn1.sym.48563fb6-e641-4992-a4a1-b14d8f694ecd&pd_rd_i=B0D6ZPNZ4Z&th=1&linkCode=sl2&tag=noya0b-20&linkId=f6173eb3f953fc9483993f73ba132440&language=en_US"
         },
         {
           "asin": "B0D2DWPV5W",
@@ -620,16 +627,6 @@
           "subcat": "Body Care",
           "imageUrl": "https://m.media-amazon.com/images/I/611SjWyNHJL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0013OJUY4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FY85BTGY",
-          "slug": "sol-de-janeiro-body-boldly-body-cream-discovery-set-trial-si",
-          "title": "\udecd️Sol de Janeiro Body Boldly Body Cream Discovery Set | Trial Size Beauty Minis | Gift Set | Set of 4 - 25mL | Amazon Ex",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QywHHqXyL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FY85BTGY/ref=cm_sw_r_as_gl_apa_gl_i_dl_11M1KH9YQ8Z67CHV524V?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -668,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-24T21:40:04.797Z",
-      "updatedAt": "2026-06-24T21:40:04.798Z"
+      "generatedAt": "2026-06-24T21:50:02.062Z",
+      "updatedAt": "2026-06-24T21:50:02.062Z"
     },
     {
       "date": "2026-06-23",
@@ -8865,5 +8862,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-24T21:40:04.800Z"
+  "generatedAt": "2026-06-24T21:50:02.065Z"
 }
