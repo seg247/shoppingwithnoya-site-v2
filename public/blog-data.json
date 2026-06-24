@@ -9,9 +9,9 @@
         "Other",
         "Grocery & Food",
         "Home & Kitchen",
+        "Sports & Fitness",
         "Beauty",
-        "Toys & Kids",
-        "Fashion"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -47,6 +47,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81WACkkJNgL.jpg",
             "url": "https://www.amazon.com/dp/B0GCHPWZ46/ref=cm_sw_r_as_gl_api_gl_i_NJQA6QYDNZB0C1PDVTSK?linkCode=ml1&tag=noya0b-20&linkId=dc48e532de613749e75f5bf11a264bb5"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B0167GBTE6",
+            "slug": "hedstrom-paw-patrol-jr-soccer-ball-7-inch-53-63884az",
+            "title": "Hedstrom Paw Patrol Jr. Soccer Ball, 7 Inch (53-63884AZ)",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/81bD-CFxAFL.jpg",
+            "url": "https://www.amazon.com/dp/B0167GBTE6/ref=cm_sw_r_as_gl_api_gl_i_dl_VW2ZCZBDX1SDM6JYQNEH?linkCode=ml1&tag=noya0b-20&linkId=a60a10bb90dbd8f08608e87426c23d7e"
           }
         ],
         "Grocery & Food": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/611xzTBToJL.jpg",
             "url": "https://www.amazon.com/dp/B01K8JES14?th=1&linkCode=sl2&tag=noya0b-20&linkId=ef3899d5262cb034ca497f627226080d&language=en_US"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GCBVKVFV",
-            "slug": "sonix-x-sanrio-plush-magnetic-phone-wallet-cute-fuzzy-phone",
-            "title": "Sonix x Sanrio Plush Magnetic Phone Wallet | Cute Fuzzy Phone Card Holder Compatible with MagSafe Phones and Cases | Hel",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nIQ3oDyzL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GCBVKVFV/ref=cm_sw_r_as_gl_api_gl_i_VAB5PYPABGXQE8CJS0RZ?linkCode=ml1&tag=noya0b-20&linkId=071e6a0b58325d2da89b9dcefd0f1185"
-          }
         ]
       },
       "deals": [
@@ -159,6 +159,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71E-JONWwtL.jpg",
           "url": "https://www.amazon.com/Owala-Princess-Insulated-Stainless-BPA-Free/dp/B0F2WYZLZN/ref=sr_1_35?crid=230JE9KS8DNG7&dib=eyJ2IjoiMSJ9.EgfMelyFAclHtIyDIEwTa3fd92NxYLeE4IOvPlg7oJ4fz9lr0TWwH7_V-j4M9qtor5yI0nb1vMn1aSNxA8yIut0bD8JHe9HwtKObveZb2-09QXRNrIsAojwrBj9EeN9uX3i-_hxj44T53nHelr5W4ZlavQZgbBRwN-vb2zX9jWlQVhwPq7_wv2jVEXwbpf2czco4xJUClRtvIqVHElobrq9x8eipU6cxta5uMfI8TeUCc-9Wn_7Ne0pBMkVao-c-Bp-g0y3OJFOpj0yuznO3U3O6yFgzguC49Xy3PcXhe2I.H_diM3YRChfjplJOn199KAdI70gW3v0rg_mtlFzd4Jo&dib_tag=se&keywords=disney&psr=PDAY&qid=1782228379&s=prime-day&sprefix=disney%2Cprime-day%2C217&th=1&linkCode=sl2&tag=noya0b-20&linkId=bb3a1175c1850c9d49e6b5ddb38c7c75&language=en_US"
+        },
+        {
+          "asin": "B0167GBTE6",
+          "slug": "hedstrom-paw-patrol-jr-soccer-ball-7-inch-53-63884az",
+          "title": "Hedstrom Paw Patrol Jr. Soccer Ball, 7 Inch (53-63884AZ)",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/81bD-CFxAFL.jpg",
+          "url": "https://www.amazon.com/dp/B0167GBTE6/ref=cm_sw_r_as_gl_api_gl_i_dl_VW2ZCZBDX1SDM6JYQNEH?linkCode=ml1&tag=noya0b-20&linkId=a60a10bb90dbd8f08608e87426c23d7e"
         },
         {
           "asin": "B076BYR9JP",
@@ -236,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81WACkkJNgL.jpg",
           "url": "https://www.amazon.com/dp/B0GCHPWZ46/ref=cm_sw_r_as_gl_api_gl_i_NJQA6QYDNZB0C1PDVTSK?linkCode=ml1&tag=noya0b-20&linkId=dc48e532de613749e75f5bf11a264bb5"
-        },
-        {
-          "asin": "B0GCBVKVFV",
-          "slug": "sonix-x-sanrio-plush-magnetic-phone-wallet-cute-fuzzy-phone",
-          "title": "Sonix x Sanrio Plush Magnetic Phone Wallet | Cute Fuzzy Phone Card Holder Compatible with MagSafe Phones and Cases | Hel",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71nIQ3oDyzL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GCBVKVFV/ref=cm_sw_r_as_gl_api_gl_i_VAB5PYPABGXQE8CJS0RZ?linkCode=ml1&tag=noya0b-20&linkId=071e6a0b58325d2da89b9dcefd0f1185"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-24T11:20:00.753Z",
-      "updatedAt": "2026-06-24T11:20:00.753Z"
+      "generatedAt": "2026-06-24T11:30:00.648Z",
+      "updatedAt": "2026-06-24T11:30:00.648Z"
     },
     {
       "date": "2026-06-23",
@@ -4298,5 +4298,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-24T11:20:00.755Z"
+  "generatedAt": "2026-06-24T11:30:00.649Z"
 }
