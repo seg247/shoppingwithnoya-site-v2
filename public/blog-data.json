@@ -9,9 +9,37 @@
         "Other",
         "Beauty",
         "Electronics",
+        "Grocery & Food",
+        "Tools & Hardware",
         "Toys & Kids"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0GTZQFHTC",
+            "slug": "kind-zero-added-sugar-bars-variety-pack-dark-chocolate-nuts",
+            "title": "KIND Zero Added Sugar Bars Variety Pack, Dark Chocolate Nuts & Sea Salt, Caramel Almond Sea Salt, Raspberry Vanilla Cash",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71YRjKBpamL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GTZQFHTC/ref=cm_sw_r_as_gl_apa_gl_i_dl_G5FAZ9YBCSEQEZK7N134?linkCode=ml1&tag=noya0b-20&linkId=d854455e5084a5a9b8f5b7f263aefd16"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B096N3TZLX",
+            "slug": "dewalt-dust-separator-with-10-gallon-stainless-steel-tank-99",
+            "title": "DEWALT Dust Separator with 10 Gallon Stainless Steel Tank, 99.5% Efficiency Cyclone Dust Collector, High-Performance Cyc",
+            "price": "$114.74",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/61dP9uj4DCL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B096N3TZLX?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0GF9MJY9W",
@@ -34,17 +62,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/91W6OHUJJkL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GPR3ZMBY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a75464e24b3e8cd1fccfb654f997eaa&language=en_US"
-          },
-          {
-            "asin": "B0D14X7HR3",
-            "slug": "ogx-thick-full-biotin-collagen-volumizing-shampoo-nutrient-i",
-            "title": "OGX Thick & Full + Biotin & Collagen Volumizing Shampoo, Nutrient-Infused Hair Shampoo with Vitamin B7 Biotin Gives Hair",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D14X7HR3/ref=cm_sw_r_as_gl_apa_gl_i_5GWT3P29F5VC1N1MTBXW?linkCode=ml1&tag=noya0b-20&linkId=03d4733e900e8ba0a1f4593e24f5ce3a"
           }
         ],
         "Electronics": [
@@ -117,21 +134,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71QLgJ5R+IL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DGY312P1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B08KCLR5V7",
-            "slug": "amazoncom-iris-usa-3-gallon-lockable-storage-bins-with-lids",
-            "title": "Amazon.com - IRIS USA 3 Gallon Lockable Storage Bins with Lids, 5 Pack - Made in USA, Heavy Duty, Stackable Containers, ",
-            "price": "$39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PNCj76BeL.jpg",
-            "url": "https://www.amazon.com/dp/B08KCLR5V7/ref=cm_sw_r_as_gl_apa_gl_i_dl_ARJ1TGWMH2WVP4Q7Y0SA?linkCode=ml1&tag=noya0b-20&linkId=e362f1522f9e5aab44b6e7dd206529e4"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GTZQFHTC",
+          "slug": "kind-zero-added-sugar-bars-variety-pack-dark-chocolate-nuts",
+          "title": "KIND Zero Added Sugar Bars Variety Pack, Dark Chocolate Nuts & Sea Salt, Caramel Almond Sea Salt, Raspberry Vanilla Cash",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71YRjKBpamL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GTZQFHTC/ref=cm_sw_r_as_gl_apa_gl_i_dl_G5FAZ9YBCSEQEZK7N134?linkCode=ml1&tag=noya0b-20&linkId=d854455e5084a5a9b8f5b7f263aefd16"
+        },
+        {
+          "asin": "B096N3TZLX",
+          "slug": "dewalt-dust-separator-with-10-gallon-stainless-steel-tank-99",
+          "title": "DEWALT Dust Separator with 10 Gallon Stainless Steel Tank, 99.5% Efficiency Cyclone Dust Collector, High-Performance Cyc",
+          "price": "$114.74",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/61dP9uj4DCL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B096N3TZLX?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0GF9MJY9W",
           "slug": "dove-men-fig-cedarwood-moisturizing-body-wash-1-dermatologis",
@@ -219,34 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51EZig0rEAL.jpg",
           "url": "https://www.amazon.com/dp/B0C1QWWZR4/ref=cm_sw_r_as_gl_apa_gl_i_dl_W070T7VW6TQSDM873C8A?linkCode=ml1&tag=noya0b-20&linkId=8755a7de8b81c96779a621feb664d29a"
-        },
-        {
-          "asin": "B0D14X7HR3",
-          "slug": "ogx-thick-full-biotin-collagen-volumizing-shampoo-nutrient-i",
-          "title": "OGX Thick & Full + Biotin & Collagen Volumizing Shampoo, Nutrient-Infused Hair Shampoo with Vitamin B7 Biotin Gives Hair",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D14X7HR3/ref=cm_sw_r_as_gl_apa_gl_i_5GWT3P29F5VC1N1MTBXW?linkCode=ml1&tag=noya0b-20&linkId=03d4733e900e8ba0a1f4593e24f5ce3a"
-        },
-        {
-          "asin": "B08KCLR5V7",
-          "slug": "amazoncom-iris-usa-3-gallon-lockable-storage-bins-with-lids",
-          "title": "Amazon.com - IRIS USA 3 Gallon Lockable Storage Bins with Lids, 5 Pack - Made in USA, Heavy Duty, Stackable Containers, ",
-          "price": "$39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PNCj76BeL.jpg",
-          "url": "https://www.amazon.com/dp/B08KCLR5V7/ref=cm_sw_r_as_gl_apa_gl_i_dl_ARJ1TGWMH2WVP4Q7Y0SA?linkCode=ml1&tag=noya0b-20&linkId=e362f1522f9e5aab44b6e7dd206529e4"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 25, 2026?",
-          "a": "The best deals today include \"DOVE MEN Fig + Cedarwood Moisturizing Body Wash | #1 Dermato...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
+          "a": "The best deals today include \"KIND Zero Added Sugar Bars Variety Pack, Dark Chocolate Nuts...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T05:30:01.670Z",
-      "updatedAt": "2026-06-25T05:30:01.670Z"
+      "generatedAt": "2026-06-25T05:40:00.948Z",
+      "updatedAt": "2026-06-25T05:40:00.949Z"
     },
     {
       "date": "2026-06-24",
@@ -4563,5 +4569,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T05:30:01.672Z"
+  "generatedAt": "2026-06-25T05:40:00.950Z"
 }
