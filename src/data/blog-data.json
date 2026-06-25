@@ -9,9 +9,9 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
+        "Electronics",
         "Beauty",
-        "Garden & Outdoor",
-        "Toys & Kids"
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Other": [
@@ -27,6 +27,17 @@
             "url": "https://www.amazon.com/dp/B01M0A3BKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ff7bc6e3e31a5b4ba592bf18ce6b0af&language=en_US"
           },
           {
+            "asin": "B0CYWCMJ6Q",
+            "slug": "heated-eyelash-curler-wand-style-electric-eyelash-curler-rec",
+            "title": "Heated Eyelash Curler, Wand-Style Electric Eyelash Curler Rechargeable and Travel Friendly 4 Heat Settings & LED Display",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CYWCMJ6Q/ref=cm_sw_r_as_gl_api_gl_i_GB14V3DBBS6H06RVF6MG?linkCode=ml1&tag=noya0b-20&linkId=8fb09ca0809261ce9c3ec3c5e811c73e"
+          },
+          {
             "asin": "B0CF2TSN5T",
             "slug": "paper-mate-flair-nature-escape-scented-felt-tip-pens-medium",
             "title": "Paper Mate Flair Nature Escape Scented Felt Tip Pens, Medium Point (0.7mm), Assorted Colors, 16 Count - Perfect for Jour",
@@ -36,17 +47,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81d1bj2p62L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CF2TSN5T/ref=cm_sw_r_as_gl_api_gl_i_dl_7XG9N5B572ST4EDKSPTC?linkCode=ml1&tag=noya0b-20&linkId=315a93be1fcdc3c3effa4af0df1b4d50"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B073XPPXZ9",
-            "slug": "amazon-essentials-mens-regular-fit-long-sleeve-flannel-shirt",
-            "title": "Amazon Essentials Men's Regular-Fit Long-Sleeve Flannel Shirt (Available in Big & Tall)",
-            "price": "$5",
+            "asin": "B0DSWM5TMG",
+            "slug": "bright-starts-disney-baby-minnie-mouse-flip-sit-potty-traini",
+            "title": "Bright Starts Disney Baby Minnie Mouse Flip & Sit Potty Training Seat, Attaches to Toilet Securely, Space Saving Design ",
+            "price": "$10",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91Cwc3mo5-L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B073XPPXZ9/ref=cm_sw_r_as_gl_api_gl_i_dl_NCQ0WBNFY7EQXB571BHZ?linkCode=ml1&tag=noya0b-20&linkId=d14d5fdb48471f07281393ec4728e6d4"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61fw0qlvCNL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DSWM5TMG/ref=cm_sw_r_as_gl_api_gl_i_dl_JGQY3ZS19B54G9Q99D6H?linkCode=ml1&tag=noya0b-20&linkId=d750022c00b0a6f51b812d2b016a1062"
           }
         ],
         "Beauty": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61WblB+1McL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DP6DH8FG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0FMS75M6P",
-            "slug": "lego-creator-3-in-1-retro-gaming-console-building-toy-for-bo",
-            "title": "LEGO Creator 3 in 1 Retro Gaming Console Building Toy for Boys & Girls - Kids Build a Console, Mini Arcade Game, or Mini",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81e1GEkB4pL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FMS75M6P/ref=cm_sw_r_as_gl_api_gl_i_C1T8KZQZNZ3TTVH4VBTN?linkCode=ml1&tag=noya0b-20&linkId=955e368c2f8ee8798e0981d0b00c66da"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,28 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81UKNDaQDkL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01M0A3BKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ff7bc6e3e31a5b4ba592bf18ce6b0af&language=en_US"
+        },
+        {
+          "asin": "B0DSWM5TMG",
+          "slug": "bright-starts-disney-baby-minnie-mouse-flip-sit-potty-traini",
+          "title": "Bright Starts Disney Baby Minnie Mouse Flip & Sit Potty Training Seat, Attaches to Toilet Securely, Space Saving Design ",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61fw0qlvCNL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DSWM5TMG/ref=cm_sw_r_as_gl_api_gl_i_dl_JGQY3ZS19B54G9Q99D6H?linkCode=ml1&tag=noya0b-20&linkId=d750022c00b0a6f51b812d2b016a1062"
+        },
+        {
+          "asin": "B0CYWCMJ6Q",
+          "slug": "heated-eyelash-curler-wand-style-electric-eyelash-curler-rec",
+          "title": "Heated Eyelash Curler, Wand-Style Electric Eyelash Curler Rechargeable and Travel Friendly 4 Heat Settings & LED Display",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CYWCMJ6Q/ref=cm_sw_r_as_gl_api_gl_i_GB14V3DBBS6H06RVF6MG?linkCode=ml1&tag=noya0b-20&linkId=8fb09ca0809261ce9c3ec3c5e811c73e"
         },
         {
           "asin": "B0FSDHT1N8",
@@ -225,28 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61WblB+1McL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DP6DH8FG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B073XPPXZ9",
-          "slug": "amazon-essentials-mens-regular-fit-long-sleeve-flannel-shirt",
-          "title": "Amazon Essentials Men's Regular-Fit Long-Sleeve Flannel Shirt (Available in Big & Tall)",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/91Cwc3mo5-L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B073XPPXZ9/ref=cm_sw_r_as_gl_api_gl_i_dl_NCQ0WBNFY7EQXB571BHZ?linkCode=ml1&tag=noya0b-20&linkId=d14d5fdb48471f07281393ec4728e6d4"
-        },
-        {
-          "asin": "B0FMS75M6P",
-          "slug": "lego-creator-3-in-1-retro-gaming-console-building-toy-for-bo",
-          "title": "LEGO Creator 3 in 1 Retro Gaming Console Building Toy for Boys & Girls - Kids Build a Console, Mini Arcade Game, or Mini",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81e1GEkB4pL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FMS75M6P/ref=cm_sw_r_as_gl_api_gl_i_C1T8KZQZNZ3TTVH4VBTN?linkCode=ml1&tag=noya0b-20&linkId=955e368c2f8ee8798e0981d0b00c66da"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T10:50:01.268Z",
-      "updatedAt": "2026-06-25T10:50:01.268Z"
+      "generatedAt": "2026-06-25T11:00:01.519Z",
+      "updatedAt": "2026-06-25T11:00:01.519Z"
     },
     {
       "date": "2026-06-24",
@@ -4569,5 +4569,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T10:50:01.270Z"
+  "generatedAt": "2026-06-25T11:00:01.521Z"
 }
