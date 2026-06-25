@@ -42,7 +42,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
           },
           {
@@ -52,7 +52,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/615RAJr+rxL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00LNC3JD4?th=1&tag=noya0b-20"
           },
           {
@@ -134,7 +134,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/71pHNHIoEiL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DT4Y11LC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
@@ -146,7 +146,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -156,8 +156,18 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
+          },
+          {
+            "asin": "B01LKZ0Q20",
+            "slug": "krastase-densifique-densit-shampoo-thickening-strengthening",
+            "title": "\udecd️KÉRASTASE Densifique Densité Shampoo, Thickening & Strengthening Shampoo, Removes Build-Up & Adds Shine with Hyaluroni",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/41uiZMCbKGL._SL1214_.jpg",
+            "url": "https://www.amazon.com/dp/B01LKZ0Q20?th=1&linkCode=sl2&tag=noya0b-20&linkId=1336c16b85d0a7eb13a9e7524e5bfcfb&language=en_US"
           },
           {
             "asin": "B0DX47BJ6W",
@@ -188,16 +198,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/61Qg3d5lGFL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GRWVVGXS/ref=cm_sw_r_as_gl_apa_gl_i_dl_E35M9M20TN09PEKAZF7J?linkCode=ml1&tag=noya0b-20&linkId=51cda128890a364a05df78327caf2db9"
-          },
-          {
-            "asin": "B0D6X5XDFK",
-            "slug": "ogx-extra-strength-refreshing-scalp-rosemary-mint-shampoo-cl",
-            "title": "OGX Extra Strength Refreshing Scalp + Rosemary Mint Shampoo, Clarifying Shampoo for Oily Hair Visibly Helps Remove Oil &",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Xo+KeOq5L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D6X5XDFK/ref=cm_sw_r_as_gl_apa_gl_i_dl_GGVNA4RB148CKQBV9XCJ?linkCode=ml1&tag=noya0b-20&linkId=bc9c14f248b526b2928d778024064b82"
           }
         ],
         "Skincare": [
@@ -302,7 +302,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71II3iIzKEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CS6S5VLB/ref=cm_sw_r_as_gl_apa_gl_i_dl_6BFSD59FG31RB2A5EWE3?linkCode=ml1&tag=noya0b-20&linkId=ffbf44e1de7334d70da291ff5e4ac6da"
           },
           {
@@ -365,7 +365,7 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
         },
         {
@@ -375,7 +375,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
         },
         {
@@ -385,7 +385,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/615RAJr+rxL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00LNC3JD4?th=1&tag=noya0b-20"
         },
         {
@@ -455,7 +455,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
         },
         {
@@ -467,6 +467,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B01LKZ0Q20",
+          "slug": "krastase-densifique-densit-shampoo-thickening-strengthening",
+          "title": "\udecd️KÉRASTASE Densifique Densité Shampoo, Thickening & Strengthening Shampoo, Removes Build-Up & Adds Shine with Hyaluroni",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/41uiZMCbKGL._SL1214_.jpg",
+          "url": "https://www.amazon.com/dp/B01LKZ0Q20?th=1&linkCode=sl2&tag=noya0b-20&linkId=1336c16b85d0a7eb13a9e7524e5bfcfb&language=en_US"
         },
         {
           "asin": "B0FSDHT1N8",
@@ -505,7 +515,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71II3iIzKEL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CS6S5VLB/ref=cm_sw_r_as_gl_apa_gl_i_dl_6BFSD59FG31RB2A5EWE3?linkCode=ml1&tag=noya0b-20&linkId=ffbf44e1de7334d70da291ff5e4ac6da"
         },
         {
@@ -615,18 +625,8 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/71pHNHIoEiL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DT4Y11LC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D6X5XDFK",
-          "slug": "ogx-extra-strength-refreshing-scalp-rosemary-mint-shampoo-cl",
-          "title": "OGX Extra Strength Refreshing Scalp + Rosemary Mint Shampoo, Clarifying Shampoo for Oily Hair Visibly Helps Remove Oil &",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Xo+KeOq5L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D6X5XDFK/ref=cm_sw_r_as_gl_apa_gl_i_dl_GGVNA4RB148CKQBV9XCJ?linkCode=ml1&tag=noya0b-20&linkId=bc9c14f248b526b2928d778024064b82"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T12:00:03.358Z",
-      "updatedAt": "2026-06-25T12:00:03.358Z"
+      "generatedAt": "2026-06-25T12:10:04.532Z",
+      "updatedAt": "2026-06-25T12:10:04.533Z"
     },
     {
       "date": "2026-06-24",
@@ -9527,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T12:00:03.361Z"
+  "generatedAt": "2026-06-25T12:10:04.536Z"
 }
