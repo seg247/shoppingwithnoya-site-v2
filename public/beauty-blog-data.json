@@ -52,7 +52,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/615RAJr+rxL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00LNC3JD4?th=1&tag=noya0b-20"
           },
           {
@@ -136,16 +136,6 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/616zV5vCiXL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DQVN9Q7Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=fb71e2c41d312ebfcd577b390da42682&language=en_US"
-          },
-          {
-            "asin": "B0DVHB1ZLX",
-            "slug": "mugler-angel-stellar-eau-de-parfum-womens-perfume-ambery-gou",
-            "title": "Mugler - Angel Stellar - Eau de Parfum - Womens Perfume - Ambery Gourmand - With Pistachio, Vanilla & Woody Accord",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MC2CTFsBL._SL1500_.jpg",
-            "url": "https://www.amazon.com/Mugler-Stellar-Perfume-Gourmand-Pistachio/dp/B0DVHB1ZLX?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DVHB1ZLX&th=1&linkCode=sl2&tag=noya0b-20&linkId=e5deddb9abb226c6bc64c88037ff5e83&language=en_US"
           }
         ],
         "Hair Care": [
@@ -156,7 +146,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -242,6 +232,16 @@
             "url": "https://www.amazon.com/dp/B0GKFD9ZQW?tag=noya0b-20"
           },
           {
+            "asin": "B0D19P1Q9M",
+            "slug": "vital-proteins-collagen-peptides-advanced-hydrolyzed-peptide",
+            "title": "Vital Proteins Collagen Peptides Advanced, Hydrolyzed Peptides with Hyaluronic Acid and Vitamin C - Strawberry Lemon Fla",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Strawberry/dp/B0D19P1Q9M?content-id=amzn1.sym.3e8fb003-83cb-4849-94ea-87c607d68e42&pd_rd_i=B0D19P1Q9M&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b5e7117f2bc4fcf7676a34dafc99d31&language=en_US"
+          },
+          {
             "asin": "B08KT5HM98",
             "slug": "eos-shea-better-body-lotion-coconut-waters-24-hour-moisture",
             "title": "eos Shea Better Body Lotion Coconut Waters, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, C",
@@ -322,7 +322,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71II3iIzKEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CS6S5VLB/ref=cm_sw_r_as_gl_apa_gl_i_dl_6BFSD59FG31RB2A5EWE3?linkCode=ml1&tag=noya0b-20&linkId=ffbf44e1de7334d70da291ff5e4ac6da"
           }
         ]
@@ -365,7 +365,7 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
         },
         {
@@ -405,7 +405,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/615RAJr+rxL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00LNC3JD4?th=1&tag=noya0b-20"
         },
         {
@@ -487,6 +487,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0D19P1Q9M",
+          "slug": "vital-proteins-collagen-peptides-advanced-hydrolyzed-peptide",
+          "title": "Vital Proteins Collagen Peptides Advanced, Hydrolyzed Peptides with Hyaluronic Acid and Vitamin C - Strawberry Lemon Fla",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Strawberry/dp/B0D19P1Q9M?content-id=amzn1.sym.3e8fb003-83cb-4849-94ea-87c607d68e42&pd_rd_i=B0D19P1Q9M&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b5e7117f2bc4fcf7676a34dafc99d31&language=en_US"
         },
         {
           "asin": "B0DGYXFH5V",
@@ -605,7 +615,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71II3iIzKEL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CS6S5VLB/ref=cm_sw_r_as_gl_apa_gl_i_dl_6BFSD59FG31RB2A5EWE3?linkCode=ml1&tag=noya0b-20&linkId=ffbf44e1de7334d70da291ff5e4ac6da"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
           "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
-        },
-        {
-          "asin": "B0DVHB1ZLX",
-          "slug": "mugler-angel-stellar-eau-de-parfum-womens-perfume-ambery-gou",
-          "title": "Mugler - Angel Stellar - Eau de Parfum - Womens Perfume - Ambery Gourmand - With Pistachio, Vanilla & Woody Accord",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MC2CTFsBL._SL1500_.jpg",
-          "url": "https://www.amazon.com/Mugler-Stellar-Perfume-Gourmand-Pistachio/dp/B0DVHB1ZLX?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DVHB1ZLX&th=1&linkCode=sl2&tag=noya0b-20&linkId=e5deddb9abb226c6bc64c88037ff5e83&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T15:10:03.460Z",
-      "updatedAt": "2026-06-25T15:10:03.460Z"
+      "generatedAt": "2026-06-25T15:20:03.839Z",
+      "updatedAt": "2026-06-25T15:20:03.839Z"
     },
     {
       "date": "2026-06-24",
@@ -9527,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T15:10:03.464Z"
+  "generatedAt": "2026-06-25T15:20:03.842Z"
 }
