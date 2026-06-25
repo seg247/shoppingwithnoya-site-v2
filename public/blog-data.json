@@ -9,10 +9,9 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
-        "Toys & Kids",
         "Beauty",
-        "Tools & Hardware",
-        "Sports & Fitness"
+        "Garden & Outdoor",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -28,6 +27,17 @@
             "url": "https://www.amazon.com/dp/B01M0A3BKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ff7bc6e3e31a5b4ba592bf18ce6b0af&language=en_US"
           },
           {
+            "asin": "B0CF2TSN5T",
+            "slug": "paper-mate-flair-nature-escape-scented-felt-tip-pens-medium",
+            "title": "Paper Mate Flair Nature Escape Scented Felt Tip Pens, Medium Point (0.7mm), Assorted Colors, 16 Count - Perfect for Jour",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81d1bj2p62L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CF2TSN5T/ref=cm_sw_r_as_gl_api_gl_i_dl_7XG9N5B572ST4EDKSPTC?linkCode=ml1&tag=noya0b-20&linkId=315a93be1fcdc3c3effa4af0df1b4d50"
+          },
+          {
             "asin": "B073XPPXZ9",
             "slug": "amazon-essentials-mens-regular-fit-long-sleeve-flannel-shirt",
             "title": "Amazon Essentials Men's Regular-Fit Long-Sleeve Flannel Shirt (Available in Big & Tall)",
@@ -37,6 +47,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/91Cwc3mo5-L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B073XPPXZ9/ref=cm_sw_r_as_gl_api_gl_i_dl_NCQ0WBNFY7EQXB571BHZ?linkCode=ml1&tag=noya0b-20&linkId=d14d5fdb48471f07281393ec4728e6d4"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FSDHT1N8",
+            "slug": "invisible-daytime-pimple-patchultra-thin-02-mm-matte-hydroco",
+            "title": "Invisible Daytime Pimple Patch–Ultra-Thin 0.2 mm Matte Hydrocolloid Acne Patch for Face, Makeup-Friendly with Waterproof",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wBlsNg7XL.jpg",
+            "url": "https://www.amazon.com/dp/B0FSDHT1N8/ref=cm_sw_r_as_gl_api_gl_i_96GFQTXJ0VD08EMHQ40V?linkCode=ml1&tag=noya0b-20&linkId=f4b2e2ebb8f75e66ac9af831295414b3"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B079SQRL46",
+            "slug": "keter-urban-bloomer-127-gallon-raised-garden-bed-and-outdoor",
+            "title": "Keter Urban Bloomer 12.7 Gallon Raised Garden Bed and Outdoor Herb Garden Planter with Self Watering Gauge and Drainage ",
+            "price": "$60",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81-8g5LwcgL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B079SQRL46/ref=cm_sw_r_as_gl_api_gl_i_dl_75AMAAPCEDYMA0PV0F86?linkCode=ml1&tag=noya0b-20&linkId=97c39b035e44c6e74ed9a86534a7fb09"
           }
         ],
         "Fashion": [
@@ -99,45 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81e1GEkB4pL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FMS75M6P/ref=cm_sw_r_as_gl_api_gl_i_C1T8KZQZNZ3TTVH4VBTN?linkCode=ml1&tag=noya0b-20&linkId=955e368c2f8ee8798e0981d0b00c66da"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B07799WY99",
-            "slug": "differin-acne-face-wash-with-5-benzoyl-peroxide-daily-deep-c",
-            "title": "Differin Acne Face Wash with 5% Benzoyl Peroxide, Daily Deep Cleanser by the makers of Differin Gel, Gentle Skin Care fo",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71uSPR8DzYL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07799WY99/ref=cm_sw_r_as_gl_api_gl_i_013WNQXM2XKNMM3J88YX?linkCode=ml1&tag=noya0b-20&linkId=d839278abceac63d6c49b7ad94c6a9d2"
-          }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B07V4TFWFZ",
-            "slug": "amazon-basics-magnetic-ratcheting-wrench-and-electronics-pre",
-            "title": "Amazon Basics Magnetic Ratcheting Wrench and Electronics Precision Screwdriver Tool Set, 73-Piece, with Carry Case for H",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/811iiztBHvL._AC_SL1459_.jpg",
-            "url": "https://www.amazon.com/dp/B07V4TFWFZ/ref=cm_sw_r_as_gl_api_gl_i_dl_5CCMC4VC9V66D9XBKDHY?linkCode=ml1&tag=noya0b-20&linkId=1b14701cb231ebd4d7820b73f684011c"
-          }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B00290HMQE",
-            "slug": "charles-leonard-ball-bearing-compass-with-golf-pencil-metal",
-            "title": "Charles Leonard Ball Bearing Compass with Golf Pencil, Metal with Safety Point, Up to 12 Inch Diameter, Silver (80365)",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00290HMQE/ref=cm_sw_r_as_gl_api_gl_i_1PA4QX46FD60NCEYWZCA?linkCode=ml1&tag=noya0b-20&linkId=cccbe50180b8837ba08427daa89dfd76"
-          }
         ]
       },
       "deals": [
@@ -151,6 +148,39 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81UKNDaQDkL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01M0A3BKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ff7bc6e3e31a5b4ba592bf18ce6b0af&language=en_US"
+        },
+        {
+          "asin": "B0FSDHT1N8",
+          "slug": "invisible-daytime-pimple-patchultra-thin-02-mm-matte-hydroco",
+          "title": "Invisible Daytime Pimple Patch–Ultra-Thin 0.2 mm Matte Hydrocolloid Acne Patch for Face, Makeup-Friendly with Waterproof",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71wBlsNg7XL.jpg",
+          "url": "https://www.amazon.com/dp/B0FSDHT1N8/ref=cm_sw_r_as_gl_api_gl_i_96GFQTXJ0VD08EMHQ40V?linkCode=ml1&tag=noya0b-20&linkId=f4b2e2ebb8f75e66ac9af831295414b3"
+        },
+        {
+          "asin": "B0CF2TSN5T",
+          "slug": "paper-mate-flair-nature-escape-scented-felt-tip-pens-medium",
+          "title": "Paper Mate Flair Nature Escape Scented Felt Tip Pens, Medium Point (0.7mm), Assorted Colors, 16 Count - Perfect for Jour",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81d1bj2p62L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CF2TSN5T/ref=cm_sw_r_as_gl_api_gl_i_dl_7XG9N5B572ST4EDKSPTC?linkCode=ml1&tag=noya0b-20&linkId=315a93be1fcdc3c3effa4af0df1b4d50"
+        },
+        {
+          "asin": "B079SQRL46",
+          "slug": "keter-urban-bloomer-127-gallon-raised-garden-bed-and-outdoor",
+          "title": "Keter Urban Bloomer 12.7 Gallon Raised Garden Bed and Outdoor Herb Garden Planter with Self Watering Gauge and Drainage ",
+          "price": "$60",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81-8g5LwcgL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B079SQRL46/ref=cm_sw_r_as_gl_api_gl_i_dl_75AMAAPCEDYMA0PV0F86?linkCode=ml1&tag=noya0b-20&linkId=97c39b035e44c6e74ed9a86534a7fb09"
         },
         {
           "asin": "B0DQ86SG1H",
@@ -217,39 +247,6 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81e1GEkB4pL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FMS75M6P/ref=cm_sw_r_as_gl_api_gl_i_C1T8KZQZNZ3TTVH4VBTN?linkCode=ml1&tag=noya0b-20&linkId=955e368c2f8ee8798e0981d0b00c66da"
-        },
-        {
-          "asin": "B07799WY99",
-          "slug": "differin-acne-face-wash-with-5-benzoyl-peroxide-daily-deep-c",
-          "title": "Differin Acne Face Wash with 5% Benzoyl Peroxide, Daily Deep Cleanser by the makers of Differin Gel, Gentle Skin Care fo",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71uSPR8DzYL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07799WY99/ref=cm_sw_r_as_gl_api_gl_i_013WNQXM2XKNMM3J88YX?linkCode=ml1&tag=noya0b-20&linkId=d839278abceac63d6c49b7ad94c6a9d2"
-        },
-        {
-          "asin": "B07V4TFWFZ",
-          "slug": "amazon-basics-magnetic-ratcheting-wrench-and-electronics-pre",
-          "title": "Amazon Basics Magnetic Ratcheting Wrench and Electronics Precision Screwdriver Tool Set, 73-Piece, with Carry Case for H",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/811iiztBHvL._AC_SL1459_.jpg",
-          "url": "https://www.amazon.com/dp/B07V4TFWFZ/ref=cm_sw_r_as_gl_api_gl_i_dl_5CCMC4VC9V66D9XBKDHY?linkCode=ml1&tag=noya0b-20&linkId=1b14701cb231ebd4d7820b73f684011c"
-        },
-        {
-          "asin": "B00290HMQE",
-          "slug": "charles-leonard-ball-bearing-compass-with-golf-pencil-metal",
-          "title": "Charles Leonard Ball Bearing Compass with Golf Pencil, Metal with Safety Point, Up to 12 Inch Diameter, Silver (80365)",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00290HMQE/ref=cm_sw_r_as_gl_api_gl_i_1PA4QX46FD60NCEYWZCA?linkCode=ml1&tag=noya0b-20&linkId=cccbe50180b8837ba08427daa89dfd76"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T10:40:00.486Z",
-      "updatedAt": "2026-06-25T10:40:00.486Z"
+      "generatedAt": "2026-06-25T10:50:01.268Z",
+      "updatedAt": "2026-06-25T10:50:01.268Z"
     },
     {
       "date": "2026-06-24",
@@ -4572,5 +4569,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T10:40:00.488Z"
+  "generatedAt": "2026-06-25T10:50:01.270Z"
 }
