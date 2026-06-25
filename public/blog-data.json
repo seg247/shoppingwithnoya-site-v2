@@ -9,11 +9,33 @@
         "Other",
         "Electronics",
         "Fashion",
-        "Beauty",
-        "Grocery & Food"
+        "Toys & Kids",
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B0FMQSBPR7",
+            "slug": "vevor-32-cuft-mini-fridge-with-freezer-dual-zone-compact-ref",
+            "title": "VEVOR 3.2 Cu.Ft Mini Fridge with Freezer, Dual Zone Compact Refrigerator, 7-Mode Adjustable Temp, Energy Efficient Low N",
+            "price": "$180",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51tZug1tY3L.jpg",
+            "url": "https://www.amazon.com/dp/B0FMQSBPR7/ref=cm_sw_r_as_gl_apa_gl_i_dl_W5QYH0ESE8RQ7NB8K694?linkCode=ml1&tag=noya0b-20&linkId=898f939f80726ad3f613edc869f5b869"
+          },
+          {
+            "asin": "B0H6KNH9XL",
+            "slug": "grace-stella-under-eye-mask-72-pairs",
+            "title": "grace & stella Under Eye Mask 72 pairs",
+            "price": "$50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/711LfkW3NNL.jpg",
+            "url": "https://www.amazon.com/dp/B0H6KNH9XL?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=78394e2faa88dd01528918213d2bf470&language=en_US"
+          },
           {
             "asin": "B0D1G5DQ41",
             "slug": "dukes-real-mayonnaise-squeeze-bottle-original-smooth-creamy",
@@ -35,20 +57,33 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/KODAK-Printomatic-Full-Color-Colorful-Sticky-Back/dp/B07F92PGWM?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b3930f9a6791174ac35ebce058133895&language=en_US"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0CW3SH3BN",
-            "slug": "tree-hut-vanilla-moisturizing-shave-oil-hydrating-gel-to-oil",
-            "title": "Tree Hut Vanilla Moisturizing Shave Oil, Hydrating Gel-to-Oil Formula for a Close, Smooth Shave, Made with Shea Butter, ",
-            "price": "$8.29",
+            "asin": "B0DW4HX5LD",
+            "slug": "crocs-unisex-classic-clogs-little-kidbig-kid-turbo-teal-5-me",
+            "title": "Crocs, Unisex, Classic Clogs (Little Kid/Big Kid), Turbo Teal, 5, Medium | Clogs & Mules",
+            "price": "$17",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51j5FNmiDPL.jpg",
-            "url": "https://www.amazon.com/dp/B0CW3SH3BN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71qKCzfN99L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DW4HX5LD/ref=cm_sw_r_as_gl_apa_gl_i_dl_E01AHW55RCQWRV0JJQ77?linkCode=ml1&tag=noya0b-20&linkId=cc0ba947f536c7f3cad8a4a00a496e43"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0F9Z3H6YG",
+            "slug": "insignia-fire-tv-24-class-f20-series-led-hd-smart-tv-amazon",
+            "title": "INSIGNIA Fire TV 24\" Class F20 Series LED HD Smart TV | Amazon",
+            "price": "$49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/819WjmhFyqL.jpg",
+            "url": "https://www.amazon.com/dp/B0F9Z3H6YG/ref=cm_sw_r_as_gl_apa_gl_i_dl_D7JBKX2CJHKD2VRH99V2?linkCode=ml1&tag=noya0b-20&linkId=46b3ea3c71dd7007059c49892e293190"
+          },
           {
             "asin": "B0DLQ7WMGT",
             "slug": "baublebar-mickey-mouse-disney-charm-necklace-clothing-shoes",
@@ -70,17 +105,19 @@
             "category": "Electronics",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GQB5Q1TJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Toys & Kids": [
           {
-            "asin": "B0FNQJ29PM",
-            "slug": "garmin-instinct-2x-solar-rugged-gps-smartwatch-built-in-flas",
-            "title": "Garmin Instinct 2X Solar, Rugged GPS Smartwatch, Built-in Flashlight, Solar Charging Capability, Multi-Band GNSS, Graphi",
-            "price": "$219.99",
+            "asin": "B0CRWRY5RM",
+            "slug": "lego-star-wars-imperial-star-destroyer-building-toy-build-di",
+            "title": "LEGO Star Wars Imperial Star Destroyer Building Toy - Build & Display Set for Boys & Girls, Ages 10+ - Gift for Birthday",
+            "price": "$111.x",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71kudSa29OL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FNQJ29PM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81f7XO+OneL.jpg",
+            "url": "https://www.amazon.com/dp/B0CRWRY5RM/ref=cm_sw_r_as_gl_apa_gl_i_dl_0XBCM4C4S6A3QF2JHX0Q?linkCode=ml1&tag=noya0b-20&linkId=e2f85acafdd042a00f12d569c070563e"
           }
         ],
         "Beauty": [
@@ -95,46 +132,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
             "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0D22QMLD8",
-            "slug": "adidas-womens-vl-court-30-shoe",
-            "title": "adidas Women's VL Court 3.0 Shoe",
-            "price": "$49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61-s0kDpcCL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/adidas-Womens-Sneaker-Magenta-Metallic/dp/B0D22QMLD8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a47a4867d0ed6841afc593ff94f11c55&language=en_US"
-          },
-          {
-            "asin": "B0D22QMLD8",
-            "slug": "adidas-womens-vl-court-30-shoe",
-            "title": "adidas Women's VL Court 3.0 Shoe",
-            "price": "$49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61UqjBoA9SL.jpg",
-            "url": "https://www.amazon.com/adidas-Womens-Sneaker-Magenta-Metallic/dp/B0D22QMLD8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a47a4867d0ed6841afc593ff94f11c55&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FBQ3GBWH",
-            "slug": "olipop-prebiotic-soda-pop-spongebob-pineapple-paradise-12-ca",
-            "title": "OLIPOP Prebiotic Soda Pop, SpongeBob Pineapple Paradise 12 Cans",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71XfdP6Wk6L.jpg",
-            "url": "https://www.amazon.com/OLIPOP-Prebiotic-SpongeBob-Prebiotics-Botanicals/dp/B0FBQ3GBWH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=74931cf1e8c76748036639146a433693&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FMQSBPR7",
+          "slug": "vevor-32-cuft-mini-fridge-with-freezer-dual-zone-compact-ref",
+          "title": "VEVOR 3.2 Cu.Ft Mini Fridge with Freezer, Dual Zone Compact Refrigerator, 7-Mode Adjustable Temp, Energy Efficient Low N",
+          "price": "$180",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51tZug1tY3L.jpg",
+          "url": "https://www.amazon.com/dp/B0FMQSBPR7/ref=cm_sw_r_as_gl_apa_gl_i_dl_W5QYH0ESE8RQ7NB8K694?linkCode=ml1&tag=noya0b-20&linkId=898f939f80726ad3f613edc869f5b869"
+        },
+        {
+          "asin": "B0H6KNH9XL",
+          "slug": "grace-stella-under-eye-mask-72-pairs",
+          "title": "grace & stella Under Eye Mask 72 pairs",
+          "price": "$50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/711LfkW3NNL.jpg",
+          "url": "https://www.amazon.com/dp/B0H6KNH9XL?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=78394e2faa88dd01528918213d2bf470&language=en_US"
+        },
+        {
+          "asin": "B0DW4HX5LD",
+          "slug": "crocs-unisex-classic-clogs-little-kidbig-kid-turbo-teal-5-me",
+          "title": "Crocs, Unisex, Classic Clogs (Little Kid/Big Kid), Turbo Teal, 5, Medium | Clogs & Mules",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qKCzfN99L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DW4HX5LD/ref=cm_sw_r_as_gl_apa_gl_i_dl_E01AHW55RCQWRV0JJQ77?linkCode=ml1&tag=noya0b-20&linkId=cc0ba947f536c7f3cad8a4a00a496e43"
+        },
+        {
+          "asin": "B0F9Z3H6YG",
+          "slug": "insignia-fire-tv-24-class-f20-series-led-hd-smart-tv-amazon",
+          "title": "INSIGNIA Fire TV 24\" Class F20 Series LED HD Smart TV | Amazon",
+          "price": "$49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/819WjmhFyqL.jpg",
+          "url": "https://www.amazon.com/dp/B0F9Z3H6YG/ref=cm_sw_r_as_gl_apa_gl_i_dl_D7JBKX2CJHKD2VRH99V2?linkCode=ml1&tag=noya0b-20&linkId=46b3ea3c71dd7007059c49892e293190"
+        },
+        {
+          "asin": "B0CRWRY5RM",
+          "slug": "lego-star-wars-imperial-star-destroyer-building-toy-build-di",
+          "title": "LEGO Star Wars Imperial Star Destroyer Building Toy - Build & Display Set for Boys & Girls, Ages 10+ - Gift for Birthday",
+          "price": "$111.x",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81f7XO+OneL.jpg",
+          "url": "https://www.amazon.com/dp/B0CRWRY5RM/ref=cm_sw_r_as_gl_apa_gl_i_dl_0XBCM4C4S6A3QF2JHX0Q?linkCode=ml1&tag=noya0b-20&linkId=e2f85acafdd042a00f12d569c070563e"
+        },
         {
           "asin": "B0D1G5DQ41",
           "slug": "dukes-real-mayonnaise-squeeze-bottle-original-smooth-creamy",
@@ -189,67 +244,12 @@
           "category": "Electronics",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GQB5Q1TJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CW3SH3BN",
-          "slug": "tree-hut-vanilla-moisturizing-shave-oil-hydrating-gel-to-oil",
-          "title": "Tree Hut Vanilla Moisturizing Shave Oil, Hydrating Gel-to-Oil Formula for a Close, Smooth Shave, Made with Shea Butter, ",
-          "price": "$8.29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51j5FNmiDPL.jpg",
-          "url": "https://www.amazon.com/dp/B0CW3SH3BN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D22QMLD8",
-          "slug": "adidas-womens-vl-court-30-shoe",
-          "title": "adidas Women's VL Court 3.0 Shoe",
-          "price": "$49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61-s0kDpcCL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/adidas-Womens-Sneaker-Magenta-Metallic/dp/B0D22QMLD8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a47a4867d0ed6841afc593ff94f11c55&language=en_US"
-        },
-        {
-          "asin": "B0D22QMLD8",
-          "slug": "adidas-womens-vl-court-30-shoe",
-          "title": "adidas Women's VL Court 3.0 Shoe",
-          "price": "$49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61UqjBoA9SL.jpg",
-          "url": "https://www.amazon.com/adidas-Womens-Sneaker-Magenta-Metallic/dp/B0D22QMLD8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a47a4867d0ed6841afc593ff94f11c55&language=en_US"
-        },
-        {
-          "asin": "B0FNQJ29PM",
-          "slug": "garmin-instinct-2x-solar-rugged-gps-smartwatch-built-in-flas",
-          "title": "Garmin Instinct 2X Solar, Rugged GPS Smartwatch, Built-in Flashlight, Solar Charging Capability, Multi-Band GNSS, Graphi",
-          "price": "$219.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71kudSa29OL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FNQJ29PM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FBQ3GBWH",
-          "slug": "olipop-prebiotic-soda-pop-spongebob-pineapple-paradise-12-ca",
-          "title": "OLIPOP Prebiotic Soda Pop, SpongeBob Pineapple Paradise 12 Cans",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71XfdP6Wk6L.jpg",
-          "url": "https://www.amazon.com/OLIPOP-Prebiotic-SpongeBob-Prebiotics-Botanicals/dp/B0FBQ3GBWH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=74931cf1e8c76748036639146a433693&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 25, 2026?",
-          "a": "The best deals today include \"Duke’s Real Mayonnaise Squeeze Bottle - Original Smooth & Cr...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"VEVOR 3.2 Cu.Ft Mini Fridge with Freezer, Dual Zone Compact ...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T07:50:02.217Z",
-      "updatedAt": "2026-06-25T07:50:02.218Z"
+      "generatedAt": "2026-06-25T08:00:01.560Z",
+      "updatedAt": "2026-06-25T08:00:01.561Z"
     },
     {
       "date": "2026-06-24",
@@ -4566,5 +4566,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T07:50:02.220Z"
+  "generatedAt": "2026-06-25T08:00:01.562Z"
 }
