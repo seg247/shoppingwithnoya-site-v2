@@ -10,8 +10,8 @@
         "Fragrance",
         "Hair Care",
         "Skincare",
-        "Body Care",
-        "Beauty"
+        "Beauty",
+        "Body Care"
       ],
       "bySubcat": {
         "Makeup": [
@@ -146,16 +146,6 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/61nB3fCGyAL.jpg",
             "url": "https://www.amazon.com/dp/B0F9NKP788/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZGAJNCEXPCMQ0SQ5W26Z?linkCode=ml1&tag=noya0b-20&linkId=5fffbd42ad80293abd012c9e44b53b41"
-          },
-          {
-            "asin": "B0F4M7C3ZG",
-            "slug": "off-insect-repellent-aerosol-for-adults-kids-fragrance-free",
-            "title": "OFF! Insect Repellent Aerosol for Adults & Kids, Fragrance-Free Picaridin Bug Spray for Everyday DEET-Free Protection fr",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0F4M7C3ZG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Hair Care": [
@@ -292,6 +282,28 @@
             "url": "https://www.amazon.com/dp/B0CMCPW2N6?tag=noya0b-20"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0F56CF4QZ",
+            "slug": "sol-de-janeiro-limited-edition-cheirosa-71-shimmering-body-c",
+            "title": "Sol de Janeiro Limited Edition Cheirosa 71 Shimmering Body Cream | 8.1 fl oz/ 240ml | Vanilla Body Cream : Beauty & Pers",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
+            "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
+          },
+          {
+            "asin": "B083NHN73N",
+            "slug": "disney-store-official-chip-light-up-bubble-wand-beauty-and-t",
+            "title": "Disney Store Official Chip Light-Up Bubble Wand - Beauty and the Beast Bubble Maker Perfect for Kids & Fans, Authentic D",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41xC6v5B-rL.jpg",
+            "url": "https://www.amazon.com/dp/B083NHN73N/ref=cm_sw_r_as_gl_apa_gl_i_dl_WR6K5F5NBGQ3S6PM8SJW?linkCode=ml1&tag=noya0b-20&linkId=debfbf987ecd000a4a68f20f3f713bdc"
+          }
+        ],
         "Body Care": [
           {
             "asin": "B0GF9MJY9W",
@@ -312,18 +324,6 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/91W6OHUJJkL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GPR3ZMBY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a75464e24b3e8cd1fccfb654f997eaa&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B083NHN73N",
-            "slug": "disney-store-official-chip-light-up-bubble-wand-beauty-and-t",
-            "title": "Disney Store Official Chip Light-Up Bubble Wand - Beauty and the Beast Bubble Maker Perfect for Kids & Fans, Authentic D",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/41xC6v5B-rL.jpg",
-            "url": "https://www.amazon.com/dp/B083NHN73N/ref=cm_sw_r_as_gl_apa_gl_i_dl_WR6K5F5NBGQ3S6PM8SJW?linkCode=ml1&tag=noya0b-20&linkId=debfbf987ecd000a4a68f20f3f713bdc"
           }
         ]
       },
@@ -467,6 +467,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0F56CF4QZ",
+          "slug": "sol-de-janeiro-limited-edition-cheirosa-71-shimmering-body-c",
+          "title": "Sol de Janeiro Limited Edition Cheirosa 71 Shimmering Body Cream | 8.1 fl oz/ 240ml | Vanilla Body Cream : Beauty & Pers",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
+          "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
         },
         {
           "asin": "B0DVHB1ZLX",
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61BENx7PE9L.jpg",
           "url": "https://www.amazon.com/dp/B0CMCPW2N6?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F4M7C3ZG",
-          "slug": "off-insect-repellent-aerosol-for-adults-kids-fragrance-free",
-          "title": "OFF! Insect Repellent Aerosol for Adults & Kids, Fragrance-Free Picaridin Bug Spray for Everyday DEET-Free Protection fr",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0F4M7C3ZG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T07:40:04.127Z",
-      "updatedAt": "2026-06-25T07:40:04.127Z"
+      "generatedAt": "2026-06-25T07:50:04.571Z",
+      "updatedAt": "2026-06-25T07:50:04.571Z"
     },
     {
       "date": "2026-06-24",
@@ -9527,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T07:40:04.130Z"
+  "generatedAt": "2026-06-25T07:50:04.574Z"
 }
