@@ -9,6 +9,8 @@
         "Other",
         "Electronics",
         "Beauty",
+        "Fashion",
+        "Toys & Kids",
         "Sports & Fitness"
       ],
       "byCategory": {
@@ -36,15 +38,15 @@
             "url": "https://www.amazon.com/dp/B01M0A3BKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ff7bc6e3e31a5b4ba592bf18ce6b0af&language=en_US"
           },
           {
-            "asin": "B0F23WXV8T",
-            "slug": "nttopship-red-rose-comforter-set-full-size-black-cat-bedding",
-            "title": "Nttopship Red Rose Comforter Set Full Size Black Cat Bedding Set,3D Cat Comforter Set for Kids Girls Boys,Red Rose Patte",
-            "price": "$6",
+            "asin": "B074H6R3BL",
+            "slug": "365-by-whole-foods-market-organic-cloves-ground-187-oz",
+            "title": "365 by Whole Foods Market, Organic Cloves Ground, 1.87 oz",
+            "price": "$2.53",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/711mzsqILpL.jpg",
-            "url": "https://www.amazon.com/dp/B0F23WXV8T/ref=cm_sw_r_as_gl_api_gl_i_NFVQBPMX90CPGGQ4F6Q9?linkCode=ml1&tag=noya0b-20&linkId=89ac9e9e21f3c59e7d6f7367e380e252"
+            "imageUrl": "https://m.media-amazon.com/images/I/713TNThp-EL.jpg",
+            "url": "https://www.amazon.com/dp/B074H6R3BL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Electronics": [
@@ -69,17 +71,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/41erFjwoCpL.jpg",
             "url": "https://www.amazon.com/dp/B0FNWCYLZN?th=1&linkCode=sl2&tag=noya0b-20&linkId=ec91deb7dd9098b8c72f385c7d805d69&language=en_US"
-          },
-          {
-            "asin": "B0D4JB6QJD",
-            "slug": "netgear-orbi-770-series-tri-band-wifi-7-mesh-network-system",
-            "title": "NETGEAR Orbi 770 Series Tri-Band WiFi 7 Mesh Network System (RBE773) - Router + 2 Satellite Extenders, Security Features",
-            "price": "$1699.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51joaF2z+mL.jpg",
-            "url": "https://www.amazon.com/dp/B0D4JB6QJD?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Beauty": [
@@ -104,30 +95,45 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81lGNynyBOL.jpg",
             "url": "https://www.amazon.com/dp/B0CZMNGCSB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cc4a31de2f15e498a4cc027a76383520&language=en_US"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0DGYXFH5V",
-            "slug": "ogx-repair-protect-bond-protein-repair-shampoo-lightweight-h",
-            "title": "OGX Repair & Protect Bond Protein Repair Shampoo, Lightweight Hair Wash Cleanses & Targets Damaged Hair for Effective Bo",
-            "price": "$2",
+            "asin": "B0GLF49HNK",
+            "slug": "dream-pairs-womens-retro-lace-up-sneakers-all-day-comfort-li",
+            "title": "DREAM PAIRS Women's Retro Lace Up Sneakers, All-Day Comfort Lightweight Non Slip Casual Fashion Walking Trainers Shoes",
+            "price": "$26",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DGYXFH5V?th=1&linkCode=sl2&tag=noya0b-20&linkId=1c29b0f0c3b1de7ea220e7683f92ce91&language=en_US"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81CBXzuUnZL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/DREAM-PAIRS-Sneakers-Lightweight-SDFN26044W/dp/B0GLF49HNK?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=5602e8779c3cad037b0c96a7b4dff454&language=en_US"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B09WZMSGY7",
+            "slug": "joovy-caboose-rs-sit-stand-double-stroller-for-children-up-t",
+            "title": "Joovy Caboose RS Sit & Stand Double Stroller for Children Up to 55 lb. with All-Terrain Wheels, UPF50+ Sun Canopy & Magn",
+            "price": "$391",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/518h0yhWUTL.jpg",
+            "url": "https://www.amazon.com/dp/B09WZMSGY7?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b51805f89bed3a3b6eaa94618bed72d&language=en_US"
           }
         ],
         "Sports & Fitness": [
           {
-            "asin": "B07F3K9YYM",
-            "slug": "rawlings-renegade-adult-ball-glove-baseballslowpitch-softbal",
-            "title": "Rawlings | Renegade Adult Ball Glove | Baseball/Slowpitch Softball | Multiple Styles",
-            "price": "$28.40",
+            "asin": "B093R4F4KF",
+            "slug": "cap-barbell-coated-hex-dumbbell-weight-single-10-120-lbs-mul",
+            "title": "CAP Barbell Coated Hex Dumbbell Weight - Single | 10-120 lbs | Multiple Options",
+            "price": "$50.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/81CXmNiKqcL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07F3K9YYM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "imageUrl": "https://m.media-amazon.com/images/I/814xUYK0WiL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B093R4F4KF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
@@ -188,6 +194,50 @@
           "url": "https://www.amazon.com/dp/B0CZMNGCSB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cc4a31de2f15e498a4cc027a76383520&language=en_US"
         },
         {
+          "asin": "B0GLF49HNK",
+          "slug": "dream-pairs-womens-retro-lace-up-sneakers-all-day-comfort-li",
+          "title": "DREAM PAIRS Women's Retro Lace Up Sneakers, All-Day Comfort Lightweight Non Slip Casual Fashion Walking Trainers Shoes",
+          "price": "$26",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81CBXzuUnZL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/DREAM-PAIRS-Sneakers-Lightweight-SDFN26044W/dp/B0GLF49HNK?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=5602e8779c3cad037b0c96a7b4dff454&language=en_US"
+        },
+        {
+          "asin": "B074H6R3BL",
+          "slug": "365-by-whole-foods-market-organic-cloves-ground-187-oz",
+          "title": "365 by Whole Foods Market, Organic Cloves Ground, 1.87 oz",
+          "price": "$2.53",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/713TNThp-EL.jpg",
+          "url": "https://www.amazon.com/dp/B074H6R3BL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B09WZMSGY7",
+          "slug": "joovy-caboose-rs-sit-stand-double-stroller-for-children-up-t",
+          "title": "Joovy Caboose RS Sit & Stand Double Stroller for Children Up to 55 lb. with All-Terrain Wheels, UPF50+ Sun Canopy & Magn",
+          "price": "$391",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/518h0yhWUTL.jpg",
+          "url": "https://www.amazon.com/dp/B09WZMSGY7?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b51805f89bed3a3b6eaa94618bed72d&language=en_US"
+        },
+        {
+          "asin": "B093R4F4KF",
+          "slug": "cap-barbell-coated-hex-dumbbell-weight-single-10-120-lbs-mul",
+          "title": "CAP Barbell Coated Hex Dumbbell Weight - Single | 10-120 lbs | Multiple Options",
+          "price": "$50.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/814xUYK0WiL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B093R4F4KF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
           "asin": "B0FNWCYLZN",
           "slug": "soundcore-p31i-by-anker-real-time-adaptive-noise-cancelling",
           "title": "Soundcore P31i by Anker, Real-Time Adaptive Noise Cancelling, Hi-Res Sound, Translation Earbuds, 50H Playtime, Wireless ",
@@ -197,50 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/41erFjwoCpL.jpg",
           "url": "https://www.amazon.com/dp/B0FNWCYLZN?th=1&linkCode=sl2&tag=noya0b-20&linkId=ec91deb7dd9098b8c72f385c7d805d69&language=en_US"
-        },
-        {
-          "asin": "B0F23WXV8T",
-          "slug": "nttopship-red-rose-comforter-set-full-size-black-cat-bedding",
-          "title": "Nttopship Red Rose Comforter Set Full Size Black Cat Bedding Set,3D Cat Comforter Set for Kids Girls Boys,Red Rose Patte",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/711mzsqILpL.jpg",
-          "url": "https://www.amazon.com/dp/B0F23WXV8T/ref=cm_sw_r_as_gl_api_gl_i_NFVQBPMX90CPGGQ4F6Q9?linkCode=ml1&tag=noya0b-20&linkId=89ac9e9e21f3c59e7d6f7367e380e252"
-        },
-        {
-          "asin": "B0DGYXFH5V",
-          "slug": "ogx-repair-protect-bond-protein-repair-shampoo-lightweight-h",
-          "title": "OGX Repair & Protect Bond Protein Repair Shampoo, Lightweight Hair Wash Cleanses & Targets Damaged Hair for Effective Bo",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DGYXFH5V?th=1&linkCode=sl2&tag=noya0b-20&linkId=1c29b0f0c3b1de7ea220e7683f92ce91&language=en_US"
-        },
-        {
-          "asin": "B07F3K9YYM",
-          "slug": "rawlings-renegade-adult-ball-glove-baseballslowpitch-softbal",
-          "title": "Rawlings | Renegade Adult Ball Glove | Baseball/Slowpitch Softball | Multiple Styles",
-          "price": "$28.40",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/81CXmNiKqcL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07F3K9YYM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D4JB6QJD",
-          "slug": "netgear-orbi-770-series-tri-band-wifi-7-mesh-network-system",
-          "title": "NETGEAR Orbi 770 Series Tri-Band WiFi 7 Mesh Network System (RBE773) - Router + 2 Satellite Extenders, Security Features",
-          "price": "$1699.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51joaF2z+mL.jpg",
-          "url": "https://www.amazon.com/dp/B0D4JB6QJD?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T14:40:01.827Z",
-      "updatedAt": "2026-06-25T14:40:01.828Z"
+      "generatedAt": "2026-06-25T14:50:02.150Z",
+      "updatedAt": "2026-06-25T14:50:02.150Z"
     },
     {
       "date": "2026-06-24",
@@ -4563,5 +4569,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T14:40:01.829Z"
+  "generatedAt": "2026-06-25T14:50:02.152Z"
 }
