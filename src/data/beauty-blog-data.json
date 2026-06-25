@@ -10,6 +10,7 @@
         "Fragrance",
         "Hair Care",
         "Skincare",
+        "Body Care",
         "Beauty"
       ],
       "bySubcat": {
@@ -71,7 +72,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
           },
           {
@@ -153,7 +154,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Fragrance",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/710yjwCw9OL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F4M7C3ZG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
@@ -175,7 +176,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
           },
           {
@@ -289,16 +290,18 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81RO6Bm2Q4L.jpg",
             "url": "https://www.amazon.com/Beef-Tallow-Skin-Moisturizer-Herbal-Rose/dp/B0DNC9QZPH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=e77989a6ab37811006245dfbdc3de203&language=en_US"
-          },
+          }
+        ],
+        "Body Care": [
           {
-            "asin": "B0FWRPXW8R",
-            "slug": "naked-sundays-cabanaglow-tinted-mineral-sunscreen-spf-50-she",
-            "title": "Naked Sundays CabanaGlow Tinted Mineral Sunscreen SPF 50 – Sheer Serum Drops for Face – Non-Nano Zinc Oxide, Hyaluronic ",
+            "asin": "B0GPR3ZMBY",
+            "slug": "dr-squatch-x-jukebox-natural-men-and-womens-bar-soap-and-alu",
+            "title": "Dr. Squatch x Jukebox Natural Men and Women's Bar Soap and Aluminum-Free Deodorant – Limited Edition Disney and Pixar’s ",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/419Lgcl34iL.jpg",
-            "url": "https://www.amazon.com/dp/B0FWRPXW8R?th=1&psc=1&tag=noya0b-20"
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/91W6OHUJJkL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GPR3ZMBY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a75464e24b3e8cd1fccfb654f997eaa&language=en_US"
           }
         ],
         "Beauty": [
@@ -432,7 +435,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
         },
         {
@@ -452,7 +455,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
         },
         {
@@ -464,6 +467,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GPR3ZMBY",
+          "slug": "dr-squatch-x-jukebox-natural-men-and-womens-bar-soap-and-alu",
+          "title": "Dr. Squatch x Jukebox Natural Men and Women's Bar Soap and Aluminum-Free Deodorant – Limited Edition Disney and Pixar’s ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/91W6OHUJJkL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GPR3ZMBY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a75464e24b3e8cd1fccfb654f997eaa&language=en_US"
         },
         {
           "asin": "B0D14X7HR3",
@@ -542,7 +555,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Fragrance",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/710yjwCw9OL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F4M7C3ZG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -614,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61I+uZ8cxpL.jpg",
           "url": "https://www.amazon.com/dp/B0D2S5X55G?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FWRPXW8R",
-          "slug": "naked-sundays-cabanaglow-tinted-mineral-sunscreen-spf-50-she",
-          "title": "Naked Sundays CabanaGlow Tinted Mineral Sunscreen SPF 50 – Sheer Serum Drops for Face – Non-Nano Zinc Oxide, Hyaluronic ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/419Lgcl34iL.jpg",
-          "url": "https://www.amazon.com/dp/B0FWRPXW8R?th=1&psc=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -662,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T05:00:03.805Z",
-      "updatedAt": "2026-06-25T05:00:03.806Z"
+      "generatedAt": "2026-06-25T05:10:03.364Z",
+      "updatedAt": "2026-06-25T05:10:03.364Z"
     },
     {
       "date": "2026-06-24",
@@ -9524,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T05:00:03.808Z"
+  "generatedAt": "2026-06-25T05:10:03.368Z"
 }
