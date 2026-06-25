@@ -9,8 +9,8 @@
         "Makeup",
         "Fragrance",
         "Hair Care",
-        "Skincare",
         "Beauty",
+        "Skincare",
         "Body Care"
       ],
       "bySubcat": {
@@ -42,7 +42,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
           },
           {
@@ -72,7 +72,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
           },
           {
@@ -126,16 +126,6 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/71MC2CTFsBL._SL1500_.jpg",
             "url": "https://www.amazon.com/Mugler-Stellar-Perfume-Gourmand-Pistachio/dp/B0DVHB1ZLX?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DVHB1ZLX&th=1&linkCode=sl2&tag=noya0b-20&linkId=e5deddb9abb226c6bc64c88037ff5e83&language=en_US"
-          },
-          {
-            "asin": "B0DT4Y11LC",
-            "slug": "azzaro-forever-wanted-elixir-mens-cologne-with-notes-of-rasp",
-            "title": "Azzaro - Forever Wanted Elixir - Mens Cologne - With Notes of Raspberry, Cardamom, and Leather Accord",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DT4Y11LC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Hair Care": [
@@ -146,7 +136,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71jq4HVR1dL.jpg",
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -200,6 +190,38 @@
             "url": "https://www.amazon.com/dp/B0GRWVVGXS/ref=cm_sw_r_as_gl_apa_gl_i_dl_E35M9M20TN09PEKAZF7J?linkCode=ml1&tag=noya0b-20&linkId=51cda128890a364a05df78327caf2db9"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0CZMNGCSB",
+            "slug": "sol-de-janeiro-bom-dia-bright-jet-set-beauty-personal-care",
+            "title": "Sol de Janeiro Bom Dia Bright Jet Set : Beauty & Personal Care",
+            "discount": 40,
+            "rating": "HOT",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81lGNynyBOL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZMNGCSB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cc4a31de2f15e498a4cc027a76383520&language=en_US"
+          },
+          {
+            "asin": "B0DHGP8TZ2",
+            "slug": "medicube-booster-pro-6-in-1-real-glass-glow-beauty-massager",
+            "title": "medicube Booster Pro | 6-in-1 Real Glass Glow Beauty Massager",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61kpEoE3+bL.jpg",
+            "url": "https://www.amazon.com/Medicube-Booster-Beauty-Massager-Looking/dp/B0DHGP8TZ2?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DHGP8TZ2&th=1&linkCode=sl2&tag=noya0b-20&linkId=8b3e0ad8e20a739838b31fbf440b34dc&language=en_US"
+          },
+          {
+            "asin": "B0F56CF4QZ",
+            "slug": "sol-de-janeiro-limited-edition-cheirosa-71-shimmering-body-c",
+            "title": "Sol de Janeiro Limited Edition Cheirosa 71 Shimmering Body Cream | 8.1 fl oz/ 240ml | Vanilla Body Cream : Beauty & Pers",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
+            "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
+          }
+        ],
         "Skincare": [
           {
             "asin": "B0DGPSZVW3",
@@ -242,6 +264,16 @@
             "url": "https://www.amazon.com/dp/B0GKFD9ZQW?tag=noya0b-20"
           },
           {
+            "asin": "B0F79H5QH3",
+            "slug": "loreal-paris-revitalift-triple-power-face-serum-with-tri-pep",
+            "title": "\udecd️L'Oreal Paris Revitalift Triple Power Face Serum with Tri-Peptides, Hyaluronic Acid and Vitamin C, Anti Aging, Anti Wr",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71XZs7WuEXL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F79H5QH3?linkCode=sl2&tag=noya0b-20&linkId=229aa43a75fe4a037b936d77a74c78a1&language=en_US"
+          },
+          {
             "asin": "B07799WY99",
             "slug": "differin-acne-face-wash-with-5-benzoyl-peroxide-daily-deep-c",
             "title": "Differin Acne Face Wash with 5% Benzoyl Peroxide, Daily Deep Cleanser by the makers of Differin Gel, Gentle Skin Care fo",
@@ -260,38 +292,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/71rzat3EcML.jpg",
             "url": "https://www.amazon.com/dp/B0FNRZ5LVB/ref=cm_sw_r_as_gl_apa_gl_i_46JJBCJPPJHJ60WMXQCC?linkCode=ml1&tag=noya0b-20&linkId=eb85f4cf62696a5858ebf68af2743f55"
-          },
-          {
-            "asin": "B0D14X7HR3",
-            "slug": "ogx-thick-full-biotin-collagen-volumizing-shampoo-nutrient-i",
-            "title": "OGX Thick & Full + Biotin & Collagen Volumizing Shampoo, Nutrient-Infused Hair Shampoo with Vitamin B7 Biotin Gives Hair",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D14X7HR3/ref=cm_sw_r_as_gl_apa_gl_i_5GWT3P29F5VC1N1MTBXW?linkCode=ml1&tag=noya0b-20&linkId=03d4733e900e8ba0a1f4593e24f5ce3a"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DHGP8TZ2",
-            "slug": "medicube-booster-pro-6-in-1-real-glass-glow-beauty-massager",
-            "title": "medicube Booster Pro | 6-in-1 Real Glass Glow Beauty Massager",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61kpEoE3+bL.jpg",
-            "url": "https://www.amazon.com/Medicube-Booster-Beauty-Massager-Looking/dp/B0DHGP8TZ2?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DHGP8TZ2&th=1&linkCode=sl2&tag=noya0b-20&linkId=8b3e0ad8e20a739838b31fbf440b34dc&language=en_US"
-          },
-          {
-            "asin": "B0F56CF4QZ",
-            "slug": "sol-de-janeiro-limited-edition-cheirosa-71-shimmering-body-c",
-            "title": "Sol de Janeiro Limited Edition Cheirosa 71 Shimmering Body Cream | 8.1 fl oz/ 240ml | Vanilla Body Cream : Beauty & Pers",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
-            "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
           }
         ],
         "Body Care": [
@@ -302,7 +302,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71II3iIzKEL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CS6S5VLB/ref=cm_sw_r_as_gl_apa_gl_i_dl_6BFSD59FG31RB2A5EWE3?linkCode=ml1&tag=noya0b-20&linkId=ffbf44e1de7334d70da291ff5e4ac6da"
           },
           {
@@ -365,8 +365,18 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71jq4HVR1dL.jpg",
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0CZMNGCSB",
+          "slug": "sol-de-janeiro-bom-dia-bright-jet-set-beauty-personal-care",
+          "title": "Sol de Janeiro Bom Dia Bright Jet Set : Beauty & Personal Care",
+          "discount": 40,
+          "rating": "HOT",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81lGNynyBOL.jpg",
+          "url": "https://www.amazon.com/dp/B0CZMNGCSB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cc4a31de2f15e498a4cc027a76383520&language=en_US"
         },
         {
           "asin": "B00S5VHGQ2",
@@ -375,7 +385,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
         },
         {
@@ -435,7 +445,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
         },
         {
@@ -467,6 +477,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0F79H5QH3",
+          "slug": "loreal-paris-revitalift-triple-power-face-serum-with-tri-pep",
+          "title": "\udecd️L'Oreal Paris Revitalift Triple Power Face Serum with Tri-Peptides, Hyaluronic Acid and Vitamin C, Anti Aging, Anti Wr",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71XZs7WuEXL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F79H5QH3?linkCode=sl2&tag=noya0b-20&linkId=229aa43a75fe4a037b936d77a74c78a1&language=en_US"
         },
         {
           "asin": "B01LKZ0Q20",
@@ -515,7 +535,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71II3iIzKEL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CS6S5VLB/ref=cm_sw_r_as_gl_apa_gl_i_dl_6BFSD59FG31RB2A5EWE3?linkCode=ml1&tag=noya0b-20&linkId=ffbf44e1de7334d70da291ff5e4ac6da"
         },
         {
@@ -607,26 +627,6 @@
           "subcat": "Body Care",
           "imageUrl": "https://m.media-amazon.com/images/I/91W6OHUJJkL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GPR3ZMBY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2a75464e24b3e8cd1fccfb654f997eaa&language=en_US"
-        },
-        {
-          "asin": "B0D14X7HR3",
-          "slug": "ogx-thick-full-biotin-collagen-volumizing-shampoo-nutrient-i",
-          "title": "OGX Thick & Full + Biotin & Collagen Volumizing Shampoo, Nutrient-Infused Hair Shampoo with Vitamin B7 Biotin Gives Hair",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D14X7HR3/ref=cm_sw_r_as_gl_apa_gl_i_5GWT3P29F5VC1N1MTBXW?linkCode=ml1&tag=noya0b-20&linkId=03d4733e900e8ba0a1f4593e24f5ce3a"
-        },
-        {
-          "asin": "B0DT4Y11LC",
-          "slug": "azzaro-forever-wanted-elixir-mens-cologne-with-notes-of-rasp",
-          "title": "Azzaro - Forever Wanted Elixir - Mens Cologne - With Notes of Raspberry, Cardamom, and Leather Accord",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DT4Y11LC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T12:20:01.469Z",
-      "updatedAt": "2026-06-25T12:20:01.469Z"
+      "generatedAt": "2026-06-25T12:30:04.637Z",
+      "updatedAt": "2026-06-25T12:30:04.637Z"
     },
     {
       "date": "2026-06-24",
@@ -9527,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T12:20:01.472Z"
+  "generatedAt": "2026-06-25T12:30:04.640Z"
 }
