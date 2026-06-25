@@ -9,8 +9,8 @@
         "Makeup",
         "Fragrance",
         "Hair Care",
-        "Beauty",
         "Skincare",
+        "Beauty",
         "Body Care"
       ],
       "bySubcat": {
@@ -156,7 +156,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71jq4HVR1dL.jpg",
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -188,51 +188,19 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/61P6HXvsjmL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DX47BJ6W/ref=cm_sw_r_as_gl_apa_gl_i_C4XHNN0PH4035VJ03G03?linkCode=ml1&tag=noya0b-20&linkId=37567c91095a681801d0a9d385844233"
-          },
-          {
-            "asin": "B0B5HQHR5V",
-            "slug": "nexxus-humectress-hair-conditioner-20-in-1-perfector-leave-i",
-            "title": "Nexxus Humectress Hair Conditioner 20-in-1 Perfector Leave In Spray for Dry Hair Powered by Polysoft Hydrator Technology",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61+nY+0a+BL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0B5HQHR5V/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z5F8GGTG4J936W96ZHWB?linkCode=ml1&tag=noya0b-20&linkId=30b2c4bbeee1c6021f9900533ed64717"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0CZMNGCSB",
-            "slug": "sol-de-janeiro-bom-dia-bright-jet-set-beauty-personal-care",
-            "title": "Sol de Janeiro Bom Dia Bright Jet Set : Beauty & Personal Care",
-            "discount": 40,
-            "rating": "HOT",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81lGNynyBOL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZMNGCSB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cc4a31de2f15e498a4cc027a76383520&language=en_US"
-          },
-          {
-            "asin": "B0DHGP8TZ2",
-            "slug": "medicube-booster-pro-6-in-1-real-glass-glow-beauty-massager",
-            "title": "medicube Booster Pro | 6-in-1 Real Glass Glow Beauty Massager",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61kpEoE3+bL.jpg",
-            "url": "https://www.amazon.com/Medicube-Booster-Beauty-Massager-Looking/dp/B0DHGP8TZ2?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DHGP8TZ2&th=1&linkCode=sl2&tag=noya0b-20&linkId=8b3e0ad8e20a739838b31fbf440b34dc&language=en_US"
-          },
-          {
-            "asin": "B0F56CF4QZ",
-            "slug": "sol-de-janeiro-limited-edition-cheirosa-71-shimmering-body-c",
-            "title": "Sol de Janeiro Limited Edition Cheirosa 71 Shimmering Body Cream | 8.1 fl oz/ 240ml | Vanilla Body Cream : Beauty & Pers",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
-            "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
           }
         ],
         "Skincare": [
+          {
+            "asin": "B099MSZX25",
+            "slug": "cetaphil-face-wash-daily-facial-cleanser-for-sensitive-combi",
+            "title": "Cetaphil Face Wash, Daily Facial Cleanser for Sensitive, Combination to Oily Skin, 20 oz, Gentle Foaming, Soap Free, Hyp",
+            "discount": 40,
+            "rating": "HOT",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/619DBhP-v7L.jpg",
+            "url": "https://www.amazon.com/dp/B099MSZX25?th=1&linkCode=sl2&tag=noya0b-20&linkId=df866fba4b3ae96b3e4643f040cbac0f&language=en_US"
+          },
           {
             "asin": "B0DGPSZVW3",
             "slug": "medicube-collagen-jelly-cream-niacinamide-freeze-dried-hydro",
@@ -314,6 +282,38 @@
             "url": "https://www.amazon.com/dp/B07799WY99/ref=cm_sw_r_as_gl_api_gl_i_013WNQXM2XKNMM3J88YX?linkCode=ml1&tag=noya0b-20&linkId=d839278abceac63d6c49b7ad94c6a9d2"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0CZMNGCSB",
+            "slug": "sol-de-janeiro-bom-dia-bright-jet-set-beauty-personal-care",
+            "title": "Sol de Janeiro Bom Dia Bright Jet Set : Beauty & Personal Care",
+            "discount": 40,
+            "rating": "HOT",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81lGNynyBOL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZMNGCSB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cc4a31de2f15e498a4cc027a76383520&language=en_US"
+          },
+          {
+            "asin": "B0DHGP8TZ2",
+            "slug": "medicube-booster-pro-6-in-1-real-glass-glow-beauty-massager",
+            "title": "medicube Booster Pro | 6-in-1 Real Glass Glow Beauty Massager",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61kpEoE3+bL.jpg",
+            "url": "https://www.amazon.com/Medicube-Booster-Beauty-Massager-Looking/dp/B0DHGP8TZ2?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DHGP8TZ2&th=1&linkCode=sl2&tag=noya0b-20&linkId=8b3e0ad8e20a739838b31fbf440b34dc&language=en_US"
+          },
+          {
+            "asin": "B0F56CF4QZ",
+            "slug": "sol-de-janeiro-limited-edition-cheirosa-71-shimmering-body-c",
+            "title": "Sol de Janeiro Limited Edition Cheirosa 71 Shimmering Body Cream | 8.1 fl oz/ 240ml | Vanilla Body Cream : Beauty & Pers",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/615HnJoqrhL.jpg",
+            "url": "https://www.amazon.com/dp/B0F56CF4QZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_QK77AP5WQ8FWM1MNERHT?linkCode=ml1&tag=noya0b-20&linkId=4723b2a0fc8d4b23edd0c6edcb5f9062"
+          }
+        ],
         "Body Care": [
           {
             "asin": "B0CS6S5VLB",
@@ -365,8 +365,18 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71jq4HVR1dL.jpg",
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B099MSZX25",
+          "slug": "cetaphil-face-wash-daily-facial-cleanser-for-sensitive-combi",
+          "title": "Cetaphil Face Wash, Daily Facial Cleanser for Sensitive, Combination to Oily Skin, 20 oz, Gentle Foaming, Soap Free, Hyp",
+          "discount": 40,
+          "rating": "HOT",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/619DBhP-v7L.jpg",
+          "url": "https://www.amazon.com/dp/B099MSZX25?th=1&linkCode=sl2&tag=noya0b-20&linkId=df866fba4b3ae96b3e4643f040cbac0f&language=en_US"
         },
         {
           "asin": "B0CZMNGCSB",
@@ -617,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61P6HXvsjmL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DX47BJ6W/ref=cm_sw_r_as_gl_apa_gl_i_C4XHNN0PH4035VJ03G03?linkCode=ml1&tag=noya0b-20&linkId=37567c91095a681801d0a9d385844233"
-        },
-        {
-          "asin": "B0B5HQHR5V",
-          "slug": "nexxus-humectress-hair-conditioner-20-in-1-perfector-leave-i",
-          "title": "Nexxus Humectress Hair Conditioner 20-in-1 Perfector Leave In Spray for Dry Hair Powered by Polysoft Hydrator Technology",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61+nY+0a+BL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0B5HQHR5V/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z5F8GGTG4J936W96ZHWB?linkCode=ml1&tag=noya0b-20&linkId=30b2c4bbeee1c6021f9900533ed64717"
         }
       ],
       "featuredDeal": {
@@ -650,7 +650,7 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include medicube Collagen Jelly Cream- Niacinamide & Freez and Naked Sundays CabanaClear SPF 50 Sunscreen Serum f. Check the full list above for current prices."
+          "a": "Today's skincare deals include Cetaphil Face Wash, Daily Facial Cleanser for Sens and medicube Collagen Jelly Cream- Niacinamide & Freez. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T13:40:04.805Z",
-      "updatedAt": "2026-06-25T13:40:04.805Z"
+      "generatedAt": "2026-06-25T13:50:03.814Z",
+      "updatedAt": "2026-06-25T13:50:03.814Z"
     },
     {
       "date": "2026-06-24",
@@ -9527,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T13:40:04.810Z"
+  "generatedAt": "2026-06-25T13:50:03.818Z"
 }
