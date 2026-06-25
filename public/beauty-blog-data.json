@@ -52,7 +52,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
           },
           {
@@ -126,7 +126,7 @@
             "discount": 43,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
           },
           {
@@ -136,8 +136,18 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
+          },
+          {
+            "asin": "B0DXWK9X6P",
+            "slug": "kitsch-hair-perfume-for-women-amber-shores-clean-deodorizing",
+            "title": "Kitsch Hair Perfume for Women - Amber Shores | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Bo",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WHN2rxosL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DXWK9X6P?th=1&tag=noya0b-20"
           },
           {
             "asin": "B0FRS8H3VN",
@@ -218,7 +228,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61JoqTz0klL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B07DJPC8JB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -270,18 +280,8 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/81gMooeJ0iL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00NU9MJYS?psc=1&linkCode=sl2&tag=noya0b-20&linkId=b992c65554338b2e7bbccf26728ca381&language=en_US"
-          },
-          {
-            "asin": "B0DS6L2L3D",
-            "slug": "sol-de-janeiro-delicia-drench-jet-set-beauty-personal-care",
-            "title": "SOL DE JANEIRO Delicia Drench Jet Set : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Ldb8+PkcL.jpg",
-            "url": "https://www.amazon.com/dp/B0DS6L2L3D?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cef514116fcf069bab48fd77b9f431c&language=en_US"
           }
         ],
         "Body Care": [
@@ -302,7 +302,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Kzb6MFHVL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/Dove-Alcohol-Deodorant-72-hour-Lavender/dp/B0FWS2Y9VC?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=10714af2c7bbf06d0474fd981376cf01&language=en_US"
           },
           {
@@ -375,7 +375,7 @@
           "discount": 43,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WQQ-gk33L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DGQVH3KV?th=1&tag=noya0b-20"
         },
         {
@@ -405,7 +405,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GCEgiF53L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00S5VHGQ2?th=1&tag=noya0b-20"
         },
         {
@@ -485,7 +485,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
         },
         {
@@ -497,6 +497,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/610bwNWu-9L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0032RMX3U?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0DXWK9X6P",
+          "slug": "kitsch-hair-perfume-for-women-amber-shores-clean-deodorizing",
+          "title": "Kitsch Hair Perfume for Women - Amber Shores | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Bo",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WHN2rxosL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DXWK9X6P?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0CLH8PQPH",
@@ -515,7 +525,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Kzb6MFHVL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/Dove-Alcohol-Deodorant-72-hour-Lavender/dp/B0FWS2Y9VC?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=10714af2c7bbf06d0474fd981376cf01&language=en_US"
         },
         {
@@ -545,7 +555,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/81gMooeJ0iL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00NU9MJYS?psc=1&linkCode=sl2&tag=noya0b-20&linkId=b992c65554338b2e7bbccf26728ca381&language=en_US"
         },
         {
@@ -565,7 +575,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61JoqTz0klL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B07DJPC8JB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/717872zbR3L.jpg",
           "url": "https://www.amazon.com/dp/B001TI8XBU?th=1&linkCode=sl2&tag=noya0b-20&linkId=d9c0491fbabfcb5b18866f2132ceba3d&language=en_US"
-        },
-        {
-          "asin": "B0DS6L2L3D",
-          "slug": "sol-de-janeiro-delicia-drench-jet-set-beauty-personal-care",
-          "title": "SOL DE JANEIRO Delicia Drench Jet Set : Beauty & Personal Care",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Ldb8+PkcL.jpg",
-          "url": "https://www.amazon.com/dp/B0DS6L2L3D?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cef514116fcf069bab48fd77b9f431c&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-25T21:50:04.642Z",
-      "updatedAt": "2026-06-25T21:50:04.642Z"
+      "generatedAt": "2026-06-25T22:00:05.028Z",
+      "updatedAt": "2026-06-25T22:00:05.028Z"
     },
     {
       "date": "2026-06-24",
@@ -9527,5 +9527,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-25T21:50:04.645Z"
+  "generatedAt": "2026-06-25T22:00:05.032Z"
 }
