@@ -9,8 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
-        "Fashion",
-        "Grocery & Food"
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -46,20 +45,20 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B011M6K81Q?tag=noya0b-20"
-          },
-          {
-            "asin": "B08CP5DBC6",
-            "slug": "check-your-amazon-fresh-locations",
-            "title": "Check your Amazon fresh locations!",
-            "price": "$12.34",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71sSNcJ2ICL.jpg",
-            "url": "https://www.amazon.com/MOWI-Essential-Fresh-Atlantic-Salmon/dp/B08CP5DBC6?th=1&linkCode=sl2&tag=noya0b-20&linkId=f1d2677b62c8bb1041cf492b071b56e0&language=en_US"
           }
         ],
         "Home & Kitchen": [
+          {
+            "asin": "B0CX56NS1X",
+            "slug": "furinno-rail-book-shelf-3-tier-bookshelf-with-open-shelf-boo",
+            "title": "Furinno Rail Book Shelf, 3-Tier Bookshelf with Open Shelf, Bookcase with Classic Style Edges, 10 x 24.6 x 39, for Organi",
+            "price": "$29",
+            "discount": 60,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61KaXOVZc9L.jpg",
+            "url": "https://www.amazon.com/dp/B0CX56NS1X?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B01IHHLB3W",
             "slug": "temppro-tp03b-digital-meat-thermometer-for-cooking-instant-r",
@@ -105,6 +104,17 @@
             "category": "Beauty",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CVF8R2DJ?linkCode=sl2&tag=noya0b-20&linkId=6813bf56e0fae7dc1ae9f69b2cf0ecc5&language=en_US"
+          },
+          {
+            "asin": "B09QHXNRWB",
+            "slug": "ralph-lauren-fragrances-ralphs-club-eau-de-parfum-mens-colog",
+            "title": "RALPH LAUREN FRAGRANCES - Ralph's Club - Eau de Parfum - Men's Cologne - Woody & Fresh - With Lavandin, Sage, Vetiver, a",
+            "price": "$32",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51i7JnazYCL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09QHXNRWB?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/710wHYogIYL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GXHMQTNM?th=1&psc=1&tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0BG8ZNZDG",
-            "slug": "bodyarmor-lyte-sports-drink-low-calorie-beverage-strawberry",
-            "title": "BODYARMOR Lyte Sports Drink Low-Calorie Beverage, Strawberry Banana, Coconut Water Hydration, Natural Flavors with Vitam",
-            "price": "$9",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81HCEeOrXEL.jpg",
-            "url": "https://www.amazon.com/BODYARMOR-Low-Calorie-Strawberry-Potassium-Packed-Electrolytes/dp/B0BG8ZNZDG?th=1&linkCode=sl2&tag=noya0b-20&linkId=a508f09f0ea73a53161d464d6bdeb6d3&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -145,6 +142,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL.jpg",
           "url": "https://www.amazon.com/dp/B0F1BMM2B7/ref=cm_sw_r_as_gl_api_gl_i_dl_WAC1K2XC2D5JBDP47C68?th=1&linkCode=sl2&tag=noya0b-20&linkId=3519765787c949f98b48ed4c38d2dc28&language=en_US"
+        },
+        {
+          "asin": "B0CX56NS1X",
+          "slug": "furinno-rail-book-shelf-3-tier-bookshelf-with-open-shelf-boo",
+          "title": "Furinno Rail Book Shelf, 3-Tier Bookshelf with Open Shelf, Bookcase with Classic Style Edges, 10 x 24.6 x 39, for Organi",
+          "price": "$29",
+          "discount": 60,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61KaXOVZc9L.jpg",
+          "url": "https://www.amazon.com/dp/B0CX56NS1X?th=1&tag=noya0b-20"
         },
         {
           "asin": "B01IHHLB3W",
@@ -202,6 +210,17 @@
           "url": "https://www.amazon.com/dp/B0DSCP5SXZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=3871f8c6a32d14c7ebd5bfb9af910aef&language=en_US"
         },
         {
+          "asin": "B09QHXNRWB",
+          "slug": "ralph-lauren-fragrances-ralphs-club-eau-de-parfum-mens-colog",
+          "title": "RALPH LAUREN FRAGRANCES - Ralph's Club - Eau de Parfum - Men's Cologne - Woody & Fresh - With Lavandin, Sage, Vetiver, a",
+          "price": "$32",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51i7JnazYCL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09QHXNRWB?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0GXHMQTNM",
           "slug": "cushionaire-pool-slides-for-women-water-resistant-double-buc",
           "title": "CUSHIONAIRE Pool Slides for Women Water Resistant Double Buckle Adjustable Slip-On Womens Sandals for Beach Shower Casua",
@@ -222,28 +241,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B011M6K81Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B08CP5DBC6",
-          "slug": "check-your-amazon-fresh-locations",
-          "title": "Check your Amazon fresh locations!",
-          "price": "$12.34",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71sSNcJ2ICL.jpg",
-          "url": "https://www.amazon.com/MOWI-Essential-Fresh-Atlantic-Salmon/dp/B08CP5DBC6?th=1&linkCode=sl2&tag=noya0b-20&linkId=f1d2677b62c8bb1041cf492b071b56e0&language=en_US"
-        },
-        {
-          "asin": "B0BG8ZNZDG",
-          "slug": "bodyarmor-lyte-sports-drink-low-calorie-beverage-strawberry",
-          "title": "BODYARMOR Lyte Sports Drink Low-Calorie Beverage, Strawberry Banana, Coconut Water Hydration, Natural Flavors with Vitam",
-          "price": "$9",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81HCEeOrXEL.jpg",
-          "url": "https://www.amazon.com/BODYARMOR-Low-Calorie-Strawberry-Potassium-Packed-Electrolytes/dp/B0BG8ZNZDG?th=1&linkCode=sl2&tag=noya0b-20&linkId=a508f09f0ea73a53161d464d6bdeb6d3&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T00:40:01.816Z",
-      "updatedAt": "2026-06-25T00:40:01.816Z"
+      "generatedAt": "2026-06-25T00:50:01.709Z",
+      "updatedAt": "2026-06-25T00:50:01.709Z"
     },
     {
       "date": "2026-06-23",
@@ -4295,5 +4292,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T00:40:01.817Z"
+  "generatedAt": "2026-06-25T00:50:01.712Z"
 }
