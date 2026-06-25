@@ -4,15 +4,89 @@
       "date": "2026-06-25",
       "slug": "2026-06-25",
       "title": "🔥 Best Deals Today — June 25, 2026",
-      "intro": "Today's best online deals for Thursday, June 25, 2026 — 10 hand-picked discounts across Other, Beauty, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, June 25, 2026 — 10 hand-picked discounts across Other, Beauty, Personal Care and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Beauty",
-        "Garden & Outdoor",
-        "Toys & Kids",
-        "Fashion"
+        "Personal Care",
+        "Fashion",
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0DW4FSSY6",
+            "slug": "crocs-kids-classic-clog",
+            "title": "Crocs Kid's Classic Clog",
+            "price": "$17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vS7fQfbFL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/Crocs-Unisex-Classic-Toddler-Medium/dp/B0DW4FSSY6?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DW4FSSY6&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2d5fab364bdc325ad6eb68394ce0d678&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0G22LHN9R",
+            "slug": "milk-makeup-mini-must-haves-set",
+            "title": "Milk Makeup Mini Must-Haves Set",
+            "price": "$24",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/7140Q3D-VFL._SL1500_.jpg",
+            "url": "https://www.amazon.com/Milk-Makeup-Mini-Must-Haves-Set/dp/B0G22LHN9R?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0G22LHN9R&linkCode=sl2&tag=noya0b-20&linkId=652599b338a9b536a71f635eca48989f&language=en_US"
+          },
+          {
+            "asin": "B0DX47BJ6W",
+            "slug": "native-limited-edition-strawberry-frosted-shampoo-165-oz",
+            "title": "Native | Limited Edition |Strawberry Frosted Shampoo| 16.5 oz",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61P6HXvsjmL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DX47BJ6W/ref=cm_sw_r_as_gl_apa_gl_i_C4XHNN0PH4035VJ03G03?linkCode=ml1&tag=noya0b-20&linkId=37567c91095a681801d0a9d385844233"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0GPZPSG9Z",
+            "slug": "hydrojug-traveler-40-oz-water-bottle-with-handle-flip-straw",
+            "title": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw",
+            "price": "$22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51V-WJ4He4L._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/HydroJug-Traveler-Resistant-Tumbler-Reusable-Insulated/dp/B0GPZPSG9Z?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0GPZPSG9Z&th=1&linkCode=sl2&tag=noya0b-20&linkId=ebce54a8cd966ccad852ac3bc4477d0a&language=en_US"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0D9WW3YND",
+            "slug": "oura-ring-4-smart-ring-silver-size-6-sleep-activity-womens-h",
+            "title": "Oura Ring 4, Smart Ring - Silver - Size 6 - Sleep, Activity, Women's Health, AI Advisor, Up to 8 Days of Battery Life, O",
+            "price": "$226.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ul5++ZdWL._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B0D9WW3YND?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0D9WW3YND",
+            "slug": "oura-ring-4-smart-ring-silver-size-6-sleep-activity-womens-h",
+            "title": "Oura Ring 4, Smart Ring - Silver - Size 6 - Sleep, Activity, Women's Health, AI Advisor, Up to 8 Days of Battery Life, O",
+            "price": "$226.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ul5++ZdWL._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B0D9WW3YND?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Other": [
           {
             "asin": "B0CDN56GTV",
@@ -57,84 +131,65 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81BR2QpdoBL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DR2PX3F3/ref=cm_sw_r_as_gl_apa_gl_i_GVRD49YGXS87A2D0KSY7?linkCode=ml1&tag=noya0b-20&linkId=d96bd5c95435085743bc502e037502de"
-          },
-          {
-            "asin": "B0CLBF8JJS",
-            "slug": "philips-hue-wired-camera-white-2pk-electronics",
-            "title": "Philips Hue Wired Camera White 2PK : Electronics",
-            "price": "$89",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UAmre2tEL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CLBF8JJS/ref=cm_sw_r_as_gl_apa_gl_i_89S16CWD68MEQFH8ZHQM?linkCode=ml1&tag=noya0b-20&linkId=40d5fcf1bd9ebe507680e0bfc7d2b3b3"
-          },
-          {
-            "asin": "B0BJMFJTS9",
-            "slug": "gain-flings-liquid-washing-detergent-pods-now-with-odor-defe",
-            "title": "Gain Flings Liquid Washing Detergent Pods, Now with Odor Defense + Color Guard, Original Scent, 4-In-1 Liquid Laundry De",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81C9Ufw2DlL.jpg",
-            "url": "https://www.amazon.com/dp/B0BJMFJTS9/ref=cm_sw_r_as_gl_apa_gl_i_dl_CK0Y1TBEDVGHDC1MTR2P?linkCode=ml1&tag=noya0b-20&linkId=6950b491ac46dd871b53dd1c8e66d9d4"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DX47BJ6W",
-            "slug": "native-limited-edition-strawberry-frosted-shampoo-165-oz",
-            "title": "Native | Limited Edition |Strawberry Frosted Shampoo| 16.5 oz",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61P6HXvsjmL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DX47BJ6W/ref=cm_sw_r_as_gl_apa_gl_i_C4XHNN0PH4035VJ03G03?linkCode=ml1&tag=noya0b-20&linkId=37567c91095a681801d0a9d385844233"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0CTTC177G",
-            "slug": "east-oak-pop-up-screen-tent-with-mosquito-netting-portable-s",
-            "title": "East Oak Pop up Screen Tent with Mosquito Netting, Portable Screen House Canopy Shelter, 6 x 6 FT Instant Screen Gazebo ",
-            "price": "$89.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/8152l6ocREL.jpg",
-            "url": "https://www.amazon.com/dp/B0CTTC177G?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B085P5HTDT",
-            "slug": "b-toys-wooden-shape-sorter-pounding-bench-for-shape-sorting",
-            "title": "B. toys – Wooden Shape Sorter – Pounding Bench for Shape Sorting – 6 Pegs & Toy Hammer – Classic Toys for Toddlers, Kids",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Qeg7BoplL.jpg",
-            "url": "https://www.amazon.com/dp/B085P5HTDT/ref=cm_sw_r_as_gl_apa_gl_i_dl_05VZ849N697RCRG3Y2CG?linkCode=ml1&tag=noya0b-20&linkId=2d9f16a1f340dc4f795bb080cbe1c93f"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0FCK1968B",
-            "slug": "michael-kors-quinn-medium-tote-gold-tone-hardwaretonal-mk-si",
-            "title": "Michael Kors Quinn Medium Tote, Gold-Tone Hardware/Tonal MK Signature Coated Twill/Crimson Multi : Clothing, Shoes & Jew",
-            "price": "$69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71zDEMLjSRL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FCK1968B/ref=cm_sw_r_as_gl_apa_gl_i_dl_3ZG7VVY76CPZ81K9THRP?linkCode=ml1&tag=noya0b-20&linkId=fc61bca9305c967e0702a44b5176a988"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DW4FSSY6",
+          "slug": "crocs-kids-classic-clog",
+          "title": "Crocs Kid's Classic Clog",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vS7fQfbFL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/Crocs-Unisex-Classic-Toddler-Medium/dp/B0DW4FSSY6?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0DW4FSSY6&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2d5fab364bdc325ad6eb68394ce0d678&language=en_US"
+        },
+        {
+          "asin": "B0G22LHN9R",
+          "slug": "milk-makeup-mini-must-haves-set",
+          "title": "Milk Makeup Mini Must-Haves Set",
+          "price": "$24",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/7140Q3D-VFL._SL1500_.jpg",
+          "url": "https://www.amazon.com/Milk-Makeup-Mini-Must-Haves-Set/dp/B0G22LHN9R?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0G22LHN9R&linkCode=sl2&tag=noya0b-20&linkId=652599b338a9b536a71f635eca48989f&language=en_US"
+        },
+        {
+          "asin": "B0GPZPSG9Z",
+          "slug": "hydrojug-traveler-40-oz-water-bottle-with-handle-flip-straw",
+          "title": "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw",
+          "price": "$22",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/51V-WJ4He4L._AC_SL1200_.jpg",
+          "url": "https://www.amazon.com/HydroJug-Traveler-Resistant-Tumbler-Reusable-Insulated/dp/B0GPZPSG9Z?content-id=amzn1.sym.fb33e4b8-775e-4a0f-968f-feb971757b3f&pd_rd_i=B0GPZPSG9Z&th=1&linkCode=sl2&tag=noya0b-20&linkId=ebce54a8cd966ccad852ac3bc4477d0a&language=en_US"
+        },
+        {
+          "asin": "B0D9WW3YND",
+          "slug": "oura-ring-4-smart-ring-silver-size-6-sleep-activity-womens-h",
+          "title": "Oura Ring 4, Smart Ring - Silver - Size 6 - Sleep, Activity, Women's Health, AI Advisor, Up to 8 Days of Battery Life, O",
+          "price": "$226.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ul5++ZdWL._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B0D9WW3YND?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0D9WW3YND",
+          "slug": "oura-ring-4-smart-ring-silver-size-6-sleep-activity-womens-h",
+          "title": "Oura Ring 4, Smart Ring - Silver - Size 6 - Sleep, Activity, Women's Health, AI Advisor, Up to 8 Days of Battery Life, O",
+          "price": "$226.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ul5++ZdWL._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B0D9WW3YND?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0CDN56GTV",
           "slug": "bloomhouse-two-time-oprahs-favorite-things-winner-35-inch-pa",
@@ -189,67 +244,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61P6HXvsjmL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DX47BJ6W/ref=cm_sw_r_as_gl_apa_gl_i_C4XHNN0PH4035VJ03G03?linkCode=ml1&tag=noya0b-20&linkId=37567c91095a681801d0a9d385844233"
-        },
-        {
-          "asin": "B0CTTC177G",
-          "slug": "east-oak-pop-up-screen-tent-with-mosquito-netting-portable-s",
-          "title": "East Oak Pop up Screen Tent with Mosquito Netting, Portable Screen House Canopy Shelter, 6 x 6 FT Instant Screen Gazebo ",
-          "price": "$89.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/8152l6ocREL.jpg",
-          "url": "https://www.amazon.com/dp/B0CTTC177G?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CLBF8JJS",
-          "slug": "philips-hue-wired-camera-white-2pk-electronics",
-          "title": "Philips Hue Wired Camera White 2PK : Electronics",
-          "price": "$89",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71UAmre2tEL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CLBF8JJS/ref=cm_sw_r_as_gl_apa_gl_i_89S16CWD68MEQFH8ZHQM?linkCode=ml1&tag=noya0b-20&linkId=40d5fcf1bd9ebe507680e0bfc7d2b3b3"
-        },
-        {
-          "asin": "B0BJMFJTS9",
-          "slug": "gain-flings-liquid-washing-detergent-pods-now-with-odor-defe",
-          "title": "Gain Flings Liquid Washing Detergent Pods, Now with Odor Defense + Color Guard, Original Scent, 4-In-1 Liquid Laundry De",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81C9Ufw2DlL.jpg",
-          "url": "https://www.amazon.com/dp/B0BJMFJTS9/ref=cm_sw_r_as_gl_apa_gl_i_dl_CK0Y1TBEDVGHDC1MTR2P?linkCode=ml1&tag=noya0b-20&linkId=6950b491ac46dd871b53dd1c8e66d9d4"
-        },
-        {
-          "asin": "B085P5HTDT",
-          "slug": "b-toys-wooden-shape-sorter-pounding-bench-for-shape-sorting",
-          "title": "B. toys – Wooden Shape Sorter – Pounding Bench for Shape Sorting – 6 Pegs & Toy Hammer – Classic Toys for Toddlers, Kids",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Qeg7BoplL.jpg",
-          "url": "https://www.amazon.com/dp/B085P5HTDT/ref=cm_sw_r_as_gl_apa_gl_i_dl_05VZ849N697RCRG3Y2CG?linkCode=ml1&tag=noya0b-20&linkId=2d9f16a1f340dc4f795bb080cbe1c93f"
-        },
-        {
-          "asin": "B0FCK1968B",
-          "slug": "michael-kors-quinn-medium-tote-gold-tone-hardwaretonal-mk-si",
-          "title": "Michael Kors Quinn Medium Tote, Gold-Tone Hardware/Tonal MK Signature Coated Twill/Crimson Multi : Clothing, Shoes & Jew",
-          "price": "$69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71zDEMLjSRL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FCK1968B/ref=cm_sw_r_as_gl_apa_gl_i_dl_3ZG7VVY76CPZ81K9THRP?linkCode=ml1&tag=noya0b-20&linkId=fc61bca9305c967e0702a44b5176a988"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 25, 2026?",
-          "a": "The best deals today include \"Bloomhouse - Two Time Oprah's Favorite Things Winner - 3.5-I...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Crocs Kid's Classic Clog...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Personal Care and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-25T07:00:01.321Z",
-      "updatedAt": "2026-06-25T07:00:01.321Z"
+      "generatedAt": "2026-06-25T07:10:00.388Z",
+      "updatedAt": "2026-06-25T07:10:00.389Z"
     },
     {
       "date": "2026-06-24",
@@ -4566,5 +4566,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-25T07:00:01.323Z"
+  "generatedAt": "2026-06-25T07:10:00.390Z"
 }
