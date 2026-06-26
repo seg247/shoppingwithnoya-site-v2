@@ -4,16 +4,115 @@
       "date": "2026-06-26",
       "slug": "2026-06-26",
       "title": "🔥 Best Deals Today — June 26, 2026",
-      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Beauty, Other, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Beauty, Electronics, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
+        "Electronics",
+        "Grocery & Food",
+        "Personal Care",
         "Other",
         "Toys & Kids",
-        "Home & Kitchen",
-        "Electronics",
-        "Cleaning Supplies"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0FQMWNYKV",
+            "slug": "samsung-galaxy-z-fold7-256gb-unlocked-ai-smartphone-silver-s",
+            "title": "Samsung Galaxy Z Fold7 256GB Unlocked AI Smartphone, Silver Shadow w/ Galaxy Buds 3 Pro AI True Wireless Bluetooth Earbu",
+            "price": "$534.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41l0VS9ZrAL._AC_SL1001_.jpg",
+            "url": "https://www.amazon.com/dp/B0FQMWNYKV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0BLXKY4PF",
+            "slug": "amazon-eero-6-mesh-wifi-system-4-pack",
+            "title": "Amazon eero 6+ mesh wifi system 4 Pack",
+            "price": "$190",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61qAtmlJ5EL.jpg",
+            "url": "https://www.amazon.com/eero-reliable-gigabit-connect-Coverage/dp/B0BLXKY4PF?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=7cff85e2fe938ba6f2b55beab3874c03&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0DWBC2FY7",
+            "slug": "starbucks-iced-energy-drink-3-flavor-variety-pack-tropical-p",
+            "title": "Starbucks Iced Energy Drink, 3 Flavor Variety Pack (Tropical Peach, Watermelon Splash, Blueberry Lemonade), Zero Sugar E",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ikT4x92tL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DWBC2FY7/ref=cm_sw_r_as_gl_apa_gl_i_dl_C8WYF3WJ12ZT8TW2ZDK0?linkCode=ml1&tag=noya0b-20&linkId=15d9e85af901f8e409d9826c7c100cc4"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0D9WV32B1",
+            "slug": "oura-ring-4-rose-gold-size-13-sleep-activity-womens-health-a",
+            "title": "Oura Ring 4 - Rose Gold - Size 13 - Sleep, Activity, Women’s Health, AI Advisor, Up to 8 Days of Battery Life, Size Befo",
+            "price": "$246.05",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51zKmnnZU8L._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B0D9WV32B1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B098N8G17R",
+            "slug": "suguword-led-rainfall-shower-head-high-pressure-12-inch-blac",
+            "title": "Suguword LED Rainfall Shower Head High Pressure 12 Inch Black LED Rain Shower Head Anti-leak Large Square Ceiling Mount ",
+            "price": "$22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81LkGTT7fML.jpg",
+            "url": "https://www.amazon.com/dp/B098N8G17R/ref=cm_sw_r_as_gl_apa_gl_i_9DZZFZT495P076M7VG6X?linkCode=ml1&tag=noya0b-20&linkId=7b9e7c83703965f5d1e8d21c736855c7"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FRNF72VP",
+            "slug": "dove-men-care-shampoo-1-count-thick-strong-builds-hair-stren",
+            "title": "DOVE MEN + CARE Shampoo 1 count Thick & Strong, Builds Hair Strength, with Calcium 28 Fl oz",
+            "price": "$5.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FRNF72VP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B002TSA93Y",
+            "slug": "dove-shea-butter-beauty-bar-soap-8-count-nourishing-cleanser",
+            "title": "Dove Shea Butter Beauty Bar Soap 8 Count, Nourishing Cleanser, 3.75 oz I Moisturizing beauty bar with ¼ moisturizing cre",
+            "price": "$7.40",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B002TSA93Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0FL863CW9",
+            "slug": "dove-clinical-care-antiperspirant-deodorant-stick-for-women",
+            "title": "Dove Clinical + Care Antiperspirant Deodorant Stick for Women, 96H Clinical Strength Sweat & Odor Protection, With Nouri",
+            "price": "$7.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FL863CW9?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B08DK2M9F6",
@@ -39,105 +138,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/819mJ1IeN5L.jpg",
             "url": "https://www.amazon.com/dp/B0DT5LHY66/ref=cm_sw_r_as_gl_apa_gl_i_dl_0M2FN3467SQ8CSQ6XW1J?linkCode=ml1&tag=noya0b-20&linkId=0b152db5dc01ab92eb2297e063c5cd90"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B002TSA93Y",
-            "slug": "dove-shea-butter-beauty-bar-soap-8-count-nourishing-cleanser",
-            "title": "Dove Shea Butter Beauty Bar Soap 8 Count, Nourishing Cleanser, 3.75 oz I Moisturizing beauty bar with ¼ moisturizing cre",
-            "price": "$7.40",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B002TSA93Y?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0FL863CW9",
-            "slug": "dove-clinical-care-antiperspirant-deodorant-stick-for-women",
-            "title": "Dove Clinical + Care Antiperspirant Deodorant Stick for Women, 96H Clinical Strength Sweat & Odor Protection, With Nouri",
-            "price": "$7.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FL863CW9?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0DVM7N4VK",
-            "slug": "eos-vanilla-cashmere-bundle-body-oil-body-wash-shave-oil-whi",
-            "title": "eos Vanilla Cashmere Bundle- Body Oil, Body Wash, Shave Oil, Whipped Body Butter, Lip Butter",
-            "price": "$46",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71vH2j2YNWL.jpg",
-            "url": "https://www.amazon.com/eos-Vanilla-Cashmere-Bundle-Whipped/dp/B0DVM7N4VK?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=5e899d601d6946071ce4ea1037560760&language=en_US"
-          },
-          {
-            "asin": "B0061JPJ3M",
-            "slug": "degree-men-advanced-antiperspirant-deodorant-everest-2-count",
-            "title": "Degree Men Advanced Antiperspirant Deodorant Everest 2 Count 72-Hour Sweat and Odor Protection Antiperspirant For Men Wi",
-            "price": "$4.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0061JPJ3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BLXKY4PF",
-            "slug": "amazon-eero-6-mesh-wifi-system-4-pack",
-            "title": "Amazon eero 6+ mesh wifi system 4 Pack",
-            "price": "$190",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61qAtmlJ5EL.jpg",
-            "url": "https://www.amazon.com/eero-reliable-gigabit-connect-Coverage/dp/B0BLXKY4PF?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=7cff85e2fe938ba6f2b55beab3874c03&language=en_US"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0B1PGR1LZ",
-            "slug": "tide-4-in-1-ultra-oxi-pods-laundry-detergent-pacs-85-count-h",
-            "title": "Tide 4-in-1 Ultra Oxi PODS Laundry Detergent Pacs, 85 Count, HE Compatible, Built in Pre-treater for Stains : Everything",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81zlihJ2iiL.jpg",
-            "url": "https://www.amazon.com/dp/B0B1PGR1LZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_DPK2KRRY5QCN9KQZJ9EQ?linkCode=ml1&tag=noya0b-20&linkId=32023e2133b4962a361a410cad4028bd"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0B44PDCLC",
-            "slug": "bunch-o-balloons-tropical-party-6-pack-by-zuru-200-rapid-fil",
-            "title": "Bunch O Balloons Tropical Party (6 Pack) by ZURU, 200+ Rapid-Filling Self-Sealing Tropical Colored Water Balloons for Ou",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81qMELDxTTL.jpg",
-            "url": "https://www.amazon.com/dp/B0B44PDCLC/ref=cm_sw_r_as_gl_apa_gl_i_dl_G1D2JBYZ4HCABFP0791H?linkCode=ml1&tag=noya0b-20&linkId=2c9504dfa223ab45424aa867f79fbc8c"
-          },
-          {
-            "asin": "B0CQKHCF7V",
-            "slug": "oak-essentials-ritual-oil",
-            "title": "Oak Essentials Ritual Oil",
-            "price": "$44",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51JeoHhMUHL.jpg",
-            "url": "https://www.amazon.com/Oak-Essentials-Womens-Ritual-Oil/dp/B0CQKHCF7V?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3d3000bc1f0ccf19da46068c382bb47d&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FQMWNYKV",
+          "slug": "samsung-galaxy-z-fold7-256gb-unlocked-ai-smartphone-silver-s",
+          "title": "Samsung Galaxy Z Fold7 256GB Unlocked AI Smartphone, Silver Shadow w/ Galaxy Buds 3 Pro AI True Wireless Bluetooth Earbu",
+          "price": "$534.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/41l0VS9ZrAL._AC_SL1001_.jpg",
+          "url": "https://www.amazon.com/dp/B0FQMWNYKV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DWBC2FY7",
+          "slug": "starbucks-iced-energy-drink-3-flavor-variety-pack-tropical-p",
+          "title": "Starbucks Iced Energy Drink, 3 Flavor Variety Pack (Tropical Peach, Watermelon Splash, Blueberry Lemonade), Zero Sugar E",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ikT4x92tL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DWBC2FY7/ref=cm_sw_r_as_gl_apa_gl_i_dl_C8WYF3WJ12ZT8TW2ZDK0?linkCode=ml1&tag=noya0b-20&linkId=15d9e85af901f8e409d9826c7c100cc4"
+        },
+        {
+          "asin": "B0D9WV32B1",
+          "slug": "oura-ring-4-rose-gold-size-13-sleep-activity-womens-health-a",
+          "title": "Oura Ring 4 - Rose Gold - Size 13 - Sleep, Activity, Women’s Health, AI Advisor, Up to 8 Days of Battery Life, Size Befo",
+          "price": "$246.05",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51zKmnnZU8L._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B0D9WV32B1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B098N8G17R",
+          "slug": "suguword-led-rainfall-shower-head-high-pressure-12-inch-blac",
+          "title": "Suguword LED Rainfall Shower Head High Pressure 12 Inch Black LED Rain Shower Head Anti-leak Large Square Ceiling Mount ",
+          "price": "$22",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LkGTT7fML.jpg",
+          "url": "https://www.amazon.com/dp/B098N8G17R/ref=cm_sw_r_as_gl_apa_gl_i_9DZZFZT495P076M7VG6X?linkCode=ml1&tag=noya0b-20&linkId=7b9e7c83703965f5d1e8d21c736855c7"
+        },
+        {
+          "asin": "B0FRNF72VP",
+          "slug": "dove-men-care-shampoo-1-count-thick-strong-builds-hair-stren",
+          "title": "DOVE MEN + CARE Shampoo 1 count Thick & Strong, Builds Hair Strength, with Calcium 28 Fl oz",
+          "price": "$5.39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FRNF72VP?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B08DK2M9F6",
           "slug": "melissa-doug-love-your-look-salon-spa-play-set-toys-games",
@@ -192,67 +250,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61qAtmlJ5EL.jpg",
           "url": "https://www.amazon.com/eero-reliable-gigabit-connect-Coverage/dp/B0BLXKY4PF?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=7cff85e2fe938ba6f2b55beab3874c03&language=en_US"
-        },
-        {
-          "asin": "B0DVM7N4VK",
-          "slug": "eos-vanilla-cashmere-bundle-body-oil-body-wash-shave-oil-whi",
-          "title": "eos Vanilla Cashmere Bundle- Body Oil, Body Wash, Shave Oil, Whipped Body Butter, Lip Butter",
-          "price": "$46",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71vH2j2YNWL.jpg",
-          "url": "https://www.amazon.com/eos-Vanilla-Cashmere-Bundle-Whipped/dp/B0DVM7N4VK?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=5e899d601d6946071ce4ea1037560760&language=en_US"
-        },
-        {
-          "asin": "B0B1PGR1LZ",
-          "slug": "tide-4-in-1-ultra-oxi-pods-laundry-detergent-pacs-85-count-h",
-          "title": "Tide 4-in-1 Ultra Oxi PODS Laundry Detergent Pacs, 85 Count, HE Compatible, Built in Pre-treater for Stains : Everything",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81zlihJ2iiL.jpg",
-          "url": "https://www.amazon.com/dp/B0B1PGR1LZ/ref=cm_sw_r_as_gl_apa_gl_i_dl_DPK2KRRY5QCN9KQZJ9EQ?linkCode=ml1&tag=noya0b-20&linkId=32023e2133b4962a361a410cad4028bd"
-        },
-        {
-          "asin": "B0B44PDCLC",
-          "slug": "bunch-o-balloons-tropical-party-6-pack-by-zuru-200-rapid-fil",
-          "title": "Bunch O Balloons Tropical Party (6 Pack) by ZURU, 200+ Rapid-Filling Self-Sealing Tropical Colored Water Balloons for Ou",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81qMELDxTTL.jpg",
-          "url": "https://www.amazon.com/dp/B0B44PDCLC/ref=cm_sw_r_as_gl_apa_gl_i_dl_G1D2JBYZ4HCABFP0791H?linkCode=ml1&tag=noya0b-20&linkId=2c9504dfa223ab45424aa867f79fbc8c"
-        },
-        {
-          "asin": "B0061JPJ3M",
-          "slug": "degree-men-advanced-antiperspirant-deodorant-everest-2-count",
-          "title": "Degree Men Advanced Antiperspirant Deodorant Everest 2 Count 72-Hour Sweat and Odor Protection Antiperspirant For Men Wi",
-          "price": "$4.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0061JPJ3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CQKHCF7V",
-          "slug": "oak-essentials-ritual-oil",
-          "title": "Oak Essentials Ritual Oil",
-          "price": "$44",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51JeoHhMUHL.jpg",
-          "url": "https://www.amazon.com/Oak-Essentials-Womens-Ritual-Oil/dp/B0CQKHCF7V?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3d3000bc1f0ccf19da46068c382bb47d&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"Melissa & Doug Love Your Look - Salon & Spa Play Set : Toys ...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Samsung Galaxy Z Fold7 256GB Unlocked AI Smartphone, Silver ...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T08:30:02.051Z",
-      "updatedAt": "2026-06-26T08:30:02.051Z"
+      "generatedAt": "2026-06-26T08:40:02.002Z",
+      "updatedAt": "2026-06-26T08:40:02.003Z"
     },
     {
       "date": "2026-06-25",
@@ -4840,5 +4843,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T08:30:02.053Z"
+  "generatedAt": "2026-06-26T08:40:02.004Z"
 }
