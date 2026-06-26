@@ -11,11 +11,21 @@
         "Health",
         "Grocery & Food",
         "Personal Care",
-        "Electronics",
-        "Fashion"
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B078H38V8F",
+            "slug": "hawaiian-shaved-ice-syrup-assortment-6-popular-16oz-flavors",
+            "title": "Hawaiian Shaved Ice Syrup Assortment, 6 Popular 16oz Flavors: Cherry, Grape, Blue Raspberry, Tiger's Blood, Lemon-Lime, ",
+            "price": "$25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/810CoK5GwkL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B078H38V8F/ref=cm_sw_r_as_gl_api_gl_i_dl_452VZQ1KWS4ZKMPR2J4B?linkCode=ml1&tag=noya0b-20&linkId=1c91fb3d3bb2f292b153c8a8026305b4"
+          },
           {
             "asin": "B01NCDWMPR",
             "slug": "bosch-itbh201-1-piece-2-in-impact-tough-magnetic-bit-holder",
@@ -37,17 +47,41 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/714srJ2c0eL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0073RAL3O/ref=cm_sw_r_as_gl_api_gl_i_dl_KDMPAN6D53RHFE11G2RN?linkCode=ml1&tag=noya0b-20&linkId=f788380f91bff0e5c26409f841d15254"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B0C879DRHW",
-            "slug": "the-princess-bride-the-criterion-collection-4k-uhd",
-            "title": "The Princess Bride (The Criterion Collection) [4K UHD]",
-            "price": "$24",
+            "asin": "B0G8LN26Q3",
+            "slug": "shiseido-clear-sunscreen-stick-invisible-broad-spectrum-face",
+            "title": "Shiseido Clear Sunscreen Stick - Invisible Broad-Spectrum Face Sunscreen - Wear Under & Over Makeup - Lightweight Formul",
+            "price": "$18",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81M6shZoulL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C879DRHW/ref=cm_sw_r_as_gl_api_gl_i_JNMXTAG35SZW9RHEW9M1?linkCode=ml1&tag=noya0b-20&linkId=b61aac6b45b16b77e63d53950262e630"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61RC4X0-VFL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G8LN26Q3/ref=cm_sw_r_as_gl_api_gl_i_dl_SRADJT4ZHH7DAQQ04DEN?linkCode=ml1&tag=noya0b-20&linkId=3003c0f35bfa0decc4045114d7ad683e"
+          },
+          {
+            "asin": "B0FRNKG5Z7",
+            "slug": "dove-men-care-shampoo-1-count-lime-cedar-for-real-hair-that",
+            "title": "DOVE MEN + CARE Shampoo 1 count Lime & Cedar for Real Hair that Powers Up Hair Strength, with Invigorating & Moisturizin",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71BB63JYJUL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FRNKG5Z7/ref=cm_sw_r_as_gl_api_gl_i_dl_WMP5PKFDPR7N5ZJGBD5V?linkCode=ml1&tag=noya0b-20&linkId=8ea7dede5e90be1fad44dc9c51c6327b"
+          },
+          {
+            "asin": "B0F62S3YD6",
+            "slug": "dove-24hr-lotion-body-wash-anti-stress-306-oz-moisturizing-b",
+            "title": "Dove 24hr Lotion Body Wash Anti-Stress, 30.6 oz | Moisturizing body wash with MicroMoisture and a calming blue chamomile",
+            "price": "$9.32",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71laIwJCjpL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F62S3YD6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Health": [
@@ -89,30 +123,6 @@
             "url": "https://www.amazon.com/dp/B0FKQCQJY7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B0FRNKG5Z7",
-            "slug": "dove-men-care-shampoo-1-count-lime-cedar-for-real-hair-that",
-            "title": "DOVE MEN + CARE Shampoo 1 count Lime & Cedar for Real Hair that Powers Up Hair Strength, with Invigorating & Moisturizin",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71BB63JYJUL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FRNKG5Z7/ref=cm_sw_r_as_gl_api_gl_i_dl_WMP5PKFDPR7N5ZJGBD5V?linkCode=ml1&tag=noya0b-20&linkId=8ea7dede5e90be1fad44dc9c51c6327b"
-          },
-          {
-            "asin": "B0F62S3YD6",
-            "slug": "dove-24hr-lotion-body-wash-anti-stress-306-oz-moisturizing-b",
-            "title": "Dove 24hr Lotion Body Wash Anti-Stress, 30.6 oz | Moisturizing body wash with MicroMoisture and a calming blue chamomile",
-            "price": "$9.32",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71laIwJCjpL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F62S3YD6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
         "Electronics": [
           {
             "asin": "B0C575J2DB",
@@ -125,22 +135,31 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0C575J2DB/ref=cm_sw_r_as_gl_api_gl_i_19N4HNTHEBDT97BB46S2?linkCode=ml1&tag=noya0b-20&linkId=bdae1595907dbe38f6d1c86a8a897949"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B086KTFMCL",
-            "slug": "hanes-mens-underwear-boxers-pack-cool-and-breathable-cotton",
-            "title": "Hanes mens Underwear Boxers Pack, Cool and Breathable Cotton Underwear, Exposed and Comfortflex Waistbands, Multi-pack",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/719Reb4xo1L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B086KTFMCL/ref=cm_sw_r_as_gl_api_gl_i_dl_7A2A7WS50DC077X262V9?linkCode=ml1&tag=noya0b-20&linkId=7201f5f8679e14feb51e33a72b7e919b"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B078H38V8F",
+          "slug": "hawaiian-shaved-ice-syrup-assortment-6-popular-16oz-flavors",
+          "title": "Hawaiian Shaved Ice Syrup Assortment, 6 Popular 16oz Flavors: Cherry, Grape, Blue Raspberry, Tiger's Blood, Lemon-Lime, ",
+          "price": "$25",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/810CoK5GwkL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B078H38V8F/ref=cm_sw_r_as_gl_api_gl_i_dl_452VZQ1KWS4ZKMPR2J4B?linkCode=ml1&tag=noya0b-20&linkId=1c91fb3d3bb2f292b153c8a8026305b4"
+        },
+        {
+          "asin": "B0G8LN26Q3",
+          "slug": "shiseido-clear-sunscreen-stick-invisible-broad-spectrum-face",
+          "title": "Shiseido Clear Sunscreen Stick - Invisible Broad-Spectrum Face Sunscreen - Wear Under & Over Makeup - Lightweight Formul",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61RC4X0-VFL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G8LN26Q3/ref=cm_sw_r_as_gl_api_gl_i_dl_SRADJT4ZHH7DAQQ04DEN?linkCode=ml1&tag=noya0b-20&linkId=3003c0f35bfa0decc4045114d7ad683e"
+        },
         {
           "asin": "B01NCDWMPR",
           "slug": "bosch-itbh201-1-piece-2-in-impact-tough-magnetic-bit-holder",
@@ -228,34 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71laIwJCjpL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F62S3YD6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0C879DRHW",
-          "slug": "the-princess-bride-the-criterion-collection-4k-uhd",
-          "title": "The Princess Bride (The Criterion Collection) [4K UHD]",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81M6shZoulL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C879DRHW/ref=cm_sw_r_as_gl_api_gl_i_JNMXTAG35SZW9RHEW9M1?linkCode=ml1&tag=noya0b-20&linkId=b61aac6b45b16b77e63d53950262e630"
-        },
-        {
-          "asin": "B086KTFMCL",
-          "slug": "hanes-mens-underwear-boxers-pack-cool-and-breathable-cotton",
-          "title": "Hanes mens Underwear Boxers Pack, Cool and Breathable Cotton Underwear, Exposed and Comfortflex Waistbands, Multi-pack",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/719Reb4xo1L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B086KTFMCL/ref=cm_sw_r_as_gl_api_gl_i_dl_7A2A7WS50DC077X262V9?linkCode=ml1&tag=noya0b-20&linkId=7201f5f8679e14feb51e33a72b7e919b"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"BOSCH ITBH201 1-Piece 2 In. Impact Tough Magnetic Bit Holder...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Health and are updated daily."
+          "a": "The best deals today include \"Hawaiian Shaved Ice Syrup Assortment, 6 Popular 16oz Flavors...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T09:50:02.238Z",
-      "updatedAt": "2026-06-26T09:50:02.238Z"
+      "generatedAt": "2026-06-26T10:00:01.582Z",
+      "updatedAt": "2026-06-26T10:00:01.582Z"
     },
     {
       "date": "2026-06-25",
@@ -4843,5 +4840,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T09:50:02.240Z"
+  "generatedAt": "2026-06-26T10:00:01.584Z"
 }
