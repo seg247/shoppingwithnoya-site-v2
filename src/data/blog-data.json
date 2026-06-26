@@ -8,14 +8,89 @@
       "categories": [
         "Beauty",
         "Other",
-        "Fashion",
-        "Cleaning Supplies",
-        "Electronics",
-        "Toys & Kids",
-        "Personal Care"
+        "Fashion"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0061JPJ3M",
+            "slug": "degree-men-advanced-antiperspirant-deodorant-everest-2-count",
+            "title": "Degree Men Advanced Antiperspirant Deodorant Everest 2 Count 72-Hour Sweat and Odor Protection Antiperspirant For Men Wi",
+            "price": "$4.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0061JPJ3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0DVMNN1PB",
+            "slug": "bundle-of-eos-shea-better-cashmere-body-wash",
+            "title": "Bundle of eos Shea Better Cashmere Body Wash",
+            "price": "$38",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WwvfhPh6L.jpg",
+            "url": "https://www.amazon.com/eos-Cashmere-Vanilla-Coconut-Champagne/dp/B0DVMNN1PB?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=4e76f85d76a9859ab9fb67e3e93a1293&language=en_US"
+          },
+          {
+            "asin": "B0DK5SQRM8",
+            "slug": "dove-shampoo-intensive-repair-for-damaged-hair-with-bio-prot",
+            "title": "Dove Shampoo Intensive Repair for Damaged Hair with Bio-Protein Care Technology and Amino Serum 28 Fl Oz",
+            "price": "$5.33",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DK5SQRM8?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0DK5SQRM8",
+            "slug": "dove-shampoo-intensive-repair-for-damaged-hair-with-bio-prot",
+            "title": "Dove Shampoo Intensive Repair for Damaged Hair with Bio-Protein Care Technology and Amino Serum 28 Fl Oz",
+            "price": "$5.33",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DK5SQRM8?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0GSC5HZZB",
+            "slug": "eos-vanilla-cashmere-skin-care-set",
+            "title": "eos Vanilla Cashmere Skin Care Set",
+            "price": "$44",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71XK0lzzG5L.jpg",
+            "url": "https://www.amazon.com/eos-Vanilla-Cashmere-Skin-Care/dp/B0GSC5HZZB?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=01aa87a41afdc22cef70581ad1351d88&language=en_US"
+          },
+          {
+            "asin": "B0CGSLVL8T",
+            "slug": "dr-groot-hair-thickening-shampoo-korean-hair-care-with-bioti",
+            "title": "Dr. Groot Hair Thickening Shampoo, Korean Hair Care with Biotin, Rosemary Oil to Help Volumize Thinning, Damaged Hair, H",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oeB6zIkRL.jpg",
+            "url": "https://www.amazon.com/dp/B0CGSLVL8T/ref=cm_sw_r_as_gl_apa_gl_i_dl_58XTMDZH1CXTHJ93WTG0?linkCode=ml1&tag=noya0b-20&linkId=6b703fc0575372d245312270df659460"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0CQKHCF7V",
+            "slug": "oak-essentials-ritual-oil",
+            "title": "Oak Essentials Ritual Oil",
+            "price": "$44",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51JeoHhMUHL.jpg",
+            "url": "https://www.amazon.com/Oak-Essentials-Womens-Ritual-Oil/dp/B0CQKHCF7V?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3d3000bc1f0ccf19da46068c382bb47d&language=en_US"
+          },
           {
             "asin": "B07GFP7H8C",
             "slug": "hp-sprocket-portable-photo-printer-2nd-edition",
@@ -39,41 +114,6 @@
             "url": "https://www.amazon.com/dp/B082JH7WXN/ref=cm_sw_r_as_gl_apa_gl_i_7FXN8Q4F6XRMJG2TZ0SH?linkCode=ml1&tag=noya0b-20&linkId=24b99a8309d02c6fe3b8a8c22cc73f2d"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B0GSC5HZZB",
-            "slug": "eos-vanilla-cashmere-skin-care-set",
-            "title": "eos Vanilla Cashmere Skin Care Set",
-            "price": "$44",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71XK0lzzG5L.jpg",
-            "url": "https://www.amazon.com/eos-Vanilla-Cashmere-Skin-Care/dp/B0GSC5HZZB?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=01aa87a41afdc22cef70581ad1351d88&language=en_US"
-          },
-          {
-            "asin": "B0CGSLVL8T",
-            "slug": "dr-groot-hair-thickening-shampoo-korean-hair-care-with-bioti",
-            "title": "Dr. Groot Hair Thickening Shampoo, Korean Hair Care with Biotin, Rosemary Oil to Help Volumize Thinning, Damaged Hair, H",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oeB6zIkRL.jpg",
-            "url": "https://www.amazon.com/dp/B0CGSLVL8T/ref=cm_sw_r_as_gl_apa_gl_i_dl_58XTMDZH1CXTHJ93WTG0?linkCode=ml1&tag=noya0b-20&linkId=6b703fc0575372d245312270df659460"
-          },
-          {
-            "asin": "B07X7G383C",
-            "slug": "tula-skin-care-spresso-energizing-eye-balm-energizing-hydrat",
-            "title": "TULA Skin Care Spresso Energizing Eye Balm - Energizing & Hydrating Caffeine Under Eye Treatment for Dark Circles, Porta",
-            "price": "$26",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-0jm9sFXL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07X7G383C/ref=cm_sw_r_as_gl_apa_gl_i_dl_7QQ9ZC73PSZ4DAQR70AB?linkCode=ml1&tag=noya0b-20&linkId=df654d8b963f9f39b7c9203d9fd555ef"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B099SZ9PV7",
@@ -86,61 +126,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71TbQSgnWBL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/New-Balance-Sneaker-Marblehead-Cloud/dp/B099SZ9PV7?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7b38674753b22a22dcc9e438d5939784&language=en_US"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0GN4KSLZJ",
-            "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
-            "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/61-JV6H2WKL.jpg",
-            "url": "https://www.amazon.com/dp/B0GN4KSLZJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PEJTJH5NTVS4NWFKQRHW?linkCode=ml1&tag=noya0b-20&linkId=5029e2ddb0106812b179f128fe0b6497"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0D8K3WN1S",
-            "slug": "jlab-flex-open-ear-earbuds-clip-on-wireless-bluetooth-earbud",
-            "title": "JLab, Flex, Open Ear Earbuds, Clip On Wireless Bluetooth Earbuds",
-            "price": "$25",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71kDkXPhgNL.jpg",
-            "url": "https://www.amazon.com/JLab-Effortless-Listening-Bluetooth-Multipoint/dp/B0D8K3WN1S?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b5f090d4f08efe2b603aa01c96704598&language=en_US"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0CPQ54PQ5",
-            "slug": "lego-technic-lamborghini-huracn-tecnica-orange-toy-cars-buil",
-            "title": "LEGO Technic Lamborghini Huracán Tecnica Orange Toy Cars - Building Toys for Kids, Boys & Girls, Ages 9+ - Lamborghini T",
-            "price": "$34",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81w4luhxYqL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CPQ54PQ5/ref=cm_sw_r_as_gl_apa_gl_i_dl_B09F5PJV03N9G1M8XV0V?linkCode=ml1&tag=noya0b-20&linkId=06699561515e60617c79a9d63a321a7e"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0D9WVYHL6",
-            "slug": "oura-ring-4-smart-ring-brushed-silver-size-8-sleep-activity",
-            "title": "Oura Ring 4, Smart Ring - Brushed Silver - Size 8 - Sleep, Activity, Women's Health, AI Advisor, Up to 8 Days of Battery",
-            "price": "$226.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51yQA1CgzLL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B0D9WVYHL6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0061JPJ3M",
+          "slug": "degree-men-advanced-antiperspirant-deodorant-everest-2-count",
+          "title": "Degree Men Advanced Antiperspirant Deodorant Everest 2 Count 72-Hour Sweat and Odor Protection Antiperspirant For Men Wi",
+          "price": "$4.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0061JPJ3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0CQKHCF7V",
+          "slug": "oak-essentials-ritual-oil",
+          "title": "Oak Essentials Ritual Oil",
+          "price": "$44",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51JeoHhMUHL.jpg",
+          "url": "https://www.amazon.com/Oak-Essentials-Womens-Ritual-Oil/dp/B0CQKHCF7V?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3d3000bc1f0ccf19da46068c382bb47d&language=en_US"
+        },
+        {
+          "asin": "B0DVMNN1PB",
+          "slug": "bundle-of-eos-shea-better-cashmere-body-wash",
+          "title": "Bundle of eos Shea Better Cashmere Body Wash",
+          "price": "$38",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WwvfhPh6L.jpg",
+          "url": "https://www.amazon.com/eos-Cashmere-Vanilla-Coconut-Champagne/dp/B0DVMNN1PB?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=4e76f85d76a9859ab9fb67e3e93a1293&language=en_US"
+        },
+        {
+          "asin": "B0DK5SQRM8",
+          "slug": "dove-shampoo-intensive-repair-for-damaged-hair-with-bio-prot",
+          "title": "Dove Shampoo Intensive Repair for Damaged Hair with Bio-Protein Care Technology and Amino Serum 28 Fl Oz",
+          "price": "$5.33",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DK5SQRM8?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DK5SQRM8",
+          "slug": "dove-shampoo-intensive-repair-for-damaged-hair-with-bio-prot",
+          "title": "Dove Shampoo Intensive Repair for Damaged Hair with Bio-Protein Care Technology and Amino Serum 28 Fl Oz",
+          "price": "$5.33",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DK5SQRM8?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B07GFP7H8C",
           "slug": "hp-sprocket-portable-photo-printer-2nd-edition",
@@ -195,67 +238,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71TbQSgnWBL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/New-Balance-Sneaker-Marblehead-Cloud/dp/B099SZ9PV7?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7b38674753b22a22dcc9e438d5939784&language=en_US"
-        },
-        {
-          "asin": "B0GN4KSLZJ",
-          "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
-          "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/61-JV6H2WKL.jpg",
-          "url": "https://www.amazon.com/dp/B0GN4KSLZJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PEJTJH5NTVS4NWFKQRHW?linkCode=ml1&tag=noya0b-20&linkId=5029e2ddb0106812b179f128fe0b6497"
-        },
-        {
-          "asin": "B0D8K3WN1S",
-          "slug": "jlab-flex-open-ear-earbuds-clip-on-wireless-bluetooth-earbud",
-          "title": "JLab, Flex, Open Ear Earbuds, Clip On Wireless Bluetooth Earbuds",
-          "price": "$25",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71kDkXPhgNL.jpg",
-          "url": "https://www.amazon.com/JLab-Effortless-Listening-Bluetooth-Multipoint/dp/B0D8K3WN1S?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b5f090d4f08efe2b603aa01c96704598&language=en_US"
-        },
-        {
-          "asin": "B0CPQ54PQ5",
-          "slug": "lego-technic-lamborghini-huracn-tecnica-orange-toy-cars-buil",
-          "title": "LEGO Technic Lamborghini Huracán Tecnica Orange Toy Cars - Building Toys for Kids, Boys & Girls, Ages 9+ - Lamborghini T",
-          "price": "$34",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81w4luhxYqL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CPQ54PQ5/ref=cm_sw_r_as_gl_apa_gl_i_dl_B09F5PJV03N9G1M8XV0V?linkCode=ml1&tag=noya0b-20&linkId=06699561515e60617c79a9d63a321a7e"
-        },
-        {
-          "asin": "B07X7G383C",
-          "slug": "tula-skin-care-spresso-energizing-eye-balm-energizing-hydrat",
-          "title": "TULA Skin Care Spresso Energizing Eye Balm - Energizing & Hydrating Caffeine Under Eye Treatment for Dark Circles, Porta",
-          "price": "$26",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71-0jm9sFXL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07X7G383C/ref=cm_sw_r_as_gl_apa_gl_i_dl_7QQ9ZC73PSZ4DAQR70AB?linkCode=ml1&tag=noya0b-20&linkId=df654d8b963f9f39b7c9203d9fd555ef"
-        },
-        {
-          "asin": "B0D9WVYHL6",
-          "slug": "oura-ring-4-smart-ring-brushed-silver-size-8-sleep-activity",
-          "title": "Oura Ring 4, Smart Ring - Brushed Silver - Size 8 - Sleep, Activity, Women's Health, AI Advisor, Up to 8 Days of Battery",
-          "price": "$226.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/51yQA1CgzLL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B0D9WVYHL6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"HP Sprocket Portable Photo Printer (2nd Edition)...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Fashion and are updated daily."
+          "a": "The best deals today include \"Degree Men Advanced Antiperspirant Deodorant Everest 2 Count...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +262,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T08:00:01.903Z",
-      "updatedAt": "2026-06-26T08:00:01.903Z"
+      "generatedAt": "2026-06-26T08:10:01.478Z",
+      "updatedAt": "2026-06-26T08:10:01.478Z"
     },
     {
       "date": "2026-06-25",
@@ -4843,5 +4831,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T08:00:01.905Z"
+  "generatedAt": "2026-06-26T08:10:01.480Z"
 }
