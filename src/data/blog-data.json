@@ -9,7 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Beauty"
+        "Beauty",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Other": [
@@ -117,17 +118,19 @@
             "category": "Beauty",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
-          },
+          }
+        ],
+        "Garden & Outdoor": [
           {
-            "asin": "B0D4SBLLRJ",
-            "slug": "rare-30-off-olaplex",
-            "title": "RARE! 30% off OLAPLEX!",
-            "price": "$47",
-            "discount": 30,
+            "asin": "B0CSFKKF83",
+            "slug": "abba-patio-9ft-lyon-outdoor-patio-umbrella-outdoor-table-umb",
+            "title": "Abba Patio 9FT Lyon Outdoor Patio Umbrella Outdoor Table Umbrella with Push Button Tilt and Crank Market Umbrella 8 Stur",
+            "price": "$28",
+            "discount": 43,
             "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
-            "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=df5455d96ba6e98d0e1cbdfd058020f2&language=en_US"
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/51I-9CkCb5L.jpg",
+            "url": "https://www.amazon.com/dp/B0CSFKKF83?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -188,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
         },
         {
+          "asin": "B0CSFKKF83",
+          "slug": "abba-patio-9ft-lyon-outdoor-patio-umbrella-outdoor-table-umb",
+          "title": "Abba Patio 9FT Lyon Outdoor Patio Umbrella Outdoor Table Umbrella with Push Button Tilt and Crank Market Umbrella 8 Stur",
+          "price": "$28",
+          "discount": 43,
+          "rating": "HOT",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/51I-9CkCb5L.jpg",
+          "url": "https://www.amazon.com/dp/B0CSFKKF83?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0CF44NW5G",
           "slug": "yaheetech-armless-desk-chair-modern-tufted-office-chair-faux",
           "title": "Yaheetech Armless Desk Chair Modern Tufted Office Chair Faux Leather Upholstered Computer Chair with Adjustable Seat Hei",
@@ -230,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71URVhjbOhL._AC_SL1500_.jpg",
           "url": "https://amazon.com/dp/B0BJYR1Z6N?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0D4SBLLRJ",
-          "slug": "rare-30-off-olaplex",
-          "title": "RARE! 30% off OLAPLEX!",
-          "price": "$47",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
-          "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=df5455d96ba6e98d0e1cbdfd058020f2&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T22:30:01.784Z",
-      "updatedAt": "2026-06-26T22:30:01.784Z"
+      "generatedAt": "2026-06-26T22:40:01.722Z",
+      "updatedAt": "2026-06-26T22:40:01.722Z"
     },
     {
       "date": "2026-06-25",
@@ -4834,5 +4837,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T22:30:01.786Z"
+  "generatedAt": "2026-06-26T22:40:01.724Z"
 }
