@@ -9,10 +9,57 @@
         "Other",
         "Beauty",
         "Garden & Outdoor",
-        "Home & Kitchen",
-        "Grocery & Food"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0D6ZPNZ4Z",
+            "slug": "sol-de-janeiro-cheirosa-hair-body-perfume-mist",
+            "title": "Sol de Janeiro Cheirosa Hair & Body Perfume Mist",
+            "price": "$21",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71yWK9nzCTL._SL1500_.jpg",
+            "url": "https://www.amazon.com/SOL-JANEIRO-Cheirosa-Fragrance-240mL/dp/B0D6ZPNZ4Z?campaignId=amzn1.campaign.11RIKDX3NG0Y&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=1004f0473e81f8e6b617cf3d781eaa80&language=en_US"
+          },
+          {
+            "asin": "B0BF2CLRG2",
+            "slug": "sol-de-janeiro-perfume-cheirosa-62-perfume",
+            "title": "Sol de Janeiro Perfume Cheirosa 62 Perfume",
+            "price": "$47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71S+5pnW+XL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BF2CLRG2?th=1&linkCode=sl2&tag=noya0b-20&linkId=e88aabddfbcbb5239215e579a4197594&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0GCT95P83",
+            "slug": "fiskars-ergo-garden-trowel-for-digging-and-planting-heavy-du",
+            "title": "Fiskars Ergo Garden Trowel for Digging and Planting, Heavy Duty Gardening Hand Tool with Hanging Hole, Pack of 6",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LaqCACBKL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GCT95P83?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B06WLJH9TB",
+            "slug": "blackdecker-20v-max-sheet-sander-bdcms20c",
+            "title": "BLACK+DECKER 20V MAX* Sheet Sander (BDCMS20C)",
+            "price": "$35.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71gnRBriZRL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B06WLJH9TB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Other": [
           {
             "asin": "B0049PJMYC",
@@ -70,43 +117,6 @@
             "url": "https://www.amazon.com/dp/B07XD68GX6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B06WLJH9TB",
-            "slug": "blackdecker-20v-max-sheet-sander-bdcms20c",
-            "title": "BLACK+DECKER 20V MAX* Sheet Sander (BDCMS20C)",
-            "price": "$35.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71gnRBriZRL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B06WLJH9TB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0BF2CLRG2",
-            "slug": "sol-de-janeiro-perfume-cheirosa-62-perfume",
-            "title": "Sol de Janeiro Perfume Cheirosa 62 Perfume",
-            "price": "$47",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71S+5pnW+XL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BF2CLRG2?th=1&linkCode=sl2&tag=noya0b-20&linkId=e88aabddfbcbb5239215e579a4197594&language=en_US"
-          },
-          {
-            "asin": "B0CG4ZPVR8",
-            "slug": "the-original-makeup-eraser-7-day-set",
-            "title": "The Original Makeup Eraser 7-Day Set",
-            "price": "$17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
-            "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
-          }
-        ],
         "Home & Kitchen": [
           {
             "asin": "B00HCZ0XBM",
@@ -119,22 +129,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71iyZVpm+6L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00HCZ0XBM/ref=cm_sw_r_as_gl_apa_gl_i_dl_N388H9SYDWEV9Z3THMKR?linkCode=ml1&tag=noya0b-20&linkId=2841c85e2e0913192e39b33992520110"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0B81D7CXR",
-            "slug": "2-gallon-beverage-serveware-with-stainless-steel-spigot-mark",
-            "title": "2 Gallon Beverage Serveware with Stainless Steel Spigot + Marker & Chalkboard 100% Leakproof Glass Drink Dispenser for P",
-            "price": "$28",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dfAYZd4kL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0B81D7CXR/ref=cm_sw_r_as_gl_apa_gl_i_BCWHK99FPCEPHJ4E8230?linkCode=ml1&tag=noya0b-20&linkId=826a880e2670686bc3dece38a14dc4e9"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D6ZPNZ4Z",
+          "slug": "sol-de-janeiro-cheirosa-hair-body-perfume-mist",
+          "title": "Sol de Janeiro Cheirosa Hair & Body Perfume Mist",
+          "price": "$21",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71yWK9nzCTL._SL1500_.jpg",
+          "url": "https://www.amazon.com/SOL-JANEIRO-Cheirosa-Fragrance-240mL/dp/B0D6ZPNZ4Z?campaignId=amzn1.campaign.11RIKDX3NG0Y&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=1004f0473e81f8e6b617cf3d781eaa80&language=en_US"
+        },
+        {
+          "asin": "B0GCT95P83",
+          "slug": "fiskars-ergo-garden-trowel-for-digging-and-planting-heavy-du",
+          "title": "Fiskars Ergo Garden Trowel for Digging and Planting, Heavy Duty Gardening Hand Tool with Hanging Hole, Pack of 6",
+          "price": "$19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LaqCACBKL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GCT95P83?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0049PJMYC",
           "slug": "rain-bird-t22-250s-drip-irrigation-14-blank-distribution-tub",
@@ -222,34 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71iyZVpm+6L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00HCZ0XBM/ref=cm_sw_r_as_gl_apa_gl_i_dl_N388H9SYDWEV9Z3THMKR?linkCode=ml1&tag=noya0b-20&linkId=2841c85e2e0913192e39b33992520110"
-        },
-        {
-          "asin": "B0B81D7CXR",
-          "slug": "2-gallon-beverage-serveware-with-stainless-steel-spigot-mark",
-          "title": "2 Gallon Beverage Serveware with Stainless Steel Spigot + Marker & Chalkboard 100% Leakproof Glass Drink Dispenser for P",
-          "price": "$28",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71dfAYZd4kL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0B81D7CXR/ref=cm_sw_r_as_gl_apa_gl_i_BCWHK99FPCEPHJ4E8230?linkCode=ml1&tag=noya0b-20&linkId=826a880e2670686bc3dece38a14dc4e9"
-        },
-        {
-          "asin": "B0CG4ZPVR8",
-          "slug": "the-original-makeup-eraser-7-day-set",
-          "title": "The Original Makeup Eraser 7-Day Set",
-          "price": "$17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
-          "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"Rain Bird T22-250S Drip Irrigation 1/4\" Blank Distribution T...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Sol de Janeiro Cheirosa Hair & Body Perfume Mist...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T06:00:01.452Z",
-      "updatedAt": "2026-06-26T06:00:01.452Z"
+      "generatedAt": "2026-06-26T06:10:01.619Z",
+      "updatedAt": "2026-06-26T06:10:01.619Z"
     },
     {
       "date": "2026-06-25",
@@ -4837,5 +4834,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T06:00:01.454Z"
+  "generatedAt": "2026-06-26T06:10:01.621Z"
 }
