@@ -4,13 +4,13 @@
       "date": "2026-06-26",
       "slug": "2026-06-26",
       "title": "🔥 Best Deals Today — June 26, 2026",
-      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Other and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Beauty, Electronics, Home & Kitchen and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
-        "Home & Kitchen",
-        "Other",
-        "Fashion",
         "Electronics",
+        "Home & Kitchen",
+        "Grocery & Food",
+        "Fashion",
         "Garden & Outdoor"
       ],
       "byCategory": {
@@ -27,6 +27,17 @@
             "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
           },
           {
+            "asin": "B001ET7IQK",
+            "slug": "dove-beauty-bar-soap-sensitive-8-bars-for-sensitive-skin-fra",
+            "title": "Dove Beauty Bar Soap Sensitive, 8 Bars for Sensitive Skin, Fragrance Free and Hypoallergenic 3.75 oz",
+            "price": "$8.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B001ET7IQK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
             "asin": "B0DB6CDLSM",
             "slug": "dove-hair-intensive-repair-10in1-serum-mask-for-damaged-hair",
             "title": "Dove Hair Intensive Repair 10in1 Serum Mask for Damaged Hair with Bio-Protein Care Technology and Amino Serum 9.2 fl oz",
@@ -36,17 +47,67 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/714kukzr5FL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DB6CDLSM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B08R4XX2QR",
-            "slug": "tigi-bed-head-manipulator-texturizing-putty-firm-hold-stylin",
-            "title": "TIGI Bed Head Manipulator Texturizing Putty, Firm Hold Styling Putty for Short to Medium Hair, 2.01 oz : Beauty & Person",
-            "price": "$8",
+            "asin": "B00008WQ3L",
+            "slug": "kamenstein-20-jar-revolving-countertop-spice-rack-with-spice",
+            "title": "Kamenstein 20 Jar Revolving Countertop Spice Rack with Spices Included, FREE Spice Refills for 5 Years, Polished Stainle",
+            "price": "$24",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Pk1J3ag9L.jpg",
-            "url": "https://www.amazon.com/Head-TIGI-Manipulator-Texturizing-Putty/dp/B08R4XX2QR?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=5f83969c1c1e10a8f92530236cca6018&language=en_US"
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Kamenstein-30020-Revolving-Countertop-Refills/dp/B00008WQ3L?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d0c10c1d58f265e079713b01d6ca1172&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DDQLGDY3",
+            "slug": "beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
+            "title": "\udecd️Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful a",
+            "price": "$199.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51lI3NHA7-L.jpg",
+            "url": "https://www.amazon.com/dp/B0DDQLGDY3?th=1&linkCode=sl2&tag=noya0b-20&linkId=1d179c60f82797d3f2c0988f970bb47e&language=en_US"
+          },
+          {
+            "asin": "B0BCQT2FJJ",
+            "slug": "google-nest-wifi-pro-wi-fi-6e-reliable-home-wi-fi-system-wit",
+            "title": "Google Nest WiFi Pro - Wi-Fi 6E - Reliable Home Wi-Fi System with Fast Speed and Whole Home Coverage - Mesh Router - Sno",
+            "price": "$85",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Google-Nest-WiFi-Pro-Reliable/dp/B0BCQT2FJJ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=540a3659df683415442372f7c9a10ffd&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0DRB5CD7P",
+            "slug": "owala-freesip-insulated-stainless-steel-water-bottle-with-st",
+            "title": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free Sports Water Bottle, 32 ",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DRB5CD7P?social_share=cm_sw_r_cso_cp_apin_dp_EQXZCZBZHZKPQMNPQZJJ&rsd=oJeWDg%2FK81hclhe054fBwcMoQCTONZ35i%2BFTIH3abq3Dq0F7cFqerIfV7ASD7cbzpg0cxyd7BZczIm7Hq2YgpFkigQ17p%2FOB5IXx%2BdQ7EZmMBCd8mzxQoC777A%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHwq%2FrL1S6mtGLISerfpIzHAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmqjgFoonJST8V1mgAgEQgDtCUMmhLvAMHbSoG1bYSwGBjI%2BPjz8vjPlwtbCouoOgRDoZXKtmz%2FvEj5IuAtSGnQw9K1nX7ntufTn4NQ%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a4aed93bd9081384102b0d6a31d8e2cb&language=en_US"
+          },
+          {
+            "asin": "B08JLP74L7",
+            "slug": "ddf-iohef-nakiri-kitchen-knife-chefs-knife-in-japanese-stain",
+            "title": "DDF iohEF Nakiri Kitchen Knife, Chef's Knife In Japanese Stainless Steel Professional Cooking Knives, Non-slip Ultra Sha",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/519OWcUb8YL.jpg",
+            "url": "https://www.amazon.com/dp/B08JLP74L7?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -62,43 +123,6 @@
             "url": "https://www.amazon.com/Crocs-Classic-Marbled-Pepper-Toddler/dp/B0BX7CJMZS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ff479084a927b506bbc2f7965d25c1d9&language=en_US"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B08JLP74L7",
-            "slug": "ddf-iohef-nakiri-kitchen-knife-chefs-knife-in-japanese-stain",
-            "title": "DDF iohEF Nakiri Kitchen Knife, Chef's Knife In Japanese Stainless Steel Professional Cooking Knives, Non-slip Ultra Sha",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/519OWcUb8YL.jpg",
-            "url": "https://www.amazon.com/dp/B08JLP74L7?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0DZFGTCLR",
-            "slug": "innqoo-candle-warmer-lamp-with-timer-dimmable-candle-warmer",
-            "title": "Innqoo Candle Warmer Lamp with Timer, Dimmable Candle Warmer for Jar Candles, Height Adjustable Wax Melts Warmer, Birthd",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71t96oyL+UL.jpg",
-            "url": "https://www.amazon.com/dp/B0DZFGTCLR?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4904121b9d23680bd328be72d2a2505&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BCQT2FJJ",
-            "slug": "google-nest-wifi-pro-wi-fi-6e-reliable-home-wi-fi-system-wit",
-            "title": "Google Nest WiFi Pro - Wi-Fi 6E - Reliable Home Wi-Fi System with Fast Speed and Whole Home Coverage - Mesh Router - Sno",
-            "price": "$85",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Google-Nest-WiFi-Pro-Reliable/dp/B0BCQT2FJJ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=540a3659df683415442372f7c9a10ffd&language=en_US"
-          }
-        ],
         "Garden & Outdoor": [
           {
             "asin": "B0845GT2W2",
@@ -110,30 +134,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0845GT2W2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0CSTDG98Z",
-            "slug": "always-discreet-adult-incontinence-pads-for-women-drier-4-dr",
-            "title": "\udecd️Always Discreet Adult Incontinence Pads for Women, Drier, 4 Drop Regular Length, Moderate Absorbency, Pads for Bladder",
-            "price": "$22.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/810ytqj97bL.jpg",
-            "url": "https://www.amazon.com/dp/B0CSTDG98Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=8bf7b2522342bc5e341a1b8885c92d29&language=en_US"
-          },
-          {
-            "asin": "B0DRRV1WLR",
-            "slug": "super-cute-9xx-raised-on-90s-country-shirt",
-            "title": "Super cute! 🤠 $9.xx Raised on 90s Country Shirt",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Pru4Ht9-L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DRRV1WLR?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=06ac53ddf49951058099feb7b951d075&language=en_US"
           }
         ]
       },
@@ -148,6 +148,50 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
+        },
+        {
+          "asin": "B00008WQ3L",
+          "slug": "kamenstein-20-jar-revolving-countertop-spice-rack-with-spice",
+          "title": "Kamenstein 20 Jar Revolving Countertop Spice Rack with Spices Included, FREE Spice Refills for 5 Years, Polished Stainle",
+          "price": "$24",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Kamenstein-30020-Revolving-Countertop-Refills/dp/B00008WQ3L?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d0c10c1d58f265e079713b01d6ca1172&language=en_US"
+        },
+        {
+          "asin": "B0DDQLGDY3",
+          "slug": "beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
+          "title": "\udecd️Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful a",
+          "price": "$199.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51lI3NHA7-L.jpg",
+          "url": "https://www.amazon.com/dp/B0DDQLGDY3?th=1&linkCode=sl2&tag=noya0b-20&linkId=1d179c60f82797d3f2c0988f970bb47e&language=en_US"
+        },
+        {
+          "asin": "B0DRB5CD7P",
+          "slug": "owala-freesip-insulated-stainless-steel-water-bottle-with-st",
+          "title": "Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free Sports Water Bottle, 32 ",
+          "price": "$27",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DRB5CD7P?social_share=cm_sw_r_cso_cp_apin_dp_EQXZCZBZHZKPQMNPQZJJ&rsd=oJeWDg%2FK81hclhe054fBwcMoQCTONZ35i%2BFTIH3abq3Dq0F7cFqerIfV7ASD7cbzpg0cxyd7BZczIm7Hq2YgpFkigQ17p%2FOB5IXx%2BdQ7EZmMBCd8mzxQoC777A%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHwq%2FrL1S6mtGLISerfpIzHAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmqjgFoonJST8V1mgAgEQgDtCUMmhLvAMHbSoG1bYSwGBjI%2BPjz8vjPlwtbCouoOgRDoZXKtmz%2FvEj5IuAtSGnQw9K1nX7ntufTn4NQ%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a4aed93bd9081384102b0d6a31d8e2cb&language=en_US"
+        },
+        {
+          "asin": "B001ET7IQK",
+          "slug": "dove-beauty-bar-soap-sensitive-8-bars-for-sensitive-skin-fra",
+          "title": "Dove Beauty Bar Soap Sensitive, 8 Bars for Sensitive Skin, Fragrance Free and Hypoallergenic 3.75 oz",
+          "price": "$8.79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B001ET7IQK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "B0BX7CJMZS",
@@ -203,56 +247,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0845GT2W2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B08R4XX2QR",
-          "slug": "tigi-bed-head-manipulator-texturizing-putty-firm-hold-stylin",
-          "title": "TIGI Bed Head Manipulator Texturizing Putty, Firm Hold Styling Putty for Short to Medium Hair, 2.01 oz : Beauty & Person",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Pk1J3ag9L.jpg",
-          "url": "https://www.amazon.com/Head-TIGI-Manipulator-Texturizing-Putty/dp/B08R4XX2QR?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=5f83969c1c1e10a8f92530236cca6018&language=en_US"
-        },
-        {
-          "asin": "B0CSTDG98Z",
-          "slug": "always-discreet-adult-incontinence-pads-for-women-drier-4-dr",
-          "title": "\udecd️Always Discreet Adult Incontinence Pads for Women, Drier, 4 Drop Regular Length, Moderate Absorbency, Pads for Bladder",
-          "price": "$22.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/810ytqj97bL.jpg",
-          "url": "https://www.amazon.com/dp/B0CSTDG98Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=8bf7b2522342bc5e341a1b8885c92d29&language=en_US"
-        },
-        {
-          "asin": "B0DRRV1WLR",
-          "slug": "super-cute-9xx-raised-on-90s-country-shirt",
-          "title": "Super cute! 🤠 $9.xx Raised on 90s Country Shirt",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Pru4Ht9-L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DRRV1WLR?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=06ac53ddf49951058099feb7b951d075&language=en_US"
-        },
-        {
-          "asin": "B0DZFGTCLR",
-          "slug": "innqoo-candle-warmer-lamp-with-timer-dimmable-candle-warmer",
-          "title": "Innqoo Candle Warmer Lamp with Timer, Dimmable Candle Warmer for Jar Candles, Height Adjustable Wax Melts Warmer, Birthd",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71t96oyL+UL.jpg",
-          "url": "https://www.amazon.com/dp/B0DZFGTCLR?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4904121b9d23680bd328be72d2a2505&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"Baby Dove Sensitive Skin Care Body Lotion For Delicate Baby ...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"Baby Dove Sensitive Skin Care Body Lotion For Delicate Baby ...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T14:40:01.838Z",
-      "updatedAt": "2026-06-26T14:40:01.838Z"
+      "generatedAt": "2026-06-26T14:50:01.803Z",
+      "updatedAt": "2026-06-26T14:50:01.803Z"
     },
     {
       "date": "2026-06-25",
@@ -4840,5 +4840,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T14:40:01.840Z"
+  "generatedAt": "2026-06-26T14:50:01.805Z"
 }
