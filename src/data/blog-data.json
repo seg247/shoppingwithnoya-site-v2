@@ -9,10 +9,72 @@
         "Other",
         "Fashion",
         "Toys & Kids",
-        "Home & Kitchen",
-        "Electronics"
+        "Grocery & Food",
+        "Beauty",
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0D184PR6H",
+            "slug": "amazon-fresh-enriched-bread-flour-unbleached-5-lb-pack-of-2",
+            "title": "Amazon Fresh, Enriched Bread Flour, Unbleached, 5 Lb (Pack of 2) : Grocery & Gourmet Food",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71qxHDF8anL.jpg",
+            "url": "https://www.amazon.com/dp/B0D184PR6H/ref=cm_sw_r_as_gl_api_gl_i_V2PD6YMBQHSAFH8BXVPM?linkCode=ml1&tag=noya0b-20&linkId=012669b5a0686f9ccefadcb792c82683"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B003DTMPQ2",
+            "slug": "vanity-fair-womens-full-figure-beauty-back-smoothing-bra-4-w",
+            "title": "\udecd️Vanity Fair Women's Full Figure Beauty Back Smoothing Bra, 4 Way Stretch Fabric, Lightly Lined Cups up to H - Underwir",
+            "price": "$54.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81AU959-vuL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B003DTMPQ2?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b7142c056c1571666ab658e7a098f2ed&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0FXHH3JLJ",
+            "slug": "blokees-star-wars-ep-v-the-empire-strikes-back-darth-vader-m",
+            "title": "BLOKEES - Star Wars EP V - The Empire Strikes Back - Darth Vader Model Kit - Assembly Required - No Tools - No Paint - N",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FXHH3JLJ/ref=cm_sw_r_as_gl_api_gl_i_VXPYB487EEY6T72YEZ2B?linkCode=ml1&tag=noya0b-20&linkId=a9d73df3d516040efbc830c49f1d1e36"
+          },
+          {
+            "asin": "B0DM12W1WL",
+            "slug": "melodysusie-nail-clippers-set-2-in-1-toenail-clippers-nail-c",
+            "title": "MelodySusie Nail Clippers Set, 2 in 1 Toenail Clippers Nail Clippers for Women, Ultra Sharp Stainless Steel Fingernail N",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Rcuc7zboL.jpg",
+            "url": "https://www.amazon.com/dp/B0DM12W1WL/ref=cm_sw_r_as_gl_api_gl_i_A9B9DQQ2E4C2K9NCWDQ1?linkCode=ml1&tag=noya0b-20&linkId=0a7fe3a336a9a3c07663dedbbdb4887c"
+          },
+          {
+            "asin": "B00464740A",
+            "slug": "scotch-sure-start-packing-tape-clear-quiet-unwind-and-easy-s",
+            "title": "\udecd️Scotch Sure Start Packing Tape, Clear, Quiet Unwind and Easy Start, 1.88 in. x 22.2 yd., 6 Tape Rolls with Dispensers",
+            "price": "$18.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00464740A?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f89811fd27edf7f84167a2985f85012&language=en_US"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0C8BDMXDN",
@@ -61,52 +123,6 @@
             "url": "https://www.amazon.com/dp/B0DRW6QMK7/ref=cm_sw_r_as_gl_api_gl_i_N5VRYD6WVVGE5QRA0HNT?linkCode=ml1&tag=noya0b-20&linkId=f0e7a398b0468483c4aefdc826f35887"
           }
         ],
-        "Other": [
-          {
-            "asin": "B00464740A",
-            "slug": "scotch-sure-start-packing-tape-clear-quiet-unwind-and-easy-s",
-            "title": "\udecd️Scotch Sure Start Packing Tape, Clear, Quiet Unwind and Easy Start, 1.88 in. x 22.2 yd., 6 Tape Rolls with Dispensers",
-            "price": "$18.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00464740A?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f89811fd27edf7f84167a2985f85012&language=en_US"
-          },
-          {
-            "asin": "B084LMB61R",
-            "slug": "cricut-joy-smart-iron-on-black",
-            "title": "\udecd️Cricut Joy Smart Iron On Black",
-            "price": "$2.69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B084LMB61R?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a07fe6d8b211ae34522e913b931d7d5&language=en_US"
-          },
-          {
-            "asin": "B00006IFAQ",
-            "slug": "paper-mate-pink-pearl-erasers-large-3-count",
-            "title": "\udecd️Paper Mate Pink Pearl Erasers, Large, 3 Count",
-            "price": "$3.13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00006IFAQ?linkCode=sl2&tag=noya0b-20&linkId=385d92f81fa530177bb89a385289e666&language=en_US"
-          },
-          {
-            "asin": "B0FHJZTTGS",
-            "slug": "liftoza-toddler-travel-bed-sandwich-style-portable-toddlers",
-            "title": "liftoza Toddler Travel Bed Sandwich Style - Portable Toddlers Floor Beds, Foldable Soft Foam Travel Crib for Baby and Ki",
-            "price": "$69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PKohzpwOL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHJZTTGS/ref=cm_sw_r_as_gl_api_gl_i_dl_A1VDA1HM30DVMZAE7MTA?linkCode=ml1&tag=noya0b-20&linkId=1c70647109fc24e2dc2e0866a1a12553"
-          }
-        ],
         "Home & Kitchen": [
           {
             "asin": "B09NZQ3WS6",
@@ -119,22 +135,53 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B09NZQ3WS6/ref=cm_sw_r_as_gl_api_gl_i_dl_F61D5JTANT7Q9SYW827M?linkCode=ml1&tag=noya0b-20&linkId=064ad1947b96555edcb042a9bffee0fe"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B01CJGXMU2",
-            "slug": "nature-made-magnesium-250mg-100-tablets",
-            "title": "\udecd️Nature Made Magnesium 250mg, 100 Tablets",
-            "price": "$6.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ki8X3htUL.jpg",
-            "url": "https://www.amazon.com/dp/B01CJGXMU2?th=1&linkCode=sl2&tag=noya0b-20&linkId=984fd159450d16d1010bf1e164190ded&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D184PR6H",
+          "slug": "amazon-fresh-enriched-bread-flour-unbleached-5-lb-pack-of-2",
+          "title": "Amazon Fresh, Enriched Bread Flour, Unbleached, 5 Lb (Pack of 2) : Grocery & Gourmet Food",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qxHDF8anL.jpg",
+          "url": "https://www.amazon.com/dp/B0D184PR6H/ref=cm_sw_r_as_gl_api_gl_i_V2PD6YMBQHSAFH8BXVPM?linkCode=ml1&tag=noya0b-20&linkId=012669b5a0686f9ccefadcb792c82683"
+        },
+        {
+          "asin": "B003DTMPQ2",
+          "slug": "vanity-fair-womens-full-figure-beauty-back-smoothing-bra-4-w",
+          "title": "\udecd️Vanity Fair Women's Full Figure Beauty Back Smoothing Bra, 4 Way Stretch Fabric, Lightly Lined Cups up to H - Underwir",
+          "price": "$54.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81AU959-vuL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B003DTMPQ2?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b7142c056c1571666ab658e7a098f2ed&language=en_US"
+        },
+        {
+          "asin": "B0FXHH3JLJ",
+          "slug": "blokees-star-wars-ep-v-the-empire-strikes-back-darth-vader-m",
+          "title": "BLOKEES - Star Wars EP V - The Empire Strikes Back - Darth Vader Model Kit - Assembly Required - No Tools - No Paint - N",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FXHH3JLJ/ref=cm_sw_r_as_gl_api_gl_i_VXPYB487EEY6T72YEZ2B?linkCode=ml1&tag=noya0b-20&linkId=a9d73df3d516040efbc830c49f1d1e36"
+        },
+        {
+          "asin": "B0DM12W1WL",
+          "slug": "melodysusie-nail-clippers-set-2-in-1-toenail-clippers-nail-c",
+          "title": "MelodySusie Nail Clippers Set, 2 in 1 Toenail Clippers Nail Clippers for Women, Ultra Sharp Stainless Steel Fingernail N",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Rcuc7zboL.jpg",
+          "url": "https://www.amazon.com/dp/B0DM12W1WL/ref=cm_sw_r_as_gl_api_gl_i_A9B9DQQ2E4C2K9NCWDQ1?linkCode=ml1&tag=noya0b-20&linkId=0a7fe3a336a9a3c07663dedbbdb4887c"
+        },
         {
           "asin": "B0C8BDMXDN",
           "slug": "under-armour-mens-armour-fleece-twist-quarter-zip-390-marine",
@@ -200,56 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B09NZQ3WS6/ref=cm_sw_r_as_gl_api_gl_i_dl_F61D5JTANT7Q9SYW827M?linkCode=ml1&tag=noya0b-20&linkId=064ad1947b96555edcb042a9bffee0fe"
-        },
-        {
-          "asin": "B01CJGXMU2",
-          "slug": "nature-made-magnesium-250mg-100-tablets",
-          "title": "\udecd️Nature Made Magnesium 250mg, 100 Tablets",
-          "price": "$6.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ki8X3htUL.jpg",
-          "url": "https://www.amazon.com/dp/B01CJGXMU2?th=1&linkCode=sl2&tag=noya0b-20&linkId=984fd159450d16d1010bf1e164190ded&language=en_US"
-        },
-        {
-          "asin": "B084LMB61R",
-          "slug": "cricut-joy-smart-iron-on-black",
-          "title": "\udecd️Cricut Joy Smart Iron On Black",
-          "price": "$2.69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B084LMB61R?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a07fe6d8b211ae34522e913b931d7d5&language=en_US"
-        },
-        {
-          "asin": "B00006IFAQ",
-          "slug": "paper-mate-pink-pearl-erasers-large-3-count",
-          "title": "\udecd️Paper Mate Pink Pearl Erasers, Large, 3 Count",
-          "price": "$3.13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00006IFAQ?linkCode=sl2&tag=noya0b-20&linkId=385d92f81fa530177bb89a385289e666&language=en_US"
-        },
-        {
-          "asin": "B0FHJZTTGS",
-          "slug": "liftoza-toddler-travel-bed-sandwich-style-portable-toddlers",
-          "title": "liftoza Toddler Travel Bed Sandwich Style - Portable Toddlers Floor Beds, Foldable Soft Foam Travel Crib for Baby and Ki",
-          "price": "$69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61PKohzpwOL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHJZTTGS/ref=cm_sw_r_as_gl_api_gl_i_dl_A1VDA1HM30DVMZAE7MTA?linkCode=ml1&tag=noya0b-20&linkId=1c70647109fc24e2dc2e0866a1a12553"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"\udecd️Under Armour Men's Armour Fleece Twist Quarter Zip, (390) ...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Amazon Fresh, Enriched Bread Flour, Unbleached, 5 Lb (Pack o...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T12:50:02.085Z",
-      "updatedAt": "2026-06-26T12:50:02.085Z"
+      "generatedAt": "2026-06-26T13:00:01.384Z",
+      "updatedAt": "2026-06-26T13:00:01.384Z"
     },
     {
       "date": "2026-06-25",
@@ -4837,5 +4840,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T12:50:02.087Z"
+  "generatedAt": "2026-06-26T13:00:01.386Z"
 }
