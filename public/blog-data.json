@@ -9,10 +9,58 @@
         "Other",
         "Beauty",
         "Garden & Outdoor",
-        "Home & Kitchen"
+        "Electronics"
       ],
       "byCategory": {
+        "Garden & Outdoor": [
+          {
+            "asin": "B01BHMKTAU",
+            "slug": "lifetime-large-horizontal-outdoor-deck-storage-box-lockable",
+            "title": "LIFETIME Large Horizontal Outdoor Deck Storage Box, Lockable Spring-Hinge Lid, 561 Gallon Capacity",
+            "price": "$484.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Yw4AffOvL.jpg",
+            "url": "https://www.amazon.com/dp/B01BHMKTAU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B08GKVL7FN",
+            "slug": "bang-olufsen-beolit-20-powerful-portable-wireless-bluetooth",
+            "title": "Bang & Olufsen Beolit 20 Powerful Portable Wireless Bluetooth Speaker, Anthracite",
+            "price": "$544.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08GKVL7FN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0FSZP5M4S",
+            "slug": "originsure-220l-collapsible-wagon-cart-foldable-38-l-extra-l",
+            "title": "Originsure 220L Collapsible Wagon Cart Foldable, 38\" L Extra Large Heavy Duty Folding Beach Wagons with All-Terrain Whee",
+            "price": "$49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Oq8PTUcUL.jpg",
+            "url": "https://www.amazon.com/dp/B0FSZP5M4S?th=1&linkCode=sl2&tag=noya0b-20&linkId=3154c856acbb8030a655fa6851e1e4f3&language=en_US"
+          },
+          {
+            "asin": "B0BXKV1D1M",
+            "slug": "evoio-water-slide-328ft-inflatable-splash-water-slip-with-2",
+            "title": "\udecd️Evoio Water Slide, 32.8FT Inflatable Splash Water Slip with 2 Racing Lanes for Kids Boys Girls Adults, Water Slide Out",
+            "price": "$99.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81yhoSbqmqL.jpg",
+            "url": "https://www.amazon.com/dp/B0BXKV1D1M?th=1&linkCode=sl2&tag=noya0b-20&linkId=aed5b54926b1fb970f88eaf7c9209fe3&language=en_US"
+          },
           {
             "asin": "B0CYN6TKMB",
             "slug": "wow-only-10xx-with-coupon-jlab-go-air-pop",
@@ -45,42 +93,20 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81hbl3KxMmL.jpg",
             "url": "https://www.amazon.com/dp/1523517360?linkCode=sl2&tag=noya0b-20&linkId=25fe0f6ca87eb06ce0e4318ea821323b&language=en_US"
-          },
-          {
-            "asin": "B01MRUOYWD",
-            "slug": "dove-advanced-care-clear-finish-antiperspirant-dry-spray-for",
-            "title": "Dove Advanced Care Clear Finish Antiperspirant Dry Spray for Women, 72H Sweat & Odor Protection, Pro-Ceramide Technology",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01MRUOYWD/ref=cm_sw_r_as_gl_api_gl_i_dl_C1EG3A18H5YWZWS4XXJX?linkCode=ml1&tag=noya0b-20&linkId=5bd505a74828c3edd71a37cfc1d4bcdf"
-          },
-          {
-            "asin": "B08HFP35Q8",
-            "slug": "royalhouse-bamboo-cheese-board-and-charcuterie-boards-set-se",
-            "title": "RoyalHouse Bamboo Cheese Board and Charcuterie Boards Set & Serving Tray for Meat, and Wine - Birthday Gifts for Women, ",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/711jHkGP4JL.jpg",
-            "url": "https://www.amazon.com/dp/B08HFP35Q8/ref=cm_sw_r_as_gl_api_gl_i_3CT8P4VYFQSK4KH819VP?linkCode=ml1&tag=noya0b-20&linkId=f1be6e3c7a865555e39591086e41d97a"
-          },
-          {
-            "asin": "B0CHZ75FZZ",
-            "slug": "silver-buffalo-disney-winnie-the-pooh-dreamy-days-retro-art",
-            "title": "\udecd️Silver Buffalo Disney Winnie the Pooh “Dreamy Days” Retro Art Double Walled Stainless Steel Tumbler with Handle and St",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71XHBwGBB3L.jpg",
-            "url": "https://www.amazon.com/dp/B0CHZ75FZZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=c76c19c33605018b43a8f9113e05bc46&language=en_US"
           }
         ],
         "Beauty": [
+          {
+            "asin": "B0G8LN26Q3",
+            "slug": "shiseido-ultimate-sun-protector-clear-stick-spf-60-invisible",
+            "title": "\udecd️Shiseido Ultimate Sun Protector Clear Stick SPF 60+ - Invisible, Portable Sunscreen for Face & Body - Visibly Improves",
+            "price": "$33.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0G8LN26Q3?th=1&linkCode=sl2&tag=noya0b-20&linkId=42375b2d427c975cb6024c7c54f1fdd1&language=en_US"
+          },
           {
             "asin": "B0GF3ZZYBH",
             "slug": "sol-de-janeiro-giftable-set-two-travel-size-hair-body-fragra",
@@ -103,35 +129,64 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0BV122GGY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0BTCX9XTF",
-            "slug": "costway-35-electric-griddle-teppanyaki-grill-nonstick-extra",
-            "title": "\udecd️COSTWAY 35\" Electric Griddle Teppanyaki Grill, Nonstick Extra Large Cooking Plate for Pancake Barbecue, Indoor Outdoor",
-            "price": "$89.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/718HKEtbC1L.jpg",
-            "url": "https://www.amazon.com/dp/B0BTCX9XTF?th=1&linkCode=sl2&tag=noya0b-20&linkId=5469f65a55d95d2f06ceaa1183f62c0a&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FS2SYQD3",
-            "slug": "disney-store-official-cuddleez-plush-winnie-the-pooh-big-plu",
-            "title": "\udecd️Disney Store Official Cuddleez Plush – Winnie the Pooh - Big Plush - Super Soft & Huggable Toy for Fans & Kids of All ",
-            "price": "$44.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51FYWKlsZgL.jpg",
-            "url": "https://www.amazon.com/dp/B0FS2SYQD3?th=1&linkCode=sl2&tag=noya0b-20&linkId=4446ead196d2bdfa8edacd9da0293d4a&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B01BHMKTAU",
+          "slug": "lifetime-large-horizontal-outdoor-deck-storage-box-lockable",
+          "title": "LIFETIME Large Horizontal Outdoor Deck Storage Box, Lockable Spring-Hinge Lid, 561 Gallon Capacity",
+          "price": "$484.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Yw4AffOvL.jpg",
+          "url": "https://www.amazon.com/dp/B01BHMKTAU?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B08GKVL7FN",
+          "slug": "bang-olufsen-beolit-20-powerful-portable-wireless-bluetooth",
+          "title": "Bang & Olufsen Beolit 20 Powerful Portable Wireless Bluetooth Speaker, Anthracite",
+          "price": "$544.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B08GKVL7FN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FSZP5M4S",
+          "slug": "originsure-220l-collapsible-wagon-cart-foldable-38-l-extra-l",
+          "title": "Originsure 220L Collapsible Wagon Cart Foldable, 38\" L Extra Large Heavy Duty Folding Beach Wagons with All-Terrain Whee",
+          "price": "$49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Oq8PTUcUL.jpg",
+          "url": "https://www.amazon.com/dp/B0FSZP5M4S?th=1&linkCode=sl2&tag=noya0b-20&linkId=3154c856acbb8030a655fa6851e1e4f3&language=en_US"
+        },
+        {
+          "asin": "B0BXKV1D1M",
+          "slug": "evoio-water-slide-328ft-inflatable-splash-water-slip-with-2",
+          "title": "\udecd️Evoio Water Slide, 32.8FT Inflatable Splash Water Slip with 2 Racing Lanes for Kids Boys Girls Adults, Water Slide Out",
+          "price": "$99.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81yhoSbqmqL.jpg",
+          "url": "https://www.amazon.com/dp/B0BXKV1D1M?th=1&linkCode=sl2&tag=noya0b-20&linkId=aed5b54926b1fb970f88eaf7c9209fe3&language=en_US"
+        },
+        {
+          "asin": "B0G8LN26Q3",
+          "slug": "shiseido-ultimate-sun-protector-clear-stick-spf-60-invisible",
+          "title": "\udecd️Shiseido Ultimate Sun Protector Clear Stick SPF 60+ - Invisible, Portable Sunscreen for Face & Body - Visibly Improves",
+          "price": "$33.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0G8LN26Q3?th=1&linkCode=sl2&tag=noya0b-20&linkId=42375b2d427c975cb6024c7c54f1fdd1&language=en_US"
+        },
         {
           "asin": "B0CYN6TKMB",
           "slug": "wow-only-10xx-with-coupon-jlab-go-air-pop",
@@ -186,67 +241,12 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0BV122GGY?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B01MRUOYWD",
-          "slug": "dove-advanced-care-clear-finish-antiperspirant-dry-spray-for",
-          "title": "Dove Advanced Care Clear Finish Antiperspirant Dry Spray for Women, 72H Sweat & Odor Protection, Pro-Ceramide Technology",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01MRUOYWD/ref=cm_sw_r_as_gl_api_gl_i_dl_C1EG3A18H5YWZWS4XXJX?linkCode=ml1&tag=noya0b-20&linkId=5bd505a74828c3edd71a37cfc1d4bcdf"
-        },
-        {
-          "asin": "B0BTCX9XTF",
-          "slug": "costway-35-electric-griddle-teppanyaki-grill-nonstick-extra",
-          "title": "\udecd️COSTWAY 35\" Electric Griddle Teppanyaki Grill, Nonstick Extra Large Cooking Plate for Pancake Barbecue, Indoor Outdoor",
-          "price": "$89.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/718HKEtbC1L.jpg",
-          "url": "https://www.amazon.com/dp/B0BTCX9XTF?th=1&linkCode=sl2&tag=noya0b-20&linkId=5469f65a55d95d2f06ceaa1183f62c0a&language=en_US"
-        },
-        {
-          "asin": "B08HFP35Q8",
-          "slug": "royalhouse-bamboo-cheese-board-and-charcuterie-boards-set-se",
-          "title": "RoyalHouse Bamboo Cheese Board and Charcuterie Boards Set & Serving Tray for Meat, and Wine - Birthday Gifts for Women, ",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/711jHkGP4JL.jpg",
-          "url": "https://www.amazon.com/dp/B08HFP35Q8/ref=cm_sw_r_as_gl_api_gl_i_3CT8P4VYFQSK4KH819VP?linkCode=ml1&tag=noya0b-20&linkId=f1be6e3c7a865555e39591086e41d97a"
-        },
-        {
-          "asin": "B0CHZ75FZZ",
-          "slug": "silver-buffalo-disney-winnie-the-pooh-dreamy-days-retro-art",
-          "title": "\udecd️Silver Buffalo Disney Winnie the Pooh “Dreamy Days” Retro Art Double Walled Stainless Steel Tumbler with Handle and St",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71XHBwGBB3L.jpg",
-          "url": "https://www.amazon.com/dp/B0CHZ75FZZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=c76c19c33605018b43a8f9113e05bc46&language=en_US"
-        },
-        {
-          "asin": "B0FS2SYQD3",
-          "slug": "disney-store-official-cuddleez-plush-winnie-the-pooh-big-plu",
-          "title": "\udecd️Disney Store Official Cuddleez Plush – Winnie the Pooh - Big Plush - Super Soft & Huggable Toy for Fans & Kids of All ",
-          "price": "$44.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51FYWKlsZgL.jpg",
-          "url": "https://www.amazon.com/dp/B0FS2SYQD3?th=1&linkCode=sl2&tag=noya0b-20&linkId=4446ead196d2bdfa8edacd9da0293d4a&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"WOW! Only $10.xx with coupon! JLab Go Air Pop+...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"LIFETIME Large Horizontal Outdoor Deck Storage Box, Lockable...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T13:30:02.101Z",
-      "updatedAt": "2026-06-26T13:30:02.101Z"
+      "generatedAt": "2026-06-26T13:40:01.430Z",
+      "updatedAt": "2026-06-26T13:40:01.430Z"
     },
     {
       "date": "2026-06-25",
@@ -4834,5 +4834,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T13:30:02.103Z"
+  "generatedAt": "2026-06-26T13:40:01.432Z"
 }
