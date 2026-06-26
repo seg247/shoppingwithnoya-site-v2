@@ -9,8 +9,8 @@
         "Grocery & Food",
         "Beauty",
         "Home & Kitchen",
-        "Cleaning Supplies",
-        "Other"
+        "Other",
+        "Electronics"
       ],
       "byCategory": {
         "Beauty": [
@@ -35,6 +35,56 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
             "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=df5455d96ba6e98d0e1cbdfd058020f2&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B08C63NLNV",
+            "slug": "yum-wylers-italian-ices-original-variety-pack-15-oz-freezer",
+            "title": "YUM! Wyler's Italian Ices, Original Variety Pack, 1.5 Oz Freezer Bars, 70 Count",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81YBoASEV7L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08C63NLNV?th=1&linkCode=sl2&tag=noya0b-20&linkId=5fd51574066312a81cf43cd91da7b760&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DVM1DB8P",
+            "slug": "play-doh-disney-junior-mickey-mouse-clubhouse-on-the-go-gara",
+            "title": "Play-Doh Disney Junior Mickey Mouse Clubhouse, On-the-Go Garage Mickey Mouse Playset, Arts & Crafts Preschool Toys for K",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nm3o4rplL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DVM1DB8P?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ade1497a0e84107b8612e82a1356bb1&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FNCG81DT",
+            "slug": "dllesifvn-christmas-stocking-holiday-decor-white-brown-v-4pc",
+            "title": "Dllesifvn Christmas Stocking, Holiday Decor (White-brown-v-4pcs) : Home & Kitchen",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81D12-VzMoL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNCG81DT?social_share=cm_sw_r_cso_cp_apin_dp_CKPBTRFYZSVSZNQD70X0&rsd=PXerS5%2Fgj8bBtkls%2BJEWJTCv0DyyG5WlDwt2OPIanA1FZROi3uBZ7lWYt01YDo3JvF1xs1UlB%2FM3vVAL%2FF5%2BlE7Rn0JQmk9uJXz3%2FEIu9pze14M%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQEX1Mrv7n4%2BcvQsVGmXNaQRAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVjZB9yj%2Fy%2BMiIHN6AgEQgDtScVus4eqIUha3nFPucbs1DOCtNsXx%2BIx42JO4k6U0e4Osna7XRG3y%2BgqkUQVwmNopEVAWAuP%2FdiiVfA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d6d2b9fc1aaf65f778afbf33f65eb8ce&language=en_US"
+          },
+          {
+            "asin": "B004DGIZMW",
+            "slug": "bora-wood-organizer-and-lumber-storage-rack-with-6-level-wal",
+            "title": "Bora Wood Organizer and Lumber Storage Rack with 6-Level Wall Storage Racks – Indoor and Outdoor Use, In Orange PBR-001",
+            "price": "$34.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71DjBpGPhWL.jpg",
+            "url": "https://www.amazon.com/dp/B004DGIZMW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -82,56 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71XzBabTGdL.jpg",
             "url": "https://www.amazon.com/dp/B00EW6V06Q?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B004DGIZMW",
-            "slug": "bora-wood-organizer-and-lumber-storage-rack-with-6-level-wal",
-            "title": "Bora Wood Organizer and Lumber Storage Rack with 6-Level Wall Storage Racks – Indoor and Outdoor Use, In Orange PBR-001",
-            "price": "$34.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71DjBpGPhWL.jpg",
-            "url": "https://www.amazon.com/dp/B004DGIZMW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0CDWMCZRS",
-            "slug": "barsone-5-piece-silicone-spatula-set-heat-resistant-446f-foo",
-            "title": "\udecd️Barsone 5-Piece Silicone Spatula Set - Heat Resistant 446°F Food Grade BPA Free, Nonstick Cookware Safe Dishwasher Saf",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YBd1VzDBL.jpg",
-            "url": "https://www.amazon.com/dp/B0CDWMCZRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=ef49b056837c4293e597c65c09617b70&language=en_US"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0B1PGR1LZ",
-            "slug": "tide-4-in-1-ultra-oxi-pods-laundry-detergent-pacs-85-count-h",
-            "title": "\udecd️Tide 4-in-1 Ultra Oxi PODS Laundry Detergent Pacs, 85 Count, HE Compatible, Built in Pre-treater for Stains",
-            "price": "$29.74",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81zlihJ2iiL.jpg",
-            "url": "https://www.amazon.com/dp/B0B1PGR1LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b0195b7578fe53c522465e5d72f569f&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0CNF1MSWF",
-            "slug": "nexxus-styling-spray-xxl-finish-volume-medium-hold-hairspray",
-            "title": "Nexxus Styling Spray XXL Finish Volume Medium Hold Hairspray Powered by STYLEPROTECT Technology 10 oz",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/510KfnUOC7L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CNF1MSWF?social_share=cm_sw_r_cso_cp_apin_dp_971DJ8N4ARDNCRK3WT4D&rsd=ogpAg9AosQJlcJEcB%2BA2wMJmj42sB3yiW9I6Gw5G2U%2BTnFnsmIQQo1bOC9w6uprVBCDOhLdleMGObCQaKFvpxSwyPvfxMXFtya%2B8DXiTEd88EJ3BzSPA&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQGL4yFNIvMDKDuYbh4DEYg2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQjUgINrEyr%2Fml0WuAgEQgDtZWDnfcWCqnfHldy9rAH0%2FZWtUh%2FFo2GANb6X7wtIRkGgSI5QKa0HmWLP7%2BLQf%2BjAA82%2F8DhotjKz3bg%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c1dc8aede74ab5bd04285e50c2d59ca4&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,39 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=df5455d96ba6e98d0e1cbdfd058020f2&language=en_US"
+        },
+        {
+          "asin": "B08C63NLNV",
+          "slug": "yum-wylers-italian-ices-original-variety-pack-15-oz-freezer",
+          "title": "YUM! Wyler's Italian Ices, Original Variety Pack, 1.5 Oz Freezer Bars, 70 Count",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YBoASEV7L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08C63NLNV?th=1&linkCode=sl2&tag=noya0b-20&linkId=5fd51574066312a81cf43cd91da7b760&language=en_US"
+        },
+        {
+          "asin": "B0DVM1DB8P",
+          "slug": "play-doh-disney-junior-mickey-mouse-clubhouse-on-the-go-gara",
+          "title": "Play-Doh Disney Junior Mickey Mouse Clubhouse, On-the-Go Garage Mickey Mouse Playset, Arts & Crafts Preschool Toys for K",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nm3o4rplL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DVM1DB8P?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ade1497a0e84107b8612e82a1356bb1&language=en_US"
+        },
+        {
+          "asin": "B0FNCG81DT",
+          "slug": "dllesifvn-christmas-stocking-holiday-decor-white-brown-v-4pc",
+          "title": "Dllesifvn Christmas Stocking, Holiday Decor (White-brown-v-4pcs) : Home & Kitchen",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81D12-VzMoL.jpg",
+          "url": "https://www.amazon.com/dp/B0FNCG81DT?social_share=cm_sw_r_cso_cp_apin_dp_CKPBTRFYZSVSZNQD70X0&rsd=PXerS5%2Fgj8bBtkls%2BJEWJTCv0DyyG5WlDwt2OPIanA1FZROi3uBZ7lWYt01YDo3JvF1xs1UlB%2FM3vVAL%2FF5%2BlE7Rn0JQmk9uJXz3%2FEIu9pze14M%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQEX1Mrv7n4%2BcvQsVGmXNaQRAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMVjZB9yj%2Fy%2BMiIHN6AgEQgDtScVus4eqIUha3nFPucbs1DOCtNsXx%2BIx42JO4k6U0e4Osna7XRG3y%2BgqkUQVwmNopEVAWAuP%2FdiiVfA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=d6d2b9fc1aaf65f778afbf33f65eb8ce&language=en_US"
         },
         {
           "asin": "B0G6F1PGGQ",
@@ -211,39 +244,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71XzBabTGdL.jpg",
           "url": "https://www.amazon.com/dp/B00EW6V06Q?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0B1PGR1LZ",
-          "slug": "tide-4-in-1-ultra-oxi-pods-laundry-detergent-pacs-85-count-h",
-          "title": "\udecd️Tide 4-in-1 Ultra Oxi PODS Laundry Detergent Pacs, 85 Count, HE Compatible, Built in Pre-treater for Stains",
-          "price": "$29.74",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81zlihJ2iiL.jpg",
-          "url": "https://www.amazon.com/dp/B0B1PGR1LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b0195b7578fe53c522465e5d72f569f&language=en_US"
-        },
-        {
-          "asin": "B0CNF1MSWF",
-          "slug": "nexxus-styling-spray-xxl-finish-volume-medium-hold-hairspray",
-          "title": "Nexxus Styling Spray XXL Finish Volume Medium Hold Hairspray Powered by STYLEPROTECT Technology 10 oz",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/510KfnUOC7L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CNF1MSWF?social_share=cm_sw_r_cso_cp_apin_dp_971DJ8N4ARDNCRK3WT4D&rsd=ogpAg9AosQJlcJEcB%2BA2wMJmj42sB3yiW9I6Gw5G2U%2BTnFnsmIQQo1bOC9w6uprVBCDOhLdleMGObCQaKFvpxSwyPvfxMXFtya%2B8DXiTEd88EJ3BzSPA&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQGL4yFNIvMDKDuYbh4DEYg2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQjUgINrEyr%2Fml0WuAgEQgDtZWDnfcWCqnfHldy9rAH0%2FZWtUh%2FFo2GANb6X7wtIRkGgSI5QKa0HmWLP7%2BLQf%2BjAA82%2F8DhotjKz3bg%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c1dc8aede74ab5bd04285e50c2d59ca4&language=en_US"
-        },
-        {
-          "asin": "B0CDWMCZRS",
-          "slug": "barsone-5-piece-silicone-spatula-set-heat-resistant-446f-foo",
-          "title": "\udecd️Barsone 5-Piece Silicone Spatula Set - Heat Resistant 446°F Food Grade BPA Free, Nonstick Cookware Safe Dishwasher Saf",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61YBd1VzDBL.jpg",
-          "url": "https://www.amazon.com/dp/B0CDWMCZRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=ef49b056837c4293e597c65c09617b70&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T16:20:02.052Z",
-      "updatedAt": "2026-06-26T16:20:02.052Z"
+      "generatedAt": "2026-06-26T16:30:02.124Z",
+      "updatedAt": "2026-06-26T16:30:02.124Z"
     },
     {
       "date": "2026-06-25",
@@ -4837,5 +4837,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T16:20:02.053Z"
+  "generatedAt": "2026-06-26T16:30:02.126Z"
 }
