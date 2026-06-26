@@ -4,17 +4,28 @@
       "date": "2026-06-26",
       "slug": "2026-06-26",
       "title": "🔥 Best Deals Today — June 26, 2026",
-      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Other, Beauty, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Home & Kitchen",
         "Beauty",
         "Grocery & Food",
         "Fashion",
-        "Electronics"
+        "Electronics",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Beauty": [
+          {
+            "asin": "B0CG4ZPVR8",
+            "slug": "the-original-makeup-eraser-7-day-set",
+            "title": "The Original Makeup Eraser 7-Day Set",
+            "price": "$17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
+            "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
+          },
           {
             "asin": "B0GDX9ZKLY",
             "slug": "rechargeable-misting-fan-portablemax-40h-runtimedesk-cooling",
@@ -123,21 +134,21 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71oT0qtsapL.jpg",
             "url": "https://www.amazon.com/dp/B0G524RNDV/ref=cm_sw_r_as_gl_apa_gl_i_5GQZKEFYMM1DXWMG5SFR?linkCode=ml1&tag=noya0b-20&linkId=1f3f773ba97d3342fa268dba75db2bb8"
-          },
-          {
-            "asin": "B0D2RRK7CS",
-            "slug": "farberware-bamboo-cutting-board-with-clear-locking-lid-11x14",
-            "title": "Farberware Bamboo Cutting Board with Clear Locking Lid, 11x14 Inch Charcuterie Board with Handles - Reversible Serving B",
-            "price": "$17.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/8196XHQMeQL.jpg",
-            "url": "https://www.amazon.com/dp/B0D2RRK7CS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CG4ZPVR8",
+          "slug": "the-original-makeup-eraser-7-day-set",
+          "title": "The Original Makeup Eraser 7-Day Set",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
+          "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
+        },
         {
           "asin": "B0GDX9ZKLY",
           "slug": "rechargeable-misting-fan-portablemax-40h-runtimedesk-cooling",
@@ -236,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71oT0qtsapL.jpg",
           "url": "https://www.amazon.com/dp/B0G524RNDV/ref=cm_sw_r_as_gl_apa_gl_i_5GQZKEFYMM1DXWMG5SFR?linkCode=ml1&tag=noya0b-20&linkId=1f3f773ba97d3342fa268dba75db2bb8"
-        },
-        {
-          "asin": "B0D2RRK7CS",
-          "slug": "farberware-bamboo-cutting-board-with-clear-locking-lid-11x14",
-          "title": "Farberware Bamboo Cutting Board with Clear Locking Lid, 11x14 Inch Charcuterie Board with Handles - Reversible Serving B",
-          "price": "$17.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/8196XHQMeQL.jpg",
-          "url": "https://www.amazon.com/dp/B0D2RRK7CS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"Rechargeable Misting Fan Portable【Max 40H Runtime】,Desk Cool...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
+          "a": "The best deals today include \"The Original Makeup Eraser 7-Day Set...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T05:30:01.378Z",
-      "updatedAt": "2026-06-26T05:30:01.378Z"
+      "generatedAt": "2026-06-26T05:40:01.624Z",
+      "updatedAt": "2026-06-26T05:40:01.624Z"
     },
     {
       "date": "2026-06-25",
@@ -4840,5 +4840,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T05:30:01.380Z"
+  "generatedAt": "2026-06-26T05:40:01.625Z"
 }

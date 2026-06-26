@@ -51,8 +51,18 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0CG4ZPVR8",
+            "slug": "the-original-makeup-eraser-7-day-set",
+            "title": "The Original Makeup Eraser 7-Day Set",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
+            "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
           },
           {
             "asin": "B0CZWL344F",
@@ -83,16 +93,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/7140Q3D-VFL._SL1500_.jpg",
             "url": "https://amazon.com/dp/B0G22LHN9R?tag=noya0b-20"
-          },
-          {
-            "asin": "B00HIFA24O",
-            "slug": "urban-decay-naked-3-soft-pink-neutral-eyeshadow-palette-matt",
-            "title": "URBAN DECAY Naked 3, Soft Pink Neutral Eyeshadow Palette, Matte, Pearl, Metallic, Shimmer Finish, 12 Mauve Brown & Nude ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mUI1UgAdL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00HIFA24O?campaignId=amzn1.campaign.3GYP67Y6HS3E4&psc=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=de6a75415bdbf449dd502b9fcb8f5287&language=en_US"
           }
         ],
         "Fragrance": [
@@ -462,7 +462,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
         },
         {
@@ -484,6 +484,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
+        },
+        {
+          "asin": "B0CG4ZPVR8",
+          "slug": "the-original-makeup-eraser-7-day-set",
+          "title": "The Original Makeup Eraser 7-Day Set",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
+          "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
         },
         {
           "asin": "B0GDX9ZKLY",
@@ -614,16 +624,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/7140Q3D-VFL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B0G22LHN9R?tag=noya0b-20"
-        },
-        {
-          "asin": "B00HIFA24O",
-          "slug": "urban-decay-naked-3-soft-pink-neutral-eyeshadow-palette-matt",
-          "title": "URBAN DECAY Naked 3, Soft Pink Neutral Eyeshadow Palette, Matte, Pearl, Metallic, Shimmer Finish, 12 Mauve Brown & Nude ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61mUI1UgAdL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00HIFA24O?campaignId=amzn1.campaign.3GYP67Y6HS3E4&psc=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=de6a75415bdbf449dd502b9fcb8f5287&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-26T05:30:02.494Z",
-      "updatedAt": "2026-06-26T05:30:02.494Z"
+      "generatedAt": "2026-06-26T05:40:03.032Z",
+      "updatedAt": "2026-06-26T05:40:03.032Z"
     },
     {
       "date": "2026-06-25",
@@ -10189,5 +10189,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-26T05:30:02.498Z"
+  "generatedAt": "2026-06-26T05:40:03.035Z"
 }
