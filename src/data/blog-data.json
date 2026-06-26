@@ -4,17 +4,95 @@
       "date": "2026-06-26",
       "slug": "2026-06-26",
       "title": "🔥 Best Deals Today — June 26, 2026",
-      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Personal Care and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, June 26, 2026 — 10 hand-picked discounts across Electronics, Fashion, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Grocery & Food",
+        "Electronics",
+        "Fashion",
+        "Cleaning Supplies",
+        "Toys & Kids",
+        "Beauty",
         "Personal Care",
         "Garden & Outdoor",
-        "Electronics",
         "Tools & Hardware",
-        "Beauty"
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B099SZ9PV7",
+            "slug": "new-balance-mens-237-v1-sneaker",
+            "title": "New Balance Men's 237 V1 Sneaker",
+            "price": "$47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TbQSgnWBL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/New-Balance-Sneaker-Marblehead-Cloud/dp/B099SZ9PV7?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7b38674753b22a22dcc9e438d5939784&language=en_US"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0GN4KSLZJ",
+            "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
+            "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-JV6H2WKL.jpg",
+            "url": "https://www.amazon.com/dp/B0GN4KSLZJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PEJTJH5NTVS4NWFKQRHW?linkCode=ml1&tag=noya0b-20&linkId=5029e2ddb0106812b179f128fe0b6497"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0D8K3WN1S",
+            "slug": "jlab-flex-open-ear-earbuds-clip-on-wireless-bluetooth-earbud",
+            "title": "JLab, Flex, Open Ear Earbuds, Clip On Wireless Bluetooth Earbuds",
+            "price": "$25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71kDkXPhgNL.jpg",
+            "url": "https://www.amazon.com/JLab-Effortless-Listening-Bluetooth-Multipoint/dp/B0D8K3WN1S?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b5f090d4f08efe2b603aa01c96704598&language=en_US"
+          },
+          {
+            "asin": "B0CHGDD8S7",
+            "slug": "adidas-prime-7-backpack-for-laptop-school-and-travel",
+            "title": "adidas Prime 7 Backpack for Laptop, School and Travel",
+            "price": "$42",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/910EbooFTiL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/adidas-983298-Prime-7-Backpack/dp/B0CHGDD8S7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=d5dc50b67becbf37782312dd0a605c50&language=en_US"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0CPQ54PQ5",
+            "slug": "lego-technic-lamborghini-huracn-tecnica-orange-toy-cars-buil",
+            "title": "LEGO Technic Lamborghini Huracán Tecnica Orange Toy Cars - Building Toys for Kids, Boys & Girls, Ages 9+ - Lamborghini T",
+            "price": "$34",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81w4luhxYqL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CPQ54PQ5/ref=cm_sw_r_as_gl_apa_gl_i_dl_B09F5PJV03N9G1M8XV0V?linkCode=ml1&tag=noya0b-20&linkId=06699561515e60617c79a9d63a321a7e"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B07X7G383C",
+            "slug": "tula-skin-care-spresso-energizing-eye-balm-energizing-hydrat",
+            "title": "TULA Skin Care Spresso Energizing Eye Balm - Energizing & Hydrating Caffeine Under Eye Treatment for Dark Circles, Porta",
+            "price": "$26",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-0jm9sFXL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07X7G383C/ref=cm_sw_r_as_gl_apa_gl_i_dl_7QQ9ZC73PSZ4DAQR70AB?linkCode=ml1&tag=noya0b-20&linkId=df654d8b963f9f39b7c9203d9fd555ef"
+          }
+        ],
         "Personal Care": [
           {
             "asin": "B0D9WVYHL6",
@@ -41,19 +119,6 @@
             "url": "https://www.amazon.com/BLACK-DECKER-BESTA510-Electric-Trimmer/dp/B077Z78YQX?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3e11063acaa89f90fd39626947a1c947&language=en_US"
           }
         ],
-        "Electronics": [
-          {
-            "asin": "B0CHGDD8S7",
-            "slug": "adidas-prime-7-backpack-for-laptop-school-and-travel",
-            "title": "adidas Prime 7 Backpack for Laptop, School and Travel",
-            "price": "$42",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/910EbooFTiL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/adidas-983298-Prime-7-Backpack/dp/B0CHGDD8S7?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=d5dc50b67becbf37782312dd0a605c50&language=en_US"
-          }
-        ],
         "Tools & Hardware": [
           {
             "asin": "B0D9VGV1K2",
@@ -78,69 +143,65 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/6109voXs+wL.jpg",
             "url": "https://www.amazon.com/dp/B0FLQPYX57?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B00835PYDC",
-            "slug": "v8-low-sodium-original-100-vegetable-juice-vegetable-blend-w",
-            "title": "V8 Low Sodium Original 100% Vegetable Juice, Vegetable Blend with Tomato Juice, 11.5 FL OZ Can (Pack of 24)",
-            "price": "$15.67",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81VRofi9IIL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00835PYDC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0CZ5SQMC9",
-            "slug": "stanley-all-day-julienne-soft-cooler-bag-and-lunch-box",
-            "title": "Stanley All Day Julienne Soft Cooler Bag and Lunch Box",
-            "price": "$50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81oVAIMYMGL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/STANLEY-Julienne-Handles-Insulated-BPA-Free/dp/B0CZ5SQMC9?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9c9cc6eb48054616400d8afaf48b9973&language=en_US"
-          },
-          {
-            "asin": "B0FPC99SSJ",
-            "slug": "medicube-peel-shot-with-hypochlorous-acid",
-            "title": "medicube Peel Shot with Hypochlorous Acid",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61DEzQbyI0L.jpg",
-            "url": "https://www.amazon.com/medicube-Hypochlorous-Exfoliating-Blackheads-Panthenol/dp/B0FPC99SSJ?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=76251416dc23d3943c417592fe9b9d18&language=en_US"
-          },
-          {
-            "asin": "B0DR9P8TBY",
-            "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw-30-oz-flo",
-            "title": "Stanley Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel ",
-            "price": "$17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DR9P8TBY/ref=cm_sw_r_as_gl_apa_gl_i_AK44DPPGW8P68NZAHQ9S?linkCode=ml1&tag=noya0b-20&linkId=f8fe37a32c452f8de177eee5dee32ca1"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FLYLXJ3W",
-            "slug": "tree-hut-sweet-punkin-serum-infused-hand-wash-nourish-hydrat",
-            "title": "Tree Hut Sweet Punkin Serum Infused Hand Wash, Nourish & Hydrate Hands with Strengthening Skin Care, Long Lasting Scent,",
-            "price": "$3.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fqQYWHKoL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FLYLXJ3W?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B099SZ9PV7",
+          "slug": "new-balance-mens-237-v1-sneaker",
+          "title": "New Balance Men's 237 V1 Sneaker",
+          "price": "$47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TbQSgnWBL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/New-Balance-Sneaker-Marblehead-Cloud/dp/B099SZ9PV7?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7b38674753b22a22dcc9e438d5939784&language=en_US"
+        },
+        {
+          "asin": "B0GN4KSLZJ",
+          "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
+          "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-JV6H2WKL.jpg",
+          "url": "https://www.amazon.com/dp/B0GN4KSLZJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PEJTJH5NTVS4NWFKQRHW?linkCode=ml1&tag=noya0b-20&linkId=5029e2ddb0106812b179f128fe0b6497"
+        },
+        {
+          "asin": "B0D8K3WN1S",
+          "slug": "jlab-flex-open-ear-earbuds-clip-on-wireless-bluetooth-earbud",
+          "title": "JLab, Flex, Open Ear Earbuds, Clip On Wireless Bluetooth Earbuds",
+          "price": "$25",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71kDkXPhgNL.jpg",
+          "url": "https://www.amazon.com/JLab-Effortless-Listening-Bluetooth-Multipoint/dp/B0D8K3WN1S?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=b5f090d4f08efe2b603aa01c96704598&language=en_US"
+        },
+        {
+          "asin": "B0CPQ54PQ5",
+          "slug": "lego-technic-lamborghini-huracn-tecnica-orange-toy-cars-buil",
+          "title": "LEGO Technic Lamborghini Huracán Tecnica Orange Toy Cars - Building Toys for Kids, Boys & Girls, Ages 9+ - Lamborghini T",
+          "price": "$34",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81w4luhxYqL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CPQ54PQ5/ref=cm_sw_r_as_gl_apa_gl_i_dl_B09F5PJV03N9G1M8XV0V?linkCode=ml1&tag=noya0b-20&linkId=06699561515e60617c79a9d63a321a7e"
+        },
+        {
+          "asin": "B07X7G383C",
+          "slug": "tula-skin-care-spresso-energizing-eye-balm-energizing-hydrat",
+          "title": "TULA Skin Care Spresso Energizing Eye Balm - Energizing & Hydrating Caffeine Under Eye Treatment for Dark Circles, Porta",
+          "price": "$26",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-0jm9sFXL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07X7G383C/ref=cm_sw_r_as_gl_apa_gl_i_dl_7QQ9ZC73PSZ4DAQR70AB?linkCode=ml1&tag=noya0b-20&linkId=df654d8b963f9f39b7c9203d9fd555ef"
+        },
         {
           "asin": "B0D9WVYHL6",
           "slug": "oura-ring-4-smart-ring-brushed-silver-size-8-sleep-activity",
@@ -195,71 +256,16 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/6109voXs+wL.jpg",
           "url": "https://www.amazon.com/dp/B0FLQPYX57?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B00835PYDC",
-          "slug": "v8-low-sodium-original-100-vegetable-juice-vegetable-blend-w",
-          "title": "V8 Low Sodium Original 100% Vegetable Juice, Vegetable Blend with Tomato Juice, 11.5 FL OZ Can (Pack of 24)",
-          "price": "$15.67",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81VRofi9IIL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00835PYDC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CZ5SQMC9",
-          "slug": "stanley-all-day-julienne-soft-cooler-bag-and-lunch-box",
-          "title": "Stanley All Day Julienne Soft Cooler Bag and Lunch Box",
-          "price": "$50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81oVAIMYMGL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/STANLEY-Julienne-Handles-Insulated-BPA-Free/dp/B0CZ5SQMC9?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9c9cc6eb48054616400d8afaf48b9973&language=en_US"
-        },
-        {
-          "asin": "B0FLYLXJ3W",
-          "slug": "tree-hut-sweet-punkin-serum-infused-hand-wash-nourish-hydrat",
-          "title": "Tree Hut Sweet Punkin Serum Infused Hand Wash, Nourish & Hydrate Hands with Strengthening Skin Care, Long Lasting Scent,",
-          "price": "$3.50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fqQYWHKoL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FLYLXJ3W?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FPC99SSJ",
-          "slug": "medicube-peel-shot-with-hypochlorous-acid",
-          "title": "medicube Peel Shot with Hypochlorous Acid",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61DEzQbyI0L.jpg",
-          "url": "https://www.amazon.com/medicube-Hypochlorous-Exfoliating-Blackheads-Panthenol/dp/B0FPC99SSJ?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=76251416dc23d3943c417592fe9b9d18&language=en_US"
-        },
-        {
-          "asin": "B0DR9P8TBY",
-          "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw-30-oz-flo",
-          "title": "Stanley Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel ",
-          "price": "$17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DR9P8TBY/ref=cm_sw_r_as_gl_apa_gl_i_AK44DPPGW8P68NZAHQ9S?linkCode=ml1&tag=noya0b-20&linkId=f8fe37a32c452f8de177eee5dee32ca1"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 26, 2026?",
-          "a": "The best deals today include \"Oura Ring 4, Smart Ring - Brushed Silver - Size 8 - Sleep, A...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Personal Care and are updated daily."
+          "a": "The best deals today include \"New Balance Men's 237 V1 Sneaker...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +280,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T07:40:01.792Z",
-      "updatedAt": "2026-06-26T07:40:01.792Z"
+      "generatedAt": "2026-06-26T07:50:01.609Z",
+      "updatedAt": "2026-06-26T07:50:01.609Z"
     },
     {
       "date": "2026-06-25",
@@ -4843,5 +4849,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T07:40:01.794Z"
+  "generatedAt": "2026-06-26T07:50:01.611Z"
 }
