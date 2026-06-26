@@ -52,7 +52,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
           },
           {
@@ -84,16 +84,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71EekFZ4irL.jpg",
             "url": "https://www.amazon.com/dp/B0CG4ZPVR8?th=1&linkCode=sl2&tag=noya0b-20&linkId=adede1a4b88dc44c0f12457b4d1182c5&language=en_US"
-          },
-          {
-            "asin": "B0CZWL344F",
-            "slug": "too-faced-naturally-better-than-sex-mascara-volumizing-nouri",
-            "title": "Too Faced Naturally Better Than Sex Mascara | Volumizing, Nourishing, Curling + Safe for Sensitive Eyes",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MRgxmyuAL._SL1500_.jpg",
-            "url": "https://amazon.com/dp/B0CZWL344F?th=1&tag=noya0b-20"
           }
         ],
         "Fragrance": [
@@ -200,6 +190,16 @@
             "url": "https://www.amazon.com/dp/B0GKFD9ZQW?tag=noya0b-20"
           },
           {
+            "asin": "B0GSC5HZZB",
+            "slug": "eos-vanilla-cashmere-skin-care-set",
+            "title": "eos Vanilla Cashmere Skin Care Set",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71XK0lzzG5L.jpg",
+            "url": "https://www.amazon.com/eos-Vanilla-Cashmere-Skin-Care/dp/B0GSC5HZZB?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=01aa87a41afdc22cef70581ad1351d88&language=en_US"
+          },
+          {
             "asin": "B07X7G383C",
             "slug": "tula-skin-care-spresso-energizing-eye-balm-energizing-hydrat",
             "title": "TULA Skin Care Spresso Energizing Eye Balm - Energizing & Hydrating Caffeine Under Eye Treatment for Dark Circles, Porta",
@@ -260,16 +260,6 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61Sb2GzosoL.jpg",
             "url": "https://www.amazon.com/dp/B09JFLV454?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0DP5K2QG4",
-            "slug": "rem-beauty-by-ariana-grande-essential-drip-lip-oil-pickin-pe",
-            "title": "r.e.m. beauty by ariana grande | Essential Drip Lip Oil - Pickin Petals - Non-Sticky Hydrating Lip Oil with Coconut Oil,",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61wSlv+susL.jpg",
-            "url": "https://www.amazon.com/dp/B0DP5K2QG4?th=1&tag=noya0b-20"
           }
         ],
         "Hair Care": [
@@ -280,8 +270,18 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
+          },
+          {
+            "asin": "B0CGSLVL8T",
+            "slug": "dr-groot-hair-thickening-shampoo-korean-hair-care-with-bioti",
+            "title": "Dr. Groot Hair Thickening Shampoo, Korean Hair Care with Biotin, Rosemary Oil to Help Volumize Thinning, Damaged Hair, H",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oeB6zIkRL.jpg",
+            "url": "https://www.amazon.com/dp/B0CGSLVL8T/ref=cm_sw_r_as_gl_apa_gl_i_dl_58XTMDZH1CXTHJ93WTG0?linkCode=ml1&tag=noya0b-20&linkId=6b703fc0575372d245312270df659460"
           },
           {
             "asin": "B0FSPHXKF2",
@@ -465,7 +465,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qCseJI6TL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FGDW5RLH?th=1&tag=noya0b-20"
         },
         {
@@ -485,8 +485,28 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a06b0c0d36119c1a8a114c2eb9b83e0&language=en_US"
+        },
+        {
+          "asin": "B0GSC5HZZB",
+          "slug": "eos-vanilla-cashmere-skin-care-set",
+          "title": "eos Vanilla Cashmere Skin Care Set",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71XK0lzzG5L.jpg",
+          "url": "https://www.amazon.com/eos-Vanilla-Cashmere-Skin-Care/dp/B0GSC5HZZB?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=01aa87a41afdc22cef70581ad1351d88&language=en_US"
+        },
+        {
+          "asin": "B0CGSLVL8T",
+          "slug": "dr-groot-hair-thickening-shampoo-korean-hair-care-with-bioti",
+          "title": "Dr. Groot Hair Thickening Shampoo, Korean Hair Care with Biotin, Rosemary Oil to Help Volumize Thinning, Damaged Hair, H",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oeB6zIkRL.jpg",
+          "url": "https://www.amazon.com/dp/B0CGSLVL8T/ref=cm_sw_r_as_gl_apa_gl_i_dl_58XTMDZH1CXTHJ93WTG0?linkCode=ml1&tag=noya0b-20&linkId=6b703fc0575372d245312270df659460"
         },
         {
           "asin": "B0GN4KSLZJ",
@@ -607,26 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71qE4ZWRwnL.jpg",
           "url": "https://www.amazon.com/dp/B0DX7NWLWK?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DP5K2QG4",
-          "slug": "rem-beauty-by-ariana-grande-essential-drip-lip-oil-pickin-pe",
-          "title": "r.e.m. beauty by ariana grande | Essential Drip Lip Oil - Pickin Petals - Non-Sticky Hydrating Lip Oil with Coconut Oil,",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61wSlv+susL.jpg",
-          "url": "https://www.amazon.com/dp/B0DP5K2QG4?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0CZWL344F",
-          "slug": "too-faced-naturally-better-than-sex-mascara-volumizing-nouri",
-          "title": "Too Faced Naturally Better Than Sex Mascara | Volumizing, Nourishing, Curling + Safe for Sensitive Eyes",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MRgxmyuAL._SL1500_.jpg",
-          "url": "https://amazon.com/dp/B0CZWL344F?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-26T07:50:02.761Z",
-      "updatedAt": "2026-06-26T07:50:02.762Z"
+      "generatedAt": "2026-06-26T08:00:01.683Z",
+      "updatedAt": "2026-06-26T08:00:01.683Z"
     },
     {
       "date": "2026-06-25",
@@ -10192,5 +10192,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-26T07:50:02.766Z"
+  "generatedAt": "2026-06-26T08:00:01.686Z"
 }
