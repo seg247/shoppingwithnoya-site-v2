@@ -10,8 +10,8 @@
         "Home & Kitchen",
         "Electronics",
         "Beauty",
-        "Garden & Outdoor",
-        "Cleaning Supplies"
+        "Fashion",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Other": [
@@ -110,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0DGV7L4WQ",
+            "slug": "hanes-womens-originals-supersoft-boxy-t-shirt-sleep-shorts-s",
+            "title": "Hanes Women's Originals Supersoft Boxy T-Shirt & Sleep Shorts Set, Comfywear Lounge/Sleepwear at Amazon Women’s Clothing",
+            "price": "$15",
+            "discount": 47,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61k+YH8ApEL._AC_SL1500_.jpg",
+            "url": "https://amazon.com/dp/B0DGV7L4WQ?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0CSFKKF83",
@@ -121,19 +134,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/51I-9CkCb5L.jpg",
             "url": "https://www.amazon.com/dp/B0CSFKKF83?th=1&tag=noya0b-20"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0GN4KSLZJ",
-            "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
-            "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
-            "price": "$16",
-            "discount": 40,
-            "rating": "HOT",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/61-JV6H2WKL._SL1500_.jpg",
-            "url": "https://amazon.com/dp/B0GN4KSLZJ?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
         },
         {
+          "asin": "B0DGV7L4WQ",
+          "slug": "hanes-womens-originals-supersoft-boxy-t-shirt-sleep-shorts-s",
+          "title": "Hanes Women's Originals Supersoft Boxy T-Shirt & Sleep Shorts Set, Comfywear Lounge/Sleepwear at Amazon Women’s Clothing",
+          "price": "$15",
+          "discount": 47,
+          "rating": "HOT",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61k+YH8ApEL._AC_SL1500_.jpg",
+          "url": "https://amazon.com/dp/B0DGV7L4WQ?th=1&psc=1&tag=noya0b-20"
+        },
+        {
           "asin": "B09B2SBHQK",
           "slug": "amazon-echo-show-5-newest-model-smart-display-designed-for-a",
           "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
@@ -236,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": null,
           "url": "https://amazon.com/dp/B0DBRKKHDZ?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GN4KSLZJ",
-          "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
-          "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
-          "price": "$16",
-          "discount": 40,
-          "rating": "HOT",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/61-JV6H2WKL._SL1500_.jpg",
-          "url": "https://amazon.com/dp/B0GN4KSLZJ?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-26T22:50:01.773Z",
-      "updatedAt": "2026-06-26T22:50:01.773Z"
+      "generatedAt": "2026-06-26T23:00:01.659Z",
+      "updatedAt": "2026-06-26T23:00:01.659Z"
     },
     {
       "date": "2026-06-25",
@@ -4840,5 +4840,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-26T22:50:01.774Z"
+  "generatedAt": "2026-06-26T23:00:01.661Z"
 }
