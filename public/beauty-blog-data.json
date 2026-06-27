@@ -37,16 +37,6 @@
             "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
           },
           {
-            "asin": "B0D6NZGP2R",
-            "slug": "laneige-bouncy-firm-eye-sleeping-mask-depuff-and-firm-with-p",
-            "title": "LANEIGE Bouncy & Firm Eye Sleeping Mask: Depuff and Firm with Peony & Collagen Complex, Ceramide, & 5D Hyaluronic Acid :",
-            "discount": 34,
-            "rating": "HOT",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/5153ygJtrrL.jpg",
-            "url": "https://www.amazon.com/dp/B0D6NZGP2R?tag=noya0b-20"
-          },
-          {
             "asin": "B0CS26HTGH",
             "slug": "vacation-shimmer-oil-spf-30-body-sunscreen-oil-29-fluid-ounc",
             "title": "Vacation Shimmer Oil SPF 30 Body Sunscreen Oil, 2.9 Fluid Ounces - Body Glow, Moisturizing, Water-Resistant, Enhances Al",
@@ -55,6 +45,16 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61VEFftHwLL.jpg",
             "url": "https://www.amazon.com/dp/B0CS26HTGH?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FVT77ZLL",
+            "slug": "anua-pdrn-collagen-glow-facial-serum-spray-hydrating-face-mi",
+            "title": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Ins",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
+            "url": "https://www.amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
           },
           {
             "asin": "B09HRB71DM",
@@ -209,7 +209,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71ULOHs+ejL.jpg",
             "url": "https://www.amazon.com/Shark-Professional-Performance-High-Velocity-Lightweight/dp/B0DDYDWVD1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9540d33a07abacb71bf3df6716aa04fa&language=en_US"
           },
           {
@@ -366,16 +366,6 @@
           "url": "https://www.amazon.com/dp/B0B4HKNDLQ?th=1&tag=noya0b-20"
         },
         {
-          "asin": "B0D6NZGP2R",
-          "slug": "laneige-bouncy-firm-eye-sleeping-mask-depuff-and-firm-with-p",
-          "title": "LANEIGE Bouncy & Firm Eye Sleeping Mask: Depuff and Firm with Peony & Collagen Complex, Ceramide, & 5D Hyaluronic Acid :",
-          "discount": 34,
-          "rating": "HOT",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/5153ygJtrrL.jpg",
-          "url": "https://www.amazon.com/dp/B0D6NZGP2R?tag=noya0b-20"
-        },
-        {
           "asin": "B0D4SBLLRJ",
           "slug": "rare-30-off-olaplex",
           "title": "RARE! 30% off OLAPLEX!",
@@ -406,13 +396,23 @@
           "url": "https://www.amazon.com/dp/B09JFLV454?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0FVT77ZLL",
+          "slug": "anua-pdrn-collagen-glow-facial-serum-spray-hydrating-face-mi",
+          "title": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Ins",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
+          "url": "https://www.amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DDYDWVD1",
           "slug": "shark-speedstyle-pro-flex-professional-performance-high-velo",
           "title": "Shark SpeedStyle Pro Flex Professional Performance High-Velocity Hair Dryer System with Scalp Shield & IQ Speed Styling ",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71ULOHs+ejL.jpg",
           "url": "https://www.amazon.com/Shark-Professional-Performance-High-Velocity-Lightweight/dp/B0DDYDWVD1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9540d33a07abacb71bf3df6716aa04fa&language=en_US"
         },
         {
@@ -647,7 +647,7 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include Baby Dove Sensitive Skin Care Body Lotion For Deli and LANEIGE Bouncy & Firm Eye Sleeping Mask: Depuff an. Check the full list above for current prices."
+          "a": "Today's skincare deals include Baby Dove Sensitive Skin Care Body Lotion For Deli and Vacation Shimmer Oil SPF 30 Body Sunscreen Oil, 2.. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-27T22:30:04.059Z",
-      "updatedAt": "2026-06-27T22:30:04.059Z"
+      "generatedAt": "2026-06-27T22:40:03.509Z",
+      "updatedAt": "2026-06-27T22:40:03.509Z"
     },
     {
       "date": "2026-06-26",
@@ -10857,5 +10857,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-27T22:30:04.064Z"
+  "generatedAt": "2026-06-27T22:40:03.512Z"
 }
