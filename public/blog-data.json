@@ -4,16 +4,55 @@
       "date": "2026-06-27",
       "slug": "2026-06-27",
       "title": "🔥 Best Deals Today — June 27, 2026",
-      "intro": "Today's best online deals for Saturday, June 27, 2026 — 10 hand-picked discounts across Home & Kitchen, Fashion, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, June 27, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Pet Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
-        "Fashion",
-        "Toys & Kids",
         "Beauty",
+        "Pet Supplies",
         "Electronics",
-        "Health"
+        "Fashion",
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0BPTBMJY4",
+            "slug": "curlsmith-essential-moisture-conditioner-hydrating-condition",
+            "title": "CURLSMITH Essential Moisture Conditioner - Hydrating Conditioner for Curly Hair, Lightweight and Softening, For All Curl",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0BPTBMJY4/ref=cm_sw_r_as_gl_api_gl_i_GW0WA5708M54QX2DVHXQ?linkCode=ml1&tag=noya0b-20&linkId=4dc69ca59f36e493eaa6220adc821f7b"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B0CLYP3JB4",
+            "slug": "vital-essentials-freeze-dried-dog-treats-salmon-bites-single",
+            "title": "Vital Essentials Freeze Dried Dog Treats | Salmon Bites, Single Protein | Premium Quality | Grain Free Training Treats f",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ClVuAgjBL.jpg",
+            "url": "https://www.amazon.com/dp/B0CLYP3JB4/ref=cm_sw_r_as_gl_api_gl_i_BA2S643K031A6WCFB54A?linkCode=ml1&tag=noya0b-20&linkId=021f9377d2b1ef9f3233dc3a11983a5a"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0FST4D1MF",
+            "slug": "samsung-galaxy-a56-128gb-5g-unlocked-android-smartphone-awes",
+            "title": "Samsung Galaxy A56 128GB, 5G Unlocked Android Smartphone, Awesome Olive w/ Galaxy Buds 3 FE True Wireless Bluetooth Earb",
+            "price": "$484.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FST4D1MF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B092QSFK8H",
@@ -96,48 +135,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71m+F8ff3hL.jpg",
             "url": "https://www.amazon.com/dp/B004GHBZKM/ref=cm_sw_r_as_gl_api_gl_i_ARX2PMBS6W4F8RFCYZ0K?linkCode=ml1&tag=noya0b-20&linkId=e7ad36a99fa0b37014f9e86d726ea277"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0D1Z7QYM6",
-            "slug": "geologie-moisturizing-dandruff-shampoo-1-zinc-pyrithione-bea",
-            "title": "Geologie Moisturizing Dandruff Shampoo - 1% Zinc Pyrithione : Beauty & Personal Care",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SUhRFSEVL.jpg",
-            "url": "https://www.amazon.com/dp/B0D1Z7QYM6/ref=cm_sw_r_as_gl_api_gl_i_4JMFB40TBY6B0A5A9ET2?linkCode=ml1&tag=noya0b-20&linkId=c340b84c3417c70945fe66f01d59759a"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0F1W6QZ1H",
-            "slug": "beats-usb-a-to-usb-c-woven-cable-fast-charging-durable-and-t",
-            "title": "Beats USB-A to USB-C Woven Cable Fast Charging Durable and Tangle-Free Design Compatible Charger for Apple & Android Dev",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/610gT71L1mL.jpg",
-            "url": "https://www.amazon.com/dp/B0F1W6QZ1H/ref=cm_sw_r_as_gl_api_gl_i_KD2SGQTZKDWP86RV4B7E?linkCode=ml1&tag=noya0b-20&linkId=db2988fa186232e5e452dd5f27dcf1c8"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B00BGVLG64",
-            "slug": "organic-india-moringa-herbal-supplement-green-superfood-nutr",
-            "title": "ORGANIC INDIA Moringa Herbal Supplement - Green Superfood, Nutrient Dense, Pure Plant Protein, Vitamin A, E, K, Iron, Ca",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/713aUqDEk3L.jpg",
-            "url": "https://www.amazon.com/dp/B00BGVLG64/ref=cm_sw_r_as_gl_api_gl_i_3CRKKZRCCJ504EECMMKB?linkCode=ml1&tag=noya0b-20&linkId=264eb571c294bcf3ff86d5c71d725f9f"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0BPTBMJY4",
+          "slug": "curlsmith-essential-moisture-conditioner-hydrating-condition",
+          "title": "CURLSMITH Essential Moisture Conditioner - Hydrating Conditioner for Curly Hair, Lightweight and Softening, For All Curl",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0BPTBMJY4/ref=cm_sw_r_as_gl_api_gl_i_GW0WA5708M54QX2DVHXQ?linkCode=ml1&tag=noya0b-20&linkId=4dc69ca59f36e493eaa6220adc821f7b"
+        },
+        {
+          "asin": "B0CLYP3JB4",
+          "slug": "vital-essentials-freeze-dried-dog-treats-salmon-bites-single",
+          "title": "Vital Essentials Freeze Dried Dog Treats | Salmon Bites, Single Protein | Premium Quality | Grain Free Training Treats f",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ClVuAgjBL.jpg",
+          "url": "https://www.amazon.com/dp/B0CLYP3JB4/ref=cm_sw_r_as_gl_api_gl_i_BA2S643K031A6WCFB54A?linkCode=ml1&tag=noya0b-20&linkId=021f9377d2b1ef9f3233dc3a11983a5a"
+        },
+        {
+          "asin": "B0FST4D1MF",
+          "slug": "samsung-galaxy-a56-128gb-5g-unlocked-android-smartphone-awes",
+          "title": "Samsung Galaxy A56 128GB, 5G Unlocked Android Smartphone, Awesome Olive w/ Galaxy Buds 3 FE True Wireless Bluetooth Earb",
+          "price": "$484.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FST4D1MF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B092QSFK8H",
           "slug": "zak-designs-bluey-kids-water-bottle-durable-plastic-spout-co",
@@ -214,45 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61Rdl5C2AHL.jpg",
           "url": "https://www.amazon.com/dp/B0FFPF9WBG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D1Z7QYM6",
-          "slug": "geologie-moisturizing-dandruff-shampoo-1-zinc-pyrithione-bea",
-          "title": "Geologie Moisturizing Dandruff Shampoo - 1% Zinc Pyrithione : Beauty & Personal Care",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61SUhRFSEVL.jpg",
-          "url": "https://www.amazon.com/dp/B0D1Z7QYM6/ref=cm_sw_r_as_gl_api_gl_i_4JMFB40TBY6B0A5A9ET2?linkCode=ml1&tag=noya0b-20&linkId=c340b84c3417c70945fe66f01d59759a"
-        },
-        {
-          "asin": "B0F1W6QZ1H",
-          "slug": "beats-usb-a-to-usb-c-woven-cable-fast-charging-durable-and-t",
-          "title": "Beats USB-A to USB-C Woven Cable Fast Charging Durable and Tangle-Free Design Compatible Charger for Apple & Android Dev",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/610gT71L1mL.jpg",
-          "url": "https://www.amazon.com/dp/B0F1W6QZ1H/ref=cm_sw_r_as_gl_api_gl_i_KD2SGQTZKDWP86RV4B7E?linkCode=ml1&tag=noya0b-20&linkId=db2988fa186232e5e452dd5f27dcf1c8"
-        },
-        {
-          "asin": "B00BGVLG64",
-          "slug": "organic-india-moringa-herbal-supplement-green-superfood-nutr",
-          "title": "ORGANIC INDIA Moringa Herbal Supplement - Green Superfood, Nutrient Dense, Pure Plant Protein, Vitamin A, E, K, Iron, Ca",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/713aUqDEk3L.jpg",
-          "url": "https://www.amazon.com/dp/B00BGVLG64/ref=cm_sw_r_as_gl_api_gl_i_3CRKKZRCCJ504EECMMKB?linkCode=ml1&tag=noya0b-20&linkId=264eb571c294bcf3ff86d5c71d725f9f"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 27, 2026?",
-          "a": "The best deals today include \"Zak Designs Bluey Kids Water Bottle Durable Plastic Spout Co...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"CURLSMITH Essential Moisture Conditioner - Hydrating Conditi...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-27T12:50:00.641Z",
-      "updatedAt": "2026-06-27T12:50:00.641Z"
+      "generatedAt": "2026-06-27T13:00:00.511Z",
+      "updatedAt": "2026-06-27T13:00:00.511Z"
     },
     {
       "date": "2026-06-26",
@@ -5111,5 +5111,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-27T12:50:00.643Z"
+  "generatedAt": "2026-06-27T13:00:00.513Z"
 }
