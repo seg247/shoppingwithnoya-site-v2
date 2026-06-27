@@ -10,6 +10,7 @@
         "Skincare",
         "Makeup",
         "Hair Care",
+        "Body Care",
         "Beauty"
       ],
       "bySubcat": {
@@ -53,7 +54,7 @@
             "discount": 32,
             "rating": "HOT",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61BBOVl+4lL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GQ5HHZB5?tag=noya0b-20"
           },
           {
@@ -73,7 +74,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61LMx7Z8hLL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DMC6ZRJZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=ad7bbbc324076c0b1c3a1bce310f6d11&language=en_US"
           },
           {
@@ -301,17 +302,19 @@
             "url": "https://www.amazon.com/dp/B0FRNKG5Z7?ie=UTF8&ascsubtag=c493348e71a311f1aba04ef1ad19dba30INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=1b649594136feb502317f0da96366c5c&language=en_US"
           }
         ],
-        "Beauty": [
+        "Body Care": [
           {
-            "asin": "B09JFLV454",
-            "slug": "touchland-hand-sanitizer-spray-top-5-set-5-x-1-fl-oz-beauty",
-            "title": "Touchland Hand Sanitizer Spray, Top 5 Set - 5 x 1 FL OZ : Beauty & Personal Care",
-            "discount": 30,
-            "rating": "HOT",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Sb2GzosoL.jpg",
-            "url": "https://www.amazon.com/dp/B09JFLV454?th=1&tag=noya0b-20"
-          },
+            "asin": "B08VXNT6L2",
+            "slug": "burts-bees-lip-balm-moisturizing-lip-care-100-percent-natura",
+            "title": "Burt's Bees Lip Balm, Moisturizing Lip Care, 100 Percent Natural Origin, Ultra Conditioning with Shea, Cocoa and Kokum B",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81e7r0GG4vL.jpg",
+            "url": "https://www.amazon.com/dp/B08VXNT6L2?th=1&tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
           {
             "asin": "B000JF508S",
             "slug": "clearly-natural-liquid-unscented-refill-hand-soap-32-ounce-h",
@@ -362,7 +365,7 @@
           "discount": 32,
           "rating": "HOT",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61BBOVl+4lL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GQ5HHZB5?tag=noya0b-20"
         },
         {
@@ -386,14 +389,14 @@
           "url": "https://www.amazon.com/dp/B0CS26HTGH?tag=noya0b-20"
         },
         {
-          "asin": "B09JFLV454",
-          "slug": "touchland-hand-sanitizer-spray-top-5-set-5-x-1-fl-oz-beauty",
-          "title": "Touchland Hand Sanitizer Spray, Top 5 Set - 5 x 1 FL OZ : Beauty & Personal Care",
-          "discount": 30,
-          "rating": "HOT",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Sb2GzosoL.jpg",
-          "url": "https://www.amazon.com/dp/B09JFLV454?th=1&tag=noya0b-20"
+          "asin": "B08VXNT6L2",
+          "slug": "burts-bees-lip-balm-moisturizing-lip-care-100-percent-natura",
+          "title": "Burt's Bees Lip Balm, Moisturizing Lip Care, 100 Percent Natural Origin, Ultra Conditioning with Shea, Cocoa and Kokum B",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/81e7r0GG4vL.jpg",
+          "url": "https://www.amazon.com/dp/B08VXNT6L2?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0CHH4SX9H",
@@ -422,7 +425,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61LMx7Z8hLL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DMC6ZRJZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=ad7bbbc324076c0b1c3a1bce310f6d11&language=en_US"
         },
         {
@@ -662,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-27T23:20:02.266Z",
-      "updatedAt": "2026-06-27T23:20:02.266Z"
+      "generatedAt": "2026-06-27T23:30:22.294Z",
+      "updatedAt": "2026-06-27T23:30:22.295Z"
     },
     {
       "date": "2026-06-26",
@@ -10857,5 +10860,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-27T23:20:02.275Z"
+  "generatedAt": "2026-06-27T23:30:22.301Z"
 }
