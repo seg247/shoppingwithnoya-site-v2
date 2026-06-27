@@ -4,16 +4,29 @@
       "date": "2026-06-27",
       "slug": "2026-06-27",
       "title": "🔥 Best Deals Today — June 27, 2026",
-      "intro": "Today's best online deals for Saturday, June 27, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, June 27, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
         "Other",
+        "Electronics",
         "Grocery & Food",
         "Beauty",
-        "Pet Supplies",
-        "Electronics"
+        "Pet Supplies"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0CPP4L56J",
+            "slug": "bluetooth-headset-wireless-earpiece-iphone-android-wireless",
+            "title": "Bluetooth Headset Wireless Earpiece iPhone Android Wireless Charging Case Microphone Earpiece Handsfree Single Ear Heads",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61JqjS+38cL.jpg",
+            "url": "https://www.amazon.com/dp/B0CPP4L56J/ref=cm_sw_r_as_gl_api_gl_i_JZNH49PARB8KRPFPCTX1?linkCode=ml1&tag=noya0b-20&linkId=5f7c04a96dbec07e4fb5f959140f07d1"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0G4NRPZ29",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81ClVuAgjBL.jpg",
             "url": "https://www.amazon.com/dp/B0CLYP3JB4/ref=cm_sw_r_as_gl_api_gl_i_BA2S643K031A6WCFB54A?linkCode=ml1&tag=noya0b-20&linkId=021f9377d2b1ef9f3233dc3a11983a5a"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FST4D1MF",
-            "slug": "samsung-galaxy-a56-128gb-5g-unlocked-android-smartphone-awes",
-            "title": "Samsung Galaxy A56 128GB, 5G Unlocked Android Smartphone, Awesome Olive w/ Galaxy Buds 3 FE True Wireless Bluetooth Earb",
-            "price": "$484.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FST4D1MF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CPP4L56J",
+          "slug": "bluetooth-headset-wireless-earpiece-iphone-android-wireless",
+          "title": "Bluetooth Headset Wireless Earpiece iPhone Android Wireless Charging Case Microphone Earpiece Handsfree Single Ear Heads",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61JqjS+38cL.jpg",
+          "url": "https://www.amazon.com/dp/B0CPP4L56J/ref=cm_sw_r_as_gl_api_gl_i_JZNH49PARB8KRPFPCTX1?linkCode=ml1&tag=noya0b-20&linkId=5f7c04a96dbec07e4fb5f959140f07d1"
+        },
         {
           "asin": "B0G4NRPZ29",
           "slug": "sparkling-ice-starburst-variety-pack-zero-sugar-flavored-spa",
@@ -236,23 +247,12 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81ClVuAgjBL.jpg",
           "url": "https://www.amazon.com/dp/B0CLYP3JB4/ref=cm_sw_r_as_gl_api_gl_i_BA2S643K031A6WCFB54A?linkCode=ml1&tag=noya0b-20&linkId=021f9377d2b1ef9f3233dc3a11983a5a"
-        },
-        {
-          "asin": "B0FST4D1MF",
-          "slug": "samsung-galaxy-a56-128gb-5g-unlocked-android-smartphone-awes",
-          "title": "Samsung Galaxy A56 128GB, 5G Unlocked Android Smartphone, Awesome Olive w/ Galaxy Buds 3 FE True Wireless Bluetooth Earb",
-          "price": "$484.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FST4D1MF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 27, 2026?",
-          "a": "The best deals today include \"Sparkling Ice® STARBURST™ Variety Pack, Zero Sugar Flavored ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Bluetooth Headset Wireless Earpiece iPhone Android Wireless ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-27T14:10:00.467Z",
-      "updatedAt": "2026-06-27T14:10:00.467Z"
+      "generatedAt": "2026-06-27T14:20:01.192Z",
+      "updatedAt": "2026-06-27T14:20:01.192Z"
     },
     {
       "date": "2026-06-26",
@@ -5111,5 +5111,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-27T14:10:00.469Z"
+  "generatedAt": "2026-06-27T14:20:01.194Z"
 }
