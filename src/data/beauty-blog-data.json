@@ -10,8 +10,8 @@
         "Skincare",
         "Makeup",
         "Hair Care",
-        "Beauty",
-        "Body Care"
+        "Body Care",
+        "Beauty"
       ],
       "bySubcat": {
         "Fragrance": [
@@ -44,7 +44,7 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71+qNnUDinL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
           },
           {
@@ -208,7 +208,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61ILwty6jtL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01DLPUWL2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -270,16 +270,38 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/81DP2DjmLkL.jpg",
             "url": "https://www.amazon.com/dp/B0H28KLSWB?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Body Care": [
           {
-            "asin": "B00KWT8JZC",
-            "slug": "biosilk-silk-therapy-miracle-17-leave-in-conditioner-for-dry",
-            "title": "BioSilk Silk Therapy Miracle 17, Leave-In Conditioner for Dry & Damaged Hair, Reconstructs, Repairs & Hydrates, Adds Shi",
+            "asin": "B001JQLNFU",
+            "slug": "gillette-venus-comfortglide-white-tea-womens-razor-refills-4",
+            "title": "Gillette Venus ComfortGlide White Tea Women's Razor Refills, 4 Refill Cartridges, Fits Venus Reusable Razor Handles, 3-B",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/518L22we2-L.jpg",
-            "url": "https://www.amazon.com/dp/B00KWT8JZC?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1da637dd663a5b0a5077fad0307601dd&language=en_US"
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71iC-dB78fL.jpg",
+            "url": "https://www.amazon.com/dp/B001JQLNFU/ref=cm_sw_r_as_gl_apa_gl_i_SWX7A0D0E75QR1NCQE6B?linkCode=ml1&tag=noya0b-20&linkId=2d10e37e8ae47c474e195a7614778088"
+          },
+          {
+            "asin": "B01JIRKQ04",
+            "slug": "4ct-of-axe-crisp-coconut-body-wash-only-12xx",
+            "title": "4ct of Axe Crisp Coconut Body Wash only $12.xx!",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01JIRKQ04?th=1&linkCode=sl2&tag=noya0b-20&linkId=dd8a55474deb7315656d15fe3e149d97&language=en_US"
+          },
+          {
+            "asin": "B08VXNT6L2",
+            "slug": "burts-bees-lip-balm-moisturizing-lip-care-100-percent-natura",
+            "title": "Burt's Bees Lip Balm, Moisturizing Lip Care, 100 Percent Natural Origin, Ultra Conditioning with Shea, Cocoa and Kokum B",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81e7r0GG4vL.jpg",
+            "url": "https://www.amazon.com/dp/B08VXNT6L2?th=1&tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -303,28 +325,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71KfOqiXETL.jpg",
             "url": "https://www.amazon.com/dp/B000JF508S?th=1&linkCode=sl2&tag=noya0b-20&linkId=0c3448cfd8354268c4b3655eab71a48b&language=en_US"
           }
-        ],
-        "Body Care": [
-          {
-            "asin": "B01JIRKQ04",
-            "slug": "4ct-of-axe-crisp-coconut-body-wash-only-12xx",
-            "title": "4ct of Axe Crisp Coconut Body Wash only $12.xx!",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01JIRKQ04?th=1&linkCode=sl2&tag=noya0b-20&linkId=dd8a55474deb7315656d15fe3e149d97&language=en_US"
-          },
-          {
-            "asin": "B08VXNT6L2",
-            "slug": "burts-bees-lip-balm-moisturizing-lip-care-100-percent-natura",
-            "title": "Burt's Bees Lip Balm, Moisturizing Lip Care, 100 Percent Natural Origin, Ultra Conditioning with Shea, Cocoa and Kokum B",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81e7r0GG4vL.jpg",
-            "url": "https://www.amazon.com/dp/B08VXNT6L2?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -345,7 +345,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71+qNnUDinL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B06VT8317K?th=1&linkCode=sl2&tag=noya0b-20&linkId=7caa2f59c87474162d9398e4eeaad4eb&language=en_US"
         },
         {
@@ -377,6 +377,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=df5455d96ba6e98d0e1cbdfd058020f2&language=en_US"
+        },
+        {
+          "asin": "B001JQLNFU",
+          "slug": "gillette-venus-comfortglide-white-tea-womens-razor-refills-4",
+          "title": "Gillette Venus ComfortGlide White Tea Women's Razor Refills, 4 Refill Cartridges, Fits Venus Reusable Razor Handles, 3-B",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71iC-dB78fL.jpg",
+          "url": "https://www.amazon.com/dp/B001JQLNFU/ref=cm_sw_r_as_gl_apa_gl_i_SWX7A0D0E75QR1NCQE6B?linkCode=ml1&tag=noya0b-20&linkId=2d10e37e8ae47c474e195a7614778088"
         },
         {
           "asin": "B0C3C822JN",
@@ -475,7 +485,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61ILwty6jtL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01DLPUWL2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/81DP2DjmLkL.jpg",
           "url": "https://www.amazon.com/dp/B0H28KLSWB?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B00KWT8JZC",
-          "slug": "biosilk-silk-therapy-miracle-17-leave-in-conditioner-for-dry",
-          "title": "BioSilk Silk Therapy Miracle 17, Leave-In Conditioner for Dry & Damaged Hair, Reconstructs, Repairs & Hydrates, Adds Shi",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/518L22we2-L.jpg",
-          "url": "https://www.amazon.com/dp/B00KWT8JZC?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1da637dd663a5b0a5077fad0307601dd&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-28T03:10:05.041Z",
-      "updatedAt": "2026-06-28T03:10:05.041Z"
+      "generatedAt": "2026-06-28T03:20:11.907Z",
+      "updatedAt": "2026-06-28T03:20:11.907Z"
     },
     {
       "date": "2026-06-26",
@@ -10860,5 +10860,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-28T03:10:05.044Z"
+  "generatedAt": "2026-06-28T03:20:11.910Z"
 }
