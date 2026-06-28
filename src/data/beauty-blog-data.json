@@ -10,8 +10,8 @@
         "Skincare",
         "Makeup",
         "Hair Care",
-        "Body Care",
-        "Beauty"
+        "Beauty",
+        "Body Care"
       ],
       "bySubcat": {
         "Fragrance": [
@@ -66,6 +66,16 @@
             "subcat": "Skincare",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GQ5HHZB5?tag=noya0b-20"
+          },
+          {
+            "asin": "B08KSLGXFH",
+            "slug": "neutrogena-healthy-scalp-pink-grapefruit-shampoo-for-oily-ha",
+            "title": "Neutrogena Healthy Scalp Pink Grapefruit Shampoo for Oily Hair & Scalp, 12 fl oz : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08KSLGXFH/ref=cm_sw_r_as_gl_apa_gl_i_dl_DDZH6NYGYEGJXBSPD76R?linkCode=ml1&tag=noya0b-20&linkId=4246c22b8480e8e75ef9c9dfa687ca0f"
           },
           {
             "asin": "B0F6NYKXDV",
@@ -238,7 +248,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71LFDW0DcPL.jpg",
             "url": "https://www.amazon.com/dp/B01DLPUWL2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -260,26 +270,28 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/710XXrxxqTL.jpg",
             "url": "https://www.amazon.com/dp/B0GQGHCHX8?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B000EM79NK",
-            "slug": "chi-infra-shampoo-gently-cleanses-scalp-hair-hydrating-nouri",
-            "title": "CHI Infra Shampoo, Gently Cleanses Scalp & Hair, Hydrating & Nourishing For All Hair Types, Designed for Heat Damaged Ha",
+            "asin": "B0FBX57MNX",
+            "slug": "baylis-harding-jojoba-vanilla-almond-oil-luxury-pamper-tin-g",
+            "title": "Baylis & Harding Jojoba, Vanilla & Almond Oil Luxury Pamper Tin Gift Set For Women - Vegan Friendly : Beauty & Personal ",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51uq2tfnAIL.jpg",
-            "url": "https://www.amazon.com/dp/B000EM79NK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=b887ffdf87fc693113fa4d8285f27318&language=en_US"
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61iOQ4zOchL.jpg",
+            "url": "https://www.amazon.com/dp/B0FBX57MNX/ref=cm_sw_r_as_gl_apa_gl_i_EAQ0G06T4Y9PZBSGBF56?linkCode=ml1&tag=noya0b-20&linkId=41d3349eb8605f643c7fb4fd96c72891"
           },
           {
-            "asin": "B0DPXYKXXZ",
-            "slug": "native-coconut-turmeric-shampoo-and-conditioner-contain-natu",
-            "title": "Native Coconut & Turmeric Shampoo and Conditioner Contain Naturally Derived Ingredients | All Hair Types, Color & Treate",
+            "asin": "B07L98GZH9",
+            "slug": "softsoap-milk-honey-scented-liquid-hand-soap-refill-50-ounce",
+            "title": "Softsoap Milk & Honey Scented, Liquid Hand Soap Refill, 50 Ounce : Beauty & Personal Care",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DPXYKXXZ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wrakbdvwL.jpg",
+            "url": "https://www.amazon.com/dp/B07L98GZH9?ie=UTF8&ascsubtag=69253c6a638d11f1b9ef3af1daa57d990INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a9751b8b463374724d6e28fd5701b8c3&language=en_US"
           }
         ],
         "Body Care": [
@@ -312,18 +324,6 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/81e7r0GG4vL.jpg",
             "url": "https://www.amazon.com/dp/B08VXNT6L2?th=1&tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B07L98GZH9",
-            "slug": "softsoap-milk-honey-scented-liquid-hand-soap-refill-50-ounce",
-            "title": "Softsoap Milk & Honey Scented, Liquid Hand Soap Refill, 50 Ounce : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wrakbdvwL.jpg",
-            "url": "https://www.amazon.com/dp/B07L98GZH9?ie=UTF8&ascsubtag=69253c6a638d11f1b9ef3af1daa57d990INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a9751b8b463374724d6e28fd5701b8c3&language=en_US"
           }
         ]
       },
@@ -377,6 +377,26 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
           "url": "https://www.amazon.com/dp/B0D4SBLLRJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=df5455d96ba6e98d0e1cbdfd058020f2&language=en_US"
+        },
+        {
+          "asin": "B08KSLGXFH",
+          "slug": "neutrogena-healthy-scalp-pink-grapefruit-shampoo-for-oily-ha",
+          "title": "Neutrogena Healthy Scalp Pink Grapefruit Shampoo for Oily Hair & Scalp, 12 fl oz : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B08KSLGXFH/ref=cm_sw_r_as_gl_apa_gl_i_dl_DDZH6NYGYEGJXBSPD76R?linkCode=ml1&tag=noya0b-20&linkId=4246c22b8480e8e75ef9c9dfa687ca0f"
+        },
+        {
+          "asin": "B0FBX57MNX",
+          "slug": "baylis-harding-jojoba-vanilla-almond-oil-luxury-pamper-tin-g",
+          "title": "Baylis & Harding Jojoba, Vanilla & Almond Oil Luxury Pamper Tin Gift Set For Women - Vegan Friendly : Beauty & Personal ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61iOQ4zOchL.jpg",
+          "url": "https://www.amazon.com/dp/B0FBX57MNX/ref=cm_sw_r_as_gl_apa_gl_i_EAQ0G06T4Y9PZBSGBF56?linkCode=ml1&tag=noya0b-20&linkId=41d3349eb8605f643c7fb4fd96c72891"
         },
         {
           "asin": "B0842YD1CX",
@@ -515,7 +535,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71LFDW0DcPL.jpg",
           "url": "https://www.amazon.com/dp/B01DLPUWL2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -607,26 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61P+XlLvpAL.jpg",
           "url": "https://www.amazon.com/dp/B09HRB71DM?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B000EM79NK",
-          "slug": "chi-infra-shampoo-gently-cleanses-scalp-hair-hydrating-nouri",
-          "title": "CHI Infra Shampoo, Gently Cleanses Scalp & Hair, Hydrating & Nourishing For All Hair Types, Designed for Heat Damaged Ha",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/51uq2tfnAIL.jpg",
-          "url": "https://www.amazon.com/dp/B000EM79NK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=b887ffdf87fc693113fa4d8285f27318&language=en_US"
-        },
-        {
-          "asin": "B0DPXYKXXZ",
-          "slug": "native-coconut-turmeric-shampoo-and-conditioner-contain-natu",
-          "title": "Native Coconut & Turmeric Shampoo and Conditioner Contain Naturally Derived Ingredients | All Hair Types, Color & Treate",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DPXYKXXZ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-28T06:20:05.039Z",
-      "updatedAt": "2026-06-28T06:20:05.039Z"
+      "generatedAt": "2026-06-28T06:30:03.107Z",
+      "updatedAt": "2026-06-28T06:30:03.107Z"
     },
     {
       "date": "2026-06-27",
@@ -11528,5 +11528,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-28T06:20:05.043Z"
+  "generatedAt": "2026-06-28T06:30:03.110Z"
 }
