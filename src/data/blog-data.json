@@ -9,8 +9,7 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
         "Electronics": [
@@ -38,6 +37,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B07MB2VH9Y",
+            "slug": "bosch-impact-tough-phillips-2-screwdriving-power-bits-3-12-i",
+            "title": "Bosch Impact Tough Phillips #2 Screwdriving Power Bits, 3-1/2 Inch, 10-Pack",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Oqz8akKTL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07MB2VH9Y/ref=cm_sw_r_as_gl_api_gl_i_dl_8THB2BBX822G8FWW1YMZ?linkCode=ml1&tag=noya0b-20&linkId=46250d793825563fb49900dd22333227"
+          },
           {
             "asin": "B0FC279283",
             "slug": "vasagle-console-table-2-tier-narrow-sofa-table-with-2-shelve",
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61w5RmHsV6L.jpg",
             "url": "https://www.amazon.com/dp/B0H1HN924Z?psc=1&content-id=amzn1.sym.6c90551e-661c-4342-b5cf-431d897dc288&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&linkCode=sl2&tag=noya0b-20&linkId=14b639e706cb2d2f3f994341f280e194&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0DFCCKCTS",
-            "slug": "shower-steamers-aromatherapy-18-pack-shower-bombs-natural-or",
-            "title": "Shower Steamers Aromatherapy - 18 Pack Shower Bombs Natural Organic Essential Oils, Birthday Gifts for Mom Wife, Self Ca",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HWQ+7LiTL.jpg",
-            "url": "https://www.amazon.com/dp/B0DFCCKCTS/ref=cm_sw_r_as_gl_api_gl_i_M9F77GYYJAXQC1KXEW07?linkCode=ml1&tag=noya0b-20&linkId=13b719c21f118ed2916de25b051392d4"
-          }
         ]
       },
       "deals": [
@@ -145,6 +142,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61UIjd2QtcL.jpg",
           "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
+        },
+        {
+          "asin": "B07MB2VH9Y",
+          "slug": "bosch-impact-tough-phillips-2-screwdriving-power-bits-3-12-i",
+          "title": "Bosch Impact Tough Phillips #2 Screwdriving Power Bits, 3-1/2 Inch, 10-Pack",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Oqz8akKTL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07MB2VH9Y/ref=cm_sw_r_as_gl_api_gl_i_dl_8THB2BBX822G8FWW1YMZ?linkCode=ml1&tag=noya0b-20&linkId=46250d793825563fb49900dd22333227"
         },
         {
           "asin": "B0FC279283",
@@ -233,17 +241,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61w5RmHsV6L.jpg",
           "url": "https://www.amazon.com/dp/B0H1HN924Z?psc=1&content-id=amzn1.sym.6c90551e-661c-4342-b5cf-431d897dc288&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&linkCode=sl2&tag=noya0b-20&linkId=14b639e706cb2d2f3f994341f280e194&language=en_US"
-        },
-        {
-          "asin": "B0DFCCKCTS",
-          "slug": "shower-steamers-aromatherapy-18-pack-shower-bombs-natural-or",
-          "title": "Shower Steamers Aromatherapy - 18 Pack Shower Bombs Natural Organic Essential Oils, Birthday Gifts for Mom Wife, Self Ca",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71HWQ+7LiTL.jpg",
-          "url": "https://www.amazon.com/dp/B0DFCCKCTS/ref=cm_sw_r_as_gl_api_gl_i_M9F77GYYJAXQC1KXEW07?linkCode=ml1&tag=noya0b-20&linkId=13b719c21f118ed2916de25b051392d4"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T13:50:01.843Z",
-      "updatedAt": "2026-06-28T13:50:01.843Z"
+      "generatedAt": "2026-06-28T14:00:00.523Z",
+      "updatedAt": "2026-06-28T14:00:00.523Z"
     },
     {
       "date": "2026-06-27",
@@ -5382,5 +5379,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T13:50:01.845Z"
+  "generatedAt": "2026-06-28T14:00:00.525Z"
 }
