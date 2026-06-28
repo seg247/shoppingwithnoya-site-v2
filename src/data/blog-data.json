@@ -8,7 +8,9 @@
       "categories": [
         "Grocery & Food",
         "Electronics",
-        "Beauty"
+        "Beauty",
+        "Home & Kitchen",
+        "Other"
       ],
       "byCategory": {
         "Electronics": [
@@ -33,17 +35,32 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61-so6myJUL._AC_SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0F6VV1ZFG/ref=cm_sw_r_as_gl_api_gl_i_dl_A2YKZNAD8DY7317CQ5DV?linkCode=ml1&tag=noya0b-20&linkId=64a90776ed6a66c7397c16a6efce0853"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B09XXTQPXC",
-            "slug": "ecobee-smart-thermostat-enhanced-programmable-wifi-thermosta",
-            "title": "ecobee Smart Thermostat Enhanced - Programmable Wifi Thermostat - Works with Siri, Alexa, Google Assistant - Energy Star",
-            "price": "$149.99",
+            "asin": "B0F2MQPL7Z",
+            "slug": "portable-waist-fan-10000mah-rechargeableclip-on-belt-fan-wit",
+            "title": "Portable Waist Fan 10000mAh Rechargeable,Clip on Belt Fan With 10 Speeds 16000PRM Strong Airflow,Hands-Free Hanging Neck",
+            "price": "$9",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51YWnoWYbkL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09XXTQPXC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61nc91z2Q6L.jpg",
+            "url": "https://www.amazon.com/dp/B0F2MQPL7Z/ref=cm_sw_r_as_gl_api_gl_i_dl_C06Q2WXT9G49ACJZBNE3?linkCode=ml1&tag=noya0b-20&linkId=453357633f492e39e7fa0a9187fa6b1e"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "0544562399",
+            "slug": "curious-george-classic-collection-7-book-box-set-97805445623",
+            "title": "Curious George Classic Collection: 7-Book Box Set: 9780544562394: Rey, H. A.: Books",
+            "price": "$20",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Aqzs3iABL.jpg",
+            "url": "https://www.amazon.com/dp/0544562399/ref=cm_sw_r_as_gl_api_gl_i_58AJ6T4TRNVQSDMNQ9SA?linkCode=ml1&tag=noya0b-20&linkId=de7850a0a3f3da87b692f272bd58a1b1"
           }
         ],
         "Beauty": [
@@ -68,17 +85,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/91Ga3zdj1oL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FHXWQV5R?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0FL46VFKH",
-            "slug": "dove-mencare-2-in-1-shampoo-conditioner-1-ct-dandruff-defens",
-            "title": "Dove Men+Care 2-in-1 Shampoo + Conditioner 1 ct Dandruff Defense to Moisturize Hair & Scalp, with Pyrithione Zinc, 18 FL",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/719yHySxTPL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FL46VFKH/ref=cm_sw_r_as_gl_api_gl_i_PB3H84VZME5VKPSWCBT0?linkCode=ml1&tag=noya0b-20&linkId=8fe21147f701f54dc57ce79aa48748af"
           }
         ],
         "Grocery & Food": [
@@ -139,6 +145,28 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61UIjd2QtcL.jpg",
           "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
+        },
+        {
+          "asin": "B0F2MQPL7Z",
+          "slug": "portable-waist-fan-10000mah-rechargeableclip-on-belt-fan-wit",
+          "title": "Portable Waist Fan 10000mAh Rechargeable,Clip on Belt Fan With 10 Speeds 16000PRM Strong Airflow,Hands-Free Hanging Neck",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61nc91z2Q6L.jpg",
+          "url": "https://www.amazon.com/dp/B0F2MQPL7Z/ref=cm_sw_r_as_gl_api_gl_i_dl_C06Q2WXT9G49ACJZBNE3?linkCode=ml1&tag=noya0b-20&linkId=453357633f492e39e7fa0a9187fa6b1e"
+        },
+        {
+          "asin": "0544562399",
+          "slug": "curious-george-classic-collection-7-book-box-set-97805445623",
+          "title": "Curious George Classic Collection: 7-Book Box Set: 9780544562394: Rey, H. A.: Books",
+          "price": "$20",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Aqzs3iABL.jpg",
+          "url": "https://www.amazon.com/dp/0544562399/ref=cm_sw_r_as_gl_api_gl_i_58AJ6T4TRNVQSDMNQ9SA?linkCode=ml1&tag=noya0b-20&linkId=de7850a0a3f3da87b692f272bd58a1b1"
         },
         {
           "asin": "B0DMXJPM4T",
@@ -216,28 +244,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81QafwvWO+L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00UJIYQ6W?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B09XXTQPXC",
-          "slug": "ecobee-smart-thermostat-enhanced-programmable-wifi-thermosta",
-          "title": "ecobee Smart Thermostat Enhanced - Programmable Wifi Thermostat - Works with Siri, Alexa, Google Assistant - Energy Star",
-          "price": "$149.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51YWnoWYbkL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09XXTQPXC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FL46VFKH",
-          "slug": "dove-mencare-2-in-1-shampoo-conditioner-1-ct-dandruff-defens",
-          "title": "Dove Men+Care 2-in-1 Shampoo + Conditioner 1 ct Dandruff Defense to Moisturize Hair & Scalp, with Pyrithione Zinc, 18 FL",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/719yHySxTPL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FL46VFKH/ref=cm_sw_r_as_gl_api_gl_i_PB3H84VZME5VKPSWCBT0?linkCode=ml1&tag=noya0b-20&linkId=8fe21147f701f54dc57ce79aa48748af"
         }
       ],
       "faq": [
@@ -262,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T11:50:01.306Z",
-      "updatedAt": "2026-06-28T11:50:01.306Z"
+      "generatedAt": "2026-06-28T12:00:01.558Z",
+      "updatedAt": "2026-06-28T12:00:01.558Z"
     },
     {
       "date": "2026-06-27",
@@ -5376,5 +5382,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T11:50:01.308Z"
+  "generatedAt": "2026-06-28T12:00:01.560Z"
 }
