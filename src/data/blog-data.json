@@ -9,6 +9,7 @@
         "Home & Kitchen",
         "Other",
         "Electronics",
+        "Beauty",
         "Personal Care"
       ],
       "byCategory": {
@@ -23,6 +24,17 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81MAL0hLasL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B000V6XRFS?th=1&linkCode=sl2&tag=noya0b-20&linkId=4275bfb0abba405a7a484f7ce4d30b86&language=en_US"
+          },
+          {
+            "asin": "B07WSK9V8Q",
+            "slug": "diono-baby-car-mirror-2-pack-includes-safety-car-seat-mirror",
+            "title": "Diono Baby Car Mirror 2 Pack, Includes Safety Car Seat Mirror for Rear Facing Infant & See Me Too Rear View Baby Mirror ",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07WSK9V8Q?th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=df252e31b126216f7fa80de9b0d9f8f6&language=en_US"
           },
           {
             "asin": "B0CKTY2QT4",
@@ -71,6 +83,19 @@
             "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0F11LT6MK",
+            "slug": "anua-serum-discovery-trio-hyaluronic-acid-pdrn-azelaic-acid",
+            "title": "Anua Serum Discovery Trio, Hyaluronic Acid, PDRN, Azelaic Acid & TXA Face Serum Kit, Mini Travel Essentials for Soothing",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61sSYnrc1zL.jpg",
+            "url": "https://www.amazon.com/dp/B0F11LT6MK?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B07G2HWJWC",
@@ -93,28 +118,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B06XYFXD56?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0F4R6VG3Y",
-            "slug": "kingstone-hammered-silverware-set-5-piece-flatware-set-for-1",
-            "title": "Kingstone Hammered Silverware Set, 5-Piece Flatware Set for 1, 18/10 Stainless Steel Heavy Duty Cutlery Set, Mirror Poli",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Cg2G+A4ZL.jpg",
-            "url": "https://www.amazon.com/dp/B0F4R6VG3Y?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B000VCFB0G",
-            "slug": "bounty-paper-napkins-white-200-count-packaging-may-vary-heal",
-            "title": "Bounty Paper Napkins, White, 200 Count, Packaging may vary : Health & Household",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/713W0aBBUbL.jpg",
-            "url": "https://www.amazon.com/dp/B000VCFB0G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d41545c23182b887f387b7268c1b0f56&language=en_US"
           }
         ],
         "Personal Care": [
@@ -153,6 +156,28 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61UIjd2QtcL.jpg",
           "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
+        },
+        {
+          "asin": "B07WSK9V8Q",
+          "slug": "diono-baby-car-mirror-2-pack-includes-safety-car-seat-mirror",
+          "title": "Diono Baby Car Mirror 2 Pack, Includes Safety Car Seat Mirror for Rear Facing Infant & See Me Too Rear View Baby Mirror ",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07WSK9V8Q?th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=df252e31b126216f7fa80de9b0d9f8f6&language=en_US"
+        },
+        {
+          "asin": "B0F11LT6MK",
+          "slug": "anua-serum-discovery-trio-hyaluronic-acid-pdrn-azelaic-acid",
+          "title": "Anua Serum Discovery Trio, Hyaluronic Acid, PDRN, Azelaic Acid & TXA Face Serum Kit, Mini Travel Essentials for Soothing",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61sSYnrc1zL.jpg",
+          "url": "https://www.amazon.com/dp/B0F11LT6MK?tag=noya0b-20"
         },
         {
           "asin": "B07G2HWJWC",
@@ -219,28 +244,6 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/41vgQVo7+VL.jpg",
           "url": "https://www.amazon.com/dp/B0DSXN8NQC?ascsubtag=srctok-78ce9c1363366266&btn_ref=srctok-78ce9c1363366266&th=1&linkCode=sl2&tag=noya0b-20&linkId=d21cdcb0e90f26ad68eb5bd52dae87eb&language=en_US"
-        },
-        {
-          "asin": "B0F4R6VG3Y",
-          "slug": "kingstone-hammered-silverware-set-5-piece-flatware-set-for-1",
-          "title": "Kingstone Hammered Silverware Set, 5-Piece Flatware Set for 1, 18/10 Stainless Steel Heavy Duty Cutlery Set, Mirror Poli",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Cg2G+A4ZL.jpg",
-          "url": "https://www.amazon.com/dp/B0F4R6VG3Y?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B000VCFB0G",
-          "slug": "bounty-paper-napkins-white-200-count-packaging-may-vary-heal",
-          "title": "Bounty Paper Napkins, White, 200 Count, Packaging may vary : Health & Household",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/713W0aBBUbL.jpg",
-          "url": "https://www.amazon.com/dp/B000VCFB0G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d41545c23182b887f387b7268c1b0f56&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T20:50:00.510Z",
-      "updatedAt": "2026-06-28T20:50:00.510Z"
+      "generatedAt": "2026-06-28T21:00:01.711Z",
+      "updatedAt": "2026-06-28T21:00:01.711Z"
     },
     {
       "date": "2026-06-27",
@@ -5379,5 +5382,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T20:50:00.512Z"
+  "generatedAt": "2026-06-28T21:00:01.714Z"
 }
