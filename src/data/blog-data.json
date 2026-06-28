@@ -8,8 +8,7 @@
       "categories": [
         "Grocery & Food",
         "Electronics",
-        "Beauty",
-        "Other"
+        "Beauty"
       ],
       "byCategory": {
         "Electronics": [
@@ -48,6 +47,17 @@
           }
         ],
         "Beauty": [
+          {
+            "asin": "B0DMXJPM4T",
+            "slug": "dyson-supersonic-nural-hair-dryer",
+            "title": "Dyson Supersonic Nural™ Hair Dryer",
+            "price": "$349",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ARByQFAaL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DMXJPM4T/ref=cm_sw_r_as_gl_api_gl_i_dl_T2MTCVF8T8A1N425MW3X?linkCode=ml1&tag=noya0b-20&linkId=0603e5a185655da0d481d3873f75107d"
+          },
           {
             "asin": "B0FHXWQV5R",
             "slug": "chapstick-advent-calendar-2025-cozy-countdown-to-christmas-v",
@@ -116,19 +126,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81QafwvWO+L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00UJIYQ6W?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B01GQ5H8XY",
-            "slug": "essentia-water-water-ionized-alkaline-12-fl-oz-12-pack",
-            "title": "Essentia Water, Water Ionized Alkaline, 12 Fl Oz, 12 Pack",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Idvzzb2FL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B01GQ5H8XY/ref=cm_sw_r_as_gl_api_gl_i_BZTCAMYEKZH474YJGAB8?linkCode=ml1&tag=noya0b-20&linkId=9ab73eb3c58f4ac8d49330befbc737c0"
-          }
         ]
       },
       "deals": [
@@ -142,6 +139,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61UIjd2QtcL.jpg",
           "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
+        },
+        {
+          "asin": "B0DMXJPM4T",
+          "slug": "dyson-supersonic-nural-hair-dryer",
+          "title": "Dyson Supersonic Nural™ Hair Dryer",
+          "price": "$349",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ARByQFAaL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DMXJPM4T/ref=cm_sw_r_as_gl_api_gl_i_dl_T2MTCVF8T8A1N425MW3X?linkCode=ml1&tag=noya0b-20&linkId=0603e5a185655da0d481d3873f75107d"
         },
         {
           "asin": "B0FHXWQV5R",
@@ -230,17 +238,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/719yHySxTPL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FL46VFKH/ref=cm_sw_r_as_gl_api_gl_i_PB3H84VZME5VKPSWCBT0?linkCode=ml1&tag=noya0b-20&linkId=8fe21147f701f54dc57ce79aa48748af"
-        },
-        {
-          "asin": "B01GQ5H8XY",
-          "slug": "essentia-water-water-ionized-alkaline-12-fl-oz-12-pack",
-          "title": "Essentia Water, Water Ionized Alkaline, 12 Fl Oz, 12 Pack",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Idvzzb2FL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B01GQ5H8XY/ref=cm_sw_r_as_gl_api_gl_i_BZTCAMYEKZH474YJGAB8?linkCode=ml1&tag=noya0b-20&linkId=9ab73eb3c58f4ac8d49330befbc737c0"
         }
       ],
       "faq": [
@@ -265,8 +262,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T11:30:01.469Z",
-      "updatedAt": "2026-06-28T11:30:01.469Z"
+      "generatedAt": "2026-06-28T11:40:02.060Z",
+      "updatedAt": "2026-06-28T11:40:02.060Z"
     },
     {
       "date": "2026-06-27",
@@ -5379,5 +5376,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T11:30:01.471Z"
+  "generatedAt": "2026-06-28T11:40:02.063Z"
 }
