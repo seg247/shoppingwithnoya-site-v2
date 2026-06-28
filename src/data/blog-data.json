@@ -4,17 +4,41 @@
       "date": "2026-06-28",
       "slug": "2026-06-28",
       "title": "🔥 Best Deals Today — June 28, 2026",
-      "intro": "Today's best online deals for Sunday, June 28, 2026 — 10 hand-picked discounts across Other, Beauty, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, June 28, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Beauty",
-        "Cleaning Supplies",
         "Home & Kitchen",
+        "Cleaning Supplies",
+        "Beauty",
         "Fashion",
         "Garden & Outdoor",
         "Grocery & Food"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0CMFTKPF5",
+            "slug": "fisher-price-wood-kitchen-pretend-play-toy-pots-pans-set-19",
+            "title": "Fisher-Price Wood Kitchen Pretend Play Toy Pots & Pans Set, 19-Piece Playset Wooden, Metal & Fabric for Preschool Kids A",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71GgXMU1soL.jpg",
+            "url": "https://www.amazon.com/dp/B0CMFTKPF5/ref=cm_sw_r_as_gl_apa_gl_i_S18WP43MK71Z4ZYGH8DH?linkCode=ml1&tag=noya0b-20&linkId=738df17402e1e5a4890c738ec16e9a8e"
+          },
+          {
+            "asin": "B0DZNG7JYK",
+            "slug": "34oz-round-glass-storage-containers-with-bamboo-lids-6-pack",
+            "title": "34oz Round Glass Storage Containers with Bamboo Lids – 6 Pack Medium Clear Food Airtight Glass Jars",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81RPlLt8ZlL.jpg",
+            "url": "https://www.amazon.com/dp/B0DZNG7JYK?th=1&linkCode=sl2&tag=noya0b-20&linkId=8f220f8e5056eab155f9e0bb5c9699bd&language=en_US"
+          }
+        ],
         "Other": [
           {
             "asin": "B0F2SQRKLK",
@@ -63,19 +87,6 @@
             "url": "https://www.amazon.com/dp/B0G5ZW65C2/ref=cm_sw_r_as_gl_apa_gl_i_WWT3NVR63X5E926EAEVS?linkCode=ml1&tag=noya0b-20&linkId=ef22847e8eadc76e70bd6838037df076"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DZNG7JYK",
-            "slug": "34oz-round-glass-storage-containers-with-bamboo-lids-6-pack",
-            "title": "34oz Round Glass Storage Containers with Bamboo Lids – 6 Pack Medium Clear Food Airtight Glass Jars",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81RPlLt8ZlL.jpg",
-            "url": "https://www.amazon.com/dp/B0DZNG7JYK?th=1&linkCode=sl2&tag=noya0b-20&linkId=8f220f8e5056eab155f9e0bb5c9699bd&language=en_US"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0842YD1CX",
@@ -87,17 +98,6 @@
             "category": "Beauty",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0842YD1CX/ref=cm_sw_r_as_gl_apa_gl_i_CW8C0AJX68P8WXTXR67Q?linkCode=ml1&tag=noya0b-20&linkId=b83edf373bbeb79554dca134c0e396dc"
-          },
-          {
-            "asin": "B0FL2CJH2T",
-            "slug": "color-nymph-girls-makeup-gift-set-for-teens-makeup-kit-for-g",
-            "title": "Color Nymph Girls Makeup Gift Set for Teens, Makeup Kit for Girl, Birthday Gift for Teen Girls, 24Pcs Birthday Advent Ca",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81WyjdbZANL.jpg",
-            "url": "https://www.amazon.com/dp/B0FL2CJH2T/ref=cm_sw_r_as_gl_apa_gl_i_dl_8G766XFCDSK4WW0DWD4H?linkCode=ml1&tag=noya0b-20&linkId=61fe7f01ff5d8368616f1f8f52993108"
           }
         ],
         "Fashion": [
@@ -141,6 +141,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0CMFTKPF5",
+          "slug": "fisher-price-wood-kitchen-pretend-play-toy-pots-pans-set-19",
+          "title": "Fisher-Price Wood Kitchen Pretend Play Toy Pots & Pans Set, 19-Piece Playset Wooden, Metal & Fabric for Preschool Kids A",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71GgXMU1soL.jpg",
+          "url": "https://www.amazon.com/dp/B0CMFTKPF5/ref=cm_sw_r_as_gl_apa_gl_i_S18WP43MK71Z4ZYGH8DH?linkCode=ml1&tag=noya0b-20&linkId=738df17402e1e5a4890c738ec16e9a8e"
+        },
         {
           "asin": "B0F2SQRKLK",
           "slug": "satin-blindfold-comfortable-eye-mask-blindfold-for-women-men",
@@ -239,23 +250,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81-h1MdYaSL.jpg",
           "url": "https://www.amazon.com/dp/B083254TP6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FL2CJH2T",
-          "slug": "color-nymph-girls-makeup-gift-set-for-teens-makeup-kit-for-g",
-          "title": "Color Nymph Girls Makeup Gift Set for Teens, Makeup Kit for Girl, Birthday Gift for Teen Girls, 24Pcs Birthday Advent Ca",
-          "price": "$18",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81WyjdbZANL.jpg",
-          "url": "https://www.amazon.com/dp/B0FL2CJH2T/ref=cm_sw_r_as_gl_apa_gl_i_dl_8G766XFCDSK4WW0DWD4H?linkCode=ml1&tag=noya0b-20&linkId=61fe7f01ff5d8368616f1f8f52993108"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 28, 2026?",
-          "a": "The best deals today include \"Satin Blindfold- Comfortable Eye Mask Blindfold for Women Me...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Cleaning Supplies and are updated daily."
+          "a": "The best deals today include \"Fisher-Price Wood Kitchen Pretend Play Toy Pots & Pans Set, ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T04:40:01.285Z",
-      "updatedAt": "2026-06-28T04:40:01.285Z"
+      "generatedAt": "2026-06-28T04:50:01.750Z",
+      "updatedAt": "2026-06-28T04:50:01.750Z"
     },
     {
       "date": "2026-06-27",
@@ -5388,5 +5388,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T04:40:01.287Z"
+  "generatedAt": "2026-06-28T04:50:01.752Z"
 }
