@@ -10,9 +10,9 @@
         "Grocery & Food",
         "Home & Kitchen",
         "Electronics",
+        "Personal Care",
         "Fashion",
-        "Beauty",
-        "Health"
+        "Beauty"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -41,7 +41,31 @@
             "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
           }
         ],
+        "Personal Care": [
+          {
+            "asin": "B0DSXN8NQC",
+            "slug": "band-aid-brand-sheer-spots-adhesive-small-square-bandages-st",
+            "title": "BAND-AID Brand Sheer Spots Adhesive Small Square Bandages, Sterile, Individually Wrapped Discreet First Aid & Wound Care",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/41vgQVo7+VL.jpg",
+            "url": "https://www.amazon.com/dp/B0DSXN8NQC?ascsubtag=srctok-78ce9c1363366266&btn_ref=srctok-78ce9c1363366266&th=1&linkCode=sl2&tag=noya0b-20&linkId=d21cdcb0e90f26ad68eb5bd52dae87eb&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0F4R6VG3Y",
+            "slug": "kingstone-hammered-silverware-set-5-piece-flatware-set-for-1",
+            "title": "Kingstone Hammered Silverware Set, 5-Piece Flatware Set for 1, 18/10 Stainless Steel Heavy Duty Cutlery Set, Mirror Poli",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Cg2G+A4ZL.jpg",
+            "url": "https://www.amazon.com/dp/B0F4R6VG3Y?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B000VCFB0G",
             "slug": "bounty-paper-napkins-white-200-count-packaging-may-vary-heal",
@@ -63,17 +87,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00YWOTM5E?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GHXXXCPF",
-            "slug": "thin-bling-diamond-band-compatible-with-gold-apple-watch-ban",
-            "title": "Thin Bling Diamond Band Compatible with Gold Apple Watch Bands for Women Dressy 40mm 42mm 41mm 38mm, Slim Sparkly Bracel",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71hIUIRmgBL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GHXXXCPF?th=1&psc=1&tag=noya0b-20"
           }
         ],
         "Grocery & Food": [
@@ -125,19 +138,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01JIRKQ04?ie=UTF8&ascsubtag=f470e858728011f183ca7ab0c1a8bee20INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1bf5affc4461e57bd23d9d87105097bf&language=en_US"
           }
-        ],
-        "Health": [
-          {
-            "asin": "B0FHJBWYP2",
-            "slug": "crest-3d-white-brilliance-blast-teeth-whitening-toothpaste-4",
-            "title": "Crest 3D White Brilliance Blast Teeth Whitening Toothpaste, 4.6 oz, Anticavity Fluoride Toothpaste, 100% More Surface St",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71i-qttfCyL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHJBWYP2?smid=ATVPDKIKX0DER&psc=1&th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=d9b9cb9a573cfce77aa1ac8d2f134c03&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,28 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61UIjd2QtcL.jpg",
           "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
+        },
+        {
+          "asin": "B0DSXN8NQC",
+          "slug": "band-aid-brand-sheer-spots-adhesive-small-square-bandages-st",
+          "title": "BAND-AID Brand Sheer Spots Adhesive Small Square Bandages, Sterile, Individually Wrapped Discreet First Aid & Wound Care",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/41vgQVo7+VL.jpg",
+          "url": "https://www.amazon.com/dp/B0DSXN8NQC?ascsubtag=srctok-78ce9c1363366266&btn_ref=srctok-78ce9c1363366266&th=1&linkCode=sl2&tag=noya0b-20&linkId=d21cdcb0e90f26ad68eb5bd52dae87eb&language=en_US"
+        },
+        {
+          "asin": "B0F4R6VG3Y",
+          "slug": "kingstone-hammered-silverware-set-5-piece-flatware-set-for-1",
+          "title": "Kingstone Hammered Silverware Set, 5-Piece Flatware Set for 1, 18/10 Stainless Steel Heavy Duty Cutlery Set, Mirror Poli",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Cg2G+A4ZL.jpg",
+          "url": "https://www.amazon.com/dp/B0F4R6VG3Y?th=1&tag=noya0b-20"
         },
         {
           "asin": "B000VCFB0G",
@@ -228,28 +250,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71UNf9j2qQL.jpg",
           "url": "https://www.amazon.com/dp/B0D9B5HSLC?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FHJBWYP2",
-          "slug": "crest-3d-white-brilliance-blast-teeth-whitening-toothpaste-4",
-          "title": "Crest 3D White Brilliance Blast Teeth Whitening Toothpaste, 4.6 oz, Anticavity Fluoride Toothpaste, 100% More Surface St",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71i-qttfCyL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHJBWYP2?smid=ATVPDKIKX0DER&psc=1&th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=d9b9cb9a573cfce77aa1ac8d2f134c03&language=en_US"
-        },
-        {
-          "asin": "B0GHXXXCPF",
-          "slug": "thin-bling-diamond-band-compatible-with-gold-apple-watch-ban",
-          "title": "Thin Bling Diamond Band Compatible with Gold Apple Watch Bands for Women Dressy 40mm 42mm 41mm 38mm, Slim Sparkly Bracel",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71hIUIRmgBL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GHXXXCPF?th=1&psc=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T20:30:00.358Z",
-      "updatedAt": "2026-06-28T20:30:00.358Z"
+      "generatedAt": "2026-06-28T20:40:01.384Z",
+      "updatedAt": "2026-06-28T20:40:01.384Z"
     },
     {
       "date": "2026-06-27",
@@ -5388,5 +5388,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T20:30:00.359Z"
+  "generatedAt": "2026-06-28T20:40:01.386Z"
 }
