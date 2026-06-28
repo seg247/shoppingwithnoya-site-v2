@@ -11,6 +11,7 @@
         "Electronics",
         "Grocery & Food",
         "Toys & Kids",
+        "Fashion",
         "Other"
       ],
       "byCategory": {
@@ -36,17 +37,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71KFmL9-fyL.jpg",
             "url": "https://www.amazon.com/dp/B00EDTE2Q2?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0G2LZS61F",
-            "slug": "dumos-l-shaped-desk-computer-gaming-desks-corner-office-tabl",
-            "title": "DUMOS L Shaped Desk, Computer Gaming Desks Corner Office Table with CPU Shelf for Home Study Writing Work Station 50 Inc",
-            "price": "$41",
-            "discount": 36,
-            "rating": "HOT",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81UwFcyD5sL.jpg",
-            "url": "https://www.amazon.com/dp/B0G2LZS61F?th=1&tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -123,6 +113,19 @@
             "url": "https://www.amazon.com/dp/B09988SM28?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0BXPJS7L5",
+            "slug": "the-drop-womens-pattie-high-block-heeled-mule-sandal-pewter",
+            "title": "The Drop Women's Pattie High Block-heeled Mule Sandal, Pewter Clear, 9 : Clothing, Shoes & Jewelry",
+            "price": "$27",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/713flKWUXTL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BXPJS7L5?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0FXB1V3VH",
@@ -194,6 +197,17 @@
           "url": "https://www.amazon.com/dp/B09988SM28?tag=noya0b-20"
         },
         {
+          "asin": "B0BXPJS7L5",
+          "slug": "the-drop-womens-pattie-high-block-heeled-mule-sandal-pewter",
+          "title": "The Drop Women's Pattie High Block-heeled Mule Sandal, Pewter Clear, 9 : Clothing, Shoes & Jewelry",
+          "price": "$27",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/713flKWUXTL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0BXPJS7L5?th=1&psc=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0FXB1V3VH",
           "slug": "luxeflow-26-farmhouse-table-lamps-for-living-room-set-of-2-3",
           "title": "luxeflow 26\" Farmhouse Table Lamps for Living Room Set of 2, 3-Way Dimmable Touch Control Bedside Lamp with USB A+C Port",
@@ -236,17 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71KFmL9-fyL.jpg",
           "url": "https://www.amazon.com/dp/B00EDTE2Q2?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0G2LZS61F",
-          "slug": "dumos-l-shaped-desk-computer-gaming-desks-corner-office-tabl",
-          "title": "DUMOS L Shaped Desk, Computer Gaming Desks Corner Office Table with CPU Shelf for Home Study Writing Work Station 50 Inc",
-          "price": "$41",
-          "discount": 36,
-          "rating": "HOT",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81UwFcyD5sL.jpg",
-          "url": "https://www.amazon.com/dp/B0G2LZS61F?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T23:00:01.454Z",
-      "updatedAt": "2026-06-28T23:00:01.454Z"
+      "generatedAt": "2026-06-28T23:10:01.797Z",
+      "updatedAt": "2026-06-28T23:10:01.797Z"
     },
     {
       "date": "2026-06-27",
@@ -5385,5 +5388,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T23:00:01.457Z"
+  "generatedAt": "2026-06-28T23:10:01.799Z"
 }
