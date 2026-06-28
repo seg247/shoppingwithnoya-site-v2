@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
-        "Beauty",
-        "Grocery & Food"
+        "Health",
+        "Beauty"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -50,20 +50,42 @@
             "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
           }
         ],
-        "Beauty": [
+        "Health": [
           {
-            "asin": "B0037LOPQY",
-            "slug": "gillette-venus-tropical-womens-disposable-razor-3-count-beau",
-            "title": "Gillette Venus Tropical Women's Disposable Razor, 3 Count : Beauty & Personal Care",
-            "price": "$3",
+            "asin": "B0FHJBWYP2",
+            "slug": "crest-3d-white-brilliance-blast-teeth-whitening-toothpaste-4",
+            "title": "Crest 3D White Brilliance Blast Teeth Whitening Toothpaste, 4.6 oz, Anticavity Fluoride Toothpaste, 100% More Surface St",
+            "price": "$6",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/816vyC3oClL.jpg",
-            "url": "https://www.amazon.com/dp/B0037LOPQY/ref?th=1&linkCode=sl2&tag=noya0b-20&linkId=9636557ae11cf824b0c1fd0b62a3c781&language=en_US"
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71i-qttfCyL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHJBWYP2?smid=ATVPDKIKX0DER&psc=1&th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=d9b9cb9a573cfce77aa1ac8d2f134c03&language=en_US"
           }
         ],
         "Other": [
+          {
+            "asin": "B0GHXXXCPF",
+            "slug": "thin-bling-diamond-band-compatible-with-gold-apple-watch-ban",
+            "title": "Thin Bling Diamond Band Compatible with Gold Apple Watch Bands for Women Dressy 40mm 42mm 41mm 38mm, Slim Sparkly Bracel",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71hIUIRmgBL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GHXXXCPF?th=1&psc=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0BQZFVJTB",
+            "slug": "keep-checking-stock",
+            "title": "Keep checking stock:",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41iUUKtyDPL.jpg",
+            "url": "https://www.amazon.com/dp/B0BQZFVJTB/ref=cm_sw_r_as_gl_api_gl_i_4YQ0VSG8N9WGCFY2RXAH?linkCode=ml1&tag=noya0b-20&linkId=f0f09b07c27269e2b7b22cf9b07fe752"
+          },
           {
             "asin": "B0CFGQBCDX",
             "slug": "furbo-360-cat-camera-subscription-required-unlock-wpaid-plan",
@@ -96,41 +118,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61Fk9B9JrWL._AC_SL1001_.jpg",
             "url": "https://www.amazon.com/dp/B0GHMWM9HL?pd_rd_i=B0GHMWM9HL&content-id=amzn1.sym.4f5afe61-a551-4f21-a495-c7c4f2997a96&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl2&tag=noya0b-20&linkId=e2c5144ae04fd619bffed6ec44771281&language=en_US"
-          },
-          {
-            "asin": "B0FQ458DQH",
-            "slug": "acessorz-sourdough-bread-baking-suppliessourdough-starter-ki",
-            "title": "Acessorz Sourdough Bread Baking Supplies,Sourdough Starter Kit,2 Cotton Rope Banneton Proofing Basket,Bread Proofing Bas",
-            "price": "$20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91Mbur5SekL.jpg",
-            "url": "https://www.amazon.com/dp/B0FQ458DQH?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FQ458DQH",
-            "slug": "acessorz-sourdough-bread-baking-suppliessourdough-starter-ki",
-            "title": "Acessorz Sourdough Bread Baking Supplies,Sourdough Starter Kit,2 Cotton Rope Banneton Proofing Basket,Bread Proofing Bas",
-            "price": "$20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91Mbur5SekL.jpg",
-            "url": "https://www.amazon.com/dp/B0FQ458DQH?tag=noya0b-20"
           }
         ],
-        "Grocery & Food": [
+        "Beauty": [
           {
-            "asin": "B000MDHH06",
-            "slug": "breville-bje200xl-juice-fountain-compact-centrifugal-machine",
-            "title": "Breville BJE200XL Juice Fountain Compact Centrifugal Machine, 25 fl oz, Silver: Electric Centrifugal Juicers: Home & Kit",
-            "price": "$56",
+            "asin": "B0037LOPQY",
+            "slug": "gillette-venus-tropical-womens-disposable-razor-3-count-beau",
+            "title": "Gillette Venus Tropical Women's Disposable Razor, 3 Count : Beauty & Personal Care",
+            "price": "$3",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Breville-BJE200XL-Fountain-700-Watt-Extractor/dp/B000MDHH06?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=5fb04550b0ca0330f13d4729ba22ff78&language=en_US"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/816vyC3oClL.jpg",
+            "url": "https://www.amazon.com/dp/B0037LOPQY/ref?th=1&linkCode=sl2&tag=noya0b-20&linkId=9636557ae11cf824b0c1fd0b62a3c781&language=en_US"
           }
         ]
       },
@@ -156,6 +156,39 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61UIjd2QtcL.jpg",
           "url": "https://www.amazon.com/JBL-Live-670NC-Ear-Lightweight/dp/B0CQ1HP1QC?th=1&linkCode=sl2&tag=noya0b-20&linkId=0358015e920c5205a0046c68aa42b7d1&language=en_US"
+        },
+        {
+          "asin": "B0FHJBWYP2",
+          "slug": "crest-3d-white-brilliance-blast-teeth-whitening-toothpaste-4",
+          "title": "Crest 3D White Brilliance Blast Teeth Whitening Toothpaste, 4.6 oz, Anticavity Fluoride Toothpaste, 100% More Surface St",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71i-qttfCyL.jpg",
+          "url": "https://www.amazon.com/dp/B0FHJBWYP2?smid=ATVPDKIKX0DER&psc=1&th=1&geniuslink=true&linkCode=sl2&tag=noya0b-20&linkId=d9b9cb9a573cfce77aa1ac8d2f134c03&language=en_US"
+        },
+        {
+          "asin": "B0GHXXXCPF",
+          "slug": "thin-bling-diamond-band-compatible-with-gold-apple-watch-ban",
+          "title": "Thin Bling Diamond Band Compatible with Gold Apple Watch Bands for Women Dressy 40mm 42mm 41mm 38mm, Slim Sparkly Bracel",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71hIUIRmgBL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GHXXXCPF?th=1&psc=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0BQZFVJTB",
+          "slug": "keep-checking-stock",
+          "title": "Keep checking stock:",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/41iUUKtyDPL.jpg",
+          "url": "https://www.amazon.com/dp/B0BQZFVJTB/ref=cm_sw_r_as_gl_api_gl_i_4YQ0VSG8N9WGCFY2RXAH?linkCode=ml1&tag=noya0b-20&linkId=f0f09b07c27269e2b7b22cf9b07fe752"
         },
         {
           "asin": "B0037LOPQY",
@@ -211,39 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61Fk9B9JrWL._AC_SL1001_.jpg",
           "url": "https://www.amazon.com/dp/B0GHMWM9HL?pd_rd_i=B0GHMWM9HL&content-id=amzn1.sym.4f5afe61-a551-4f21-a495-c7c4f2997a96&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl2&tag=noya0b-20&linkId=e2c5144ae04fd619bffed6ec44771281&language=en_US"
-        },
-        {
-          "asin": "B000MDHH06",
-          "slug": "breville-bje200xl-juice-fountain-compact-centrifugal-machine",
-          "title": "Breville BJE200XL Juice Fountain Compact Centrifugal Machine, 25 fl oz, Silver: Electric Centrifugal Juicers: Home & Kit",
-          "price": "$56",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Breville-BJE200XL-Fountain-700-Watt-Extractor/dp/B000MDHH06?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=5fb04550b0ca0330f13d4729ba22ff78&language=en_US"
-        },
-        {
-          "asin": "B0FQ458DQH",
-          "slug": "acessorz-sourdough-bread-baking-suppliessourdough-starter-ki",
-          "title": "Acessorz Sourdough Bread Baking Supplies,Sourdough Starter Kit,2 Cotton Rope Banneton Proofing Basket,Bread Proofing Bas",
-          "price": "$20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/91Mbur5SekL.jpg",
-          "url": "https://www.amazon.com/dp/B0FQ458DQH?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FQ458DQH",
-          "slug": "acessorz-sourdough-bread-baking-suppliessourdough-starter-ki",
-          "title": "Acessorz Sourdough Bread Baking Supplies,Sourdough Starter Kit,2 Cotton Rope Banneton Proofing Basket,Bread Proofing Bas",
-          "price": "$20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/91Mbur5SekL.jpg",
-          "url": "https://www.amazon.com/dp/B0FQ458DQH?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-28T20:00:02.057Z",
-      "updatedAt": "2026-06-28T20:00:02.057Z"
+      "generatedAt": "2026-06-28T20:10:01.256Z",
+      "updatedAt": "2026-06-28T20:10:01.256Z"
     },
     {
       "date": "2026-06-27",
@@ -5382,5 +5382,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-28T20:00:02.059Z"
+  "generatedAt": "2026-06-28T20:10:01.257Z"
 }
