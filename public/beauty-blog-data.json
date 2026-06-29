@@ -32,7 +32,7 @@
             "discount": 32,
             "rating": "HOT",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61BBOVl+4lL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GQ5HHZB5?tag=noya0b-20"
           },
           {
@@ -114,8 +114,18 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xL7e9sUYL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DPXYKXXZ?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B09HF5VMV6",
+            "slug": "ge-profile-clearview-window-air-conditioner-unit-8300-btu-en",
+            "title": "GE Profile ClearView Window Air Conditioner Unit, 8,300 BTU, Energy Efficient Cooling up to 350 sq ft., Ultra Quiet, SMA",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71w6HF3UEmL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09HF5VMV6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
             "asin": "B0GZ5754Z2",
@@ -226,7 +236,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DW4XLPM9/ref=cm_sw_r_as_gl_apa_gl_i_V155HAA2T0HM0BFEV5XW?linkCode=ml1&tag=noya0b-20&linkId=b6b23fd75620e1932084399cb467c933"
           },
           {
@@ -280,7 +290,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81-BU9+Ch-L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
           },
           {
@@ -300,18 +310,8 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61WJb5ODukL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FN5F5KGM?psc=1&linkCode=sl2&tag=noya0b-20&linkId=12d1462127fb17b67f94c6bd7a9f09f9&language=en_US"
-          },
-          {
-            "asin": "B01JIRKQ04",
-            "slug": "from-12xx-for-4-bottles-of-axe-crisp-coconut-black-pepper-bo",
-            "title": "From $12.xx for 4 bottles of AXE Crisp Coconut & Black Pepper Body Wash!",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01JIRKQ04?th=1&linkCode=sl2&tag=noya0b-20&linkId=dd8a55474deb7315656d15fe3e149d97&language=en_US"
           }
         ],
         "Beauty": [
@@ -345,7 +345,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xL7e9sUYL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DPXYKXXZ?th=1&tag=noya0b-20"
         },
         {
@@ -355,7 +355,7 @@
           "discount": 32,
           "rating": "HOT",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61BBOVl+4lL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GQ5HHZB5?tag=noya0b-20"
         },
         {
@@ -367,6 +367,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61eQ4pmiU9L.jpg",
           "url": "https://www.amazon.com/dp/B0GSR6RQX8?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B09HF5VMV6",
+          "slug": "ge-profile-clearview-window-air-conditioner-unit-8300-btu-en",
+          "title": "GE Profile ClearView Window Air Conditioner Unit, 8,300 BTU, Energy Efficient Cooling up to 350 sq ft., Ultra Quiet, SMA",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71w6HF3UEmL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09HF5VMV6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "B0FNDV55HC",
@@ -475,7 +485,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81-BU9+Ch-L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
         },
         {
@@ -545,7 +555,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DW4XLPM9/ref=cm_sw_r_as_gl_apa_gl_i_V155HAA2T0HM0BFEV5XW?linkCode=ml1&tag=noya0b-20&linkId=b6b23fd75620e1932084399cb467c933"
         },
         {
@@ -605,7 +615,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61WJb5ODukL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FN5F5KGM?psc=1&linkCode=sl2&tag=noya0b-20&linkId=12d1462127fb17b67f94c6bd7a9f09f9&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61iOQ4zOchL.jpg",
           "url": "https://www.amazon.com/dp/B0FBX57MNX?th=1&psc=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B01JIRKQ04",
-          "slug": "from-12xx-for-4-bottles-of-axe-crisp-coconut-black-pepper-bo",
-          "title": "From $12.xx for 4 bottles of AXE Crisp Coconut & Black Pepper Body Wash!",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01JIRKQ04?th=1&linkCode=sl2&tag=noya0b-20&linkId=dd8a55474deb7315656d15fe3e149d97&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-29T13:10:03.702Z",
-      "updatedAt": "2026-06-29T13:10:03.702Z"
+      "generatedAt": "2026-06-29T13:20:03.789Z",
+      "updatedAt": "2026-06-29T13:20:03.790Z"
     },
     {
       "date": "2026-06-28",
@@ -12193,5 +12193,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-29T13:10:03.705Z"
+  "generatedAt": "2026-06-29T13:20:03.795Z"
 }
