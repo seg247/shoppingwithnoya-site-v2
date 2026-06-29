@@ -9,11 +9,56 @@
         "Other",
         "Beauty",
         "Grocery & Food",
-        "Toys & Kids",
-        "Home & Kitchen"
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B00KYVORQS",
+            "slug": "panama-jack-sunscreen-tanning-lotion-spf-4-paba-paraben-glut",
+            "title": "Panama Jack Sunscreen Tanning Lotion - SPF 4, PABA, Paraben, Gluten & Cruelty Free, Antioxidant Moisturizing Formula, 6 ",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/712KtZ7iVpL.jpg",
+            "url": "https://www.amazon.com/dp/B00KYVORQS/ref=cm_sw_r_as_gl_apa_gl_i_GZVGR9FWYX8088SAN62P?linkCode=ml1&tag=noya0b-20&linkId=72aeaf6750d0a1e0f7b8cedd9ec5d79f"
+          },
+          {
+            "asin": "B0FNDV55HC",
+            "slug": "vera-bradley-womens-disney-premium-cotton-medium-cosmetic-ma",
+            "title": "Vera Bradley Women's Disney Premium Cotton Medium Cosmetic Makeup Bag, 101 Dalmatians, One Size : Beauty & Personal Care",
+            "price": "$30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71OlQFSpuiL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FNDV55HC/ref=cm_sw_r_as_gl_apa_gl_i_REKXTTBW2TA6DYH78WZ0?linkCode=ml1&tag=noya0b-20&linkId=811796fb8af5479bbb3882d347c69e76"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0GS3Z37M4",
+            "slug": "state-of-my-heart-tote",
+            "title": "STATE OF MY HEART TOTE",
+            "price": "$27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/716ZsL9j1CL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GS3Z37M4/ref=cm_sw_r_as_gl_apa_gl_i_RS6FPQENGW0VZSNV02RQ?linkCode=ml1&tag=noya0b-20&linkId=027e6066e7fc10c373b7232f14d6bd17"
+          },
+          {
+            "asin": "B0FY491LBL",
+            "slug": "stranger-things-5-soundtrack-from-the-netflix-series",
+            "title": "Stranger Things 5 Soundtrack from the Netflix Series",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81qCQqy10oL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FY491LBL/ref=cm_sw_r_as_gl_apa_gl_i_dl_PZ1R89GTY0ZCE0GK392E?linkCode=ml1&tag=noya0b-20&linkId=4ac104ac731482f4ca555e43b1d7418b"
+          },
           {
             "asin": "B0FQPN73QB",
             "slug": "juicy-couture-flip-sip-insulated-tumbler-with-handle-and-str",
@@ -57,41 +102,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/611qexSDJ-L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DHSC78P2/ref=cm_sw_r_as_gl_apa_gl_i_M7HW1F7CJZJBVSTSA9C8?linkCode=ml1&tag=noya0b-20&linkId=257b1f6c0a475e697e8b03513d7184c6"
-          },
-          {
-            "asin": "B0DP62D7KY",
-            "slug": "martha-stewart-cocktail-ottoman-for-living-room-fully-uphols",
-            "title": "Martha Stewart Cocktail Ottoman for Living Room Fully Upholstered, Button Tufted Round Ottoman Footrest, Pleated Skirt, ",
-            "price": "$167",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51JBhXZUFRL._AC_.jpg",
-            "url": "https://www.amazon.com/dp/B0DP62D7KY/ref=cm_sw_r_as_gl_apa_gl_i_RF8A5FCW1V1AMHP8ZR0A?linkCode=ml1&tag=noya0b-20&linkId=99c189d3b6a38077d2bb72816c3107ad"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FNDV55HC",
-            "slug": "vera-bradley-womens-disney-premium-cotton-medium-cosmetic-ma",
-            "title": "Vera Bradley Women's Disney Premium Cotton Medium Cosmetic Makeup Bag, 101 Dalmatians, One Size : Beauty & Personal Care",
-            "price": "$30",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71OlQFSpuiL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FNDV55HC/ref=cm_sw_r_as_gl_apa_gl_i_REKXTTBW2TA6DYH78WZ0?linkCode=ml1&tag=noya0b-20&linkId=811796fb8af5479bbb3882d347c69e76"
-          },
-          {
-            "asin": "B07RGM11L5",
-            "slug": "frigidaire-5000-btu-window-mounted-air-conditioner-cools-up",
-            "title": "Frigidaire 5,000 BTU Window-Mounted Air Conditioner, Cools Up to 150 Sq. Ft., Quiet Operation, Effortless Temperature Co",
-            "price": "$125.30",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Aa2gcPQTL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07RGM11L5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -119,22 +129,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71ukl-S0PpL.jpg",
             "url": "https://www.amazon.com/dp/B0DCZTV8VX/ref=cm_sw_r_as_gl_apa_gl_i_MVH841GYZPGJE7TP2890?linkCode=ml1&tag=noya0b-20&linkId=c7fae9a37ab0658da9de4bcf4064b79c"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DYVQNL6N",
-            "slug": "delta-children-cozee-buddy-chair-koala-home-kitchen",
-            "title": "Delta Children Cozee Buddy Chair, Koala : Home & Kitchen",
-            "price": "$17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vL1WKQ39L.jpg",
-            "url": "https://www.amazon.com/dp/B0DYVQNL6N/ref=cm_sw_r_as_gl_apa_gl_i_1M6X4CMHJ12AZ8EVWGEV?linkCode=ml1&tag=noya0b-20&linkId=50f077eb17342a5a261f4f837207fbe8"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00KYVORQS",
+          "slug": "panama-jack-sunscreen-tanning-lotion-spf-4-paba-paraben-glut",
+          "title": "Panama Jack Sunscreen Tanning Lotion - SPF 4, PABA, Paraben, Gluten & Cruelty Free, Antioxidant Moisturizing Formula, 6 ",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/712KtZ7iVpL.jpg",
+          "url": "https://www.amazon.com/dp/B00KYVORQS/ref=cm_sw_r_as_gl_apa_gl_i_GZVGR9FWYX8088SAN62P?linkCode=ml1&tag=noya0b-20&linkId=72aeaf6750d0a1e0f7b8cedd9ec5d79f"
+        },
+        {
+          "asin": "B0GS3Z37M4",
+          "slug": "state-of-my-heart-tote",
+          "title": "STATE OF MY HEART TOTE",
+          "price": "$27",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/716ZsL9j1CL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GS3Z37M4/ref=cm_sw_r_as_gl_apa_gl_i_RS6FPQENGW0VZSNV02RQ?linkCode=ml1&tag=noya0b-20&linkId=027e6066e7fc10c373b7232f14d6bd17"
+        },
+        {
+          "asin": "B0FY491LBL",
+          "slug": "stranger-things-5-soundtrack-from-the-netflix-series",
+          "title": "Stranger Things 5 Soundtrack from the Netflix Series",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81qCQqy10oL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FY491LBL/ref=cm_sw_r_as_gl_apa_gl_i_dl_PZ1R89GTY0ZCE0GK392E?linkCode=ml1&tag=noya0b-20&linkId=4ac104ac731482f4ca555e43b1d7418b"
+        },
         {
           "asin": "B0FQPN73QB",
           "slug": "juicy-couture-flip-sip-insulated-tumbler-with-handle-and-str",
@@ -211,45 +241,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/71ukl-S0PpL.jpg",
           "url": "https://www.amazon.com/dp/B0DCZTV8VX/ref=cm_sw_r_as_gl_apa_gl_i_MVH841GYZPGJE7TP2890?linkCode=ml1&tag=noya0b-20&linkId=c7fae9a37ab0658da9de4bcf4064b79c"
-        },
-        {
-          "asin": "B0DYVQNL6N",
-          "slug": "delta-children-cozee-buddy-chair-koala-home-kitchen",
-          "title": "Delta Children Cozee Buddy Chair, Koala : Home & Kitchen",
-          "price": "$17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vL1WKQ39L.jpg",
-          "url": "https://www.amazon.com/dp/B0DYVQNL6N/ref=cm_sw_r_as_gl_apa_gl_i_1M6X4CMHJ12AZ8EVWGEV?linkCode=ml1&tag=noya0b-20&linkId=50f077eb17342a5a261f4f837207fbe8"
-        },
-        {
-          "asin": "B07RGM11L5",
-          "slug": "frigidaire-5000-btu-window-mounted-air-conditioner-cools-up",
-          "title": "Frigidaire 5,000 BTU Window-Mounted Air Conditioner, Cools Up to 150 Sq. Ft., Quiet Operation, Effortless Temperature Co",
-          "price": "$125.30",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Aa2gcPQTL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07RGM11L5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DP62D7KY",
-          "slug": "martha-stewart-cocktail-ottoman-for-living-room-fully-uphols",
-          "title": "Martha Stewart Cocktail Ottoman for Living Room Fully Upholstered, Button Tufted Round Ottoman Footrest, Pleated Skirt, ",
-          "price": "$167",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51JBhXZUFRL._AC_.jpg",
-          "url": "https://www.amazon.com/dp/B0DP62D7KY/ref=cm_sw_r_as_gl_apa_gl_i_RF8A5FCW1V1AMHP8ZR0A?linkCode=ml1&tag=noya0b-20&linkId=99c189d3b6a38077d2bb72816c3107ad"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 29, 2026?",
-          "a": "The best deals today include \"Juicy Couture Flip & Sip Insulated Tumbler with Handle and S...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Panama Jack Sunscreen Tanning Lotion - SPF 4, PABA, Paraben,...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T08:30:01.776Z",
-      "updatedAt": "2026-06-29T08:30:01.776Z"
+      "generatedAt": "2026-06-29T08:40:01.232Z",
+      "updatedAt": "2026-06-29T08:40:01.232Z"
     },
     {
       "date": "2026-06-28",
@@ -5659,5 +5656,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T08:30:01.778Z"
+  "generatedAt": "2026-06-29T08:40:01.234Z"
 }
