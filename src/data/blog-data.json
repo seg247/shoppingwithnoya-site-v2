@@ -9,6 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Toys & Kids",
+        "Grocery & Food",
         "Electronics",
         "Pet Supplies"
       ],
@@ -26,20 +27,18 @@
             "url": "https://www.amazon.com/dp/B08S3C6LCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f477a1fad57361e1b81ed13bd78d318&language=en_US"
           }
         ],
-        "Electronics": [
+        "Other": [
           {
-            "asin": "B0916BNNML",
-            "slug": "tp-link-tl-sx1008-8-port-10gmulti-gig-unmanaged-ethernet-swi",
-            "title": "TP-Link TL-SX1008 | 8 Port 10G/Multi-Gig Unmanaged Ethernet Switch | Desktop/Rackmount | Plug & Play | Sturdy Metal Casi",
-            "price": "$252.49",
+            "asin": "B0B6PY91LD",
+            "slug": "utopia-bedding-washable-underpads-34-x-36-pack-of-2-waterpro",
+            "title": "Utopia Bedding Washable Underpads 34\" x 36\" (Pack of 2), Waterproof Reusable Heavy Absorbency Incontinence Bed Pads for ",
+            "price": "$15",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51id4GULvgL.jpg",
-            "url": "https://www.amazon.com/dp/B0916BNNML?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81UTZWV+O7L.jpg",
+            "url": "https://www.amazon.com/Utopia-Bedding-Waterproof-Incontinence-Absorbent/dp/B0B6PY91LD?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=7f11cb03211541b7260d2a626e0a3add&language=en_US"
+          },
           {
             "asin": "B0D81PG976",
             "slug": "frost-buddy-universal-buddy-can-cooler-fits-all-for-regular",
@@ -72,17 +71,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61uqYtmNbfL.jpg",
             "url": "https://www.amazon.com/dp/B0BL3VXJG3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B003P9XG22",
-            "slug": "blue-buffalo-health-bars-bacon-egg-cheese-crunchy-dog-biscui",
-            "title": "Blue Buffalo Health Bars Bacon, Egg & Cheese Crunchy Dog Biscuits, Oven-Baked with Real Bacon & Natural Ingredients, Hea",
-            "price": "$4.98",
+            "asin": "B09ZV2TX28",
+            "slug": "lifewit-6-pack-clothes-storage-bins-with-lids-foldable-blank",
+            "title": "Lifewit 6 Pack Clothes Storage Bins with Lids, Foldable Blanket Storage Bags with Zippers, Clear Window and Reinforced H",
+            "price": "$15",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/816s+UtfvdL.jpg",
-            "url": "https://www.amazon.com/dp/B003P9XG22?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ATH1p6zWL.jpg",
+            "url": "https://www.amazon.com/Lifewit-Blankets-Comforters-Reinforced-Organizer/dp/B09ZV2TX28?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8c276a587ac19dec7c0b61de34c2914f&language=en_US"
+          },
+          {
+            "asin": "B07HPHB28G",
+            "slug": "furinno-rossi-corner-floating-shelves-for-wall-5-tier-corner",
+            "title": "Furinno ROSSI Corner Floating Shelves for Wall, 5-Tier Corner Square Wall Shelf, S-shape Radial Floating Book Shelf, Eas",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61wG3Agb5ZL.jpg",
+            "url": "https://amazon.com/dp/B07HPHB28G?th=1&tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0DS6LBSRX",
+            "slug": "pop-tarts-emotional-support-by-relatable-snack-inspired-pals",
+            "title": "Pop-Tarts™ Emotional Support by Relatable, Snack-Inspired Pals, Full of Bite-Sized Plushies and Cute Stuff, Unexpected F",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/812P0dj2WuL.jpg",
+            "url": "https://www.amazon.com/dp/B0DS6LBSRX?th=1&linkCode=sl2&tag=noya0b-20&linkId=cbe438817ff89c84b08ae8521bd606a6&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0916BNNML",
+            "slug": "tp-link-tl-sx1008-8-port-10gmulti-gig-unmanaged-ethernet-swi",
+            "title": "TP-Link TL-SX1008 | 8 Port 10G/Multi-Gig Unmanaged Ethernet Switch | Desktop/Rackmount | Plug & Play | Sturdy Metal Casi",
+            "price": "$252.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51id4GULvgL.jpg",
+            "url": "https://www.amazon.com/dp/B0916BNNML?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -97,41 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61R7oehHB1L.jpg",
             "url": "https://www.amazon.com/dp/B0G24DT1FS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e704e8be8c6456fef8df1ccb8146c66c&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DFZ4YRV1",
-            "slug": "amazoncom-shark-matrix-plus-2in1-robot-vacuum-mop-with-sonic",
-            "title": "Amazon.com - Shark Matrix Plus 2in1 Robot Vacuum & Mop with Sonic Mopping, Matrix Clean, Home Mapping, HEPA Bagless Self",
-            "price": "$269",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Shark-Mopping-Mapping-CleanEdge-AV2620WA/dp/B0DFZ4YRV1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=47e45b71d196cb781b59592619be8336&language=en_US"
-          },
-          {
-            "asin": "B0FHBQXQ93",
-            "slug": "4oz-popcorn-machine-popcorn-packets-pre-measured-movie-theat",
-            "title": "4oz Popcorn Machine Popcorn Packets - Pre-Measured, Movie Theater Style, All in One Gourmet Pop Corn Kernels for Popping",
-            "price": "$38.47",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MchUIoIeL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHBQXQ93?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0FQCGFT95",
-            "slug": "101-smart-digital-calendar-interactive-touch-screen-hd-displ",
-            "title": "10.1’’ Smart Digital Calendar - Interactive Touch Screen, HD Display, Wall Mountable Family Organizer with Chore Chart, ",
-            "price": "$50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/7103pHcaf4L.jpg",
-            "url": "https://amazon.com/dp/B0FQCGFT95?th=1&psc=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +148,50 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/61ZFTZC31DL.jpg",
           "url": "https://www.amazon.com/dp/B08S3C6LCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f477a1fad57361e1b81ed13bd78d318&language=en_US"
+        },
+        {
+          "asin": "B0B6PY91LD",
+          "slug": "utopia-bedding-washable-underpads-34-x-36-pack-of-2-waterpro",
+          "title": "Utopia Bedding Washable Underpads 34\" x 36\" (Pack of 2), Waterproof Reusable Heavy Absorbency Incontinence Bed Pads for ",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81UTZWV+O7L.jpg",
+          "url": "https://www.amazon.com/Utopia-Bedding-Waterproof-Incontinence-Absorbent/dp/B0B6PY91LD?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=7f11cb03211541b7260d2a626e0a3add&language=en_US"
+        },
+        {
+          "asin": "B09ZV2TX28",
+          "slug": "lifewit-6-pack-clothes-storage-bins-with-lids-foldable-blank",
+          "title": "Lifewit 6 Pack Clothes Storage Bins with Lids, Foldable Blanket Storage Bags with Zippers, Clear Window and Reinforced H",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ATH1p6zWL.jpg",
+          "url": "https://www.amazon.com/Lifewit-Blankets-Comforters-Reinforced-Organizer/dp/B09ZV2TX28?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8c276a587ac19dec7c0b61de34c2914f&language=en_US"
+        },
+        {
+          "asin": "B0DS6LBSRX",
+          "slug": "pop-tarts-emotional-support-by-relatable-snack-inspired-pals",
+          "title": "Pop-Tarts™ Emotional Support by Relatable, Snack-Inspired Pals, Full of Bite-Sized Plushies and Cute Stuff, Unexpected F",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/812P0dj2WuL.jpg",
+          "url": "https://www.amazon.com/dp/B0DS6LBSRX?th=1&linkCode=sl2&tag=noya0b-20&linkId=cbe438817ff89c84b08ae8521bd606a6&language=en_US"
+        },
+        {
+          "asin": "B07HPHB28G",
+          "slug": "furinno-rossi-corner-floating-shelves-for-wall-5-tier-corner",
+          "title": "Furinno ROSSI Corner Floating Shelves for Wall, 5-Tier Corner Square Wall Shelf, S-shape Radial Floating Book Shelf, Eas",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61wG3Agb5ZL.jpg",
+          "url": "https://amazon.com/dp/B07HPHB28G?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0916BNNML",
@@ -200,50 +247,6 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/61R7oehHB1L.jpg",
           "url": "https://www.amazon.com/dp/B0G24DT1FS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e704e8be8c6456fef8df1ccb8146c66c&language=en_US"
-        },
-        {
-          "asin": "B0DFZ4YRV1",
-          "slug": "amazoncom-shark-matrix-plus-2in1-robot-vacuum-mop-with-sonic",
-          "title": "Amazon.com - Shark Matrix Plus 2in1 Robot Vacuum & Mop with Sonic Mopping, Matrix Clean, Home Mapping, HEPA Bagless Self",
-          "price": "$269",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Shark-Mopping-Mapping-CleanEdge-AV2620WA/dp/B0DFZ4YRV1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=47e45b71d196cb781b59592619be8336&language=en_US"
-        },
-        {
-          "asin": "B003P9XG22",
-          "slug": "blue-buffalo-health-bars-bacon-egg-cheese-crunchy-dog-biscui",
-          "title": "Blue Buffalo Health Bars Bacon, Egg & Cheese Crunchy Dog Biscuits, Oven-Baked with Real Bacon & Natural Ingredients, Hea",
-          "price": "$4.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/816s+UtfvdL.jpg",
-          "url": "https://www.amazon.com/dp/B003P9XG22?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FHBQXQ93",
-          "slug": "4oz-popcorn-machine-popcorn-packets-pre-measured-movie-theat",
-          "title": "4oz Popcorn Machine Popcorn Packets - Pre-Measured, Movie Theater Style, All in One Gourmet Pop Corn Kernels for Popping",
-          "price": "$38.47",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MchUIoIeL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHBQXQ93?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FQCGFT95",
-          "slug": "101-smart-digital-calendar-interactive-touch-screen-hd-displ",
-          "title": "10.1’’ Smart Digital Calendar - Interactive Touch Screen, HD Display, Wall Mountable Family Organizer with Chore Chart, ",
-          "price": "$50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/7103pHcaf4L.jpg",
-          "url": "https://amazon.com/dp/B0FQCGFT95?th=1&psc=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T19:00:01.310Z",
-      "updatedAt": "2026-06-29T19:00:01.310Z"
+      "generatedAt": "2026-06-29T19:10:02.046Z",
+      "updatedAt": "2026-06-29T19:10:02.046Z"
     },
     {
       "date": "2026-06-28",
@@ -5659,5 +5662,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T19:00:01.312Z"
+  "generatedAt": "2026-06-29T19:10:02.048Z"
 }
