@@ -9,11 +9,22 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
-        "Grocery & Food",
+        "Tools & Hardware",
         "Electronics"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B0010O094W",
+            "slug": "for-those-that-lose-every-pen-theyve-ever-owned",
+            "title": "For those that lose every pen they've ever owned.",
+            "price": "$0.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81p2igeXorL.jpg",
+            "url": "https://www.amazon.com/dp/B0010O094W?th=1&linkCode=sl2&tag=noya0b-20&linkId=919f33e07650231837f99a0671be5766&language=en_US"
+          },
           {
             "asin": "B0G5847KBH",
             "slug": "head-to-amazon-and-use-code-ckqcc9jz-to-score-these-ekouaer",
@@ -35,20 +46,44 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/91BK9CvVf1L.jpg",
             "url": "https://www.amazon.com/dp/B0CGXB6BJY?th=1&linkCode=sl2&tag=noya0b-20&linkId=24c7074e10bb4fe1bebabe5b2b07bcec&language=en_US"
-          },
+          }
+        ],
+        "Tools & Hardware": [
           {
-            "asin": "B0GZ4QLK4L",
-            "slug": "dumos-43-inch-folding-storage-ottoman-bench-large-hidden-sto",
-            "title": "\udecd️DUMOS 43 Inch Folding Storage Ottoman Bench, Large Hidden Storage Chest with Thicker Foam Padded Seat, End of Bed Foot",
-            "price": "$49.99",
+            "asin": "B01BHJE0J4",
+            "slug": "dewalt-192-pcs-mechanics-tool-set-12-14-38-socket-set-sae-an",
+            "title": "DEWALT 192 Pcs. Mechanics Tool Set, 1/2, 1/4, 3/8 Socket Set, SAE and Metric Socket Wrench Set, Hard Shell Tool Box (DWM",
+            "price": "$164",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/716O8lhLwbL.jpg",
-            "url": "https://www.amazon.com/dp/B0GZ4QLK4L?th=1&linkCode=sl2&tag=noya0b-20&linkId=83c647fbc40bbab6a8370083de4671a8&language=en_US"
+            "category": "Tools & Hardware",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01BHJE0J4?th=1&linkCode=sl2&tag=noya0b-20&linkId=1619df5b72b76e2f1fa06ca4a3a6fe4d&language=en_US"
           }
         ],
         "Home & Kitchen": [
+          {
+            "asin": "B00NA83RYU",
+            "slug": "so-cozy-7xx-eddie-bauer-throw-blanket",
+            "title": "So cozy! $7.xx Eddie Bauer Throw Blanket",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00NA83RYU?th=1&linkCode=sl2&tag=noya0b-20&linkId=faa343ed3d4b379e2c218941e15b4ee9&language=en_US"
+          },
+          {
+            "asin": "B0FLM8BP99",
+            "slug": "chefman-obliterator-48-oz-countertop-blender-for-smoothies-1",
+            "title": "Chefman Obliterator 48 oz Countertop Blender for Smoothies, 1380W Motor to Crush Ice, Nuts, and Frozen Fruit with Stainl",
+            "price": "$77",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71gIeyQxeQL.jpg",
+            "url": "https://www.amazon.com/Chefman-Obliterator-Countertop-Smoothies-Stainless/dp/B0FLM8BP99?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=f584f9e86afd953ecf7681d279a7c3e4&language=en_US"
+          },
           {
             "asin": "B0GHQ6NXKZ",
             "slug": "carote-ceramic-cookware-set-14-pcs-pots-and-pans-set-non-sti",
@@ -59,17 +94,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71PyLfQ8C6L.jpg",
             "url": "https://www.amazon.com/CAROTE-Ceramic-Cookware-Induction-Cooking/dp/B0GHQ6NXKZ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9e6c9b11e7a62ed426725c18c03d503d&language=en_US"
-          },
-          {
-            "asin": "B0CBQY5V18",
-            "slug": "cool-coolers-by-fit-fresh-reusable-long-lasting-slim-ice-pac",
-            "title": "Cool Coolers by Fit + Fresh, Reusable & Long-Lasting Slim Ice Packs, Cold Packs for Lunch Boxes, Ice Packs for Lunch Bag",
-            "price": "$15.80",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ezP3ad05L.jpg",
-            "url": "https://www.amazon.com/dp/B0CBQY5V18?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Electronics": [
@@ -108,33 +132,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61Wh7mGBe2L.jpg",
             "url": "https://www.amazon.com/dp/B0D6ZVJ3K2?th=1&linkCode=sl2&tag=noya0b-20&linkId=0225b3662b735047564f3f6956a540cb&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00ISVHIRQ",
-            "slug": "wholesome-sweeteners-32-ounce-organic-cane-sugar-fair-trade",
-            "title": "Wholesome Sweeteners 32-Ounce Organic Cane Sugar, Fair Trade, Non GMO, Gluten Free, Pure & Vegan, for Baking and Sweeten",
-            "price": "$31.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RhqBaO46L.jpg",
-            "url": "https://www.amazon.com/dp/B00ISVHIRQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B08BN9YYCB",
-            "slug": "sensible-portions-veggie-straws-garden-snacks-variety-pack-s",
-            "title": "Sensible Portions Veggie Straws - Garden Snacks Variety Pack, Sea Salt, Ranch, Cheddar, Apple Cinnamon, Gluten Free Bulk",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81W1U0rW+aL.jpg",
-            "url": "https://www.amazon.com/dp/B08BN9YYCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=764339658ad211b0fdf7efc9e73a40d7&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0010O094W",
+          "slug": "for-those-that-lose-every-pen-theyve-ever-owned",
+          "title": "For those that lose every pen they've ever owned.",
+          "price": "$0.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81p2igeXorL.jpg",
+          "url": "https://www.amazon.com/dp/B0010O094W?th=1&linkCode=sl2&tag=noya0b-20&linkId=919f33e07650231837f99a0671be5766&language=en_US"
+        },
+        {
+          "asin": "B01BHJE0J4",
+          "slug": "dewalt-192-pcs-mechanics-tool-set-12-14-38-socket-set-sae-an",
+          "title": "DEWALT 192 Pcs. Mechanics Tool Set, 1/2, 1/4, 3/8 Socket Set, SAE and Metric Socket Wrench Set, Hard Shell Tool Box (DWM",
+          "price": "$164",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B01BHJE0J4?th=1&linkCode=sl2&tag=noya0b-20&linkId=1619df5b72b76e2f1fa06ca4a3a6fe4d&language=en_US"
+        },
+        {
+          "asin": "B00NA83RYU",
+          "slug": "so-cozy-7xx-eddie-bauer-throw-blanket",
+          "title": "So cozy! $7.xx Eddie Bauer Throw Blanket",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00NA83RYU?th=1&linkCode=sl2&tag=noya0b-20&linkId=faa343ed3d4b379e2c218941e15b4ee9&language=en_US"
+        },
+        {
+          "asin": "B0FLM8BP99",
+          "slug": "chefman-obliterator-48-oz-countertop-blender-for-smoothies-1",
+          "title": "Chefman Obliterator 48 oz Countertop Blender for Smoothies, 1380W Motor to Crush Ice, Nuts, and Frozen Fruit with Stainl",
+          "price": "$77",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71gIeyQxeQL.jpg",
+          "url": "https://www.amazon.com/Chefman-Obliterator-Countertop-Smoothies-Stainless/dp/B0FLM8BP99?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=f584f9e86afd953ecf7681d279a7c3e4&language=en_US"
+        },
         {
           "asin": "B0G5847KBH",
           "slug": "head-to-amazon-and-use-code-ckqcc9jz-to-score-these-ekouaer",
@@ -200,56 +244,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61Wh7mGBe2L.jpg",
           "url": "https://www.amazon.com/dp/B0D6ZVJ3K2?th=1&linkCode=sl2&tag=noya0b-20&linkId=0225b3662b735047564f3f6956a540cb&language=en_US"
-        },
-        {
-          "asin": "B00ISVHIRQ",
-          "slug": "wholesome-sweeteners-32-ounce-organic-cane-sugar-fair-trade",
-          "title": "Wholesome Sweeteners 32-Ounce Organic Cane Sugar, Fair Trade, Non GMO, Gluten Free, Pure & Vegan, for Baking and Sweeten",
-          "price": "$31.50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RhqBaO46L.jpg",
-          "url": "https://www.amazon.com/dp/B00ISVHIRQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B08BN9YYCB",
-          "slug": "sensible-portions-veggie-straws-garden-snacks-variety-pack-s",
-          "title": "Sensible Portions Veggie Straws - Garden Snacks Variety Pack, Sea Salt, Ranch, Cheddar, Apple Cinnamon, Gluten Free Bulk",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81W1U0rW+aL.jpg",
-          "url": "https://www.amazon.com/dp/B08BN9YYCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=764339658ad211b0fdf7efc9e73a40d7&language=en_US"
-        },
-        {
-          "asin": "B0CBQY5V18",
-          "slug": "cool-coolers-by-fit-fresh-reusable-long-lasting-slim-ice-pac",
-          "title": "Cool Coolers by Fit + Fresh, Reusable & Long-Lasting Slim Ice Packs, Cold Packs for Lunch Boxes, Ice Packs for Lunch Bag",
-          "price": "$15.80",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ezP3ad05L.jpg",
-          "url": "https://www.amazon.com/dp/B0CBQY5V18?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GZ4QLK4L",
-          "slug": "dumos-43-inch-folding-storage-ottoman-bench-large-hidden-sto",
-          "title": "\udecd️DUMOS 43 Inch Folding Storage Ottoman Bench, Large Hidden Storage Chest with Thicker Foam Padded Seat, End of Bed Foot",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/716O8lhLwbL.jpg",
-          "url": "https://www.amazon.com/dp/B0GZ4QLK4L?th=1&linkCode=sl2&tag=noya0b-20&linkId=83c647fbc40bbab6a8370083de4671a8&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 29, 2026?",
-          "a": "The best deals today include \"Head to Amazon and use code CKQCC9JZ to score these Ekouaer ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
+          "a": "The best deals today include \"For those that lose every pen they've ever owned....\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T14:30:01.373Z",
-      "updatedAt": "2026-06-29T14:30:01.374Z"
+      "generatedAt": "2026-06-29T14:40:01.544Z",
+      "updatedAt": "2026-06-29T14:40:01.545Z"
     },
     {
       "date": "2026-06-28",
@@ -5659,5 +5659,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T14:30:01.376Z"
+  "generatedAt": "2026-06-29T14:40:01.547Z"
 }
