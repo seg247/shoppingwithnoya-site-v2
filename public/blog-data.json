@@ -9,11 +9,51 @@
         "Home & Kitchen",
         "Beauty",
         "Garden & Outdoor",
-        "Fashion",
         "Grocery & Food",
-        "Other"
+        "Pet Supplies",
+        "Other",
+        "Fashion"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0GMYY6D11",
+            "slug": "the-honey-pot-company-feminine-wipes-cooling-cooling-tingle",
+            "title": "The Honey Pot Company - Feminine Wipes - Cooling - Cooling Tingle Effect - Herbal Infused w/Mint, Aloe Vera, Lavender - ",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71S5Asd2bhL.jpg",
+            "url": "https://www.amazon.com/dp/B0GMYY6D11/ref=cm_sw_r_as_gl_apa_gl_i_GS7HSWSN1HVWRX1GCEHM?linkCode=ml1&tag=noya0b-20&linkId=df91fb7f10c41938e173675a83eec43c"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B0D6CWVXBW",
+            "slug": "exploding-kittens-zombie-burrito-3-6-players-ages-7-15-minut",
+            "title": "Exploding Kittens Zombie Burrito 3-6 Players - Ages 7+ - 15 Minutes to Play - Dodgeball Zombie Card Game - Party Game, F",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81iJVS-1RVL.jpg",
+            "url": "https://www.amazon.com/dp/B0D6CWVXBW/ref=cm_sw_r_as_gl_apa_gl_i_5SXEXMM4NF0MJE9BZW21?linkCode=ml1&tag=noya0b-20&linkId=e6597a60aa38500aa300238da91f3c5d"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0DNLVPTR1",
+            "slug": "newgo-360-knee-ice-pack-wrap-60-minutes-extended-cold-therap",
+            "title": "NEWGO 360° Knee Ice Pack Wrap, 60 Minutes Extended Cold Therapy with Ice Grid Gel, Ergonomic Y-Shape Snug Fit for Sports",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ueQeuVYuL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNLVPTR1/ref=cm_sw_r_as_gl_apa_gl_i_dl_2RGTYPPQJJ9PWCNH0YB8?linkCode=ml1&tag=noya0b-20&linkId=c840e4155d0d53d9326e170196a1ce75"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0DLNC3DMD",
@@ -97,47 +137,43 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/91ZP9XYab0L._AC_SL1500_.jpg",
             "url": "https://amazon.com/dp/B0H3TSSX7Z?tag=noya0b-20"
-          },
-          {
-            "asin": "B0D9KCLF3P",
-            "slug": "jsjoy-gold-letter-necklace-heart-initial-necklace-for-women",
-            "title": "JSJOY Gold Letter Necklace Heart Initial Necklace for Women Trendy Simple Initial P Gifts for Girlfriend Daughter Gifts ",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61AXzlDRVoL._AC_SL1500_.jpg",
-            "url": "https://amazon.com/dp/B0D9KCLF3P?th=1&tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0GX9R389H",
-            "slug": "ekouaer-pajamas-for-women-set-2-piece-silk-satin-lingerie-la",
-            "title": "Ekouaer Pajamas for Women Set 2 Piece Silk Satin Lingerie Lace Cami and Short Sleepwear Comfy Pjs Set,Red,Small at Amazo",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71DEdTasqTL._AC_SL1500_.jpg",
-            "url": "https://amazon.com/dp/B0GX9R389H?th=1&psc=1&tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0FZK387WJ",
-            "slug": "pet-supplies-zonopy-slow-feeder-cat-bowl-2-pcs-silicone-bowl",
-            "title": "Pet Supplies : Zonopy Slow Feeder Cat Bowl, 2 PCS Silicone Bowl, Cat Slow Feeder, Ideal for Dry and Wet Food, Easy to Cl",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71x49eJtpyL.jpg",
-            "url": "https://amazon.com/dp/B0FZK387WJ?th=1&tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GMYY6D11",
+          "slug": "the-honey-pot-company-feminine-wipes-cooling-cooling-tingle",
+          "title": "The Honey Pot Company - Feminine Wipes - Cooling - Cooling Tingle Effect - Herbal Infused w/Mint, Aloe Vera, Lavender - ",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71S5Asd2bhL.jpg",
+          "url": "https://www.amazon.com/dp/B0GMYY6D11/ref=cm_sw_r_as_gl_apa_gl_i_GS7HSWSN1HVWRX1GCEHM?linkCode=ml1&tag=noya0b-20&linkId=df91fb7f10c41938e173675a83eec43c"
+        },
+        {
+          "asin": "B0D6CWVXBW",
+          "slug": "exploding-kittens-zombie-burrito-3-6-players-ages-7-15-minut",
+          "title": "Exploding Kittens Zombie Burrito 3-6 Players - Ages 7+ - 15 Minutes to Play - Dodgeball Zombie Card Game - Party Game, F",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81iJVS-1RVL.jpg",
+          "url": "https://www.amazon.com/dp/B0D6CWVXBW/ref=cm_sw_r_as_gl_apa_gl_i_5SXEXMM4NF0MJE9BZW21?linkCode=ml1&tag=noya0b-20&linkId=e6597a60aa38500aa300238da91f3c5d"
+        },
+        {
+          "asin": "B0DNLVPTR1",
+          "slug": "newgo-360-knee-ice-pack-wrap-60-minutes-extended-cold-therap",
+          "title": "NEWGO 360° Knee Ice Pack Wrap, 60 Minutes Extended Cold Therapy with Ice Grid Gel, Ergonomic Y-Shape Snug Fit for Sports",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ueQeuVYuL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNLVPTR1/ref=cm_sw_r_as_gl_apa_gl_i_dl_2RGTYPPQJJ9PWCNH0YB8?linkCode=ml1&tag=noya0b-20&linkId=c840e4155d0d53d9326e170196a1ce75"
+        },
         {
           "asin": "B0DLNC3DMD",
           "slug": "zak-designs-disney-beacon-kid-water-bottle-for-travel-or-at",
@@ -214,45 +250,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61MH02iwp5L.jpg",
           "url": "https://amazon.com/dp/B0GZVDG3CW?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GX9R389H",
-          "slug": "ekouaer-pajamas-for-women-set-2-piece-silk-satin-lingerie-la",
-          "title": "Ekouaer Pajamas for Women Set 2 Piece Silk Satin Lingerie Lace Cami and Short Sleepwear Comfy Pjs Set,Red,Small at Amazo",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71DEdTasqTL._AC_SL1500_.jpg",
-          "url": "https://amazon.com/dp/B0GX9R389H?th=1&psc=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0D9KCLF3P",
-          "slug": "jsjoy-gold-letter-necklace-heart-initial-necklace-for-women",
-          "title": "JSJOY Gold Letter Necklace Heart Initial Necklace for Women Trendy Simple Initial P Gifts for Girlfriend Daughter Gifts ",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61AXzlDRVoL._AC_SL1500_.jpg",
-          "url": "https://amazon.com/dp/B0D9KCLF3P?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FZK387WJ",
-          "slug": "pet-supplies-zonopy-slow-feeder-cat-bowl-2-pcs-silicone-bowl",
-          "title": "Pet Supplies : Zonopy Slow Feeder Cat Bowl, 2 PCS Silicone Bowl, Cat Slow Feeder, Ideal for Dry and Wet Food, Easy to Cl",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71x49eJtpyL.jpg",
-          "url": "https://amazon.com/dp/B0FZK387WJ?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 29, 2026?",
-          "a": "The best deals today include \"Zak Designs Disney Beacon Kid Water Bottle for Travel or At ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"The Honey Pot Company - Feminine Wipes - Cooling - Cooling T...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T05:50:02.136Z",
-      "updatedAt": "2026-06-29T05:50:02.136Z"
+      "generatedAt": "2026-06-29T06:00:01.806Z",
+      "updatedAt": "2026-06-29T06:00:01.806Z"
     },
     {
       "date": "2026-06-28",
@@ -5662,5 +5665,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T05:50:02.138Z"
+  "generatedAt": "2026-06-29T06:00:01.808Z"
 }
