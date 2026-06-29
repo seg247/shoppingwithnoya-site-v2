@@ -9,12 +9,21 @@
         "Home & Kitchen",
         "Other",
         "Grocery & Food",
-        "Electronics",
-        "Fashion",
-        "Beauty"
+        "Electronics"
       ],
       "byCategory": {
         "Home & Kitchen": [
+          {
+            "asin": "B0GVG3W8RH",
+            "slug": "kitchenaid-fully-automatic-espresso-machine-kf2-with-6-hot-a",
+            "title": "KitchenAid Fully Automatic Espresso Machine KF2 with 6 Hot and Iced Coffee Options | Built-In Grinder | Steam Wand, Blac",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71KxOK8LdZL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GVG3W8RH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B00NA83RYU",
             "slug": "eddie-bauer-sherpa-throw-blanket-for-couch-50x60-ultra-soft",
@@ -49,20 +58,18 @@
             "url": "https://www.amazon.com/dp/B0DJKTPBX5/ref=cm_sw_r_as_gl_api_gl_i_X0RWRY0K5F9M59GK21H8?linkCode=ml1&tag=noya0b-20&linkId=7c9473558d8cf503d8e26242fd7c2a53"
           }
         ],
-        "Electronics": [
+        "Other": [
           {
-            "asin": "B0F546ZY8R",
-            "slug": "tracker-tags-4-pack-for-andriod-and-2pcs-extra-2032-batterie",
-            "title": "Tracker Tags - 4 Pack for Andriod and 2pcs Extra 2032 Batteries, Bluetooth + UWB Air Trackers Key Finder Work with Googl",
-            "price": "$9",
+            "asin": "B0DQJTP7SJ",
+            "slug": "bissell-little-green-mini-cordless-portable-carpet-and-uphol",
+            "title": "BISSELL Little Green Mini Cordless Portable Carpet and Upholstery Deep Cleaner, Car/Auto Detailer, with HydroRinse Self-",
+            "price": "$87",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61LsRhg7y1L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F546ZY8R/ref=cm_sw_r_as_gl_api_gl_i_JNF8JED138BQTSJSJ2T2?linkCode=ml1&tag=noya0b-20&linkId=641d0cc20817ae23ad7080013e57cbf1"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71m6MKLgP2L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DQJTP7SJ/ref=cm_sw_r_as_gl_api_gl_i_M0YBMW68P4P7NABK8X83?linkCode=ml1&tag=noya0b-20&linkId=3e36bd276058008a1a9242ccd5af45c6"
+          },
           {
             "asin": "B0DFBTXSSM",
             "slug": "faber-castell-shake-paint-markers-metallic-6-count-dual-tip",
@@ -84,6 +91,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71zDgw+h2fL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00DT0OWPW/ref=cm_sw_r_as_gl_api_gl_i_RXAQ2QF44P6A6TQ736F9?linkCode=ml1&tag=noya0b-20&linkId=65ba84ab067f2b4f0a06d6ce90674096"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0F546ZY8R",
+            "slug": "tracker-tags-4-pack-for-andriod-and-2pcs-extra-2032-batterie",
+            "title": "Tracker Tags - 4 Pack for Andriod and 2pcs Extra 2032 Batteries, Bluetooth + UWB Air Trackers Key Finder Work with Googl",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61LsRhg7y1L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F546ZY8R/ref=cm_sw_r_as_gl_api_gl_i_JNF8JED138BQTSJSJ2T2?linkCode=ml1&tag=noya0b-20&linkId=641d0cc20817ae23ad7080013e57cbf1"
           }
         ],
         "Grocery & Food": [
@@ -109,35 +129,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81J8yEqBZPL.jpg",
             "url": "https://www.amazon.com/dp/B08JM8BZXD/ref=cm_sw_r_as_gl_api_gl_i_DW5W6KHAJEM78SWVMWR6?linkCode=ml1&tag=noya0b-20&linkId=daaf9187d35a582d168dbe1afddf909b"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0DHVN1GJN",
-            "slug": "sulayesh-fleece-christian-sweatshirts-women-jesus-loves-you",
-            "title": "Sulayesh Fleece Christian Sweatshirts Women Jesus Loves You Jesus Is King Hoodie Religious Faith God Shirts Oversized To",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SKv5NXi4L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DHVN1GJN/ref=cm_sw_r_as_gl_api_gl_i_2K3MNJV450W3BBQE20PY?linkCode=ml1&tag=noya0b-20&linkId=d13a216cd6f83ba4ca15beee257ace5e"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0CMW1GQRK",
-            "slug": "pampers-aqua-pure-baby-wipes-99-water-fragrance-free-unscent",
-            "title": "Pampers Aqua Pure Baby Wipes, 99% Water, Fragrance Free, Unscented, Water Based, Multi-Use, 896 Wipes Total (16X Flip-To",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
-            "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GVG3W8RH",
+          "slug": "kitchenaid-fully-automatic-espresso-machine-kf2-with-6-hot-a",
+          "title": "KitchenAid Fully Automatic Espresso Machine KF2 with 6 Hot and Iced Coffee Options | Built-In Grinder | Steam Wand, Blac",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71KxOK8LdZL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GVG3W8RH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DQJTP7SJ",
+          "slug": "bissell-little-green-mini-cordless-portable-carpet-and-uphol",
+          "title": "BISSELL Little Green Mini Cordless Portable Carpet and Upholstery Deep Cleaner, Car/Auto Detailer, with HydroRinse Self-",
+          "price": "$87",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71m6MKLgP2L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DQJTP7SJ/ref=cm_sw_r_as_gl_api_gl_i_M0YBMW68P4P7NABK8X83?linkCode=ml1&tag=noya0b-20&linkId=3e36bd276058008a1a9242ccd5af45c6"
+        },
         {
           "asin": "B00NA83RYU",
           "slug": "eddie-bauer-sherpa-throw-blanket-for-couch-50x60-ultra-soft",
@@ -225,34 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DJKTPBX5/ref=cm_sw_r_as_gl_api_gl_i_X0RWRY0K5F9M59GK21H8?linkCode=ml1&tag=noya0b-20&linkId=7c9473558d8cf503d8e26242fd7c2a53"
-        },
-        {
-          "asin": "B0DHVN1GJN",
-          "slug": "sulayesh-fleece-christian-sweatshirts-women-jesus-loves-you",
-          "title": "Sulayesh Fleece Christian Sweatshirts Women Jesus Loves You Jesus Is King Hoodie Religious Faith God Shirts Oversized To",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61SKv5NXi4L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DHVN1GJN/ref=cm_sw_r_as_gl_api_gl_i_2K3MNJV450W3BBQE20PY?linkCode=ml1&tag=noya0b-20&linkId=d13a216cd6f83ba4ca15beee257ace5e"
-        },
-        {
-          "asin": "B0CMW1GQRK",
-          "slug": "pampers-aqua-pure-baby-wipes-99-water-fragrance-free-unscent",
-          "title": "Pampers Aqua Pure Baby Wipes, 99% Water, Fragrance Free, Unscented, Water Based, Multi-Use, 896 Wipes Total (16X Flip-To",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
-          "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 29, 2026?",
-          "a": "The best deals today include \"Eddie Bauer - Sherpa Throw Blanket for Couch 50x60 – Ultra S...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"KitchenAid Fully Automatic Espresso Machine KF2 with 6 Hot a...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T10:00:01.496Z",
-      "updatedAt": "2026-06-29T10:00:01.497Z"
+      "generatedAt": "2026-06-29T10:10:01.823Z",
+      "updatedAt": "2026-06-29T10:10:01.823Z"
     },
     {
       "date": "2026-06-28",
@@ -5662,5 +5656,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T10:00:01.499Z"
+  "generatedAt": "2026-06-29T10:10:01.825Z"
 }
