@@ -9,10 +9,9 @@
         "Home & Kitchen",
         "Other",
         "Toys & Kids",
+        "Pet Supplies",
         "Grocery & Food",
-        "Beauty",
-        "Fashion",
-        "Electronics"
+        "Beauty"
       ],
       "byCategory": {
         "Toys & Kids": [
@@ -28,7 +27,53 @@
             "url": "https://www.amazon.com/dp/B08S3C6LCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f477a1fad57361e1b81ed13bd78d318&language=en_US"
           }
         ],
+        "Pet Supplies": [
+          {
+            "asin": "B0G24DT1FS",
+            "slug": "pet-supplies-zonopy-slow-feeder-dog-bowl-with-non-slip-base",
+            "title": "Pet Supplies : Zonopy Slow Feeder Dog Bowl with Non-Slip Base, Silicone Puzzle Dog Food Bowl with Unique Design, Slow Fe",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/61R7oehHB1L.jpg",
+            "url": "https://www.amazon.com/dp/B0G24DT1FS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e704e8be8c6456fef8df1ccb8146c66c&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0DFZ4YRV1",
+            "slug": "amazoncom-shark-matrix-plus-2in1-robot-vacuum-mop-with-sonic",
+            "title": "Amazon.com - Shark Matrix Plus 2in1 Robot Vacuum & Mop with Sonic Mopping, Matrix Clean, Home Mapping, HEPA Bagless Self",
+            "price": "$269",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Shark-Mopping-Mapping-CleanEdge-AV2620WA/dp/B0DFZ4YRV1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=47e45b71d196cb781b59592619be8336&language=en_US"
+          },
+          {
+            "asin": "B0FHBQXQ93",
+            "slug": "4oz-popcorn-machine-popcorn-packets-pre-measured-movie-theat",
+            "title": "4oz Popcorn Machine Popcorn Packets - Pre-Measured, Movie Theater Style, All in One Gourmet Pop Corn Kernels for Popping",
+            "price": "$38.47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MchUIoIeL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHBQXQ93?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0FQCGFT95",
+            "slug": "101-smart-digital-calendar-interactive-touch-screen-hd-displ",
+            "title": "10.1’’ Smart Digital Calendar - Interactive Touch Screen, HD Display, Wall Mountable Family Organizer with Chore Chart, ",
+            "price": "$50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/7103pHcaf4L.jpg",
+            "url": "https://amazon.com/dp/B0FQCGFT95?th=1&psc=1&tag=noya0b-20"
+          },
           {
             "asin": "B0D2WTX48X",
             "slug": "aisparky-beach-blanket-waterproof-sandproof-extra-large-beac",
@@ -39,28 +84,30 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61dWf-ieHlL.jpg",
             "url": "https://amazon.com/dp/B0D2WTX48X?tag=noya0b-20"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B0GYQ3HHQF",
-            "slug": "dumos-32-inch-small-computer-desk-for-home-office-modern-stu",
-            "title": "DUMOS 32 Inch Small Computer Desk for Home Office, Modern Study Writing Gaming Work Table Simple Style for Bedroom with ",
-            "price": "$19",
+            "asin": "B003P9XG22",
+            "slug": "blue-buffalo-health-bars-bacon-egg-cheese-crunchy-dog-biscui",
+            "title": "Blue Buffalo Health Bars Bacon, Egg & Cheese Crunchy Dog Biscuits, Oven-Baked with Real Bacon & Natural Ingredients, Hea",
+            "price": "$4.98",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qMy5CDPBL.jpg",
-            "url": "https://amazon.com/dp/B0GYQ3HHQF?th=1&tag=noya0b-20"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/816s+UtfvdL.jpg",
+            "url": "https://www.amazon.com/dp/B003P9XG22?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
-            "asin": "B0DB6FG29Z",
-            "slug": "ninja-air-fryer-toaster-oven-combo-double-stack-xl-12-in-1-f",
-            "title": "Ninja Air Fryer Toaster Oven Combo | Double Stack XL | 12-in-1 | Fits 4.5 lb Chicken & 6lbs of Wings | Smart Finish Cook",
-            "price": "$229.99",
+            "asin": "B0F2TD8MWN",
+            "slug": "storage-maniac-laundry-hamper-with-wheels-90l-237-gal-large",
+            "title": "STORAGE MANIAC Laundry Hamper with Wheels, 90L (23.7 Gal) Large Tall Rolling Laundry Basket with Removable and Washable ",
+            "price": "$13",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DB6FG29Z?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/91JJp2AlWoL.jpg",
+            "url": "https://amazon.com/dp/B0F2TD8MWN?th=1&tag=noya0b-20"
           }
         ],
         "Grocery & Food": [
@@ -76,30 +123,6 @@
             "url": "https://www.amazon.com/dp/B00UFXHZJQ?m=ATVPDKIKX0DER&th=1&ascsubtag=srctok-1b0dabf023575908&btn_ref=srctok-1b0dabf023575908&linkCode=sl2&tag=noya0b-20&linkId=f354012679bee7e61f465d217096e181&language=en_US"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0F2TD8MWN",
-            "slug": "storage-maniac-laundry-hamper-with-wheels-90l-237-gal-large",
-            "title": "STORAGE MANIAC Laundry Hamper with Wheels, 90L (23.7 Gal) Large Tall Rolling Laundry Basket with Removable and Washable ",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91JJp2AlWoL.jpg",
-            "url": "https://amazon.com/dp/B0F2TD8MWN?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B00VBP8QPO",
-            "slug": "everydrop-by-whirlpool-ice-and-water-refrigerator-filter-2-e",
-            "title": "everydrop by Whirlpool Ice and Water Refrigerator Filter 2, EDR2RXD1, Single-Pack",
-            "price": "$22.71",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61DYw5TmcML.jpg",
-            "url": "https://www.amazon.com/dp/B00VBP8QPO?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0FL46VFKH",
@@ -111,32 +134,6 @@
             "category": "Beauty",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FL46VFKH?linkCode=sl2&tag=noya0b-20&linkId=1c1e0acc65f72c9ff5572ae68d5eeb02&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GJFSB7PV",
-            "slug": "ninja-backpack-cooler-frostvault-go-24-can-soft-cooler-leakp",
-            "title": "Ninja Backpack Cooler | FrostVault Go 24 Can Soft Cooler | Leakproof Zipper with Built in Can Opener, 2 Ice Packs & Dry ",
-            "price": "$99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/Ninja-FrostVault-Leakproof-Halocline-FF124TL/dp/B0GJFSB7PV?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=33587655388a3e31ff597d2bc6c0bd27&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B07953S2FD",
-            "slug": "tp-link-long-range-outdoor-access-point-eap225-outdoor-ac120",
-            "title": "TP-Link Long Range Outdoor Access Point (EAP225-Outdoor) – AC1200 Dual Band, IP65 Weatherproof, Free Expert Help, Remote",
-            "price": "$53.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/415RKsrYJDL.jpg",
-            "url": "https://www.amazon.com/dp/B07953S2FD?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
@@ -151,6 +148,61 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/61ZFTZC31DL.jpg",
           "url": "https://www.amazon.com/dp/B08S3C6LCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f477a1fad57361e1b81ed13bd78d318&language=en_US"
+        },
+        {
+          "asin": "B0G24DT1FS",
+          "slug": "pet-supplies-zonopy-slow-feeder-dog-bowl-with-non-slip-base",
+          "title": "Pet Supplies : Zonopy Slow Feeder Dog Bowl with Non-Slip Base, Silicone Puzzle Dog Food Bowl with Unique Design, Slow Fe",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/61R7oehHB1L.jpg",
+          "url": "https://www.amazon.com/dp/B0G24DT1FS?th=1&linkCode=sl2&tag=noya0b-20&linkId=e704e8be8c6456fef8df1ccb8146c66c&language=en_US"
+        },
+        {
+          "asin": "B0DFZ4YRV1",
+          "slug": "amazoncom-shark-matrix-plus-2in1-robot-vacuum-mop-with-sonic",
+          "title": "Amazon.com - Shark Matrix Plus 2in1 Robot Vacuum & Mop with Sonic Mopping, Matrix Clean, Home Mapping, HEPA Bagless Self",
+          "price": "$269",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Shark-Mopping-Mapping-CleanEdge-AV2620WA/dp/B0DFZ4YRV1?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=47e45b71d196cb781b59592619be8336&language=en_US"
+        },
+        {
+          "asin": "B003P9XG22",
+          "slug": "blue-buffalo-health-bars-bacon-egg-cheese-crunchy-dog-biscui",
+          "title": "Blue Buffalo Health Bars Bacon, Egg & Cheese Crunchy Dog Biscuits, Oven-Baked with Real Bacon & Natural Ingredients, Hea",
+          "price": "$4.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/816s+UtfvdL.jpg",
+          "url": "https://www.amazon.com/dp/B003P9XG22?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FHBQXQ93",
+          "slug": "4oz-popcorn-machine-popcorn-packets-pre-measured-movie-theat",
+          "title": "4oz Popcorn Machine Popcorn Packets - Pre-Measured, Movie Theater Style, All in One Gourmet Pop Corn Kernels for Popping",
+          "price": "$38.47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71MchUIoIeL.jpg",
+          "url": "https://www.amazon.com/dp/B0FHBQXQ93?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FQCGFT95",
+          "slug": "101-smart-digital-calendar-interactive-touch-screen-hd-displ",
+          "title": "10.1’’ Smart Digital Calendar - Interactive Touch Screen, HD Display, Wall Mountable Family Organizer with Chore Chart, ",
+          "price": "$50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/7103pHcaf4L.jpg",
+          "url": "https://amazon.com/dp/B0FQCGFT95?th=1&psc=1&tag=noya0b-20"
         },
         {
           "asin": "B0D2WTX48X",
@@ -195,61 +247,6 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FL46VFKH?linkCode=sl2&tag=noya0b-20&linkId=1c1e0acc65f72c9ff5572ae68d5eeb02&language=en_US"
-        },
-        {
-          "asin": "B00VBP8QPO",
-          "slug": "everydrop-by-whirlpool-ice-and-water-refrigerator-filter-2-e",
-          "title": "everydrop by Whirlpool Ice and Water Refrigerator Filter 2, EDR2RXD1, Single-Pack",
-          "price": "$22.71",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61DYw5TmcML.jpg",
-          "url": "https://www.amazon.com/dp/B00VBP8QPO?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GJFSB7PV",
-          "slug": "ninja-backpack-cooler-frostvault-go-24-can-soft-cooler-leakp",
-          "title": "Ninja Backpack Cooler | FrostVault Go 24 Can Soft Cooler | Leakproof Zipper with Built in Can Opener, 2 Ice Packs & Dry ",
-          "price": "$99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/Ninja-FrostVault-Leakproof-Halocline-FF124TL/dp/B0GJFSB7PV?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=33587655388a3e31ff597d2bc6c0bd27&language=en_US"
-        },
-        {
-          "asin": "B07953S2FD",
-          "slug": "tp-link-long-range-outdoor-access-point-eap225-outdoor-ac120",
-          "title": "TP-Link Long Range Outdoor Access Point (EAP225-Outdoor) – AC1200 Dual Band, IP65 Weatherproof, Free Expert Help, Remote",
-          "price": "$53.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/415RKsrYJDL.jpg",
-          "url": "https://www.amazon.com/dp/B07953S2FD?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GYQ3HHQF",
-          "slug": "dumos-32-inch-small-computer-desk-for-home-office-modern-stu",
-          "title": "DUMOS 32 Inch Small Computer Desk for Home Office, Modern Study Writing Gaming Work Table Simple Style for Bedroom with ",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qMy5CDPBL.jpg",
-          "url": "https://amazon.com/dp/B0GYQ3HHQF?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DB6FG29Z",
-          "slug": "ninja-air-fryer-toaster-oven-combo-double-stack-xl-12-in-1-f",
-          "title": "Ninja Air Fryer Toaster Oven Combo | Double Stack XL | 12-in-1 | Fits 4.5 lb Chicken & 6lbs of Wings | Smart Finish Cook",
-          "price": "$229.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DB6FG29Z?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T18:40:01.542Z",
-      "updatedAt": "2026-06-29T18:40:01.542Z"
+      "generatedAt": "2026-06-29T18:50:01.995Z",
+      "updatedAt": "2026-06-29T18:50:01.995Z"
     },
     {
       "date": "2026-06-28",
@@ -5665,5 +5662,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T18:40:01.544Z"
+  "generatedAt": "2026-06-29T18:50:01.997Z"
 }
