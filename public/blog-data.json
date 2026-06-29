@@ -4,15 +4,88 @@
       "date": "2026-06-29",
       "slug": "2026-06-29",
       "title": "🔥 Best Deals Today — June 29, 2026",
-      "intro": "Today's best online deals for Monday, June 29, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, June 29, 2026 — 10 hand-picked discounts across Beauty, Other, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
         "Beauty",
+        "Other",
         "Grocery & Food",
+        "Electronics",
         "Health",
-        "Other"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0DP62D7KY",
+            "slug": "martha-stewart-cocktail-ottoman-for-living-room-fully-uphols",
+            "title": "Martha Stewart Cocktail Ottoman for Living Room Fully Upholstered, Button Tufted Round Ottoman Footrest, Pleated Skirt, ",
+            "price": "$167",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51JBhXZUFRL._AC_.jpg",
+            "url": "https://www.amazon.com/dp/B0DP62D7KY/ref=cm_sw_r_as_gl_apa_gl_i_RF8A5FCW1V1AMHP8ZR0A?linkCode=ml1&tag=noya0b-20&linkId=99c189d3b6a38077d2bb72816c3107ad"
+          },
+          {
+            "asin": "B08N2RJH5F",
+            "slug": "safety-1st-easy-care-swing-tray-feeding-booster-coral-crush",
+            "title": "Safety 1st Easy Care Swing Tray Feeding Booster, Coral Crush, One Size",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nljzYV8+L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08N2RJH5F/ref=cm_sw_r_as_gl_apa_gl_i_RD8EK7KSVGZZ317TBSQ4?linkCode=ml1&tag=noya0b-20&linkId=15e4e818d395f27dd106d53a5f2224c7"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0BSBVTRKD",
+            "slug": "logitech-g-yeti-orb-condenser-rgb-gaming-microphone-with-lig",
+            "title": "Logitech G Yeti Orb Condenser RGB Gaming Microphone with LIGHTSYNC, USB Mic for Streaming, Cardioid, USB Plug and Play f",
+            "price": "$47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0BSBVTRKD/ref=cm_sw_r_as_gl_apa_gl_i_dl_JRW9WTWDZZ9XR8B9RGQJ?linkCode=ml1&tag=noya0b-20&linkId=737c74ffbd9ea966e8a41d2db8a33f30"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0D6ZVJ3K2",
+            "slug": "sol-de-janeiro-cheirosa-76-hair-body-fragrance-mist-travel-s",
+            "title": "Sol de Janeiro Cheirosa 76 Hair & Body Fragrance Mist Travel Size 90mL/3.0 fl oz. : Beauty & Personal Care",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Wh7mGBe2L.jpg",
+            "url": "https://www.amazon.com/dp/B0D6ZVJ3K2/ref=cm_sw_r_as_gl_apa_gl_i_BQEEWK9E16FBQH338HD9?linkCode=ml1&tag=noya0b-20&linkId=84e33a04f4b7516ba1329ef3c9d3a470"
+          },
+          {
+            "asin": "B0DPPRCVQ3",
+            "slug": "toteprint-pink-pvc-pure-color-transparent-gift-pouch-wash-tr",
+            "title": "TotePrint Pink PVC Pure Color Transparent Gift Pouch Wash Travel Makeup Cosmetic Bag with Handle for Travel Bathroom Toi",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61epVX3IC1L.jpg",
+            "url": "https://www.amazon.com/dp/B0DPPRCVQ3/ref=cm_sw_r_as_gl_apa_gl_i_dl_KRPRMQ416YVC96H393V7?linkCode=ml1&tag=noya0b-20&linkId=3d6a04a7fc942793b5365badfe291875"
+          },
+          {
+            "asin": "B01HTJTPZA",
+            "slug": "dove-advanced-care-antiperspirant-deodorant-stick-cool-essen",
+            "title": "Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials 4 ct for helping your skin barrier repair after shavin",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
+          }
+        ],
         "Health": [
           {
             "asin": "B0CQ9QDFQ1",
@@ -50,19 +123,6 @@
             "url": "https://www.amazon.com/dp/B08BN9YYCB/ref=cm_sw_r_as_gl_apa_gl_i_8AYJJ54PDKWKWQWF0W93?linkCode=ml1&tag=noya0b-20&linkId=ce5ecaa0310b7226d39d37c4579204a4"
           }
         ],
-        "Other": [
-          {
-            "asin": "B08N2RJH5F",
-            "slug": "safety-1st-easy-care-swing-tray-feeding-booster-coral-crush",
-            "title": "Safety 1st Easy Care Swing Tray Feeding Booster, Coral Crush, One Size",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nljzYV8+L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08N2RJH5F/ref=cm_sw_r_as_gl_apa_gl_i_RD8EK7KSVGZZ317TBSQ4?linkCode=ml1&tag=noya0b-20&linkId=15e4e818d395f27dd106d53a5f2224c7"
-          }
-        ],
         "Home & Kitchen": [
           {
             "asin": "B0838KW47X",
@@ -74,67 +134,43 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51SgBsp2s1L.jpg",
             "url": "https://www.amazon.com/dp/B0838KW47X/ref=cm_sw_r_as_gl_apa_gl_i_Y8S09Y2W1J118ZEV52XQ?linkCode=ml1&tag=noya0b-20&linkId=6d01238823f0489bdc920e5936dee799"
-          },
-          {
-            "asin": "B08V57P86Z",
-            "slug": "instant-pot-vortex-57qt-air-fryer-custom-program-options-4-i",
-            "title": "Instant Pot Vortex 5.7QT Air Fryer, Custom Program Options, 4-in-1 Functions, EvenCrisp Technology that Crisps, Roasts, ",
-            "price": "$57",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Y-wVzY4YL.jpg",
-            "url": "https://www.amazon.com/dp/B08V57P86Z/ref=cm_sw_r_as_gl_apa_gl_i_MWMEM590AG9RQDVADQ2K?linkCode=ml1&tag=noya0b-20&linkId=f072d53d3d06ed26f4ba8dc2550fa7b7"
-          },
-          {
-            "asin": "B0DZL72F58",
-            "slug": "sunbeam-electric-royal-luxe-microplush-heated-blanket-12-hea",
-            "title": "Sunbeam Electric Royal Luxe Microplush Heated Blanket, 12 Heat Settings, 12-Hour Auto Shut-Off, Fast Heating, Warm & Coz",
-            "price": "$38.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DZL72F58?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DPPRCVQ3",
-            "slug": "toteprint-pink-pvc-pure-color-transparent-gift-pouch-wash-tr",
-            "title": "TotePrint Pink PVC Pure Color Transparent Gift Pouch Wash Travel Makeup Cosmetic Bag with Handle for Travel Bathroom Toi",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61epVX3IC1L.jpg",
-            "url": "https://www.amazon.com/dp/B0DPPRCVQ3/ref=cm_sw_r_as_gl_apa_gl_i_dl_KRPRMQ416YVC96H393V7?linkCode=ml1&tag=noya0b-20&linkId=3d6a04a7fc942793b5365badfe291875"
-          },
-          {
-            "asin": "B01HTJTPZA",
-            "slug": "dove-advanced-care-antiperspirant-deodorant-stick-cool-essen",
-            "title": "Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials 4 ct for helping your skin barrier repair after shavin",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
-          },
-          {
-            "asin": "B01HTJTPZA",
-            "slug": "dove-advanced-care-antiperspirant-deodorant-stick-cool-essen",
-            "title": "Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials 4 ct for helping your skin barrier repair after shavin",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DP62D7KY",
+          "slug": "martha-stewart-cocktail-ottoman-for-living-room-fully-uphols",
+          "title": "Martha Stewart Cocktail Ottoman for Living Room Fully Upholstered, Button Tufted Round Ottoman Footrest, Pleated Skirt, ",
+          "price": "$167",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51JBhXZUFRL._AC_.jpg",
+          "url": "https://www.amazon.com/dp/B0DP62D7KY/ref=cm_sw_r_as_gl_apa_gl_i_RF8A5FCW1V1AMHP8ZR0A?linkCode=ml1&tag=noya0b-20&linkId=99c189d3b6a38077d2bb72816c3107ad"
+        },
+        {
+          "asin": "B0BSBVTRKD",
+          "slug": "logitech-g-yeti-orb-condenser-rgb-gaming-microphone-with-lig",
+          "title": "Logitech G Yeti Orb Condenser RGB Gaming Microphone with LIGHTSYNC, USB Mic for Streaming, Cardioid, USB Plug and Play f",
+          "price": "$47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0BSBVTRKD/ref=cm_sw_r_as_gl_apa_gl_i_dl_JRW9WTWDZZ9XR8B9RGQJ?linkCode=ml1&tag=noya0b-20&linkId=737c74ffbd9ea966e8a41d2db8a33f30"
+        },
+        {
+          "asin": "B0D6ZVJ3K2",
+          "slug": "sol-de-janeiro-cheirosa-76-hair-body-fragrance-mist-travel-s",
+          "title": "Sol de Janeiro Cheirosa 76 Hair & Body Fragrance Mist Travel Size 90mL/3.0 fl oz. : Beauty & Personal Care",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Wh7mGBe2L.jpg",
+          "url": "https://www.amazon.com/dp/B0D6ZVJ3K2/ref=cm_sw_r_as_gl_apa_gl_i_BQEEWK9E16FBQH338HD9?linkCode=ml1&tag=noya0b-20&linkId=84e33a04f4b7516ba1329ef3c9d3a470"
+        },
         {
           "asin": "B0CQ9QDFQ1",
           "slug": "culturelle-kids-complete-chewable-multivitamin-probiotic-for",
@@ -211,49 +247,16 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
-        },
-        {
-          "asin": "B01HTJTPZA",
-          "slug": "dove-advanced-care-antiperspirant-deodorant-stick-cool-essen",
-          "title": "Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials 4 ct for helping your skin barrier repair after shavin",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01HTJTPZA/ref=cm_sw_r_as_gl_apa_gl_i_S16KX9MXSP99NCWD7YCZ?linkCode=ml1&tag=noya0b-20&linkId=bd24a54285cc23daf3e30c059d276449"
-        },
-        {
-          "asin": "B08V57P86Z",
-          "slug": "instant-pot-vortex-57qt-air-fryer-custom-program-options-4-i",
-          "title": "Instant Pot Vortex 5.7QT Air Fryer, Custom Program Options, 4-in-1 Functions, EvenCrisp Technology that Crisps, Roasts, ",
-          "price": "$57",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Y-wVzY4YL.jpg",
-          "url": "https://www.amazon.com/dp/B08V57P86Z/ref=cm_sw_r_as_gl_apa_gl_i_MWMEM590AG9RQDVADQ2K?linkCode=ml1&tag=noya0b-20&linkId=f072d53d3d06ed26f4ba8dc2550fa7b7"
-        },
-        {
-          "asin": "B0DZL72F58",
-          "slug": "sunbeam-electric-royal-luxe-microplush-heated-blanket-12-hea",
-          "title": "Sunbeam Electric Royal Luxe Microplush Heated Blanket, 12 Heat Settings, 12-Hour Auto Shut-Off, Fast Heating, Warm & Coz",
-          "price": "$38.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DZL72F58?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 29, 2026?",
-          "a": "The best deals today include \"Culturelle Kids Complete Chewable Multivitamin + Probiotic F...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Martha Stewart Cocktail Ottoman for Living Room Fully Uphols...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T07:50:01.271Z",
-      "updatedAt": "2026-06-29T07:50:01.271Z"
+      "generatedAt": "2026-06-29T08:00:02.108Z",
+      "updatedAt": "2026-06-29T08:00:02.108Z"
     },
     {
       "date": "2026-06-28",
@@ -5659,5 +5662,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T07:50:01.273Z"
+  "generatedAt": "2026-06-29T08:00:02.110Z"
 }
