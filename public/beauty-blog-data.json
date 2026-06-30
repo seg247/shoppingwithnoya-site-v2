@@ -9,8 +9,8 @@
         "Skincare",
         "Makeup",
         "Hair Care",
-        "Body Care",
         "Beauty",
+        "Body Care",
         "Nails"
       ],
       "bySubcat": {
@@ -134,16 +134,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81oG-nvNpiL.jpg",
             "url": "https://amazon.com/dp/B0F24LGVRJ?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0GRTQG1GH",
-            "slug": "taimand-under-eye-patches-30-pairs-under-eye-mask-for-puffy",
-            "title": "Taimand Under Eye Patches (30 Pairs), Under Eye Mask for Puffy Eyes and Dark Circles, Eye Masks with Collagen, Hyaluroni",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/81WHpAje+DL.jpg",
-            "url": "https://www.amazon.com/Taimand-Patches-Circles-Collagen-Hyaluronic/dp/B0GRTQG1GH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=2b23efb58dc5708318cd988b4e8b1b5f&language=en_US"
           }
         ],
         "Makeup": [
@@ -154,7 +144,7 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
           },
           {
@@ -250,6 +240,28 @@
             "url": "https://www.amazon.com/dp/B0FRNKJNQL?linkCode=sl2&tag=noya0b-20&linkId=54d671b1a25ee8c384a534087421cb81&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B07L98GZH9",
+            "slug": "softsoap-milk-honey-scented-liquid-hand-soap-refill-50-ounce",
+            "title": "Softsoap Milk & Honey Scented, Liquid Hand Soap Refill, 50 Ounce : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wrakbdvwL.jpg",
+            "url": "https://www.amazon.com/dp/B07L98GZH9?lv=shuf&ascsubtag=383979f474a911f18fcd3ed668b1feee0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6b975c9ccc9befb243e0b8b40eb07be4&language=en_US"
+          },
+          {
+            "asin": "B0DBZ1Q4PF",
+            "slug": "truly-beauty-luxury-after-shave-oil-soothing-hydrating-treat",
+            "title": "Truly Beauty Luxury After Shave Oil | Soothing & Hydrating Treatment to Prevent Ingrown Hair For Smooth, Irritation-Free",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81dCfm1vHCL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DBZ1Q4PF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Body Care": [
           {
             "asin": "B0GN9J6YRT",
@@ -302,18 +314,6 @@
             "url": "https://www.amazon.com/dp/B0G2T52PRG?th=1&linkCode=sl2&tag=noya0b-20&linkId=4b345b328bcdead95435be8b3719d2d2&language=en_US"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B0DBZ1Q4PF",
-            "slug": "truly-beauty-luxury-after-shave-oil-soothing-hydrating-treat",
-            "title": "Truly Beauty Luxury After Shave Oil | Soothing & Hydrating Treatment to Prevent Ingrown Hair For Smooth, Irritation-Free",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81dCfm1vHCL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DBZ1Q4PF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
         "Nails": [
           {
             "asin": "B0D2DTBLYM",
@@ -345,7 +345,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
         },
         {
@@ -387,6 +387,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HPLwL7omL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B0DWFLY18Y?tag=noya0b-20"
+        },
+        {
+          "asin": "B07L98GZH9",
+          "slug": "softsoap-milk-honey-scented-liquid-hand-soap-refill-50-ounce",
+          "title": "Softsoap Milk & Honey Scented, Liquid Hand Soap Refill, 50 Ounce : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71wrakbdvwL.jpg",
+          "url": "https://www.amazon.com/dp/B07L98GZH9?lv=shuf&ascsubtag=383979f474a911f18fcd3ed668b1feee0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6b975c9ccc9befb243e0b8b40eb07be4&language=en_US"
         },
         {
           "asin": "B00D8I621M",
@@ -617,16 +627,6 @@
           "subcat": "Body Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71z+d-Hxi9L.jpg",
           "url": "https://www.amazon.com/dp/B0G2T52PRG?th=1&linkCode=sl2&tag=noya0b-20&linkId=4b345b328bcdead95435be8b3719d2d2&language=en_US"
-        },
-        {
-          "asin": "B0GRTQG1GH",
-          "slug": "taimand-under-eye-patches-30-pairs-under-eye-mask-for-puffy",
-          "title": "Taimand Under Eye Patches (30 Pairs), Under Eye Mask for Puffy Eyes and Dark Circles, Eye Masks with Collagen, Hyaluroni",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/81WHpAje+DL.jpg",
-          "url": "https://www.amazon.com/Taimand-Patches-Circles-Collagen-Hyaluronic/dp/B0GRTQG1GH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=2b23efb58dc5708318cd988b4e8b1b5f&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-30T17:30:03.503Z",
-      "updatedAt": "2026-06-30T17:30:03.503Z"
+      "generatedAt": "2026-06-30T17:40:04.000Z",
+      "updatedAt": "2026-06-30T17:40:04.001Z"
     },
     {
       "date": "2026-06-29",
@@ -12861,5 +12861,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-30T17:30:03.506Z"
+  "generatedAt": "2026-06-30T17:40:04.005Z"
 }
