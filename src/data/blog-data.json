@@ -9,9 +9,58 @@
         "Other",
         "Electronics",
         "Toys & Kids",
+        "Grocery & Food",
         "Beauty"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B07SJ2QNLW",
+            "slug": "stranger-things-soundtrack-from-the-netflix-original-series",
+            "title": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51sSeUrhC3L.jpg",
+            "url": "https://www.amazon.com/dp/B07SJ2QNLW/ref=cm_sw_r_as_gl_api_gl_i_60GFV0C9VEHH12C9A440?linkCode=ml1&tag=noya0b-20&linkId=5b37cd966b5e0e3ba43fd4b230561d94"
+          },
+          {
+            "asin": "B00006IE7K",
+            "slug": "bic-round-stic-xtra-life-black-ballpoint-pens-medium-point-1",
+            "title": "BIC Round Stic Xtra Life Black Ballpoint Pens, Medium Point (1.0mm), 12-Count Pack of Bulk Pens, Flexible Round Barrel f",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JsF3prXZL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00006IE7K/ref=cm_sw_r_as_gl_api_gl_i_6YN5S88VSKQWPM5EVQRF?linkCode=ml1&tag=noya0b-20&linkId=46fd2167cba845664d53136d7fb848d8"
+          },
+          {
+            "asin": "B0GTQ8392B",
+            "slug": "olixis-collapsible-wagon-cart-with-wheels-220-lbs-capacity-h",
+            "title": "OLIXIS Collapsible Wagon Cart with Wheels 220 lbs Capacity, Heavy Duty Mini Foldable Portable Wagon with Adjustable Hand",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81n5f-8yjfL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GTQ8392B?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B017DF6PUS",
+            "slug": "jack-links-original-beef-jerky-multipack-5-pack-0625-oz-bags",
+            "title": "Jack Link's Original Beef Jerky Multipack - (5 Pack) 0.625 oz Bags - Ready to Eat Real Meat Protein Snacks - 7g Protein ",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PizyFhzlL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B017DF6PUS/ref=cm_sw_r_as_gl_api_gl_i_RV3BF4B0KR2P39328PQC?linkCode=ml1&tag=noya0b-20&linkId=201dbe75f87c365a23728535f9ca6959"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0FHJ7MPBF",
@@ -71,52 +120,6 @@
             "url": "https://www.amazon.com/dp/B0DKGBP38V/ref=cm_sw_r_as_gl_api_gl_i_R7GDBNRA2N24T70RPAJV?linkCode=ml1&tag=noya0b-20&linkId=9e6093ce486e01161c626526ff909c4e"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0GTQ8392B",
-            "slug": "olixis-collapsible-wagon-cart-with-wheels-220-lbs-capacity-h",
-            "title": "OLIXIS Collapsible Wagon Cart with Wheels 220 lbs Capacity, Heavy Duty Mini Foldable Portable Wagon with Adjustable Hand",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81n5f-8yjfL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GTQ8392B?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0C6F4528N",
-            "slug": "skil-pwr-core-20-brushless-20v-compact-reciprocating-saw-too",
-            "title": "SKIL PWR CORE 20 Brushless 20V Compact Reciprocating Saw Tool Only-RS5825B-00",
-            "price": "$56.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41BoTtj1aSL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B0C6F4528N?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0CVPMF4HQ",
-            "slug": "sony-65-inch-class-4k-ultra-hd-bravia-3-led-smart-tv-with-go",
-            "title": "Sony 65-Inch Class 4K Ultra HD BRAVIA 3 LED Smart TV with Google TV Dolby Vision HDR, PS5 Exclusive Features, K-65S30",
-            "price": "$1199.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81VxRGYJzwL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CVPMF4HQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0D1957YC8",
-            "slug": "smashbox-always-on-mood-board-eye-shadow-palette-long-wearin",
-            "title": "Smashbox Always On Mood Board Eye Shadow Palette | Long-Wearing Eye Shadow Palette For Every Mood | High Pigment + Shimm",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81+5sa47o+L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D1957YC8/ref=cm_sw_r_as_gl_apa_gl_i_Q524NKGHQB3FW91QT7G8?linkCode=ml1&tag=noya0b-20&linkId=9d74fcee55fdf9dd662c2aac167acb39"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0DGZFGC6P",
@@ -132,6 +135,39 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B07SJ2QNLW",
+          "slug": "stranger-things-soundtrack-from-the-netflix-original-series",
+          "title": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51sSeUrhC3L.jpg",
+          "url": "https://www.amazon.com/dp/B07SJ2QNLW/ref=cm_sw_r_as_gl_api_gl_i_60GFV0C9VEHH12C9A440?linkCode=ml1&tag=noya0b-20&linkId=5b37cd966b5e0e3ba43fd4b230561d94"
+        },
+        {
+          "asin": "B00006IE7K",
+          "slug": "bic-round-stic-xtra-life-black-ballpoint-pens-medium-point-1",
+          "title": "BIC Round Stic Xtra Life Black Ballpoint Pens, Medium Point (1.0mm), 12-Count Pack of Bulk Pens, Flexible Round Barrel f",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JsF3prXZL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00006IE7K/ref=cm_sw_r_as_gl_api_gl_i_6YN5S88VSKQWPM5EVQRF?linkCode=ml1&tag=noya0b-20&linkId=46fd2167cba845664d53136d7fb848d8"
+        },
+        {
+          "asin": "B017DF6PUS",
+          "slug": "jack-links-original-beef-jerky-multipack-5-pack-0625-oz-bags",
+          "title": "Jack Link's Original Beef Jerky Multipack - (5 Pack) 0.625 oz Bags - Ready to Eat Real Meat Protein Snacks - 7g Protein ",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71PizyFhzlL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B017DF6PUS/ref=cm_sw_r_as_gl_api_gl_i_RV3BF4B0KR2P39328PQC?linkCode=ml1&tag=noya0b-20&linkId=201dbe75f87c365a23728535f9ca6959"
+        },
         {
           "asin": "B0FHJ7MPBF",
           "slug": "super7-fun-fun-sesame-street-count-von-count-vinyl-figure-5",
@@ -208,45 +244,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/61H8vRsAS9L.jpg",
           "url": "https://www.amazon.com/dp/B08TKV6PVW/ref=cm_sw_r_as_gl_apa_gl_i_dl_2RA7D4SGT4HC2ZQY0Q32?linkCode=ml1&tag=noya0b-20&linkId=f59b52378c5131b44ab4d8d8fd2acc23"
-        },
-        {
-          "asin": "B0C6F4528N",
-          "slug": "skil-pwr-core-20-brushless-20v-compact-reciprocating-saw-too",
-          "title": "SKIL PWR CORE 20 Brushless 20V Compact Reciprocating Saw Tool Only-RS5825B-00",
-          "price": "$56.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41BoTtj1aSL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B0C6F4528N?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CVPMF4HQ",
-          "slug": "sony-65-inch-class-4k-ultra-hd-bravia-3-led-smart-tv-with-go",
-          "title": "Sony 65-Inch Class 4K Ultra HD BRAVIA 3 LED Smart TV with Google TV Dolby Vision HDR, PS5 Exclusive Features, K-65S30",
-          "price": "$1199.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81VxRGYJzwL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CVPMF4HQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D1957YC8",
-          "slug": "smashbox-always-on-mood-board-eye-shadow-palette-long-wearin",
-          "title": "Smashbox Always On Mood Board Eye Shadow Palette | Long-Wearing Eye Shadow Palette For Every Mood | High Pigment + Shimm",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81+5sa47o+L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D1957YC8/ref=cm_sw_r_as_gl_apa_gl_i_Q524NKGHQB3FW91QT7G8?linkCode=ml1&tag=noya0b-20&linkId=9d74fcee55fdf9dd662c2aac167acb39"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 30, 2026?",
-          "a": "The best deals today include \"Super7 Fun! Fun! Sesame Street Count Von Count Vinyl Figure ...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Stranger Things: Soundtrack from the Netflix Original Series...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-30T10:00:00.520Z",
-      "updatedAt": "2026-06-30T10:00:00.521Z"
+      "generatedAt": "2026-06-30T10:10:01.938Z",
+      "updatedAt": "2026-06-30T10:10:01.938Z"
     },
     {
       "date": "2026-06-29",
@@ -5930,5 +5933,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-30T10:00:00.523Z"
+  "generatedAt": "2026-06-30T10:10:01.941Z"
 }
