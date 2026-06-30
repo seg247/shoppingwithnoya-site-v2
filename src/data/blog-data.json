@@ -1,6 +1,142 @@
 {
   "posts": [
     {
+      "date": "2026-06-30",
+      "slug": "2026-06-30",
+      "title": "🔥 Best Deals Today — June 30, 2026",
+      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 4 hand-picked discounts across Fashion, Toys & Kids, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "categories": [
+        "Fashion",
+        "Toys & Kids",
+        "Home & Kitchen",
+        "Other"
+      ],
+      "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0F335PSSG",
+            "slug": "adidas-womens-cloudfoam-flex-slounge-blackwhitealmost-pink-7",
+            "title": "adidas Women's Cloudfoam Flex - Slounge, Black/White/Almost Pink, 7 | Fashion Sneakers",
+            "price": "$30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/617y4WxirqL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F335PSSG/ref=cm_sw_r_as_gl_apa_gl_i_dl_FPH9Z9RKXJDDZQNKZF0W?linkCode=ml1&tag=noya0b-20&linkId=6e8b096004cd38188e540d103079d8c4"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0DJFZY6JZ",
+            "slug": "squishy-extra-large-strawberry-gag-gifts-funny-adult-giant-s",
+            "title": "Squishy Extra Large Strawberry, Gag Gifts Funny Adult, Giant Stress Ball, Fidget Sensory Toy for Kids, ADHD Toys : Toys ",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DJFZY6JZ/ref=cm_sw_r_as_gl_apa_gl_i_S66KKGWYBX8J4EQ24C7R?linkCode=ml1&tag=noya0b-20&linkId=62fa53dcb0721e34ede7fb8c0a56b6ad"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FCYJTJ7F",
+            "slug": "jrd-humidifiers-for-bedroom-ultrasonic-humidifier-4l-for-lar",
+            "title": "JRD Humidifiers for Bedroom, Ultrasonic Humidifier 4L for Large Room, Cool Mist Top-Fill, 40H Run, 12H Timer, 360° Nozzl",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Ozbtj0b6L.jpg",
+            "url": "https://www.amazon.com/dp/B0FCYJTJ7F/ref=cm_sw_r_as_gl_apa_gl_i_S2J6REWWCACQR53CQ4TW?linkCode=ml1&tag=noya0b-20&linkId=21885d2baf7afb6a2e6b35a8ef095eba"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0B33HJNKS",
+            "slug": "hbcy-creations-small-round-mirror-silver-20-inch-wall-mirror",
+            "title": "HBCY Creations Small Round Mirror, Silver 20 inch Wall Mirror for Entryway, Bathroom, Living Room and More, Modern Minim",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81FTwcw-yaL.jpg",
+            "url": "https://www.amazon.com/dp/B0B33HJNKS/ref=cm_sw_r_as_gl_apa_gl_i_TKKWQNFC7BEKMCW84YRM?linkCode=ml1&tag=noya0b-20&linkId=b0056964dec9641b44810e772439fc31"
+          }
+        ]
+      },
+      "deals": [
+        {
+          "asin": "B0F335PSSG",
+          "slug": "adidas-womens-cloudfoam-flex-slounge-blackwhitealmost-pink-7",
+          "title": "adidas Women's Cloudfoam Flex - Slounge, Black/White/Almost Pink, 7 | Fashion Sneakers",
+          "price": "$30",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/617y4WxirqL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F335PSSG/ref=cm_sw_r_as_gl_apa_gl_i_dl_FPH9Z9RKXJDDZQNKZF0W?linkCode=ml1&tag=noya0b-20&linkId=6e8b096004cd38188e540d103079d8c4"
+        },
+        {
+          "asin": "B0DJFZY6JZ",
+          "slug": "squishy-extra-large-strawberry-gag-gifts-funny-adult-giant-s",
+          "title": "Squishy Extra Large Strawberry, Gag Gifts Funny Adult, Giant Stress Ball, Fidget Sensory Toy for Kids, ADHD Toys : Toys ",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DJFZY6JZ/ref=cm_sw_r_as_gl_apa_gl_i_S66KKGWYBX8J4EQ24C7R?linkCode=ml1&tag=noya0b-20&linkId=62fa53dcb0721e34ede7fb8c0a56b6ad"
+        },
+        {
+          "asin": "B0FCYJTJ7F",
+          "slug": "jrd-humidifiers-for-bedroom-ultrasonic-humidifier-4l-for-lar",
+          "title": "JRD Humidifiers for Bedroom, Ultrasonic Humidifier 4L for Large Room, Cool Mist Top-Fill, 40H Run, 12H Timer, 360° Nozzl",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Ozbtj0b6L.jpg",
+          "url": "https://www.amazon.com/dp/B0FCYJTJ7F/ref=cm_sw_r_as_gl_apa_gl_i_S2J6REWWCACQR53CQ4TW?linkCode=ml1&tag=noya0b-20&linkId=21885d2baf7afb6a2e6b35a8ef095eba"
+        },
+        {
+          "asin": "B0B33HJNKS",
+          "slug": "hbcy-creations-small-round-mirror-silver-20-inch-wall-mirror",
+          "title": "HBCY Creations Small Round Mirror, Silver 20 inch Wall Mirror for Entryway, Bathroom, Living Room and More, Modern Minim",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FTwcw-yaL.jpg",
+          "url": "https://www.amazon.com/dp/B0B33HJNKS/ref=cm_sw_r_as_gl_apa_gl_i_TKKWQNFC7BEKMCW84YRM?linkCode=ml1&tag=noya0b-20&linkId=b0056964dec9641b44810e772439fc31"
+        }
+      ],
+      "faq": [
+        {
+          "q": "What are the best deals today on June 30, 2026?",
+          "a": "The best deals today include \"adidas Women's Cloudfoam Flex - Slounge, Black/White/Almost ...\" and 3 other hand-picked discounts. Deals span Fashion, Toys & Kids, Home & Kitchen and are updated daily."
+        },
+        {
+          "q": "What is the biggest discount available today?",
+          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+        },
+        {
+          "q": "Where can I find the best daily deals online?",
+          "a": "Shopping With Noya (deals.shoppingwithnoya.com) updates its deals every 2 minutes and posts daily roundups. You can also join the free Telegram channel at t.me/shoppingwithnoya for instant deal alerts."
+        },
+        {
+          "q": "Are these deals legit and safe to buy?",
+          "a": "Yes — all deals on Shopping With Noya link directly to trusted retailers. Posts include affiliate disclosure as required by FTC guidelines. Prices and availability change quickly, so check the link for the current price."
+        },
+        {
+          "q": "How often are deals updated on Shopping With Noya?",
+          "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
+        }
+      ],
+      "generatedAt": "2026-06-30T04:10:01.050Z",
+      "updatedAt": "2026-06-30T04:10:01.050Z"
+    },
+    {
       "date": "2026-06-29",
       "slug": "2026-06-29",
       "title": "🔥 Best Deals Today — June 29, 2026",
@@ -5662,5 +5798,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-30T03:50:00.807Z"
+  "generatedAt": "2026-06-30T04:10:01.053Z"
 }
