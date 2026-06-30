@@ -4,17 +4,79 @@
       "date": "2026-06-30",
       "slug": "2026-06-30",
       "title": "🔥 Best Deals Today — June 30, 2026",
-      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 10 hand-picked discounts across Grocery & Food, Other, Sports & Fitness and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
+        "Grocery & Food",
+        "Other",
+        "Sports & Fitness",
         "Electronics",
         "Fashion",
         "Beauty",
-        "Other",
         "Toys & Kids",
-        "Grocery & Food"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B096P4Z28X",
+            "slug": "newtons-soft-baked-fruit-bars-variety-pack-real-fruit-fig-ba",
+            "title": "NEWTONS Soft Baked Fruit Bars Variety Pack, Real Fruit Fig Bars and Strawberry Cookies, 4 - 10 oz Packs : Grocery & Gour",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71pjH0f659L.jpg",
+            "url": "https://www.amazon.com/dp/B096P4Z28X?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4b1b94722fc9a77532191d3647760820&language=en_US"
+          },
+          {
+            "asin": "B00MNXGSAI",
+            "slug": "gooo-6xx-pure-protein-bar-12-packs",
+            "title": "GOOO! $6.xx Pure Protein Bar 12-Packs!",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00MNXGSAI?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c0b92e18cb1a80d0340839ffe89a0e8&language=en_US"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B0G1M9LS6H",
+            "slug": "merach-rocking-steppers-for-exercise-at-home-3d-motion-stair",
+            "title": "Merach Rocking Steppers for Exercise at Home, 3D Motion Stair Stepper with Resistance Bands for Full Body Workout & Low-",
+            "price": "$39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/713gflGU83L.jpg",
+            "url": "https://amazon.com/dp/B0G1M9LS6H?th=1&tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0DQTQJ8MX",
+            "slug": "zak-designs-kelso-toddler-cups-for-travel-or-at-home-15oz-2",
+            "title": "Zak Designs Kelso Toddler Cups For Travel or At Home, 15oz 2-Pack Durable Plastic Sippy Cups With Leak-Proof Design is P",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nMetPI+L.jpg",
+            "url": "https://www.amazon.com/dp/B0DQTQJ8MX?dplnkSrc=appbanner&th=1&linkCode=sl2&tag=noya0b-20&linkId=e21142e5e7517289ebaae4c1034d5b2e&language=en_US"
+          },
+          {
+            "asin": "B07H9KY6MV",
+            "slug": "crest-pro-health-clinical-mouthwash-with-cpc-alcohol-free-gi",
+            "title": "Crest Pro-Health Clinical Mouthwash with CPC, Alcohol Free, Gingivitis Treatment, Deep Clean Mint, 473 Ml (16 fl oz), 4 ",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61J2Yi9LzfL.jpg",
+            "url": "https://www.amazon.com/dp/B07H9KY6MV?th=1&linkCode=sl2&tag=noya0b-20&linkId=ef9f6aca01845216ea41929424ac46a8&language=en_US"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CJDH5L8Y",
@@ -54,19 +116,6 @@
             "url": "https://amazon.com/dp/B0FN4CZ3N6?th=1&tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B07H9KY6MV",
-            "slug": "crest-pro-health-clinical-mouthwash-with-cpc-alcohol-free-gi",
-            "title": "Crest Pro-Health Clinical Mouthwash with CPC, Alcohol Free, Gingivitis Treatment, Deep Clean Mint, 473 Ml (16 fl oz), 4 ",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61J2Yi9LzfL.jpg",
-            "url": "https://www.amazon.com/dp/B07H9KY6MV?th=1&linkCode=sl2&tag=noya0b-20&linkId=ef9f6aca01845216ea41929424ac46a8&language=en_US"
-          }
-        ],
         "Toys & Kids": [
           {
             "asin": "B0FNNNFW9W",
@@ -91,56 +140,43 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81lmAJp3fdL.jpg",
             "url": "https://amazon.com/dp/B08N1M851S?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B079GS1HZH",
-            "slug": "jinchan-french-door-curtain-panels-beige-72-inch-privacy-lig",
-            "title": "jinchan French Door Curtain Panels - Beige 72 Inch Privacy Light Reducing Textured Door Shade - Casual Weave Rod Pocket ",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71E+xd3FTMS.jpg",
-            "url": "https://amazon.com/dp/B079GS1HZH?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B01FSPRME8",
-            "slug": "simple-chef-cast-iron-skillet-3-piece-set-wcookbook-heavy-du",
-            "title": "Simple Chef Cast Iron Skillet 3-Piece Set w/Cookbook - Heavy-Duty Professional Restaurant Chef Quality Pre-Seasoned Pan ",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81O91I48RlL.jpg",
-            "url": "https://www.amazon.com/dp/B01FSPRME8?lv=shuf&ascsubtag=srctok-29108a618ea12120&m=A3T0HRZE8TWY0J&btn_ref=srctok-29108a618ea12120&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=04de10a65a7d9c478bb6498a5b3fb25d&language=en_US"
-          },
-          {
-            "asin": "B0F5H18RKF",
-            "slug": "edishine-corner-shelf-with-light-5-tier-glass-display-shelf",
-            "title": "EDISHINE Corner Shelf with Light, 5-Tier Glass Display Shelf with Remote/Foot Control, 3CCT & Dimmable Corner Lamp, Open",
-            "price": "$47",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81TfvKaUKfL.jpg",
-            "url": "https://amazon.com/dp/B0F5H18RKF?th=1&tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00MNXGSAI",
-            "slug": "gooo-6xx-pure-protein-bar-12-packs",
-            "title": "GOOO! $6.xx Pure Protein Bar 12-Packs!",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00MNXGSAI?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c0b92e18cb1a80d0340839ffe89a0e8&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B096P4Z28X",
+          "slug": "newtons-soft-baked-fruit-bars-variety-pack-real-fruit-fig-ba",
+          "title": "NEWTONS Soft Baked Fruit Bars Variety Pack, Real Fruit Fig Bars and Strawberry Cookies, 4 - 10 oz Packs : Grocery & Gour",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pjH0f659L.jpg",
+          "url": "https://www.amazon.com/dp/B096P4Z28X?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4b1b94722fc9a77532191d3647760820&language=en_US"
+        },
+        {
+          "asin": "B0G1M9LS6H",
+          "slug": "merach-rocking-steppers-for-exercise-at-home-3d-motion-stair",
+          "title": "Merach Rocking Steppers for Exercise at Home, 3D Motion Stair Stepper with Resistance Bands for Full Body Workout & Low-",
+          "price": "$39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/713gflGU83L.jpg",
+          "url": "https://amazon.com/dp/B0G1M9LS6H?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0DQTQJ8MX",
+          "slug": "zak-designs-kelso-toddler-cups-for-travel-or-at-home-15oz-2",
+          "title": "Zak Designs Kelso Toddler Cups For Travel or At Home, 15oz 2-Pack Durable Plastic Sippy Cups With Leak-Proof Design is P",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/713nMetPI+L.jpg",
+          "url": "https://www.amazon.com/dp/B0DQTQJ8MX?dplnkSrc=appbanner&th=1&linkCode=sl2&tag=noya0b-20&linkId=e21142e5e7517289ebaae4c1034d5b2e&language=en_US"
+        },
         {
           "asin": "B0CJDH5L8Y",
           "slug": "amazon-fire-tv-43-omni-qled-series-4k-uhd-smart-tv-dolby-vis",
@@ -217,49 +253,16 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00MNXGSAI?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c0b92e18cb1a80d0340839ffe89a0e8&language=en_US"
-        },
-        {
-          "asin": "B079GS1HZH",
-          "slug": "jinchan-french-door-curtain-panels-beige-72-inch-privacy-lig",
-          "title": "jinchan French Door Curtain Panels - Beige 72 Inch Privacy Light Reducing Textured Door Shade - Casual Weave Rod Pocket ",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71E+xd3FTMS.jpg",
-          "url": "https://amazon.com/dp/B079GS1HZH?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B01FSPRME8",
-          "slug": "simple-chef-cast-iron-skillet-3-piece-set-wcookbook-heavy-du",
-          "title": "Simple Chef Cast Iron Skillet 3-Piece Set w/Cookbook - Heavy-Duty Professional Restaurant Chef Quality Pre-Seasoned Pan ",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81O91I48RlL.jpg",
-          "url": "https://www.amazon.com/dp/B01FSPRME8?lv=shuf&ascsubtag=srctok-29108a618ea12120&m=A3T0HRZE8TWY0J&btn_ref=srctok-29108a618ea12120&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=04de10a65a7d9c478bb6498a5b3fb25d&language=en_US"
-        },
-        {
-          "asin": "B0F5H18RKF",
-          "slug": "edishine-corner-shelf-with-light-5-tier-glass-display-shelf",
-          "title": "EDISHINE Corner Shelf with Light, 5-Tier Glass Display Shelf with Remote/Foot Control, 3CCT & Dimmable Corner Lamp, Open",
-          "price": "$47",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81TfvKaUKfL.jpg",
-          "url": "https://amazon.com/dp/B0F5H18RKF?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 30, 2026?",
-          "a": "The best deals today include \"Amazon Fire TV 43\" Omni QLED Series 4K UHD smart TV, Dolby V...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"NEWTONS Soft Baked Fruit Bars Variety Pack, Real Fruit Fig B...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Other, Sports & Fitness and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Grocery & Food and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-30T18:10:01.907Z",
-      "updatedAt": "2026-06-30T18:10:01.907Z"
+      "generatedAt": "2026-06-30T18:20:01.734Z",
+      "updatedAt": "2026-06-30T18:20:01.735Z"
     },
     {
       "date": "2026-06-29",
@@ -5939,5 +5942,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-30T18:10:01.909Z"
+  "generatedAt": "2026-06-30T18:20:01.738Z"
 }
