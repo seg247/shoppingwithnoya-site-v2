@@ -9,9 +9,9 @@
         "Skincare",
         "Makeup",
         "Hair Care",
+        "Fragrance",
         "Beauty",
-        "Body Care",
-        "Fragrance"
+        "Body Care"
       ],
       "bySubcat": {
         "Skincare": [
@@ -94,16 +94,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/71Mcspt-6AL._SL1500_.jpg",
             "url": "https://www.amazon.com/Medicube-Zero-Pore-Pads-Dual-Textured/dp/B09V7Z4TJG?content-id=amzn1.sym.27d38c44-0e6d-4b22-b75d-5f8d0cb0738c&pd_rd_i=B09V7Z4TJG&th=1&linkCode=sl2&tag=noya0b-20&linkId=dd95b048a2943ef3db352c8d094165f2&language=en_US"
-          },
-          {
-            "asin": "B07YXH17SZ",
-            "slug": "eos-shea-better-hand-cream-coconut-hand-lotion-and-skin-care",
-            "title": "eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Care | Instant Hydration + Lasting Protection | 2.5 oz",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71IQ0xuc8aL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07YXH17SZ/ref=cm_sw_r_as_gl_apa_gl_i_SNMR12MW9TQAGBGJEEE7?linkCode=ml1&tag=noya0b-20&linkId=e49ab5b9300a913b39db0ddc6ad84a9e"
           }
         ],
         "Makeup": [
@@ -114,7 +104,7 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
           },
           {
@@ -186,7 +176,7 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xL7e9sUYL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DPXYKXXZ?th=1&tag=noya0b-20"
           },
           {
@@ -220,6 +210,28 @@
             "url": "https://www.amazon.com/dp/B0GVNGSVSY/ref=cm_sw_r_as_gl_apa_gl_i_FNT1B4X5Y3F7PRBBCVXC?linkCode=ml1&tag=noya0b-20&linkId=c6fee8b856e0614b7044eba178cfe163"
           }
         ],
+        "Fragrance": [
+          {
+            "asin": "B0DNKPTH8Y",
+            "slug": "hempz-new-glow-getter-hydrating-body-mist-perfume-shimmer-sp",
+            "title": "Hempz NEW Glow Getter Hydrating Body Mist, Perfume Shimmer Spray with sparkle 4.22 oz.",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oRkp9cI3L._SL1500_.jpg",
+            "url": "https://amazon.com/dp/B0DNKPTH8Y?th=1&psc=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B01EXLIQUC",
+            "slug": "lattafa-24-carat-white-gold-fresh-spicy-woody-eau-de-parfum",
+            "title": "\udecd️Lattafa 24 Carat White Gold – Fresh, Spicy, Woody – Eau de Parfum Spray Long-Lasting Fragrance for Unisex, 3.4 Ounce /",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WsIbQ4vTL.jpg",
+            "url": "https://www.amazon.com/dp/B01EXLIQUC?linkCode=sl2&tag=noya0b-20&linkId=836e303e33ce2cf4d885bba391992a93&language=en_US"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B07DCJ91HQ",
@@ -228,7 +240,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61P2orXBZgL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07DCJ91HQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e22fb782ed8851928b5d2af4c5234763&language=en_US"
           },
           {
@@ -313,18 +325,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81gJ9FTOGgL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0C3WMPXN8/ref=cm_sw_r_as_gl_apa_gl_i_XYW5H9THW3WH5NP709EB?linkCode=ml1&tag=noya0b-20&linkId=329f10d6e19d87653fc830156aef65ce"
           }
-        ],
-        "Fragrance": [
-          {
-            "asin": "B01EXLIQUC",
-            "slug": "lattafa-24-carat-white-gold-fresh-spicy-woody-eau-de-parfum",
-            "title": "\udecd️Lattafa 24 Carat White Gold – Fresh, Spicy, Woody – Eau de Parfum Spray Long-Lasting Fragrance for Unisex, 3.4 Ounce /",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WsIbQ4vTL.jpg",
-            "url": "https://www.amazon.com/dp/B01EXLIQUC?linkCode=sl2&tag=noya0b-20&linkId=836e303e33ce2cf4d885bba391992a93&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -345,7 +345,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
         },
         {
@@ -355,7 +355,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xL7e9sUYL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DPXYKXXZ?th=1&tag=noya0b-20"
         },
         {
@@ -389,13 +389,23 @@
           "url": "https://amazon.com/dp/B0DWFLY18Y?tag=noya0b-20"
         },
         {
+          "asin": "B0DNKPTH8Y",
+          "slug": "hempz-new-glow-getter-hydrating-body-mist-perfume-shimmer-sp",
+          "title": "Hempz NEW Glow Getter Hydrating Body Mist, Perfume Shimmer Spray with sparkle 4.22 oz.",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oRkp9cI3L._SL1500_.jpg",
+          "url": "https://amazon.com/dp/B0DNKPTH8Y?th=1&psc=1&tag=noya0b-20"
+        },
+        {
           "asin": "B07DCJ91HQ",
           "slug": "color-wow-dream-coat-for-curly-hair-moisture-boosting-anti-f",
           "title": "COLOR WOW Dream Coat for Curly Hair, Moisture-Boosting Anti-Frizz Spray for Defined Curls : Beauty & Personal Care",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61P2orXBZgL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07DCJ91HQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e22fb782ed8851928b5d2af4c5234763&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81dCfm1vHCL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DBZ1Q4PF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07YXH17SZ",
-          "slug": "eos-shea-better-hand-cream-coconut-hand-lotion-and-skin-care",
-          "title": "eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Care | Instant Hydration + Lasting Protection | 2.5 oz",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71IQ0xuc8aL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07YXH17SZ/ref=cm_sw_r_as_gl_apa_gl_i_SNMR12MW9TQAGBGJEEE7?linkCode=ml1&tag=noya0b-20&linkId=e49ab5b9300a913b39db0ddc6ad84a9e"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-06-30T21:20:03.813Z",
-      "updatedAt": "2026-06-30T21:20:03.813Z"
+      "generatedAt": "2026-06-30T21:30:03.575Z",
+      "updatedAt": "2026-06-30T21:30:03.575Z"
     },
     {
       "date": "2026-06-29",
@@ -12861,5 +12861,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-06-30T21:20:03.817Z"
+  "generatedAt": "2026-06-30T21:30:03.580Z"
 }
