@@ -4,16 +4,39 @@
       "date": "2026-06-30",
       "slug": "2026-06-30",
       "title": "🔥 Best Deals Today — June 30, 2026",
-      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 10 hand-picked discounts across Home & Kitchen, Health, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Grocery & Food",
         "Health",
         "Beauty",
-        "Grocery & Food",
-        "Other",
-        "Cleaning Supplies"
+        "Other"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0BFTZ74WD",
+            "slug": "dr-pepper-strawberries-and-cream-soda-12-fl-oz-cans-12-pack",
+            "title": "Dr Pepper Strawberries and Cream Soda, 12 fl oz cans, 12 Pack : Grocery & Gourmet Food",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MdoE5YmRL.jpg",
+            "url": "https://www.amazon.com/dp/B0BFTZ74WD/ref=cm_sw_r_as_gl_apa_gl_i_HS9BVKXFD549V9Q18K6B?linkCode=ml1&tag=noya0b-20&linkId=680472472f38dae36fd26f5743b2e522"
+          },
+          {
+            "asin": "B0C47G72K7",
+            "slug": "whole-foods-market-organic-mint-ginger-herbal-tea-20-count",
+            "title": "Whole Foods Market, Organic Mint Ginger Herbal Tea, 20 Count",
+            "price": "$2.08",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81As5qPPJ1L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C47G72K7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Health": [
           {
             "asin": "B0FFVLW548",
@@ -60,19 +83,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71xL7e9sUYL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DPXYKXXZ/ref=cm_sw_r_as_gl_apa_gl_i_0T00X2VYVQYWDKN08ZM7?linkCode=ml1&tag=noya0b-20&linkId=697972eb7f40cd43b5f3a747bfd6bb0f"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0C47G72K7",
-            "slug": "whole-foods-market-organic-mint-ginger-herbal-tea-20-count",
-            "title": "Whole Foods Market, Organic Mint Ginger Herbal Tea, 20 Count",
-            "price": "$2.08",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81As5qPPJ1L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C47G72K7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Other": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/711xrXcrhFL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B000WB3MJS/ref=cm_sw_r_as_gl_apa_gl_i_129RPFXKXXZBBD0QCH7K?linkCode=ml1&tag=noya0b-20&linkId=29d01503627a6a682ced260a7ff656d7"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0CKV4T3YX",
-            "slug": "cottonelle-ultra-clean-toilet-paper-9-mega-rolls-36-regular",
-            "title": "Cottonelle Ultra Clean Toilet Paper, 9 Mega Rolls = 36 Regular Rolls, Packaging May Vary : Everything Else",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71d-dHTnbmL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CKV4T3YX/ref=cm_sw_r_as_gl_apa_gl_i_WN11SPX58RGG0CTW5A5B?linkCode=ml1&tag=noya0b-20&linkId=e26788a7589a0060374b0ad1e52aa139"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0BFTZ74WD",
+          "slug": "dr-pepper-strawberries-and-cream-soda-12-fl-oz-cans-12-pack",
+          "title": "Dr Pepper Strawberries and Cream Soda, 12 fl oz cans, 12 Pack : Grocery & Gourmet Food",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71MdoE5YmRL.jpg",
+          "url": "https://www.amazon.com/dp/B0BFTZ74WD/ref=cm_sw_r_as_gl_apa_gl_i_HS9BVKXFD549V9Q18K6B?linkCode=ml1&tag=noya0b-20&linkId=680472472f38dae36fd26f5743b2e522"
+        },
         {
           "asin": "B0FFVLW548",
           "slug": "therabreath-whitening-toothpaste-gentle-peroxide-free-teeth",
@@ -236,23 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/711xrXcrhFL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B000WB3MJS/ref=cm_sw_r_as_gl_apa_gl_i_129RPFXKXXZBBD0QCH7K?linkCode=ml1&tag=noya0b-20&linkId=29d01503627a6a682ced260a7ff656d7"
-        },
-        {
-          "asin": "B0CKV4T3YX",
-          "slug": "cottonelle-ultra-clean-toilet-paper-9-mega-rolls-36-regular",
-          "title": "Cottonelle Ultra Clean Toilet Paper, 9 Mega Rolls = 36 Regular Rolls, Packaging May Vary : Everything Else",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71d-dHTnbmL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CKV4T3YX/ref=cm_sw_r_as_gl_apa_gl_i_WN11SPX58RGG0CTW5A5B?linkCode=ml1&tag=noya0b-20&linkId=e26788a7589a0060374b0ad1e52aa139"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 30, 2026?",
-          "a": "The best deals today include \"TheraBreath Whitening Toothpaste, Gentle Peroxide-Free Teeth...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Health, Beauty and are updated daily."
+          "a": "The best deals today include \"Dr Pepper Strawberries and Cream Soda, 12 fl oz cans, 12 Pac...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-30T07:10:00.831Z",
-      "updatedAt": "2026-06-30T07:10:00.831Z"
+      "generatedAt": "2026-06-30T07:20:00.550Z",
+      "updatedAt": "2026-06-30T07:20:00.550Z"
     },
     {
       "date": "2026-06-29",
@@ -5936,5 +5933,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-30T07:10:00.833Z"
+  "generatedAt": "2026-06-30T07:20:00.552Z"
 }
