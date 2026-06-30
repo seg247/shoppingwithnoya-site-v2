@@ -4,15 +4,42 @@
       "date": "2026-06-30",
       "slug": "2026-06-30",
       "title": "🔥 Best Deals Today — June 30, 2026",
-      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, June 30, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
         "Other",
-        "Fashion",
+        "Beauty",
+        "Grocery & Food",
         "Electronics",
-        "Grocery & Food"
+        "Fashion"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B07799WY99",
+            "slug": "differin-acne-face-wash-with-5-benzoyl-peroxide-daily-deep-c",
+            "title": "Differin Acne Face Wash with 5% Benzoyl Peroxide, Daily Deep Cleanser by the makers of Differin Gel, Gentle Skin Care fo",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71uSPR8DzYL.jpg",
+            "url": "https://www.amazon.com/dp/B07799WY99?th=1&linkCode=sl2&tag=noya0b-20&linkId=cff8a6c4405ce944d475cb6f1eb38612&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0G3CK23BS",
+            "slug": "jack-links-x-mrbeast-original-teriyaki-beef-jerky-tender-bit",
+            "title": "Jack Link's x MrBeast Original & Teriyaki Beef Jerky Tender Bites Protein Snacks Variety Pack - (6 Pack) 5.4 oz Bags - U",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/714t97qtRBL.jpg",
+            "url": "https://www.amazon.com/Jack-Links-MrBeast-Original-Teriyaki/dp/B0G3CK23BS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=63ec9ca0f68eb8489830f0e48426c2fa&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B098TQKKLP",
@@ -107,34 +134,32 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/41nP3W97WPL._AC_SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0D166F4NT?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=241126ebcf291b522c5350c38ef963ff&language=en_US"
-          },
-          {
-            "asin": "B0F29K3YBS",
-            "slug": "zaful-womens-swimsuit-cover-up-dress-off-shoulder-hollow-cov",
-            "title": "ZAFUL Womens Swimsuit Cover Up Dress Off Shoulder Hollow Coverup Bathing Suit Mesh Swim Beach Dress 1-Pink L at Amazon W",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71vqIlsLyKL._AC_SL1200_.jpg",
-            "url": "https://www.amazon.com/dp/B0F29K3YBS?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=89225d543495ec8b3b488bfe7bd7e806&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0C43XTHC6",
-            "slug": "presto-04811-poplite-my-munch-hot-air-popcorn-popper-persona",
-            "title": "Presto 04811 PopLite My Munch Hot Air Popcorn Popper - Personal Sized, Built-In Serving Bowl, Compact Design, 8 Cups, Bl",
-            "price": "$34.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61UbbE4dwbL.jpg",
-            "url": "https://www.amazon.com/dp/B0C43XTHC6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B07799WY99",
+          "slug": "differin-acne-face-wash-with-5-benzoyl-peroxide-daily-deep-c",
+          "title": "Differin Acne Face Wash with 5% Benzoyl Peroxide, Daily Deep Cleanser by the makers of Differin Gel, Gentle Skin Care fo",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71uSPR8DzYL.jpg",
+          "url": "https://www.amazon.com/dp/B07799WY99?th=1&linkCode=sl2&tag=noya0b-20&linkId=cff8a6c4405ce944d475cb6f1eb38612&language=en_US"
+        },
+        {
+          "asin": "B0G3CK23BS",
+          "slug": "jack-links-x-mrbeast-original-teriyaki-beef-jerky-tender-bit",
+          "title": "Jack Link's x MrBeast Original & Teriyaki Beef Jerky Tender Bites Protein Snacks Variety Pack - (6 Pack) 5.4 oz Bags - U",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/714t97qtRBL.jpg",
+          "url": "https://www.amazon.com/Jack-Links-MrBeast-Original-Teriyaki/dp/B0G3CK23BS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=63ec9ca0f68eb8489830f0e48426c2fa&language=en_US"
+        },
         {
           "asin": "B098TQKKLP",
           "slug": "serta-power-chill-cooling-pillow-protectors-stain-resistant",
@@ -222,34 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/41nP3W97WPL._AC_SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B0D166F4NT?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=241126ebcf291b522c5350c38ef963ff&language=en_US"
-        },
-        {
-          "asin": "B0C43XTHC6",
-          "slug": "presto-04811-poplite-my-munch-hot-air-popcorn-popper-persona",
-          "title": "Presto 04811 PopLite My Munch Hot Air Popcorn Popper - Personal Sized, Built-In Serving Bowl, Compact Design, 8 Cups, Bl",
-          "price": "$34.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61UbbE4dwbL.jpg",
-          "url": "https://www.amazon.com/dp/B0C43XTHC6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0F29K3YBS",
-          "slug": "zaful-womens-swimsuit-cover-up-dress-off-shoulder-hollow-cov",
-          "title": "ZAFUL Womens Swimsuit Cover Up Dress Off Shoulder Hollow Coverup Bathing Suit Mesh Swim Beach Dress 1-Pink L at Amazon W",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71vqIlsLyKL._AC_SL1200_.jpg",
-          "url": "https://www.amazon.com/dp/B0F29K3YBS?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=89225d543495ec8b3b488bfe7bd7e806&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on June 30, 2026?",
-          "a": "The best deals today include \"Serta Power Chill Cooling Pillow Protectors, Stain Resistant...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Fashion and are updated daily."
+          "a": "The best deals today include \"Differin Acne Face Wash with 5% Benzoyl Peroxide, Daily Deep...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-30T15:20:02.154Z",
-      "updatedAt": "2026-06-30T15:20:02.154Z"
+      "generatedAt": "2026-06-30T15:30:01.006Z",
+      "updatedAt": "2026-06-30T15:30:01.006Z"
     },
     {
       "date": "2026-06-29",
@@ -5933,5 +5936,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-30T15:20:02.156Z"
+  "generatedAt": "2026-06-30T15:30:01.009Z"
 }
