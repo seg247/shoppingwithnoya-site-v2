@@ -9,8 +9,9 @@
         "Home & Kitchen",
         "Other",
         "Beauty",
-        "Electronics",
-        "Toys & Kids"
+        "Fashion",
+        "Toys & Kids",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -37,6 +38,19 @@
             "url": "https://amazon.com/dp/B07HSJ63TJ?th=1&tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0CSXW14FY",
+            "slug": "peacocktion-small-shoulder-bag-for-women-trendy-vegan-leathe",
+            "title": "Peacocktion Small Shoulder Bag for Women Trendy Vegan Leather Crossbody Purses Handbags: Handbags",
+            "price": "$12",
+            "discount": 68,
+            "rating": "FIRE",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71x7sxDVQJL._AC_SL1486_.jpg",
+            "url": "https://amazon.com/dp/B0CSXW14FY?th=1&tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B08S3C6LCB",
@@ -48,6 +62,30 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/61ZFTZC31DL.jpg",
             "url": "https://www.amazon.com/dp/B08S3C6LCB?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f477a1fad57361e1b81ed13bd78d318&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0DW4XLPM9",
+            "slug": "smashbox-pore-vanishing-primer-controls-shine-blurs-pores-lo",
+            "title": "Smashbox Pore Vanishing Primer | Controls Shine, Blurs Pores + Locks in Makeup with a Matte Finish, 0.34 Fl Oz : Everyth",
+            "price": "$8",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0FVT77ZLL",
+            "slug": "anua-pdrn-collagen-glow-facial-serum-spray-hydrating-face-mi",
+            "title": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Ins",
+            "price": "$14",
+            "discount": 41,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
+            "url": "https://amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -85,30 +123,6 @@
             "url": "https://amazon.com/dp/B0GMNQ1VKT?th=1&tag=noya0b-20"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B0FVT77ZLL",
-            "slug": "anua-pdrn-collagen-glow-facial-serum-spray-hydrating-face-mi",
-            "title": "Anua PDRN Collagen Glow Facial Serum Spray, Hydrating Face Mist, Hyaluronic Acid, dewy glass finish, All Skin Types, Ins",
-            "price": "$14",
-            "discount": 41,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LQ-32prpL.jpg",
-            "url": "https://amazon.com/dp/B0FVT77ZLL?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0DWFLY18Y",
-            "slug": "anua-pdrn-hyaluronic-acid-100-moisturizing-cream-lightweight",
-            "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for",
-            "price": "$16",
-            "discount": 30,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61HPLwL7omL._SL1500_.jpg",
-            "url": "https://amazon.com/dp/B0DWFLY18Y?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
           {
             "asin": "B0866S3D82",
@@ -120,17 +134,6 @@
             "category": "Electronics",
             "imageUrl": null,
             "url": "https://amazon.com/dp/B0866S3D82?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0D9Q5JRHP",
-            "slug": "furnulem-queen-bed-frame-with-storage-headboard-and-led-ligh",
-            "title": "Furnulem Queen Bed Frame with Storage Headboard and LED Lights, Metal Bedframe with Charging Station and USB Port, Queen",
-            "price": "$109",
-            "discount": 31,
-            "rating": "HOT",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81wTksXReML.jpg",
-            "url": "https://amazon.com/dp/B0D9Q5JRHP?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -145,6 +148,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/7199VfQlx3L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GHP1KNPH?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=31f0098ca5d348a34611aa7332766d78&language=en_US"
+        },
+        {
+          "asin": "B0CSXW14FY",
+          "slug": "peacocktion-small-shoulder-bag-for-women-trendy-vegan-leathe",
+          "title": "Peacocktion Small Shoulder Bag for Women Trendy Vegan Leather Crossbody Purses Handbags: Handbags",
+          "price": "$12",
+          "discount": 68,
+          "rating": "FIRE",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71x7sxDVQJL._AC_SL1486_.jpg",
+          "url": "https://amazon.com/dp/B0CSXW14FY?th=1&tag=noya0b-20"
         },
         {
           "asin": "B08S3C6LCB",
@@ -167,6 +181,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71GybGhVjbL._AC_SL1000_.jpg",
           "url": "https://amazon.com/dp/B07HSJ63TJ?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0DW4XLPM9",
+          "slug": "smashbox-pore-vanishing-primer-controls-shine-blurs-pores-lo",
+          "title": "Smashbox Pore Vanishing Primer | Controls Shine, Blurs Pores + Locks in Makeup with a Matte Finish, 0.34 Fl Oz : Everyth",
+          "price": "$8",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
         },
         {
           "asin": "B06W2LC7C6",
@@ -222,28 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/615Yjiy3noL.jpg",
           "url": "https://amazon.com/dp/B0GMNQ1VKT?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0D9Q5JRHP",
-          "slug": "furnulem-queen-bed-frame-with-storage-headboard-and-led-ligh",
-          "title": "Furnulem Queen Bed Frame with Storage Headboard and LED Lights, Metal Bedframe with Charging Station and USB Port, Queen",
-          "price": "$109",
-          "discount": 31,
-          "rating": "HOT",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81wTksXReML.jpg",
-          "url": "https://amazon.com/dp/B0D9Q5JRHP?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DWFLY18Y",
-          "slug": "anua-pdrn-hyaluronic-acid-100-moisturizing-cream-lightweight",
-          "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream, Lightweight, Non-Greasy Hydrating Face Moisturizer with Salmon DNA for",
-          "price": "$16",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61HPLwL7omL._SL1500_.jpg",
-          "url": "https://amazon.com/dp/B0DWFLY18Y?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-06-29T23:50:01.262Z",
-      "updatedAt": "2026-06-29T23:50:01.262Z"
+      "generatedAt": "2026-06-30T00:00:02.001Z",
+      "updatedAt": "2026-06-30T00:00:02.001Z"
     },
     {
       "date": "2026-06-28",
@@ -5659,5 +5662,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-06-29T23:50:01.265Z"
+  "generatedAt": "2026-06-30T00:00:02.003Z"
 }
