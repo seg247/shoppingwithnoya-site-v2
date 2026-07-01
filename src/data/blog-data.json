@@ -10,8 +10,7 @@
         "Fashion",
         "Other",
         "Home & Kitchen",
-        "Free Deal",
-        "Cleaning Supplies"
+        "Free Deal"
       ],
       "byCategory": {
         "Free Deal": [
@@ -38,6 +37,17 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81D+nXHTaYL.jpg",
             "url": "https://www.amazon.com/dp/B0FS77YW7R?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0DQDHS5NK",
+            "slug": "39xx-philosophy-purity-3-piece-face-cleanser-set",
+            "title": "39.xx Philosophy Purity 3-Piece Face Cleanser Set!",
+            "price": "$39.00",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71GjQAl4EJL.jpg",
+            "url": "https://www.amazon.com/dp/B0DQDHS5NK?th=1&tag=noya0b-20"
           },
           {
             "asin": "B0BQCZKYHP",
@@ -122,19 +132,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0085YGTGW?th=1&tag=noya0b-20"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B09NYM2K1P",
-            "slug": "as-low-as-44-off-gain-liquid-laundry-detergent-60-fl-oz-45-l",
-            "title": "AS LOW AS 44% off Gain Liquid Laundry Detergent 60 fl oz, 45 Loads, Pack of 2",
-            "price": "$11.56",
-            "discount": 44,
-            "rating": "HOT",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81IO56dSLUL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09NYM2K1P/ref=cm_sw_r_as_gl_api_gl_i_7952WBK3VA3MG7C5S87P?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e24d319fcdec66d2e9d48119a857bdd&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -170,6 +167,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71Av-QqlhBL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FK9GXD8R?th=1&linkCode=sl2&tag=noya0b-20&linkId=74dcfcb24012228fa735ad2e0ca2f53c&language=en_US"
+        },
+        {
+          "asin": "B0DQDHS5NK",
+          "slug": "39xx-philosophy-purity-3-piece-face-cleanser-set",
+          "title": "39.xx Philosophy Purity 3-Piece Face Cleanser Set!",
+          "price": "$39.00",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71GjQAl4EJL.jpg",
+          "url": "https://www.amazon.com/dp/B0DQDHS5NK?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0GJ4MTHYK",
@@ -236,17 +244,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CRMYHY1B?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B09NYM2K1P",
-          "slug": "as-low-as-44-off-gain-liquid-laundry-detergent-60-fl-oz-45-l",
-          "title": "AS LOW AS 44% off Gain Liquid Laundry Detergent 60 fl oz, 45 Loads, Pack of 2",
-          "price": "$11.56",
-          "discount": 44,
-          "rating": "HOT",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81IO56dSLUL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09NYM2K1P/ref=cm_sw_r_as_gl_api_gl_i_7952WBK3VA3MG7C5S87P?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e24d319fcdec66d2e9d48119a857bdd&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T23:30:01.492Z",
-      "updatedAt": "2026-07-01T23:30:01.492Z"
+      "generatedAt": "2026-07-01T23:40:01.670Z",
+      "updatedAt": "2026-07-01T23:40:01.670Z"
     },
     {
       "date": "2026-06-30",
@@ -6210,5 +6207,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T23:30:01.494Z"
+  "generatedAt": "2026-07-01T23:40:01.672Z"
 }
