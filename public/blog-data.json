@@ -4,18 +4,91 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Electronics, Health, Smart Home and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Beauty, Electronics, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Electronics",
-        "Health",
-        "Smart Home",
         "Beauty",
+        "Electronics",
+        "Cleaning Supplies",
         "Other",
-        "Home & Kitchen",
-        "Automotive",
-        "Pet Supplies"
+        "Grocery",
+        "Health",
+        "Smart Home"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0DK5VDFGZ",
+            "slug": "dove-conditioner-daily-moisture-for-dry-hair-with-bio-protei",
+            "title": "Dove Conditioner Daily Moisture for Dry Hair with Bio-Protein Care Technology and Hyaluronic Serum 28 Fl Oz : Beauty & P",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DK5VDFGZ/ref=cm_sw_r_as_gl_apa_gl_i_4VSR6YG4S74E23GR755T?linkCode=ml1&tag=noya0b-20&linkId=f9909736a379037d4032c80a6d9c1d2b"
+          },
+          {
+            "asin": "B07QHHW5V6",
+            "slug": "color-wow-dream-filter-pre-shampoo-mineral-remover-hard-wate",
+            "title": "COLOR WOW Dream Filter Pre-Shampoo Mineral Remover, Hard Water Hair Detox for Brighter Shinier Color : Beauty & Personal",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07QHHW5V6/ref=cm_sw_r_as_gl_apa_gl_i_9EM4290Y7B567TJTQQVE?linkCode=ml1&tag=noya0b-20&linkId=f0adbde1e626e2ff98250d66106082c0"
+          },
+          {
+            "asin": "B00GJ7XDU2",
+            "slug": "tresemm-rich-moisture-moisturizing-conditioner-with-pump-wit",
+            "title": "TRESemmé Rich Moisture Moisturizing Conditioner with Pump with Up to 72H Hydration for Dry Hair, with Pro Style Technolo",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B07YD3KQ5S",
+            "slug": "dawn-powerwash-spray-dish-soap-dishwashing-liquid-fresh-1-st",
+            "title": "Dawn Powerwash Spray, Dish Soap, Dishwashing Liquid, Fresh, 1 Starter Kit + 3 Refills, 4x16 Fl Oz : Health & Household",
+            "price": "$17.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81eWpX+xOfL.jpg",
+            "url": "https://www.amazon.com/dp/B07YD3KQ5S?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B01IA3HAJM",
+            "slug": "cuisinart-snow-cone-machine-only-75",
+            "title": "Cuisinart Snow Cone Machine only $75",
+            "price": "$75",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JOpgMmPQL.jpg",
+            "url": "https://www.amazon.com/dp/B01IA3HAJM?linkCode=sl2&tag=noya0b-20&linkId=4015a533393c31dee7637bf24a18f6c1&language=en_US"
+          }
+        ],
+        "Grocery": [
+          {
+            "asin": "B0C477QB5D",
+            "slug": "betty-crocker-favorites-fudge-brownie-mix-163-oz-grocery-gou",
+            "title": "Betty Crocker Favorites Fudge Brownie Mix, 16.3 oz : Grocery & Gourmet Food",
+            "price": "$2.86",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/81yvlfMNNKL.jpg",
+            "url": "https://www.amazon.com/dp/B0C477QB5D?tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B0DQ414RYL",
@@ -64,86 +137,65 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/81Hbs+S6FML.jpg",
             "url": "https://www.amazon.com/dp/B0GR92PWSD/ref=cm_sw_r_as_gl_apa_gl_i_NZF0XHAV054E40DQFNWT?linkCode=ml1&tag=noya0b-20&linkId=a36562921a911d0d84bcb79d9c7623c1"
-          },
-          {
-            "asin": "B0CJDSNN4T",
-            "slug": "fire-tv-32-2-series-720p-hd-smart-tv",
-            "title": "Fire TV 32\" 2-Series 720p HD smart TV",
-            "price": "$149.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61CO+jrHHjL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJDSNN4T?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00GJ7XDU2",
-            "slug": "tresemm-rich-moisture-moisturizing-conditioner-with-pump-wit",
-            "title": "TRESemmé Rich Moisture Moisturizing Conditioner with Pump with Up to 72H Hydration for Dry Hair, with Pro Style Technolo",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "1684128870",
-            "slug": "harry-potter-crochet-crochet-kits-collin-lucy-9781684128877",
-            "title": "Harry Potter Crochet (Crochet Kits): Collin, Lucy: 9781684128877",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HV8fIgmyL.jpg",
-            "url": "https://www.amazon.com/dp/1684128870/ref=cm_sw_r_as_gl_apa_gl_i_MXDW60YB3JT63J5DXP65?linkCode=ml1&tag=noya0b-20&linkId=4ed1486d7458dd5e917c5a4c378d1f89"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0GS1SHBNY",
-            "slug": "purkeep-drawer-organizer-for-garage-building-bricks-storaget",
-            "title": "PurKeep 𝟔𝟐% 𝟎𝐅𝐅 Drawer Organizer for Garage Building Bricks Storage,Thicker Craft Organizers Storage with Dividers ",
-            "price": "$26",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81DXw4QcreL.jpg",
-            "url": "https://www.amazon.com/dp/B0GS1SHBNY/ref=cm_sw_r_as_gl_apa_gl_i_dl_8WXT63EX2FDWY2MQHMC9?linkCode=ml1&tag=noya0b-20&linkId=252518b381f5456ec1e59718022e6f05"
-          }
-        ],
-        "Automotive": [
-          {
-            "asin": "B0DXW2FP8Y",
-            "slug": "rain-x-810363-repellency-water-repellent-wiper-blades-22-win",
-            "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshield Wipers (Pack of 2), All Weather Streak-Free for En",
-            "price": "$41.73",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Automotive",
-            "imageUrl": "https://m.media-amazon.com/images/I/71KVp9hr20L.jpg",
-            "url": "https://www.amazon.com/dp/B0DXW2FP8Y?tag=noya0b-20"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B0F1J33XJJ",
-            "slug": "natural-balance-ultra-protein-plus-dry-cat-food-skin-coat-an",
-            "title": "Natural Balance Ultra Protein Plus Dry Cat Food, Skin & Coat and Digestive Health Real Salmon & Chicken Meal Recipe with",
-            "price": "$20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71EGEKR2aML.jpg",
-            "url": "https://www.amazon.com/dp/B0F1J33XJJ/ref=cm_sw_r_as_gl_apa_gl_i_2Q0CRKR37EV21XNR1HX4?linkCode=ml1&tag=noya0b-20&linkId=2dbe633469305da4e5560bed0929fd57"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DK5VDFGZ",
+          "slug": "dove-conditioner-daily-moisture-for-dry-hair-with-bio-protei",
+          "title": "Dove Conditioner Daily Moisture for Dry Hair with Bio-Protein Care Technology and Hyaluronic Serum 28 Fl Oz : Beauty & P",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DK5VDFGZ/ref=cm_sw_r_as_gl_apa_gl_i_4VSR6YG4S74E23GR755T?linkCode=ml1&tag=noya0b-20&linkId=f9909736a379037d4032c80a6d9c1d2b"
+        },
+        {
+          "asin": "B07YD3KQ5S",
+          "slug": "dawn-powerwash-spray-dish-soap-dishwashing-liquid-fresh-1-st",
+          "title": "Dawn Powerwash Spray, Dish Soap, Dishwashing Liquid, Fresh, 1 Starter Kit + 3 Refills, 4x16 Fl Oz : Health & Household",
+          "price": "$17.50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81eWpX+xOfL.jpg",
+          "url": "https://www.amazon.com/dp/B07YD3KQ5S?tag=noya0b-20"
+        },
+        {
+          "asin": "B01IA3HAJM",
+          "slug": "cuisinart-snow-cone-machine-only-75",
+          "title": "Cuisinart Snow Cone Machine only $75",
+          "price": "$75",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JOpgMmPQL.jpg",
+          "url": "https://www.amazon.com/dp/B01IA3HAJM?linkCode=sl2&tag=noya0b-20&linkId=4015a533393c31dee7637bf24a18f6c1&language=en_US"
+        },
+        {
+          "asin": "B07QHHW5V6",
+          "slug": "color-wow-dream-filter-pre-shampoo-mineral-remover-hard-wate",
+          "title": "COLOR WOW Dream Filter Pre-Shampoo Mineral Remover, Hard Water Hair Detox for Brighter Shinier Color : Beauty & Personal",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07QHHW5V6/ref=cm_sw_r_as_gl_apa_gl_i_9EM4290Y7B567TJTQQVE?linkCode=ml1&tag=noya0b-20&linkId=f0adbde1e626e2ff98250d66106082c0"
+        },
+        {
+          "asin": "B0C477QB5D",
+          "slug": "betty-crocker-favorites-fudge-brownie-mix-163-oz-grocery-gou",
+          "title": "Betty Crocker Favorites Fudge Brownie Mix, 16.3 oz : Grocery & Gourmet Food",
+          "price": "$2.86",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/81yvlfMNNKL.jpg",
+          "url": "https://www.amazon.com/dp/B0C477QB5D?tag=noya0b-20"
+        },
         {
           "asin": "B0DQ414RYL",
           "slug": "zeagoo-sleeveless-floral-tank-tops-for-women-summer-square-n",
@@ -198,71 +250,16 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
-        },
-        {
-          "asin": "B0CJDSNN4T",
-          "slug": "fire-tv-32-2-series-720p-hd-smart-tv",
-          "title": "Fire TV 32\" 2-Series 720p HD smart TV",
-          "price": "$149.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61CO+jrHHjL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJDSNN4T?tag=noya0b-20"
-        },
-        {
-          "asin": "1684128870",
-          "slug": "harry-potter-crochet-crochet-kits-collin-lucy-9781684128877",
-          "title": "Harry Potter Crochet (Crochet Kits): Collin, Lucy: 9781684128877",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71HV8fIgmyL.jpg",
-          "url": "https://www.amazon.com/dp/1684128870/ref=cm_sw_r_as_gl_apa_gl_i_MXDW60YB3JT63J5DXP65?linkCode=ml1&tag=noya0b-20&linkId=4ed1486d7458dd5e917c5a4c378d1f89"
-        },
-        {
-          "asin": "B0GS1SHBNY",
-          "slug": "purkeep-drawer-organizer-for-garage-building-bricks-storaget",
-          "title": "PurKeep 𝟔𝟐% 𝟎𝐅𝐅 Drawer Organizer for Garage Building Bricks Storage,Thicker Craft Organizers Storage with Dividers ",
-          "price": "$26",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81DXw4QcreL.jpg",
-          "url": "https://www.amazon.com/dp/B0GS1SHBNY/ref=cm_sw_r_as_gl_apa_gl_i_dl_8WXT63EX2FDWY2MQHMC9?linkCode=ml1&tag=noya0b-20&linkId=252518b381f5456ec1e59718022e6f05"
-        },
-        {
-          "asin": "B0DXW2FP8Y",
-          "slug": "rain-x-810363-repellency-water-repellent-wiper-blades-22-win",
-          "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshield Wipers (Pack of 2), All Weather Streak-Free for En",
-          "price": "$41.73",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Automotive",
-          "imageUrl": "https://m.media-amazon.com/images/I/71KVp9hr20L.jpg",
-          "url": "https://www.amazon.com/dp/B0DXW2FP8Y?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F1J33XJJ",
-          "slug": "natural-balance-ultra-protein-plus-dry-cat-food-skin-coat-an",
-          "title": "Natural Balance Ultra Protein Plus Dry Cat Food, Skin & Coat and Digestive Health Real Salmon & Chicken Meal Recipe with",
-          "price": "$20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71EGEKR2aML.jpg",
-          "url": "https://www.amazon.com/dp/B0F1J33XJJ/ref=cm_sw_r_as_gl_apa_gl_i_2Q0CRKR37EV21XNR1HX4?linkCode=ml1&tag=noya0b-20&linkId=2dbe633469305da4e5560bed0929fd57"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"Zeagoo Sleeveless Floral Tank Tops for Women Summer Square N...\" and 9 other hand-picked discounts. Deals span Electronics, Health, Smart Home and are updated daily."
+          "a": "The best deals today include \"Dove Conditioner Daily Moisture for Dry Hair with Bio-Protei...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T07:00:01.517Z",
-      "updatedAt": "2026-07-01T07:00:01.517Z"
+      "generatedAt": "2026-07-01T07:10:01.680Z",
+      "updatedAt": "2026-07-01T07:10:01.680Z"
     },
     {
       "date": "2026-06-30",
@@ -6216,5 +6213,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T07:00:01.520Z"
+  "generatedAt": "2026-07-01T07:10:01.683Z"
 }
