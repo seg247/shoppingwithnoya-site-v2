@@ -12,12 +12,43 @@
         "Health",
         "Toys & Kids",
         "Sports & Fitness",
-        "Electronics",
-        "Grocery",
-        "Other"
+        "Electronics"
       ],
       "byCategory": {
         "Beauty": [
+          {
+            "asin": "B0G7V6NMBW",
+            "slug": "womens-headband-loose-breathable-and-sweat-absorbent-elastic",
+            "title": "Women's Headband - Loose, Breathable, and Sweat-absorbent Elastic Headband, Suitable for Yoga, Fitness, and Running (Bla",
+            "price": "$1.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71na0nUtC2L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G7V6NMBW?tag=noya0b-20"
+          },
+          {
+            "asin": "B01MTPCPLS",
+            "slug": "miralax-laxative-powder-gentle-constipation-relief-for-adult",
+            "title": "MiraLAX, Laxative Powder, Gentle Constipation Relief for Adults, Stool Softener with PEG 3350, Nonstimulant Laxative, No",
+            "price": "$29.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oIpMSBWtL.jpg",
+            "url": "https://www.amazon.com/dp/B01MTPCPLS?tag=noya0b-20"
+          },
+          {
+            "asin": "B00MIYN9A4",
+            "slug": "nivea-sheer-hydration-skin-firming-body-lotion-with-q10-and",
+            "title": "NIVEA Sheer Hydration Skin Firming Body Lotion with Q10 and Vitamin C, 72-Hour Body Moisturizer for Normal to Dry Skin,",
+            "price": "$28.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fDW31tOLL.jpg",
+            "url": "https://www.amazon.com/dp/B00MIYN9A4?tag=noya0b-20"
+          },
           {
             "asin": "B08G5YPWR3",
             "slug": "panama-jack-sunscreen-lip-balm-spf-45-flavor-pack-broad-spec",
@@ -28,17 +59,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81b81M9KmsL.jpg",
             "url": "https://www.amazon.com/dp/B08G5YPWR3/ref=cm_sw_r_as_gl_apa_gl_i_0A3DB76Q87MSD0WCAY53?linkCode=ml1&tag=noya0b-20&linkId=bd6519da43e2d0b89c8d18dc0e04b35d"
-          },
-          {
-            "asin": "B00IEYFE7I",
-            "slug": "wet-n-wild-silk-finish-lipstick-hydrating-rich-buildable-lip",
-            "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated with Vitamins A,E, & Macadamia for Ultim",
-            "price": "$1.69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51JFE6tFRrL.jpg",
-            "url": "https://www.amazon.com/dp/B00IEYFE7I?tag=noya0b-20"
           }
         ],
         "Luxury Beauty": [
@@ -118,35 +138,42 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D6WB7BV6/ref=cm_sw_r_as_gl_apa_gl_i_SKQ63BBDFVVNMVPJVHHS?linkCode=ml1&tag=noya0b-20&linkId=abbead09b918e16a3faf33489e757bb4"
           }
-        ],
-        "Grocery": [
-          {
-            "asin": "B002YKOXH0",
-            "slug": "the-coupon-moms-guide-to-cutting-your-grocery-bills-in-half",
-            "title": "The Coupon Mom's Guide to Cutting Your Grocery Bills in Half: The Strategic Shopping Method Proven to Slash Food and Dru",
-            "price": "$4.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YJDon2UKL.jpg",
-            "url": "https://www.amazon.com/dp/B002YKOXH0?tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0FK4T2F1F",
-            "slug": "curved-console-table-arch-with-storage-narrow-entryway-table",
-            "title": "Curved Console Table Arch with Storage, Narrow Entryway Table with Drawers, 43.3'' Couch Table Behind Sofa Long and Skin",
-            "price": "$49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81kTn1vkmjL.jpg",
-            "url": "https://www.amazon.com/dp/B0FK4T2F1F/ref=cm_sw_r_as_gl_apa_gl_i_JXFV1HBA7JE57J33Z1SE?linkCode=ml1&tag=noya0b-20&linkId=c1d970940da37c5b82a162f9aab74b0b"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G7V6NMBW",
+          "slug": "womens-headband-loose-breathable-and-sweat-absorbent-elastic",
+          "title": "Women's Headband - Loose, Breathable, and Sweat-absorbent Elastic Headband, Suitable for Yoga, Fitness, and Running (Bla",
+          "price": "$1.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71na0nUtC2L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G7V6NMBW?tag=noya0b-20"
+        },
+        {
+          "asin": "B01MTPCPLS",
+          "slug": "miralax-laxative-powder-gentle-constipation-relief-for-adult",
+          "title": "MiraLAX, Laxative Powder, Gentle Constipation Relief for Adults, Stool Softener with PEG 3350, Nonstimulant Laxative, No",
+          "price": "$29.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oIpMSBWtL.jpg",
+          "url": "https://www.amazon.com/dp/B01MTPCPLS?tag=noya0b-20"
+        },
+        {
+          "asin": "B00MIYN9A4",
+          "slug": "nivea-sheer-hydration-skin-firming-body-lotion-with-q10-and",
+          "title": "NIVEA Sheer Hydration Skin Firming Body Lotion with Q10 and Vitamin C, 72-Hour Body Moisturizer for Normal to Dry Skin,",
+          "price": "$28.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fDW31tOLL.jpg",
+          "url": "https://www.amazon.com/dp/B00MIYN9A4?tag=noya0b-20"
+        },
         {
           "asin": "B08G5YPWR3",
           "slug": "panama-jack-sunscreen-lip-balm-spf-45-flavor-pack-broad-spec",
@@ -223,45 +250,12 @@
           "category": "Electronics",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D6WB7BV6/ref=cm_sw_r_as_gl_apa_gl_i_SKQ63BBDFVVNMVPJVHHS?linkCode=ml1&tag=noya0b-20&linkId=abbead09b918e16a3faf33489e757bb4"
-        },
-        {
-          "asin": "B00IEYFE7I",
-          "slug": "wet-n-wild-silk-finish-lipstick-hydrating-rich-buildable-lip",
-          "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated with Vitamins A,E, & Macadamia for Ultim",
-          "price": "$1.69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51JFE6tFRrL.jpg",
-          "url": "https://www.amazon.com/dp/B00IEYFE7I?tag=noya0b-20"
-        },
-        {
-          "asin": "B002YKOXH0",
-          "slug": "the-coupon-moms-guide-to-cutting-your-grocery-bills-in-half",
-          "title": "The Coupon Mom's Guide to Cutting Your Grocery Bills in Half: The Strategic Shopping Method Proven to Slash Food and Dru",
-          "price": "$4.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery",
-          "imageUrl": "https://m.media-amazon.com/images/I/71YJDon2UKL.jpg",
-          "url": "https://www.amazon.com/dp/B002YKOXH0?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FK4T2F1F",
-          "slug": "curved-console-table-arch-with-storage-narrow-entryway-table",
-          "title": "Curved Console Table Arch with Storage, Narrow Entryway Table with Drawers, 43.3'' Couch Table Behind Sofa Long and Skin",
-          "price": "$49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81kTn1vkmjL.jpg",
-          "url": "https://www.amazon.com/dp/B0FK4T2F1F/ref=cm_sw_r_as_gl_apa_gl_i_JXFV1HBA7JE57J33Z1SE?linkCode=ml1&tag=noya0b-20&linkId=c1d970940da37c5b82a162f9aab74b0b"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"Panama Jack Sunscreen Lip Balm - SPF 45, Flavor Pack, Broad ...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Women's Headband - Loose, Breathable, and Sweat-absorbent El...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -280,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T05:00:01.987Z",
-      "updatedAt": "2026-07-01T05:00:01.987Z"
+      "generatedAt": "2026-07-01T05:10:01.585Z",
+      "updatedAt": "2026-07-01T05:10:01.585Z"
     },
     {
       "date": "2026-06-30",
@@ -6219,5 +6213,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T05:00:01.989Z"
+  "generatedAt": "2026-07-01T05:10:01.588Z"
 }
