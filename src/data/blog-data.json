@@ -9,9 +9,9 @@
         "Beauty",
         "Other",
         "Home & Kitchen",
-        "Garden & Outdoor",
         "Cleaning Supplies",
-        "Tools & Hardware"
+        "Toys & Kids",
+        "Appliances"
       ],
       "byCategory": {
         "Cleaning Supplies": [
@@ -27,7 +27,92 @@
             "url": "https://www.amazon.com/dp/B09NYM2K1P/ref=cm_sw_r_as_gl_api_gl_i_7952WBK3VA3MG7C5S87P?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e24d319fcdec66d2e9d48119a857bdd&language=en_US"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0D1YCV8WS",
+            "slug": "olanly-pink-round-rugs-for-bedroom-machine-washable-4-ft-cir",
+            "title": "OLANLY Pink Round Rugs for Bedroom - Machine Washable, 4 ft Circle Area Rugs for Living Room, Soft and Fluffy Shaggy Car",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81teI+BpD0L.jpg",
+            "url": "https://www.amazon.com/dp/B0D1YCV8WS?th=1&linkCode=sl2&tag=noya0b-20&linkId=ce53aa3db7bad74104f11e2370141892&language=en_US"
+          },
+          {
+            "asin": "B0CHL9W21G",
+            "slug": "canon-pixma-ts7720-wireless-all-in-one-color-inkjet-printer",
+            "title": "\udecd️Canon PIXMA TS7720 Wireless All-in-One Color Inkjet Printer – Print, Copy, Scan – Auto Duplex, 15/10 PPM, 2.7” Touchsc",
+            "price": "$161.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CHL9W21G?th=1&linkCode=sl2&tag=noya0b-20&linkId=02ed2ac5102deaac24a944b6410aa533&language=en_US"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B09PGVGCH5",
+            "slug": "horizon-group-usa-bluey-aqua-art-reusable-water-reveal-activ",
+            "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/91OXhK2R7nL.jpg",
+            "url": "https://www.amazon.com/dp/B09PGVGCH5/ref=cm_sw_r_as_gl_api_gl_i_89T90DEAPD2HWCGFE7V0?linkCode=ml1&tag=noya0b-20&linkId=98217aa0b8d65c5bd5a382ae170219f7"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B09SH9XH37",
+            "slug": "bonsenkitchen-hand-blender-immersion-blender-with-2-mixing-s",
+            "title": "Bonsenkitchen Hand Blender, Immersion Blender with 2 Mixing Speed, Electric Handheld Mixer Portable Stick Mixer with Sta",
+            "price": "$14.44",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/616Z8kEJKeL.jpg",
+            "url": "https://www.amazon.com/dp/B09SH9XH37?tag=noya0b-20"
+          },
+          {
+            "asin": "0316600113",
+            "slug": "rockets-red-glare-a-thriller",
+            "title": "Rocket's Red Glare: A Thriller",
+            "price": "$15.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81jBVGGDyXL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/0316600113?tag=noya0b-20"
+          }
+        ],
+        "Appliances": [
+          {
+            "asin": "B0H5HT22P8",
+            "slug": "2026-upgrade-renewed-aiper-scuba-s1-robotic-pool-cleaner270",
+            "title": "(2026 Upgrade) (Renewed) Aiper Scuba S1 Robotic Pool Cleaner,270 Min Runtime, Floor/Wall/Waterline/Shallow Area Cleaning",
+            "price": "$419.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/71FNcphgtxL.jpg",
+            "url": "https://www.amazon.com/dp/B0H5HT22P8?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
+          {
+            "asin": "B0DBZCZQKZ",
+            "slug": "truly-beauty-smooth-legend-after-shave-serum-reduces-bumps-k",
+            "title": "\udecd️Truly Beauty Smooth Legend After Shave Serum | Reduces Bumps, KP & Strawberry Skin | Hydrating Treatment with Peptides",
+            "price": "$33.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DBZCZQKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d039ba61e297ad721618dc2ec7198481&language=en_US"
+          },
           {
             "asin": "B0BYB3N9L2",
             "slug": "tress-wellness-pre-wax-cleanser-spray-and-treatment-after-wa",
@@ -50,91 +135,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DZRBNZGP?linkCode=sl2&tag=noya0b-20&linkId=a3409d3b86a36d2a4ffb89f0aaabb5ee&language=en_US"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0CHL9W21G",
-            "slug": "canon-pixma-ts7720-wireless-all-in-one-color-inkjet-printer",
-            "title": "\udecd️Canon PIXMA TS7720 Wireless All-in-One Color Inkjet Printer – Print, Copy, Scan – Auto Duplex, 15/10 PPM, 2.7” Touchsc",
-            "price": "$161.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CHL9W21G?th=1&linkCode=sl2&tag=noya0b-20&linkId=02ed2ac5102deaac24a944b6410aa533&language=en_US"
-          },
-          {
-            "asin": "B07VWFGRDX",
-            "slug": "beard-kit-wbeard-oil-beard-balm-beard-comb-mens-daily-groomi",
-            "title": "Beard Kit w/Beard Oil, Beard Balm, Beard Comb, Men's Daily Grooming & Care, Moisturize & Soften Facial Hair, Christmas &",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/719QLPxVzuL.jpg",
-            "url": "https://www.amazon.com/dp/B07VWFGRDX/ref=cm_sw_r_as_gl_api_gl_i_C85NT2KYPV17GK5PKKW8?linkCode=ml1&tag=noya0b-20&linkId=626f70300dff0fe4cd1e9240d52df2f8"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "0316600113",
-            "slug": "rockets-red-glare-a-thriller",
-            "title": "Rocket's Red Glare: A Thriller",
-            "price": "$15.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81jBVGGDyXL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/0316600113?tag=noya0b-20"
-          },
-          {
-            "asin": "B078HP5Q7T",
-            "slug": "clorox-disinfecting-wipes-flex-pack-bleach-free-fresh-scent",
-            "title": "Clorox Disinfecting Wipes Flex Pack, Bleach Free, Fresh Scent, 75 Count (Pack May Vary) : Everything Else",
-            "price": "$5.38",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PJhPaY6CL.jpg",
-            "url": "https://www.amazon.com/dp/B078HP5Q7T?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B01HMWWLCI",
-            "slug": "american-flag-made-in-usa-american-flags-for-outside-3x5-pre",
-            "title": "American Flag Made in USA | American Flags for Outside 3X5 | Premium US Flag 3X5 Heavy Duty Outdoor with Embroidered Sta",
-            "price": "$39.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jVNRU5TML.jpg",
-            "url": "https://www.amazon.com/dp/B01HMWWLCI?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FLFR47WC",
-            "slug": "miracle-gro-6-x-4-x-6-outdoor-mini-walk-in-greenhouse-plant",
-            "title": "Miracle-Gro 6' x 4' x 6' Outdoor Mini Walk-in Greenhouse Plant Tent, All-Season Small Walk-in Plant Growth Accelerator w",
-            "price": "$69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FLFR47WC/ref=cm_sw_r_as_gl_api_gl_i_dl_M2H3XAA4428F02YXK5TR?linkCode=ml1&tag=noya0b-20&linkId=9c64ff9ef96f4c4e74dba4d43c03091d"
-          }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B0F9NNWHYF",
-            "slug": "metallixity-drill-bit-532-12pcs-4241-high-speed-steel-straig",
-            "title": "METALLIXITY Drill Bit (5/32\") 12Pcs, 4241 High-Speed Steel Straight Shank Gold Finish 135° for Wood Plastic Iron Copper ",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ZWXN7DAoL.jpg",
-            "url": "https://www.amazon.com/dp/B0F9NNWHYF/ref=cm_sw_r_as_gl_api_gl_i_dl_XGV4K1XW4FVT1ACQWVW0?linkCode=ml1&tag=noya0b-20&linkId=08841252e121567fc6cc5d8e40cbeccf"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,61 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81IO56dSLUL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09NYM2K1P/ref=cm_sw_r_as_gl_api_gl_i_7952WBK3VA3MG7C5S87P?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e24d319fcdec66d2e9d48119a857bdd&language=en_US"
+        },
+        {
+          "asin": "B0D1YCV8WS",
+          "slug": "olanly-pink-round-rugs-for-bedroom-machine-washable-4-ft-cir",
+          "title": "OLANLY Pink Round Rugs for Bedroom - Machine Washable, 4 ft Circle Area Rugs for Living Room, Soft and Fluffy Shaggy Car",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81teI+BpD0L.jpg",
+          "url": "https://www.amazon.com/dp/B0D1YCV8WS?th=1&linkCode=sl2&tag=noya0b-20&linkId=ce53aa3db7bad74104f11e2370141892&language=en_US"
+        },
+        {
+          "asin": "B09PGVGCH5",
+          "slug": "horizon-group-usa-bluey-aqua-art-reusable-water-reveal-activ",
+          "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/91OXhK2R7nL.jpg",
+          "url": "https://www.amazon.com/dp/B09PGVGCH5/ref=cm_sw_r_as_gl_api_gl_i_89T90DEAPD2HWCGFE7V0?linkCode=ml1&tag=noya0b-20&linkId=98217aa0b8d65c5bd5a382ae170219f7"
+        },
+        {
+          "asin": "B09SH9XH37",
+          "slug": "bonsenkitchen-hand-blender-immersion-blender-with-2-mixing-s",
+          "title": "Bonsenkitchen Hand Blender, Immersion Blender with 2 Mixing Speed, Electric Handheld Mixer Portable Stick Mixer with Sta",
+          "price": "$14.44",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/616Z8kEJKeL.jpg",
+          "url": "https://www.amazon.com/dp/B09SH9XH37?tag=noya0b-20"
+        },
+        {
+          "asin": "B0H5HT22P8",
+          "slug": "2026-upgrade-renewed-aiper-scuba-s1-robotic-pool-cleaner270",
+          "title": "(2026 Upgrade) (Renewed) Aiper Scuba S1 Robotic Pool Cleaner,270 Min Runtime, Floor/Wall/Waterline/Shallow Area Cleaning",
+          "price": "$419.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/71FNcphgtxL.jpg",
+          "url": "https://www.amazon.com/dp/B0H5HT22P8?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DBZCZQKZ",
+          "slug": "truly-beauty-smooth-legend-after-shave-serum-reduces-bumps-k",
+          "title": "\udecd️Truly Beauty Smooth Legend After Shave Serum | Reduces Bumps, KP & Strawberry Skin | Hydrating Treatment with Peptides",
+          "price": "$33.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DBZCZQKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d039ba61e297ad721618dc2ec7198481&language=en_US"
         },
         {
           "asin": "B0BYB3N9L2",
@@ -192,61 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81jBVGGDyXL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/0316600113?tag=noya0b-20"
-        },
-        {
-          "asin": "B07VWFGRDX",
-          "slug": "beard-kit-wbeard-oil-beard-balm-beard-comb-mens-daily-groomi",
-          "title": "Beard Kit w/Beard Oil, Beard Balm, Beard Comb, Men's Daily Grooming & Care, Moisturize & Soften Facial Hair, Christmas &",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/719QLPxVzuL.jpg",
-          "url": "https://www.amazon.com/dp/B07VWFGRDX/ref=cm_sw_r_as_gl_api_gl_i_C85NT2KYPV17GK5PKKW8?linkCode=ml1&tag=noya0b-20&linkId=626f70300dff0fe4cd1e9240d52df2f8"
-        },
-        {
-          "asin": "B078HP5Q7T",
-          "slug": "clorox-disinfecting-wipes-flex-pack-bleach-free-fresh-scent",
-          "title": "Clorox Disinfecting Wipes Flex Pack, Bleach Free, Fresh Scent, 75 Count (Pack May Vary) : Everything Else",
-          "price": "$5.38",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PJhPaY6CL.jpg",
-          "url": "https://www.amazon.com/dp/B078HP5Q7T?tag=noya0b-20"
-        },
-        {
-          "asin": "B01HMWWLCI",
-          "slug": "american-flag-made-in-usa-american-flags-for-outside-3x5-pre",
-          "title": "American Flag Made in USA | American Flags for Outside 3X5 | Premium US Flag 3X5 Heavy Duty Outdoor with Embroidered Sta",
-          "price": "$39.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71jVNRU5TML.jpg",
-          "url": "https://www.amazon.com/dp/B01HMWWLCI?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FLFR47WC",
-          "slug": "miracle-gro-6-x-4-x-6-outdoor-mini-walk-in-greenhouse-plant",
-          "title": "Miracle-Gro 6' x 4' x 6' Outdoor Mini Walk-in Greenhouse Plant Tent, All-Season Small Walk-in Plant Growth Accelerator w",
-          "price": "$69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FLFR47WC/ref=cm_sw_r_as_gl_api_gl_i_dl_M2H3XAA4428F02YXK5TR?linkCode=ml1&tag=noya0b-20&linkId=9c64ff9ef96f4c4e74dba4d43c03091d"
-        },
-        {
-          "asin": "B0F9NNWHYF",
-          "slug": "metallixity-drill-bit-532-12pcs-4241-high-speed-steel-straig",
-          "title": "METALLIXITY Drill Bit (5/32\") 12Pcs, 4241 High-Speed Steel Straight Shank Gold Finish 135° for Wood Plastic Iron Copper ",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ZWXN7DAoL.jpg",
-          "url": "https://www.amazon.com/dp/B0F9NNWHYF/ref=cm_sw_r_as_gl_api_gl_i_dl_XGV4K1XW4FVT1ACQWVW0?linkCode=ml1&tag=noya0b-20&linkId=08841252e121567fc6cc5d8e40cbeccf"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T13:10:01.579Z",
-      "updatedAt": "2026-07-01T13:10:01.579Z"
+      "generatedAt": "2026-07-01T13:20:02.135Z",
+      "updatedAt": "2026-07-01T13:20:02.135Z"
     },
     {
       "date": "2026-06-30",
@@ -6210,5 +6210,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T13:10:01.581Z"
+  "generatedAt": "2026-07-01T13:20:02.137Z"
 }
