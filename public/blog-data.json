@@ -4,12 +4,13 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Beauty, Cleaning Supplies, Home & Kitchen and more. The best discount today is 44% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Cleaning Supplies and more. The best discount today is 44% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
-        "Cleaning Supplies",
         "Home & Kitchen",
+        "Cleaning Supplies",
         "Grocery & Food",
+        "Garden & Outdoor",
         "Electronics"
       ],
       "byCategory": {
@@ -24,17 +25,78 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81IO56dSLUL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09NYM2K1P/ref=cm_sw_r_as_gl_api_gl_i_7952WBK3VA3MG7C5S87P?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e24d319fcdec66d2e9d48119a857bdd&language=en_US"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B09NW7SKPJ",
-            "slug": "angel-soft-toilet-paper-with-fresh-linen-scented-tube-8-mega",
-            "title": "\udecd️Angel Soft Toilet Paper with Fresh Linen Scented Tube, 8 Mega Rolls = 32 Regular Rolls, Soft and Strong Toilet Tissue",
-            "price": "$8.47",
+            "asin": "B0FBZVNN3K",
+            "slug": "bobs-red-mill-instant-oatmeal-classic-24-packets-total-1-box",
+            "title": "Bob's Red Mill Instant Oatmeal, Classic, 24 Packets Total (1 Box/6 per Box), Non-GMO, Gluten Free, Whole Grain : Grocery",
+            "price": "$8",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HUczdZAQL.jpg",
+            "url": "https://www.amazon.com/dp/B0FBZVNN3K/ref=cm_sw_r_as_gl_api_gl_i_ZSAMRN14F4PQ54E1DMFE?linkCode=ml1&tag=noya0b-20&linkId=8fe9de3a7a0250f6093e48b8fc70eac0"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0GMWMMMDL",
+            "slug": "tocobo-cotton-airy-sun-stick-spf-50-broad-spectrum-korean-ma",
+            "title": "\udecd️TOCOBO Cotton Airy Sun Stick SPF 50 Broad Spectrum Korean Matte Sunscreen Stick for Face - Travel Size Sebum Control S",
+            "price": "$14.90",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51VWcffm7wL.jpg",
+            "url": "https://www.amazon.com/dp/B0GMWMMMDL?th=1&linkCode=sl2&tag=noya0b-20&linkId=ffd3d3d48d29f8072ca6da428f144917&language=en_US"
+          },
+          {
+            "asin": "B0DSBNTFRR",
+            "slug": "makeup-organizer-skincare-organizers-cosmetic-display-cases",
+            "title": "\udecd️Makeup Organizer Skincare Organizers - Cosmetic Display Cases with Transparent Cover, SkinCare Organizers for Bathroom",
+            "price": "$41.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81n6APXQ5JL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DSBNTFRR?tag=noya0b-20"
+          },
+          {
+            "asin": "B0BF9YFL2X",
+            "slug": "greenworks-24v-cordless-string-trimmeredger-gen-2-12-cutting",
+            "title": "Greenworks 24V Cordless String Trimmer/Edger (Gen 2), 12\" Cutting Width, Ultra-Light 6 lbs Design, with 2.0Ah Battery & ",
+            "price": "$79.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
             "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09NW7SKPJ?tag=noya0b-20"
+            "url": "https://www.amazon.com/dp/B0BF9YFL2X?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0BF9YFL2X",
+            "slug": "greenworks-24v-cordless-string-trimmeredger-gen-2-12-cutting",
+            "title": "Greenworks 24V Cordless String Trimmer/Edger (Gen 2), 12\" Cutting Width, Ultra-Light 6 lbs Design, with 2.0Ah Battery & ",
+            "price": "$79.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ZhJtpc3NL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BF9YFL2X?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B000J3Z7TC",
+            "slug": "hoyle-waterproof-playing-cards-clear-plastic-deck-of-cards-f",
+            "title": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games",
+            "price": "$5.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JkEmp-ZCL.jpg",
+            "url": "https://www.amazon.com/dp/B000J3Z7TC?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -73,65 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51nq78EQcdL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09WN2G323?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0BF9YFL2X",
-            "slug": "greenworks-24v-cordless-string-trimmeredger-gen-2-12-cutting",
-            "title": "Greenworks 24V Cordless String Trimmer/Edger (Gen 2), 12\" Cutting Width, Ultra-Light 6 lbs Design, with 2.0Ah Battery & ",
-            "price": "$79.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0BF9YFL2X?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0BF9YFL2X",
-            "slug": "greenworks-24v-cordless-string-trimmeredger-gen-2-12-cutting",
-            "title": "Greenworks 24V Cordless String Trimmer/Edger (Gen 2), 12\" Cutting Width, Ultra-Light 6 lbs Design, with 2.0Ah Battery & ",
-            "price": "$79.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ZhJtpc3NL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BF9YFL2X?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B08G5YPWR3",
-            "slug": "panama-jack-sunscreen-lip-balm-spf-45-flavor-pack-broad-spec",
-            "title": "\udecd️Panama Jack Sunscreen Lip Balm - SPF 45, Flavor Pack, Broad Spectrum UVA-UVB Sunscreen Protection, Prevents & Soothes ",
-            "price": "$19.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RG4REOzBS._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08G5YPWR3?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0D8PFLL4L",
-            "slug": "bagnoregio-5-pack-fuzzy-velvet-neoprene-slim-can-cooler-soft",
-            "title": "\udecd️BAGnoREGio 5-Pack Fuzzy Velvet Neoprene Slim Can Cooler - Soft Insulated Sleeve for 12oz Skinny Soda and Beverage Cans",
-            "price": "$10.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Ghvg1aEdL.jpg",
-            "url": "https://www.amazon.com/dp/B0D8PFLL4L?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GJFWSY1K",
-            "slug": "gatorade-lower-sugar-electrolyte-sports-drink-rain-berry-12",
-            "title": "Gatorade Lower Sugar Electrolyte Sports Drink, Rain Berry, 12 fl oz Bottles, (12 Pack), 75% Less Sugar, No Artificial Fl",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0GJFWSY1K/ref=cm_sw_r_as_gl_api_gl_i_DG0M9ZQAWWRQTRJ9DDBV?linkCode=ml1&tag=noya0b-20&linkId=bbf3fe84963e96fb8104e5e36ff98151"
-          }
         ]
       },
       "deals": [
@@ -145,6 +148,50 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81IO56dSLUL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09NYM2K1P/ref=cm_sw_r_as_gl_api_gl_i_7952WBK3VA3MG7C5S87P?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e24d319fcdec66d2e9d48119a857bdd&language=en_US"
+        },
+        {
+          "asin": "B0FBZVNN3K",
+          "slug": "bobs-red-mill-instant-oatmeal-classic-24-packets-total-1-box",
+          "title": "Bob's Red Mill Instant Oatmeal, Classic, 24 Packets Total (1 Box/6 per Box), Non-GMO, Gluten Free, Whole Grain : Grocery",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HUczdZAQL.jpg",
+          "url": "https://www.amazon.com/dp/B0FBZVNN3K/ref=cm_sw_r_as_gl_api_gl_i_ZSAMRN14F4PQ54E1DMFE?linkCode=ml1&tag=noya0b-20&linkId=8fe9de3a7a0250f6093e48b8fc70eac0"
+        },
+        {
+          "asin": "B0GMWMMMDL",
+          "slug": "tocobo-cotton-airy-sun-stick-spf-50-broad-spectrum-korean-ma",
+          "title": "\udecd️TOCOBO Cotton Airy Sun Stick SPF 50 Broad Spectrum Korean Matte Sunscreen Stick for Face - Travel Size Sebum Control S",
+          "price": "$14.90",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51VWcffm7wL.jpg",
+          "url": "https://www.amazon.com/dp/B0GMWMMMDL?th=1&linkCode=sl2&tag=noya0b-20&linkId=ffd3d3d48d29f8072ca6da428f144917&language=en_US"
+        },
+        {
+          "asin": "B0DSBNTFRR",
+          "slug": "makeup-organizer-skincare-organizers-cosmetic-display-cases",
+          "title": "\udecd️Makeup Organizer Skincare Organizers - Cosmetic Display Cases with Transparent Cover, SkinCare Organizers for Bathroom",
+          "price": "$41.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81n6APXQ5JL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DSBNTFRR?tag=noya0b-20"
+        },
+        {
+          "asin": "B000J3Z7TC",
+          "slug": "hoyle-waterproof-playing-cards-clear-plastic-deck-of-cards-f",
+          "title": "Hoyle Waterproof Playing Cards, Clear Plastic Deck of Cards for Outdoor Card Games, Camping, Beach, Pool & Travel Games",
+          "price": "$5.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JkEmp-ZCL.jpg",
+          "url": "https://www.amazon.com/dp/B000J3Z7TC?tag=noya0b-20"
         },
         {
           "asin": "B0D6WB7BV6",
@@ -200,56 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61ZhJtpc3NL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0BF9YFL2X?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D8PFLL4L",
-          "slug": "bagnoregio-5-pack-fuzzy-velvet-neoprene-slim-can-cooler-soft",
-          "title": "\udecd️BAGnoREGio 5-Pack Fuzzy Velvet Neoprene Slim Can Cooler - Soft Insulated Sleeve for 12oz Skinny Soda and Beverage Cans",
-          "price": "$10.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/51Ghvg1aEdL.jpg",
-          "url": "https://www.amazon.com/dp/B0D8PFLL4L?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GJFWSY1K",
-          "slug": "gatorade-lower-sugar-electrolyte-sports-drink-rain-berry-12",
-          "title": "Gatorade Lower Sugar Electrolyte Sports Drink, Rain Berry, 12 fl oz Bottles, (12 Pack), 75% Less Sugar, No Artificial Fl",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0GJFWSY1K/ref=cm_sw_r_as_gl_api_gl_i_DG0M9ZQAWWRQTRJ9DDBV?linkCode=ml1&tag=noya0b-20&linkId=bbf3fe84963e96fb8104e5e36ff98151"
-        },
-        {
-          "asin": "B09NW7SKPJ",
-          "slug": "angel-soft-toilet-paper-with-fresh-linen-scented-tube-8-mega",
-          "title": "\udecd️Angel Soft Toilet Paper with Fresh Linen Scented Tube, 8 Mega Rolls = 32 Regular Rolls, Soft and Strong Toilet Tissue",
-          "price": "$8.47",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09NW7SKPJ?tag=noya0b-20"
-        },
-        {
-          "asin": "B08G5YPWR3",
-          "slug": "panama-jack-sunscreen-lip-balm-spf-45-flavor-pack-broad-spec",
-          "title": "\udecd️Panama Jack Sunscreen Lip Balm - SPF 45, Flavor Pack, Broad Spectrum UVA-UVB Sunscreen Protection, Prevents & Soothes ",
-          "price": "$19.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RG4REOzBS._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08G5YPWR3?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"AS LOW AS 44% off Gain Liquid Laundry Detergent 60 fl oz, 45...\" and 9 other hand-picked discounts. Deals span Beauty, Cleaning Supplies, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"AS LOW AS 44% off Gain Liquid Laundry Detergent 60 fl oz, 45...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T13:50:01.816Z",
-      "updatedAt": "2026-07-01T13:50:01.816Z"
+      "generatedAt": "2026-07-01T14:00:01.569Z",
+      "updatedAt": "2026-07-01T14:00:01.569Z"
     },
     {
       "date": "2026-06-30",
@@ -6207,5 +6210,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T13:50:01.818Z"
+  "generatedAt": "2026-07-01T14:00:01.572Z"
 }
