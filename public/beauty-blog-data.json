@@ -11,8 +11,7 @@
         "Beauty",
         "Hair Care",
         "Fragrance",
-        "Nails",
-        "Body Care"
+        "Nails"
       ],
       "bySubcat": {
         "Makeup": [
@@ -23,8 +22,18 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0DS6JLDQ5",
+            "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
+            "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Eq",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
+            "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
           },
           {
             "asin": "B0H5B1ZK62",
@@ -105,7 +114,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/81z29yw0DQL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DZRBNZGP/ref=cm_sw_r_as_gl_apa_gl_i_Q90Y20QB0GAGFPPQ4HZJ?linkCode=ml1&tag=noya0b-20&linkId=76f81476b8c84e0b551771d1b67509ab"
           },
           {
@@ -197,7 +206,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/41+hDvNjQ9L._SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0CJWDFSJW/ref=cm_sw_r_as_gl_apa_gl_i_NBCJ0431CB13P32KPHX6?linkCode=ml1&tag=noya0b-20&linkId=fc6deedd5efed890be031b3d4d20de0f"
           },
           {
@@ -249,7 +258,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/41No0tvrsML._SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B07QHHW5V6/ref=cm_sw_r_as_gl_apa_gl_i_9EM4290Y7B567TJTQQVE?linkCode=ml1&tag=noya0b-20&linkId=f0adbde1e626e2ff98250d66106082c0"
           },
           {
@@ -259,7 +268,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71CZKFYTiEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
           },
           {
@@ -316,18 +325,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL.jpg",
             "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
           }
-        ],
-        "Body Care": [
-          {
-            "asin": "B0GW7YVSQ1",
-            "slug": "bikini-trimmer-for-women-3-in-1-painless-electric-razors-for",
-            "title": "Bikini Trimmer for Women, 3-in-1 Painless Electric Razors for Women with Ceramic Blades & IPX7 Waterproof Design, Rechar",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71d9ObdUN6L.jpg",
-            "url": "https://amazon.com/dp/B0GW7YVSQ1?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -338,7 +335,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
         },
         {
@@ -360,6 +357,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HPLwL7omL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B0DWFLY18Y?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DS6JLDQ5",
+          "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
+          "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Eq",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
+          "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
         },
         {
           "asin": "0316264830",
@@ -418,7 +425,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41+hDvNjQ9L._SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B0CJWDFSJW/ref=cm_sw_r_as_gl_apa_gl_i_NBCJ0431CB13P32KPHX6?linkCode=ml1&tag=noya0b-20&linkId=fc6deedd5efed890be031b3d4d20de0f"
         },
         {
@@ -438,7 +445,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/81z29yw0DQL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DZRBNZGP/ref=cm_sw_r_as_gl_apa_gl_i_Q90Y20QB0GAGFPPQ4HZJ?linkCode=ml1&tag=noya0b-20&linkId=76f81476b8c84e0b551771d1b67509ab"
         },
         {
@@ -468,7 +475,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41No0tvrsML._SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B07QHHW5V6/ref=cm_sw_r_as_gl_apa_gl_i_9EM4290Y7B567TJTQQVE?linkCode=ml1&tag=noya0b-20&linkId=f0adbde1e626e2ff98250d66106082c0"
         },
         {
@@ -478,7 +485,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71CZKFYTiEL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
         },
         {
@@ -620,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61oywnRurQL.jpg",
           "url": "https://www.amazon.com/dp/B0BXKK1BJB?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GW7YVSQ1",
-          "slug": "bikini-trimmer-for-women-3-in-1-painless-electric-razors-for",
-          "title": "Bikini Trimmer for Women, 3-in-1 Painless Electric Razors for Women with Ceramic Blades & IPX7 Waterproof Design, Rechar",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71d9ObdUN6L.jpg",
-          "url": "https://amazon.com/dp/B0GW7YVSQ1?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -657,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include Smashbox Pore Vanishing Primer | Controls Shine, B and Nberuionre 2 PCS Dual-Ended Eyeliner Stamp, Easy t and more."
+          "a": "Yes! Today's makeup deals include Smashbox Pore Vanishing Primer | Controls Shine, B and Yoga Mat Set - 4-Pack of Resistance Bands for Work and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -668,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-01T09:30:04.313Z",
-      "updatedAt": "2026-07-01T09:30:04.313Z"
+      "generatedAt": "2026-07-01T09:40:03.713Z",
+      "updatedAt": "2026-07-01T09:40:03.713Z"
     },
     {
       "date": "2026-06-30",
@@ -13535,5 +13532,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-01T09:30:04.318Z"
+  "generatedAt": "2026-07-01T09:40:03.717Z"
 }
