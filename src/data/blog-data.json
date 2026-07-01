@@ -10,11 +10,90 @@
         "Other",
         "Grocery & Food",
         "Fashion",
-        "Health",
-        "Automotive",
-        "Garden & Outdoor"
+        "Health"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0DTWVM22W",
+            "slug": "bosch-ddmsd40-40-pc-driven-impact-screwdriving-and-drilling",
+            "title": "BOSCH DDMSD40-40 pc. Driven Impact Screwdriving and Drilling Custom Case Set",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81sDWu1SmTL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DTWVM22W/ref=cm_sw_r_as_gl_api_gl_i_CBSVG1ZWY5WED61WMW3M?linkCode=ml1&tag=noya0b-20&linkId=3a647434bf84a83e391d16f8652d0f0a"
+          },
+          {
+            "asin": "B0CYLY1YZ8",
+            "slug": "aidea-non-scratch-wire-dishcloth-12pk-wire-dishwashing-rag-f",
+            "title": "AIDEA Non Scratch Wire Dishcloth 12PK, Wire Dishwashing Rag for Wet and Dry, Dual Sided, Washable Dish Rags, Cleaning Pa",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81buQQOdLwL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CYLY1YZ8/ref=cm_sw_r_as_gl_api_gl_i_3DZZ91CX4K6KQ312HRE2?linkCode=ml1&tag=noya0b-20&linkId=89c408f04f17b5f0a6256302b761a97f"
+          },
+          {
+            "asin": "B0FW4FJ6Z5",
+            "slug": "cootway-floating-pool-lights-wsea-llife-patterns-15-upper-lo",
+            "title": "Cootway Floating Pool Lights w/Sea-Llife Patterns, 15\" Upper & Lower Dynamic Color Changing Solar Pool Lights that Float",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71td18qc1-L.jpg",
+            "url": "https://www.amazon.com/dp/B0FW4FJ6Z5/ref=cm_sw_r_as_gl_api_gl_i_dl_14SJGN5RJTTPP0WRPTB5?linkCode=ml1&tag=noya0b-20&linkId=20ec56d6c735c8a19a30ea28bd47bb36"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0F7R52VH6",
+            "slug": "logitech-signature-slim-wired-k620-for-business-full-size-ke",
+            "title": "Logitech Signature Slim Wired K620 for Business, Full-Size Keyboard, USB-C Plug-and-Play, Laptop-Style, Scissor Keys, Wi",
+            "price": "$28.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oIdnnXDbL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F7R52VH6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B09B8V1LZ3",
+            "slug": "amazon-echo-dot-newest-model-vibrant-sounding-speaker-design",
+            "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and off",
+            "price": "$49.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61J2sQtBYDL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09B8V1LZ3?tag=noya0b-20"
+          },
+          {
+            "asin": "B07F93611L",
+            "slug": "apple-ipad-97-inch-retina-display-with-wifi-32gb-touch-id-20",
+            "title": "Apple iPad 9.7-inch Retina Display with WIFI, 32GB, Touch ID, 2017 Mode - Space Gray (Renewed) | Retina Display, WIFI, T",
+            "price": "$869.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61eT9rYxfSL._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B07F93611L?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FX35FCC7",
+            "slug": "orbitell-1080p-wireless-wi-fi-video-doorbell-camera-with-two",
+            "title": "Orbitell 1080p Wireless Wi-Fi Video Doorbell Camera with Two Way Audio, Night Vision, Cloud Storage, Smart AI Motion Det",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71R2w3k1c8L.jpg",
+            "url": "https://www.amazon.com/dp/B0FX35FCC7?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B099BY22DS",
@@ -53,94 +132,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41vgQVo7+VL.jpg",
             "url": "https://www.amazon.com/dp/B00B6A6XOK?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B09B8V1LZ3",
-            "slug": "amazon-echo-dot-newest-model-vibrant-sounding-speaker-design",
-            "title": "Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and off",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61J2sQtBYDL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09B8V1LZ3?tag=noya0b-20"
-          },
-          {
-            "asin": "B07F93611L",
-            "slug": "apple-ipad-97-inch-retina-display-with-wifi-32gb-touch-id-20",
-            "title": "Apple iPad 9.7-inch Retina Display with WIFI, 32GB, Touch ID, 2017 Mode - Space Gray (Renewed) | Retina Display, WIFI, T",
-            "price": "$869.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61eT9rYxfSL._AC_SL1200_.jpg",
-            "url": "https://www.amazon.com/dp/B07F93611L?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FX35FCC7",
-            "slug": "orbitell-1080p-wireless-wi-fi-video-doorbell-camera-with-two",
-            "title": "Orbitell 1080p Wireless Wi-Fi Video Doorbell Camera with Two Way Audio, Night Vision, Cloud Storage, Smart AI Motion Det",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71R2w3k1c8L.jpg",
-            "url": "https://www.amazon.com/dp/B0FX35FCC7?tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0FW4FJ6Z5",
-            "slug": "cootway-floating-pool-lights-wsea-llife-patterns-15-upper-lo",
-            "title": "Cootway Floating Pool Lights w/Sea-Llife Patterns, 15\" Upper & Lower Dynamic Color Changing Solar Pool Lights that Float",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71td18qc1-L.jpg",
-            "url": "https://www.amazon.com/dp/B0FW4FJ6Z5/ref=cm_sw_r_as_gl_api_gl_i_dl_14SJGN5RJTTPP0WRPTB5?linkCode=ml1&tag=noya0b-20&linkId=20ec56d6c735c8a19a30ea28bd47bb36"
-          },
-          {
-            "asin": "B0DQFZY4BD",
-            "slug": "cr-gibson-always-on-the-go-baby-memory-book-active-babys-mil",
-            "title": "C.R. Gibson Always On the Go! Baby Memory Book - Active Baby's Milestones, Memory Book for Baby's First Year : Baby",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71KRXl1g2iL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DQFZY4BD/ref=cm_sw_r_as_gl_api_gl_i_MB931HM0AA3CYYG7R012?linkCode=ml1&tag=noya0b-20&linkId=4466c9da944a9a741163bbc74d3df2b0"
-          }
-        ],
-        "Automotive": [
-          {
-            "asin": "B09K4RCY7Q",
-            "slug": "chemical-guys-chenille-premium-scratch-free-microfiber-wash",
-            "title": "Chemical Guys Chenille Premium Scratch-Free Microfiber Wash Mitt for Car Washing - 2 Pack, Lime Green, Ultra-Soft Car Wa",
-            "price": "$14.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Automotive",
-            "imageUrl": "https://m.media-amazon.com/images/I/81fEq5n9PaL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09K4RCY7Q?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0GWFN7Y8T",
-            "slug": "pocket-hose-ballistic-50-ft-expandable-garden-hose-wpocket-p",
-            "title": "Pocket Hose Ballistic 50 FT Expandable Garden Hose w/Pocket Pivot Swivel Connector, Anti-Burst Sleeve Reinforced with Bu",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xkge21xzL.jpg",
-            "url": "https://www.amazon.com/dp/B0GWFN7Y8T?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DTWVM22W",
+          "slug": "bosch-ddmsd40-40-pc-driven-impact-screwdriving-and-drilling",
+          "title": "BOSCH DDMSD40-40 pc. Driven Impact Screwdriving and Drilling Custom Case Set",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81sDWu1SmTL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DTWVM22W/ref=cm_sw_r_as_gl_api_gl_i_CBSVG1ZWY5WED61WMW3M?linkCode=ml1&tag=noya0b-20&linkId=3a647434bf84a83e391d16f8652d0f0a"
+        },
+        {
+          "asin": "B0F7R52VH6",
+          "slug": "logitech-signature-slim-wired-k620-for-business-full-size-ke",
+          "title": "Logitech Signature Slim Wired K620 for Business, Full-Size Keyboard, USB-C Plug-and-Play, Laptop-Style, Scissor Keys, Wi",
+          "price": "$28.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oIdnnXDbL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F7R52VH6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0CYLY1YZ8",
+          "slug": "aidea-non-scratch-wire-dishcloth-12pk-wire-dishwashing-rag-f",
+          "title": "AIDEA Non Scratch Wire Dishcloth 12PK, Wire Dishwashing Rag for Wet and Dry, Dual Sided, Washable Dish Rags, Cleaning Pa",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81buQQOdLwL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CYLY1YZ8/ref=cm_sw_r_as_gl_api_gl_i_3DZZ91CX4K6KQ312HRE2?linkCode=ml1&tag=noya0b-20&linkId=89c408f04f17b5f0a6256302b761a97f"
+        },
         {
           "asin": "B099BY22DS",
           "slug": "campbells-chunky-soup-spicy-chicken-noodle-soup-186-oz-can-c",
@@ -217,45 +244,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71R2w3k1c8L.jpg",
           "url": "https://www.amazon.com/dp/B0FX35FCC7?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DQFZY4BD",
-          "slug": "cr-gibson-always-on-the-go-baby-memory-book-active-babys-mil",
-          "title": "C.R. Gibson Always On the Go! Baby Memory Book - Active Baby's Milestones, Memory Book for Baby's First Year : Baby",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71KRXl1g2iL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DQFZY4BD/ref=cm_sw_r_as_gl_api_gl_i_MB931HM0AA3CYYG7R012?linkCode=ml1&tag=noya0b-20&linkId=4466c9da944a9a741163bbc74d3df2b0"
-        },
-        {
-          "asin": "B09K4RCY7Q",
-          "slug": "chemical-guys-chenille-premium-scratch-free-microfiber-wash",
-          "title": "Chemical Guys Chenille Premium Scratch-Free Microfiber Wash Mitt for Car Washing - 2 Pack, Lime Green, Ultra-Soft Car Wa",
-          "price": "$14.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Automotive",
-          "imageUrl": "https://m.media-amazon.com/images/I/81fEq5n9PaL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09K4RCY7Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GWFN7Y8T",
-          "slug": "pocket-hose-ballistic-50-ft-expandable-garden-hose-wpocket-p",
-          "title": "Pocket Hose Ballistic 50 FT Expandable Garden Hose w/Pocket Pivot Swivel Connector, Anti-Burst Sleeve Reinforced with Bu",
-          "price": "$59.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xkge21xzL.jpg",
-          "url": "https://www.amazon.com/dp/B0GWFN7Y8T?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"Campbell's Chunky Soup, Spicy Chicken Noodle Soup, 18.6 oz C...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"BOSCH DDMSD40-40 pc. Driven Impact Screwdriving and Drilling...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T10:10:00.777Z",
-      "updatedAt": "2026-07-01T10:10:00.777Z"
+      "generatedAt": "2026-07-01T10:20:00.917Z",
+      "updatedAt": "2026-07-01T10:20:00.917Z"
     },
     {
       "date": "2026-06-30",
@@ -6213,5 +6207,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T10:10:00.781Z"
+  "generatedAt": "2026-07-01T10:20:00.920Z"
 }
