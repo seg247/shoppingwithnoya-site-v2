@@ -4,18 +4,76 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Electronics, Fashion, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Fashion, Pet Supplies, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Electronics",
         "Fashion",
+        "Pet Supplies",
         "Other",
-        "Baby Products",
         "Beauty",
-        "Home & Kitchen",
-        "Appliances"
+        "Electronics",
+        "Baby Products"
       ],
       "byCategory": {
+        "Pet Supplies": [
+          {
+            "asin": "B0F1J33XJJ",
+            "slug": "natural-balance-ultra-protein-plus-dry-cat-food-skin-coat-an",
+            "title": "Natural Balance Ultra Protein Plus Dry Cat Food, Skin & Coat and Digestive Health Real Salmon & Chicken Meal Recipe with",
+            "price": "$20",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71EGEKR2aML.jpg",
+            "url": "https://www.amazon.com/dp/B0F1J33XJJ/ref=cm_sw_r_as_gl_apa_gl_i_2Q0CRKR37EV21XNR1HX4?linkCode=ml1&tag=noya0b-20&linkId=2dbe633469305da4e5560bed0929fd57"
+          },
+          {
+            "asin": "B0CFDX97YD",
+            "slug": "jmmd-6-in-1-toddler-bike-with-push-handle-for-kids-18-60-mon",
+            "title": "JMMD 6 in 1 Toddler Bike with Push Handle for Kids 18-60 Months, 12&#34; Foldable Balance Bike with Training Wheels, Ped",
+            "price": "$40.60",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/61pSZ5vkcsL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CFDX97YD?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B001B197II",
+            "slug": "zep-high-traffic-carpet-cleaner-1-gallon",
+            "title": "Zep High Traffic Carpet Cleaner - 1 Gallon",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51XhV5o+KLL._AC_SL1001_.jpg",
+            "url": "https://www.amazon.com/dp/B001B197II?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9c446905f8747ddd896c69b8c87a28a&language=en_US"
+          },
+          {
+            "asin": "B0C5PM5YH6",
+            "slug": "canon-eos-r100-mirrorless-camera-rf-mount-241-mp-digic-8-ima",
+            "title": "Canon EOS R100 Mirrorless Camera, RF Mount, 24.1 MP, DIGIC 8 Image Processor, Continuous Shooting, Eye Detection AF, Ful",
+            "price": "$379",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0C5PM5YH6/ref=cm_sw_r_as_gl_apa_gl_i_dl_B4RRSFP5VNJZ2123RY9P?linkCode=ml1&tag=noya0b-20&linkId=9bce9f1011e8100aa8c102e9308f480b"
+          }
+        ],
         "Fashion": [
+          {
+            "asin": "B0FW4MY21B",
+            "slug": "fawarior-high-waisted-leggings-for-women-buttery-soft-workou",
+            "title": "Fawarior High Waisted Leggings for Women, Buttery Soft Workout Yoga Leggings with Pockets Navy Blue LXL at Amazon Women’",
+            "price": "$8.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/6181oRVORzL.jpg",
+            "url": "https://www.amazon.com/dp/B0FW4MY21B?tag=noya0b-20"
+          },
           {
             "asin": "B0DQNL7V5T",
             "slug": "jver-mens-linen-shirts-casual-short-sleeve-button-down-shirt",
@@ -39,6 +97,19 @@
             "url": "https://www.amazon.com/dp/B07BQXJ123?tag=noya0b-20"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0CMW1GQRK",
+            "slug": "pampers-aqua-pure-baby-wipes-99-water-fragrance-free-unscent",
+            "title": "Pampers Aqua Pure Baby Wipes, 99% Water, Fragrance Free, Unscented, Water Based, Multi-Use, 896 Wipes Total (16X Flip-To",
+            "price": "$22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
+            "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0GL2M85CY",
@@ -50,41 +121,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61TwspPK-+L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GL2M85CY/ref=cm_sw_r_as_gl_apa_gl_i_dl_HM628TGS3KASZTQ60PXE?linkCode=ml1&tag=noya0b-20&linkId=bcde865dac43f071256f6eaa7fe6b8ea"
-          },
-          {
-            "asin": "B0D3L8MX4W",
-            "slug": "astronaut-galaxy-projector-with-nebula-star-projector-ceilin",
-            "title": "Astronaut Galaxy Projector with Nebula, Star Projector Ceiling LED Lamp with 8 Modes Astronaut Starry Night Light with R",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71NoZMLtpmL.jpg",
-            "url": "https://www.amazon.com/dp/B0D3L8MX4W/ref=cm_sw_r_as_gl_apa_gl_i_dl_7VD10J63F0HYFA8CSJF1?linkCode=ml1&tag=noya0b-20&linkId=db57cf732750db8b71405f07783947b4"
-          },
-          {
-            "asin": "B0FXR9YN56",
-            "slug": "wireless-earbuds-bluetooth-headphones-54-hifi-stereo-ear-bud",
-            "title": "Wireless Earbuds, Bluetooth Headphones 5.4 HiFi Stereo, Ear Buds with 4 ENC Noise Cancelling Mics, 48H Bluetooth Earbuds",
-            "price": "$10.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61W8eoRoT4L.jpg",
-            "url": "https://www.amazon.com/dp/B0FXR9YN56?tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0C5PM5YH6",
-            "slug": "canon-eos-r100-mirrorless-camera-rf-mount-241-mp-digic-8-ima",
-            "title": "Canon EOS R100 Mirrorless Camera, RF Mount, 24.1 MP, DIGIC 8 Image Processor, Continuous Shooting, Eye Detection AF, Ful",
-            "price": "$379",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0C5PM5YH6/ref=cm_sw_r_as_gl_apa_gl_i_dl_B4RRSFP5VNJZ2123RY9P?linkCode=ml1&tag=noya0b-20&linkId=9bce9f1011e8100aa8c102e9308f480b"
           }
         ],
         "Baby Products": [
@@ -99,48 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81TdNxH4MIL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FQNK1KR4?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B07YXH17SZ",
-            "slug": "eos-shea-better-hand-cream-coconut-hand-lotion-and-skin-care",
-            "title": "eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Care",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71IQ0xuc8aL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07YXH17SZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=12de2f85098b4195fe2f78e8f8730e45&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0D41XL87F",
-            "slug": "govee-rgbic-smart-table-lamp-2-touch-bedside-small-table-lam",
-            "title": "Govee RGBIC Smart Table Lamp 2, Touch Bedside Small Table Lamp Compatible with SmartThings, Matter, Alexa, Desk Lamp wit",
-            "price": "$53",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/314Mr+XAwWL.jpg",
-            "url": "https://www.amazon.com/dp/B0D41XL87F/ref=cm_sw_r_as_gl_apa_gl_i_8TAT17TQCNAF2NM4BBSF?linkCode=ml1&tag=noya0b-20&linkId=2e0ba94febb76018282cd009ca899e97"
-          }
-        ],
-        "Appliances": [
-          {
-            "asin": "B012P95E5E",
-            "slug": "appliance-shield-surge-protector-protects-appliances-from-da",
-            "title": "APPLIANCE SHIELD Surge Protector - Protects Appliances From Damaging & Costly Voltage Spikes/Dips. Great for Refrigerato",
-            "price": "$23.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Appliances",
-            "imageUrl": "https://m.media-amazon.com/images/I/71N6QAMmSuL.jpg",
-            "url": "https://www.amazon.com/dp/B012P95E5E?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F1J33XJJ",
+          "slug": "natural-balance-ultra-protein-plus-dry-cat-food-skin-coat-an",
+          "title": "Natural Balance Ultra Protein Plus Dry Cat Food, Skin & Coat and Digestive Health Real Salmon & Chicken Meal Recipe with",
+          "price": "$20",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EGEKR2aML.jpg",
+          "url": "https://www.amazon.com/dp/B0F1J33XJJ/ref=cm_sw_r_as_gl_apa_gl_i_2Q0CRKR37EV21XNR1HX4?linkCode=ml1&tag=noya0b-20&linkId=2dbe633469305da4e5560bed0929fd57"
+        },
+        {
+          "asin": "B0CFDX97YD",
+          "slug": "jmmd-6-in-1-toddler-bike-with-push-handle-for-kids-18-60-mon",
+          "title": "JMMD 6 in 1 Toddler Bike with Push Handle for Kids 18-60 Months, 12&#34; Foldable Balance Bike with Training Wheels, Ped",
+          "price": "$40.60",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/61pSZ5vkcsL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CFDX97YD?tag=noya0b-20"
+        },
+        {
+          "asin": "B001B197II",
+          "slug": "zep-high-traffic-carpet-cleaner-1-gallon",
+          "title": "Zep High Traffic Carpet Cleaner - 1 Gallon",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51XhV5o+KLL._AC_SL1001_.jpg",
+          "url": "https://www.amazon.com/dp/B001B197II?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9c446905f8747ddd896c69b8c87a28a&language=en_US"
+        },
+        {
+          "asin": "B0FW4MY21B",
+          "slug": "fawarior-high-waisted-leggings-for-women-buttery-soft-workou",
+          "title": "Fawarior High Waisted Leggings for Women, Buttery Soft Workout Yoga Leggings with Pockets Navy Blue LXL at Amazon Women’",
+          "price": "$8.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/6181oRVORzL.jpg",
+          "url": "https://www.amazon.com/dp/B0FW4MY21B?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CMW1GQRK",
+          "slug": "pampers-aqua-pure-baby-wipes-99-water-fragrance-free-unscent",
+          "title": "Pampers Aqua Pure Baby Wipes, 99% Water, Fragrance Free, Unscented, Water Based, Multi-Use, 896 Wipes Total (16X Flip-To",
+          "price": "$22",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
+          "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
+        },
         {
           "asin": "B0DQNL7V5T",
           "slug": "jver-mens-linen-shirts-casual-short-sleeve-button-down-shirt",
@@ -195,71 +247,16 @@
           "category": "Baby Products",
           "imageUrl": "https://m.media-amazon.com/images/I/81TdNxH4MIL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FQNK1KR4?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D3L8MX4W",
-          "slug": "astronaut-galaxy-projector-with-nebula-star-projector-ceilin",
-          "title": "Astronaut Galaxy Projector with Nebula, Star Projector Ceiling LED Lamp with 8 Modes Astronaut Starry Night Light with R",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71NoZMLtpmL.jpg",
-          "url": "https://www.amazon.com/dp/B0D3L8MX4W/ref=cm_sw_r_as_gl_apa_gl_i_dl_7VD10J63F0HYFA8CSJF1?linkCode=ml1&tag=noya0b-20&linkId=db57cf732750db8b71405f07783947b4"
-        },
-        {
-          "asin": "B07YXH17SZ",
-          "slug": "eos-shea-better-hand-cream-coconut-hand-lotion-and-skin-care",
-          "title": "eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Care",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71IQ0xuc8aL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07YXH17SZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=12de2f85098b4195fe2f78e8f8730e45&language=en_US"
-        },
-        {
-          "asin": "B0FXR9YN56",
-          "slug": "wireless-earbuds-bluetooth-headphones-54-hifi-stereo-ear-bud",
-          "title": "Wireless Earbuds, Bluetooth Headphones 5.4 HiFi Stereo, Ear Buds with 4 ENC Noise Cancelling Mics, 48H Bluetooth Earbuds",
-          "price": "$10.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61W8eoRoT4L.jpg",
-          "url": "https://www.amazon.com/dp/B0FXR9YN56?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D41XL87F",
-          "slug": "govee-rgbic-smart-table-lamp-2-touch-bedside-small-table-lam",
-          "title": "Govee RGBIC Smart Table Lamp 2, Touch Bedside Small Table Lamp Compatible with SmartThings, Matter, Alexa, Desk Lamp wit",
-          "price": "$53",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/314Mr+XAwWL.jpg",
-          "url": "https://www.amazon.com/dp/B0D41XL87F/ref=cm_sw_r_as_gl_apa_gl_i_8TAT17TQCNAF2NM4BBSF?linkCode=ml1&tag=noya0b-20&linkId=2e0ba94febb76018282cd009ca899e97"
-        },
-        {
-          "asin": "B012P95E5E",
-          "slug": "appliance-shield-surge-protector-protects-appliances-from-da",
-          "title": "APPLIANCE SHIELD Surge Protector - Protects Appliances From Damaging & Costly Voltage Spikes/Dips. Great for Refrigerato",
-          "price": "$23.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Appliances",
-          "imageUrl": "https://m.media-amazon.com/images/I/71N6QAMmSuL.jpg",
-          "url": "https://www.amazon.com/dp/B012P95E5E?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"J.VER Men's Linen Shirts Casual Short Sleeve Button Down Shi...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Other and are updated daily."
+          "a": "The best deals today include \"Natural Balance Ultra Protein Plus Dry Cat Food, Skin & Coat...\" and 9 other hand-picked discounts. Deals span Fashion, Pet Supplies, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T06:30:01.475Z",
-      "updatedAt": "2026-07-01T06:30:01.475Z"
+      "generatedAt": "2026-07-01T06:40:01.753Z",
+      "updatedAt": "2026-07-01T06:40:01.753Z"
     },
     {
       "date": "2026-06-30",
@@ -6213,5 +6210,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T06:30:01.478Z"
+  "generatedAt": "2026-07-01T06:40:01.755Z"
 }
