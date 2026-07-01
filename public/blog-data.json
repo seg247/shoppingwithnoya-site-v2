@@ -4,8 +4,12 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 5 hand-picked discounts across Garden & Outdoor, Beauty, Tools and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 9 hand-picked discounts across Toys & Kids, Automotive, Pet Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Toys & Kids",
+        "Automotive",
+        "Pet Supplies",
+        "Fashion",
         "Garden & Outdoor",
         "Beauty",
         "Tools",
@@ -13,6 +17,58 @@
         "Sports"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0DK7XJM6B",
+            "slug": "squishmallows-original-sanrio-12in-halloween-2025-chococat",
+            "title": "Squishmallows Original Sanrio 12in Halloween 2025 Chococat",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-QVS34ooL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DK7XJM6B?th=1&linkCode=sl2&tag=noya0b-20&linkId=467e4944f34cb8208a88fe45c21f5595&language=en_US"
+          }
+        ],
+        "Automotive": [
+          {
+            "asin": "B07W8Z7R9K",
+            "slug": "wet-n-wild-color-icon-cream-eyeliner-eyeshadow-multi-stick-m",
+            "title": "wet n wild Color Icon Cream Eyeliner Eyeshadow Multi-Stick, Moisturizing, Nourishing Velvety Cream-to-Powder Buildable &",
+            "price": "$3.90",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Automotive",
+            "imageUrl": "https://m.media-amazon.com/images/I/71q4KhbPlsL.jpg",
+            "url": "https://www.amazon.com/dp/B07W8Z7R9K?tag=noya0b-20"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B000I82DTU",
+            "slug": "milk-bone-crunchy-medium-dog-treats-10-lb-box-original-beef",
+            "title": "Milk-Bone Crunchy Medium Dog Treats, 10 Lb. Box, Original Beef Flavor : Pet Snack Treats",
+            "price": "$14.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81IfJLJtCDL.jpg",
+            "url": "https://www.amazon.com/dp/B000I82DTU?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0081D0KTO",
+            "slug": "natures-recipe-grain-free-chicken-sweet-potato-pumpkin-recip",
+            "title": "Nature's Recipe Grain Free Chicken, Sweet Potato & Pumpkin Recipe Dry Dog Food, 4 lb. Bag",
+            "price": "$9.78",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81bAiffl4jL.jpg",
+            "url": "https://www.amazon.com/dp/B0081D0KTO?tag=noya0b-20"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "0143127748",
@@ -81,6 +137,50 @@
       },
       "deals": [
         {
+          "asin": "B0DK7XJM6B",
+          "slug": "squishmallows-original-sanrio-12in-halloween-2025-chococat",
+          "title": "Squishmallows Original Sanrio 12in Halloween 2025 Chococat",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-QVS34ooL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DK7XJM6B?th=1&linkCode=sl2&tag=noya0b-20&linkId=467e4944f34cb8208a88fe45c21f5595&language=en_US"
+        },
+        {
+          "asin": "B07W8Z7R9K",
+          "slug": "wet-n-wild-color-icon-cream-eyeliner-eyeshadow-multi-stick-m",
+          "title": "wet n wild Color Icon Cream Eyeliner Eyeshadow Multi-Stick, Moisturizing, Nourishing Velvety Cream-to-Powder Buildable &",
+          "price": "$3.90",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Automotive",
+          "imageUrl": "https://m.media-amazon.com/images/I/71q4KhbPlsL.jpg",
+          "url": "https://www.amazon.com/dp/B07W8Z7R9K?tag=noya0b-20"
+        },
+        {
+          "asin": "B000I82DTU",
+          "slug": "milk-bone-crunchy-medium-dog-treats-10-lb-box-original-beef",
+          "title": "Milk-Bone Crunchy Medium Dog Treats, 10 Lb. Box, Original Beef Flavor : Pet Snack Treats",
+          "price": "$14.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81IfJLJtCDL.jpg",
+          "url": "https://www.amazon.com/dp/B000I82DTU?tag=noya0b-20"
+        },
+        {
+          "asin": "B0081D0KTO",
+          "slug": "natures-recipe-grain-free-chicken-sweet-potato-pumpkin-recip",
+          "title": "Nature's Recipe Grain Free Chicken, Sweet Potato & Pumpkin Recipe Dry Dog Food, 4 lb. Bag",
+          "price": "$9.78",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81bAiffl4jL.jpg",
+          "url": "https://www.amazon.com/dp/B0081D0KTO?tag=noya0b-20"
+        },
+        {
           "asin": "0143127748",
           "slug": "the-body-keeps-the-score-brain-mind-and-body-in-the-healing",
           "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
@@ -139,11 +239,11 @@
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"The Body Keeps the Score: Brain, Mind, and Body in the Heali...\" and 4 other hand-picked discounts. Deals span Garden & Outdoor, Beauty, Tools and are updated daily."
+          "a": "The best deals today include \"Squishmallows Original Sanrio 12in Halloween 2025 Chococat...\" and 8 other hand-picked discounts. Deals span Toys & Kids, Automotive, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Garden & Outdoor and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Toys & Kids and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -158,8 +258,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T04:10:02.053Z",
-      "updatedAt": "2026-07-01T04:10:02.053Z"
+      "generatedAt": "2026-07-01T04:20:01.573Z",
+      "updatedAt": "2026-07-01T04:20:01.573Z"
     },
     {
       "date": "2026-06-30",
@@ -6097,5 +6197,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T04:10:02.056Z"
+  "generatedAt": "2026-07-01T04:20:01.575Z"
 }
