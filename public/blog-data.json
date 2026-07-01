@@ -4,16 +4,104 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Fashion, Pet Supplies, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Beauty, Other, Pet Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Fashion",
-        "Pet Supplies",
-        "Other",
         "Beauty",
+        "Other",
+        "Pet Supplies",
         "Electronics",
-        "Baby Products"
+        "Home & Kitchen",
+        "Automotive",
+        "Fashion"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B00GJ7XDU2",
+            "slug": "tresemm-rich-moisture-moisturizing-conditioner-with-pump-wit",
+            "title": "TRESemmé Rich Moisture Moisturizing Conditioner with Pump with Up to 72H Hydration for Dry Hair, with Pro Style Technolo",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
+          },
+          {
+            "asin": "B0CMW1GQRK",
+            "slug": "pampers-aqua-pure-baby-wipes-99-water-fragrance-free-unscent",
+            "title": "Pampers Aqua Pure Baby Wipes, 99% Water, Fragrance Free, Unscented, Water Based, Multi-Use, 896 Wipes Total (16X Flip-To",
+            "price": "$22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
+            "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0CJDSNN4T",
+            "slug": "fire-tv-32-2-series-720p-hd-smart-tv",
+            "title": "Fire TV 32\" 2-Series 720p HD smart TV",
+            "price": "$149.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61CO+jrHHjL.jpg",
+            "url": "https://www.amazon.com/dp/B0CJDSNN4T?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "1684128870",
+            "slug": "harry-potter-crochet-crochet-kits-collin-lucy-9781684128877",
+            "title": "Harry Potter Crochet (Crochet Kits): Collin, Lucy: 9781684128877",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HV8fIgmyL.jpg",
+            "url": "https://www.amazon.com/dp/1684128870/ref=cm_sw_r_as_gl_apa_gl_i_MXDW60YB3JT63J5DXP65?linkCode=ml1&tag=noya0b-20&linkId=4ed1486d7458dd5e917c5a4c378d1f89"
+          },
+          {
+            "asin": "B001B197II",
+            "slug": "zep-high-traffic-carpet-cleaner-1-gallon",
+            "title": "Zep High Traffic Carpet Cleaner - 1 Gallon",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51XhV5o+KLL._AC_SL1001_.jpg",
+            "url": "https://www.amazon.com/dp/B001B197II?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9c446905f8747ddd896c69b8c87a28a&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0GS1SHBNY",
+            "slug": "purkeep-drawer-organizer-for-garage-building-bricks-storaget",
+            "title": "PurKeep 𝟔𝟐% 𝟎𝐅𝐅 Drawer Organizer for Garage Building Bricks Storage,Thicker Craft Organizers Storage with Dividers ",
+            "price": "$26",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81DXw4QcreL.jpg",
+            "url": "https://www.amazon.com/dp/B0GS1SHBNY/ref=cm_sw_r_as_gl_apa_gl_i_dl_8WXT63EX2FDWY2MQHMC9?linkCode=ml1&tag=noya0b-20&linkId=252518b381f5456ec1e59718022e6f05"
+          }
+        ],
+        "Automotive": [
+          {
+            "asin": "B0DXW2FP8Y",
+            "slug": "rain-x-810363-repellency-water-repellent-wiper-blades-22-win",
+            "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshield Wipers (Pack of 2), All Weather Streak-Free for En",
+            "price": "$41.73",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Automotive",
+            "imageUrl": "https://m.media-amazon.com/images/I/71KVp9hr20L.jpg",
+            "url": "https://www.amazon.com/dp/B0DXW2FP8Y?tag=noya0b-20"
+          }
+        ],
         "Pet Supplies": [
           {
             "asin": "B0F1J33XJJ",
@@ -38,30 +126,6 @@
             "url": "https://www.amazon.com/dp/B0CFDX97YD?tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B001B197II",
-            "slug": "zep-high-traffic-carpet-cleaner-1-gallon",
-            "title": "Zep High Traffic Carpet Cleaner - 1 Gallon",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51XhV5o+KLL._AC_SL1001_.jpg",
-            "url": "https://www.amazon.com/dp/B001B197II?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9c446905f8747ddd896c69b8c87a28a&language=en_US"
-          },
-          {
-            "asin": "B0C5PM5YH6",
-            "slug": "canon-eos-r100-mirrorless-camera-rf-mount-241-mp-digic-8-ima",
-            "title": "Canon EOS R100 Mirrorless Camera, RF Mount, 24.1 MP, DIGIC 8 Image Processor, Continuous Shooting, Eye Detection AF, Ful",
-            "price": "$379",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0C5PM5YH6/ref=cm_sw_r_as_gl_apa_gl_i_dl_B4RRSFP5VNJZ2123RY9P?linkCode=ml1&tag=noya0b-20&linkId=9bce9f1011e8100aa8c102e9308f480b"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B0FW4MY21B",
@@ -73,71 +137,65 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/6181oRVORzL.jpg",
             "url": "https://www.amazon.com/dp/B0FW4MY21B?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DQNL7V5T",
-            "slug": "jver-mens-linen-shirts-casual-short-sleeve-button-down-shirt",
-            "title": "J.VER Men's Linen Shirts Casual Short Sleeve Button Down Shirt Beach Vacation Cruise Summer Wedding Cotton Tops",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/91W2unXA3IL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DQNL7V5T?tag=noya0b-20"
-          },
-          {
-            "asin": "B07BQXJ123",
-            "slug": "squirrel-brand-sweet-brown-butter-cashews-35-oz-resealable-b",
-            "title": "Squirrel Brand Sweet Brown Butter Cashews, 3.5 oz Resealable Bag, Gourmet Flavored Cashews Nuts, Gluten Free, Vegetarian",
-            "price": "$3.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PVaTSfu0L.jpg",
-            "url": "https://www.amazon.com/dp/B07BQXJ123?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0CMW1GQRK",
-            "slug": "pampers-aqua-pure-baby-wipes-99-water-fragrance-free-unscent",
-            "title": "Pampers Aqua Pure Baby Wipes, 99% Water, Fragrance Free, Unscented, Water Based, Multi-Use, 896 Wipes Total (16X Flip-To",
-            "price": "$22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
-            "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0GL2M85CY",
-            "slug": "yintiny-all-in-one-cd-phonograph-with-bluetooth-54-hifi-soun",
-            "title": "Yintiny All-in-One CD Phonograph with Bluetooth 5.4, HiFi Sound Quality, Wireless Connectivity, USB Playback, Wood Grain",
-            "price": "$24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61TwspPK-+L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GL2M85CY/ref=cm_sw_r_as_gl_apa_gl_i_dl_HM628TGS3KASZTQ60PXE?linkCode=ml1&tag=noya0b-20&linkId=bcde865dac43f071256f6eaa7fe6b8ea"
-          }
-        ],
-        "Baby Products": [
-          {
-            "asin": "B0FQNK1KR4",
-            "slug": "wiholl-womens-summer-tops-dressy-casual-short-sleeve-shirts",
-            "title": "WIHOLL Womens Summer Tops Dressy Casual Short Sleeve Shirts V Neck T Shirts Spring Tops Fashion Clothing Beach Vacation",
-            "price": "$8.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Baby Products",
-            "imageUrl": "https://m.media-amazon.com/images/I/81TdNxH4MIL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FQNK1KR4?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B00GJ7XDU2",
+          "slug": "tresemm-rich-moisture-moisturizing-conditioner-with-pump-wit",
+          "title": "TRESemmé Rich Moisture Moisturizing Conditioner with Pump with Up to 72H Hydration for Dry Hair, with Pro Style Technolo",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00GJ7XDU2/ref=cm_sw_r_as_gl_apa_gl_i_CCQCMXT5Y952V0DKMGRF?linkCode=ml1&tag=noya0b-20&linkId=4ecfe8d7bba10e1456cbaea39967743e"
+        },
+        {
+          "asin": "B0CJDSNN4T",
+          "slug": "fire-tv-32-2-series-720p-hd-smart-tv",
+          "title": "Fire TV 32\" 2-Series 720p HD smart TV",
+          "price": "$149.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61CO+jrHHjL.jpg",
+          "url": "https://www.amazon.com/dp/B0CJDSNN4T?tag=noya0b-20"
+        },
+        {
+          "asin": "1684128870",
+          "slug": "harry-potter-crochet-crochet-kits-collin-lucy-9781684128877",
+          "title": "Harry Potter Crochet (Crochet Kits): Collin, Lucy: 9781684128877",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HV8fIgmyL.jpg",
+          "url": "https://www.amazon.com/dp/1684128870/ref=cm_sw_r_as_gl_apa_gl_i_MXDW60YB3JT63J5DXP65?linkCode=ml1&tag=noya0b-20&linkId=4ed1486d7458dd5e917c5a4c378d1f89"
+        },
+        {
+          "asin": "B0GS1SHBNY",
+          "slug": "purkeep-drawer-organizer-for-garage-building-bricks-storaget",
+          "title": "PurKeep 𝟔𝟐% 𝟎𝐅𝐅 Drawer Organizer for Garage Building Bricks Storage,Thicker Craft Organizers Storage with Dividers ",
+          "price": "$26",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81DXw4QcreL.jpg",
+          "url": "https://www.amazon.com/dp/B0GS1SHBNY/ref=cm_sw_r_as_gl_apa_gl_i_dl_8WXT63EX2FDWY2MQHMC9?linkCode=ml1&tag=noya0b-20&linkId=252518b381f5456ec1e59718022e6f05"
+        },
+        {
+          "asin": "B0DXW2FP8Y",
+          "slug": "rain-x-810363-repellency-water-repellent-wiper-blades-22-win",
+          "title": "Rain-X 810363 Repellency Water Repellent Wiper Blades, 22\" Windshield Wipers (Pack of 2), All Weather Streak-Free for En",
+          "price": "$41.73",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Automotive",
+          "imageUrl": "https://m.media-amazon.com/images/I/71KVp9hr20L.jpg",
+          "url": "https://www.amazon.com/dp/B0DXW2FP8Y?tag=noya0b-20"
+        },
         {
           "asin": "B0F1J33XJJ",
           "slug": "natural-balance-ultra-protein-plus-dry-cat-food-skin-coat-an",
@@ -192,71 +250,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71YNPg+dIEL.jpg",
           "url": "https://www.amazon.com/dp/B0CMW1GQRK/ref=cm_sw_r_as_gl_apa_gl_i_QBQM0QRND6ECF1WD31EY?linkCode=ml1&tag=noya0b-20&linkId=9b0b942ad3c19b7a93b3893cf4728dc7"
-        },
-        {
-          "asin": "B0DQNL7V5T",
-          "slug": "jver-mens-linen-shirts-casual-short-sleeve-button-down-shirt",
-          "title": "J.VER Men's Linen Shirts Casual Short Sleeve Button Down Shirt Beach Vacation Cruise Summer Wedding Cotton Tops",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/91W2unXA3IL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DQNL7V5T?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GL2M85CY",
-          "slug": "yintiny-all-in-one-cd-phonograph-with-bluetooth-54-hifi-soun",
-          "title": "Yintiny All-in-One CD Phonograph with Bluetooth 5.4, HiFi Sound Quality, Wireless Connectivity, USB Playback, Wood Grain",
-          "price": "$24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61TwspPK-+L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GL2M85CY/ref=cm_sw_r_as_gl_apa_gl_i_dl_HM628TGS3KASZTQ60PXE?linkCode=ml1&tag=noya0b-20&linkId=bcde865dac43f071256f6eaa7fe6b8ea"
-        },
-        {
-          "asin": "B07BQXJ123",
-          "slug": "squirrel-brand-sweet-brown-butter-cashews-35-oz-resealable-b",
-          "title": "Squirrel Brand Sweet Brown Butter Cashews, 3.5 oz Resealable Bag, Gourmet Flavored Cashews Nuts, Gluten Free, Vegetarian",
-          "price": "$3.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PVaTSfu0L.jpg",
-          "url": "https://www.amazon.com/dp/B07BQXJ123?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C5PM5YH6",
-          "slug": "canon-eos-r100-mirrorless-camera-rf-mount-241-mp-digic-8-ima",
-          "title": "Canon EOS R100 Mirrorless Camera, RF Mount, 24.1 MP, DIGIC 8 Image Processor, Continuous Shooting, Eye Detection AF, Ful",
-          "price": "$379",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0C5PM5YH6/ref=cm_sw_r_as_gl_apa_gl_i_dl_B4RRSFP5VNJZ2123RY9P?linkCode=ml1&tag=noya0b-20&linkId=9bce9f1011e8100aa8c102e9308f480b"
-        },
-        {
-          "asin": "B0FQNK1KR4",
-          "slug": "wiholl-womens-summer-tops-dressy-casual-short-sleeve-shirts",
-          "title": "WIHOLL Womens Summer Tops Dressy Casual Short Sleeve Shirts V Neck T Shirts Spring Tops Fashion Clothing Beach Vacation",
-          "price": "$8.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Baby Products",
-          "imageUrl": "https://m.media-amazon.com/images/I/81TdNxH4MIL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FQNK1KR4?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"Natural Balance Ultra Protein Plus Dry Cat Food, Skin & Coat...\" and 9 other hand-picked discounts. Deals span Fashion, Pet Supplies, Other and are updated daily."
+          "a": "The best deals today include \"TRESemmé Rich Moisture Moisturizing Conditioner with Pump wi...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T06:40:01.753Z",
-      "updatedAt": "2026-07-01T06:40:01.753Z"
+      "generatedAt": "2026-07-01T06:50:01.895Z",
+      "updatedAt": "2026-07-01T06:50:01.895Z"
     },
     {
       "date": "2026-06-30",
@@ -6210,5 +6213,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T06:40:01.755Z"
+  "generatedAt": "2026-07-01T06:50:01.898Z"
 }
