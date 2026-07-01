@@ -4,17 +4,101 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Toys & Kids, Home & Kitchen, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Toys & Kids",
         "Home & Kitchen",
-        "Fashion",
-        "Garden & Outdoor",
         "Beauty",
-        "Health",
-        "Watches"
+        "Toys & Kids",
+        "Electronics",
+        "Appliances",
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B07YXH17SZ",
+            "slug": "eos-shea-better-hand-cream-coconut-hand-lotion-and-skin-care",
+            "title": "eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Care",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71IQ0xuc8aL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07YXH17SZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=12de2f85098b4195fe2f78e8f8730e45&language=en_US"
+          },
+          {
+            "asin": "B0C8XBKZYG",
+            "slug": "downy-liquid-fabric-softener-april-fresh-2-in-1-fresh-soft-1",
+            "title": "Downy Liquid Fabric Softener, April Fresh 2-in-1 Fresh & Soft, 140 Fl Oz, 190 Loads, Fabric Conditioner For Freshness An",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81WMJyVSWiL.jpg",
+            "url": "https://www.amazon.com/dp/B0C8XBKZYG/ref=cm_sw_r_as_gl_apa_gl_i_FV5QDJY5VJK7ZB7A8T1D?linkCode=ml1&tag=noya0b-20&linkId=5d53b834879db7227525ba0a0b4ebe2b"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0FXR9YN56",
+            "slug": "wireless-earbuds-bluetooth-headphones-54-hifi-stereo-ear-bud",
+            "title": "Wireless Earbuds, Bluetooth Headphones 5.4 HiFi Stereo, Ear Buds with 4 ENC Noise Cancelling Mics, 48H Bluetooth Earbuds",
+            "price": "$10.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61W8eoRoT4L.jpg",
+            "url": "https://www.amazon.com/dp/B0FXR9YN56?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0D41XL87F",
+            "slug": "govee-rgbic-smart-table-lamp-2-touch-bedside-small-table-lam",
+            "title": "Govee RGBIC Smart Table Lamp 2, Touch Bedside Small Table Lamp Compatible with SmartThings, Matter, Alexa, Desk Lamp wit",
+            "price": "$53",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/314Mr+XAwWL.jpg",
+            "url": "https://www.amazon.com/dp/B0D41XL87F/ref=cm_sw_r_as_gl_apa_gl_i_8TAT17TQCNAF2NM4BBSF?linkCode=ml1&tag=noya0b-20&linkId=2e0ba94febb76018282cd009ca899e97"
+          },
+          {
+            "asin": "B0BHZ3D7V1",
+            "slug": "biolomix-kitchen-electric-stand-mixer-6-speed-tilt-head-food",
+            "title": "Biolomix Kitchen Electric Stand Mixer, 6 Speed Tilt Head Food Mixer with 6.5 QT Stainless Steel Bowl, Dough Hook, Flat B",
+            "price": "$96.25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ueEtdW-GL.jpg",
+            "url": "https://www.amazon.com/dp/B0BHZ3D7V1?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GYGH2WVC",
+            "slug": "aeitto-3-in-1-cold-press-juicer-for-juice-nut-milk-sorbet-fi",
+            "title": "Aeitto 3-in-1 Cold Press Juicer for Juice, Nut Milk & Sorbet – Filter-Free Design for Effortless Cleaning, 6.0\" Extra La",
+            "price": "$129.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wi2IN37JL.jpg",
+            "url": "https://www.amazon.com/dp/B0GYGH2WVC?tag=noya0b-20"
+          }
+        ],
+        "Appliances": [
+          {
+            "asin": "B012P95E5E",
+            "slug": "appliance-shield-surge-protector-protects-appliances-from-da",
+            "title": "APPLIANCE SHIELD Surge Protector - Protects Appliances From Damaging & Costly Voltage Spikes/Dips. Great for Refrigerato",
+            "price": "$23.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/71N6QAMmSuL.jpg",
+            "url": "https://www.amazon.com/dp/B012P95E5E?tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0CGY4H58V",
@@ -39,30 +123,6 @@
             "url": "https://www.amazon.com/dp/B0CGY4H58V/ref=cm_sw_r_as_gl_apa_gl_i_WP8MPDMADDYXVFAJ5M14?linkCode=ml1&tag=noya0b-20&linkId=0428e7becc8f7403399d40535ebe67d5"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0GYGH2WVC",
-            "slug": "aeitto-3-in-1-cold-press-juicer-for-juice-nut-milk-sorbet-fi",
-            "title": "Aeitto 3-in-1 Cold Press Juicer for Juice, Nut Milk & Sorbet – Filter-Free Design for Effortless Cleaning, 6.0\" Extra La",
-            "price": "$129.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wi2IN37JL.jpg",
-            "url": "https://www.amazon.com/dp/B0GYGH2WVC?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GXC6H1D9",
-            "slug": "levoit-standing-fan-for-bedroom-only-55",
-            "title": "LEVOIT Standing Fan for Bedroom Only $55!",
-            "price": "$55",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PPg8rAAzL.jpg",
-            "url": "https://www.amazon.com/dp/B0GXC6H1D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=00328bf56c10b758b4babf86fa245140&language=en_US"
-          }
-        ],
         "Garden & Outdoor": [
           {
             "asin": "B0CBCZRS8M",
@@ -75,72 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81Dg68RS3oL.jpg",
             "url": "https://www.amazon.com/dp/B0CBCZRS8M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0C8XBKZYG",
-            "slug": "downy-liquid-fabric-softener-april-fresh-2-in-1-fresh-soft-1",
-            "title": "Downy Liquid Fabric Softener, April Fresh 2-in-1 Fresh & Soft, 140 Fl Oz, 190 Loads, Fabric Conditioner For Freshness An",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81WMJyVSWiL.jpg",
-            "url": "https://www.amazon.com/dp/B0C8XBKZYG/ref=cm_sw_r_as_gl_apa_gl_i_FV5QDJY5VJK7ZB7A8T1D?linkCode=ml1&tag=noya0b-20&linkId=5d53b834879db7227525ba0a0b4ebe2b"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B0FFVLW548",
-            "slug": "therabreath-whitening-toothpaste-gentle-peroxide-free-teeth",
-            "title": "TheraBreath Whitening Toothpaste, Gentle Peroxide-Free Teeth Whitening in 1 Week (3), with Fluoride for Anticavity Prote",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71aQsKT4hrL.jpg",
-            "url": "https://www.amazon.com/dp/B0FFVLW548/ref=cm_sw_r_as_gl_apa_gl_i_6ZWBM17BANEYHQCDB25E?linkCode=ml1&tag=noya0b-20&linkId=6ab14a293406a939456d7d6aae83b063"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0DQSJJ5PK",
-            "slug": "6-pack-extra-heavy-duty-large-moving-bags-with-strong-zipper",
-            "title": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper & Comfortable Handles, Sturdy & Durable Clothes Storage Bag",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nI7M5d-rL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DQSJJ5PK?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FCY4V2GJ",
-            "slug": "high-waisted-leggings-for-women-buttery-soft-workout-yoga-le",
-            "title": "High Waisted Leggings for Women, Buttery Soft Workout Yoga Leggings",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51nRGQyRHQL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FCY4V2GJ?tag=noya0b-20"
-          }
-        ],
-        "Watches": [
-          {
-            "asin": "B0F255GH5L",
-            "slug": "nautica-mens-coronado-bay-watch",
-            "title": "Nautica Men's Coronado Bay Watch",
-            "price": "$60.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Watches",
-            "imageUrl": "https://m.media-amazon.com/images/I/71CEUA1tOHL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F255GH5L?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07YXH17SZ",
+          "slug": "eos-shea-better-hand-cream-coconut-hand-lotion-and-skin-care",
+          "title": "eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Care",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IQ0xuc8aL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07YXH17SZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=12de2f85098b4195fe2f78e8f8730e45&language=en_US"
+        },
+        {
+          "asin": "B0FXR9YN56",
+          "slug": "wireless-earbuds-bluetooth-headphones-54-hifi-stereo-ear-bud",
+          "title": "Wireless Earbuds, Bluetooth Headphones 5.4 HiFi Stereo, Ear Buds with 4 ENC Noise Cancelling Mics, 48H Bluetooth Earbuds",
+          "price": "$10.79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61W8eoRoT4L.jpg",
+          "url": "https://www.amazon.com/dp/B0FXR9YN56?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D41XL87F",
+          "slug": "govee-rgbic-smart-table-lamp-2-touch-bedside-small-table-lam",
+          "title": "Govee RGBIC Smart Table Lamp 2, Touch Bedside Small Table Lamp Compatible with SmartThings, Matter, Alexa, Desk Lamp wit",
+          "price": "$53",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/314Mr+XAwWL.jpg",
+          "url": "https://www.amazon.com/dp/B0D41XL87F/ref=cm_sw_r_as_gl_apa_gl_i_8TAT17TQCNAF2NM4BBSF?linkCode=ml1&tag=noya0b-20&linkId=2e0ba94febb76018282cd009ca899e97"
+        },
+        {
+          "asin": "B012P95E5E",
+          "slug": "appliance-shield-surge-protector-protects-appliances-from-da",
+          "title": "APPLIANCE SHIELD Surge Protector - Protects Appliances From Damaging & Costly Voltage Spikes/Dips. Great for Refrigerato",
+          "price": "$23.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/71N6QAMmSuL.jpg",
+          "url": "https://www.amazon.com/dp/B012P95E5E?tag=noya0b-20"
+        },
+        {
+          "asin": "B0BHZ3D7V1",
+          "slug": "biolomix-kitchen-electric-stand-mixer-6-speed-tilt-head-food",
+          "title": "Biolomix Kitchen Electric Stand Mixer, 6 Speed Tilt Head Food Mixer with 6.5 QT Stainless Steel Bowl, Dough Hook, Flat B",
+          "price": "$96.25",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ueEtdW-GL.jpg",
+          "url": "https://www.amazon.com/dp/B0BHZ3D7V1?tag=noya0b-20"
+        },
         {
           "asin": "B0CGY4H58V",
           "slug": "lego-ideas-polaroid-onestep-sx-70-building-set-for-adults-vi",
@@ -195,71 +247,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81WMJyVSWiL.jpg",
           "url": "https://www.amazon.com/dp/B0C8XBKZYG/ref=cm_sw_r_as_gl_apa_gl_i_FV5QDJY5VJK7ZB7A8T1D?linkCode=ml1&tag=noya0b-20&linkId=5d53b834879db7227525ba0a0b4ebe2b"
-        },
-        {
-          "asin": "B0FFVLW548",
-          "slug": "therabreath-whitening-toothpaste-gentle-peroxide-free-teeth",
-          "title": "TheraBreath Whitening Toothpaste, Gentle Peroxide-Free Teeth Whitening in 1 Week (3), with Fluoride for Anticavity Prote",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71aQsKT4hrL.jpg",
-          "url": "https://www.amazon.com/dp/B0FFVLW548/ref=cm_sw_r_as_gl_apa_gl_i_6ZWBM17BANEYHQCDB25E?linkCode=ml1&tag=noya0b-20&linkId=6ab14a293406a939456d7d6aae83b063"
-        },
-        {
-          "asin": "B0DQSJJ5PK",
-          "slug": "6-pack-extra-heavy-duty-large-moving-bags-with-strong-zipper",
-          "title": "6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper & Comfortable Handles, Sturdy & Durable Clothes Storage Bag",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71nI7M5d-rL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DQSJJ5PK?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GXC6H1D9",
-          "slug": "levoit-standing-fan-for-bedroom-only-55",
-          "title": "LEVOIT Standing Fan for Bedroom Only $55!",
-          "price": "$55",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PPg8rAAzL.jpg",
-          "url": "https://www.amazon.com/dp/B0GXC6H1D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=00328bf56c10b758b4babf86fa245140&language=en_US"
-        },
-        {
-          "asin": "B0FCY4V2GJ",
-          "slug": "high-waisted-leggings-for-women-buttery-soft-workout-yoga-le",
-          "title": "High Waisted Leggings for Women, Buttery Soft Workout Yoga Leggings",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51nRGQyRHQL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FCY4V2GJ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F255GH5L",
-          "slug": "nautica-mens-coronado-bay-watch",
-          "title": "Nautica Men's Coronado Bay Watch",
-          "price": "$60.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Watches",
-          "imageUrl": "https://m.media-amazon.com/images/I/71CEUA1tOHL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F255GH5L?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"LEGO Ideas Polaroid OneStep SX-70 Building Set for Adults - ...\" and 9 other hand-picked discounts. Deals span Toys & Kids, Home & Kitchen, Fashion and are updated daily."
+          "a": "The best deals today include \"eos Shea Better Hand Cream - Coconut Hand Lotion and Skin Ca...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Toys & Kids and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T06:00:01.419Z",
-      "updatedAt": "2026-07-01T06:00:01.419Z"
+      "generatedAt": "2026-07-01T06:10:01.677Z",
+      "updatedAt": "2026-07-01T06:10:01.678Z"
     },
     {
       "date": "2026-06-30",
@@ -6213,5 +6210,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T06:00:01.422Z"
+  "generatedAt": "2026-07-01T06:10:01.681Z"
 }
