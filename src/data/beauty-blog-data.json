@@ -4,12 +4,12 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "💄 Best Beauty Deals Today — July 1, 2026",
-      "intro": "Today's best beauty deals for Wednesday, July 1, 2026 — 30 hand-picked discounts on Makeup, Skincare, Hair Care and more. The best beauty discount today is 50% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Wednesday, July 1, 2026 — 30 hand-picked discounts on Makeup, Skincare, Beauty and more. The best beauty discount today is 50% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
         "Makeup",
         "Skincare",
-        "Hair Care",
         "Beauty",
+        "Hair Care",
         "Fragrance"
       ],
       "bySubcat": {
@@ -21,7 +21,7 @@
             "discount": 50,
             "rating": "FIRE",
             "subcat": "Makeup",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
             "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
           },
           {
@@ -173,7 +173,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/81nuuLroxRL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DBZCZQKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d039ba61e297ad721618dc2ec7198481&language=en_US"
           },
           {
@@ -197,19 +197,17 @@
             "url": "https://www.amazon.com/dp/B006IB5T4W?tag=noya0b-20"
           }
         ],
-        "Hair Care": [
+        "Beauty": [
           {
-            "asin": "B00FH692PQ",
-            "slug": "pura-dor-original-gold-label-anti-thinning-shampoo-clinicall",
-            "title": "PURA D'OR Original Gold Label Anti-Thinning Shampoo - CLINICALLY TESTED - Biotin & Argan Oil – Sulfate-Free Strengthenin",
+            "asin": "B0D8JWBDK4",
+            "slug": "caboodles-wicked-limited-edition-collection-beauty-personal",
+            "title": "Caboodles Wicked Limited Edition Collection : Beauty & Personal Care",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71pWIntmYgL.jpg",
-            "url": "https://www.amazon.com/dp/B00FH692PQ?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UFzWakWqL.jpg",
+            "url": "https://www.amazon.com/dp/B0D8JWBDK4?lv=shuf&rsd=xCXfZWPxuZI8k21kOemLraxeixMQPR9cWqtOi%2FbDVO%2BiNssrpuoSAJcYsnsE7rZ2ZJk74wHtNxEX8o1wQVW1zaG0%2BG%2BhjpPSuTlP7rkPa1YmOXSQ&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFCCaOu7Gx0vsOX0zfkerxiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMurMIK2PbKple%2BFlYAgEQgDup9WFSzRYCI127At6TaF6h5Sbxbfkz362nToAkfrNtaNyQcePwP1AUy%2FakJXCCAvcC1duRd8NAsrK8iw&social_share=cm_sw_r_apan_dp_ss_ss_EKQ074510JY61QK33X6M_1&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=32a1a11e6721ba28101f0e21ad835942&language=en_US"
+          },
           {
             "asin": "B0H4X28K2H",
             "slug": "biblia-rvr-1960letra-sper-gigante-azul-spanish-edition-monsg",
@@ -279,16 +277,18 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71lFTyrYUzL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FP2794QX?tag=noya0b-20"
-          },
+          }
+        ],
+        "Hair Care": [
           {
-            "asin": "0316264830",
-            "slug": "the-land-and-its-people-essays-sedaris-david-9780316264839",
-            "title": "The Land and Its People: Essays: Sedaris, David: 9780316264839",
+            "asin": "B00FH692PQ",
+            "slug": "pura-dor-original-gold-label-anti-thinning-shampoo-clinicall",
+            "title": "PURA D'OR Original Gold Label Anti-Thinning Shampoo - CLINICALLY TESTED - Biotin & Argan Oil – Sulfate-Free Strengthenin",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81yX5alTjtL.jpg",
-            "url": "https://www.amazon.com/dp/0316264830?tag=noya0b-20"
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71pWIntmYgL.jpg",
+            "url": "https://www.amazon.com/dp/B00FH692PQ?tag=noya0b-20"
           }
         ],
         "Fragrance": [
@@ -332,7 +332,7 @@
           "discount": 50,
           "rating": "FIRE",
           "subcat": "Makeup",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61Nkfo6mJJL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B0DW4XLPM9?th=1&tag=noya0b-20"
         },
         {
@@ -354,6 +354,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HPLwL7omL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B0DWFLY18Y?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D8JWBDK4",
+          "slug": "caboodles-wicked-limited-edition-collection-beauty-personal",
+          "title": "Caboodles Wicked Limited Edition Collection : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UFzWakWqL.jpg",
+          "url": "https://www.amazon.com/dp/B0D8JWBDK4?lv=shuf&rsd=xCXfZWPxuZI8k21kOemLraxeixMQPR9cWqtOi%2FbDVO%2BiNssrpuoSAJcYsnsE7rZ2ZJk74wHtNxEX8o1wQVW1zaG0%2BG%2BhjpPSuTlP7rkPa1YmOXSQ&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFCCaOu7Gx0vsOX0zfkerxiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMurMIK2PbKple%2BFlYAgEQgDup9WFSzRYCI127At6TaF6h5Sbxbfkz362nToAkfrNtaNyQcePwP1AUy%2FakJXCCAvcC1duRd8NAsrK8iw&social_share=cm_sw_r_apan_dp_ss_ss_EKQ074510JY61QK33X6M_1&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=32a1a11e6721ba28101f0e21ad835942&language=en_US"
         },
         {
           "asin": "B0DQDHS5NK",
@@ -512,7 +522,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/81nuuLroxRL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DBZCZQKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d039ba61e297ad721618dc2ec7198481&language=en_US"
         },
         {
@@ -614,16 +624,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
           "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
-        },
-        {
-          "asin": "0316264830",
-          "slug": "the-land-and-its-people-essays-sedaris-david-9780316264839",
-          "title": "The Land and Its People: Essays: Sedaris, David: 9780316264839",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81yX5alTjtL.jpg",
-          "url": "https://www.amazon.com/dp/0316264830?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -643,7 +643,7 @@
       "faq": [
         {
           "q": "What are the best beauty deals today on July 1, 2026?",
-          "a": "The top beauty deals today include \"Smashbox Pore Vanishing Primer | Controls Shine, Blurs Pores...\" and 29 other hand-picked discounts across Makeup, Skincare, Hair Care."
+          "a": "The top beauty deals today include \"Smashbox Pore Vanishing Primer | Controls Shine, Blurs Pores...\" and 29 other hand-picked discounts across Makeup, Skincare, Beauty."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-01T16:40:04.233Z",
-      "updatedAt": "2026-07-01T16:40:04.233Z"
+      "generatedAt": "2026-07-01T16:50:04.040Z",
+      "updatedAt": "2026-07-01T16:50:04.040Z"
     },
     {
       "date": "2026-06-30",
@@ -13529,5 +13529,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-01T16:40:04.240Z"
+  "generatedAt": "2026-07-01T16:50:04.044Z"
 }
