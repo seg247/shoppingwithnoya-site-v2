@@ -4,18 +4,104 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Fashion, Home & Kitchen, Watches and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Toys & Kids, Home & Kitchen, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Fashion",
+        "Toys & Kids",
         "Home & Kitchen",
-        "Watches",
-        "Handbags",
+        "Fashion",
         "Garden & Outdoor",
-        "Grocery & Food",
-        "Men's Fashion",
-        "Women's Fashion"
+        "Beauty",
+        "Health",
+        "Watches"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0CGY4H58V",
+            "slug": "lego-ideas-polaroid-onestep-sx-70-building-set-for-adults-vi",
+            "title": "LEGO Ideas Polaroid OneStep SX-70 Building Set for Adults - Vintage Polaroid Model DIY Craft Kit, Ages 18+ - Gift for Bi",
+            "price": "$65",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CGY4H58V/ref=cm_sw_r_as_gl_apa_gl_i_WP8MPDMADDYXVFAJ5M14?linkCode=ml1&tag=noya0b-20&linkId=0428e7becc8f7403399d40535ebe67d5"
+          },
+          {
+            "asin": "B0CGY4H58V",
+            "slug": "lego-ideas-polaroid-onestep-sx-70-building-set-for-adults-vi",
+            "title": "LEGO Ideas Polaroid OneStep SX-70 Building Set for Adults - Vintage Polaroid Model DIY Craft Kit, Ages 18+ - Gift for Bi",
+            "price": "$65",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71xE5N4pd-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CGY4H58V/ref=cm_sw_r_as_gl_apa_gl_i_WP8MPDMADDYXVFAJ5M14?linkCode=ml1&tag=noya0b-20&linkId=0428e7becc8f7403399d40535ebe67d5"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0GYGH2WVC",
+            "slug": "aeitto-3-in-1-cold-press-juicer-for-juice-nut-milk-sorbet-fi",
+            "title": "Aeitto 3-in-1 Cold Press Juicer for Juice, Nut Milk & Sorbet – Filter-Free Design for Effortless Cleaning, 6.0\" Extra La",
+            "price": "$129.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wi2IN37JL.jpg",
+            "url": "https://www.amazon.com/dp/B0GYGH2WVC?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GXC6H1D9",
+            "slug": "levoit-standing-fan-for-bedroom-only-55",
+            "title": "LEVOIT Standing Fan for Bedroom Only $55!",
+            "price": "$55",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PPg8rAAzL.jpg",
+            "url": "https://www.amazon.com/dp/B0GXC6H1D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=00328bf56c10b758b4babf86fa245140&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0CBCZRS8M",
+            "slug": "tasty-mini-sandwich-maker-makes-sandwiches-paninis-grilled-c",
+            "title": "Tasty Mini Sandwich Maker, Makes Sandwiches, Paninis, Grilled Cheese, Desserts, Quick Results, Easy Cleanup, 600W, Red",
+            "price": "$12.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Dg68RS3oL.jpg",
+            "url": "https://www.amazon.com/dp/B0CBCZRS8M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0C8XBKZYG",
+            "slug": "downy-liquid-fabric-softener-april-fresh-2-in-1-fresh-soft-1",
+            "title": "Downy Liquid Fabric Softener, April Fresh 2-in-1 Fresh & Soft, 140 Fl Oz, 190 Loads, Fabric Conditioner For Freshness An",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81WMJyVSWiL.jpg",
+            "url": "https://www.amazon.com/dp/B0C8XBKZYG/ref=cm_sw_r_as_gl_apa_gl_i_FV5QDJY5VJK7ZB7A8T1D?linkCode=ml1&tag=noya0b-20&linkId=5d53b834879db7227525ba0a0b4ebe2b"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0FFVLW548",
+            "slug": "therabreath-whitening-toothpaste-gentle-peroxide-free-teeth",
+            "title": "TheraBreath Whitening Toothpaste, Gentle Peroxide-Free Teeth Whitening in 1 Week (3), with Fluoride for Anticavity Prote",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71aQsKT4hrL.jpg",
+            "url": "https://www.amazon.com/dp/B0FFVLW548/ref=cm_sw_r_as_gl_apa_gl_i_6ZWBM17BANEYHQCDB25E?linkCode=ml1&tag=noya0b-20&linkId=6ab14a293406a939456d7d6aae83b063"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0DQSJJ5PK",
@@ -40,30 +126,6 @@
             "url": "https://www.amazon.com/dp/B0FCY4V2GJ?tag=noya0b-20"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0GXC6H1D9",
-            "slug": "levoit-standing-fan-for-bedroom-only-55",
-            "title": "LEVOIT Standing Fan for Bedroom Only $55!",
-            "price": "$55",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PPg8rAAzL.jpg",
-            "url": "https://www.amazon.com/dp/B0GXC6H1D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=00328bf56c10b758b4babf86fa245140&language=en_US"
-          },
-          {
-            "asin": "1668067242",
-            "slug": "regime-change-inside-the-imperial-presidency-of-donald-trump",
-            "title": "Regime Change: Inside the Imperial Presidency of Donald Trump",
-            "price": "$23.78",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81F5-56CywL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/1668067242?tag=noya0b-20"
-          }
-        ],
         "Watches": [
           {
             "asin": "B0F255GH5L",
@@ -76,74 +138,75 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71CEUA1tOHL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F255GH5L?tag=noya0b-20"
           }
-        ],
-        "Handbags": [
-          {
-            "asin": "B087JQ7XZ9",
-            "slug": "bedelite-satin-pillowcase-for-hair-and-skin-super-soft-and-c",
-            "title": "BEDELITE Satin Pillowcase for Hair and Skin, Super Soft and Cooling Similar to Silk Pillow Cases 2 Pack with Envelope Cl",
-            "price": "$8.09",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Handbags",
-            "imageUrl": "https://m.media-amazon.com/images/I/61N-XNeSyyL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B087JQ7XZ9?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B097ZNSK53",
-            "slug": "jeiento-women-ladies-trendy-road-running-shoes-outdoor-casua",
-            "title": "Jeiento Women Ladies Trendy Road Running Shoes Outdoor Casual Walking Sports Sneakers Fitness Jogging Trainers Colorful",
-            "price": "$37.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61v7GtAn-vL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B097ZNSK53?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0B57VD8BW",
-            "slug": "c4-smart-energy-drink-boost-focus-and-energy-with-zero-sugar",
-            "title": "C4 Smart Energy Drink – Boost Focus and Energy with Zero Sugar, Natural Energy, and Nootropics - 200mg Caffeine - Black ",
-            "price": "$13.30",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81LT2hZ9hFL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0B57VD8BW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Men's Fashion": [
-          {
-            "asin": "B07QB79SN6",
-            "slug": "elikliv-microscope-lcd-digital-coin-microscope-1000x-coin-ma",
-            "title": "Elikliv Microscope, LCD Digital Coin Microscope 1000x, Coin Magnifier with 8 Adjustable LED Lights, PC View Compatible w",
-            "price": "$33.24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Men's Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61AjJNpELNL._AC_SL1254_.jpg",
-            "url": "https://www.amazon.com/dp/B07QB79SN6?tag=noya0b-20"
-          }
-        ],
-        "Women's Fashion": [
-          {
-            "asin": "B08GKRDKK5",
-            "slug": "kuailu-womens-arch-support-flip-flops-comfortable-yoga-mat-s",
-            "title": "KuaiLu Womens Arch Support Flip Flops Comfortable Yoga Mat Slip on Leather Walking Thong Cushion Sandals Summer Beach Or",
-            "price": "$14.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Women's Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71sOqqb4oML._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08GKRDKK5?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CGY4H58V",
+          "slug": "lego-ideas-polaroid-onestep-sx-70-building-set-for-adults-vi",
+          "title": "LEGO Ideas Polaroid OneStep SX-70 Building Set for Adults - Vintage Polaroid Model DIY Craft Kit, Ages 18+ - Gift for Bi",
+          "price": "$65",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CGY4H58V/ref=cm_sw_r_as_gl_apa_gl_i_WP8MPDMADDYXVFAJ5M14?linkCode=ml1&tag=noya0b-20&linkId=0428e7becc8f7403399d40535ebe67d5"
+        },
+        {
+          "asin": "B0CGY4H58V",
+          "slug": "lego-ideas-polaroid-onestep-sx-70-building-set-for-adults-vi",
+          "title": "LEGO Ideas Polaroid OneStep SX-70 Building Set for Adults - Vintage Polaroid Model DIY Craft Kit, Ages 18+ - Gift for Bi",
+          "price": "$65",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71xE5N4pd-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CGY4H58V/ref=cm_sw_r_as_gl_apa_gl_i_WP8MPDMADDYXVFAJ5M14?linkCode=ml1&tag=noya0b-20&linkId=0428e7becc8f7403399d40535ebe67d5"
+        },
+        {
+          "asin": "B0GYGH2WVC",
+          "slug": "aeitto-3-in-1-cold-press-juicer-for-juice-nut-milk-sorbet-fi",
+          "title": "Aeitto 3-in-1 Cold Press Juicer for Juice, Nut Milk & Sorbet – Filter-Free Design for Effortless Cleaning, 6.0\" Extra La",
+          "price": "$129.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71wi2IN37JL.jpg",
+          "url": "https://www.amazon.com/dp/B0GYGH2WVC?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CBCZRS8M",
+          "slug": "tasty-mini-sandwich-maker-makes-sandwiches-paninis-grilled-c",
+          "title": "Tasty Mini Sandwich Maker, Makes Sandwiches, Paninis, Grilled Cheese, Desserts, Quick Results, Easy Cleanup, 600W, Red",
+          "price": "$12.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Dg68RS3oL.jpg",
+          "url": "https://www.amazon.com/dp/B0CBCZRS8M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0C8XBKZYG",
+          "slug": "downy-liquid-fabric-softener-april-fresh-2-in-1-fresh-soft-1",
+          "title": "Downy Liquid Fabric Softener, April Fresh 2-in-1 Fresh & Soft, 140 Fl Oz, 190 Loads, Fabric Conditioner For Freshness An",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81WMJyVSWiL.jpg",
+          "url": "https://www.amazon.com/dp/B0C8XBKZYG/ref=cm_sw_r_as_gl_apa_gl_i_FV5QDJY5VJK7ZB7A8T1D?linkCode=ml1&tag=noya0b-20&linkId=5d53b834879db7227525ba0a0b4ebe2b"
+        },
+        {
+          "asin": "B0FFVLW548",
+          "slug": "therabreath-whitening-toothpaste-gentle-peroxide-free-teeth",
+          "title": "TheraBreath Whitening Toothpaste, Gentle Peroxide-Free Teeth Whitening in 1 Week (3), with Fluoride for Anticavity Prote",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71aQsKT4hrL.jpg",
+          "url": "https://www.amazon.com/dp/B0FFVLW548/ref=cm_sw_r_as_gl_apa_gl_i_6ZWBM17BANEYHQCDB25E?linkCode=ml1&tag=noya0b-20&linkId=6ab14a293406a939456d7d6aae83b063"
+        },
         {
           "asin": "B0DQSJJ5PK",
           "slug": "6-pack-extra-heavy-duty-large-moving-bags-with-strong-zipper",
@@ -187,82 +250,16 @@
           "category": "Watches",
           "imageUrl": "https://m.media-amazon.com/images/I/71CEUA1tOHL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F255GH5L?tag=noya0b-20"
-        },
-        {
-          "asin": "B087JQ7XZ9",
-          "slug": "bedelite-satin-pillowcase-for-hair-and-skin-super-soft-and-c",
-          "title": "BEDELITE Satin Pillowcase for Hair and Skin, Super Soft and Cooling Similar to Silk Pillow Cases 2 Pack with Envelope Cl",
-          "price": "$8.09",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Handbags",
-          "imageUrl": "https://m.media-amazon.com/images/I/61N-XNeSyyL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B087JQ7XZ9?tag=noya0b-20"
-        },
-        {
-          "asin": "B097ZNSK53",
-          "slug": "jeiento-women-ladies-trendy-road-running-shoes-outdoor-casua",
-          "title": "Jeiento Women Ladies Trendy Road Running Shoes Outdoor Casual Walking Sports Sneakers Fitness Jogging Trainers Colorful",
-          "price": "$37.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61v7GtAn-vL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B097ZNSK53?tag=noya0b-20"
-        },
-        {
-          "asin": "B0B57VD8BW",
-          "slug": "c4-smart-energy-drink-boost-focus-and-energy-with-zero-sugar",
-          "title": "C4 Smart Energy Drink – Boost Focus and Energy with Zero Sugar, Natural Energy, and Nootropics - 200mg Caffeine - Black ",
-          "price": "$13.30",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81LT2hZ9hFL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0B57VD8BW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07QB79SN6",
-          "slug": "elikliv-microscope-lcd-digital-coin-microscope-1000x-coin-ma",
-          "title": "Elikliv Microscope, LCD Digital Coin Microscope 1000x, Coin Magnifier with 8 Adjustable LED Lights, PC View Compatible w",
-          "price": "$33.24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Men's Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61AjJNpELNL._AC_SL1254_.jpg",
-          "url": "https://www.amazon.com/dp/B07QB79SN6?tag=noya0b-20"
-        },
-        {
-          "asin": "B08GKRDKK5",
-          "slug": "kuailu-womens-arch-support-flip-flops-comfortable-yoga-mat-s",
-          "title": "KuaiLu Womens Arch Support Flip Flops Comfortable Yoga Mat Slip on Leather Walking Thong Cushion Sandals Summer Beach Or",
-          "price": "$14.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Women's Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71sOqqb4oML._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08GKRDKK5?tag=noya0b-20"
-        },
-        {
-          "asin": "1668067242",
-          "slug": "regime-change-inside-the-imperial-presidency-of-donald-trump",
-          "title": "Regime Change: Inside the Imperial Presidency of Donald Trump",
-          "price": "$23.78",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81F5-56CywL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/1668067242?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Watches and are updated daily."
+          "a": "The best deals today include \"LEGO Ideas Polaroid OneStep SX-70 Building Set for Adults - ...\" and 9 other hand-picked discounts. Deals span Toys & Kids, Home & Kitchen, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Toys & Kids and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T05:50:01.860Z",
-      "updatedAt": "2026-07-01T05:50:01.860Z"
+      "generatedAt": "2026-07-01T06:00:01.419Z",
+      "updatedAt": "2026-07-01T06:00:01.419Z"
     },
     {
       "date": "2026-06-30",
@@ -6216,5 +6213,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T05:50:01.863Z"
+  "generatedAt": "2026-07-01T06:00:01.422Z"
 }
