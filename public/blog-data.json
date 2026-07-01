@@ -4,18 +4,82 @@
       "date": "2026-07-01",
       "slug": "2026-07-01",
       "title": "🔥 Best Deals Today — July 1, 2026",
-      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, July 1, 2026 — 10 hand-picked discounts across Beauty, Luxury Beauty, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Home & Kitchen",
+        "Beauty",
+        "Luxury Beauty",
+        "Grocery & Food",
+        "Health",
         "Toys & Kids",
         "Sports & Fitness",
         "Electronics",
-        "Beauty",
         "Grocery",
-        "Cleaning Supplies"
+        "Other"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B08G5YPWR3",
+            "slug": "panama-jack-sunscreen-lip-balm-spf-45-flavor-pack-broad-spec",
+            "title": "Panama Jack Sunscreen Lip Balm - SPF 45, Flavor Pack, Broad Spectrum UVA-UVB Sunscreen Protection, Prevents & Soothes Dr",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81b81M9KmsL.jpg",
+            "url": "https://www.amazon.com/dp/B08G5YPWR3/ref=cm_sw_r_as_gl_apa_gl_i_0A3DB76Q87MSD0WCAY53?linkCode=ml1&tag=noya0b-20&linkId=bd6519da43e2d0b89c8d18dc0e04b35d"
+          },
+          {
+            "asin": "B00IEYFE7I",
+            "slug": "wet-n-wild-silk-finish-lipstick-hydrating-rich-buildable-lip",
+            "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated with Vitamins A,E, & Macadamia for Ultim",
+            "price": "$1.69",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51JFE6tFRrL.jpg",
+            "url": "https://www.amazon.com/dp/B00IEYFE7I?tag=noya0b-20"
+          }
+        ],
+        "Luxury Beauty": [
+          {
+            "asin": "B0DGG3Z6QY",
+            "slug": "cheyubny-joggers-for-women-sweatpants-women-baggy-wide-leg-h",
+            "title": "Cheyubny Joggers for Women Sweatpants Women Baggy Wide Leg High Waisted Sweatpants Joggers Sport Active Workout Jogger P",
+            "price": "$6.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ITKKkscNL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DGG3Z6QY?tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B076BYR9JP",
+            "slug": "grandmas-cookies-variety-pack-pack-of-30-grocery-gourmet-foo",
+            "title": "Grandma's Cookies, Variety Pack, (Pack of 30) : Grocery & Gourmet Food",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B076BYR9JP/ref=cm_sw_r_as_gl_apa_gl_i_59DW424SZNAFWYTRZ2QB?linkCode=ml1&tag=noya0b-20&linkId=2a10cc015fbfb62aa2bebdbc9706f48a"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B00DJUK8HS",
+            "slug": "preservision-areds-2-eye-vitamins-1-eye-doctor-recommended-b",
+            "title": "PreserVision AREDS 2 Eye Vitamins, #1 Eye Doctor Recommended Brand, Lutein and Zeaxanthin Supplement with Vitamin C, Vit",
+            "price": "$30.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/81H1kFYQefL.jpg",
+            "url": "https://www.amazon.com/dp/B00DJUK8HS?tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0DB2CXSSD",
@@ -55,19 +119,6 @@
             "url": "https://www.amazon.com/dp/B0D6WB7BV6/ref=cm_sw_r_as_gl_apa_gl_i_SKQ63BBDFVVNMVPJVHHS?linkCode=ml1&tag=noya0b-20&linkId=abbead09b918e16a3faf33489e757bb4"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B00IEYFE7I",
-            "slug": "wet-n-wild-silk-finish-lipstick-hydrating-rich-buildable-lip",
-            "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated with Vitamins A,E, & Macadamia for Ultim",
-            "price": "$1.69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51JFE6tFRrL.jpg",
-            "url": "https://www.amazon.com/dp/B00IEYFE7I?tag=noya0b-20"
-          }
-        ],
         "Grocery": [
           {
             "asin": "B002YKOXH0",
@@ -92,58 +143,54 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81kTn1vkmjL.jpg",
             "url": "https://www.amazon.com/dp/B0FK4T2F1F/ref=cm_sw_r_as_gl_apa_gl_i_JXFV1HBA7JE57J33Z1SE?linkCode=ml1&tag=noya0b-20&linkId=c1d970940da37c5b82a162f9aab74b0b"
-          },
-          {
-            "asin": "B0GT8JZRFK",
-            "slug": "moajaza-cordless-ankle-heating-pads-ankle-massager-with-heat",
-            "title": "MOAJAZA Cordless Ankle Heating Pads, Ankle Massager with Heat, Foot Massager for Neuropathy, Rechargeable Heated Ankle W",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71+K8UNSZLL.jpg",
-            "url": "https://www.amazon.com/dp/B0GT8JZRFK/ref=cm_sw_r_as_gl_apa_gl_i_dl_3NNGT7CAY0E249WH1HPN?linkCode=ml1&tag=noya0b-20&linkId=e0f60d01df36fac37b5f103905aee9bc"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B00BF4VUKO",
-            "slug": "dewalt-tool-organizer",
-            "title": "DEWALT Tool Organizer",
-            "price": "$36",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00BF4VUKO?th=1&linkCode=sl2&tag=noya0b-20&linkId=84ef3fd7dcd212439edb82945efaae28&language=en_US"
-          },
-          {
-            "asin": "B09WN2G323",
-            "slug": "citronella-essential-oil-mayjam-101floz-premium-citronella-o",
-            "title": "Citronella Essential Oil, MAYJAM 1.01FL.OZ Premium Citronella Oils for Soap Candle Making, Diffuser, Bedroom, Living Roo",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51nq78EQcdL.jpg",
-            "url": "https://www.amazon.com/dp/B09WN2G323/ref=cm_sw_r_as_gl_apa_gl_i_6YQE7MPZM6JXB7W7QPXS?linkCode=ml1&tag=noya0b-20&linkId=2dde29d7554105e680bec1d768a91d81"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0CKV4T3YX",
-            "slug": "cottonelle-ultra-clean-toilet-paper-9-mega-rolls-36-regular",
-            "title": "Cottonelle Ultra Clean Toilet Paper, 9 Mega Rolls = 36 Regular Rolls, Packaging May Vary : Everything Else",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CKV4T3YX/ref=cm_sw_r_as_gl_apa_gl_i_WN11SPX58RGG0CTW5A5B?linkCode=ml1&tag=noya0b-20&linkId=e26788a7589a0060374b0ad1e52aa139"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B08G5YPWR3",
+          "slug": "panama-jack-sunscreen-lip-balm-spf-45-flavor-pack-broad-spec",
+          "title": "Panama Jack Sunscreen Lip Balm - SPF 45, Flavor Pack, Broad Spectrum UVA-UVB Sunscreen Protection, Prevents & Soothes Dr",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81b81M9KmsL.jpg",
+          "url": "https://www.amazon.com/dp/B08G5YPWR3/ref=cm_sw_r_as_gl_apa_gl_i_0A3DB76Q87MSD0WCAY53?linkCode=ml1&tag=noya0b-20&linkId=bd6519da43e2d0b89c8d18dc0e04b35d"
+        },
+        {
+          "asin": "B0DGG3Z6QY",
+          "slug": "cheyubny-joggers-for-women-sweatpants-women-baggy-wide-leg-h",
+          "title": "Cheyubny Joggers for Women Sweatpants Women Baggy Wide Leg High Waisted Sweatpants Joggers Sport Active Workout Jogger P",
+          "price": "$6.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ITKKkscNL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DGG3Z6QY?tag=noya0b-20"
+        },
+        {
+          "asin": "B076BYR9JP",
+          "slug": "grandmas-cookies-variety-pack-pack-of-30-grocery-gourmet-foo",
+          "title": "Grandma's Cookies, Variety Pack, (Pack of 30) : Grocery & Gourmet Food",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B076BYR9JP/ref=cm_sw_r_as_gl_apa_gl_i_59DW424SZNAFWYTRZ2QB?linkCode=ml1&tag=noya0b-20&linkId=2a10cc015fbfb62aa2bebdbc9706f48a"
+        },
+        {
+          "asin": "B00DJUK8HS",
+          "slug": "preservision-areds-2-eye-vitamins-1-eye-doctor-recommended-b",
+          "title": "PreserVision AREDS 2 Eye Vitamins, #1 Eye Doctor Recommended Brand, Lutein and Zeaxanthin Supplement with Vitamin C, Vit",
+          "price": "$30.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/81H1kFYQefL.jpg",
+          "url": "https://www.amazon.com/dp/B00DJUK8HS?tag=noya0b-20"
+        },
         {
           "asin": "B0DB2CXSSD",
           "slug": "stuff-under-3-dollars-long-cardigan-oversized-cardigans-for",
@@ -209,60 +256,16 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81kTn1vkmjL.jpg",
           "url": "https://www.amazon.com/dp/B0FK4T2F1F/ref=cm_sw_r_as_gl_apa_gl_i_JXFV1HBA7JE57J33Z1SE?linkCode=ml1&tag=noya0b-20&linkId=c1d970940da37c5b82a162f9aab74b0b"
-        },
-        {
-          "asin": "B00BF4VUKO",
-          "slug": "dewalt-tool-organizer",
-          "title": "DEWALT Tool Organizer",
-          "price": "$36",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00BF4VUKO?th=1&linkCode=sl2&tag=noya0b-20&linkId=84ef3fd7dcd212439edb82945efaae28&language=en_US"
-        },
-        {
-          "asin": "B09WN2G323",
-          "slug": "citronella-essential-oil-mayjam-101floz-premium-citronella-o",
-          "title": "Citronella Essential Oil, MAYJAM 1.01FL.OZ Premium Citronella Oils for Soap Candle Making, Diffuser, Bedroom, Living Roo",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51nq78EQcdL.jpg",
-          "url": "https://www.amazon.com/dp/B09WN2G323/ref=cm_sw_r_as_gl_apa_gl_i_6YQE7MPZM6JXB7W7QPXS?linkCode=ml1&tag=noya0b-20&linkId=2dde29d7554105e680bec1d768a91d81"
-        },
-        {
-          "asin": "B0GT8JZRFK",
-          "slug": "moajaza-cordless-ankle-heating-pads-ankle-massager-with-heat",
-          "title": "MOAJAZA Cordless Ankle Heating Pads, Ankle Massager with Heat, Foot Massager for Neuropathy, Rechargeable Heated Ankle W",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+K8UNSZLL.jpg",
-          "url": "https://www.amazon.com/dp/B0GT8JZRFK/ref=cm_sw_r_as_gl_apa_gl_i_dl_3NNGT7CAY0E249WH1HPN?linkCode=ml1&tag=noya0b-20&linkId=e0f60d01df36fac37b5f103905aee9bc"
-        },
-        {
-          "asin": "B0CKV4T3YX",
-          "slug": "cottonelle-ultra-clean-toilet-paper-9-mega-rolls-36-regular",
-          "title": "Cottonelle Ultra Clean Toilet Paper, 9 Mega Rolls = 36 Regular Rolls, Packaging May Vary : Everything Else",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0CKV4T3YX/ref=cm_sw_r_as_gl_apa_gl_i_WN11SPX58RGG0CTW5A5B?linkCode=ml1&tag=noya0b-20&linkId=e26788a7589a0060374b0ad1e52aa139"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 1, 2026?",
-          "a": "The best deals today include \"Stuff Under 3 Dollars Long Cardigan Oversized Cardigans for ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Panama Jack Sunscreen Lip Balm - SPF 45, Flavor Pack, Broad ...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +280,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-01T04:50:01.992Z",
-      "updatedAt": "2026-07-01T04:50:01.992Z"
+      "generatedAt": "2026-07-01T05:00:01.987Z",
+      "updatedAt": "2026-07-01T05:00:01.987Z"
     },
     {
       "date": "2026-06-30",
@@ -6216,5 +6219,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-01T04:50:01.995Z"
+  "generatedAt": "2026-07-01T05:00:01.989Z"
 }
