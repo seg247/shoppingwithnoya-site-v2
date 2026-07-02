@@ -4,15 +4,15 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Electronics, Free Deal and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Beauty, Electronics and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
+        "Beauty",
         "Electronics",
         "Free Deal",
-        "Fashion",
-        "Beauty",
-        "Home & Kitchen",
-        "Pet Supplies"
+        "Health",
+        "Garden & Outdoor",
+        "Fashion"
       ],
       "byCategory": {
         "Free Deal": [
@@ -50,17 +50,80 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81uXaAHPrFL.jpg",
             "url": "https://www.amazon.com/dp/B0G6HDF6ZH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=91d08b351116ffafb5b7fe1cccaf081e&language=en_US"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B0FHX7MS5K",
-            "slug": "simple-modern-halloween-40-oz-trek-tumbler-with-handle-and-s",
-            "title": "Simple Modern Halloween 40 oz Trek Tumbler with Handle and Straw Lid | Nightmare Before Christmas Cup Holder Friendly In",
-            "price": "$16",
+            "asin": "B0CDNS17PB",
+            "slug": "nivea-skin-firming-melanin-beauty-hydration-body-lotion-with",
+            "title": "NIVEA Skin Firming Melanin Beauty & Hydration Body Lotion with Q10 and Argan Oil, Firmer Skin in as Little As Seven Days",
+            "price": "$5",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51bgXeaBqDL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FHX7MS5K?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3a613e3f9303f4a10b2b9df59405d2c9&language=en_US"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61HzdsBl14L.jpg",
+            "url": "https://www.amazon.com/dp/B0CDNS17PB?lv=shuf&ascsubtag=srctok-0a98206bbde246a6&btn_ref=srctok-0a98206bbde246a6&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e8f44d267a3b5886221a5600d176f996&language=en_US"
+          },
+          {
+            "asin": "B01LPRX3X2",
+            "slug": "almay-all-day-eyeliner-pencil-smudge-proof-waterproof-eye-ma",
+            "title": "Almay All-Day Eyeliner Pencil, Smudge Proof, Waterproof Eye Makeup, Hypoallergenic, Built-In Sharpener, 205 Black, 0.01 ",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Fr10JecEL.jpg",
+            "url": "https://www.amazon.com/dp/B01LPRX3X2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=10f5e916f58b1dd96e749f48a8f519db&language=en_US"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B00T4D0CQQ",
+            "slug": "pure-protein-powder-whey-high-protein-low-sugar-gluten-free",
+            "title": "Pure Protein Powder, Whey, High Protein, Low Sugar, Gluten Free, Vanilla Cream, 1.75 lbs : Health & Household",
+            "price": "$36.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ULD9DBsaL.jpg",
+            "url": "https://www.amazon.com/dp/B00T4D0CQQ?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B094YHJJVG",
+            "slug": "amazon-basics-outdoor-smart-plug-with-2-individually-control",
+            "title": "Amazon Basics Outdoor Smart Plug with 2 Individually Controlled Outlets, Works with Alexa Only, Voice Control, Weather R",
+            "price": "$23.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61XLOcCypdL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B094YHJJVG?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DD41G2NZ",
+            "slug": "tozo-nc9-hybrid-active-noise-cancelling-wireless-earbuds-6-m",
+            "title": "TOZO NC9 Hybrid Active Noise Cancelling Wireless Earbuds, 6 Mics ENC Clear Call, IPX8 Waterproof, in Ear Bluetooth 5.3 H",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/818Tszb+hNL.jpg",
+            "url": "https://www.amazon.com/dp/B0DD41G2NZ?tag=noya0b-20"
+          },
+          {
+            "asin": "B09LYF2ST7",
+            "slug": "beribes-bluetooth-headphones-over-ear-65h-playtime-and-6-eq",
+            "title": "BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stere",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71F2ccIPPLL.jpg",
+            "url": "https://www.amazon.com/dp/B09LYF2ST7?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -74,69 +137,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81CItZ739LL.jpg",
             "url": "https://www.amazon.com/dp/B0CVHHHBCL?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=8eb59556f1f79cf7ac2b478a32c86abb&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B09LYF2ST7",
-            "slug": "beribes-bluetooth-headphones-over-ear-65h-playtime-and-6-eq",
-            "title": "BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stere",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71F2ccIPPLL.jpg",
-            "url": "https://www.amazon.com/dp/B09LYF2ST7?tag=noya0b-20"
-          },
-          {
-            "asin": "B00Q3I8H80",
-            "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
-            "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S",
-            "price": "$13.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B01LPRX3X2",
-            "slug": "almay-all-day-eyeliner-pencil-smudge-proof-waterproof-eye-ma",
-            "title": "Almay All-Day Eyeliner Pencil, Smudge Proof, Waterproof Eye Makeup, Hypoallergenic, Built-In Sharpener, 205 Black, 0.01 ",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Fr10JecEL.jpg",
-            "url": "https://www.amazon.com/dp/B01LPRX3X2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=10f5e916f58b1dd96e749f48a8f519db&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0B9678Z4L",
-            "slug": "price-drop-23xx-large-room-air-purifier",
-            "title": "PRICE DROP! $23.xx Large Room Air Purifier!",
-            "price": "$23",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ETdkxIfAL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0B9678Z4L?th=1&linkCode=sl1&tag=noya0b-20&linkId=df6652fcbd8b0c8a0d676cdb159ba423&language=en_US"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B08N42RQ97",
-            "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
-            "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
-            "price": "$15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/61lI3iTvRdL.jpg",
-            "url": "https://www.amazon.com/dp/B08N42RQ97?tag=noya0b-20"
           }
         ]
       },
@@ -175,6 +175,50 @@
           "url": "https://www.amazon.com/dp/B0G6HDF6ZH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=91d08b351116ffafb5b7fe1cccaf081e&language=en_US"
         },
         {
+          "asin": "B0CDNS17PB",
+          "slug": "nivea-skin-firming-melanin-beauty-hydration-body-lotion-with",
+          "title": "NIVEA Skin Firming Melanin Beauty & Hydration Body Lotion with Q10 and Argan Oil, Firmer Skin in as Little As Seven Days",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61HzdsBl14L.jpg",
+          "url": "https://www.amazon.com/dp/B0CDNS17PB?lv=shuf&ascsubtag=srctok-0a98206bbde246a6&btn_ref=srctok-0a98206bbde246a6&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e8f44d267a3b5886221a5600d176f996&language=en_US"
+        },
+        {
+          "asin": "B00T4D0CQQ",
+          "slug": "pure-protein-powder-whey-high-protein-low-sugar-gluten-free",
+          "title": "Pure Protein Powder, Whey, High Protein, Low Sugar, Gluten Free, Vanilla Cream, 1.75 lbs : Health & Household",
+          "price": "$36.79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ULD9DBsaL.jpg",
+          "url": "https://www.amazon.com/dp/B00T4D0CQQ?tag=noya0b-20"
+        },
+        {
+          "asin": "B094YHJJVG",
+          "slug": "amazon-basics-outdoor-smart-plug-with-2-individually-control",
+          "title": "Amazon Basics Outdoor Smart Plug with 2 Individually Controlled Outlets, Works with Alexa Only, Voice Control, Weather R",
+          "price": "$23.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61XLOcCypdL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B094YHJJVG?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DD41G2NZ",
+          "slug": "tozo-nc9-hybrid-active-noise-cancelling-wireless-earbuds-6-m",
+          "title": "TOZO NC9 Hybrid Active Noise Cancelling Wireless Earbuds, 6 Mics ENC Clear Call, IPX8 Waterproof, in Ear Bluetooth 5.3 H",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/818Tszb+hNL.jpg",
+          "url": "https://www.amazon.com/dp/B0DD41G2NZ?tag=noya0b-20"
+        },
+        {
           "asin": "B0CVHHHBCL",
           "slug": "monster-high-draculaura-fashion-tutu-set-amazon-exclusive-3",
           "title": "Monster High Draculaura Fashion Tutu Set Amazon Exclusive, 3-Pieces, 4-6X, Dress Up and Pretend Play, Pink, Kids Toys fo",
@@ -206,56 +250,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71Fr10JecEL.jpg",
           "url": "https://www.amazon.com/dp/B01LPRX3X2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=10f5e916f58b1dd96e749f48a8f519db&language=en_US"
-        },
-        {
-          "asin": "B0FHX7MS5K",
-          "slug": "simple-modern-halloween-40-oz-trek-tumbler-with-handle-and-s",
-          "title": "Simple Modern Halloween 40 oz Trek Tumbler with Handle and Straw Lid | Nightmare Before Christmas Cup Holder Friendly In",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51bgXeaBqDL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FHX7MS5K?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3a613e3f9303f4a10b2b9df59405d2c9&language=en_US"
-        },
-        {
-          "asin": "B0B9678Z4L",
-          "slug": "price-drop-23xx-large-room-air-purifier",
-          "title": "PRICE DROP! $23.xx Large Room Air Purifier!",
-          "price": "$23",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ETdkxIfAL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0B9678Z4L?th=1&linkCode=sl1&tag=noya0b-20&linkId=df6652fcbd8b0c8a0d676cdb159ba423&language=en_US"
-        },
-        {
-          "asin": "B00Q3I8H80",
-          "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
-          "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S",
-          "price": "$13.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-        },
-        {
-          "asin": "B08N42RQ97",
-          "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
-          "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/61lI3iTvRdL.jpg",
-          "url": "https://www.amazon.com/dp/B08N42RQ97?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Free Deal and are updated daily."
+          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T17:00:02.094Z",
-      "updatedAt": "2026-07-02T17:00:02.094Z"
+      "generatedAt": "2026-07-02T17:10:02.103Z",
+      "updatedAt": "2026-07-02T17:10:02.104Z"
     },
     {
       "date": "2026-07-01",
@@ -6484,5 +6484,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T17:00:02.098Z"
+  "generatedAt": "2026-07-02T17:10:02.106Z"
 }
