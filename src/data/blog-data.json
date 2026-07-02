@@ -4,18 +4,41 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Pet Supplies, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Electronics, Home & Kitchen, Pet Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Electronics",
         "Home & Kitchen",
         "Pet Supplies",
-        "Beauty",
-        "Electronics",
-        "Garden & Outdoor",
         "Grocery & Food",
-        "Other"
+        "Tools & Hardware",
+        "Beauty"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0025UOO1Y",
+            "slug": "motts-no-sugar-added-applesauce-39-oz-cups-72-count-12-packs",
+            "title": "Mott's No Sugar Added Applesauce, 3.9 Oz Cups, 72 Count (12 Packs Of 6), Good Source Of Vitamin C, No Artificial Flavors",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81wS8iE9kbL.jpg",
+            "url": "https://www.amazon.com/dp/B0025UOO1Y/ref=cm_sw_r_as_gl_api_gl_i_GNJXBZZBB5MTJ8ZC512B?linkCode=ml1&tag=noya0b-20&linkId=db2f844c498087c16d3da593349710e1"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0F58T7L5J",
+            "slug": "greenpan-x-bobby-flay-2-piece-8-and-10-nonstick-frying-pan-s",
+            "title": "GreenPan x Bobby Flay 2 Piece- 8” and 10” Nonstick Frying Pan Skillet Set, PFAS-Free Diamond Ceramic, Induction Suitable",
+            "price": "$35.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vcZUgHnAL.jpg",
+            "url": "https://www.amazon.com/dp/B0F58T7L5J?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B0BCJ312LZ",
             "slug": "craftsman-v20-cordless-personal-fan-kit-misting-fan-settings",
@@ -26,20 +49,44 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/712DtphfDXL.jpg",
             "url": "https://www.amazon.com/dp/B0BCJ312LZ/ref=cm_sw_r_as_gl_api_gl_i_81NVWWX8VZK8AKDYNQ8F?linkCode=ml1&tag=noya0b-20&linkId=3cfc89f27c9c686332b0f1d88fec52be"
-          },
+          }
+        ],
+        "Tools & Hardware": [
           {
-            "asin": "B0FR5GZDFC",
-            "slug": "evenflo-shyft-dualride-infant-car-seat-stroller-combo-w-carr",
-            "title": "Evenflo Shyft DualRide Infant Car Seat Stroller Combo w Carryall Storage and Green & Gentle Fabric (Agate) : Baby",
-            "price": "$399",
+            "asin": "B09TXZNNJ9",
+            "slug": "milwaukee-48-39-0631-30-916-1214-tpi-compact-extreme-thick-m",
+            "title": "Milwaukee 48-39-0631 30-9/16\" 12/14 TPI Compact Extreme Thick Metal Band Saw Blade 3 Pack",
+            "price": "$18",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PHHFXQalL.jpg",
-            "url": "https://www.amazon.com/dp/B0FR5GZDFC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5d4f1aa9076e181e869771b8bb9360aa&language=en_US"
+            "category": "Tools & Hardware",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B09TXZNNJ9/ref=cm_sw_r_as_gl_api_gl_i_ECS7XQVN4VNW06K0ZJ08?linkCode=ml1&tag=noya0b-20&linkId=6e7faf58891459811976e8548ebebcd0"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B08TX1N211",
+            "slug": "wireless-earbuds-active-noise-cancelling",
+            "title": "Wireless Earbuds Active Noise Cancelling",
+            "price": "$55.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS.jpg",
+            "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
+          },
+          {
+            "asin": "B09BF64J55",
+            "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
+            "title": "KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wireless Headphones with Microphone, Foldable Lightweight Headse",
+            "price": "$18.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL.jpg",
+            "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
+          },
           {
             "asin": "B0DGWQYNY8",
             "slug": "phone-holder-mount-bonus-cell-phones-accessories",
@@ -87,60 +134,65 @@
             "category": "Beauty",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00TPRG5D0?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B014TMYBFO",
-            "slug": "burts-bees-for-pets-waterless-cat-shampoo-spray-no-rinse-cat",
-            "title": "Burt's Bees for Pets Waterless Cat Shampoo Spray, No-Rinse Cat Dry Shampoo with Shea Butter & Honey for Gentle Cleaning ",
-            "price": "$6.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61h8hd2y+QL.jpg",
-            "url": "https://www.amazon.com/dp/B014TMYBFO?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B007PJ6V7A",
-            "slug": "great-deal-furniture-outdoorindoor-antique-green-stone-finis",
-            "title": "Great Deal Furniture Outdoor/Indoor Antique Green Stone Finish Planter/Urn, 26\" : Patio, Lawn & Garden",
-            "price": "$150.26",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ptTpIKIBL.jpg",
-            "url": "https://www.amazon.com/dp/B007PJ6V7A?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B01KKEECLS",
-            "slug": "pbfit-30-ounce-classic-peanut-butter-powder-powdered-peanut",
-            "title": "PBfit 30 Ounce Classic Peanut Butter Powder, Powdered Peanut Butter Spread From Real Roasted Peanuts, 8g of Protein 8% D",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71SNReCr5OL.jpg",
-            "url": "https://www.amazon.com/dp/B01KKEECLS/ref=cm_sw_r_as_gl_api_gl_i_CT58QRGRDYBMSEMX9FFZ?linkCode=ml1&tag=noya0b-20&linkId=87a32f7883a628a7c76d9250e58bd4dd"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B01IQ00B04",
-            "slug": "betterbody-foods-refined-avocado-oil-non-gmo-cooking-oil-kos",
-            "title": "BetterBody Foods Refined Avocado Oil, Non-GMO Cooking Oil, Kosher, Keto and Paleo Diet Friendly, Frying, Baking, 500 mL,",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01IQ00B04/ref=cm_sw_r_as_gl_api_gl_i_9YFYSK8M6J971ZKF2SF3?linkCode=ml1&tag=noya0b-20&linkId=0fd1b8aa9f26a89a9e016a989c391747"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0025UOO1Y",
+          "slug": "motts-no-sugar-added-applesauce-39-oz-cups-72-count-12-packs",
+          "title": "Mott's No Sugar Added Applesauce, 3.9 Oz Cups, 72 Count (12 Packs Of 6), Good Source Of Vitamin C, No Artificial Flavors",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81wS8iE9kbL.jpg",
+          "url": "https://www.amazon.com/dp/B0025UOO1Y/ref=cm_sw_r_as_gl_api_gl_i_GNJXBZZBB5MTJ8ZC512B?linkCode=ml1&tag=noya0b-20&linkId=db2f844c498087c16d3da593349710e1"
+        },
+        {
+          "asin": "B0F58T7L5J",
+          "slug": "greenpan-x-bobby-flay-2-piece-8-and-10-nonstick-frying-pan-s",
+          "title": "GreenPan x Bobby Flay 2 Piece- 8” and 10” Nonstick Frying Pan Skillet Set, PFAS-Free Diamond Ceramic, Induction Suitable",
+          "price": "$35.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vcZUgHnAL.jpg",
+          "url": "https://www.amazon.com/dp/B0F58T7L5J?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B09TXZNNJ9",
+          "slug": "milwaukee-48-39-0631-30-916-1214-tpi-compact-extreme-thick-m",
+          "title": "Milwaukee 48-39-0631 30-9/16\" 12/14 TPI Compact Extreme Thick Metal Band Saw Blade 3 Pack",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B09TXZNNJ9/ref=cm_sw_r_as_gl_api_gl_i_ECS7XQVN4VNW06K0ZJ08?linkCode=ml1&tag=noya0b-20&linkId=6e7faf58891459811976e8548ebebcd0"
+        },
+        {
+          "asin": "B08TX1N211",
+          "slug": "wireless-earbuds-active-noise-cancelling",
+          "title": "Wireless Earbuds Active Noise Cancelling",
+          "price": "$55.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS.jpg",
+          "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
+        },
+        {
+          "asin": "B09BF64J55",
+          "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
+          "title": "KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wireless Headphones with Microphone, Foldable Lightweight Headse",
+          "price": "$18.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL.jpg",
+          "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
+        },
         {
           "asin": "B0BCJ312LZ",
           "slug": "craftsman-v20-cordless-personal-fan-kit-misting-fan-settings",
@@ -195,71 +247,16 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00TPRG5D0?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B007PJ6V7A",
-          "slug": "great-deal-furniture-outdoorindoor-antique-green-stone-finis",
-          "title": "Great Deal Furniture Outdoor/Indoor Antique Green Stone Finish Planter/Urn, 26\" : Patio, Lawn & Garden",
-          "price": "$150.26",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ptTpIKIBL.jpg",
-          "url": "https://www.amazon.com/dp/B007PJ6V7A?tag=noya0b-20"
-        },
-        {
-          "asin": "B01KKEECLS",
-          "slug": "pbfit-30-ounce-classic-peanut-butter-powder-powdered-peanut",
-          "title": "PBfit 30 Ounce Classic Peanut Butter Powder, Powdered Peanut Butter Spread From Real Roasted Peanuts, 8g of Protein 8% D",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71SNReCr5OL.jpg",
-          "url": "https://www.amazon.com/dp/B01KKEECLS/ref=cm_sw_r_as_gl_api_gl_i_CT58QRGRDYBMSEMX9FFZ?linkCode=ml1&tag=noya0b-20&linkId=87a32f7883a628a7c76d9250e58bd4dd"
-        },
-        {
-          "asin": "B0FR5GZDFC",
-          "slug": "evenflo-shyft-dualride-infant-car-seat-stroller-combo-w-carr",
-          "title": "Evenflo Shyft DualRide Infant Car Seat Stroller Combo w Carryall Storage and Green & Gentle Fabric (Agate) : Baby",
-          "price": "$399",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61PHHFXQalL.jpg",
-          "url": "https://www.amazon.com/dp/B0FR5GZDFC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5d4f1aa9076e181e869771b8bb9360aa&language=en_US"
-        },
-        {
-          "asin": "B01IQ00B04",
-          "slug": "betterbody-foods-refined-avocado-oil-non-gmo-cooking-oil-kos",
-          "title": "BetterBody Foods Refined Avocado Oil, Non-GMO Cooking Oil, Kosher, Keto and Paleo Diet Friendly, Frying, Baking, 500 mL,",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01IQ00B04/ref=cm_sw_r_as_gl_api_gl_i_9YFYSK8M6J971ZKF2SF3?linkCode=ml1&tag=noya0b-20&linkId=0fd1b8aa9f26a89a9e016a989c391747"
-        },
-        {
-          "asin": "B014TMYBFO",
-          "slug": "burts-bees-for-pets-waterless-cat-shampoo-spray-no-rinse-cat",
-          "title": "Burt's Bees for Pets Waterless Cat Shampoo Spray, No-Rinse Cat Dry Shampoo with Shea Butter & Honey for Gentle Cleaning ",
-          "price": "$6.59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61h8hd2y+QL.jpg",
-          "url": "https://www.amazon.com/dp/B014TMYBFO?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"Craftsman V20 Cordless Personal Fan Kit, Misting Fan, Settin...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Pet Supplies, Beauty and are updated daily."
+          "a": "The best deals today include \"Mott's No Sugar Added Applesauce, 3.9 Oz Cups, 72 Count (12 ...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T11:00:01.529Z",
-      "updatedAt": "2026-07-02T11:00:01.529Z"
+      "generatedAt": "2026-07-02T11:10:01.772Z",
+      "updatedAt": "2026-07-02T11:10:01.772Z"
     },
     {
       "date": "2026-07-01",
@@ -6484,5 +6481,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T11:00:01.532Z"
+  "generatedAt": "2026-07-02T11:10:01.775Z"
 }
