@@ -4,15 +4,14 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "💄 Best Beauty Deals Today — July 2, 2026",
-      "intro": "Today's best beauty deals for Thursday, July 2, 2026 — 30 hand-picked discounts on Skincare, Fragrance, Makeup and more. The best beauty discount today is 67% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Thursday, July 2, 2026 — 30 hand-picked discounts on Skincare, Fragrance, Body Care and more. The best beauty discount today is 67% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
         "Skincare",
         "Fragrance",
-        "Makeup",
         "Body Care",
+        "Makeup",
         "Hair Care",
-        "Nails",
-        "Beauty"
+        "Nails"
       ],
       "bySubcat": {
         "Skincare": [
@@ -149,7 +148,69 @@
             "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
           }
         ],
+        "Body Care": [
+          {
+            "asin": "B00TJ6WLN0",
+            "slug": "mitchum-womens-antiperspirant-deodorant-gel-stick-shower-fre",
+            "title": "Mitchum Women’s Antiperspirant Deodorant Gel Stick, Shower Fresh Scent, 48HR Sweat & Odor Protection, Triple Odor Defens",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/711Fbu1oenL.jpg",
+            "url": "https://www.amazon.com/dp/B00TJ6WLN0/ref=cm_sw_r_as_gl_api_gl_i_X9F1ZMYMNMVZEF5SKT0F?linkCode=ml1&tag=noya0b-20&linkId=151817d91ba4323a502fe458500f7c16"
+          },
+          {
+            "asin": "B00EO23OKI",
+            "slug": "mitchum-mens-triple-odor-protection-antiperspirant-deodorant",
+            "title": "Mitchum Men’s Triple Odor Protection Antiperspirant & Deodorant Gel, Unscented, 48HR Protection, 2 pack : Beauty & Perso",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YqLxJOHEL.jpg",
+            "url": "https://www.amazon.com/dp/B00EO23OKI/ref=cm_sw_r_as_gl_api_gl_i_04KZWWH7SDV4YYGG7417?linkCode=ml1&tag=noya0b-20&linkId=59ae83681db216cea422884d28ad1e4c"
+          },
+          {
+            "asin": "B00JJWYHBI",
+            "slug": "hempz-body-lotion-green-tea-and-asian-pear-daily-moisturizin",
+            "title": "HEMPZ Body Lotion - Green Tea and Asian Pear - Daily Moisturizing Cream - 17oz : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61DnShELbdL.jpg",
+            "url": "https://www.amazon.com/dp/B00JJWYHBI/ref=cm_sw_r_as_gl_apa_gl_i_X06A5W6MEXYKEQ9B6C3B?linkCode=ml1&tag=noya0b-20&linkId=3e3db7a37e523f9bde1c8a237ffd6102"
+          },
+          {
+            "asin": "B0F997QX28",
+            "slug": "aveeno-sensitive-skin-essentials-gift-set-with-daily-moistur",
+            "title": "Aveeno Sensitive Skin Essentials Gift Set with Daily Moisturizing Lotion, Moisturizing Body Wash, Calm and Restore Makeu",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0F997QX28/ref=cm_sw_r_as_gl_apa_gl_i_dl_FWQFY0GXG0BFJN9DNM5N?linkCode=ml1&tag=noya0b-20&linkId=dffcf429cded42de8988f434577df20b"
+          },
+          {
+            "asin": "B0FV12Z52T",
+            "slug": "summers-eve-simply-sensitive-whole-body-deodorant-for-women",
+            "title": "Summer's Eve Simply Sensitive Whole Body Deodorant for Women, Aluminum-Free Ultimate Odor Control Cream, 3 Oz (Pack of 2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YoRkugzzL.jpg",
+            "url": "https://www.amazon.com/dp/B0FV12Z52T/ref=cm_sw_r_as_gl_apa_gl_i_EYQ7XN2NW1MR6EG2AGPG?linkCode=ml1&tag=noya0b-20&linkId=90b8914edea4a2d17ea7dc1ededd5db2"
+          }
+        ],
         "Makeup": [
+          {
+            "asin": "B000U5TUQU",
+            "slug": "revlon-illuminance-creme-shadow-4-shades-skinlights-1-set-ey",
+            "title": "Revlon Illuminance Creme Shadow, 4 Shades, Skinlights - 1 set : Eye Shadows : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51RrN8eAX4L.jpg",
+            "url": "https://www.amazon.com/dp/B000U5TUQU/ref=cm_sw_r_as_gl_api_gl_i_MS7QD7H0GAXSRGPKYAJN?linkCode=ml1&tag=noya0b-20&linkId=b40700151ca5246746e741f94ccdce50"
+          },
           {
             "asin": "B0DXR1T4VS",
             "slug": "revlon-super-lustrous-glass-shine-balm-gift-set-3-piece-lips",
@@ -209,58 +270,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/51ZRHFbCc7L.jpg",
             "url": "https://www.amazon.com/dp/B077VHKM85?tag=noya0b-20"
-          },
-          {
-            "asin": "B07BJMC5B8",
-            "slug": "smashbox-the-cali-contour-palette-six-shade-contour-kit-with",
-            "title": "Smashbox The Cali Contour Palette | Six-Shade Contour Kit with Highlighter, Bronzer and Blush Powder for Face Contouring",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/712ZQ+n9HBL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07BJMC5B8/ref=cm_sw_r_as_gl_apa_gl_i_47PE6X6B3S0WHGH5P4PM?linkCode=ml1&tag=noya0b-20&linkId=72ddeaeae63a9cc03e2e2e22132063ad"
-          }
-        ],
-        "Body Care": [
-          {
-            "asin": "B00EO23OKI",
-            "slug": "mitchum-mens-triple-odor-protection-antiperspirant-deodorant",
-            "title": "Mitchum Men’s Triple Odor Protection Antiperspirant & Deodorant Gel, Unscented, 48HR Protection, 2 pack : Beauty & Perso",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YqLxJOHEL.jpg",
-            "url": "https://www.amazon.com/dp/B00EO23OKI/ref=cm_sw_r_as_gl_api_gl_i_04KZWWH7SDV4YYGG7417?linkCode=ml1&tag=noya0b-20&linkId=59ae83681db216cea422884d28ad1e4c"
-          },
-          {
-            "asin": "B00JJWYHBI",
-            "slug": "hempz-body-lotion-green-tea-and-asian-pear-daily-moisturizin",
-            "title": "HEMPZ Body Lotion - Green Tea and Asian Pear - Daily Moisturizing Cream - 17oz : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61DnShELbdL.jpg",
-            "url": "https://www.amazon.com/dp/B00JJWYHBI/ref=cm_sw_r_as_gl_apa_gl_i_X06A5W6MEXYKEQ9B6C3B?linkCode=ml1&tag=noya0b-20&linkId=3e3db7a37e523f9bde1c8a237ffd6102"
-          },
-          {
-            "asin": "B0F997QX28",
-            "slug": "aveeno-sensitive-skin-essentials-gift-set-with-daily-moistur",
-            "title": "Aveeno Sensitive Skin Essentials Gift Set with Daily Moisturizing Lotion, Moisturizing Body Wash, Calm and Restore Makeu",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0F997QX28/ref=cm_sw_r_as_gl_apa_gl_i_dl_FWQFY0GXG0BFJN9DNM5N?linkCode=ml1&tag=noya0b-20&linkId=dffcf429cded42de8988f434577df20b"
-          },
-          {
-            "asin": "B0FV12Z52T",
-            "slug": "summers-eve-simply-sensitive-whole-body-deodorant-for-women",
-            "title": "Summer's Eve Simply Sensitive Whole Body Deodorant for Women, Aluminum-Free Ultimate Odor Control Cream, 3 Oz (Pack of 2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YoRkugzzL.jpg",
-            "url": "https://www.amazon.com/dp/B0FV12Z52T/ref=cm_sw_r_as_gl_apa_gl_i_EYQ7XN2NW1MR6EG2AGPG?linkCode=ml1&tag=noya0b-20&linkId=90b8914edea4a2d17ea7dc1ededd5db2"
           }
         ],
         "Hair Care": [
@@ -315,18 +324,6 @@
             "subcat": "Nails",
             "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL.jpg",
             "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0GFP2BYSR",
-            "slug": "adjustable-arm-rest-for-car-forearm-wrist-support-cushion-un",
-            "title": "Adjustable Arm Rest for Car, Forearm Wrist Support Cushion - Universal Faux Leather Armrest for Most Car Models, Doors &",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vwKCPaR+L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GFP2BYSR?tag=noya0b-20"
           }
         ]
       },
@@ -400,6 +397,26 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HEiR+nNwL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GX652H5R?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B00TJ6WLN0",
+          "slug": "mitchum-womens-antiperspirant-deodorant-gel-stick-shower-fre",
+          "title": "Mitchum Women’s Antiperspirant Deodorant Gel Stick, Shower Fresh Scent, 48HR Sweat & Odor Protection, Triple Odor Defens",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/711Fbu1oenL.jpg",
+          "url": "https://www.amazon.com/dp/B00TJ6WLN0/ref=cm_sw_r_as_gl_api_gl_i_X9F1ZMYMNMVZEF5SKT0F?linkCode=ml1&tag=noya0b-20&linkId=151817d91ba4323a502fe458500f7c16"
+        },
+        {
+          "asin": "B000U5TUQU",
+          "slug": "revlon-illuminance-creme-shadow-4-shades-skinlights-1-set-ey",
+          "title": "Revlon Illuminance Creme Shadow, 4 Shades, Skinlights - 1 set : Eye Shadows : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/51RrN8eAX4L.jpg",
+          "url": "https://www.amazon.com/dp/B000U5TUQU/ref=cm_sw_r_as_gl_api_gl_i_MS7QD7H0GAXSRGPKYAJN?linkCode=ml1&tag=noya0b-20&linkId=b40700151ca5246746e741f94ccdce50"
         },
         {
           "asin": "B0DXR1T4VS",
@@ -610,26 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/51a-47Qd8bL.jpg",
           "url": "https://www.amazon.com/dp/B08NX67515?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFP2BYSR",
-          "slug": "adjustable-arm-rest-for-car-forearm-wrist-support-cushion-un",
-          "title": "Adjustable Arm Rest for Car, Forearm Wrist Support Cushion - Universal Faux Leather Armrest for Most Car Models, Doors &",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vwKCPaR+L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GFP2BYSR?tag=noya0b-20"
-        },
-        {
-          "asin": "B07BJMC5B8",
-          "slug": "smashbox-the-cali-contour-palette-six-shade-contour-kit-with",
-          "title": "Smashbox The Cali Contour Palette | Six-Shade Contour Kit with Highlighter, Bronzer and Blush Powder for Face Contouring",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/712ZQ+n9HBL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07BJMC5B8/ref=cm_sw_r_as_gl_apa_gl_i_47PE6X6B3S0WHGH5P4PM?linkCode=ml1&tag=noya0b-20&linkId=72ddeaeae63a9cc03e2e2e22132063ad"
         }
       ],
       "featuredDeal": {
@@ -649,7 +646,7 @@
       "faq": [
         {
           "q": "What are the best beauty deals today on July 2, 2026?",
-          "a": "The top beauty deals today include \"MAREE Vitamin C Toner Pads for Face – Brightening Facial Pol...\" and 29 other hand-picked discounts across Skincare, Fragrance, Makeup."
+          "a": "The top beauty deals today include \"MAREE Vitamin C Toner Pads for Face – Brightening Facial Pol...\" and 29 other hand-picked discounts across Skincare, Fragrance, Body Care."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -657,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include REVLON Super Lustrous Glass Shine Balm Gift Set, 3 and All in One Makeup Kit for Women Eyeshadow Eyeliner and more."
+          "a": "Yes! Today's makeup deals include Revlon Illuminance Creme Shadow, 4 Shades, Skinlig and REVLON Super Lustrous Glass Shine Balm Gift Set, 3 and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -668,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-02T09:10:04.441Z",
-      "updatedAt": "2026-07-02T09:10:04.441Z"
+      "generatedAt": "2026-07-02T09:20:05.017Z",
+      "updatedAt": "2026-07-02T09:20:05.017Z"
     },
     {
       "date": "2026-07-01",
@@ -14203,5 +14200,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-02T09:10:04.446Z"
+  "generatedAt": "2026-07-02T09:20:05.022Z"
 }
