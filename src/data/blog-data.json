@@ -4,15 +4,78 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Fashion",
         "Beauty",
-        "Grocery & Food",
-        "Other"
+        "Women's Fashion",
+        "Other",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B07S1WP26M",
+            "slug": "tresemm-smooth-and-silky-conditioner-with-pump-39-oz-beauty",
+            "title": "TRESemmé Smooth and Silky Conditioner with Pump, 39 oz : Beauty & Personal Care",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07S1WP26M/ref=cm_sw_r_as_gl_api_gl_i_FYPFXB21KQKQ5KWBPXQ4?linkCode=ml1&tag=noya0b-20&linkId=0682c78229d7593adc707ebd5ccd33eb"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B09HL2PN1S",
+            "slug": "polo-ralph-lauren-double-knit-tech-fleece-hoodie-black-2xl-a",
+            "title": "POLO RALPH LAUREN Double Knit Tech Fleece Hoodie Black 2XL at Amazon Men’s Clothing store",
+            "price": "$272.20",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71pB2yfpshL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09HL2PN1S?tag=noya0b-20"
+          },
+          {
+            "asin": "B078K4XNXH",
+            "slug": "wetike-mesh-slip-on-lightweight-athletic-shoes-black-size-9",
+            "title": "WETIKE Mesh Slip On Lightweight Athletic Shoes, Black Size 9 Toddler | Running",
+            "price": "$18.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81nb86WHNUL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B078K4XNXH?tag=noya0b-20"
+          }
+        ],
+        "Women's Fashion": [
+          {
+            "asin": "B0FW492VNC",
+            "slug": "anrabess-womens-tops-34-sleeve-casual-henley-shirts-v-neck-b",
+            "title": "ANRABESS Womens Tops 3/4 Sleeve Casual Henley Shirts V Neck Buttons Dressy Work Business Blouses 2026 Spring Trendy Clot",
+            "price": "$13.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Women's Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/91jtiGE77vL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FW492VNC?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B07H5T2T2S",
+            "slug": "cuisinart-electric-knife-set-with-cutting-board-electric-kni",
+            "title": "Cuisinart Electric Knife Set with Cutting Board, Electric Knife for Meat Slicing and Bread Slicing, Includes Bamboo Cutt",
+            "price": "$64.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81XL2u0P+fL.jpg",
+            "url": "https://www.amazon.com/dp/B07H5T2T2S?tag=noya0b-20"
+          },
           {
             "asin": "B0CHRNM2YF",
             "slug": "ctsnslh-4-tier-plastic-storage-bins-with-lid-23qt-stackable",
@@ -45,17 +108,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81tblZJ2vuL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DFPBJBLC?tag=noya0b-20"
-          },
-          {
-            "asin": "B06Y1YD5W7",
-            "slug": "instant-pot-duo-7-in-1-mini-electric-pressure-cooker-slow-ri",
-            "title": "Instant Pot Duo 7-in-1 Mini Electric Pressure Cooker, Slow Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilize",
-            "price": "$89.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lX5BofA0L.jpg",
-            "url": "https://www.amazon.com/dp/B06Y1YD5W7?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -82,56 +134,65 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81D1-U4kEPL.jpg",
             "url": "https://www.amazon.com/dp/B01GTNVWYY/ref=cm_sw_r_as_gl_api_gl_i_AKWBBD7GSEKKR9NJBAE0?linkCode=ml1&tag=noya0b-20&linkId=7c4e6771f993eee309c3656794ba433d"
-          },
-          {
-            "asin": "B000WKXTME",
-            "slug": "reeses-pieces-peanut-butter-in-a-crunchy-shell-candy-boxes-4",
-            "title": "REESE'S PIECES Peanut Butter in a Crunchy Shell, Candy Boxes, 4 oz (12 Count)",
-            "price": "$15.10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71XZ4alnDGL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B000WKXTME?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00TJ6WLN0",
-            "slug": "mitchum-womens-antiperspirant-deodorant-gel-stick-shower-fre",
-            "title": "Mitchum Women’s Antiperspirant Deodorant Gel Stick, Shower Fresh Scent, 48HR Sweat & Odor Protection, Triple Odor Defens",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/711Fbu1oenL.jpg",
-            "url": "https://www.amazon.com/dp/B00TJ6WLN0/ref=cm_sw_r_as_gl_api_gl_i_X9F1ZMYMNMVZEF5SKT0F?linkCode=ml1&tag=noya0b-20&linkId=151817d91ba4323a502fe458500f7c16"
-          },
-          {
-            "asin": "B000U5TUQU",
-            "slug": "revlon-illuminance-creme-shadow-4-shades-skinlights-1-set-ey",
-            "title": "Revlon Illuminance Creme Shadow, 4 Shades, Skinlights - 1 set : Eye Shadows : Beauty & Personal Care",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51RrN8eAX4L.jpg",
-            "url": "https://www.amazon.com/dp/B000U5TUQU/ref=cm_sw_r_as_gl_api_gl_i_MS7QD7H0GAXSRGPKYAJN?linkCode=ml1&tag=noya0b-20&linkId=b40700151ca5246746e741f94ccdce50"
-          },
-          {
-            "asin": "B0DXR1T4VS",
-            "slug": "revlon-super-lustrous-glass-shine-balm-gift-set-3-piece-lips",
-            "title": "REVLON Super Lustrous Glass Shine Balm Gift Set, 3-Piece, Lipstick Multipack, Hydrating Tinted, Sheer Glossy Finish, 003",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61B2hlnDaEL.jpg",
-            "url": "https://www.amazon.com/dp/B0DXR1T4VS/ref=cm_sw_r_as_gl_api_gl_i_MRA1MKGT9JXPJ0V8V6RC?linkCode=ml1&tag=noya0b-20&linkId=f899157bf669f8eb262ad9ed1377651a"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B07S1WP26M",
+          "slug": "tresemm-smooth-and-silky-conditioner-with-pump-39-oz-beauty",
+          "title": "TRESemmé Smooth and Silky Conditioner with Pump, 39 oz : Beauty & Personal Care",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07S1WP26M/ref=cm_sw_r_as_gl_api_gl_i_FYPFXB21KQKQ5KWBPXQ4?linkCode=ml1&tag=noya0b-20&linkId=0682c78229d7593adc707ebd5ccd33eb"
+        },
+        {
+          "asin": "B09HL2PN1S",
+          "slug": "polo-ralph-lauren-double-knit-tech-fleece-hoodie-black-2xl-a",
+          "title": "POLO RALPH LAUREN Double Knit Tech Fleece Hoodie Black 2XL at Amazon Men’s Clothing store",
+          "price": "$272.20",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pB2yfpshL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09HL2PN1S?tag=noya0b-20"
+        },
+        {
+          "asin": "B078K4XNXH",
+          "slug": "wetike-mesh-slip-on-lightweight-athletic-shoes-black-size-9",
+          "title": "WETIKE Mesh Slip On Lightweight Athletic Shoes, Black Size 9 Toddler | Running",
+          "price": "$18.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81nb86WHNUL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B078K4XNXH?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FW492VNC",
+          "slug": "anrabess-womens-tops-34-sleeve-casual-henley-shirts-v-neck-b",
+          "title": "ANRABESS Womens Tops 3/4 Sleeve Casual Henley Shirts V Neck Buttons Dressy Work Business Blouses 2026 Spring Trendy Clot",
+          "price": "$13.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Women's Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/91jtiGE77vL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FW492VNC?tag=noya0b-20"
+        },
+        {
+          "asin": "B07H5T2T2S",
+          "slug": "cuisinart-electric-knife-set-with-cutting-board-electric-kni",
+          "title": "Cuisinart Electric Knife Set with Cutting Board, Electric Knife for Meat Slicing and Bread Slicing, Includes Bamboo Cutt",
+          "price": "$64.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81XL2u0P+fL.jpg",
+          "url": "https://www.amazon.com/dp/B07H5T2T2S?tag=noya0b-20"
+        },
         {
           "asin": "B0CHRNM2YF",
           "slug": "ctsnslh-4-tier-plastic-storage-bins-with-lid-23qt-stackable",
@@ -186,67 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81D1-U4kEPL.jpg",
           "url": "https://www.amazon.com/dp/B01GTNVWYY/ref=cm_sw_r_as_gl_api_gl_i_AKWBBD7GSEKKR9NJBAE0?linkCode=ml1&tag=noya0b-20&linkId=7c4e6771f993eee309c3656794ba433d"
-        },
-        {
-          "asin": "B00TJ6WLN0",
-          "slug": "mitchum-womens-antiperspirant-deodorant-gel-stick-shower-fre",
-          "title": "Mitchum Women’s Antiperspirant Deodorant Gel Stick, Shower Fresh Scent, 48HR Sweat & Odor Protection, Triple Odor Defens",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/711Fbu1oenL.jpg",
-          "url": "https://www.amazon.com/dp/B00TJ6WLN0/ref=cm_sw_r_as_gl_api_gl_i_X9F1ZMYMNMVZEF5SKT0F?linkCode=ml1&tag=noya0b-20&linkId=151817d91ba4323a502fe458500f7c16"
-        },
-        {
-          "asin": "B000WKXTME",
-          "slug": "reeses-pieces-peanut-butter-in-a-crunchy-shell-candy-boxes-4",
-          "title": "REESE'S PIECES Peanut Butter in a Crunchy Shell, Candy Boxes, 4 oz (12 Count)",
-          "price": "$15.10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71XZ4alnDGL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B000WKXTME?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B000U5TUQU",
-          "slug": "revlon-illuminance-creme-shadow-4-shades-skinlights-1-set-ey",
-          "title": "Revlon Illuminance Creme Shadow, 4 Shades, Skinlights - 1 set : Eye Shadows : Beauty & Personal Care",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51RrN8eAX4L.jpg",
-          "url": "https://www.amazon.com/dp/B000U5TUQU/ref=cm_sw_r_as_gl_api_gl_i_MS7QD7H0GAXSRGPKYAJN?linkCode=ml1&tag=noya0b-20&linkId=b40700151ca5246746e741f94ccdce50"
-        },
-        {
-          "asin": "B06Y1YD5W7",
-          "slug": "instant-pot-duo-7-in-1-mini-electric-pressure-cooker-slow-ri",
-          "title": "Instant Pot Duo 7-in-1 Mini Electric Pressure Cooker, Slow Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilize",
-          "price": "$89.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lX5BofA0L.jpg",
-          "url": "https://www.amazon.com/dp/B06Y1YD5W7?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DXR1T4VS",
-          "slug": "revlon-super-lustrous-glass-shine-balm-gift-set-3-piece-lips",
-          "title": "REVLON Super Lustrous Glass Shine Balm Gift Set, 3-Piece, Lipstick Multipack, Hydrating Tinted, Sheer Glossy Finish, 003",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61B2hlnDaEL.jpg",
-          "url": "https://www.amazon.com/dp/B0DXR1T4VS/ref=cm_sw_r_as_gl_api_gl_i_MRA1MKGT9JXPJ0V8V6RC?linkCode=ml1&tag=noya0b-20&linkId=f899157bf669f8eb262ad9ed1377651a"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"CTSNSLH 4 Tier Plastic Storage Bins with Lid 23QT - Stackabl...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"TRESemmé Smooth and Silky Conditioner with Pump, 39 oz : Bea...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T09:30:01.709Z",
-      "updatedAt": "2026-07-02T09:30:01.709Z"
+      "generatedAt": "2026-07-02T09:40:01.865Z",
+      "updatedAt": "2026-07-02T09:40:01.865Z"
     },
     {
       "date": "2026-07-01",
@@ -6475,5 +6481,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T09:30:01.712Z"
+  "generatedAt": "2026-07-02T09:40:01.867Z"
 }
