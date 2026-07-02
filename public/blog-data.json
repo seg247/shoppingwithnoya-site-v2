@@ -4,12 +4,13 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Beauty, Grocery & Food, Other and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Beauty, Grocery & Food, Free Deal and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
         "Grocery & Food",
-        "Other",
         "Free Deal",
+        "Cleaning Supplies",
+        "Fashion",
         "Health",
         "Toys & Kids",
         "Home & Kitchen"
@@ -26,6 +27,32 @@
             "category": "Free Deal",
             "imageUrl": "https://m.media-amazon.com/images/I/91793lQxDfL.jpg",
             "url": "https://www.amazon.com/dp/B0F4RK2YTZ?tag=noya0b-20"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0B16SQK2T",
+            "slug": "hefty-ultra-strong-30-gallon-trash-bags-large-trash-bags-30",
+            "title": "Hefty Ultra Strong 30 Gallon Trash Bags, Large Trash Bags 30 Gallon Size, Multipurpose, Break Resistant Drawstring Closu",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81mJqV-J3BL.jpg",
+            "url": "https://www.amazon.com/dp/B0B16SQK2T/ref=cm_sw_r_as_gl_api_gl_i_Z78ETPWM75SZQ7CE956D?linkCode=ml1&tag=noya0b-20&linkId=cc9d1ccc8fd90a4c8b6adc81499e6c4a"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0CBC9KFD9",
+            "slug": "makeup-kits-makeup-kit-for-women-full-kit-makeup-sets-for-te",
+            "title": "Makeup Kits Makeup Kit for Women Full Kit Makeup Sets for Teenagers Teen Girls Foundation Eyeshadow Makeup Bag Makeup Gi",
+            "price": "$32.38",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81LpDWsSL5L.jpg",
+            "url": "https://www.amazon.com/dp/B0CBC9KFD9?tag=noya0b-20"
           }
         ],
         "Health": [
@@ -114,30 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61ur6j4HYpL.jpg",
             "url": "https://www.amazon.com/dp/B08XZTHSGT/ref=cm_sw_r_as_gl_api_gl_i_3MV0EBQFY8881B1823E0?linkCode=ml1&tag=noya0b-20&linkId=175a5f2de90543f2b932ae5543d5e9ba"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0CRBJGVYK",
-            "slug": "amazon-basics-colored-washable-markers-for-coloring-and-draw",
-            "title": "\udecd️Amazon Basics Colored Washable Markers for Coloring and Drawing, Broad Line, Multicolored, 10-Pack",
-            "price": "$4.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JvuXDj-gL.jpg",
-            "url": "https://www.amazon.com/dp/B0CRBJGVYK?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GD8HP5YS",
-            "slug": "natures-bounty-optimal-solutions-advanced-hair-skin-nails-2x",
-            "title": "\udecd️Nature's Bounty Optimal Solutions Advanced Hair, Skin, Nails, 2X Biotin, 80 Strawberry Gummies, 40 Servings, (Pack of ",
-            "price": "$39.12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81DCXxyaXIL.jpg",
-            "url": "https://www.amazon.com/dp/B0GD8HP5YS?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -151,6 +154,28 @@
           "category": "Free Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/91793lQxDfL.jpg",
           "url": "https://www.amazon.com/dp/B0F4RK2YTZ?tag=noya0b-20"
+        },
+        {
+          "asin": "B0B16SQK2T",
+          "slug": "hefty-ultra-strong-30-gallon-trash-bags-large-trash-bags-30",
+          "title": "Hefty Ultra Strong 30 Gallon Trash Bags, Large Trash Bags 30 Gallon Size, Multipurpose, Break Resistant Drawstring Closu",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81mJqV-J3BL.jpg",
+          "url": "https://www.amazon.com/dp/B0B16SQK2T/ref=cm_sw_r_as_gl_api_gl_i_Z78ETPWM75SZQ7CE956D?linkCode=ml1&tag=noya0b-20&linkId=cc9d1ccc8fd90a4c8b6adc81499e6c4a"
+        },
+        {
+          "asin": "B0CBC9KFD9",
+          "slug": "makeup-kits-makeup-kit-for-women-full-kit-makeup-sets-for-te",
+          "title": "Makeup Kits Makeup Kit for Women Full Kit Makeup Sets for Teenagers Teen Girls Foundation Eyeshadow Makeup Bag Makeup Gi",
+          "price": "$32.38",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LpDWsSL5L.jpg",
+          "url": "https://www.amazon.com/dp/B0CBC9KFD9?tag=noya0b-20"
         },
         {
           "asin": "B07GHS37LC",
@@ -228,34 +253,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61ur6j4HYpL.jpg",
           "url": "https://www.amazon.com/dp/B08XZTHSGT/ref=cm_sw_r_as_gl_api_gl_i_3MV0EBQFY8881B1823E0?linkCode=ml1&tag=noya0b-20&linkId=175a5f2de90543f2b932ae5543d5e9ba"
-        },
-        {
-          "asin": "B0CRBJGVYK",
-          "slug": "amazon-basics-colored-washable-markers-for-coloring-and-draw",
-          "title": "\udecd️Amazon Basics Colored Washable Markers for Coloring and Drawing, Broad Line, Multicolored, 10-Pack",
-          "price": "$4.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JvuXDj-gL.jpg",
-          "url": "https://www.amazon.com/dp/B0CRBJGVYK?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GD8HP5YS",
-          "slug": "natures-bounty-optimal-solutions-advanced-hair-skin-nails-2x",
-          "title": "\udecd️Nature's Bounty Optimal Solutions Advanced Hair, Skin, Nails, 2X Biotin, 80 Strawberry Gummies, 40 Servings, (Pack of ",
-          "price": "$39.12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81DCXxyaXIL.jpg",
-          "url": "https://www.amazon.com/dp/B0GD8HP5YS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Free Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T12:30:01.753Z",
-      "updatedAt": "2026-07-02T12:30:01.753Z"
+      "generatedAt": "2026-07-02T12:40:01.558Z",
+      "updatedAt": "2026-07-02T12:40:01.558Z"
     },
     {
       "date": "2026-07-01",
@@ -6484,5 +6487,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T12:30:01.756Z"
+  "generatedAt": "2026-07-02T12:40:01.560Z"
 }
