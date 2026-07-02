@@ -4,13 +4,14 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Free Deal, Toys & Kids and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Free Deal and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
+        "Grocery & Food",
         "Free Deal",
-        "Toys & Kids",
-        "Pet Supplies",
-        "Beauty"
+        "Appliances",
+        "Home & Kitchen",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Free Deal": [
@@ -70,28 +71,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/812xlkOHfwL.jpg",
             "url": "https://www.amazon.com/dp/B0FX3PJH4P?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Appliances": [
           {
-            "asin": "B09WCKB91J",
-            "slug": "sport-brella-beach-chair-with-upf-50-adjustable-umbrellagrey",
-            "title": "Sport-Brella Beach Chair with UPF 50+ Adjustable Umbrella,Grey : Sports & Outdoors",
-            "price": "$41",
+            "asin": "B0CBP3VV3V",
+            "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+            "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heat",
+            "price": "$34.91",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/615bf2DE7qL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09WCKB91J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=03fa21fb3144adde53e77f64ec2c3982&language=en_US"
-          },
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
+            "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B01J8DLGU2",
-            "slug": "lowest-price-1xx-astroai-digital-tire-pressure-gauge-reg-13",
-            "title": "LOWEST PRICE! $1.xx AstroAI Digital Tire Pressure Gauge! (Reg. $13)",
-            "price": "$1",
+            "asin": "B00JQQBUZS",
+            "slug": "red-bull-sugar-free-energy-drink-84-fl-oz-4-cans",
+            "title": "Red Bull Sugar Free Energy Drink, 8.4 Fl Oz, 4 Cans",
+            "price": "$5",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61P0I7H4fUL.jpg",
-            "url": "https://www.amazon.com/dp/B01J8DLGU2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=28bef6bc5193b29acd6e9de92a9a5c6f&language=en_US"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81XDPvptu3L.jpg",
+            "url": "https://www.amazon.com/dp/B00JQQBUZS?lv=shuf&ascsubtag=2c18ac2c765611f198c386e283deb4920INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e1d7680a23ff6a10dd82e00b867e4ac3&language=en_US"
+          },
+          {
+            "asin": "B0FWKHH3GH",
+            "slug": "travel-steamer-for-clothes-with-180-ml-water-tanks15s-fast-h",
+            "title": "Travel Steamer for Clothes with 180 ml Water Tanks,15s Fast Heat-up,24 g/min Strong Steam Performance, Portable Garment ",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ek9oRsRFL.jpg",
+            "url": "https://www.amazon.com/dp/B0FWKHH3GH?th=1&tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0DVY6V5VT",
+            "slug": "lenox-serveware-disney-holiday-hors-doeuvres-tray-food-tray",
+            "title": "Lenox Serveware, Disney Holiday Hors Doeuvres Tray, Food Tray, 13.75 x 7.75-Inch, Microwave Safe and Dishwasher Safe Por",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/715APFOBZHL.jpg",
+            "url": "https://www.amazon.com/dp/B0DVY6V5VT?lv=shuf&rnid=23566063011&s=home-garden&rps=1&th=1&dib_tag=se&xpid=TBIG1gZcgkQ-H&dib=eyJ2IjoiMSJ9._3_8_TFve0W1kaBJAFjT6nm-n4C3qvmIKeGaL-Rlmb107YHMiZycn8aMIyjps29aJckTHtwGqlv0596rL-S_NSid69IbrekWx9RD0V3H2vjHW51ssKTUPTcDOYHs-7JWtvcjhy-hGF-ua3nVLjLsZUfVh-38-DCNXgl1GMUCSA_jZIFVBdMQYaf-I2IeRww8xxitHKUtvJe5P6SPKOlqSxGsc3Bevw7B-jHdlJyqghVMkqy16rQcwTFU3iz8EQGP.zWg-8Xy5Y_umHOYVW-FhX6H4B7e0E8kZ1YHx5NDTI5k&qid=1783021094&refinements=p_75%3A50-%2Cp_85%3A2470955011%2Cp_n_deal_type%3A23566065011&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e9e280b82c76e918ec03c619967cc583&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -105,32 +134,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/81TItNe48iL.jpg",
             "url": "https://www.amazon.com/dp/B0BTTT6VW2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B000XKCCV2",
-            "slug": "blue-buffalo-tastefuls-chicken-brown-rice-recipe-dry-indoor",
-            "title": "Blue Buffalo Tastefuls Chicken & Brown Rice Recipe Dry Indoor Cat Food for Adult Cats, Real Chicken First, Deliciously H",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71p3I-g0I5L.jpg",
-            "url": "https://www.amazon.com/dp/B000XKCCV2?lv=shuf&ascsubtag=srctok-2cdd436c198d8381&th=1&btn_ref=srctok-2cdd436c198d8381&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=393c80c06a226557d1cc6ad32b7bc9e0&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0GRJCK5Q2",
-            "slug": "sol-de-janeiro-limited-edition-hair-body-perfume-mist-fragra",
-            "title": "Sol de Janeiro Limited Edition Hair & Body Perfume Mist Fragrance (3 Fl Oz (Pack of 1), Limonada Gelada) : Beauty & Pers",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GlebnGK4L.jpg",
-            "url": "https://www.amazon.com/dp/B0GRJCK5Q2?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -180,6 +183,50 @@
           "url": "https://www.amazon.com/dp/B0G6HDF6ZH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=91d08b351116ffafb5b7fe1cccaf081e&language=en_US"
         },
         {
+          "asin": "B0CBP3VV3V",
+          "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+          "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heat",
+          "price": "$34.91",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
+          "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
+        },
+        {
+          "asin": "B00JQQBUZS",
+          "slug": "red-bull-sugar-free-energy-drink-84-fl-oz-4-cans",
+          "title": "Red Bull Sugar Free Energy Drink, 8.4 Fl Oz, 4 Cans",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81XDPvptu3L.jpg",
+          "url": "https://www.amazon.com/dp/B00JQQBUZS?lv=shuf&ascsubtag=2c18ac2c765611f198c386e283deb4920INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e1d7680a23ff6a10dd82e00b867e4ac3&language=en_US"
+        },
+        {
+          "asin": "B0DVY6V5VT",
+          "slug": "lenox-serveware-disney-holiday-hors-doeuvres-tray-food-tray",
+          "title": "Lenox Serveware, Disney Holiday Hors Doeuvres Tray, Food Tray, 13.75 x 7.75-Inch, Microwave Safe and Dishwasher Safe Por",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/715APFOBZHL.jpg",
+          "url": "https://www.amazon.com/dp/B0DVY6V5VT?lv=shuf&rnid=23566063011&s=home-garden&rps=1&th=1&dib_tag=se&xpid=TBIG1gZcgkQ-H&dib=eyJ2IjoiMSJ9._3_8_TFve0W1kaBJAFjT6nm-n4C3qvmIKeGaL-Rlmb107YHMiZycn8aMIyjps29aJckTHtwGqlv0596rL-S_NSid69IbrekWx9RD0V3H2vjHW51ssKTUPTcDOYHs-7JWtvcjhy-hGF-ua3nVLjLsZUfVh-38-DCNXgl1GMUCSA_jZIFVBdMQYaf-I2IeRww8xxitHKUtvJe5P6SPKOlqSxGsc3Bevw7B-jHdlJyqghVMkqy16rQcwTFU3iz8EQGP.zWg-8Xy5Y_umHOYVW-FhX6H4B7e0E8kZ1YHx5NDTI5k&qid=1783021094&refinements=p_75%3A50-%2Cp_85%3A2470955011%2Cp_n_deal_type%3A23566065011&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e9e280b82c76e918ec03c619967cc583&language=en_US"
+        },
+        {
+          "asin": "B0FWKHH3GH",
+          "slug": "travel-steamer-for-clothes-with-180-ml-water-tanks15s-fast-h",
+          "title": "Travel Steamer for Clothes with 180 ml Water Tanks,15s Fast Heat-up,24 g/min Strong Steam Performance, Portable Garment ",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ek9oRsRFL.jpg",
+          "url": "https://www.amazon.com/dp/B0FWKHH3GH?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0BTTT6VW2",
           "slug": "weleda-baby-calendula-diaper-cream-28-fluid-ounce-pack-of-3",
           "title": "Weleda Baby Calendula Diaper Cream, 2.8 Fluid Ounce (Pack of 3), Plant Rich Protection with Calendula, Chamomile, Sweet ",
@@ -200,56 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/812xlkOHfwL.jpg",
           "url": "https://www.amazon.com/dp/B0FX3PJH4P?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B09WCKB91J",
-          "slug": "sport-brella-beach-chair-with-upf-50-adjustable-umbrellagrey",
-          "title": "Sport-Brella Beach Chair with UPF 50+ Adjustable Umbrella,Grey : Sports & Outdoors",
-          "price": "$41",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/615bf2DE7qL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09WCKB91J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=03fa21fb3144adde53e77f64ec2c3982&language=en_US"
-        },
-        {
-          "asin": "B000XKCCV2",
-          "slug": "blue-buffalo-tastefuls-chicken-brown-rice-recipe-dry-indoor",
-          "title": "Blue Buffalo Tastefuls Chicken & Brown Rice Recipe Dry Indoor Cat Food for Adult Cats, Real Chicken First, Deliciously H",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71p3I-g0I5L.jpg",
-          "url": "https://www.amazon.com/dp/B000XKCCV2?lv=shuf&ascsubtag=srctok-2cdd436c198d8381&th=1&btn_ref=srctok-2cdd436c198d8381&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=393c80c06a226557d1cc6ad32b7bc9e0&language=en_US"
-        },
-        {
-          "asin": "B01J8DLGU2",
-          "slug": "lowest-price-1xx-astroai-digital-tire-pressure-gauge-reg-13",
-          "title": "LOWEST PRICE! $1.xx AstroAI Digital Tire Pressure Gauge! (Reg. $13)",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61P0I7H4fUL.jpg",
-          "url": "https://www.amazon.com/dp/B01J8DLGU2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=28bef6bc5193b29acd6e9de92a9a5c6f&language=en_US"
-        },
-        {
-          "asin": "B0GRJCK5Q2",
-          "slug": "sol-de-janeiro-limited-edition-hair-body-perfume-mist-fragra",
-          "title": "Sol de Janeiro Limited Edition Hair & Body Perfume Mist Fragrance (3 Fl Oz (Pack of 1), Limonada Gelada) : Beauty & Pers",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GlebnGK4L.jpg",
-          "url": "https://www.amazon.com/dp/B0GRJCK5Q2?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Other, Free Deal, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Free Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T20:40:01.298Z",
-      "updatedAt": "2026-07-02T20:40:01.298Z"
+      "generatedAt": "2026-07-02T20:50:01.295Z",
+      "updatedAt": "2026-07-02T20:50:01.295Z"
     },
     {
       "date": "2026-07-01",
@@ -6478,5 +6481,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T20:40:01.300Z"
+  "generatedAt": "2026-07-02T20:50:01.298Z"
 }
