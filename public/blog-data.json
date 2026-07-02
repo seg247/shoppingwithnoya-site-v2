@@ -4,16 +4,108 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Electronics, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Pet Supplies, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Electronics",
+        "Pet Supplies",
+        "Grocery & Food",
+        "Luxury Beauty",
+        "Fashion",
+        "Grocery",
         "Toys & Kids",
         "Health",
-        "Beauty",
-        "Fashion"
+        "Beauty"
       ],
       "byCategory": {
+        "Pet Supplies": [
+          {
+            "asin": "B000NVBVD6",
+            "slug": "stella-chewys-freeze-dried-raw-chicken-meal-mixers-dog-food",
+            "title": "Stella & Chewy's Freeze-Dried Raw Chicken Meal Mixers- Dog Food Topper and Mixer - Made with 95% Cage-Free Chicken, Orga",
+            "price": "$5.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/819U+2EgScL.jpg",
+            "url": "https://www.amazon.com/dp/B000NVBVD6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B000EMBA58",
+            "slug": "skippy-natural-peanut-butter-spread-creamy-7-g-protein-per-s",
+            "title": "SKIPPY Natural Peanut Butter Spread, Creamy, 7 g protein per serving, 15 oz. (12 Pack)",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ZtvGixicL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B000EMBA58/ref=cm_sw_r_as_gl_apa_gl_i_dl_SC6Z6B0YRF33WKYSGR1Q?linkCode=ml1&tag=noya0b-20&linkId=6a5fecc003ce177d7739e76bf7a59ef4"
+          }
+        ],
+        "Luxury Beauty": [
+          {
+            "asin": "B0GFP2BYSR",
+            "slug": "adjustable-arm-rest-for-car-forearm-wrist-support-cushion-un",
+            "title": "Adjustable Arm Rest for Car, Forearm Wrist Support Cushion - Universal Faux Leather Armrest for Most Car Models, Doors &",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81vwKCPaR+L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GFP2BYSR?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0DQNKRBBW",
+            "slug": "jver-mens-linen-shirts-casual-short-sleeve-button-down-shirt",
+            "title": "J.VER Men's Linen Shirts Casual Short Sleeve Button Down Shirt Beach Vacation Cruise Summer Wedding Cotton Tops",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/91itKMRn9OL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DQNKRBBW?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0CZRM727N",
+            "slug": "oeak-womens-wireless-bras-push-up-support-full-coverage-bral",
+            "title": "OEAK Womens Wireless Bras Push Up Support Full Coverage Bralettes No Underwire Bra Comfortable Everyday Seamless Tshirt",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71p-e9+zuSL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZRM727N?tag=noya0b-20"
+          },
+          {
+            "asin": "B08V8QBXCW",
+            "slug": "momcozy-baby-gate-retractable-baby-gate-or-dog-gate-easy-to",
+            "title": "Momcozy Baby Gate, Retractable Baby Gate or Dog Gate 【Easy to USE】 for 33\" Tall, Extends up to 55\" Wide, for Stairs, Doo",
+            "price": "$29.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71jKx0vkChL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08V8QBXCW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Grocery": [
+          {
+            "asin": "B0CP9F6PW2",
+            "slug": "ofeefan-womens-summer-tops-pleated-swiss-dot-puff-sleeve-cre",
+            "title": "OFEEFAN Womens Summer Tops Pleated Swiss Dot Puff Sleeve Crew Neck T Shirts Loose Casual S-3XL",
+            "price": "$48.65",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/81oYl2bLBlL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CP9F6PW2?tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0G3119WV2",
@@ -25,41 +117,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/711Oi+JUbIL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0G3119WV2/ref=cm_sw_r_as_gl_apa_gl_i_XE6NBXSC6Z7HBJAWRCKK?linkCode=ml1&tag=noya0b-20&linkId=7a1583f4a3df22524186a5a350d7fbe8"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B08V8QBXCW",
-            "slug": "momcozy-baby-gate-retractable-baby-gate-or-dog-gate-easy-to",
-            "title": "Momcozy Baby Gate, Retractable Baby Gate or Dog Gate 【Easy to USE】 for 33\" Tall, Extends up to 55\" Wide, for Stairs, Doo",
-            "price": "$29.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jKx0vkChL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08V8QBXCW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0DB6LX5SW",
-            "slug": "white-is-50xx-was-149xx",
-            "title": "White is $50.xx was $149.xx",
-            "price": "$50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51M9qKBSfdL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DB6LX5SW/ref=cm_sw_r_as_gl_apa_gl_i_dl_24HVKGD1CRKQH9V9C2KP?linkCode=ml1&tag=noya0b-20&linkId=008e9dffed646fab3d81333686cc6911"
-          },
-          {
-            "asin": "B0GC16PT1Q",
-            "slug": "little-people-collector-kpop-demon-hunters-saja-boys-special",
-            "title": "Little People Collector Kpop Demon Hunters: Saja Boys Special Edition Set",
-            "price": "$32",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0GC16PT1Q?linkCode=sl2&tag=noya0b-20&linkId=bef46f734ab6e8eeb18d4c64213a63f0&language=en_US"
           }
         ],
         "Health": [
@@ -87,57 +144,75 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07BJMC5B8/ref=cm_sw_r_as_gl_apa_gl_i_47PE6X6B3S0WHGH5P4PM?linkCode=ml1&tag=noya0b-20&linkId=72ddeaeae63a9cc03e2e2e22132063ad"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B071FT2J6B",
-            "slug": "hanes-mens-zip-up-hoodie-ecosmart-fleece-full-zip-hoodie-for",
-            "title": "Hanes Men's Zip-up Hoodie, Ecosmart Fleece Full-zip Hoodie for Men, Hooded Sweatshirt",
-            "price": "$13.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cXIb6DLZL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B071FT2J6B?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DB6M7HRW",
-            "slug": "arlo-wired-floodlight-camera-home-security-camera-with-2k-vi",
-            "title": "Arlo Wired Floodlight Camera | Home Security Camera with 2K Video and HDR | 2000 Lumens | Integrated Siren, Weather-Resi",
-            "price": "$99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DB6M7HRW/ref=cm_sw_r_as_gl_apa_gl_i_9VKKD70XFEJHRS3KJ7NZ?linkCode=ml1&tag=noya0b-20&linkId=2c610af4c022b04a42cea6e80470cc73"
-          },
-          {
-            "asin": "B0F249HC2M",
-            "slug": "womens-underwear-full-coverage-panties-for-ladies-soft-breat",
-            "title": "Womens Underwear Full Coverage Panties for Ladies Soft Breathable Cotton Briefs High Waisted Hipster",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81kw4V0H7DL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F249HC2M?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DNPRY813",
-            "slug": "manayo-bluetooth-cd-player-portable-4000mah-rechargeable-all",
-            "title": "MANAYO Bluetooth CD Player Portable 4000mAh Rechargeable, All in One Disc Player with Bluetooth Receive, USB Drive, AUX ",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71aMnMvOcBL.jpg",
-            "url": "https://www.amazon.com/dp/B0DNPRY813/ref=cm_sw_r_as_gl_apa_gl_i_dl_XWA0PZR12Y898KB08TYT?linkCode=ml1&tag=noya0b-20&linkId=b183abdd72181ebb8b3c0da4b026a1bc"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B000NVBVD6",
+          "slug": "stella-chewys-freeze-dried-raw-chicken-meal-mixers-dog-food",
+          "title": "Stella & Chewy's Freeze-Dried Raw Chicken Meal Mixers- Dog Food Topper and Mixer - Made with 95% Cage-Free Chicken, Orga",
+          "price": "$5.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/819U+2EgScL.jpg",
+          "url": "https://www.amazon.com/dp/B000NVBVD6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B000EMBA58",
+          "slug": "skippy-natural-peanut-butter-spread-creamy-7-g-protein-per-s",
+          "title": "SKIPPY Natural Peanut Butter Spread, Creamy, 7 g protein per serving, 15 oz. (12 Pack)",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ZtvGixicL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B000EMBA58/ref=cm_sw_r_as_gl_apa_gl_i_dl_SC6Z6B0YRF33WKYSGR1Q?linkCode=ml1&tag=noya0b-20&linkId=6a5fecc003ce177d7739e76bf7a59ef4"
+        },
+        {
+          "asin": "B0GFP2BYSR",
+          "slug": "adjustable-arm-rest-for-car-forearm-wrist-support-cushion-un",
+          "title": "Adjustable Arm Rest for Car, Forearm Wrist Support Cushion - Universal Faux Leather Armrest for Most Car Models, Doors &",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81vwKCPaR+L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GFP2BYSR?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DQNKRBBW",
+          "slug": "jver-mens-linen-shirts-casual-short-sleeve-button-down-shirt",
+          "title": "J.VER Men's Linen Shirts Casual Short Sleeve Button Down Shirt Beach Vacation Cruise Summer Wedding Cotton Tops",
+          "price": "$19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/91itKMRn9OL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DQNKRBBW?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CZRM727N",
+          "slug": "oeak-womens-wireless-bras-push-up-support-full-coverage-bral",
+          "title": "OEAK Womens Wireless Bras Push Up Support Full Coverage Bralettes No Underwire Bra Comfortable Everyday Seamless Tshirt",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71p-e9+zuSL.jpg",
+          "url": "https://www.amazon.com/dp/B0CZRM727N?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CP9F6PW2",
+          "slug": "ofeefan-womens-summer-tops-pleated-swiss-dot-puff-sleeve-cre",
+          "title": "OFEEFAN Womens Summer Tops Pleated Swiss Dot Puff Sleeve Crew Neck T Shirts Loose Casual S-3XL",
+          "price": "$48.65",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/81oYl2bLBlL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CP9F6PW2?tag=noya0b-20"
+        },
         {
           "asin": "B0G3119WV2",
           "slug": "pmi-paw-patrol-4-pack-collectible-action-figures-with-hidden",
@@ -181,78 +256,12 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07BJMC5B8/ref=cm_sw_r_as_gl_apa_gl_i_47PE6X6B3S0WHGH5P4PM?linkCode=ml1&tag=noya0b-20&linkId=72ddeaeae63a9cc03e2e2e22132063ad"
-        },
-        {
-          "asin": "B071FT2J6B",
-          "slug": "hanes-mens-zip-up-hoodie-ecosmart-fleece-full-zip-hoodie-for",
-          "title": "Hanes Men's Zip-up Hoodie, Ecosmart Fleece Full-zip Hoodie for Men, Hooded Sweatshirt",
-          "price": "$13.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cXIb6DLZL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B071FT2J6B?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DB6LX5SW",
-          "slug": "white-is-50xx-was-149xx",
-          "title": "White is $50.xx was $149.xx",
-          "price": "$50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51M9qKBSfdL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DB6LX5SW/ref=cm_sw_r_as_gl_apa_gl_i_dl_24HVKGD1CRKQH9V9C2KP?linkCode=ml1&tag=noya0b-20&linkId=008e9dffed646fab3d81333686cc6911"
-        },
-        {
-          "asin": "B0DB6M7HRW",
-          "slug": "arlo-wired-floodlight-camera-home-security-camera-with-2k-vi",
-          "title": "Arlo Wired Floodlight Camera | Home Security Camera with 2K Video and HDR | 2000 Lumens | Integrated Siren, Weather-Resi",
-          "price": "$99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DB6M7HRW/ref=cm_sw_r_as_gl_apa_gl_i_9VKKD70XFEJHRS3KJ7NZ?linkCode=ml1&tag=noya0b-20&linkId=2c610af4c022b04a42cea6e80470cc73"
-        },
-        {
-          "asin": "B0F249HC2M",
-          "slug": "womens-underwear-full-coverage-panties-for-ladies-soft-breat",
-          "title": "Womens Underwear Full Coverage Panties for Ladies Soft Breathable Cotton Briefs High Waisted Hipster",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81kw4V0H7DL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F249HC2M?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GC16PT1Q",
-          "slug": "little-people-collector-kpop-demon-hunters-saja-boys-special",
-          "title": "Little People Collector Kpop Demon Hunters: Saja Boys Special Edition Set",
-          "price": "$32",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0GC16PT1Q?linkCode=sl2&tag=noya0b-20&linkId=bef46f734ab6e8eeb18d4c64213a63f0&language=en_US"
-        },
-        {
-          "asin": "B0DNPRY813",
-          "slug": "manayo-bluetooth-cd-player-portable-4000mah-rechargeable-all",
-          "title": "MANAYO Bluetooth CD Player Portable 4000mAh Rechargeable, All in One Disc Player with Bluetooth Receive, USB Drive, AUX ",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71aMnMvOcBL.jpg",
-          "url": "https://www.amazon.com/dp/B0DNPRY813/ref=cm_sw_r_as_gl_apa_gl_i_dl_XWA0PZR12Y898KB08TYT?linkCode=ml1&tag=noya0b-20&linkId=b183abdd72181ebb8b3c0da4b026a1bc"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"P.M.I. PAW Patrol 4-Pack Collectible Action Figures with Hid...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Stella & Chewy's Freeze-Dried Raw Chicken Meal Mixers- Dog F...\" and 9 other hand-picked discounts. Deals span Other, Pet Supplies, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +280,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T04:50:01.443Z",
-      "updatedAt": "2026-07-02T04:50:01.443Z"
+      "generatedAt": "2026-07-02T05:00:01.352Z",
+      "updatedAt": "2026-07-02T05:00:01.352Z"
     },
     {
       "date": "2026-07-01",
@@ -6481,5 +6490,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T04:50:01.446Z"
+  "generatedAt": "2026-07-02T05:00:01.354Z"
 }
