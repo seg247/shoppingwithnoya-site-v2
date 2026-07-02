@@ -4,10 +4,10 @@
       "date": "2026-07-02",
       "slug": "2026-07-02",
       "title": "🔥 Best Deals Today — July 2, 2026",
-      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Electronics, Other, Home & Kitchen and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, July 2, 2026 — 10 hand-picked discounts across Other, Electronics, Home & Kitchen and more. The best discount today is 100% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Electronics",
         "Other",
+        "Electronics",
         "Home & Kitchen",
         "Free Deal",
         "Cleaning Supplies"
@@ -26,20 +26,77 @@
             "url": "https://www.amazon.com/dp/B0F4RK2YTZ?tag=noya0b-20"
           }
         ],
-        "Cleaning Supplies": [
+        "Home & Kitchen": [
           {
-            "asin": "B07H3SDKDP",
-            "slug": "seventh-generation-easydose-laundry-detergent-fresh-lavender",
-            "title": "Seventh Generation EasyDose Laundry Detergent Fresh Lavender Ultra Concentrated Washing Detergent 23 oz : Health & House",
-            "price": "$6",
+            "asin": "B0DF8RSVJK",
+            "slug": "scott-paper-towels-choose-a-sheet-6-double-rolls-12-regular",
+            "title": "\udecd️Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls = 12 Regular Rolls (108 Sheets Per Roll)",
+            "price": "$8.59",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Wd8pMeO9L.jpg",
-            "url": "https://www.amazon.com/dp/B07H3SDKDP/ref=cm_sw_r_as_gl_api_gl_i_8PCD5DX1FF8FSYDSVBCK?linkCode=ml1&tag=noya0b-20&linkId=59fa81b690381dc18285288541062124"
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DF8RSVJK?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F2SHBZHM",
+            "slug": "61-vintage-ceramic-mini-decorative-clawfoot-bathtub-bar-soap",
+            "title": "6.1\" Vintage Ceramic Mini Decorative Clawfoot Bathtub Bar Soap Dish, Kitchen Sponge Holder and Shower Tray for Bathroom,",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51+ua7lRe0L.jpg",
+            "url": "https://www.amazon.com/dp/B0F2SHBZHM/ref=cm_sw_r_as_gl_api_gl_i_dl_SBMNFKKSPQ66HZK9QQAW?linkCode=ml1&tag=noya0b-20&linkId=c2d12cc0156615900b5e7ae4927eb216"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0F9WGY3V6",
+            "slug": "sewing-kit-gifts-for-grandma-mom-friend-traveler-adults-begi",
+            "title": "\udecd️Sewing Kit Gifts for Grandma, Mom, Friend, Traveler, Adults, Beginner, Emergency,Sewing Supplies Accessories with Scis",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71gpqr4jIuL.jpg",
+            "url": "https://www.amazon.com/dp/B0F9WGY3V6?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GSZ7CX7Y",
+            "slug": "kingpavonini-knee-massager-with-heat-and-red-light-therapy-4",
+            "title": "\udecd️KingPavonini Knee Massager with Heat and Red Light Therapy, 4-Motor Vibration Knee Heating Pad, Cordless Heated Knee B",
+            "price": "$65.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81EJ4l3BVEL.jpg",
+            "url": "https://www.amazon.com/dp/B0GSZ7CX7Y?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F6WCLBVV",
+            "slug": "newppon-4-pack-floating-waterproof-phone-pouch-universal-lar",
+            "title": "\udecd️newppon 4 Pack Floating Waterproof Phone Pouch - Universal Large Floatable Water Proof Dry Bag Case - Float Clear Cell",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ZXFP+dbiL.jpg",
+            "url": "https://www.amazon.com/dp/B0F6WCLBVV?tag=noya0b-20"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0CW4PKBH9",
+            "slug": "jbl-quantum-stream-wireless-usb-c-wearable-wireless-streamin",
+            "title": "\udecd️JBL Quantum Stream Wireless USB-C - Wearable Wireless Streaming Microphone for Crystal Clear Recordings, 24 Hours of R",
+            "price": "$109.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61tXFKXjn8L.jpg",
+            "url": "https://www.amazon.com/dp/B0CW4PKBH9?tag=noya0b-20"
+          },
           {
             "asin": "B08VWS28QN",
             "slug": "phomemo-label-maker-machine-with-tape-p12-bluetooth-small-la",
@@ -61,76 +118,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/610ZE235rTL.jpg",
             "url": "https://www.amazon.com/dp/B0H4L7SPX3?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GQY4T5D4",
-            "slug": "240w-usb-c-to-usb-c-cable-fast-charging5ft-invisible-type-c",
-            "title": "\udecd️240W USB C to USB C Cable Fast Charging,5FT Invisible Type C Cable with Built-in Phone Stand T-Shaped Foldable Cord,US",
-            "price": "$14.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71R5u11DxdL.jpg",
-            "url": "https://www.amazon.com/dp/B0GQY4T5D4?tag=noya0b-20"
           }
         ],
-        "Other": [
+        "Cleaning Supplies": [
           {
-            "asin": "B0F6WCLBVV",
-            "slug": "newppon-4-pack-floating-waterproof-phone-pouch-universal-lar",
-            "title": "\udecd️newppon 4 Pack Floating Waterproof Phone Pouch - Universal Large Floatable Water Proof Dry Bag Case - Float Clear Cell",
-            "price": "$19.99",
+            "asin": "B07H3SDKDP",
+            "slug": "seventh-generation-easydose-laundry-detergent-fresh-lavender",
+            "title": "Seventh Generation EasyDose Laundry Detergent Fresh Lavender Ultra Concentrated Washing Detergent 23 oz : Health & House",
+            "price": "$6",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ZXFP+dbiL.jpg",
-            "url": "https://www.amazon.com/dp/B0F6WCLBVV?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DYXN5PYH",
-            "slug": "the-peanuts-guide-to-happiness-peanuts-guide-to-life",
-            "title": "\udecd️The Peanuts Guide to Happiness (Peanuts Guide to Life)",
-            "price": "$14.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71TRzjE5JkL.jpg",
-            "url": "https://www.amazon.com/dp/B0DYXN5PYH?tag=noya0b-20"
-          },
-          {
-            "asin": "B09ZNTGF53",
-            "slug": "bedsure-duvet-cover-full-size-soft-double-brushed-bedding-se",
-            "title": "\udecd️Bedsure Duvet Cover Full Size - Soft Double Brushed Bedding Set for Kids & Adults, Zipper Closure, 3 Pieces, Includes ",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09ZNTGF53?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DYDQG5KF",
-            "slug": "joyin-4-pcs-3d-printed-fruit-fidget-toys-make-a-sound-flexib",
-            "title": "\udecd️JOYIN 4 Pcs 3D Printed Fruit Fidget Toys, Make a Sound Flexible Desk Fidget Toy for Stress Relief, Boys Girls Kids Adu",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Y+g1WFytL.jpg",
-            "url": "https://www.amazon.com/dp/B0DYDQG5KF?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F53D84BJ",
-            "slug": "sinsosso-large-floor-pillow-22-thickened-bite-size-memory-fo",
-            "title": "SINSOSSO Large Floor Pillow 22\", Thickened Bite-Size Memory Foam Square Non-Slip Cushion for Office Back Support/Indoor ",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/614aZIE6IlL.jpg",
-            "url": "https://www.amazon.com/dp/B0F53D84BJ/ref=cm_sw_r_as_gl_api_gl_i_EJAWCMJBNKFRB6FT6RZ9?linkCode=ml1&tag=noya0b-20&linkId=aaa26a1ee4cc3040408f1a77db1f8c9b"
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Wd8pMeO9L.jpg",
+            "url": "https://www.amazon.com/dp/B07H3SDKDP/ref=cm_sw_r_as_gl_api_gl_i_8PCD5DX1FF8FSYDSVBCK?linkCode=ml1&tag=noya0b-20&linkId=59fa81b690381dc18285288541062124"
           }
         ]
       },
@@ -145,6 +145,61 @@
           "category": "Free Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/91793lQxDfL.jpg",
           "url": "https://www.amazon.com/dp/B0F4RK2YTZ?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DF8RSVJK",
+          "slug": "scott-paper-towels-choose-a-sheet-6-double-rolls-12-regular",
+          "title": "\udecd️Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls = 12 Regular Rolls (108 Sheets Per Roll)",
+          "price": "$8.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DF8RSVJK?tag=noya0b-20"
+        },
+        {
+          "asin": "B0F9WGY3V6",
+          "slug": "sewing-kit-gifts-for-grandma-mom-friend-traveler-adults-begi",
+          "title": "\udecd️Sewing Kit Gifts for Grandma, Mom, Friend, Traveler, Adults, Beginner, Emergency,Sewing Supplies Accessories with Scis",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71gpqr4jIuL.jpg",
+          "url": "https://www.amazon.com/dp/B0F9WGY3V6?tag=noya0b-20"
+        },
+        {
+          "asin": "B0F2SHBZHM",
+          "slug": "61-vintage-ceramic-mini-decorative-clawfoot-bathtub-bar-soap",
+          "title": "6.1\" Vintage Ceramic Mini Decorative Clawfoot Bathtub Bar Soap Dish, Kitchen Sponge Holder and Shower Tray for Bathroom,",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/51+ua7lRe0L.jpg",
+          "url": "https://www.amazon.com/dp/B0F2SHBZHM/ref=cm_sw_r_as_gl_api_gl_i_dl_SBMNFKKSPQ66HZK9QQAW?linkCode=ml1&tag=noya0b-20&linkId=c2d12cc0156615900b5e7ae4927eb216"
+        },
+        {
+          "asin": "B0CW4PKBH9",
+          "slug": "jbl-quantum-stream-wireless-usb-c-wearable-wireless-streamin",
+          "title": "\udecd️JBL Quantum Stream Wireless USB-C - Wearable Wireless Streaming Microphone for Crystal Clear Recordings, 24 Hours of R",
+          "price": "$109.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61tXFKXjn8L.jpg",
+          "url": "https://www.amazon.com/dp/B0CW4PKBH9?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GSZ7CX7Y",
+          "slug": "kingpavonini-knee-massager-with-heat-and-red-light-therapy-4",
+          "title": "\udecd️KingPavonini Knee Massager with Heat and Red Light Therapy, 4-Motor Vibration Knee Heating Pad, Cordless Heated Knee B",
+          "price": "$65.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EJ4l3BVEL.jpg",
+          "url": "https://www.amazon.com/dp/B0GSZ7CX7Y?tag=noya0b-20"
         },
         {
           "asin": "B07H3SDKDP",
@@ -189,67 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71ZXFP+dbiL.jpg",
           "url": "https://www.amazon.com/dp/B0F6WCLBVV?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DYDQG5KF",
-          "slug": "joyin-4-pcs-3d-printed-fruit-fidget-toys-make-a-sound-flexib",
-          "title": "\udecd️JOYIN 4 Pcs 3D Printed Fruit Fidget Toys, Make a Sound Flexible Desk Fidget Toy for Stress Relief, Boys Girls Kids Adu",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Y+g1WFytL.jpg",
-          "url": "https://www.amazon.com/dp/B0DYDQG5KF?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DYXN5PYH",
-          "slug": "the-peanuts-guide-to-happiness-peanuts-guide-to-life",
-          "title": "\udecd️The Peanuts Guide to Happiness (Peanuts Guide to Life)",
-          "price": "$14.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71TRzjE5JkL.jpg",
-          "url": "https://www.amazon.com/dp/B0DYXN5PYH?tag=noya0b-20"
-        },
-        {
-          "asin": "B09ZNTGF53",
-          "slug": "bedsure-duvet-cover-full-size-soft-double-brushed-bedding-se",
-          "title": "\udecd️Bedsure Duvet Cover Full Size - Soft Double Brushed Bedding Set for Kids & Adults, Zipper Closure, 3 Pieces, Includes ",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09ZNTGF53?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F53D84BJ",
-          "slug": "sinsosso-large-floor-pillow-22-thickened-bite-size-memory-fo",
-          "title": "SINSOSSO Large Floor Pillow 22\", Thickened Bite-Size Memory Foam Square Non-Slip Cushion for Office Back Support/Indoor ",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/614aZIE6IlL.jpg",
-          "url": "https://www.amazon.com/dp/B0F53D84BJ/ref=cm_sw_r_as_gl_api_gl_i_EJAWCMJBNKFRB6FT6RZ9?linkCode=ml1&tag=noya0b-20&linkId=aaa26a1ee4cc3040408f1a77db1f8c9b"
-        },
-        {
-          "asin": "B0GQY4T5D4",
-          "slug": "240w-usb-c-to-usb-c-cable-fast-charging5ft-invisible-type-c",
-          "title": "\udecd️240W USB C to USB C Cable Fast Charging,5FT Invisible Type C Cable with Built-in Phone Stand T-Shaped Foldable Cord,US",
-          "price": "$14.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71R5u11DxdL.jpg",
-          "url": "https://www.amazon.com/dp/B0GQY4T5D4?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 2, 2026?",
-          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"\udecd️BrainSpark 100PCS Magnetic Pixel Cubes Mini – 2cm World Pa...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-02T13:50:01.578Z",
-      "updatedAt": "2026-07-02T13:50:01.578Z"
+      "generatedAt": "2026-07-02T14:00:01.646Z",
+      "updatedAt": "2026-07-02T14:00:01.646Z"
     },
     {
       "date": "2026-07-01",
@@ -6478,5 +6478,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-02T13:50:01.581Z"
+  "generatedAt": "2026-07-02T14:00:01.648Z"
 }
