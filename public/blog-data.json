@@ -4,17 +4,82 @@
       "date": "2026-07-03",
       "slug": "2026-07-03",
       "title": "🔥 Best Deals Today — July 3, 2026",
-      "intro": "Today's best online deals for Friday, July 3, 2026 — 10 hand-picked discounts across Other, Fashion, Appliances and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, July 3, 2026 — 10 hand-picked discounts across Sports, Home & Kitchen, Baby Care and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Fashion",
+        "Sports",
+        "Home & Kitchen",
+        "Baby Care",
+        "Baby Products",
         "Appliances",
+        "Fashion",
+        "Other",
         "Toys & Kids",
-        "Grocery & Food",
-        "Jewelry",
-        "Electronics"
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Sports": [
+          {
+            "asin": "B0DV4HXQXY",
+            "slug": "clostnature-1-person-tent-for-backpacking-ultralight-one-per",
+            "title": "Clostnature 1-Person Tent for Backpacking - Ultralight One Person Backpacking Tent, Hiking Tents for One Man, Solo, Sing",
+            "price": "$79.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports",
+            "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
+            "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CQRCNH6V",
+            "slug": "exacme-yoga-mat-set-for-beginners-9-pieces-yoga-set-with-res",
+            "title": "Exacme Yoga Mat Set for Beginners, 9 Pieces Yoga Set with Resistance Band, Jump Rope, Dumbbells for Home Workout, Yoga S",
+            "price": "$62.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports",
+            "imageUrl": "https://m.media-amazon.com/images/I/81LUELtgXcL.jpg",
+            "url": "https://www.amazon.com/dp/B0CQRCNH6V?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0838KW47X",
+            "slug": "petfusion-betterbin-portable-litter-storage-container",
+            "title": "PetFusion BetterBin Portable Litter Storage Container",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51SgBsp2s1L.jpg",
+            "url": "https://www.amazon.com/dp/B0838KW47X?linkCode=sl2&tag=noya0b-20&linkId=756e5a967edb44bb58fbbb24ec9133cb&language=en_US"
+          }
+        ],
+        "Baby Care": [
+          {
+            "asin": "B07HML1BT5",
+            "slug": "doona-car-seat-stroller-nitro-black-all-in-one-travel-system",
+            "title": "Doona Car Seat & Stroller, Nitro Black - All-in-One Travel System",
+            "price": "$650.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Baby Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61+3noekzxL.jpg",
+            "url": "https://www.amazon.com/dp/B07HML1BT5?tag=noya0b-20"
+          }
+        ],
+        "Baby Products": [
+          {
+            "asin": "B0DNHJ1DTG",
+            "slug": "portable-baby-bouncer-seat-for-infants-0-18-months-3-modes-o",
+            "title": "Portable Baby Bouncer Seat for Infants, 0-18 Months, 3 Modes of Use with Rocker & Stationary Options, Ergonomic Infant C",
+            "price": "$42.46",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Baby Products",
+            "imageUrl": "https://m.media-amazon.com/images/I/51HRQ7lUwqL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNHJ1DTG?tag=noya0b-20"
+          }
+        ],
         "Appliances": [
           {
             "asin": "B0CBP3VV3V",
@@ -39,17 +104,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71EYiuKyFDL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-          },
-          {
-            "asin": "B09HP4GDP8",
-            "slug": "inzcou-running-shoes-lightweight-tennis-shoes-non-slip-gym-w",
-            "title": "INZCOU Running Shoes Lightweight Tennis Shoes Non Slip Gym Workout Shoes Breathable Mesh Walking Sneakers 4.5women / 3.5",
-            "price": "$36.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81v9gDbQThL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09HP4GDP8?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -63,28 +117,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CZWSQVLJ/ref=cm_sw_r_as_gl_apa_gl_i_ME3AH6TTABW6E9CWKH7N?linkCode=ml1&tag=noya0b-20&linkId=33d5fba753012c7fb8e7c3df96dd25f3"
-          },
-          {
-            "asin": "B0CRR8FJSD",
-            "slug": "tineco-ifloor-5-breeze-complete-wet-dry-vacuum-cordless-floo",
-            "title": "Tineco iFLOOR 5 Breeze Complete Wet Dry Vacuum Cordless Floor Washer, One-Step Cleaning for Hard Floors, Edge Clean, Aut",
-            "price": "$169",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CRR8FJSD/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z359YAWS70N3PMJZ6XTT?linkCode=ml1&tag=noya0b-20&linkId=f7de2bf147c31babd53205ece99775ea"
-          },
-          {
-            "asin": "B08V7G5GYH",
-            "slug": "stardrops-the-pink-stuff-miracle-cleaning-ultimate-bundle",
-            "title": "Stardrops The Pink Stuff Miracle Cleaning Ultimate Bundle",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81wirqDDZPL.jpg",
-            "url": "https://www.amazon.com/dp/B08V7G5GYH?linkCode=sl2&tag=noya0b-20&linkId=469f292c6acef54c54232a16e2bd7e47&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -112,35 +144,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71suQXFhmtL.jpg",
             "url": "https://www.amazon.com/dp/B08G8VTKDY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2bebae61d1ade5a3077b00251ff3aaf7&language=en_US"
           }
-        ],
-        "Jewelry": [
-          {
-            "asin": "B0BHP7DR3P",
-            "slug": "thrilez-63-pack-of-jewelry-set-for-women-including-15-pairs",
-            "title": "Thrilez 63 Pack of Jewelry Set for Women, Including 15 Pairs Fashion Earrings, 4 Pack Cute Necklaces, 13pc Aesthetic Bra",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Jewelry",
-            "imageUrl": "https://m.media-amazon.com/images/I/81jEzR6F9JL.jpg",
-            "url": "https://www.amazon.com/dp/B0BHP7DR3P?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DSGCDMPT",
-            "slug": "new-honeywell-home-smart-thermostat-conventionalheat-pump-co",
-            "title": "New! Honeywell Home Smart Thermostat, Conventional/Heat Pump Compatibility, WiFi Thermostat for Home, X2S, Gray",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GfLujbjEL.jpg",
-            "url": "https://www.amazon.com/dp/B0DSGCDMPT/ref=cm_sw_r_as_gl_apa_gl_i_P1TRZV106WNMAC30RJ98?linkCode=ml1&tag=noya0b-20&linkId=feb476eb4e605c26e1a5b844567f92b1"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DV4HXQXY",
+          "slug": "clostnature-1-person-tent-for-backpacking-ultralight-one-per",
+          "title": "Clostnature 1-Person Tent for Backpacking - Ultralight One Person Backpacking Tent, Hiking Tents for One Man, Solo, Sing",
+          "price": "$79.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports",
+          "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
+          "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0838KW47X",
+          "slug": "petfusion-betterbin-portable-litter-storage-container",
+          "title": "PetFusion BetterBin Portable Litter Storage Container",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/51SgBsp2s1L.jpg",
+          "url": "https://www.amazon.com/dp/B0838KW47X?linkCode=sl2&tag=noya0b-20&linkId=756e5a967edb44bb58fbbb24ec9133cb&language=en_US"
+        },
+        {
+          "asin": "B0CQRCNH6V",
+          "slug": "exacme-yoga-mat-set-for-beginners-9-pieces-yoga-set-with-res",
+          "title": "Exacme Yoga Mat Set for Beginners, 9 Pieces Yoga Set with Resistance Band, Jump Rope, Dumbbells for Home Workout, Yoga S",
+          "price": "$62.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LUELtgXcL.jpg",
+          "url": "https://www.amazon.com/dp/B0CQRCNH6V?tag=noya0b-20"
+        },
+        {
+          "asin": "B07HML1BT5",
+          "slug": "doona-car-seat-stroller-nitro-black-all-in-one-travel-system",
+          "title": "Doona Car Seat & Stroller, Nitro Black - All-in-One Travel System",
+          "price": "$650.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Baby Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61+3noekzxL.jpg",
+          "url": "https://www.amazon.com/dp/B07HML1BT5?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DNHJ1DTG",
+          "slug": "portable-baby-bouncer-seat-for-infants-0-18-months-3-modes-o",
+          "title": "Portable Baby Bouncer Seat for Infants, 0-18 Months, 3 Modes of Use with Rocker & Stationary Options, Ergonomic Infant C",
+          "price": "$42.46",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Baby Products",
+          "imageUrl": "https://m.media-amazon.com/images/I/51HRQ7lUwqL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNHJ1DTG?tag=noya0b-20"
+        },
         {
           "asin": "B0CBP3VV3V",
           "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
@@ -195,71 +256,16 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71suQXFhmtL.jpg",
           "url": "https://www.amazon.com/dp/B08G8VTKDY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2bebae61d1ade5a3077b00251ff3aaf7&language=en_US"
-        },
-        {
-          "asin": "B0BHP7DR3P",
-          "slug": "thrilez-63-pack-of-jewelry-set-for-women-including-15-pairs",
-          "title": "Thrilez 63 Pack of Jewelry Set for Women, Including 15 Pairs Fashion Earrings, 4 Pack Cute Necklaces, 13pc Aesthetic Bra",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Jewelry",
-          "imageUrl": "https://m.media-amazon.com/images/I/81jEzR6F9JL.jpg",
-          "url": "https://www.amazon.com/dp/B0BHP7DR3P?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CRR8FJSD",
-          "slug": "tineco-ifloor-5-breeze-complete-wet-dry-vacuum-cordless-floo",
-          "title": "Tineco iFLOOR 5 Breeze Complete Wet Dry Vacuum Cordless Floor Washer, One-Step Cleaning for Hard Floors, Edge Clean, Aut",
-          "price": "$169",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0CRR8FJSD/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z359YAWS70N3PMJZ6XTT?linkCode=ml1&tag=noya0b-20&linkId=f7de2bf147c31babd53205ece99775ea"
-        },
-        {
-          "asin": "B0DSGCDMPT",
-          "slug": "new-honeywell-home-smart-thermostat-conventionalheat-pump-co",
-          "title": "New! Honeywell Home Smart Thermostat, Conventional/Heat Pump Compatibility, WiFi Thermostat for Home, X2S, Gray",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GfLujbjEL.jpg",
-          "url": "https://www.amazon.com/dp/B0DSGCDMPT/ref=cm_sw_r_as_gl_apa_gl_i_P1TRZV106WNMAC30RJ98?linkCode=ml1&tag=noya0b-20&linkId=feb476eb4e605c26e1a5b844567f92b1"
-        },
-        {
-          "asin": "B09HP4GDP8",
-          "slug": "inzcou-running-shoes-lightweight-tennis-shoes-non-slip-gym-w",
-          "title": "INZCOU Running Shoes Lightweight Tennis Shoes Non Slip Gym Workout Shoes Breathable Mesh Walking Sneakers 4.5women / 3.5",
-          "price": "$36.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81v9gDbQThL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09HP4GDP8?tag=noya0b-20"
-        },
-        {
-          "asin": "B08V7G5GYH",
-          "slug": "stardrops-the-pink-stuff-miracle-cleaning-ultimate-bundle",
-          "title": "Stardrops The Pink Stuff Miracle Cleaning Ultimate Bundle",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81wirqDDZPL.jpg",
-          "url": "https://www.amazon.com/dp/B08V7G5GYH?linkCode=sl2&tag=noya0b-20&linkId=469f292c6acef54c54232a16e2bd7e47&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 3, 2026?",
-          "a": "The best deals today include \"Space Heater with Humidifier, 3-in-1 Space Heaters for Indoo...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Appliances and are updated daily."
+          "a": "The best deals today include \"Clostnature 1-Person Tent for Backpacking - Ultralight One P...\" and 9 other hand-picked discounts. Deals span Sports, Home & Kitchen, Baby Care and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Sports and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +280,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-03T05:10:02.134Z",
-      "updatedAt": "2026-07-03T05:10:02.134Z"
+      "generatedAt": "2026-07-03T05:20:00.373Z",
+      "updatedAt": "2026-07-03T05:20:00.373Z"
     },
     {
       "date": "2026-07-02",
@@ -6758,5 +6764,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-03T05:10:02.137Z"
+  "generatedAt": "2026-07-03T05:20:00.375Z"
 }
