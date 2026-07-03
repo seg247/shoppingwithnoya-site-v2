@@ -10,8 +10,8 @@
         "Body Care",
         "Makeup",
         "Fragrance",
-        "Hair Care",
-        "Nails"
+        "Nails",
+        "Hair Care"
       ],
       "bySubcat": {
         "Skincare": [
@@ -160,6 +160,16 @@
             "url": "https://www.amazon.com/dp/B0G6D4XDFK?th=1&tag=noya0b-20"
           },
           {
+            "asin": "B077VHKM85",
+            "slug": "pro-full-cover-liquid-concealer-waterproof-smooth-matte-flaw",
+            "title": "Pro Full Cover Liquid Concealer, Waterproof Smooth Matte Flawless Finish Creamy Concealer Foundation Corrector for Eye D",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ZRHFbCc7L.jpg",
+            "url": "https://www.amazon.com/dp/B077VHKM85?tag=noya0b-20"
+          },
+          {
             "asin": "B0DS6JLDQ5",
             "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
             "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Eq",
@@ -218,7 +228,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jRBae+2qL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08G9K79FC/ref=cm_sw_r_as_gl_apa_gl_i_00EJM5Y1TFAZ7KFT9HTF?linkCode=ml1&tag=noya0b-20&linkId=603a988a615beb5a6e5197d173e33e91"
           },
           {
@@ -230,6 +240,18 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL.jpg",
             "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
+          }
+        ],
+        "Nails": [
+          {
+            "asin": "B0CL4RWBYR",
+            "slug": "beetles-gel-nail-polish-kit-with-u-v-light-80pcs-color-encha",
+            "title": "Beetles Gel Nail Polish Kit with U V Light - 80Pcs Color Enchantment 55 Colors Gel Nail Kit with Everything Base Top Coa",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/71STzNIRHPL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CL4RWBYR?tag=noya0b-20"
           }
         ],
         "Hair Care": [
@@ -302,28 +324,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71bxJvl3sgL.jpg",
             "url": "https://www.amazon.com/dp/B00AM15K16?tag=noya0b-20"
-          },
-          {
-            "asin": "B09C53YR2B",
-            "slug": "daily-dose-award-winning-deep-conditioner-hair-maskmasque-tr",
-            "title": "DAILY DOSE Award-Winning Deep Conditioner Hair Mask/Masque - Treatment for Dry, Damaged & Colored Treated Hair - Paraben",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71owbHRDwcL.jpg",
-            "url": "https://www.amazon.com/dp/B09C53YR2B?tag=noya0b-20"
-          }
-        ],
-        "Nails": [
-          {
-            "asin": "B0BK9872HC",
-            "slug": "jodsone-gel-nail-polish-kit-60-pcs-with-u-v-light-soak-off-b",
-            "title": "JODSONE Gel Nail Polish Kit 60 PCS with U V Light Soak off Base Top Coat 55 Shine Colors Gel Nail Kit Bright and Dark Br",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/71G-mlJMJsL.jpg",
-            "url": "https://www.amazon.com/dp/B0BK9872HC?tag=noya0b-20"
           }
         ]
       },
@@ -429,6 +429,26 @@
           "url": "https://www.amazon.com/dp/B0GX652H5R?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0CL4RWBYR",
+          "slug": "beetles-gel-nail-polish-kit-with-u-v-light-80pcs-color-encha",
+          "title": "Beetles Gel Nail Polish Kit with U V Light - 80Pcs Color Enchantment 55 Colors Gel Nail Kit with Everything Base Top Coa",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Nails",
+          "imageUrl": "https://m.media-amazon.com/images/I/71STzNIRHPL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CL4RWBYR?tag=noya0b-20"
+        },
+        {
+          "asin": "B077VHKM85",
+          "slug": "pro-full-cover-liquid-concealer-waterproof-smooth-matte-flaw",
+          "title": "Pro Full Cover Liquid Concealer, Waterproof Smooth Matte Flawless Finish Creamy Concealer Foundation Corrector for Eye D",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ZRHFbCc7L.jpg",
+          "url": "https://www.amazon.com/dp/B077VHKM85?tag=noya0b-20"
+        },
+        {
           "asin": "B0BXKK1BJB",
           "slug": "3-in-1-1875w-hair-dryer-straightening-curling-iron-parwin-pr",
           "title": "3 in 1 1875W Hair Dryer Straightening Curling Iron, PARWIN PRO BEAUTY Hair Styling Set, Valentine Gift, Ion Hair Dryer,",
@@ -515,7 +535,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/61jRBae+2qL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08G9K79FC/ref=cm_sw_r_as_gl_apa_gl_i_00EJM5Y1TFAZ7KFT9HTF?linkCode=ml1&tag=noya0b-20&linkId=603a988a615beb5a6e5197d173e33e91"
         },
         {
@@ -607,26 +627,6 @@
           "subcat": "Body Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71nJmCQCtfL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09NB4Y6KM?linkCode=sl2&tag=noya0b-20&linkId=c9e5d12d0e948822759e9eeca27616e2&language=en_US"
-        },
-        {
-          "asin": "B09C53YR2B",
-          "slug": "daily-dose-award-winning-deep-conditioner-hair-maskmasque-tr",
-          "title": "DAILY DOSE Award-Winning Deep Conditioner Hair Mask/Masque - Treatment for Dry, Damaged & Colored Treated Hair - Paraben",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71owbHRDwcL.jpg",
-          "url": "https://www.amazon.com/dp/B09C53YR2B?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BK9872HC",
-          "slug": "jodsone-gel-nail-polish-kit-60-pcs-with-u-v-light-soak-off-b",
-          "title": "JODSONE Gel Nail Polish Kit 60 PCS with U V Light Soak off Base Top Coat 55 Shine Colors Gel Nail Kit Bright and Dark Br",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Nails",
-          "imageUrl": "https://m.media-amazon.com/images/I/71G-mlJMJsL.jpg",
-          "url": "https://www.amazon.com/dp/B0BK9872HC?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include FURSUN Fluted Makeup Vanity Desk with HD 3 Way Mir and Yoga Mat Set - 4-Pack of Resistance Bands for Work and more."
+          "a": "Yes! Today's makeup deals include FURSUN Fluted Makeup Vanity Desk with HD 3 Way Mir and Pro Full Cover Liquid Concealer, Waterproof Smooth and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-03T09:50:03.030Z",
-      "updatedAt": "2026-07-03T09:50:03.030Z"
+      "generatedAt": "2026-07-03T10:00:03.269Z",
+      "updatedAt": "2026-07-03T10:00:03.269Z"
     },
     {
       "date": "2026-07-02",
@@ -14871,5 +14871,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-03T09:50:03.034Z"
+  "generatedAt": "2026-07-03T10:00:03.275Z"
 }
