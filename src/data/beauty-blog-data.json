@@ -9,8 +9,8 @@
         "Makeup",
         "Body Care",
         "Skincare",
-        "Fragrance",
         "Hair Care",
+        "Fragrance",
         "Nails"
       ],
       "bySubcat": {
@@ -74,6 +74,16 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71vIyye8FOL.jpg",
             "url": "https://www.amazon.com/BS-MALL-Makeup-Mirror-Travel-Brushes/dp/B0F5W83B9T?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=cefd6b77a0371290ae5dc58e70376719&language=en_US"
+          },
+          {
+            "asin": "B0C7ZM9VB8",
+            "slug": "all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss",
+            "title": "All in One Makeup Kit for Women Eyeshadow Eyeliner lipgloss, Lipstick Makeup brushes Mascara Eyebrow pencil Concealer Fa",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
+            "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
           }
         ],
         "Body Care": [
@@ -128,16 +138,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/616kC3A3jwL.jpg",
             "url": "https://www.amazon.com/dp/B004AI97MA?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0BQCZKYHP",
-            "slug": "viviscal-hair-thickening-serum-leave-in-elixir-for-thicker-f",
-            "title": "Viviscal Hair Thickening Serum, Leave-in Elixir for Thicker, Fuller Looking Hair, Instant Lightweight Hair Product with ",
-            "discount": 48,
-            "rating": "HOT",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Gz1r0qDIL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BQCZKYHP?psc=1&tag=noya0b-20"
           },
           {
             "asin": "B0GJR4JJPC",
@@ -240,17 +240,39 @@
             "url": "https://www.amazon.com/dp/B0DMC6ZRJZ?lv=shuf&ascsubtag=b80081ae76f811f18b9d12d4662602660INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4eaa6fd3a0830d835bbc2e7e60ca6de2&language=en_US"
           }
         ],
-        "Fragrance": [
+        "Hair Care": [
           {
-            "asin": "B0GRJCK5Q2",
-            "slug": "sol-de-janeiro-limited-edition-hair-body-perfume-mist-fragra",
-            "title": "Sol de Janeiro Limited Edition Hair & Body Perfume Mist Fragrance (3 Fl Oz (Pack of 1), Limonada Gelada) : Beauty & Pers",
-            "discount": 40,
-            "rating": "HOT",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GlebnGK4L.jpg",
-            "url": "https://www.amazon.com/dp/B0GRJCK5Q2?th=1&tag=noya0b-20"
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
           },
+          {
+            "asin": "B00R42M8OS",
+            "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
+            "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L.jpg",
+            "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
+          },
+          {
+            "asin": "B0BXKK1BJB",
+            "slug": "3-in-1-1875w-hair-dryer-straightening-curling-iron-parwin-pr",
+            "title": "3 in 1 1875W Hair Dryer Straightening Curling Iron, PARWIN PRO BEAUTY Hair Styling Set, Valentine Gift, Ion Hair Dryer,",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oywnRurQL.jpg",
+            "url": "https://www.amazon.com/dp/B0BXKK1BJB?tag=noya0b-20"
+          }
+        ],
+        "Fragrance": [
           {
             "asin": "B09V1RMFTP",
             "slug": "victorias-secret-body-fragrance-mist-pure-seduction-84-fl-oz",
@@ -280,28 +302,6 @@
             "subcat": "Fragrance",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08G9K79FC?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=23764cec770e11f1a1c28ef13d59892c0INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f44009e4a02d90eea90fbcc763c0d6d4&language=en_US"
-          }
-        ],
-        "Hair Care": [
-          {
-            "asin": "B08SL72G3P",
-            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-          },
-          {
-            "asin": "B00R42M8OS",
-            "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
-            "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L.jpg",
-            "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
           }
         ],
         "Nails": [
@@ -369,16 +369,6 @@
           "url": "https://www.amazon.com/dp/B004AI97MA?th=1&tag=noya0b-20"
         },
         {
-          "asin": "B0BQCZKYHP",
-          "slug": "viviscal-hair-thickening-serum-leave-in-elixir-for-thicker-f",
-          "title": "Viviscal Hair Thickening Serum, Leave-in Elixir for Thicker, Fuller Looking Hair, Instant Lightweight Hair Product with ",
-          "discount": 48,
-          "rating": "HOT",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Gz1r0qDIL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BQCZKYHP?psc=1&tag=noya0b-20"
-        },
-        {
           "asin": "B0G6D4XDFK",
           "slug": "fursun-fluted-makeup-vanity-desk-with-hd-3-way-mirror-and-li",
           "title": "FURSUN Fluted Makeup Vanity Desk with HD 3 Way Mirror and Lights, 51\" Large Corner Vanity Table with Charging Station, D",
@@ -397,16 +387,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71sZY2bG-kL.jpg",
           "url": "https://www.amazon.com/dp/B0GJR4JJPC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GRJCK5Q2",
-          "slug": "sol-de-janeiro-limited-edition-hair-body-perfume-mist-fragra",
-          "title": "Sol de Janeiro Limited Edition Hair & Body Perfume Mist Fragrance (3 Fl Oz (Pack of 1), Limonada Gelada) : Beauty & Pers",
-          "discount": 40,
-          "rating": "HOT",
-          "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GlebnGK4L.jpg",
-          "url": "https://www.amazon.com/dp/B0GRJCK5Q2?th=1&tag=noya0b-20"
         },
         {
           "asin": "B08SL72G3P",
@@ -627,6 +607,26 @@
           "subcat": "Nails",
           "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C7ZM9VB8",
+          "slug": "all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss",
+          "title": "All in One Makeup Kit for Women Eyeshadow Eyeliner lipgloss, Lipstick Makeup brushes Mascara Eyebrow pencil Concealer Fa",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
+          "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
+        },
+        {
+          "asin": "B0BXKK1BJB",
+          "slug": "3-in-1-1875w-hair-dryer-straightening-curling-iron-parwin-pr",
+          "title": "3 in 1 1875W Hair Dryer Straightening Curling Iron, PARWIN PRO BEAUTY Hair Styling Set, Valentine Gift, Ion Hair Dryer,",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oywnRurQL.jpg",
+          "url": "https://www.amazon.com/dp/B0BXKK1BJB?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-03T22:40:04.113Z",
-      "updatedAt": "2026-07-03T22:40:04.113Z"
+      "generatedAt": "2026-07-03T22:50:04.679Z",
+      "updatedAt": "2026-07-03T22:50:04.679Z"
     },
     {
       "date": "2026-07-02",
@@ -14871,5 +14871,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-03T22:40:04.117Z"
+  "generatedAt": "2026-07-03T22:50:04.683Z"
 }
