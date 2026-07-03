@@ -10,7 +10,6 @@
         "Makeup",
         "Body Care",
         "Fragrance",
-        "Hair Care",
         "Nails"
       ],
       "bySubcat": {
@@ -184,7 +183,7 @@
             "discount": 60,
             "rating": "FIRE",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JsqkV0QFS._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07W5SSYJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=af2267349478ffa1c0a02f0ddbc3ed80&language=en_US"
           },
           {
@@ -196,6 +195,16 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/81W9MLeVw2L.jpg",
             "url": "https://www.amazon.com/dp/B0G6D4XDFK?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B089W5FN7D",
+            "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
+            "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
           },
           {
             "asin": "B0FW4VWB3B",
@@ -302,28 +311,16 @@
             "url": "https://www.amazon.com/dp/B09V1RMFTP?lv=shuf&ascsubtag=srctok-509850f770e1e67b&btn_ref=srctok-509850f770e1e67b&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=65c076c8c395fa3581f3b3776d60e183&language=en_US"
           }
         ],
-        "Hair Care": [
-          {
-            "asin": "B00R42M8OS",
-            "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
-            "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L.jpg",
-            "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
-          }
-        ],
         "Nails": [
           {
-            "asin": "B097BSKN9P",
-            "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
-            "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
+            "asin": "B0BK9872HC",
+            "slug": "jodsone-gel-nail-polish-kit-60-pcs-with-u-v-light-soak-off-b",
+            "title": "JODSONE Gel Nail Polish Kit 60 PCS with U V Light Soak off Base Top Coat 55 Shine Colors Gel Nail Kit Bright and Dark Br",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
+            "imageUrl": "https://m.media-amazon.com/images/I/71G-mlJMJsL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BK9872HC?tag=noya0b-20"
           }
         ]
       },
@@ -345,7 +342,7 @@
           "discount": 60,
           "rating": "FIRE",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JsqkV0QFS._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07W5SSYJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=af2267349478ffa1c0a02f0ddbc3ed80&language=en_US"
         },
         {
@@ -437,6 +434,26 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61HEiR+nNwL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GX652H5R?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0BK9872HC",
+          "slug": "jodsone-gel-nail-polish-kit-60-pcs-with-u-v-light-soak-off-b",
+          "title": "JODSONE Gel Nail Polish Kit 60 PCS with U V Light Soak off Base Top Coat 55 Shine Colors Gel Nail Kit Bright and Dark Br",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Nails",
+          "imageUrl": "https://m.media-amazon.com/images/I/71G-mlJMJsL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0BK9872HC?tag=noya0b-20"
+        },
+        {
+          "asin": "B089W5FN7D",
+          "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
+          "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
         },
         {
           "asin": "B0FW4VWB3B",
@@ -607,26 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DMC6ZRJZ?lv=shuf&ascsubtag=b80081ae76f811f18b9d12d4662602660INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4eaa6fd3a0830d835bbc2e7e60ca6de2&language=en_US"
-        },
-        {
-          "asin": "B00R42M8OS",
-          "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
-          "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L.jpg",
-          "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
-        },
-        {
-          "asin": "B097BSKN9P",
-          "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
-          "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Nails",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-03T21:20:03.824Z",
-      "updatedAt": "2026-07-03T21:20:03.824Z"
+      "generatedAt": "2026-07-03T21:30:02.477Z",
+      "updatedAt": "2026-07-03T21:30:02.477Z"
     },
     {
       "date": "2026-07-02",
@@ -14871,5 +14868,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-03T21:20:03.829Z"
+  "generatedAt": "2026-07-03T21:30:02.482Z"
 }
