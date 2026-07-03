@@ -4,17 +4,54 @@
       "date": "2026-07-03",
       "slug": "2026-07-03",
       "title": "🔥 Best Deals Today — July 3, 2026",
-      "intro": "Today's best online deals for Friday, July 3, 2026 — 10 hand-picked discounts across Electronics, Pet Supplies, Smart Home and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, July 3, 2026 — 10 hand-picked discounts across Electronics, Health, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
-        "Pet Supplies",
+        "Health",
+        "Other",
         "Smart Home",
         "Grocery & Food",
         "Home & Kitchen",
-        "Tools",
-        "Sports"
+        "Pet Supplies"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B005ECO3H0",
+            "slug": "yum-kraft-easy-mac-and-cheese-6-pack-as-low-as-4xx",
+            "title": "Yum! Kraft Easy Mac and Cheese 6 pack as low as $4.xx! 🧀",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+gUUoPZ9L.jpg",
+            "url": "https://www.amazon.com/dp/B005ECO3H0?th=1&linkCode=sl2&tag=noya0b-20&linkId=c7ffc42fab61537db551e8e5396d9f2b&language=en_US"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B07GM1ZDSD",
+            "slug": "protein-coffee-co-nutrition-shake-coffee-protein-with-20g-of",
+            "title": "Protein Coffee Co. Nutrition Shake - Coffee Protein With 20g Of Protein And 2 Shots Of Espresso - Coffee Protein Powder",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/81jq7Ne-AOL.jpg",
+            "url": "https://www.amazon.com/dp/B07GM1ZDSD?tag=noya0b-20"
+          },
+          {
+            "asin": "B00T4D0CQQ",
+            "slug": "pure-protein-powder-whey-high-protein-low-sugar-gluten-free",
+            "title": "Pure Protein Powder, Whey, High Protein, Low Sugar, Gluten Free, Vanilla Cream, 1.75 lbs : Health & Household",
+            "price": "$36.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ULD9DBsaL.jpg",
+            "url": "https://www.amazon.com/dp/B00T4D0CQQ?tag=noya0b-20"
+          }
+        ],
         "Smart Home": [
           {
             "asin": "B0CL9C4PYT",
@@ -100,47 +137,43 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS.jpg",
             "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
-          },
-          {
-            "asin": "B00OGPSW4G",
-            "slug": "best-pet-supplies-cat-bed-for-indoor-cat-domed-tent-house-wi",
-            "title": "Best Pet Supplies Cat Bed for Indoor Cat, Domed Tent House with Removable Pillow, Covered Cat Cave for Small Dog, Puppie",
-            "price": "$27.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/51S2Zgu1iKL.jpg",
-            "url": "https://www.amazon.com/dp/B00OGPSW4G?tag=noya0b-20"
-          }
-        ],
-        "Tools": [
-          {
-            "asin": "B0CC1RHJY1",
-            "slug": "power-drill-cordless-dekopro-cordless-drill-20v-electric-pow",
-            "title": "Power Drill Cordless: DEKOPRO Cordless Drill 20V Electric Power Drills Set Tool Drills Cord-less Set with Battery and Ch",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools",
-            "imageUrl": "https://m.media-amazon.com/images/I/81btKazQFaL.jpg",
-            "url": "https://www.amazon.com/dp/B0CC1RHJY1?tag=noya0b-20"
-          }
-        ],
-        "Sports": [
-          {
-            "asin": "B0DV4HXQXY",
-            "slug": "clostnature-1-person-tent-for-backpacking-ultralight-one-per",
-            "title": "Clostnature 1-Person Tent for Backpacking - Ultralight One Person Backpacking Tent, Hiking Tents for One Man, Solo, Sing",
-            "price": "$79.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
-            "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B005ECO3H0",
+          "slug": "yum-kraft-easy-mac-and-cheese-6-pack-as-low-as-4xx",
+          "title": "Yum! Kraft Easy Mac and Cheese 6 pack as low as $4.xx! 🧀",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+gUUoPZ9L.jpg",
+          "url": "https://www.amazon.com/dp/B005ECO3H0?th=1&linkCode=sl2&tag=noya0b-20&linkId=c7ffc42fab61537db551e8e5396d9f2b&language=en_US"
+        },
+        {
+          "asin": "B07GM1ZDSD",
+          "slug": "protein-coffee-co-nutrition-shake-coffee-protein-with-20g-of",
+          "title": "Protein Coffee Co. Nutrition Shake - Coffee Protein With 20g Of Protein And 2 Shots Of Espresso - Coffee Protein Powder",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/81jq7Ne-AOL.jpg",
+          "url": "https://www.amazon.com/dp/B07GM1ZDSD?tag=noya0b-20"
+        },
+        {
+          "asin": "B00T4D0CQQ",
+          "slug": "pure-protein-powder-whey-high-protein-low-sugar-gluten-free",
+          "title": "Pure Protein Powder, Whey, High Protein, Low Sugar, Gluten Free, Vanilla Cream, 1.75 lbs : Health & Household",
+          "price": "$36.79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ULD9DBsaL.jpg",
+          "url": "https://www.amazon.com/dp/B00T4D0CQQ?tag=noya0b-20"
+        },
         {
           "asin": "B0CL9C4PYT",
           "slug": "amazon-basics-smart-plug-with-timer-function-voice-control-w",
@@ -217,45 +250,12 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS.jpg",
           "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
-        },
-        {
-          "asin": "B00OGPSW4G",
-          "slug": "best-pet-supplies-cat-bed-for-indoor-cat-domed-tent-house-wi",
-          "title": "Best Pet Supplies Cat Bed for Indoor Cat, Domed Tent House with Removable Pillow, Covered Cat Cave for Small Dog, Puppie",
-          "price": "$27.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/51S2Zgu1iKL.jpg",
-          "url": "https://www.amazon.com/dp/B00OGPSW4G?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CC1RHJY1",
-          "slug": "power-drill-cordless-dekopro-cordless-drill-20v-electric-pow",
-          "title": "Power Drill Cordless: DEKOPRO Cordless Drill 20V Electric Power Drills Set Tool Drills Cord-less Set with Battery and Ch",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools",
-          "imageUrl": "https://m.media-amazon.com/images/I/81btKazQFaL.jpg",
-          "url": "https://www.amazon.com/dp/B0CC1RHJY1?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DV4HXQXY",
-          "slug": "clostnature-1-person-tent-for-backpacking-ultralight-one-per",
-          "title": "Clostnature 1-Person Tent for Backpacking - Ultralight One Person Backpacking Tent, Hiking Tents for One Man, Solo, Sing",
-          "price": "$79.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
-          "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 3, 2026?",
-          "a": "The best deals today include \"Amazon Basics Smart Plug with Timer Function, Voice Control,...\" and 9 other hand-picked discounts. Deals span Electronics, Pet Supplies, Smart Home and are updated daily."
+          "a": "The best deals today include \"Yum! Kraft Easy Mac and Cheese 6 pack as low as $4.xx! 🧀...\" and 9 other hand-picked discounts. Deals span Electronics, Health, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-03T05:40:02.118Z",
-      "updatedAt": "2026-07-03T05:40:02.118Z"
+      "generatedAt": "2026-07-03T05:50:00.837Z",
+      "updatedAt": "2026-07-03T05:50:00.837Z"
     },
     {
       "date": "2026-07-02",
@@ -6758,5 +6758,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-03T05:40:02.121Z"
+  "generatedAt": "2026-07-03T05:50:00.840Z"
 }
