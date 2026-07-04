@@ -4,17 +4,65 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Beauty, Other, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Beauty, Pet Supplies, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
-        "Other",
+        "Pet Supplies",
         "Garden & Outdoor",
-        "Electronics",
-        "Sports & Fitness",
-        "Grocery & Food"
+        "Home & Kitchen",
+        "Other",
+        "Electronics"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0FH6YL3XC",
+            "slug": "astercook-deep-carbonized-bamboo-cutting-boards-for-kitchen",
+            "title": "Astercook Deep-Carbonized Bamboo Cutting Boards for Kitchen with Wood Storage Stand, Reversible Charcuterie & Chopping B",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/91xky+JYmZL.jpg",
+            "url": "https://www.amazon.com/Astercook-Deep-Carbonized-Reversible-Charcuterie-Easy-Grip/dp/B0FH6YL3XC?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=2119f4d3c9018f75487533adc9ad4c32&language=en_US"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B09NW9G177",
+            "slug": "fresh-step-cat-litter-crystals-deodorizer-non-toxic-odor-neu",
+            "title": "Fresh Step Cat Litter Crystals Deodorizer, Non Toxic Odor Neutralizing Crystals for Litter Boxes that Help Control Smell",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81YUEnLx6PL.jpg",
+            "url": "https://www.amazon.com/dp/B09NW9G177?th=1&linkCode=sl2&tag=noya0b-20&linkId=52a432733e7c920b5d881cd1b0d216fb&language=en_US"
+          },
+          {
+            "asin": "B08NDFWQB1",
+            "slug": "pupteck-adjustable-dog-harness-collar-and-leash-set-step-in",
+            "title": "PUPTECK Adjustable Dog Harness Collar and Leash Set Step in No Pull Pet Harness for Small Medium Dogs Puppy and Cats Out",
+            "price": "$11.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81oJWp7EMZL.jpg",
+            "url": "https://www.amazon.com/dp/B08NDFWQB1?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
+          {
+            "asin": "B005IHST0I",
+            "slug": "johnsons-baby-oil-gel-with-aloe-vera-vitamin-e-hypoallergeni",
+            "title": "Johnson's Baby Oil Gel with Aloe Vera & Vitamin E, Hypoallergenic Baby Skin Care, 6.5 fl. oz",
+            "price": "$4.68",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/31cUhkGG0jL.jpg",
+            "url": "https://www.amazon.com/dp/B005IHST0I?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B07FLD6T6Q",
             "slug": "neutrogena-night-calming-makeup-remover-face-wipes-nighttime",
@@ -36,17 +84,30 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71huRL+8ABL.jpg",
             "url": "https://www.amazon.com/Bliss-Block-Tinted-Sunscreen-30-1-4/dp/B092LFGWW6?th=1&linkCode=sl2&tag=noya0b-20&linkId=01694eac2b23b42715e791e5dd1a201b&language=en_US"
-          },
+          }
+        ],
+        "Garden & Outdoor": [
           {
-            "asin": "B0CVJZ8TCH",
-            "slug": "pacifica-passion-fruit-perfume-tropical-fruity-floral-clean",
-            "title": "Pacifica Passion Fruit Perfume – Tropical Fruity Floral Clean Perfume for Women with Passionfruit, Pineapple & Vanilla, ",
-            "price": "$9",
+            "asin": "B08X6KFNJ4",
+            "slug": "2-person-camping-tent-with-rain-fly-and-carrying-bag-lightwe",
+            "title": "2 Person Camping Tent with Rain Fly and Carrying Bag – Lightweight Outdoor Pop Up Tents for Camping Essentials, Music Fe",
+            "price": "$14",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81K7ORmN9GL.jpg",
-            "url": "https://www.amazon.com/dp/B0CVJZ8TCH?th=1&tag=noya0b-20"
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81dyb8TcMbL.jpg",
+            "url": "https://www.amazon.com/dp/B08X6KFNJ4?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0F8BJNH2Z",
+            "slug": "hiseego-2-pack-cordless-table-lamps-rechargeable-battery-pow",
+            "title": "HISEEGO 2 Pack Cordless Table Lamps, Rechargeable Battery Powered Lighting, Indoor/Outdoor Table Lamps for Patio Restaur",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71sGdRNR2gL.jpg",
+            "url": "https://www.amazon.com/dp/B0F8BJNH2Z?th=1&tag=noya0b-20"
           }
         ],
         "Other": [
@@ -60,41 +121,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/Shark-Professional-Lift-Away-Anti-Allergy-NV501/dp/B0091JG0LY?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c95cd14ca52eacf34c31d622fbace0da&language=en_US"
-          },
-          {
-            "asin": "B0DQ26VDJB",
-            "slug": "peppa-pig-soft-potty-training-toilet-seat-baby-potty-trainin",
-            "title": "\udecd️Peppa Pig Soft Potty Training Toilet Seat, Baby Potty Training, Safe, Easy to Clean",
-            "price": "$16.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cuCGrKahL.jpg",
-            "url": "https://www.amazon.com/dp/B0DQ26VDJB/ref=cm_sw_r_as_gl_api_gl_i_dl_1WY8XKAHV44VSEAQHA8E?linkCode=ml1&tag=noya0b-20&linkId=c61505d863c1e635e02f9066ba124a5b"
-          },
-          {
-            "asin": "B07VMT2DHL",
-            "slug": "fiskars-crafts-essentials-5-piece-set-45mm-blade-rotary-cutt",
-            "title": "\udecd️Fiskars Crafts Essentials 5-Piece Set - 45mm Blade Rotary Cutter for Fabric, Self Healing Cutting Mat, and Sewing Rule",
-            "price": "$61.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07VMT2DHL/ref=cm_sw_r_as_gl_api_gl_i_XWPGZ9EPYKE7MTY7SNXB?linkCode=ml1&tag=noya0b-20&linkId=91c09f60b4399aacb9ed8beea697109a"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0F8BJNH2Z",
-            "slug": "hiseego-2-pack-cordless-table-lamps-rechargeable-battery-pow",
-            "title": "HISEEGO 2 Pack Cordless Table Lamps, Rechargeable Battery Powered Lighting, Indoor/Outdoor Table Lamps for Patio Restaur",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71sGdRNR2gL.jpg",
-            "url": "https://www.amazon.com/dp/B0F8BJNH2Z?th=1&tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -109,35 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51Ac2g8eREL.jpg",
             "url": "https://www.amazon.com/OhO-Sunglasses-Bluetooth-Version-Wireless/dp/B08FDB3LVR?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=44b18c1c67b546e101e14c7b4bec036f&language=en_US"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B07HMGXKH3",
-            "slug": "plusinno-fishing-rod-and-reel-combos-24-ton-carbon-fiber-tel",
-            "title": "\udecd️PLUSINNO Fishing Rod and Reel Combos -24 Ton Carbon Fiber Telescopic Fishing Pole - Spinning Reel 12 +1 Shielded Beari",
-            "price": "$59.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vRldK4+8S.jpg",
-            "url": "https://www.amazon.com/dp/B07HMGXKH3/ref=cm_sw_r_as_gl_api_gl_i_X821XJAY9GCD0PFGY7PB?linkCode=ml1&tag=noya0b-20&linkId=1280d46db943c6494df7e869b6d1c26a"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0F7KF9PJR",
-            "slug": "stanley-everyday-camp-mug-12oz-drink-through-lid-cup-for-cof",
-            "title": "\udecd️STANLEY Everyday Camp Mug 12oz | Drink Through Lid | Cup for Coffee, Tea and Drinks | Insulated Stainless Steel Coffee",
-            "price": "$25.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61NBau-vMEL.jpg",
-            "url": "https://www.amazon.com/dp/B0F7KF9PJR/ref=cm_sw_r_as_gl_api_gl_i_K3BAZZPYVXGANV23VZKX?linkCode=ml1&tag=noya0b-20&linkId=e93b205d8ee1def694297129a640be11"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FH6YL3XC",
+          "slug": "astercook-deep-carbonized-bamboo-cutting-boards-for-kitchen",
+          "title": "Astercook Deep-Carbonized Bamboo Cutting Boards for Kitchen with Wood Storage Stand, Reversible Charcuterie & Chopping B",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/91xky+JYmZL.jpg",
+          "url": "https://www.amazon.com/Astercook-Deep-Carbonized-Reversible-Charcuterie-Easy-Grip/dp/B0FH6YL3XC?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=2119f4d3c9018f75487533adc9ad4c32&language=en_US"
+        },
+        {
+          "asin": "B09NW9G177",
+          "slug": "fresh-step-cat-litter-crystals-deodorizer-non-toxic-odor-neu",
+          "title": "Fresh Step Cat Litter Crystals Deodorizer, Non Toxic Odor Neutralizing Crystals for Litter Boxes that Help Control Smell",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YUEnLx6PL.jpg",
+          "url": "https://www.amazon.com/dp/B09NW9G177?th=1&linkCode=sl2&tag=noya0b-20&linkId=52a432733e7c920b5d881cd1b0d216fb&language=en_US"
+        },
+        {
+          "asin": "B08NDFWQB1",
+          "slug": "pupteck-adjustable-dog-harness-collar-and-leash-set-step-in",
+          "title": "PUPTECK Adjustable Dog Harness Collar and Leash Set Step in No Pull Pet Harness for Small Medium Dogs Puppy and Cats Out",
+          "price": "$11.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81oJWp7EMZL.jpg",
+          "url": "https://www.amazon.com/dp/B08NDFWQB1?tag=noya0b-20"
+        },
+        {
+          "asin": "B005IHST0I",
+          "slug": "johnsons-baby-oil-gel-with-aloe-vera-vitamin-e-hypoallergeni",
+          "title": "Johnson's Baby Oil Gel with Aloe Vera & Vitamin E, Hypoallergenic Baby Skin Care, 6.5 fl. oz",
+          "price": "$4.68",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/31cUhkGG0jL.jpg",
+          "url": "https://www.amazon.com/dp/B005IHST0I?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B08X6KFNJ4",
+          "slug": "2-person-camping-tent-with-rain-fly-and-carrying-bag-lightwe",
+          "title": "2 Person Camping Tent with Rain Fly and Carrying Bag – Lightweight Outdoor Pop Up Tents for Camping Essentials, Music Fe",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81dyb8TcMbL.jpg",
+          "url": "https://www.amazon.com/dp/B08X6KFNJ4?th=1&tag=noya0b-20"
+        },
         {
           "asin": "B07FLD6T6Q",
           "slug": "neutrogena-night-calming-makeup-remover-face-wipes-nighttime",
@@ -192,67 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51Ac2g8eREL.jpg",
           "url": "https://www.amazon.com/OhO-Sunglasses-Bluetooth-Version-Wireless/dp/B08FDB3LVR?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=44b18c1c67b546e101e14c7b4bec036f&language=en_US"
-        },
-        {
-          "asin": "B07HMGXKH3",
-          "slug": "plusinno-fishing-rod-and-reel-combos-24-ton-carbon-fiber-tel",
-          "title": "\udecd️PLUSINNO Fishing Rod and Reel Combos -24 Ton Carbon Fiber Telescopic Fishing Pole - Spinning Reel 12 +1 Shielded Beari",
-          "price": "$59.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vRldK4+8S.jpg",
-          "url": "https://www.amazon.com/dp/B07HMGXKH3/ref=cm_sw_r_as_gl_api_gl_i_X821XJAY9GCD0PFGY7PB?linkCode=ml1&tag=noya0b-20&linkId=1280d46db943c6494df7e869b6d1c26a"
-        },
-        {
-          "asin": "B0DQ26VDJB",
-          "slug": "peppa-pig-soft-potty-training-toilet-seat-baby-potty-trainin",
-          "title": "\udecd️Peppa Pig Soft Potty Training Toilet Seat, Baby Potty Training, Safe, Easy to Clean",
-          "price": "$16.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cuCGrKahL.jpg",
-          "url": "https://www.amazon.com/dp/B0DQ26VDJB/ref=cm_sw_r_as_gl_api_gl_i_dl_1WY8XKAHV44VSEAQHA8E?linkCode=ml1&tag=noya0b-20&linkId=c61505d863c1e635e02f9066ba124a5b"
-        },
-        {
-          "asin": "B07VMT2DHL",
-          "slug": "fiskars-crafts-essentials-5-piece-set-45mm-blade-rotary-cutt",
-          "title": "\udecd️Fiskars Crafts Essentials 5-Piece Set - 45mm Blade Rotary Cutter for Fabric, Self Healing Cutting Mat, and Sewing Rule",
-          "price": "$61.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B07VMT2DHL/ref=cm_sw_r_as_gl_api_gl_i_XWPGZ9EPYKE7MTY7SNXB?linkCode=ml1&tag=noya0b-20&linkId=91c09f60b4399aacb9ed8beea697109a"
-        },
-        {
-          "asin": "B0F7KF9PJR",
-          "slug": "stanley-everyday-camp-mug-12oz-drink-through-lid-cup-for-cof",
-          "title": "\udecd️STANLEY Everyday Camp Mug 12oz | Drink Through Lid | Cup for Coffee, Tea and Drinks | Insulated Stainless Steel Coffee",
-          "price": "$25.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61NBau-vMEL.jpg",
-          "url": "https://www.amazon.com/dp/B0F7KF9PJR/ref=cm_sw_r_as_gl_api_gl_i_K3BAZZPYVXGANV23VZKX?linkCode=ml1&tag=noya0b-20&linkId=e93b205d8ee1def694297129a640be11"
-        },
-        {
-          "asin": "B0CVJZ8TCH",
-          "slug": "pacifica-passion-fruit-perfume-tropical-fruity-floral-clean",
-          "title": "Pacifica Passion Fruit Perfume – Tropical Fruity Floral Clean Perfume for Women with Passionfruit, Pineapple & Vanilla, ",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81K7ORmN9GL.jpg",
-          "url": "https://www.amazon.com/dp/B0CVJZ8TCH?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"Neutrogena Night Calming Makeup Remover Face Wipes, Nighttim...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Astercook Deep-Carbonized Bamboo Cutting Boards for Kitchen ...\" and 9 other hand-picked discounts. Deals span Beauty, Pet Supplies, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T21:20:01.918Z",
-      "updatedAt": "2026-07-04T21:20:01.918Z"
+      "generatedAt": "2026-07-04T21:30:02.237Z",
+      "updatedAt": "2026-07-04T21:30:02.237Z"
     },
     {
       "date": "2026-07-03",
@@ -7023,5 +7023,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T21:20:01.920Z"
+  "generatedAt": "2026-07-04T21:30:02.240Z"
 }
