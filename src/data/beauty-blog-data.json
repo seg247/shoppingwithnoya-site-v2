@@ -9,8 +9,8 @@
         "Makeup",
         "Body Care",
         "Skincare",
-        "Fragrance",
         "Hair Care",
+        "Fragrance",
         "Nails",
         "Beauty"
       ],
@@ -23,7 +23,7 @@
             "discount": 60,
             "rating": "FIRE",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JsqkV0QFS._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07W5SSYJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=af2267349478ffa1c0a02f0ddbc3ed80&language=en_US"
           },
           {
@@ -131,6 +131,16 @@
             "url": "https://www.amazon.com/dp/B0GJR4JJPC?tag=noya0b-20"
           },
           {
+            "asin": "B07N31VZP8",
+            "slug": "amazon-basics-oil-free-facial-moisturizer-for-sensitive-skin",
+            "title": "Amazon Basics Oil-free Facial Moisturizer for Sensitive Skin, Fragrance Free, Non-Comedogenic, 4 Fluid Ounce (Previously",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/61rjgd27FML._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07N31VZP8?tag=noya0b-20"
+          },
+          {
             "asin": "B0175DVMMY",
             "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
             "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
@@ -191,29 +201,17 @@
             "url": "https://www.amazon.com/dp/B0F79LLZWH/ref=cm_sw_r_as_gl_apa_gl_i_SCEKFREMQB7X0RRH3HJK?linkCode=ml1&tag=noya0b-20&linkId=0362f572937710565ba70e07fa9e11bc"
           }
         ],
-        "Fragrance": [
-          {
-            "asin": "B09232XNTX",
-            "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
-            "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL._SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
-          },
-          {
-            "asin": "B08G9K79FC",
-            "slug": "lubriderm-advanced-therapy-body-lotion-fragrance-free-lotion",
-            "title": "Lubriderm Advanced Therapy Body Lotion, Fragrance-Free Lotion for Extremely Dry Skin, Pro-Ceramide Hydration for Itchy, ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jRBae+2qL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08G9K79FC/ref=cm_sw_r_as_gl_api_gl_i_G3ENHSPM3WVKA2GS4J02?linkCode=ml1&tag=noya0b-20&linkId=9155846327a13ccf0e22c969479c9577"
-          }
-        ],
         "Hair Care": [
+          {
+            "asin": "B0DGQSL9KR",
+            "slug": "shark-flexfusion-hair-straightener-powerful-hair-dryer-with",
+            "title": "Shark FlexFusion Hair Straightener & Powerful Hair Dryer with Fusion Hair Brush, Ceramic Air Styler with Auto-Wrap Curle",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/712lAQHIq8L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DGQSL9KR?tag=noya0b-20"
+          },
           {
             "asin": "B071HR14SJ",
             "slug": "meguiars-gold-class-car-wash-ultra-rich-foam-car-wash-soap-a",
@@ -233,16 +231,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/81P90PJG0+L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CFG7FKWN?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DGQSL9KR",
-            "slug": "shark-flexfusion-hair-straightener-powerful-hair-dryer-with",
-            "title": "Shark FlexFusion Hair Straightener & Powerful Hair Dryer with Fusion Hair Brush, Ceramic Air Styler with Auto-Wrap Curle",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/712lAQHIq8L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DGQSL9KR?tag=noya0b-20"
           },
           {
             "asin": "B08CL3CJQW",
@@ -283,16 +271,28 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71Lj1TQ5uZL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00AO4E9DG/ref=cm_sw_r_as_gl_apa_gl_i_5T9W7D6YGFFBGVZHBAFD?linkCode=ml1&tag=noya0b-20&linkId=e7fc3c32088b9b3e40861d7846d77270"
-          },
+          }
+        ],
+        "Fragrance": [
           {
-            "asin": "B0DXWP12C8",
-            "slug": "kitsch-hair-perfume-for-women-warm-sugar-clean-deodorizing-p",
-            "title": "Kitsch Hair Perfume for Women - Warm Sugar | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Body",
+            "asin": "B09232XNTX",
+            "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
+            "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/714UhZVsYBL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DXWP12C8/ref=cm_sw_r_as_gl_apa_gl_i_W6QJY5BCHX4031Y76KXM?linkCode=ml1&tag=noya0b-20&linkId=936aab504b6b9acea5eb56cd01378371"
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL._SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
+          },
+          {
+            "asin": "B08G9K79FC",
+            "slug": "lubriderm-advanced-therapy-body-lotion-fragrance-free-lotion",
+            "title": "Lubriderm Advanced Therapy Body Lotion, Fragrance-Free Lotion for Extremely Dry Skin, Pro-Ceramide Hydration for Itchy, ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61jRBae+2qL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08G9K79FC/ref=cm_sw_r_as_gl_api_gl_i_G3ENHSPM3WVKA2GS4J02?linkCode=ml1&tag=noya0b-20&linkId=9155846327a13ccf0e22c969479c9577"
           }
         ],
         "Nails": [
@@ -338,7 +338,7 @@
           "discount": 60,
           "rating": "FIRE",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JsqkV0QFS._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07W5SSYJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=af2267349478ffa1c0a02f0ddbc3ed80&language=en_US"
         },
         {
@@ -380,6 +380,26 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61drEghJ5aL._SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DGQSL9KR",
+          "slug": "shark-flexfusion-hair-straightener-powerful-hair-dryer-with",
+          "title": "Shark FlexFusion Hair Straightener & Powerful Hair Dryer with Fusion Hair Brush, Ceramic Air Styler with Auto-Wrap Curle",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/712lAQHIq8L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DGQSL9KR?tag=noya0b-20"
+        },
+        {
+          "asin": "B07N31VZP8",
+          "slug": "amazon-basics-oil-free-facial-moisturizer-for-sensitive-skin",
+          "title": "Amazon Basics Oil-free Facial Moisturizer for Sensitive Skin, Fragrance Free, Non-Comedogenic, 4 Fluid Ounce (Previously",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/61rjgd27FML._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07N31VZP8?tag=noya0b-20"
         },
         {
           "asin": "B0175DVMMY",
@@ -480,16 +500,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/81LpDWsSL5L.jpg",
           "url": "https://www.amazon.com/dp/B0CBC9KFD9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DGQSL9KR",
-          "slug": "shark-flexfusion-hair-straightener-powerful-hair-dryer-with",
-          "title": "Shark FlexFusion Hair Straightener & Powerful Hair Dryer with Fusion Hair Brush, Ceramic Air Styler with Auto-Wrap Curle",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/712lAQHIq8L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DGQSL9KR?tag=noya0b-20"
         },
         {
           "asin": "B07GHS37LC",
@@ -620,16 +630,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61AfU330UmL.jpg",
           "url": "https://www.amazon.com/dp/B0D82892PJ/ref=cm_sw_r_as_gl_apa_gl_i_EWZBSZNKD6JE2E1EA70T?linkCode=ml1&tag=noya0b-20&linkId=3a5da6a2f29ad6976c11d6962a3a404b"
-        },
-        {
-          "asin": "B0DXWP12C8",
-          "slug": "kitsch-hair-perfume-for-women-warm-sugar-clean-deodorizing-p",
-          "title": "Kitsch Hair Perfume for Women - Warm Sugar | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Body",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/714UhZVsYBL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DXWP12C8/ref=cm_sw_r_as_gl_apa_gl_i_W6QJY5BCHX4031Y76KXM?linkCode=ml1&tag=noya0b-20&linkId=936aab504b6b9acea5eb56cd01378371"
         }
       ],
       "featuredDeal": {
@@ -653,7 +653,7 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include mixsoon PDRN Collagen Hydrogel Face Mask - Deeply  and MASON NATURAL Collagen Premium Skin Cream - Anti A. Check the full list above for current prices."
+          "a": "Today's skincare deals include mixsoon PDRN Collagen Hydrogel Face Mask - Deeply  and Amazon Basics Oil-free Facial Moisturizer for Sens. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
@@ -668,8 +668,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-04T15:00:04.673Z",
-      "updatedAt": "2026-07-04T15:00:04.673Z"
+      "generatedAt": "2026-07-04T15:10:04.473Z",
+      "updatedAt": "2026-07-04T15:10:04.473Z"
     },
     {
       "date": "2026-07-03",
@@ -15542,5 +15542,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-04T15:00:04.680Z"
+  "generatedAt": "2026-07-04T15:10:04.477Z"
 }
