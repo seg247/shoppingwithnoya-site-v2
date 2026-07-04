@@ -9,8 +9,8 @@
         "Makeup",
         "Body Care",
         "Skincare",
-        "Hair Care",
         "Fragrance",
+        "Hair Care",
         "Nails"
       ],
       "bySubcat": {
@@ -42,7 +42,7 @@
             "discount": 35,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61drEghJ5aL._SL1000_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
           },
           {
@@ -230,49 +230,17 @@
             "url": "https://www.amazon.com/dp/B08L88LZ4V?lv=shuf&ascsubtag=55acaec2770e11f18613cea261d5b8fb0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=76e361c6371ac6a79272902d937050b0&language=en_US"
           }
         ],
-        "Hair Care": [
-          {
-            "asin": "B00AO4E9DG",
-            "slug": "tresemm-expert-selection-heat-protection-spray-keratin-smoot",
-            "title": "TRESemmé Expert Selection Heat Protection Spray, Keratin Smooth, 8 oz : Hair Styling Treatments : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00AO4E9DG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7badf62307a08aeba4726993910c7a8&language=en_US"
-          },
-          {
-            "asin": "B0CFYFMZCP",
-            "slug": "frigidaire-8000-btu-window-air-conditioner-with-remote-contr",
-            "title": "Frigidaire 8,000 BTU Window Air Conditioner with Remote Control, Cools Up to 350 Sq. Ft., Quiet Operation, Eco Mode, 3 F",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CFYFMZCP?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=97c3e73342c998dd082852f7a1736399&language=en_US"
-          },
-          {
-            "asin": "B0DZ7RZ14S",
-            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
-            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oGUZBmhbL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DZ7RZ14S?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=93f921b77c5246203759742aaff7d733&language=en_US"
-          },
-          {
-            "asin": "B08SL72G3P",
-            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-          }
-        ],
         "Fragrance": [
+          {
+            "asin": "B0CVJZ8TCH",
+            "slug": "pacifica-passion-fruit-perfume-tropical-fruity-floral-clean",
+            "title": "Pacifica Passion Fruit Perfume – Tropical Fruity Floral Clean Perfume for Women with Passionfruit, Pineapple & Vanilla, ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/81K7ORmN9GL.jpg",
+            "url": "https://www.amazon.com/dp/B0CVJZ8TCH/ref=cm_sw_r_as_gl_apa_gl_i_KW7S37GD2E14X8BD5YV1?linkCode=ml1&tag=noya0b-20&linkId=6e6a86102f7d8bec3a9af049b2955ea1"
+          },
           {
             "asin": "B0FW7W7YGG",
             "slug": "victorias-secret-very-sexy-scarlet-fine-fragrance-mist-body",
@@ -302,16 +270,48 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/71schdDfG8L.jpg",
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-          },
+          }
+        ],
+        "Hair Care": [
           {
-            "asin": "B08G9K79FC",
-            "slug": "lubriderm-advanced-therapy-body-lotion-fragrance-free-lotion",
-            "title": "Lubriderm Advanced Therapy Body Lotion, Fragrance-Free Lotion for Extremely Dry Skin, Pro-Ceramide Hydration for Itchy, ",
+            "asin": "B00AO4E9DG",
+            "slug": "tresemm-expert-selection-heat-protection-spray-keratin-smoot",
+            "title": "TRESemmé Expert Selection Heat Protection Spray, Keratin Smooth, 8 oz : Hair Styling Treatments : Beauty & Personal Care",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jRBae+2qL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08G9K79FC?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=23764cec770e11f1a1c28ef13d59892c0INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f44009e4a02d90eea90fbcc763c0d6d4&language=en_US"
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00AO4E9DG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7badf62307a08aeba4726993910c7a8&language=en_US"
+          },
+          {
+            "asin": "B0CFYFMZCP",
+            "slug": "frigidaire-8000-btu-window-air-conditioner-with-remote-contr",
+            "title": "Frigidaire 8,000 BTU Window Air Conditioner with Remote Control, Cools Up to 350 Sq. Ft., Quiet Operation, Eco Mode, 3 F",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CFYFMZCP?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=97c3e73342c998dd082852f7a1736399&language=en_US"
+          },
+          {
+            "asin": "B0DZ7RZ14S",
+            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
+            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DZ7RZ14S?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=93f921b77c5246203759742aaff7d733&language=en_US"
+          },
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
           }
         ],
         "Nails": [
@@ -375,8 +375,18 @@
           "discount": 35,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61drEghJ5aL._SL1000_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CVJZ8TCH",
+          "slug": "pacifica-passion-fruit-perfume-tropical-fruity-floral-clean",
+          "title": "Pacifica Passion Fruit Perfume – Tropical Fruity Floral Clean Perfume for Women with Passionfruit, Pineapple & Vanilla, ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/81K7ORmN9GL.jpg",
+          "url": "https://www.amazon.com/dp/B0CVJZ8TCH/ref=cm_sw_r_as_gl_apa_gl_i_KW7S37GD2E14X8BD5YV1?linkCode=ml1&tag=noya0b-20&linkId=6e6a86102f7d8bec3a9af049b2955ea1"
         },
         {
           "asin": "B0FQ458DQH",
@@ -475,7 +485,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61oGUZBmhbL._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DZ7RZ14S?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=93f921b77c5246203759742aaff7d733&language=en_US"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08L88LZ4V?lv=shuf&ascsubtag=55acaec2770e11f18613cea261d5b8fb0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=76e361c6371ac6a79272902d937050b0&language=en_US"
-        },
-        {
-          "asin": "B08G9K79FC",
-          "slug": "lubriderm-advanced-therapy-body-lotion-fragrance-free-lotion",
-          "title": "Lubriderm Advanced Therapy Body Lotion, Fragrance-Free Lotion for Extremely Dry Skin, Pro-Ceramide Hydration for Itchy, ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/61jRBae+2qL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08G9K79FC?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=23764cec770e11f1a1c28ef13d59892c0INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f44009e4a02d90eea90fbcc763c0d6d4&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-04T03:20:04.276Z",
-      "updatedAt": "2026-07-04T03:20:04.276Z"
+      "generatedAt": "2026-07-04T03:30:04.444Z",
+      "updatedAt": "2026-07-04T03:30:04.445Z"
     },
     {
       "date": "2026-07-02",
@@ -14871,5 +14871,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-04T03:20:04.282Z"
+  "generatedAt": "2026-07-04T03:30:04.450Z"
 }
