@@ -4,16 +4,56 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Electronics, Health, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Electronics, Health, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
         "Health",
+        "Grocery & Food",
         "Other",
+        "Beauty",
         "Home & Kitchen",
-        "Garden & Outdoor",
-        "Pet Supplies"
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0C413Q1K8",
+            "slug": "red-bull-sea-blue-edition-energy-drink-juneberry-with-80mg-c",
+            "title": "Red Bull Sea Blue Edition Energy Drink, Juneberry, with 80mg Caffeine plus Taurine & B Vitamins, 8.4 Fl Oz, Pack of 4 Ca",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81P1Yx9eUlL.jpg",
+            "url": "https://www.amazon.com/dp/B0C413Q1K8/ref=cm_sw_r_as_gl_api_gl_i_J5E57658MC98S93JN294?linkCode=ml1&tag=noya0b-20&linkId=c1d5ebdd740e906ab5f1b8befb79497b"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0FN7XMTNX",
+            "slug": "fitvids-resistance-loop-bands-set-5-level-exercise-bands-for",
+            "title": "Fitvids Resistance Loop Bands Set - 5-Level Exercise Bands for Home Fitness, Physical Therapy & Strength Training (10-50",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Pk9OpBrdL.jpg",
+            "url": "https://www.amazon.com/dp/B0FN7XMTNX/ref=cm_sw_r_as_gl_api_gl_i_0V83ZSVA6CPAF0DSKWXW?linkCode=ml1&tag=noya0b-20&linkId=107e57e852bf3f4e15cea833db8b5fa2"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B09MV3MHJD",
+            "slug": "neutrogena-ultra-sheer-face-sunscreen-with-vitamin-e-and-spf",
+            "title": "Neutrogena, Ultra Sheer Face Sunscreen with Vitamin E and SPF 60, Sunscreen for Face with Broad Spectrum Uva/Uvb Protect",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B09MV3MHJD/ref=cm_sw_r_as_gl_api_gl_i_FTAYF2T4ZC46RH6MHANR?linkCode=ml1&tag=noya0b-20&linkId=da9d9f3c32a1e164594d2e2efd1bf3db"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B00FFLY64U",
@@ -98,46 +138,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61iyozf7KLL.jpg",
             "url": "https://www.amazon.com/dp/B0DGWQYNY8?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B08S5GWH9V",
-            "slug": "thermacell-e-zoneguard-mosquito-repellent-refill-with-20-foo",
-            "title": "Thermacell E-ZoneGuard Mosquito Repellent Refill with 20-Foot Zone of Scientifically Proven Outdoor Protection; Recharge",
-            "price": "$37",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81cDjXs-ifL.jpg",
-            "url": "https://www.amazon.com/dp/B08S5GWH9V/ref=cm_sw_r_as_gl_api_gl_i_dl_G8CPQJ3EH39DWA93V7YS?linkCode=ml1&tag=noya0b-20&linkId=8c06a46261b16164751a9002af986acf"
-          },
-          {
-            "asin": "B0FDF41925",
-            "slug": "aerbee-2-pack-pet-hair-removal-tool-17-inch-cat-dog-hair-rem",
-            "title": "Aerbee 2-Pack Pet Hair Removal Tool - 17 Inch Cat Dog Hair Remover for Furniture, 4 in 1 Fur Removal Tool, Gentle on Cou",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/717XmuGMDVL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDF41925/ref=cm_sw_r_as_gl_api_gl_i_RYP28W8S7CEXW89W20SS?linkCode=ml1&tag=noya0b-20&linkId=e9cf530d81d2fbb9e4a29cd17ffc56f4"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B01LYJERBC",
-            "slug": "heavy-duty-dog-harness-pet-leash-lead-set-for-small-medium-l",
-            "title": "Heavy Duty Dog Harness Pet Leash Lead Set for Small Medium Large Dogs, Adjustable Reflective No-Pull Padded Puppy Dog Ha",
-            "price": "$11.15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/61NN13gae-L.jpg",
-            "url": "https://www.amazon.com/dp/B01LYJERBC?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0C413Q1K8",
+          "slug": "red-bull-sea-blue-edition-energy-drink-juneberry-with-80mg-c",
+          "title": "Red Bull Sea Blue Edition Energy Drink, Juneberry, with 80mg Caffeine plus Taurine & B Vitamins, 8.4 Fl Oz, Pack of 4 Ca",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81P1Yx9eUlL.jpg",
+          "url": "https://www.amazon.com/dp/B0C413Q1K8/ref=cm_sw_r_as_gl_api_gl_i_J5E57658MC98S93JN294?linkCode=ml1&tag=noya0b-20&linkId=c1d5ebdd740e906ab5f1b8befb79497b"
+        },
+        {
+          "asin": "B0FN7XMTNX",
+          "slug": "fitvids-resistance-loop-bands-set-5-level-exercise-bands-for",
+          "title": "Fitvids Resistance Loop Bands Set - 5-Level Exercise Bands for Home Fitness, Physical Therapy & Strength Training (10-50",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Pk9OpBrdL.jpg",
+          "url": "https://www.amazon.com/dp/B0FN7XMTNX/ref=cm_sw_r_as_gl_api_gl_i_0V83ZSVA6CPAF0DSKWXW?linkCode=ml1&tag=noya0b-20&linkId=107e57e852bf3f4e15cea833db8b5fa2"
+        },
+        {
+          "asin": "B09MV3MHJD",
+          "slug": "neutrogena-ultra-sheer-face-sunscreen-with-vitamin-e-and-spf",
+          "title": "Neutrogena, Ultra Sheer Face Sunscreen with Vitamin E and SPF 60, Sunscreen for Face with Broad Spectrum Uva/Uvb Protect",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B09MV3MHJD/ref=cm_sw_r_as_gl_api_gl_i_FTAYF2T4ZC46RH6MHANR?linkCode=ml1&tag=noya0b-20&linkId=da9d9f3c32a1e164594d2e2efd1bf3db"
+        },
         {
           "asin": "B00FFLY64U",
           "slug": "takeya-deluxe-cold-brew-coffee-maker-bpa-free-tritan-pitcher",
@@ -214,45 +250,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61iyozf7KLL.jpg",
           "url": "https://www.amazon.com/dp/B0DGWQYNY8?tag=noya0b-20"
-        },
-        {
-          "asin": "B08S5GWH9V",
-          "slug": "thermacell-e-zoneguard-mosquito-repellent-refill-with-20-foo",
-          "title": "Thermacell E-ZoneGuard Mosquito Repellent Refill with 20-Foot Zone of Scientifically Proven Outdoor Protection; Recharge",
-          "price": "$37",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81cDjXs-ifL.jpg",
-          "url": "https://www.amazon.com/dp/B08S5GWH9V/ref=cm_sw_r_as_gl_api_gl_i_dl_G8CPQJ3EH39DWA93V7YS?linkCode=ml1&tag=noya0b-20&linkId=8c06a46261b16164751a9002af986acf"
-        },
-        {
-          "asin": "B01LYJERBC",
-          "slug": "heavy-duty-dog-harness-pet-leash-lead-set-for-small-medium-l",
-          "title": "Heavy Duty Dog Harness Pet Leash Lead Set for Small Medium Large Dogs, Adjustable Reflective No-Pull Padded Puppy Dog Ha",
-          "price": "$11.15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/61NN13gae-L.jpg",
-          "url": "https://www.amazon.com/dp/B01LYJERBC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FDF41925",
-          "slug": "aerbee-2-pack-pet-hair-removal-tool-17-inch-cat-dog-hair-rem",
-          "title": "Aerbee 2-Pack Pet Hair Removal Tool - 17 Inch Cat Dog Hair Remover for Furniture, 4 in 1 Fur Removal Tool, Gentle on Cou",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/717XmuGMDVL.jpg",
-          "url": "https://www.amazon.com/dp/B0FDF41925/ref=cm_sw_r_as_gl_api_gl_i_RYP28W8S7CEXW89W20SS?linkCode=ml1&tag=noya0b-20&linkId=e9cf530d81d2fbb9e4a29cd17ffc56f4"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"Takeya Deluxe Cold Brew Coffee Maker - BPA-Free Tritan Pitch...\" and 9 other hand-picked discounts. Deals span Electronics, Health, Other and are updated daily."
+          "a": "The best deals today include \"Red Bull Sea Blue Edition Energy Drink, Juneberry, with 80mg...\" and 9 other hand-picked discounts. Deals span Electronics, Health, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T09:20:01.465Z",
-      "updatedAt": "2026-07-04T09:20:01.465Z"
+      "generatedAt": "2026-07-04T09:30:01.765Z",
+      "updatedAt": "2026-07-04T09:30:01.766Z"
     },
     {
       "date": "2026-07-03",
@@ -7023,5 +7026,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T09:20:01.470Z"
+  "generatedAt": "2026-07-04T09:30:01.768Z"
 }
