@@ -4,16 +4,44 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Other, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Other, Baby Products, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Fashion",
-        "Beauty",
+        "Baby Products",
+        "Electronics",
         "Appliances",
         "Home & Kitchen",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Fashion",
+        "Beauty"
       ],
       "byCategory": {
+        "Baby Products": [
+          {
+            "asin": "B0DNHJ1DTG",
+            "slug": "portable-baby-bouncer-seat-for-infants-0-18-months-3-modes-o",
+            "title": "Portable Baby Bouncer Seat for Infants, 0-18 Months, 3 Modes of Use with Rocker & Stationary Options, Ergonomic Infant C",
+            "price": "$42.46",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Baby Products",
+            "imageUrl": "https://m.media-amazon.com/images/I/718l0O9sqSL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNHJ1DTG?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B00HE66ZUC",
+            "slug": "goodsense-allergy-relief-loratadine-tablets-10-mg-antihistam",
+            "title": "GoodSense Allergy Relief Loratadine Tablets 10 mg, Antihistamine, Allergy Medicine for 24 Hour Allergy Relief, 365 Count",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71We-qVEmJL.jpg",
+            "url": "https://www.amazon.com/dp/B00HE66ZUC?th=1&linkCode=sl2&tag=noya0b-20&linkId=314e92d369ad1ba3049b8ee3913fcca2&language=en_US"
+          }
+        ],
         "Other": [
           {
             "asin": "B001G92SZY",
@@ -99,17 +127,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71icf3FLIlL.jpg",
             "url": "https://www.amazon.com/dp/B0CJ534XDZ?tag=noya0b-20"
-          },
-          {
-            "asin": "B077LMTC9L",
-            "slug": "volganik-rock-purses-for-women-soft-pu-leather-shoulder-bag",
-            "title": "VOLGANIK ROCK Purses for Women Soft PU Leather Shoulder Bag Ladies Crossbody Purse and handbags Lightweight Pocketbook:",
-            "price": "$23.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/91PHrrIPs5L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B077LMTC9L?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -123,21 +140,32 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81AeYstVh7L.jpg",
             "url": "https://www.amazon.com/dp/B071HR14SJ/ref=cm_sw_r_as_gl_api_gl_i_A213YBFZQD5A31NEWYBV?linkCode=ml1&tag=noya0b-20&linkId=671b01ab77961f42fe5654cc35b079ea"
-          },
-          {
-            "asin": "B0FP1XQK4B",
-            "slug": "milumber-528-hz-breathing-necklace-breathlink-quit-smoking-t",
-            "title": "Milumber 528 Hz Breathing Necklace, Breathlink Quit Smoking Tool, Meditation Tuning Whistle with Fragrance Diffuser, Col",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51gFruKmY1L.jpg",
-            "url": "https://www.amazon.com/dp/B0FP1XQK4B/ref=cm_sw_r_as_gl_api_gl_i_dl_39DWGN76JFK5CG5GZ9SN?linkCode=ml1&tag=noya0b-20&linkId=f2da0f365db8cc41b79f15604e97749b"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DNHJ1DTG",
+          "slug": "portable-baby-bouncer-seat-for-infants-0-18-months-3-modes-o",
+          "title": "Portable Baby Bouncer Seat for Infants, 0-18 Months, 3 Modes of Use with Rocker & Stationary Options, Ergonomic Infant C",
+          "price": "$42.46",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Baby Products",
+          "imageUrl": "https://m.media-amazon.com/images/I/718l0O9sqSL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNHJ1DTG?tag=noya0b-20"
+        },
+        {
+          "asin": "B00HE66ZUC",
+          "slug": "goodsense-allergy-relief-loratadine-tablets-10-mg-antihistam",
+          "title": "GoodSense Allergy Relief Loratadine Tablets 10 mg, Antihistamine, Allergy Medicine for 24 Hour Allergy Relief, 365 Count",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71We-qVEmJL.jpg",
+          "url": "https://www.amazon.com/dp/B00HE66ZUC?th=1&linkCode=sl2&tag=noya0b-20&linkId=314e92d369ad1ba3049b8ee3913fcca2&language=en_US"
+        },
         {
           "asin": "B001G92SZY",
           "slug": "first-response-gold-digital-pregnancy-test-health-household",
@@ -225,34 +253,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81ZQevenfdL.jpg",
           "url": "https://www.amazon.com/dp/B001E5E9RK?th=1&linkCode=sl2&tag=noya0b-20&linkId=f6048ac3a6f1f14935434f073c7cc920&language=en_US"
-        },
-        {
-          "asin": "B0FP1XQK4B",
-          "slug": "milumber-528-hz-breathing-necklace-breathlink-quit-smoking-t",
-          "title": "Milumber 528 Hz Breathing Necklace, Breathlink Quit Smoking Tool, Meditation Tuning Whistle with Fragrance Diffuser, Col",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51gFruKmY1L.jpg",
-          "url": "https://www.amazon.com/dp/B0FP1XQK4B/ref=cm_sw_r_as_gl_api_gl_i_dl_39DWGN76JFK5CG5GZ9SN?linkCode=ml1&tag=noya0b-20&linkId=f2da0f365db8cc41b79f15604e97749b"
-        },
-        {
-          "asin": "B077LMTC9L",
-          "slug": "volganik-rock-purses-for-women-soft-pu-leather-shoulder-bag",
-          "title": "VOLGANIK ROCK Purses for Women Soft PU Leather Shoulder Bag Ladies Crossbody Purse and handbags Lightweight Pocketbook:",
-          "price": "$23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/91PHrrIPs5L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B077LMTC9L?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"First Response Gold Digital Pregnancy Test : Health & Househ...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
+          "a": "The best deals today include \"Portable Baby Bouncer Seat for Infants, 0-18 Months, 3 Modes...\" and 9 other hand-picked discounts. Deals span Other, Baby Products, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T14:10:02.164Z",
-      "updatedAt": "2026-07-04T14:10:02.165Z"
+      "generatedAt": "2026-07-04T14:20:02.190Z",
+      "updatedAt": "2026-07-04T14:20:02.190Z"
     },
     {
       "date": "2026-07-03",
@@ -7023,5 +7029,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T14:10:02.167Z"
+  "generatedAt": "2026-07-04T14:20:02.193Z"
 }
