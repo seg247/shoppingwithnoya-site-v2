@@ -9,9 +9,8 @@
         "Makeup",
         "Body Care",
         "Skincare",
-        "Fragrance",
         "Hair Care",
-        "Nails"
+        "Fragrance"
       ],
       "bySubcat": {
         "Makeup": [
@@ -94,16 +93,6 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/710e38SJfQL.jpg",
             "url": "https://www.amazon.com/dp/B08MRRNL18?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4ff963f6f5481d9167ba044081adfecb&language=en_US"
-          },
-          {
-            "asin": "B089W5FN7D",
-            "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
-            "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
           }
         ],
         "Body Care": [
@@ -124,7 +113,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ndfbc3zWL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01HTJTS4I?th=1&linkCode=sl1&tag=noya0b-20&linkId=0b65e774f29ee7267cd93f33d627b74a&language=en_US"
           }
         ],
@@ -138,6 +127,16 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/71sZY2bG-kL.jpg",
             "url": "https://www.amazon.com/dp/B0GJR4JJPC?tag=noya0b-20"
+          },
+          {
+            "asin": "B0175DVMMY",
+            "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
+            "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
+            "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
           },
           {
             "asin": "B0FWKG9H9P",
@@ -206,8 +205,80 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71z89vMkBRL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F7MY7Y8N?th=1&tag=noya0b-20"
+          }
+        ],
+        "Hair Care": [
+          {
+            "asin": "B0B65M3LPX",
+            "slug": "travel-curling-iron-blow-dryer-flat-iron",
+            "title": "Travel Curling Iron + Blow Dryer + Flat Iron",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RqaAguJpL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0B65M3LPX?tag=noya0b-20"
+          },
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+          },
+          {
+            "asin": "B077MMYXHQ",
+            "slug": "its-a-10-miracle-shampoo-plus-keratin-10-oz-2-pack-beauty-pe",
+            "title": "It's A 10 Miracle Shampoo Plus Keratin 10 Oz - 2 pack : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61zyAR5EEXL.jpg",
+            "url": "https://www.amazon.com/dp/B077MMYXHQ/ref=cm_sw_r_as_gl_apa_gl_i_GTZ973A9TEMCC7VQ3Y3W?linkCode=ml1&tag=noya0b-20&linkId=8053c488697724aab2affb7031ec33f9"
+          },
+          {
+            "asin": "B0BXKK1BJB",
+            "slug": "3-in-1-1875w-hair-dryer-straightening-curling-iron-parwin-pr",
+            "title": "3 in 1 1875W Hair Dryer Straightening Curling Iron, PARWIN PRO BEAUTY Hair Styling Set, Valentine Gift, Ion Hair Dryer,",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oywnRurQL.jpg",
+            "url": "https://www.amazon.com/dp/B0BXKK1BJB?tag=noya0b-20"
+          },
+          {
+            "asin": "B00AO4E9DG",
+            "slug": "tresemm-expert-selection-heat-protection-spray-keratin-smoot",
+            "title": "TRESemmé Expert Selection Heat Protection Spray, Keratin Smooth, 8 oz : Hair Styling Treatments : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00AO4E9DG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7badf62307a08aeba4726993910c7a8&language=en_US"
+          },
+          {
+            "asin": "B0CFYFMZCP",
+            "slug": "frigidaire-8000-btu-window-air-conditioner-with-remote-contr",
+            "title": "Frigidaire 8,000 BTU Window Air Conditioner with Remote Control, Cools Up to 350 Sq. Ft., Quiet Operation, Eco Mode, 3 F",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61cGzTo+KcL.jpg",
+            "url": "https://www.amazon.com/dp/B0CFYFMZCP?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=97c3e73342c998dd082852f7a1736399&language=en_US"
+          },
+          {
+            "asin": "B0DZ7RZ14S",
+            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
+            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DZ7RZ14S?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=93f921b77c5246203759742aaff7d733&language=en_US"
           }
         ],
         "Fragrance": [
@@ -250,80 +321,6 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/617EFSPGy6L.jpg",
             "url": "https://www.amazon.com/dp/B09V1RMFTP/ref=cm_sw_r_as_gl_api_gl_i_8878Y8ZFSXC9PQ0MXM4F?linkCode=ml1&tag=noya0b-20&linkId=fd467671e4f708011484082881a2f09a"
-          }
-        ],
-        "Hair Care": [
-          {
-            "asin": "B08SL72G3P",
-            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-          },
-          {
-            "asin": "B077MMYXHQ",
-            "slug": "its-a-10-miracle-shampoo-plus-keratin-10-oz-2-pack-beauty-pe",
-            "title": "It's A 10 Miracle Shampoo Plus Keratin 10 Oz - 2 pack : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61zyAR5EEXL.jpg",
-            "url": "https://www.amazon.com/dp/B077MMYXHQ/ref=cm_sw_r_as_gl_apa_gl_i_GTZ973A9TEMCC7VQ3Y3W?linkCode=ml1&tag=noya0b-20&linkId=8053c488697724aab2affb7031ec33f9"
-          },
-          {
-            "asin": "B0BXKK1BJB",
-            "slug": "3-in-1-1875w-hair-dryer-straightening-curling-iron-parwin-pr",
-            "title": "3 in 1 1875W Hair Dryer Straightening Curling Iron, PARWIN PRO BEAUTY Hair Styling Set, Valentine Gift, Ion Hair Dryer,",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oywnRurQL.jpg",
-            "url": "https://www.amazon.com/dp/B0BXKK1BJB?tag=noya0b-20"
-          },
-          {
-            "asin": "B00AO4E9DG",
-            "slug": "tresemm-expert-selection-heat-protection-spray-keratin-smoot",
-            "title": "TRESemmé Expert Selection Heat Protection Spray, Keratin Smooth, 8 oz : Hair Styling Treatments : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lj1TQ5uZL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00AO4E9DG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7badf62307a08aeba4726993910c7a8&language=en_US"
-          },
-          {
-            "asin": "B0CFYFMZCP",
-            "slug": "frigidaire-8000-btu-window-air-conditioner-with-remote-contr",
-            "title": "Frigidaire 8,000 BTU Window Air Conditioner with Remote Control, Cools Up to 350 Sq. Ft., Quiet Operation, Eco Mode, 3 F",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71kKLKalSSL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CFYFMZCP?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=97c3e73342c998dd082852f7a1736399&language=en_US"
-          },
-          {
-            "asin": "B0DZ7RZ14S",
-            "slug": "shark-flexstyle-air-multi-styler-drying-system-hair-dryer-br",
-            "title": "Shark FlexStyle | Air Multi-Styler & Drying System | Hair Dryer Brush for Blowouts with Coanda Auto- Wrap Curlers, Oval ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DZ7RZ14S?lv=shuf&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=93f921b77c5246203759742aaff7d733&language=en_US"
-          }
-        ],
-        "Nails": [
-          {
-            "asin": "B0BK9872HC",
-            "slug": "jodsone-gel-nail-polish-kit-60-pcs-with-u-v-light-soak-off-b",
-            "title": "JODSONE Gel Nail Polish Kit 60 PCS with U V Light Soak off Base Top Coat 55 Shine Colors Gel Nail Kit Bright and Dark Br",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/71G-mlJMJsL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BK9872HC?tag=noya0b-20"
           }
         ]
       },
@@ -379,6 +376,26 @@
           "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
         },
         {
+          "asin": "B0B65M3LPX",
+          "slug": "travel-curling-iron-blow-dryer-flat-iron",
+          "title": "Travel Curling Iron + Blow Dryer + Flat Iron",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RqaAguJpL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0B65M3LPX?tag=noya0b-20"
+        },
+        {
+          "asin": "B0175DVMMY",
+          "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
+          "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
+          "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
+        },
+        {
           "asin": "B09232XNTX",
           "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
           "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
@@ -405,7 +422,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ndfbc3zWL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01HTJTS4I?th=1&linkCode=sl1&tag=noya0b-20&linkId=0b65e774f29ee7267cd93f33d627b74a&language=en_US"
         },
         {
@@ -515,7 +532,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Lj1TQ5uZL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00AO4E9DG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f7badf62307a08aeba4726993910c7a8&language=en_US"
         },
         {
@@ -545,7 +562,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71kKLKalSSL._AC_SL1500_.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/61cGzTo+KcL.jpg",
           "url": "https://www.amazon.com/dp/B0CFYFMZCP?lv=shuf&SubscriptionId=AKIAJPZLBECZNBCPHMZQ&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=97c3e73342c998dd082852f7a1736399&language=en_US"
         },
         {
@@ -585,7 +602,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71z89vMkBRL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0F7MY7Y8N?th=1&tag=noya0b-20"
         },
         {
@@ -607,26 +624,6 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/617EFSPGy6L.jpg",
           "url": "https://www.amazon.com/dp/B09V1RMFTP/ref=cm_sw_r_as_gl_api_gl_i_8878Y8ZFSXC9PQ0MXM4F?linkCode=ml1&tag=noya0b-20&linkId=fd467671e4f708011484082881a2f09a"
-        },
-        {
-          "asin": "B0BK9872HC",
-          "slug": "jodsone-gel-nail-polish-kit-60-pcs-with-u-v-light-soak-off-b",
-          "title": "JODSONE Gel Nail Polish Kit 60 PCS with U V Light Soak off Base Top Coat 55 Shine Colors Gel Nail Kit Bright and Dark Br",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Nails",
-          "imageUrl": "https://m.media-amazon.com/images/I/71G-mlJMJsL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BK9872HC?tag=noya0b-20"
-        },
-        {
-          "asin": "B089W5FN7D",
-          "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
-          "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -650,7 +647,7 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include mixsoon PDRN Collagen Hydrogel Face Mask - Deeply  and Gximdz es Beef Tallow for Skin, Tallow and Honey B. Check the full list above for current prices."
+          "a": "Today's skincare deals include mixsoon PDRN Collagen Hydrogel Face Mask - Deeply  and MASON NATURAL Collagen Premium Skin Cream - Anti A. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
@@ -665,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-04T06:10:05.262Z",
-      "updatedAt": "2026-07-04T06:10:05.263Z"
+      "generatedAt": "2026-07-04T06:20:05.239Z",
+      "updatedAt": "2026-07-04T06:20:05.239Z"
     },
     {
       "date": "2026-07-03",
@@ -15539,5 +15536,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-04T06:10:05.269Z"
+  "generatedAt": "2026-07-04T06:20:05.243Z"
 }
