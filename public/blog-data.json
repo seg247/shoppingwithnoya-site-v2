@@ -4,15 +4,77 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Other, Fashion, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Other, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Fashion",
-        "Health",
-        "Electronics"
+        "Beauty",
+        "Sports & Fitness",
+        "Health"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0F2JP7DBL",
+            "slug": "adidas-unisex-adult-wc26-club-home-german-football-federatio",
+            "title": "\udecd️adidas Unisex-Adult Wc26 Club Home German Football Federation, White/Team Power Red/Collegiate Gold/Black, 5",
+            "price": "$25.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71GtzzZOlhL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F2JP7DBL/ref=cm_sw_r_as_gl_api_gl_i_GMRW7TP7T1KNQ9PXR0ZX?linkCode=ml1&tag=noya0b-20&linkId=b14c84b2d5defb37a2fa7a335dfdf8e5"
+          },
+          {
+            "asin": "B0FQNHPS72",
+            "slug": "nike-kids-court-borough-low-bball-whiteblue-crystal-bright-v",
+            "title": "\udecd️Nike Kid's Court Borough Low Bball, White/Blue Crystal-Bright Violet, 7Y",
+            "price": "$69.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Bk1MCMSVL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FQNHPS72/ref=cm_sw_r_as_gl_api_gl_i_0V45H4WB8ZDRQYVVJMBC?linkCode=ml1&tag=noya0b-20&linkId=8b6e946af4e38badc1cd5a51275b87b3"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0DXWP12C8",
+            "slug": "kitsch-hair-perfume-for-women-warm-sugar-clean-deodorizing-p",
+            "title": "\udecd️Kitsch Hair Perfume for Women - Warm Sugar | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Bo",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/714UhZVsYBL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DXWP12C8/ref=cm_sw_r_as_gl_api_gl_i_YD89ZSESB9PJQRBK9XRN?linkCode=ml1&tag=noya0b-20&linkId=d8e3ee7eb043fe24b04bb2dfcccdf4c8"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B0F5Q2DC97",
+            "slug": "wekin-indoor-putting-green-with-auto-ball-return11-foot-golf",
+            "title": "Wekin Indoor Putting Green with Auto Ball Return,11 Foot Golf Practice Putting Mat,Ideal Training Putting Mat for Beginn",
+            "price": "$59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/71QFKdRNj5L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/Wekin-Practice-Training-Beginners-Advanced/dp/B0F5Q2DC97?content-id=amzn1.sym.a0eb3d83-f398-4949-8e03-e0971d2f858b&pd_rd_i=B0F5Q2DC97&th=1&linkCode=sl2&tag=noya0b-20&linkId=9b7ce3083932389919a01590176301c2&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0B8PDHRWY",
+            "slug": "kodak-pixpro-wide-angle-digital-camera-only-99xx-on-amazon-r",
+            "title": "Kodak PIXPRO Wide Angle Digital Camera Only $99.xx on Amazon (Reg. $130)!",
+            "price": "$99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/818GKPv0fvL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/KODAK-Friendly-FZ45-BK-Digital-Optical/dp/B0B8PDHRWY?th=1&linkCode=sl2&tag=noya0b-20&linkId=3840d242543c293bb1c7afdaa0ce9115&language=en_US"
+          },
           {
             "asin": "B0GJZYRDHX",
             "slug": "vibebox-baby-girl-dresses-12-18-months-ruffle-sleeveless-but",
@@ -56,17 +118,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81x6sfIwprL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GRH2T8XX?lv=shuf&rsd=DS8sG%2F1TzELuuXEZOg4CMm4oLgHsN0JIhCr05Ue4gw78ySpsz3Yi2a6SC%2B4eCmCxWWVOdszDx7Xz0qRiqILtC1UwDnWQfUcUW7DBkAcNk31c%2Bws&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHqlo%2FRvu9eXo6sOXC4Vw%2FiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUnvq6FkmI7%2BXPQtSAgEQgDsbmcbdnQ7Z%2F9V5hJMww582ko6Xkr13A7j7MV3krHqgQk2VpEqsTykW35vWbiLQVNiCzjc81j9SiITJsA&social_share=cm_sw_r_mwn_dp_2H4FVGN9PS406S420Y1W&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e261744799893d0f78f2700130b407c3&language=en_US"
-          },
-          {
-            "asin": "B0FHPKCVWP",
-            "slug": "5ft-faux-olive-tree-artificial-plant-61-inch-tall-fake-indoo",
-            "title": "5FT Faux Olive Tree Artificial Plant - 61 Inch Tall Fake Indoor Tree with Bendable Branches & Realistic Leaves, Faux Flo",
-            "price": "$30",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VKv53w2BL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHPKCVWP?lv=shuf&social_share=cm_sw_r_apan_dp_ss_ss_FHK6VAW665RTYRHZVJ12&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1ccf3aa03abe274bcf75fd176db55443&language=en_US"
           }
         ],
         "Health": [
@@ -81,57 +132,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71vFA7ZzSVL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/SlimFast-Smoothie-Replacement-Strawberry-Packaging/dp/B0D7LB2X2H?content-id=amzn1.sym.a0eb3d83-f398-4949-8e03-e0971d2f858b&pd_rd_i=B0D7LB2X2H&th=1&linkCode=sl2&tag=noya0b-20&linkId=11e47c46cd630ee7e9cb4096b9c5f342&language=en_US"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B08CRJYM55",
-            "slug": "cozylux-queen-comforter-set-dark-grey-bed-in-a-bag-queen-siz",
-            "title": "CozyLux Queen Comforter Set Dark Grey - Bed in a Bag Queen Size 7 Pieces, Luxury Soft Bed Set for All Seasons, Bedding S",
-            "price": "$31.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81h5lBDrl2L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08CRJYM55?tag=noya0b-20"
-          },
-          {
-            "asin": "B085S7W87S",
-            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
-            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel",
-            "price": "$32.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-          },
-          {
-            "asin": "B078K4XNXH",
-            "slug": "wetike-mesh-slip-on-lightweight-athletic-shoes-black-size-9",
-            "title": "WETIKE Mesh Slip On Lightweight Athletic Shoes, Black Size 9 Toddler | Running",
-            "price": "$18.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81psMHPgIiL.jpg",
-            "url": "https://www.amazon.com/dp/B078K4XNXH?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0CQMRKRV5",
-            "slug": "amazon-fire-tv-stick-hd-free-and-live-tv-alexa-voice-remote",
-            "title": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61pvHU+76pL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CQMRKRV5?lv=shuf&ascsubtag=srctok-6a147bf3760d5432&btn_ref=srctok-6a147bf3760d5432&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d5bc6d61d164ae3108b5b8c5e82428be&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F2JP7DBL",
+          "slug": "adidas-unisex-adult-wc26-club-home-german-football-federatio",
+          "title": "\udecd️adidas Unisex-Adult Wc26 Club Home German Football Federation, White/Team Power Red/Collegiate Gold/Black, 5",
+          "price": "$25.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71GtzzZOlhL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F2JP7DBL/ref=cm_sw_r_as_gl_api_gl_i_GMRW7TP7T1KNQ9PXR0ZX?linkCode=ml1&tag=noya0b-20&linkId=b14c84b2d5defb37a2fa7a335dfdf8e5"
+        },
+        {
+          "asin": "B0DXWP12C8",
+          "slug": "kitsch-hair-perfume-for-women-warm-sugar-clean-deodorizing-p",
+          "title": "\udecd️Kitsch Hair Perfume for Women - Warm Sugar | Clean, Deodorizing & Patented Odor-Eliminating Technology Hair Spray & Bo",
+          "price": "$19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/714UhZVsYBL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DXWP12C8/ref=cm_sw_r_as_gl_api_gl_i_YD89ZSESB9PJQRBK9XRN?linkCode=ml1&tag=noya0b-20&linkId=d8e3ee7eb043fe24b04bb2dfcccdf4c8"
+        },
+        {
+          "asin": "B0FQNHPS72",
+          "slug": "nike-kids-court-borough-low-bball-whiteblue-crystal-bright-v",
+          "title": "\udecd️Nike Kid's Court Borough Low Bball, White/Blue Crystal-Bright Violet, 7Y",
+          "price": "$69.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Bk1MCMSVL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FQNHPS72/ref=cm_sw_r_as_gl_api_gl_i_0V45H4WB8ZDRQYVVJMBC?linkCode=ml1&tag=noya0b-20&linkId=8b6e946af4e38badc1cd5a51275b87b3"
+        },
+        {
+          "asin": "B0F5Q2DC97",
+          "slug": "wekin-indoor-putting-green-with-auto-ball-return11-foot-golf",
+          "title": "Wekin Indoor Putting Green with Auto Ball Return,11 Foot Golf Practice Putting Mat,Ideal Training Putting Mat for Beginn",
+          "price": "$59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/71QFKdRNj5L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/Wekin-Practice-Training-Beginners-Advanced/dp/B0F5Q2DC97?content-id=amzn1.sym.a0eb3d83-f398-4949-8e03-e0971d2f858b&pd_rd_i=B0F5Q2DC97&th=1&linkCode=sl2&tag=noya0b-20&linkId=9b7ce3083932389919a01590176301c2&language=en_US"
+        },
+        {
+          "asin": "B0B8PDHRWY",
+          "slug": "kodak-pixpro-wide-angle-digital-camera-only-99xx-on-amazon-r",
+          "title": "Kodak PIXPRO Wide Angle Digital Camera Only $99.xx on Amazon (Reg. $130)!",
+          "price": "$99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/818GKPv0fvL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/KODAK-Friendly-FZ45-BK-Digital-Optical/dp/B0B8PDHRWY?th=1&linkCode=sl2&tag=noya0b-20&linkId=3840d242543c293bb1c7afdaa0ce9115&language=en_US"
+        },
         {
           "asin": "B0GJZYRDHX",
           "slug": "vibebox-baby-girl-dresses-12-18-months-ruffle-sleeveless-but",
@@ -186,67 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81x6sfIwprL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GRH2T8XX?lv=shuf&rsd=DS8sG%2F1TzELuuXEZOg4CMm4oLgHsN0JIhCr05Ue4gw78ySpsz3Yi2a6SC%2B4eCmCxWWVOdszDx7Xz0qRiqILtC1UwDnWQfUcUW7DBkAcNk31c%2Bws&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHqlo%2FRvu9eXo6sOXC4Vw%2FiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUnvq6FkmI7%2BXPQtSAgEQgDsbmcbdnQ7Z%2F9V5hJMww582ko6Xkr13A7j7MV3krHqgQk2VpEqsTykW35vWbiLQVNiCzjc81j9SiITJsA&social_share=cm_sw_r_mwn_dp_2H4FVGN9PS406S420Y1W&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e261744799893d0f78f2700130b407c3&language=en_US"
-        },
-        {
-          "asin": "B08CRJYM55",
-          "slug": "cozylux-queen-comforter-set-dark-grey-bed-in-a-bag-queen-siz",
-          "title": "CozyLux Queen Comforter Set Dark Grey - Bed in a Bag Queen Size 7 Pieces, Luxury Soft Bed Set for All Seasons, Bedding S",
-          "price": "$31.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81h5lBDrl2L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08CRJYM55?tag=noya0b-20"
-        },
-        {
-          "asin": "B085S7W87S",
-          "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
-          "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel",
-          "price": "$32.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CQMRKRV5",
-          "slug": "amazon-fire-tv-stick-hd-free-and-live-tv-alexa-voice-remote",
-          "title": "Amazon Fire TV Stick HD, free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61pvHU+76pL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CQMRKRV5?lv=shuf&ascsubtag=srctok-6a147bf3760d5432&btn_ref=srctok-6a147bf3760d5432&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d5bc6d61d164ae3108b5b8c5e82428be&language=en_US"
-        },
-        {
-          "asin": "B0FHPKCVWP",
-          "slug": "5ft-faux-olive-tree-artificial-plant-61-inch-tall-fake-indoo",
-          "title": "5FT Faux Olive Tree Artificial Plant - 61 Inch Tall Fake Indoor Tree with Bendable Branches & Realistic Leaves, Faux Flo",
-          "price": "$30",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71VKv53w2BL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHPKCVWP?lv=shuf&social_share=cm_sw_r_apan_dp_ss_ss_FHK6VAW665RTYRHZVJ12&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1ccf3aa03abe274bcf75fd176db55443&language=en_US"
-        },
-        {
-          "asin": "B078K4XNXH",
-          "slug": "wetike-mesh-slip-on-lightweight-athletic-shoes-black-size-9",
-          "title": "WETIKE Mesh Slip On Lightweight Athletic Shoes, Black Size 9 Toddler | Running",
-          "price": "$18.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81psMHPgIiL.jpg",
-          "url": "https://www.amazon.com/dp/B078K4XNXH?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"\udecd️Vibebox Baby Girl Dresses 12-18 Months Ruffle Sleeveless B...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Health and are updated daily."
+          "a": "The best deals today include \"\udecd️adidas Unisex-Adult Wc26 Club Home German Football Federat...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T16:10:01.902Z",
-      "updatedAt": "2026-07-04T16:10:01.902Z"
+      "generatedAt": "2026-07-04T16:20:01.281Z",
+      "updatedAt": "2026-07-04T16:20:01.281Z"
     },
     {
       "date": "2026-07-03",
@@ -7017,5 +7020,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T16:10:01.904Z"
+  "generatedAt": "2026-07-04T16:20:01.284Z"
 }
