@@ -9,11 +9,50 @@
         "Other",
         "Grocery & Food",
         "Fashion",
-        "Handbags",
-        "Electronics",
-        "Jewelry"
+        "Home & Kitchen",
+        "Appliances",
+        "Personal Care"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0FX3SVRXT",
+            "slug": "yitahome-tall-bookshelf-with-led-light-artistically-designed",
+            "title": "YITAHOME Tall Bookshelf with LED Light, Artistically Designed Tree Bookshelf with Cats Litter Box, 8-Tier Unique Bookshe",
+            "price": "$34",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81h0j3H+0mL.jpg",
+            "url": "https://www.amazon.com/dp/B0FX3SVRXT/ref=cm_sw_r_as_gl_api_gl_i_dl_2KFW32NV9SH8RPZYWZEV?linkCode=ml1&tag=noya0b-20&linkId=42db55ea97a48f5fffcb1e75a3516447"
+          }
+        ],
+        "Appliances": [
+          {
+            "asin": "B0CBP3VV3V",
+            "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+            "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heat",
+            "price": "$34.91",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
+            "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B005OICT84",
+            "slug": "stayfree-maxi-super-long-pads-for-women-wingless-reliable-pr",
+            "title": "Stayfree Maxi Super Long Pads For Women, Wingless, Reliable Protection and Absorbency of Feminine Periods, 66ct : Health",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81tMAjgbU6L.jpg",
+            "url": "https://www.amazon.com/dp/B005OICT84/ref=cm_sw_r_as_gl_api_gl_i_Y83M1NQ8SHTBAX1EPQES?linkCode=ml1&tag=noya0b-20&linkId=b8f6844e6e347a693c753e8398d10f4e"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0GSPCVVQ6",
@@ -96,48 +135,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71icf3FLIlL.jpg",
             "url": "https://www.amazon.com/dp/B0CJ534XDZ?tag=noya0b-20"
           }
-        ],
-        "Handbags": [
-          {
-            "asin": "B0C2Y4YXY6",
-            "slug": "bostanten-quilted-crossbody-bags-for-women-vegan-leather-pur",
-            "title": "BOSTANTEN Quilted Crossbody Bags for Women Vegan Leather Purses Small Shoulder Handbags with Wide Strap Beige with Brown",
-            "price": "$29.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Handbags",
-            "imageUrl": "https://m.media-amazon.com/images/I/81rxxC3FpBL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C2Y4YXY6?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BRSCVFPM",
-            "slug": "missnine-tote-bag-canvas-laptop-bag-156-inch-work-bags-for-w",
-            "title": "Missnine Tote Bag Canvas Laptop Bag 15.6 inch Work Bags for Women Teacher Bag Casual Computer Shoulder Purse for Office,",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81iWYbmU54L.jpg",
-            "url": "https://www.amazon.com/dp/B0BRSCVFPM/ref=cm_sw_r_as_gl_api_gl_i_RCYN1J2VC02KYZ8S8C9B?linkCode=ml1&tag=noya0b-20&linkId=9888b8815bb0c7e0bcbbc10dd89816e0"
-          }
-        ],
-        "Jewelry": [
-          {
-            "asin": "B0BHP7DR3P",
-            "slug": "thrilez-63-pack-of-jewelry-set-for-women-including-15-pairs",
-            "title": "Thrilez 63 Pack of Jewelry Set for Women, Including 15 Pairs Fashion Earrings, 4 Pack Cute Necklaces, 13pc Aesthetic Bra",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Jewelry",
-            "imageUrl": "https://m.media-amazon.com/images/I/81jEzR6F9JL.jpg",
-            "url": "https://www.amazon.com/dp/B0BHP7DR3P?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FX3SVRXT",
+          "slug": "yitahome-tall-bookshelf-with-led-light-artistically-designed",
+          "title": "YITAHOME Tall Bookshelf with LED Light, Artistically Designed Tree Bookshelf with Cats Litter Box, 8-Tier Unique Bookshe",
+          "price": "$34",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81h0j3H+0mL.jpg",
+          "url": "https://www.amazon.com/dp/B0FX3SVRXT/ref=cm_sw_r_as_gl_api_gl_i_dl_2KFW32NV9SH8RPZYWZEV?linkCode=ml1&tag=noya0b-20&linkId=42db55ea97a48f5fffcb1e75a3516447"
+        },
+        {
+          "asin": "B0CBP3VV3V",
+          "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+          "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heat",
+          "price": "$34.91",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
+          "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
+        },
+        {
+          "asin": "B005OICT84",
+          "slug": "stayfree-maxi-super-long-pads-for-women-wingless-reliable-pr",
+          "title": "Stayfree Maxi Super Long Pads For Women, Wingless, Reliable Protection and Absorbency of Feminine Periods, 66ct : Health",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/81tMAjgbU6L.jpg",
+          "url": "https://www.amazon.com/dp/B005OICT84/ref=cm_sw_r_as_gl_api_gl_i_Y83M1NQ8SHTBAX1EPQES?linkCode=ml1&tag=noya0b-20&linkId=b8f6844e6e347a693c753e8398d10f4e"
+        },
         {
           "asin": "B0GSPCVVQ6",
           "slug": "arm-hammer-baking-soda-fresh-liquid-laundry-detergent-sparkl",
@@ -214,45 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71icf3FLIlL.jpg",
           "url": "https://www.amazon.com/dp/B0CJ534XDZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C2Y4YXY6",
-          "slug": "bostanten-quilted-crossbody-bags-for-women-vegan-leather-pur",
-          "title": "BOSTANTEN Quilted Crossbody Bags for Women Vegan Leather Purses Small Shoulder Handbags with Wide Strap Beige with Brown",
-          "price": "$29.59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Handbags",
-          "imageUrl": "https://m.media-amazon.com/images/I/81rxxC3FpBL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C2Y4YXY6?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BRSCVFPM",
-          "slug": "missnine-tote-bag-canvas-laptop-bag-156-inch-work-bags-for-w",
-          "title": "Missnine Tote Bag Canvas Laptop Bag 15.6 inch Work Bags for Women Teacher Bag Casual Computer Shoulder Purse for Office,",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81iWYbmU54L.jpg",
-          "url": "https://www.amazon.com/dp/B0BRSCVFPM/ref=cm_sw_r_as_gl_api_gl_i_RCYN1J2VC02KYZ8S8C9B?linkCode=ml1&tag=noya0b-20&linkId=9888b8815bb0c7e0bcbbc10dd89816e0"
-        },
-        {
-          "asin": "B0BHP7DR3P",
-          "slug": "thrilez-63-pack-of-jewelry-set-for-women-including-15-pairs",
-          "title": "Thrilez 63 Pack of Jewelry Set for Women, Including 15 Pairs Fashion Earrings, 4 Pack Cute Necklaces, 13pc Aesthetic Bra",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Jewelry",
-          "imageUrl": "https://m.media-amazon.com/images/I/81jEzR6F9JL.jpg",
-          "url": "https://www.amazon.com/dp/B0BHP7DR3P?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"ARM & HAMMER Baking Soda Fresh Liquid Laundry Detergent, Spa...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Fashion and are updated daily."
+          "a": "The best deals today include \"YITAHOME Tall Bookshelf with LED Light, Artistically Designe...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T11:10:01.570Z",
-      "updatedAt": "2026-07-04T11:10:01.570Z"
+      "generatedAt": "2026-07-04T11:20:01.357Z",
+      "updatedAt": "2026-07-04T11:20:01.357Z"
     },
     {
       "date": "2026-07-03",
@@ -7023,5 +7023,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T11:10:01.573Z"
+  "generatedAt": "2026-07-04T11:20:01.360Z"
 }
