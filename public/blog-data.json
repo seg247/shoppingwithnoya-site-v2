@@ -4,18 +4,88 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Electronics, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Beauty",
-        "Home & Kitchen",
-        "Toys & Kids",
-        "Women's Fashion",
         "Electronics",
         "Other",
+        "Beauty",
         "Fashion",
-        "Personal Care"
+        "Toys & Kids",
+        "Women's Fashion"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0FRFV7ZKF",
+            "slug": "onlyone-electric-toothbrush-for-adults-rechargeable-electric",
+            "title": "Onlyone Electric Toothbrush for Adults, Rechargeable Electric Toothbrush with 8 Brush Heads, Travel Case, Charging Base ",
+            "price": "$15.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71IvQjXc1XL.jpg",
+            "url": "https://www.amazon.com/dp/B0FRFV7ZKF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0DWNJNHYN",
+            "slug": "original-squishmallows-squishy-sticker-book-for-kids-scrapbo",
+            "title": "Original Squishmallows Squishy Sticker Book for Kids, Scrapbook, Journaling, Laptop Sticker Pack for Kids Crafts",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81EyioqPCjL.jpg",
+            "url": "https://www.amazon.com/dp/B0DWNJNHYN/ref=cm_sw_r_as_gl_api_gl_i_NB0E132VQX3DBJYFXBED?linkCode=ml1&tag=noya0b-20&linkId=85f5c2585eb44e812c3279269f0f6ee8"
+          },
+          {
+            "asin": "B0FTP4PMYX",
+            "slug": "asus-rog-strix-gs-be12000-wifi-7-tri-band-router-12000-mbps",
+            "title": "ASUS ROG Strix GS-BE12000 WiFi 7 Tri-Band Router, 12000 Mbps, 20G Wired Capacity, 3,000 sq. ft. Coverage, 2.0GHz Quad-co",
+            "price": "$274.55",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WlA0XvnGL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FTP4PMYX?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B08Z5JV3RS",
+            "slug": "tiny-patrol-outlet-covers-child-proof-plug-cover-for-electri",
+            "title": "Tiny Patrol Outlet Covers Child Proof Plug Cover for Electrical Outlets Baby Proof Socket Safety Proofing Wall Guards Pr",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-VulWVZlL.jpg",
+            "url": "https://www.amazon.com/dp/B08Z5JV3RS/ref=cm_sw_r_as_gl_api_gl_i_18P0A1N24K9WW0530KXN?linkCode=ml1&tag=noya0b-20&linkId=e5d62f2430e4f4d8e55b51721a59aa3c"
+          },
+          {
+            "asin": "B01G75P1SC",
+            "slug": "streamlight-88061-protac-1l-1aa-350-lumen-dual-fuel-professi",
+            "title": "Streamlight 88061 ProTac 1L-1AA 350-Lumen Dual Fuel Professional Tactical Light, Black",
+            "price": "$37.05",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01G75P1SC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0FKT178XY",
+            "slug": "coodo-toddlerlittle-kid-boys-girls-shoes-running-sports-snea",
+            "title": "COODO Toddler/Little Kid Boys Girls Shoes Running Sports Sneakers (4 Toddler,Lt.Grey) : Clothing, Shoes & Jewelry",
+            "price": "$25.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PuqulBtGL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FKT178XY?tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0DJSM5TKW",
@@ -65,85 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/91jtiGE77vL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FW492VNC?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FTP4PMYX",
-            "slug": "asus-rog-strix-gs-be12000-wifi-7-tri-band-router-12000-mbps",
-            "title": "ASUS ROG Strix GS-BE12000 WiFi 7 Tri-Band Router, 12000 Mbps, 20G Wired Capacity, 3,000 sq. ft. Coverage, 2.0GHz Quad-co",
-            "price": "$274.55",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WlA0XvnGL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FTP4PMYX?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0DTJDP7YX",
-            "slug": "gazillion-bubbles-tiny-typhoon-compact-bubble-machine-powerf",
-            "title": "Gazillion Bubbles Tiny Typhoon, Compact Bubble Machine, Powerful Bubble Blower for Maximum Fun, Easy to Clean & Portable",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jc2PxO84L.jpg",
-            "url": "https://www.amazon.com/dp/B0DTJDP7YX/ref=cm_sw_r_as_gl_api_gl_i_MNDV9A0BENA3FWXDY8T5?linkCode=ml1&tag=noya0b-20&linkId=ad3e4a78aa9e7ce0254fc138665ca57f"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0FP163YKW",
-            "slug": "ofeefan-black-dress-womens-dresses-2026-spring-summer-sundre",
-            "title": "OFEEFAN Black Dress Womens Dresses 2026 Spring Summer Sundresses Boho Clothes Hawaiian Casual Elegant Classy Date Outfit",
-            "price": "$17.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81lnBeTGoYL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FP163YKW?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B09JQ5NHLB",
-            "slug": "iris-usa-6-qt-craft-storage-bins-with-lids-4-pack-made-in-us",
-            "title": "IRIS USA 6 Qt. Craft Storage Bins with Lids, 4-Pack, |Made in USA|, Clip Box, Small Plastic Sensory Bin Tot",
-            "price": "$23.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/613Mpe7OUmL.jpg",
-            "url": "https://www.amazon.com/dp/B09JQ5NHLB?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FYBL7RVV",
-            "slug": "renoj-insulated-mug-100-spill-resistant-insulated-water-bott",
-            "title": "Renoj Insulated Mug 100% Spill Resistant Insulated Water Bottle for Iced Coffee & Hot Drinks - Fits Car Cup Holder, Idea",
-            "price": "$5.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61aKPcui1nL.jpg",
-            "url": "https://www.amazon.com/dp/B0FYBL7RVV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0FN4P3V43",
-            "slug": "halloween-ghost-decor-10-led-battery-operated-halloween-deco",
-            "title": "Halloween Ghost Decor - 10 LED Battery Operated Halloween Decorations Lights, 8 Modes Light Up Ghost Garland, LED String",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FN4P3V43/ref=cm_sw_r_as_gl_api_gl_i_SHJ2HYKFXD3E9ZVQFJE1?linkCode=ml1&tag=noya0b-20&linkId=198b3c7034217693e06df7f0a3539cc3"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FRFV7ZKF",
+          "slug": "onlyone-electric-toothbrush-for-adults-rechargeable-electric",
+          "title": "Onlyone Electric Toothbrush for Adults, Rechargeable Electric Toothbrush with 8 Brush Heads, Travel Case, Charging Base ",
+          "price": "$15.50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IvQjXc1XL.jpg",
+          "url": "https://www.amazon.com/dp/B0FRFV7ZKF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B08Z5JV3RS",
+          "slug": "tiny-patrol-outlet-covers-child-proof-plug-cover-for-electri",
+          "title": "Tiny Patrol Outlet Covers Child Proof Plug Cover for Electrical Outlets Baby Proof Socket Safety Proofing Wall Guards Pr",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-VulWVZlL.jpg",
+          "url": "https://www.amazon.com/dp/B08Z5JV3RS/ref=cm_sw_r_as_gl_api_gl_i_18P0A1N24K9WW0530KXN?linkCode=ml1&tag=noya0b-20&linkId=e5d62f2430e4f4d8e55b51721a59aa3c"
+        },
+        {
+          "asin": "B01G75P1SC",
+          "slug": "streamlight-88061-protac-1l-1aa-350-lumen-dual-fuel-professi",
+          "title": "Streamlight 88061 ProTac 1L-1AA 350-Lumen Dual Fuel Professional Tactical Light, Black",
+          "price": "$37.05",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B01G75P1SC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DWNJNHYN",
+          "slug": "original-squishmallows-squishy-sticker-book-for-kids-scrapbo",
+          "title": "Original Squishmallows Squishy Sticker Book for Kids, Scrapbook, Journaling, Laptop Sticker Pack for Kids Crafts",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EyioqPCjL.jpg",
+          "url": "https://www.amazon.com/dp/B0DWNJNHYN/ref=cm_sw_r_as_gl_api_gl_i_NB0E132VQX3DBJYFXBED?linkCode=ml1&tag=noya0b-20&linkId=85f5c2585eb44e812c3279269f0f6ee8"
+        },
+        {
+          "asin": "B0FKT178XY",
+          "slug": "coodo-toddlerlittle-kid-boys-girls-shoes-running-sports-snea",
+          "title": "COODO Toddler/Little Kid Boys Girls Shoes Running Sports Sneakers (4 Toddler,Lt.Grey) : Clothing, Shoes & Jewelry",
+          "price": "$25.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71PuqulBtGL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FKT178XY?tag=noya0b-20"
+        },
         {
           "asin": "B0DJSM5TKW",
           "slug": "mega-squid-game-action-figure-building-toy-the-staircase-wit",
@@ -198,71 +247,16 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61WlA0XvnGL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FTP4PMYX?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DTJDP7YX",
-          "slug": "gazillion-bubbles-tiny-typhoon-compact-bubble-machine-powerf",
-          "title": "Gazillion Bubbles Tiny Typhoon, Compact Bubble Machine, Powerful Bubble Blower for Maximum Fun, Easy to Clean & Portable",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71jc2PxO84L.jpg",
-          "url": "https://www.amazon.com/dp/B0DTJDP7YX/ref=cm_sw_r_as_gl_api_gl_i_MNDV9A0BENA3FWXDY8T5?linkCode=ml1&tag=noya0b-20&linkId=ad3e4a78aa9e7ce0254fc138665ca57f"
-        },
-        {
-          "asin": "B0FP163YKW",
-          "slug": "ofeefan-black-dress-womens-dresses-2026-spring-summer-sundre",
-          "title": "OFEEFAN Black Dress Womens Dresses 2026 Spring Summer Sundresses Boho Clothes Hawaiian Casual Elegant Classy Date Outfit",
-          "price": "$17.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81lnBeTGoYL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FP163YKW?tag=noya0b-20"
-        },
-        {
-          "asin": "B09JQ5NHLB",
-          "slug": "iris-usa-6-qt-craft-storage-bins-with-lids-4-pack-made-in-us",
-          "title": "IRIS USA 6 Qt. Craft Storage Bins with Lids, 4-Pack, |Made in USA|, Clip Box, Small Plastic Sensory Bin Tot",
-          "price": "$23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/613Mpe7OUmL.jpg",
-          "url": "https://www.amazon.com/dp/B09JQ5NHLB?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FN4P3V43",
-          "slug": "halloween-ghost-decor-10-led-battery-operated-halloween-deco",
-          "title": "Halloween Ghost Decor - 10 LED Battery Operated Halloween Decorations Lights, 8 Modes Light Up Ghost Garland, LED String",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FN4P3V43/ref=cm_sw_r_as_gl_api_gl_i_SHJ2HYKFXD3E9ZVQFJE1?linkCode=ml1&tag=noya0b-20&linkId=198b3c7034217693e06df7f0a3539cc3"
-        },
-        {
-          "asin": "B0FYBL7RVV",
-          "slug": "renoj-insulated-mug-100-spill-resistant-insulated-water-bott",
-          "title": "Renoj Insulated Mug 100% Spill Resistant Insulated Water Bottle for Iced Coffee & Hot Drinks - Fits Car Cup Holder, Idea",
-          "price": "$5.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61aKPcui1nL.jpg",
-          "url": "https://www.amazon.com/dp/B0FYBL7RVV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"​MEGA Squid Game Action Figure Building Toy The Staircase wi...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Onlyone Electric Toothbrush for Adults, Rechargeable Electri...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T10:30:02.221Z",
-      "updatedAt": "2026-07-04T10:30:02.221Z"
+      "generatedAt": "2026-07-04T10:40:01.456Z",
+      "updatedAt": "2026-07-04T10:40:01.456Z"
     },
     {
       "date": "2026-07-03",
@@ -7029,5 +7023,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T10:30:02.224Z"
+  "generatedAt": "2026-07-04T10:40:01.460Z"
 }
