@@ -4,12 +4,12 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "💄 Best Beauty Deals Today — July 4, 2026",
-      "intro": "Today's best beauty deals for Saturday, July 4, 2026 — 30 hand-picked discounts on Makeup, Body Care, Skincare and more. The best beauty discount today is 60% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Saturday, July 4, 2026 — 30 hand-picked discounts on Makeup, Body Care, Fragrance and more. The best beauty discount today is 60% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
         "Makeup",
         "Body Care",
-        "Skincare",
         "Fragrance",
+        "Skincare",
         "Hair Care"
       ],
       "bySubcat": {
@@ -137,6 +137,28 @@
             "url": "https://www.amazon.com/Aveeno-Soothing-Sensitive-Moisturizing-Sulfate-Free/dp/B07FK8YR27?th=1&linkCode=sl2&tag=noya0b-20&linkId=bfd6234949a95f256527b9ec4c02c05b&language=en_US"
           }
         ],
+        "Fragrance": [
+          {
+            "asin": "B09232XNTX",
+            "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
+            "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL.jpg",
+            "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CVJZ8TCH",
+            "slug": "pacifica-passion-fruit-perfume-tropical-fruity-floral-clean",
+            "title": "Pacifica Passion Fruit Perfume – Tropical Fruity Floral Clean Perfume for Women with Passionfruit, Pineapple & Vanilla, ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/81K7ORmN9GL.jpg",
+            "url": "https://www.amazon.com/dp/B0CVJZ8TCH?th=1&tag=noya0b-20"
+          }
+        ],
         "Skincare": [
           {
             "asin": "B0FQ8PNJWB",
@@ -155,7 +177,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61gWhTzZHkL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FMT8YXM5/ref=cm_sw_r_as_gl_api_gl_i_dl_HJ7XYB3F65SB8RJETVGC?linkCode=ml1&tag=noya0b-20&linkId=8374a7c559abc895f7f3d337c5b8488a"
           },
           {
@@ -237,28 +259,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61lUE9-OruL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F8NGWMVN/ref=cm_sw_r_as_gl_api_gl_i_DTHPG7P0G2Z3H4YJR98E?tag=noya0b-20"
-          }
-        ],
-        "Fragrance": [
-          {
-            "asin": "B0CVJZ8TCH",
-            "slug": "pacifica-passion-fruit-perfume-tropical-fruity-floral-clean",
-            "title": "Pacifica Passion Fruit Perfume – Tropical Fruity Floral Clean Perfume for Women with Passionfruit, Pineapple & Vanilla, ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/81K7ORmN9GL.jpg",
-            "url": "https://www.amazon.com/dp/B0CVJZ8TCH?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B09232XNTX",
-            "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
-            "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL._SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
           }
         ],
         "Hair Care": [
@@ -356,6 +356,16 @@
           "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
         },
         {
+          "asin": "B09232XNTX",
+          "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
+          "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL.jpg",
+          "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
+        },
+        {
           "asin": "B0D9PFMCZ1",
           "slug": "bath-and-body-gift-set-for-women-and-girls-4pc-travel-size-s",
           "title": "\udecd️Bath and Body Gift Set for Women and Girls, 4PC Travel Size Self Care Spa Kit with Body Scrub, Shower Gel, Body Lotion",
@@ -382,7 +392,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61gWhTzZHkL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FMT8YXM5/ref=cm_sw_r_as_gl_api_gl_i_dl_HJ7XYB3F65SB8RJETVGC?linkCode=ml1&tag=noya0b-20&linkId=8374a7c559abc895f7f3d337c5b8488a"
         },
         {
@@ -586,16 +596,6 @@
           "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
         },
         {
-          "asin": "B09232XNTX",
-          "slug": "bellavita-luxury-womens-perfume-gift-set-with-rose-senorita",
-          "title": "Bellavita Luxury Women's Perfume Gift Set with Rose, Senorita, Date, and Glam | 80ml | Perfume for Women | Pink Pepper,",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/51MNhYWOlWL._SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B09232XNTX?tag=noya0b-20"
-        },
-        {
           "asin": "B0G6CLCQGB",
           "slug": "electric-makeup-brush-cleaner-with-brush-clean-mat-usb-charg",
           "title": "Electric Makeup Brush Cleaner with Brush Clean Mat, USB Charging Automatic Electric Makeup Brush Cleaner, Makeup Brush C",
@@ -643,7 +643,7 @@
       "faq": [
         {
           "q": "What are the best beauty deals today on July 4, 2026?",
-          "a": "The top beauty deals today include \"Maybelline Cheek Heat Gel-Cream Blush Makeup, Lightweight, B...\" and 29 other hand-picked discounts across Makeup, Body Care, Skincare."
+          "a": "The top beauty deals today include \"Maybelline Cheek Heat Gel-Cream Blush Makeup, Lightweight, B...\" and 29 other hand-picked discounts across Makeup, Body Care, Fragrance."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-04T23:30:04.782Z",
-      "updatedAt": "2026-07-04T23:30:04.782Z"
+      "generatedAt": "2026-07-04T23:40:04.719Z",
+      "updatedAt": "2026-07-04T23:40:04.719Z"
     },
     {
       "date": "2026-07-03",
@@ -15536,5 +15536,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-04T23:30:04.787Z"
+  "generatedAt": "2026-07-04T23:40:04.724Z"
 }
