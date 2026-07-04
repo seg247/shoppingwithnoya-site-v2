@@ -4,17 +4,91 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Fashion, Other, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Beauty, Other, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Fashion",
-        "Other",
-        "Grocery & Food",
-        "Pet Supplies",
-        "Toys & Kids",
         "Beauty",
-        "Home & Kitchen"
+        "Other",
+        "Fashion",
+        "Tools & Hardware",
+        "Home & Kitchen",
+        "Pet Supplies",
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Tools & Hardware": [
+          {
+            "asin": "B004GIO0F8",
+            "slug": "dewalt-drill-bit-set-21-pc-titanium-nitride-coated-pilot-poi",
+            "title": "\udecd️DEWALT Drill Bit Set, 21 Pc. Titanium Nitride Coated Pilot Point DEWALT Bit Set with Case for Wood, Metal and Plastic ",
+            "price": "$32.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B004GIO0F8/ref=cm_sw_r_as_gl_api_gl_i_XDKTAHTRE7ANKZR4XNCE?linkCode=ml1&tag=noya0b-20&linkId=4335b7444ca2e3f9b27f8ade7dd40f47"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0D9PFMCZ1",
+            "slug": "bath-and-body-gift-set-for-women-and-girls-4pc-travel-size-s",
+            "title": "\udecd️Bath and Body Gift Set for Women and Girls, 4PC Travel Size Self Care Spa Kit with Body Scrub, Shower Gel, Body Lotion",
+            "price": "$18.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81yCAumpX1L.jpg",
+            "url": "https://www.amazon.com/dp/B0D9PFMCZ1/ref=cm_sw_r_as_gl_api_gl_i_dl_M38XRXAB1FGGG5ZXZYZ6?linkCode=ml1&tag=noya0b-20&linkId=6002341d28c56d88196b057f603f20ad"
+          },
+          {
+            "asin": "B0FQ8PNJWB",
+            "slug": "revlon-tinted-moisturizer-sticks-from-3xx-on-amazon",
+            "title": "Revlon Tinted Moisturizer Sticks from $3.xx on Amazon!",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Rk7E7n+3L.jpg",
+            "url": "https://www.amazon.com/dp/B0FQ8PNJWB?th=1&linkCode=sl2&tag=noya0b-20&linkId=54c6b6fb34bf208dee13498bb1604b92&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0GVK6S1LC",
+            "slug": "timephoria-aion-superstain-lip-stain-tattoo-ink-long-lasting",
+            "title": "\udecd️TIMEPHORIA Aion Superstain Lip Stain Tattoo Ink, Long Lasting Semi-gloss Finish, Full Coverage Lip Tint with High Pigm",
+            "price": "$19.90",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/510F8a+fR1L.jpg",
+            "url": "https://www.amazon.com/dp/B0GVK6S1LC/ref=cm_sw_r_as_gl_api_gl_i_dl_MSE3Z7A5JJ7T3P9NNHJK?linkCode=ml1&tag=noya0b-20&linkId=2e6af68bc5f63a09de2d79e5c5f2eb16"
+          },
+          {
+            "asin": "B0FRJQT3BL",
+            "slug": "calvin-klein-eternity-for-men-eau-de-toilette-3-pc-set-sprin",
+            "title": "Calvin Klein Eternity for Men Eau de Toilette 3-pc Set (Spring FY26) : Everything Else",
+            "price": "$83",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FRJQT3BL?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2b0ab7e3c17ee9d82e89b64833246031&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FPRFT48T",
+            "slug": "inspirex-touch-screen-toaster-2-extra-wide-slots-5-bread-typ",
+            "title": "Inspirex Touch Screen Toaster - 2 Extra Wide Slots - 5 Bread Types and 6 Browning Levels - Defrost, Reheat, Favorite, & ",
+            "price": "$34",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/710rkRcraYL.jpg",
+            "url": "https://www.amazon.com/dp/B0FPRFT48T?th=1&tag=noya0b-20"
+          }
+        ],
         "Pet Supplies": [
           {
             "asin": "B09MZBWXG7",
@@ -64,83 +138,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71nHq4LxywL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GHMS9NXV/ref=cm_sw_r_as_gl_api_gl_i_dl_CN1E3VG06BGNDVXVSFWC?linkCode=ml1&tag=noya0b-20&linkId=37e52a905bc81e33beb0541551f64c8e"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0FRJQT3BL",
-            "slug": "calvin-klein-eternity-for-men-eau-de-toilette-3-pc-set-sprin",
-            "title": "Calvin Klein Eternity for Men Eau de Toilette 3-pc Set (Spring FY26) : Everything Else",
-            "price": "$83",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FRJQT3BL?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2b0ab7e3c17ee9d82e89b64833246031&language=en_US"
-          },
-          {
-            "asin": "B0FRJQT3BL",
-            "slug": "calvin-klein-eternity-for-men-eau-de-toilette-3-pc-set-sprin",
-            "title": "Calvin Klein Eternity for Men Eau de Toilette 3-pc Set (Spring FY26) : Everything Else",
-            "price": "$83",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FRJQT3BL?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2b0ab7e3c17ee9d82e89b64833246031&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FMT8YXM5",
-            "slug": "shark-facialpro-glow-at-home-hydro-powered-facial-system-wit",
-            "title": "\udecd️Shark FacialPro Glow at-Home Hydro-Powered Facial System with DePuffi Hot & Cold Therapy – Professional Spa Skincare D",
-            "price": "$399.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FMT8YXM5/ref=cm_sw_r_as_gl_api_gl_i_dl_HJ7XYB3F65SB8RJETVGC?linkCode=ml1&tag=noya0b-20&linkId=8374a7c559abc895f7f3d337c5b8488a"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0F8PPCTJD",
-            "slug": "welchs-fruit-snacks-mixed-fruit-mango-peach-snack-box-gluten",
-            "title": "Welch's Fruit Snacks, Mixed Fruit & Mango Peach Snack Box, Gluten Free, 0.8oz Snack Packs (Pack of 60)",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81R0mzpBUJL.jpg",
-            "url": "https://www.amazon.com/dp/B0F8PPCTJD?ie=UTF8&ascsubtag=aa529716736211f1b8817a942600916a0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1b3748dd44626ca729305ab7ae10687a&language=en_US"
-          },
-          {
-            "asin": "B0DNV1PDVT",
-            "slug": "luna-bar-variety-pack-6-flavors-gluten-free-snack-bars-non-g",
-            "title": "LUNA Bar - Variety Pack - 6 Flavors - Gluten Free Snack Bars - Non-GMO - Protein Bars - Made with Organic Oats (12 Pack)",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/811eMTr9GoL.jpg",
-            "url": "https://www.amazon.com/dp/B0DNV1PDVT?th=1&linkCode=sl1&tag=noya0b-20&linkId=57dd91e9f48760dbe67f223e825c2d62&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B08C96BG9H",
-            "slug": "delonghi-stilosa-manual-espresso-machine-compact-coffee-make",
-            "title": "De'Longhi Stilosa Manual Espresso Machine, Compact Coffee Maker, 15 Bar Pump Pressure, Manual Milk Frother Steam Wand fo",
-            "price": "$99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71IYDwNbC2L.jpg",
-            "url": "https://www.amazon.com/dp/B08C96BG9H?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B004GIO0F8",
+          "slug": "dewalt-drill-bit-set-21-pc-titanium-nitride-coated-pilot-poi",
+          "title": "\udecd️DEWALT Drill Bit Set, 21 Pc. Titanium Nitride Coated Pilot Point DEWALT Bit Set with Case for Wood, Metal and Plastic ",
+          "price": "$32.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B004GIO0F8/ref=cm_sw_r_as_gl_api_gl_i_XDKTAHTRE7ANKZR4XNCE?linkCode=ml1&tag=noya0b-20&linkId=4335b7444ca2e3f9b27f8ade7dd40f47"
+        },
+        {
+          "asin": "B0D9PFMCZ1",
+          "slug": "bath-and-body-gift-set-for-women-and-girls-4pc-travel-size-s",
+          "title": "\udecd️Bath and Body Gift Set for Women and Girls, 4PC Travel Size Self Care Spa Kit with Body Scrub, Shower Gel, Body Lotion",
+          "price": "$18.39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81yCAumpX1L.jpg",
+          "url": "https://www.amazon.com/dp/B0D9PFMCZ1/ref=cm_sw_r_as_gl_api_gl_i_dl_M38XRXAB1FGGG5ZXZYZ6?linkCode=ml1&tag=noya0b-20&linkId=6002341d28c56d88196b057f603f20ad"
+        },
+        {
+          "asin": "B0GVK6S1LC",
+          "slug": "timephoria-aion-superstain-lip-stain-tattoo-ink-long-lasting",
+          "title": "\udecd️TIMEPHORIA Aion Superstain Lip Stain Tattoo Ink, Long Lasting Semi-gloss Finish, Full Coverage Lip Tint with High Pigm",
+          "price": "$19.90",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/510F8a+fR1L.jpg",
+          "url": "https://www.amazon.com/dp/B0GVK6S1LC/ref=cm_sw_r_as_gl_api_gl_i_dl_MSE3Z7A5JJ7T3P9NNHJK?linkCode=ml1&tag=noya0b-20&linkId=2e6af68bc5f63a09de2d79e5c5f2eb16"
+        },
+        {
+          "asin": "B0FPRFT48T",
+          "slug": "inspirex-touch-screen-toaster-2-extra-wide-slots-5-bread-typ",
+          "title": "Inspirex Touch Screen Toaster - 2 Extra Wide Slots - 5 Bread Types and 6 Browning Levels - Defrost, Reheat, Favorite, & ",
+          "price": "$34",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/710rkRcraYL.jpg",
+          "url": "https://www.amazon.com/dp/B0FPRFT48T?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FQ8PNJWB",
+          "slug": "revlon-tinted-moisturizer-sticks-from-3xx-on-amazon",
+          "title": "Revlon Tinted Moisturizer Sticks from $3.xx on Amazon!",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Rk7E7n+3L.jpg",
+          "url": "https://www.amazon.com/dp/B0FQ8PNJWB?th=1&linkCode=sl2&tag=noya0b-20&linkId=54c6b6fb34bf208dee13498bb1604b92&language=en_US"
+        },
         {
           "asin": "B09MZBWXG7",
           "slug": "full-moon-all-natural-human-grade-dog-treats-essential-chick",
@@ -195,71 +250,16 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FRJQT3BL?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2b0ab7e3c17ee9d82e89b64833246031&language=en_US"
-        },
-        {
-          "asin": "B0FRJQT3BL",
-          "slug": "calvin-klein-eternity-for-men-eau-de-toilette-3-pc-set-sprin",
-          "title": "Calvin Klein Eternity for Men Eau de Toilette 3-pc Set (Spring FY26) : Everything Else",
-          "price": "$83",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FRJQT3BL?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2b0ab7e3c17ee9d82e89b64833246031&language=en_US"
-        },
-        {
-          "asin": "B0FMT8YXM5",
-          "slug": "shark-facialpro-glow-at-home-hydro-powered-facial-system-wit",
-          "title": "\udecd️Shark FacialPro Glow at-Home Hydro-Powered Facial System with DePuffi Hot & Cold Therapy – Professional Spa Skincare D",
-          "price": "$399.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FMT8YXM5/ref=cm_sw_r_as_gl_api_gl_i_dl_HJ7XYB3F65SB8RJETVGC?linkCode=ml1&tag=noya0b-20&linkId=8374a7c559abc895f7f3d337c5b8488a"
-        },
-        {
-          "asin": "B0F8PPCTJD",
-          "slug": "welchs-fruit-snacks-mixed-fruit-mango-peach-snack-box-gluten",
-          "title": "Welch's Fruit Snacks, Mixed Fruit & Mango Peach Snack Box, Gluten Free, 0.8oz Snack Packs (Pack of 60)",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81R0mzpBUJL.jpg",
-          "url": "https://www.amazon.com/dp/B0F8PPCTJD?ie=UTF8&ascsubtag=aa529716736211f1b8817a942600916a0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1b3748dd44626ca729305ab7ae10687a&language=en_US"
-        },
-        {
-          "asin": "B08C96BG9H",
-          "slug": "delonghi-stilosa-manual-espresso-machine-compact-coffee-make",
-          "title": "De'Longhi Stilosa Manual Espresso Machine, Compact Coffee Maker, 15 Bar Pump Pressure, Manual Milk Frother Steam Wand fo",
-          "price": "$99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71IYDwNbC2L.jpg",
-          "url": "https://www.amazon.com/dp/B08C96BG9H?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DNV1PDVT",
-          "slug": "luna-bar-variety-pack-6-flavors-gluten-free-snack-bars-non-g",
-          "title": "LUNA Bar - Variety Pack - 6 Flavors - Gluten Free Snack Bars - Non-GMO - Protein Bars - Made with Organic Oats (12 Pack)",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/811eMTr9GoL.jpg",
-          "url": "https://www.amazon.com/dp/B0DNV1PDVT?th=1&linkCode=sl1&tag=noya0b-20&linkId=57dd91e9f48760dbe67f223e825c2d62&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"Full Moon All Natural Human Grade Dog Treats, Essential Chic...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"\udecd️DEWALT Drill Bit Set, 21 Pc. Titanium Nitride Coated Pilot...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T22:10:01.719Z",
-      "updatedAt": "2026-07-04T22:10:01.719Z"
+      "generatedAt": "2026-07-04T22:20:01.932Z",
+      "updatedAt": "2026-07-04T22:20:01.932Z"
     },
     {
       "date": "2026-07-03",
@@ -7026,5 +7026,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T22:10:01.722Z"
+  "generatedAt": "2026-07-04T22:20:01.935Z"
 }
