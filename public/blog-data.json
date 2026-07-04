@@ -4,16 +4,101 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Beauty, Electronics, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
-        "Electronics",
-        "Other",
-        "Fashion",
         "Beauty",
-        "Garden & Outdoor"
+        "Electronics",
+        "Home & Kitchen",
+        "Other",
+        "Grocery & Food",
+        "Fashion"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0D2LRBNVT",
+            "slug": "ticonderoga-18-pack-pastel-pencils-just-5xx-on-amazon-reg-13",
+            "title": "Ticonderoga 18-Pack Pastel Pencils Just $5.xx on Amazon (Reg $13)!",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/512gEVQnaqL.jpg",
+            "url": "https://www.amazon.com/dp/B0D2LRBNVT?th=1&linkCode=sl2&tag=noya0b-20&linkId=4cfd1e41e5a191a33df0249025d284f3&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B07FK8YR27",
+            "slug": "aveeno-stress-relief-body-wash-with-nourishing-oat-lavender",
+            "title": "Aveeno Stress Relief Body Wash with Nourishing Oat & Lavender Scent for Sensitive Skin, Gently Cleanses & Helps You Feel",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/Aveeno-Soothing-Sensitive-Moisturizing-Sulfate-Free/dp/B07FK8YR27?th=1&linkCode=sl2&tag=noya0b-20&linkId=bfd6234949a95f256527b9ec4c02c05b&language=en_US"
+          },
+          {
+            "asin": "B0D9PFMCZ1",
+            "slug": "bath-and-body-gift-set-for-women-and-girls-4pc-travel-size-s",
+            "title": "Bath and Body Gift Set for Women and Girls, 4PC Travel Size Self Care Spa Kit with Body Scrub, Shower Gel, Body Lotion &",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81yCAumpX1L.jpg",
+            "url": "https://www.amazon.com/dp/B0D9PFMCZ1?lv=shuf&ascsubtag=srctok-5bc255e00bc90467&btn_ref=srctok-5bc255e00bc90467&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8ce2631650c59505b260b5de41adb001&language=en_US"
+          },
+          {
+            "asin": "B0DC6NJ5P1",
+            "slug": "sweetcrispy-vanity-stool-chair-with-storage-ottoman-faux-fur",
+            "title": "Sweetcrispy Vanity Stool Chair with Storage, Ottoman Faux Fur Soft Padded Makeup Footstools Seat with 4 Metal Legs Anti-",
+            "price": "$28",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/612gYVz2uFL.jpg",
+            "url": "https://www.amazon.com/dp/B0DC6NJ5P1?th=1&tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0CV4DFK75",
+            "slug": "legendary-foods-high-protein-pastry-cinnamon-low-carblow-sug",
+            "title": "Legendary Foods High Protein Pastry, Cinnamon, Low Carb/Low Sugar Snack | Original Protein Pastry, Keto Snack,Frosted Br",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/719EdBxdoZL.jpg",
+            "url": "https://www.amazon.com/dp/B0CV4DFK75?lv=shuf&ascsubtag=srctok-13973924496d1a88&th=1&m=A3CF83DJQ23BR8&btn_ref=srctok-13973924496d1a88&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7b3637221517eb848c13d363f94c0b0a&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DWNJNHYN",
+            "slug": "original-squishmallows-squishy-sticker-book-for-kids-scrapbo",
+            "title": "Original Squishmallows Squishy Sticker Book for Kids, Scrapbook, Journaling, Laptop Sticker Pack for Kids Crafts : Toys ",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81EyioqPCjL.jpg",
+            "url": "https://www.amazon.com/dp/B0DWNJNHYN?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CT43RWPQ",
+            "slug": "keurig-simplecafe-frother-rechargeable-handheld-milk-frother",
+            "title": "Keurig SimpleCafe Frother, Rechargeable Handheld Milk Frother for Lattes, Cappuccinos & Iced Coffee, USB Cord Included, ",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61am9x-qZOL.jpg",
+            "url": "https://www.amazon.com/dp/B0CT43RWPQ?lv=shuf&ascsubtag=37bc8a10756311f1b706f63dd8c1dcc40INT&psc=1&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=8fd41c26f56aa18225f5ea676c010070&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0F7GBR466",
@@ -36,17 +121,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61r2Iv45u2L.jpg",
             "url": "https://www.amazon.com/dp/B0GF9VRJLY?th=1&linkCode=sl2&tag=noya0b-20&linkId=4da016eed396e9383752f19bba00ad81&language=en_US"
-          },
-          {
-            "asin": "B0D4RDV53M",
-            "slug": "ninja-air-fryer-8-qt-doublestack-2-basket-space-saving-desig",
-            "title": "\udecd️Ninja Air Fryer, 8 QT DoubleStack 2-Basket, Space Saving Design, Cooks 2lb Chicken Wings, Feeds up to 6 People, 6-in1 ",
-            "price": "$219.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D4RDV53M?lv=shuf&pd_rd_i=B0D4RDV53M&content-id=amzn1.sym.e34ac5c5-c1c3-411e-b007-78dc596246f9&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a6c424622bb58e23904784485c73efb2&language=en_US"
           }
         ],
         "Fashion": [
@@ -61,83 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71oz-qD6L5L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/CUSHIONAIRE-Womens-platform-sandal-Memory/dp/B09M952B38?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4aed3bb32c1007905f4ea4584d8d59f2&language=en_US"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DC6NJ5P1",
-            "slug": "sweetcrispy-vanity-stool-chair-with-storage-ottoman-faux-fur",
-            "title": "Sweetcrispy Vanity Stool Chair with Storage, Ottoman Faux Fur Soft Padded Makeup Footstools Seat with 4 Metal Legs Anti-",
-            "price": "$28",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/612gYVz2uFL.jpg",
-            "url": "https://www.amazon.com/dp/B0DC6NJ5P1?th=1&tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0CT43RWPQ",
-            "slug": "keurig-simplecafe-frother-rechargeable-handheld-milk-frother",
-            "title": "Keurig SimpleCafe Frother, Rechargeable Handheld Milk Frother for Lattes, Cappuccinos & Iced Coffee, USB Cord Included, ",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61am9x-qZOL.jpg",
-            "url": "https://www.amazon.com/dp/B0CT43RWPQ?lv=shuf&ascsubtag=37bc8a10756311f1b706f63dd8c1dcc40INT&psc=1&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=8fd41c26f56aa18225f5ea676c010070&language=en_US"
-          },
-          {
-            "asin": "B0GY4646XV",
-            "slug": "wireless-headset-with-mic-for-work-wireless-headphones-with",
-            "title": "\udecd️Wireless Headset with Mic for Work, Wireless Headphones with Mic(Noise Cancelling & Mute Button),65H Battery with Char",
-            "price": "$79.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61tbJHT-zzL.jpg",
-            "url": "https://www.amazon.com/dp/B0GY4646XV?pd_rd_i=B0GY4646XV&content-id=amzn1.sym.80113243-102d-4681-8acc-3cf3cd1cd7c4&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1&linkCode=sl2&tag=noya0b-20&linkId=5368746792397459943af750258abd9d&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B09XR5T2V6",
-            "slug": "workpro-home-tool-set-with-20v-cordless-lithium-ion-drill-dr",
-            "title": "\udecd️WORKPRO Home Tool Set with 20V Cordless Lithium-Ion Drill Driver, Household Repairing Tool Kit with Drill, 157PCS Powe",
-            "price": "$129.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/817WGuU6Q+L.jpg",
-            "url": "https://www.amazon.com/dp/B09XR5T2V6?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0ec2ecaac3559cdc3d32e74937168837&language=en_US"
-          },
-          {
-            "asin": "B0FY2XLRYB",
-            "slug": "kodrhar-t1b30-ombre-brown-3-bundles-human-straight-hair-10-1",
-            "title": "KODRHAR T1B/30 Ombre Brown 3 Bundles Human Straight Hair 10 12 14 Inch Straight Human Hair Brown Bundle 12A Brazilian Vi",
-            "price": "$20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vCRlcrg1L.jpg",
-            "url": "https://www.amazon.com/dp/B0FY2XLRYB?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0GSG2YPXF",
-            "slug": "make-changes-outdoor-storage-box30-gallon-deck-box-outdoor-s",
-            "title": "MAKE CHANGES Outdoor Storage Box,30 Gallon Deck Box Outdoor Storage Bench Outside Waterproof Resin Storage Bench, Lockab",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-pgCZE0UL.jpg",
-            "url": "https://www.amazon.com/dp/B0GSG2YPXF?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D2LRBNVT",
+          "slug": "ticonderoga-18-pack-pastel-pencils-just-5xx-on-amazon-reg-13",
+          "title": "Ticonderoga 18-Pack Pastel Pencils Just $5.xx on Amazon (Reg $13)!",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/512gEVQnaqL.jpg",
+          "url": "https://www.amazon.com/dp/B0D2LRBNVT?th=1&linkCode=sl2&tag=noya0b-20&linkId=4cfd1e41e5a191a33df0249025d284f3&language=en_US"
+        },
+        {
+          "asin": "B07FK8YR27",
+          "slug": "aveeno-stress-relief-body-wash-with-nourishing-oat-lavender",
+          "title": "Aveeno Stress Relief Body Wash with Nourishing Oat & Lavender Scent for Sensitive Skin, Gently Cleanses & Helps You Feel",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/Aveeno-Soothing-Sensitive-Moisturizing-Sulfate-Free/dp/B07FK8YR27?th=1&linkCode=sl2&tag=noya0b-20&linkId=bfd6234949a95f256527b9ec4c02c05b&language=en_US"
+        },
+        {
+          "asin": "B0CV4DFK75",
+          "slug": "legendary-foods-high-protein-pastry-cinnamon-low-carblow-sug",
+          "title": "Legendary Foods High Protein Pastry, Cinnamon, Low Carb/Low Sugar Snack | Original Protein Pastry, Keto Snack,Frosted Br",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/719EdBxdoZL.jpg",
+          "url": "https://www.amazon.com/dp/B0CV4DFK75?lv=shuf&ascsubtag=srctok-13973924496d1a88&th=1&m=A3CF83DJQ23BR8&btn_ref=srctok-13973924496d1a88&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7b3637221517eb848c13d363f94c0b0a&language=en_US"
+        },
+        {
+          "asin": "B0D9PFMCZ1",
+          "slug": "bath-and-body-gift-set-for-women-and-girls-4pc-travel-size-s",
+          "title": "Bath and Body Gift Set for Women and Girls, 4PC Travel Size Self Care Spa Kit with Body Scrub, Shower Gel, Body Lotion &",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81yCAumpX1L.jpg",
+          "url": "https://www.amazon.com/dp/B0D9PFMCZ1?lv=shuf&ascsubtag=srctok-5bc255e00bc90467&btn_ref=srctok-5bc255e00bc90467&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8ce2631650c59505b260b5de41adb001&language=en_US"
+        },
+        {
+          "asin": "B0DWNJNHYN",
+          "slug": "original-squishmallows-squishy-sticker-book-for-kids-scrapbo",
+          "title": "Original Squishmallows Squishy Sticker Book for Kids, Scrapbook, Journaling, Laptop Sticker Pack for Kids Crafts : Toys ",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EyioqPCjL.jpg",
+          "url": "https://www.amazon.com/dp/B0DWNJNHYN?tag=noya0b-20"
+        },
         {
           "asin": "B0F7GBR466",
           "slug": "candle-sconces-set-of-4-wall-musical-note-sconces-decor-wall",
@@ -192,71 +247,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61r2Iv45u2L.jpg",
           "url": "https://www.amazon.com/dp/B0GF9VRJLY?th=1&linkCode=sl2&tag=noya0b-20&linkId=4da016eed396e9383752f19bba00ad81&language=en_US"
-        },
-        {
-          "asin": "B0D4RDV53M",
-          "slug": "ninja-air-fryer-8-qt-doublestack-2-basket-space-saving-desig",
-          "title": "\udecd️Ninja Air Fryer, 8 QT DoubleStack 2-Basket, Space Saving Design, Cooks 2lb Chicken Wings, Feeds up to 6 People, 6-in1 ",
-          "price": "$219.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D4RDV53M?lv=shuf&pd_rd_i=B0D4RDV53M&content-id=amzn1.sym.e34ac5c5-c1c3-411e-b007-78dc596246f9&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a6c424622bb58e23904784485c73efb2&language=en_US"
-        },
-        {
-          "asin": "B09XR5T2V6",
-          "slug": "workpro-home-tool-set-with-20v-cordless-lithium-ion-drill-dr",
-          "title": "\udecd️WORKPRO Home Tool Set with 20V Cordless Lithium-Ion Drill Driver, Household Repairing Tool Kit with Drill, 157PCS Powe",
-          "price": "$129.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/817WGuU6Q+L.jpg",
-          "url": "https://www.amazon.com/dp/B09XR5T2V6?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0ec2ecaac3559cdc3d32e74937168837&language=en_US"
-        },
-        {
-          "asin": "B0FY2XLRYB",
-          "slug": "kodrhar-t1b30-ombre-brown-3-bundles-human-straight-hair-10-1",
-          "title": "KODRHAR T1B/30 Ombre Brown 3 Bundles Human Straight Hair 10 12 14 Inch Straight Human Hair Brown Bundle 12A Brazilian Vi",
-          "price": "$20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vCRlcrg1L.jpg",
-          "url": "https://www.amazon.com/dp/B0FY2XLRYB?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GSG2YPXF",
-          "slug": "make-changes-outdoor-storage-box30-gallon-deck-box-outdoor-s",
-          "title": "MAKE CHANGES Outdoor Storage Box,30 Gallon Deck Box Outdoor Storage Bench Outside Waterproof Resin Storage Bench, Lockab",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71-pgCZE0UL.jpg",
-          "url": "https://www.amazon.com/dp/B0GSG2YPXF?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GY4646XV",
-          "slug": "wireless-headset-with-mic-for-work-wireless-headphones-with",
-          "title": "\udecd️Wireless Headset with Mic for Work, Wireless Headphones with Mic(Noise Cancelling & Mute Button),65H Battery with Char",
-          "price": "$79.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61tbJHT-zzL.jpg",
-          "url": "https://www.amazon.com/dp/B0GY4646XV?pd_rd_i=B0GY4646XV&content-id=amzn1.sym.80113243-102d-4681-8acc-3cf3cd1cd7c4&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1&linkCode=sl2&tag=noya0b-20&linkId=5368746792397459943af750258abd9d&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"Candle Sconces Set of 4 Wall Musical Note Sconces Decor Wall...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Other and are updated daily."
+          "a": "The best deals today include \"Ticonderoga 18-Pack Pastel Pencils Just $5.xx on Amazon (Reg...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T20:00:02.173Z",
-      "updatedAt": "2026-07-04T20:00:02.173Z"
+      "generatedAt": "2026-07-04T20:10:00.557Z",
+      "updatedAt": "2026-07-04T20:10:00.557Z"
     },
     {
       "date": "2026-07-03",
@@ -7023,5 +7023,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T20:00:02.184Z"
+  "generatedAt": "2026-07-04T20:10:00.559Z"
 }
