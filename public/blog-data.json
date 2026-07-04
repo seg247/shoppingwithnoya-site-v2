@@ -4,14 +4,80 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Women's Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Beauty",
         "Home & Kitchen",
-        "Health"
+        "Beauty",
+        "Women's Fashion",
+        "Garden & Outdoor",
+        "Fashion",
+        "Other"
       ],
       "byCategory": {
+        "Women's Fashion": [
+          {
+            "asin": "B0FW492VNC",
+            "slug": "anrabess-womens-tops-34-sleeve-casual-henley-shirts-v-neck-b",
+            "title": "ANRABESS Womens Tops 3/4 Sleeve Casual Henley Shirts V Neck Buttons Dressy Work Business Blouses 2026 Spring Trendy Clot",
+            "price": "$13.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Women's Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/91cLxwmfMDL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FW492VNC?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0GSG2YPXF",
+            "slug": "make-changes-outdoor-storage-box30-gallon-deck-box-outdoor-s",
+            "title": "MAKE CHANGES Outdoor Storage Box,30 Gallon Deck Box Outdoor Storage Bench Outside Waterproof Resin Storage Bench, Lockab",
+            "price": "$29",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-pgCZE0UL.jpg",
+            "url": "https://www.amazon.com/dp/B0GSG2YPXF/ref=cm_sw_r_as_gl_apa_gl_i_dl_EEPPK8SY5AK1DJQQYAHR?linkCode=ml1&tag=noya0b-20&linkId=cbca624d9cacad08cedb4801f4f93f78"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0FVDLJGC1",
+            "slug": "womens-cotton-leggings-soft-high-waisted-pants-stretch-full",
+            "title": "Women's Cotton Leggings Soft High Waisted Pants Stretch Full Length Lounge Solid Plus Size Fall Winter Basic Pant Beige",
+            "price": "$7.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51Vpav-DG5L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FVDLJGC1?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0DKVVK2DQ",
+            "slug": "grace-stella-under-eye-brightener-balm-stick",
+            "title": "grace & stella Under Eye Brightener Balm Stick",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HqnNhHlLL.jpg",
+            "url": "https://www.amazon.com/dp/B0DKVVK2DQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d90bb68e6daaaec0b772134c4ad8b25c&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B005G20HU0",
+            "slug": "farberware-paring-knife-and-cutting-board-set-whitegreen-cut",
+            "title": "Farberware Paring Knife and Cutting Board Set, White/Green: Cutting Boards: Home & Kitchen",
+            "price": "$15.16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61DTdWfTpSL.jpg",
+            "url": "https://www.amazon.com/dp/B005G20HU0?tag=noya0b-20"
+          },
           {
             "asin": "B09V5MBSDX",
             "slug": "amazon-basics-plastic-storage-containers-with-secure-latchin",
@@ -44,17 +110,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL.jpg",
             "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-          },
-          {
-            "asin": "B09B7SB46R",
-            "slug": "emeril-lagasse-extra-large-french-door-air-fryer-toaster-ove",
-            "title": "Emeril Lagasse Extra Large French Door Air Fryer Toaster Oven Combo, 24 Cooking Functions and Digital Controls, 7 Access",
-            "price": "$159.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81AUxm--7pL.jpg",
-            "url": "https://www.amazon.com/dp/B09B7SB46R?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -79,56 +134,65 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81++dYga6rL.jpg",
             "url": "https://www.amazon.com/dp/B0FWKG9H9P/ref=cm_sw_r_as_gl_apa_gl_i_GXKW6Z1H60G6JWGPHQE0?linkCode=ml1&tag=noya0b-20&linkId=c2b452229ce009a59a358db68a1bf9f6"
-          },
-          {
-            "asin": "B08SL72G3P",
-            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
-            "price": "$39.09",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-          },
-          {
-            "asin": "B07HWPH1MP",
-            "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
-            "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL.jpg",
-            "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
-          },
-          {
-            "asin": "B0C7ZM9VB8",
-            "slug": "all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss",
-            "title": "All in One Makeup Kit for Women Eyeshadow Eyeliner lipgloss, Lipstick Makeup brushes Mascara Eyebrow pencil Concealer Fa",
-            "price": "$24.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
-            "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B0BG52SJ5N",
-            "slug": "coslus-ada-accepted-water-dental-flosser-teeth-pick-c20-port",
-            "title": "COSLUS ADA Accepted Water Dental Flosser Teeth Pick C20: Portable Cordless Oral Irrigator 300ML Rechargeable Travel Irri",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lAL+OP6TL.jpg",
-            "url": "https://www.amazon.com/dp/B0BG52SJ5N/ref=cm_sw_r_as_gl_apa_gl_i_A86F0XAVF9NEQYYR3Y6W?linkCode=ml1&tag=noya0b-20&linkId=5111f0588c9492b09b60b886898f7a15"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FW492VNC",
+          "slug": "anrabess-womens-tops-34-sleeve-casual-henley-shirts-v-neck-b",
+          "title": "ANRABESS Womens Tops 3/4 Sleeve Casual Henley Shirts V Neck Buttons Dressy Work Business Blouses 2026 Spring Trendy Clot",
+          "price": "$13.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Women's Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/91cLxwmfMDL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FW492VNC?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GSG2YPXF",
+          "slug": "make-changes-outdoor-storage-box30-gallon-deck-box-outdoor-s",
+          "title": "MAKE CHANGES Outdoor Storage Box,30 Gallon Deck Box Outdoor Storage Bench Outside Waterproof Resin Storage Bench, Lockab",
+          "price": "$29",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-pgCZE0UL.jpg",
+          "url": "https://www.amazon.com/dp/B0GSG2YPXF/ref=cm_sw_r_as_gl_apa_gl_i_dl_EEPPK8SY5AK1DJQQYAHR?linkCode=ml1&tag=noya0b-20&linkId=cbca624d9cacad08cedb4801f4f93f78"
+        },
+        {
+          "asin": "B0FVDLJGC1",
+          "slug": "womens-cotton-leggings-soft-high-waisted-pants-stretch-full",
+          "title": "Women's Cotton Leggings Soft High Waisted Pants Stretch Full Length Lounge Solid Plus Size Fall Winter Basic Pant Beige",
+          "price": "$7.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51Vpav-DG5L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FVDLJGC1?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DKVVK2DQ",
+          "slug": "grace-stella-under-eye-brightener-balm-stick",
+          "title": "grace & stella Under Eye Brightener Balm Stick",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HqnNhHlLL.jpg",
+          "url": "https://www.amazon.com/dp/B0DKVVK2DQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d90bb68e6daaaec0b772134c4ad8b25c&language=en_US"
+        },
+        {
+          "asin": "B005G20HU0",
+          "slug": "farberware-paring-knife-and-cutting-board-set-whitegreen-cut",
+          "title": "Farberware Paring Knife and Cutting Board Set, White/Green: Cutting Boards: Home & Kitchen",
+          "price": "$15.16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61DTdWfTpSL.jpg",
+          "url": "https://www.amazon.com/dp/B005G20HU0?tag=noya0b-20"
+        },
         {
           "asin": "B09V5MBSDX",
           "slug": "amazon-basics-plastic-storage-containers-with-secure-latchin",
@@ -183,71 +247,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL.jpg",
           "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B09B7SB46R",
-          "slug": "emeril-lagasse-extra-large-french-door-air-fryer-toaster-ove",
-          "title": "Emeril Lagasse Extra Large French Door Air Fryer Toaster Oven Combo, 24 Cooking Functions and Digital Controls, 7 Access",
-          "price": "$159.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81AUxm--7pL.jpg",
-          "url": "https://www.amazon.com/dp/B09B7SB46R?tag=noya0b-20"
-        },
-        {
-          "asin": "B08SL72G3P",
-          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
-          "price": "$39.09",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BG52SJ5N",
-          "slug": "coslus-ada-accepted-water-dental-flosser-teeth-pick-c20-port",
-          "title": "COSLUS ADA Accepted Water Dental Flosser Teeth Pick C20: Portable Cordless Oral Irrigator 300ML Rechargeable Travel Irri",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lAL+OP6TL.jpg",
-          "url": "https://www.amazon.com/dp/B0BG52SJ5N/ref=cm_sw_r_as_gl_apa_gl_i_A86F0XAVF9NEQYYR3Y6W?linkCode=ml1&tag=noya0b-20&linkId=5111f0588c9492b09b60b886898f7a15"
-        },
-        {
-          "asin": "B07HWPH1MP",
-          "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
-          "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL.jpg",
-          "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C7ZM9VB8",
-          "slug": "all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss",
-          "title": "All in One Makeup Kit for Women Eyeshadow Eyeliner lipgloss, Lipstick Makeup brushes Mascara Eyebrow pencil Concealer Fa",
-          "price": "$24.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
-          "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"Amazon Basics Plastic Storage Containers with Secure Latchin...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Health and are updated daily."
+          "a": "The best deals today include \"ANRABESS Womens Tops 3/4 Sleeve Casual Henley Shirts V Neck ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Women's Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -262,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T04:30:01.753Z",
-      "updatedAt": "2026-07-04T04:30:01.753Z"
+      "generatedAt": "2026-07-04T04:40:01.260Z",
+      "updatedAt": "2026-07-04T04:40:01.260Z"
     },
     {
       "date": "2026-07-03",
@@ -7014,5 +7023,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T04:30:01.755Z"
+  "generatedAt": "2026-07-04T04:40:01.263Z"
 }
