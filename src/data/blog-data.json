@@ -4,15 +4,88 @@
       "date": "2026-07-04",
       "slug": "2026-07-04",
       "title": "🔥 Best Deals Today — July 4, 2026",
-      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Other, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 4, 2026 — 10 hand-picked discounts across Other, Fashion, Appliances and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Fashion",
+        "Appliances",
+        "Garden & Outdoor",
         "Beauty",
-        "Sports & Fitness",
-        "Health"
+        "Sports & Fitness"
       ],
       "byCategory": {
+        "Appliances": [
+          {
+            "asin": "B07GBV8KCB",
+            "slug": "costway-evaporative-cooler-and-heater-5-in-1-portable-air-co",
+            "title": "COSTWAY Evaporative Cooler and Heater, 5-in-1 Portable Air Cooler with Remote Control, 8-Hour Timer, 2 Ice Boxes, Quiet",
+            "price": "$85.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/61XfqhiA-RL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07GBV8KCB?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B09PFQJB5H",
+            "slug": "ygyqz-desk-shelf-organizer-for-top-of-desk-detachable-2-tier",
+            "title": "YGYQZ Desk Shelf Organizer for Top of Desk, Detachable 2 Tier Desktop Bookshelf, Wooden Desk Shelves Storage Rack, Small",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71jAWeX1yUL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09PFQJB5H?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B09NRZDWJ3",
+            "slug": "wet-ones-for-pets-antibacterial-dog-wipes-multi-purpose-groo",
+            "title": "Wet Ones for Pets Antibacterial Dog Wipes, Multi-Purpose Grooming Wipes with Aloe Vera for Paws, Face & Body, Easy Clean",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81BImo2oUFL.jpg",
+            "url": "https://www.amazon.com/dp/B09NRZDWJ3?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cc7b65ba1e5ae533d24160983be64f83&language=en_US"
+          },
+          {
+            "asin": "B0B8PDHRWY",
+            "slug": "kodak-pixpro-wide-angle-digital-camera-only-99xx-on-amazon-r",
+            "title": "Kodak PIXPRO Wide Angle Digital Camera Only $99.xx on Amazon (Reg. $130)!",
+            "price": "$99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/818GKPv0fvL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/KODAK-Friendly-FZ45-BK-Digital-Optical/dp/B0B8PDHRWY?th=1&linkCode=sl2&tag=noya0b-20&linkId=3840d242543c293bb1c7afdaa0ce9115&language=en_US"
+          },
+          {
+            "asin": "B0GJZYRDHX",
+            "slug": "vibebox-baby-girl-dresses-12-18-months-ruffle-sleeveless-but",
+            "title": "\udecd️Vibebox Baby Girl Dresses 12-18 Months Ruffle Sleeveless Button Clothes 1 Year Old Birthday Gifts Toddler Girls Yellow",
+            "price": "$8.54",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wOBnJ6MaL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GJZYRDHX/ref=cm_sw_r_as_gl_api_gl_i_dl_ZX54AV2Q7EW041C95DC3?linkCode=ml1&tag=noya0b-20&linkId=97a65ba6143d70460a57678f22442005"
+          },
+          {
+            "asin": "B0FGXKMXFL",
+            "slug": "bupird-duvet-cover-set-king-floral-luxury-soft-brushed-micro",
+            "title": "\udecd️BUPIRD Duvet Cover Set King Floral Luxury Soft Brushed Microfiber Crinkle Gauze Fabric 3 Pieces Bedding Set Flower Pat",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81BVUbY6LJL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FGXKMXFL/ref=cm_sw_r_as_gl_api_gl_i_dl_KPJ90WVX699VZTK87HB1?linkCode=ml1&tag=noya0b-20&linkId=b3ecfc19c8929a1b4d4adc2108ca9eda"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0F2JP7DBL",
@@ -62,79 +135,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71QFKdRNj5L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/Wekin-Practice-Training-Beginners-Advanced/dp/B0F5Q2DC97?content-id=amzn1.sym.a0eb3d83-f398-4949-8e03-e0971d2f858b&pd_rd_i=B0F5Q2DC97&th=1&linkCode=sl2&tag=noya0b-20&linkId=9b7ce3083932389919a01590176301c2&language=en_US"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0B8PDHRWY",
-            "slug": "kodak-pixpro-wide-angle-digital-camera-only-99xx-on-amazon-r",
-            "title": "Kodak PIXPRO Wide Angle Digital Camera Only $99.xx on Amazon (Reg. $130)!",
-            "price": "$99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/818GKPv0fvL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/KODAK-Friendly-FZ45-BK-Digital-Optical/dp/B0B8PDHRWY?th=1&linkCode=sl2&tag=noya0b-20&linkId=3840d242543c293bb1c7afdaa0ce9115&language=en_US"
-          },
-          {
-            "asin": "B0GJZYRDHX",
-            "slug": "vibebox-baby-girl-dresses-12-18-months-ruffle-sleeveless-but",
-            "title": "\udecd️Vibebox Baby Girl Dresses 12-18 Months Ruffle Sleeveless Button Clothes 1 Year Old Birthday Gifts Toddler Girls Yellow",
-            "price": "$8.54",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wOBnJ6MaL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GJZYRDHX/ref=cm_sw_r_as_gl_api_gl_i_dl_ZX54AV2Q7EW041C95DC3?linkCode=ml1&tag=noya0b-20&linkId=97a65ba6143d70460a57678f22442005"
-          },
-          {
-            "asin": "B0FGXKMXFL",
-            "slug": "bupird-duvet-cover-set-king-floral-luxury-soft-brushed-micro",
-            "title": "\udecd️BUPIRD Duvet Cover Set King Floral Luxury Soft Brushed Microfiber Crinkle Gauze Fabric 3 Pieces Bedding Set Flower Pat",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81BVUbY6LJL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FGXKMXFL/ref=cm_sw_r_as_gl_api_gl_i_dl_KPJ90WVX699VZTK87HB1?linkCode=ml1&tag=noya0b-20&linkId=b3ecfc19c8929a1b4d4adc2108ca9eda"
-          },
-          {
-            "asin": "B0GRH2T8XX",
-            "slug": "permanent-pool-lighting-system-148ft-32-led-rgbic-pool-light",
-            "title": "Permanent Pool Lighting System, 148FT 32 LED RGB+IC Pool Lights, 24V Low Voltage, IP68 Waterproof, App & Remote Control,",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81x6sfIwprL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GRH2T8XX?lv=shuf&rsd=DS8sG%2F1TzELuuXEZOg4CMm4oLgHsN0JIhCr05Ue4gw78ySpsz3Yi2a6SC%2B4eCmCxWWVOdszDx7Xz0qRiqILtC1UwDnWQfUcUW7DBkAcNk31c%2Bws&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHqlo%2FRvu9eXo6sOXC4Vw%2FiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUnvq6FkmI7%2BXPQtSAgEQgDsbmcbdnQ7Z%2F9V5hJMww582ko6Xkr13A7j7MV3krHqgQk2VpEqsTykW35vWbiLQVNiCzjc81j9SiITJsA&social_share=cm_sw_r_mwn_dp_2H4FVGN9PS406S420Y1W&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e261744799893d0f78f2700130b407c3&language=en_US"
-          },
-          {
-            "asin": "B0GRH2T8XX",
-            "slug": "permanent-pool-lighting-system-148ft-32-led-rgbic-pool-light",
-            "title": "Permanent Pool Lighting System, 148FT 32 LED RGB+IC Pool Lights, 24V Low Voltage, IP68 Waterproof, App & Remote Control,",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81x6sfIwprL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GRH2T8XX?lv=shuf&rsd=DS8sG%2F1TzELuuXEZOg4CMm4oLgHsN0JIhCr05Ue4gw78ySpsz3Yi2a6SC%2B4eCmCxWWVOdszDx7Xz0qRiqILtC1UwDnWQfUcUW7DBkAcNk31c%2Bws&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHqlo%2FRvu9eXo6sOXC4Vw%2FiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUnvq6FkmI7%2BXPQtSAgEQgDsbmcbdnQ7Z%2F9V5hJMww582ko6Xkr13A7j7MV3krHqgQk2VpEqsTykW35vWbiLQVNiCzjc81j9SiITJsA&social_share=cm_sw_r_mwn_dp_2H4FVGN9PS406S420Y1W&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e261744799893d0f78f2700130b407c3&language=en_US"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B0D7LB2X2H",
-            "slug": "slimfast-high-protein-smoothie-mix-plus-fruit-powder-high-pr",
-            "title": "SlimFast High Protein Smoothie Mix Plus Fruit Powder, High Protein Meal Replacement Powder, Fiber, Vitamin C, 21 Serving",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71vFA7ZzSVL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/SlimFast-Smoothie-Replacement-Strawberry-Packaging/dp/B0D7LB2X2H?content-id=amzn1.sym.a0eb3d83-f398-4949-8e03-e0971d2f858b&pd_rd_i=B0D7LB2X2H&th=1&linkCode=sl2&tag=noya0b-20&linkId=11e47c46cd630ee7e9cb4096b9c5f342&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07GBV8KCB",
+          "slug": "costway-evaporative-cooler-and-heater-5-in-1-portable-air-co",
+          "title": "COSTWAY Evaporative Cooler and Heater, 5-in-1 Portable Air Cooler with Remote Control, 8-Hour Timer, 2 Ice Boxes, Quiet",
+          "price": "$85.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/61XfqhiA-RL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07GBV8KCB?tag=noya0b-20"
+        },
+        {
+          "asin": "B09PFQJB5H",
+          "slug": "ygyqz-desk-shelf-organizer-for-top-of-desk-detachable-2-tier",
+          "title": "YGYQZ Desk Shelf Organizer for Top of Desk, Detachable 2 Tier Desktop Bookshelf, Wooden Desk Shelves Storage Rack, Small",
+          "price": "$24.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71jAWeX1yUL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09PFQJB5H?tag=noya0b-20"
+        },
+        {
+          "asin": "B09NRZDWJ3",
+          "slug": "wet-ones-for-pets-antibacterial-dog-wipes-multi-purpose-groo",
+          "title": "Wet Ones for Pets Antibacterial Dog Wipes, Multi-Purpose Grooming Wipes with Aloe Vera for Paws, Face & Body, Easy Clean",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81BImo2oUFL.jpg",
+          "url": "https://www.amazon.com/dp/B09NRZDWJ3?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cc7b65ba1e5ae533d24160983be64f83&language=en_US"
+        },
         {
           "asin": "B0F2JP7DBL",
           "slug": "adidas-unisex-adult-wc26-club-home-german-football-federatio",
@@ -211,45 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81BVUbY6LJL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FGXKMXFL/ref=cm_sw_r_as_gl_api_gl_i_dl_KPJ90WVX699VZTK87HB1?linkCode=ml1&tag=noya0b-20&linkId=b3ecfc19c8929a1b4d4adc2108ca9eda"
-        },
-        {
-          "asin": "B0D7LB2X2H",
-          "slug": "slimfast-high-protein-smoothie-mix-plus-fruit-powder-high-pr",
-          "title": "SlimFast High Protein Smoothie Mix Plus Fruit Powder, High Protein Meal Replacement Powder, Fiber, Vitamin C, 21 Serving",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71vFA7ZzSVL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/SlimFast-Smoothie-Replacement-Strawberry-Packaging/dp/B0D7LB2X2H?content-id=amzn1.sym.a0eb3d83-f398-4949-8e03-e0971d2f858b&pd_rd_i=B0D7LB2X2H&th=1&linkCode=sl2&tag=noya0b-20&linkId=11e47c46cd630ee7e9cb4096b9c5f342&language=en_US"
-        },
-        {
-          "asin": "B0GRH2T8XX",
-          "slug": "permanent-pool-lighting-system-148ft-32-led-rgbic-pool-light",
-          "title": "Permanent Pool Lighting System, 148FT 32 LED RGB+IC Pool Lights, 24V Low Voltage, IP68 Waterproof, App & Remote Control,",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81x6sfIwprL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GRH2T8XX?lv=shuf&rsd=DS8sG%2F1TzELuuXEZOg4CMm4oLgHsN0JIhCr05Ue4gw78ySpsz3Yi2a6SC%2B4eCmCxWWVOdszDx7Xz0qRiqILtC1UwDnWQfUcUW7DBkAcNk31c%2Bws&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHqlo%2FRvu9eXo6sOXC4Vw%2FiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUnvq6FkmI7%2BXPQtSAgEQgDsbmcbdnQ7Z%2F9V5hJMww582ko6Xkr13A7j7MV3krHqgQk2VpEqsTykW35vWbiLQVNiCzjc81j9SiITJsA&social_share=cm_sw_r_mwn_dp_2H4FVGN9PS406S420Y1W&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e261744799893d0f78f2700130b407c3&language=en_US"
-        },
-        {
-          "asin": "B0GRH2T8XX",
-          "slug": "permanent-pool-lighting-system-148ft-32-led-rgbic-pool-light",
-          "title": "Permanent Pool Lighting System, 148FT 32 LED RGB+IC Pool Lights, 24V Low Voltage, IP68 Waterproof, App & Remote Control,",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81x6sfIwprL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GRH2T8XX?lv=shuf&rsd=DS8sG%2F1TzELuuXEZOg4CMm4oLgHsN0JIhCr05Ue4gw78ySpsz3Yi2a6SC%2B4eCmCxWWVOdszDx7Xz0qRiqILtC1UwDnWQfUcUW7DBkAcNk31c%2Bws&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQHqlo%2FRvu9eXo6sOXC4Vw%2FiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUnvq6FkmI7%2BXPQtSAgEQgDsbmcbdnQ7Z%2F9V5hJMww582ko6Xkr13A7j7MV3krHqgQk2VpEqsTykW35vWbiLQVNiCzjc81j9SiITJsA&social_share=cm_sw_r_mwn_dp_2H4FVGN9PS406S420Y1W&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e261744799893d0f78f2700130b407c3&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 4, 2026?",
-          "a": "The best deals today include \"\udecd️adidas Unisex-Adult Wc26 Club Home German Football Federat...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
+          "a": "The best deals today include \"COSTWAY Evaporative Cooler and Heater, 5-in-1 Portable Air C...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Appliances and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-04T16:20:01.281Z",
-      "updatedAt": "2026-07-04T16:20:01.281Z"
+      "generatedAt": "2026-07-04T16:30:02.136Z",
+      "updatedAt": "2026-07-04T16:30:02.136Z"
     },
     {
       "date": "2026-07-03",
@@ -7020,5 +7023,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-04T16:20:01.284Z"
+  "generatedAt": "2026-07-04T16:30:02.139Z"
 }
