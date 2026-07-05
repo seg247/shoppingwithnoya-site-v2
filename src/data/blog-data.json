@@ -4,12 +4,15 @@
       "date": "2026-07-05",
       "slug": "2026-07-05",
       "title": "🔥 Best Deals Today — July 5, 2026",
-      "intro": "Today's best online deals for Sunday, July 5, 2026 — 10 hand-picked discounts across Other, Toys & Kids, Beauty and more. The best discount today is 33% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, July 5, 2026 — 10 hand-picked discounts across Fashion, Beauty, Toys & Kids and more. The best discount today is 33% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Toys & Kids",
+        "Fashion",
         "Beauty",
-        "Fashion"
+        "Toys & Kids",
+        "Other",
+        "Grocery & Food",
+        "Pet Supplies",
+        "Tools & Hardware"
       ],
       "byCategory": {
         "Other": [
@@ -23,42 +26,83 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81Xsji1YaXL.jpg",
             "url": "https://www.amazon.com/dp/B07FWBMNJ5?th=1&linkCode=sl2&tag=noya0b-20&linkId=34288921e6f770320bf060d3a6644a56&language=en_US"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0DHKMB3Z3",
-            "slug": "donrao-led-modern-bathroom-light-fixtures-3-light-24-inch-ma",
-            "title": "Donrao LED Modern Bathroom Light Fixtures, 3-Light 24-Inch Matte Black Vanity Lights for Bathroom Lighting Fixtures Over",
-            "price": "$49.99",
+            "asin": "B08D3XPCZR",
+            "slug": "ember-temperature-control-smart-mug-2-14-oz-app-controlled-h",
+            "title": "Ember Temperature Control Smart Mug 2, 14 Oz, App-Controlled Heated Coffee Mug with 80 Min Battery Life and Improved Des",
+            "price": "$119.96",
+            "discount": 20,
+            "rating": "WARM",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/31NOhzRXMjL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B08D3XPCZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e9c8c75afa83bb82794f2276e1cf868&language=en_US"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B010IU5B78",
+            "slug": "good-n-fun-kabobs-long-lasting-dog-treat-with-real-proteins",
+            "title": "Good 'n' Fun Kabobs Long-Lasting Dog Treat, With Real Proteins, Beef Hide and Premium Chicken, Supports Dental Health, M",
+            "price": "$10.48",
+            "discount": 19,
+            "rating": "GOOD",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/41KI3UAysWL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B010IU5B78?th=1&linkCode=sl2&tag=noya0b-20&linkId=3d86e8ab6dfd85cd3aed4865c02786c5&language=en_US"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0GL94ZZZV",
+            "slug": "bosch-gxl18v-241b22-18v-2-tool-combo-kit-includes-12-in-hamm",
+            "title": "BOSCH GXL18V-241B22 18V 2-Tool Combo Kit - Includes 1/2 In. Hammer Drill/Driver, 2-in-1 Impact Driver/Wrench, (2) 2 Ah B",
+            "price": "$249.00",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/410Zo8X1UFL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DHKMB3Z3?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fa5290bd73deaf8828c114c422c66d15&language=en_US"
-          },
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/41eMm2YE6hL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GL94ZZZV?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6c0f34f486518e62544edc30ac076976&language=en_US"
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0BJTYX7N7",
-            "slug": "watris-veiyi-clipper-guard-holder-clipper-comb-holder-case-p",
-            "title": "Watris Veiyi Clipper Guard Holder, Clipper Comb Holder Case, Professional Barber Guards for Universal Hair Clippers",
-            "price": "$7.99",
+            "asin": "B0FF9Q4CNX",
+            "slug": "kkxiu-straw-crossbody-bags-for-womentop-handle-beach-bag-clu",
+            "title": "KKXIU Straw Crossbody Bags for Women,Top Handle Beach Bag & Clutch Raffia Summer Vacation Purse Shoulder Handbags with A",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41jwmM-T7LL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BJTYX7N7?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52006ccb0f13b5ff9f533ca97f10d8db&language=en_US"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/419ZZpVaGqL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FF9Q4CNX/ref=cm_sw_r_as_gl_api_gl_i_dl_S6FW81SJ11MQSAAWTNBM?linkCode=ml1&tag=noya0b-20&linkId=0a758894f1a5d28038276502452c3ed2"
           },
           {
-            "asin": "B08M3STRVM",
-            "slug": "katbite-200pcs-12x16-in-unbleached-parchment-paper-for-bakin",
-            "title": "Katbite 200Pcs 12x16 In Unbleached Parchment Paper for Baking, Precut Parchment Paper Sheets, Heavy Duty Flat Baking Pap",
-            "price": "$18.99",
+            "asin": "B01N1ROCE7",
+            "slug": "pink-miracle-shoe-cleaner-kit-with-bottle-and-brush-for-fabr",
+            "title": "Pink Miracle Shoe Cleaner Kit with Bottle and Brush For Fabric Cleaner For Leather, Whites, Suede and Nubuck Sneakers (4",
+            "price": "$17.97",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41YKgWCxlcL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B08M3STRVM?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7645e629ab26320da875c19785b4f6d6&language=en_US"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/41Jq7blakJL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B01N1ROCE7?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ee99a55af798912873ec1a27c333a294&language=en_US"
           }
         ],
         "Beauty": [
+          {
+            "asin": "B0061ZQ890",
+            "slug": "kiehls-crme-de-corps-body-lotion-moisturizer-with-shea-butte",
+            "title": "Kiehl's Crème De Corps Body Lotion, Moisturizer With Shea Butter and Cocoa Butter, Daily Moisturizing Cream For All Skin",
+            "price": "$60.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/31X30ScTP3L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0061ZQ890?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d70fc2ddf0039268772d8986a87cd91b&language=en_US"
+          },
           {
             "asin": "B0BVN357LD",
             "slug": "laura-geller-new-york-baked-double-take-powder-foundation-lo",
@@ -69,17 +113,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/41zxR0f4zYL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0BVN357LD?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1f31801948d9360651c8a57eb78a9c7e&language=en_US"
-          },
-          {
-            "asin": "B0040ZONB8",
-            "slug": "gojo-cherry-gel-pumice-hand-cleaner-cherry-fragrance-10-fl-o",
-            "title": "GOJO Cherry Gel Pumice Hand Cleaner, Cherry Fragrance, 10 fl oz Flip-Cap Squeeze Bottle (Pack of 8) - 2354-08",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51uTK+gwFML._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0040ZONB8/ref=cm_sw_r_as_gl_api_gl_i_SCH7RFKAAXVABH8V9RYW?linkCode=ml1&tag=noya0b-20&linkId=a712ce13df71af1a4c50e62e9d3a222c"
           }
         ],
         "Toys & Kids": [
@@ -104,30 +137,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/41Qa7f1+p0L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FNNGSBLY/ref=cm_sw_r_as_gl_api_gl_i_PWK924P1AYF4KVRD2NQP?linkCode=ml1&tag=noya0b-20&linkId=6074227a711498726fad8fc254a5e9fe"
-          },
-          {
-            "asin": "B0D7PXZ9YR",
-            "slug": "barbie-party-unboxed-doll-accessories-pet-birthday-series-sh",
-            "title": "Barbie Party Unboxed Doll & Accessories, Pet Birthday Series Shimmerin’ Hearts Set with 10 Surprises Including Color Cha",
-            "price": "$20.60",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/51vKExOkoTL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D7PXZ9YR?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6414a4b76cbbde18e6f0656ccaf1bc7f&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B01N1ROCE7",
-            "slug": "pink-miracle-shoe-cleaner-kit-with-bottle-and-brush-for-fabr",
-            "title": "Pink Miracle Shoe Cleaner Kit with Bottle and Brush For Fabric Cleaner For Leather, Whites, Suede and Nubuck Sneakers (4",
-            "price": "$17.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/41Jq7blakJL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B01N1ROCE7?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ee99a55af798912873ec1a27c333a294&language=en_US"
           }
         ]
       },
@@ -142,6 +151,61 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81Xsji1YaXL.jpg",
           "url": "https://www.amazon.com/dp/B07FWBMNJ5?th=1&linkCode=sl2&tag=noya0b-20&linkId=34288921e6f770320bf060d3a6644a56&language=en_US"
+        },
+        {
+          "asin": "B08D3XPCZR",
+          "slug": "ember-temperature-control-smart-mug-2-14-oz-app-controlled-h",
+          "title": "Ember Temperature Control Smart Mug 2, 14 Oz, App-Controlled Heated Coffee Mug with 80 Min Battery Life and Improved Des",
+          "price": "$119.96",
+          "discount": 20,
+          "rating": "WARM",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/31NOhzRXMjL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B08D3XPCZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e9c8c75afa83bb82794f2276e1cf868&language=en_US"
+        },
+        {
+          "asin": "B010IU5B78",
+          "slug": "good-n-fun-kabobs-long-lasting-dog-treat-with-real-proteins",
+          "title": "Good 'n' Fun Kabobs Long-Lasting Dog Treat, With Real Proteins, Beef Hide and Premium Chicken, Supports Dental Health, M",
+          "price": "$10.48",
+          "discount": 19,
+          "rating": "GOOD",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/41KI3UAysWL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B010IU5B78?th=1&linkCode=sl2&tag=noya0b-20&linkId=3d86e8ab6dfd85cd3aed4865c02786c5&language=en_US"
+        },
+        {
+          "asin": "B0GL94ZZZV",
+          "slug": "bosch-gxl18v-241b22-18v-2-tool-combo-kit-includes-12-in-hamm",
+          "title": "BOSCH GXL18V-241B22 18V 2-Tool Combo Kit - Includes 1/2 In. Hammer Drill/Driver, 2-in-1 Impact Driver/Wrench, (2) 2 Ah B",
+          "price": "$249.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/41eMm2YE6hL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GL94ZZZV?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6c0f34f486518e62544edc30ac076976&language=en_US"
+        },
+        {
+          "asin": "B0FF9Q4CNX",
+          "slug": "kkxiu-straw-crossbody-bags-for-womentop-handle-beach-bag-clu",
+          "title": "KKXIU Straw Crossbody Bags for Women,Top Handle Beach Bag & Clutch Raffia Summer Vacation Purse Shoulder Handbags with A",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/419ZZpVaGqL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FF9Q4CNX/ref=cm_sw_r_as_gl_api_gl_i_dl_S6FW81SJ11MQSAAWTNBM?linkCode=ml1&tag=noya0b-20&linkId=0a758894f1a5d28038276502452c3ed2"
+        },
+        {
+          "asin": "B0061ZQ890",
+          "slug": "kiehls-crme-de-corps-body-lotion-moisturizer-with-shea-butte",
+          "title": "Kiehl's Crème De Corps Body Lotion, Moisturizer With Shea Butter and Cocoa Butter, Daily Moisturizing Cream For All Skin",
+          "price": "$60.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/31X30ScTP3L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0061ZQ890?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d70fc2ddf0039268772d8986a87cd91b&language=en_US"
         },
         {
           "asin": "B0BVN357LD",
@@ -186,71 +250,16 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/41Qa7f1+p0L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0FNNGSBLY/ref=cm_sw_r_as_gl_api_gl_i_PWK924P1AYF4KVRD2NQP?linkCode=ml1&tag=noya0b-20&linkId=6074227a711498726fad8fc254a5e9fe"
-        },
-        {
-          "asin": "B0DHKMB3Z3",
-          "slug": "donrao-led-modern-bathroom-light-fixtures-3-light-24-inch-ma",
-          "title": "Donrao LED Modern Bathroom Light Fixtures, 3-Light 24-Inch Matte Black Vanity Lights for Bathroom Lighting Fixtures Over",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/410Zo8X1UFL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DHKMB3Z3?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fa5290bd73deaf8828c114c422c66d15&language=en_US"
-        },
-        {
-          "asin": "B0040ZONB8",
-          "slug": "gojo-cherry-gel-pumice-hand-cleaner-cherry-fragrance-10-fl-o",
-          "title": "GOJO Cherry Gel Pumice Hand Cleaner, Cherry Fragrance, 10 fl oz Flip-Cap Squeeze Bottle (Pack of 8) - 2354-08",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51uTK+gwFML._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0040ZONB8/ref=cm_sw_r_as_gl_api_gl_i_SCH7RFKAAXVABH8V9RYW?linkCode=ml1&tag=noya0b-20&linkId=a712ce13df71af1a4c50e62e9d3a222c"
-        },
-        {
-          "asin": "B0BJTYX7N7",
-          "slug": "watris-veiyi-clipper-guard-holder-clipper-comb-holder-case-p",
-          "title": "Watris Veiyi Clipper Guard Holder, Clipper Comb Holder Case, Professional Barber Guards for Universal Hair Clippers",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41jwmM-T7LL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BJTYX7N7?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52006ccb0f13b5ff9f533ca97f10d8db&language=en_US"
-        },
-        {
-          "asin": "B0D7PXZ9YR",
-          "slug": "barbie-party-unboxed-doll-accessories-pet-birthday-series-sh",
-          "title": "Barbie Party Unboxed Doll & Accessories, Pet Birthday Series Shimmerin’ Hearts Set with 10 Surprises Including Color Cha",
-          "price": "$20.60",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/51vKExOkoTL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D7PXZ9YR?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6414a4b76cbbde18e6f0656ccaf1bc7f&language=en_US"
-        },
-        {
-          "asin": "B08M3STRVM",
-          "slug": "katbite-200pcs-12x16-in-unbleached-parchment-paper-for-bakin",
-          "title": "Katbite 200Pcs 12x16 In Unbleached Parchment Paper for Baking, Precut Parchment Paper Sheets, Heavy Duty Flat Baking Pap",
-          "price": "$18.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41YKgWCxlcL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B08M3STRVM?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7645e629ab26320da875c19785b4f6d6&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 5, 2026?",
-          "a": "The best deals today include \"\udecd️ Reclining Stadium Seat – Wide Bleacher Chair with Back Su...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Beauty and are updated daily."
+          "a": "The best deals today include \"\udecd️ Reclining Stadium Seat – Wide Bleacher Chair with Back Su...\" and 9 other hand-picked discounts. Deals span Fashion, Beauty, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 33% off on \"\udecd️ Reclining Stadium Seat – Wide Bleacher Chair with Back Su...\". There are 1 deals with verified discounts today."
+          "a": "The biggest discount today is 33% off on \"\udecd️ Reclining Stadium Seat – Wide Bleacher Chair with Back Su...\". There are 3 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -265,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-05T11:40:01.435Z",
-      "updatedAt": "2026-07-05T11:40:01.435Z"
+      "generatedAt": "2026-07-05T11:50:01.383Z",
+      "updatedAt": "2026-07-05T11:50:01.383Z"
     },
     {
       "date": "2026-07-04",
@@ -7297,5 +7306,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-05T11:40:01.437Z"
+  "generatedAt": "2026-07-05T11:50:01.385Z"
 }
