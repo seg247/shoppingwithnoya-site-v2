@@ -9,11 +9,10 @@
         "Other",
         "Grocery & Food",
         "Pet Supplies",
-        "Toys & Kids",
         "Electronics",
+        "Beauty",
         "Home & Kitchen",
-        "Tools & Hardware",
-        "Fashion"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -27,6 +26,28 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81Xsji1YaXL.jpg",
             "url": "https://www.amazon.com/dp/B07FWBMNJ5?th=1&linkCode=sl2&tag=noya0b-20&linkId=34288921e6f770320bf060d3a6644a56&language=en_US"
+          },
+          {
+            "asin": "B0D81181DR",
+            "slug": "tymo-20-thermal-brush-curling-brush-stylux-17-blowout-volumi",
+            "title": "TYMO 2.0 Thermal Brush Curling Brush - STYLUX 1.7\" Blowout Volumizer with Flexi-Fit for Hair Straightening, Heated Round",
+            "price": "$47.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/31Gx5GYRtQL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D81181DR?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9f085f6db374761fdb5f356edf21fe7d&language=en_US"
+          },
+          {
+            "asin": "B06XCFWXF5",
+            "slug": "hanes-mens-ecosmart-open-leg-pant-with-pockets-navy-m",
+            "title": "Hanes Men's EcoSmart Open Leg Pant with Pockets, Navy, M",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/311BWaVF33L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B06XCFWXF5?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=880edb17fc3a695291a470e0e5fa2b0c&language=en_US"
           },
           {
             "asin": "B01JRNIWJG",
@@ -51,17 +72,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/31NOhzRXMjL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B08D3XPCZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e9c8c75afa83bb82794f2276e1cf868&language=en_US"
-          },
-          {
-            "asin": "B07XHRSRZ2",
-            "slug": "blue-diamond-almonds-honey-roasted-snack-almonds-party-salty",
-            "title": "Blue Diamond Almonds Honey Roasted Snack Almonds, Party Salty Snack, Plant-Based Protein and Fiber, After School Snacks,",
-            "price": "$7.93",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41EUxQNTkCL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B07XHRSRZ2?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=12e9370c4dc0ac7ac3d9565a3e71e0cd&language=en_US"
           }
         ],
         "Pet Supplies": [
@@ -77,6 +87,45 @@
             "url": "https://www.amazon.com/dp/B010IU5B78?th=1&linkCode=sl2&tag=noya0b-20&linkId=3d86e8ab6dfd85cd3aed4865c02786c5&language=en_US"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0DMZYNYXR",
+            "slug": "shokz-openfit-2-open-ear-headphonestrue-wireless-bluetooth-e",
+            "title": "SHOKZ OpenFit 2 Open-Ear Headphones,True Wireless Bluetooth Earphones with Microphone,Earhook Earbuds with 48 Hours of P",
+            "price": "$139.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/21ilSaJOYnL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DMZYNYXR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9f4b9edc026963d2184d4962e567e833&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B071HR14SJ",
+            "slug": "meguiars-gold-class-car-wash-ultra-rich-foam-car-wash-soap-a",
+            "title": "Meguiar's Gold Class Car Wash, Ultra-Rich Foam Car Wash Soap and Conditioner for Vehicle Cleaning, Paint Cleaner to Clea",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41-kLe+zxsL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B071HR14SJ/ref=cm_sw_r_as_gl_api_gl_i_A213YBFZQD5A31NEWYBV?linkCode=ml1&tag=noya0b-20&linkId=671b01ab77961f42fe5654cc35b079ea"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0C415KNH8",
+            "slug": "irobot-roomba-combo-i5-robot-vacuum-mop-clean-by-room-with-s",
+            "title": "iRobot Roomba Combo i5 Robot Vacuum & Mop - Clean by Room with Smart Mapping, Works with Alexa, Personalized Cleaning Po",
+            "price": "$309.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41Q2OiGD67L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C415KNH8?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7746671cc34aca2e5db4f581dd266587&language=en_US"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0BKSR1CP2",
@@ -88,58 +137,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/516D+I8qFFL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0BKSR1CP2?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2f2f69a306319207198eacf5b7255b14&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0CHWBW94G",
-            "slug": "iphone-17-16-15-charger-fast-charging-10-ft-long-usb-c-charg",
-            "title": "iPhone 17 16 15 Charger Fast Charging, 10 FT Long USB C Charger Cord with 20W Type C Fast Phone Charging Block for iPhon",
-            "price": "$21.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/41k-zzoVX-L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CHWBW94G?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=59d17dae3bc4823c897116aa8b9e2665&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0C661GY47",
-            "slug": "drkio-20-pack-glass-baby-food-storage-containers-4-oz-baby-f",
-            "title": "DRKIO 20 Pack Glass Baby Food Storage Containers 4 Oz Baby Food Jars with Lids Baby Food Maker Microwave Dishwasher Free",
-            "price": "$23.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51LCWrVDlbL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C661GY47?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bc8094f07893e3713b4574b682d83229&language=en_US"
-          }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B0GL94ZZZV",
-            "slug": "bosch-gxl18v-241b22-18v-2-tool-combo-kit-includes-12-in-hamm",
-            "title": "BOSCH GXL18V-241B22 18V 2-Tool Combo Kit - Includes 1/2 In. Hammer Drill/Driver, 2-in-1 Impact Driver/Wrench, (2) 2 Ah B",
-            "price": "$249.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/41eMm2YE6hL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GL94ZZZV?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6c0f34f486518e62544edc30ac076976&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0FF9Q4CNX",
-            "slug": "kkxiu-straw-crossbody-bags-for-womentop-handle-beach-bag-clu",
-            "title": "KKXIU Straw Crossbody Bags for Women,Top Handle Beach Bag & Clutch Raffia Summer Vacation Purse Shoulder Handbags with A",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/419ZZpVaGqL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FF9Q4CNX/ref=cm_sw_r_as_gl_api_gl_i_dl_S6FW81SJ11MQSAAWTNBM?linkCode=ml1&tag=noya0b-20&linkId=0a758894f1a5d28038276502452c3ed2"
           }
         ]
       },
@@ -178,6 +175,61 @@
           "url": "https://www.amazon.com/dp/B010IU5B78?th=1&linkCode=sl2&tag=noya0b-20&linkId=3d86e8ab6dfd85cd3aed4865c02786c5&language=en_US"
         },
         {
+          "asin": "B0D81181DR",
+          "slug": "tymo-20-thermal-brush-curling-brush-stylux-17-blowout-volumi",
+          "title": "TYMO 2.0 Thermal Brush Curling Brush - STYLUX 1.7\" Blowout Volumizer with Flexi-Fit for Hair Straightening, Heated Round",
+          "price": "$47.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/31Gx5GYRtQL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0D81181DR?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9f085f6db374761fdb5f356edf21fe7d&language=en_US"
+        },
+        {
+          "asin": "B0DMZYNYXR",
+          "slug": "shokz-openfit-2-open-ear-headphonestrue-wireless-bluetooth-e",
+          "title": "SHOKZ OpenFit 2 Open-Ear Headphones,True Wireless Bluetooth Earphones with Microphone,Earhook Earbuds with 48 Hours of P",
+          "price": "$139.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/21ilSaJOYnL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DMZYNYXR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9f4b9edc026963d2184d4962e567e833&language=en_US"
+        },
+        {
+          "asin": "B06XCFWXF5",
+          "slug": "hanes-mens-ecosmart-open-leg-pant-with-pockets-navy-m",
+          "title": "Hanes Men's EcoSmart Open Leg Pant with Pockets, Navy, M",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/311BWaVF33L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B06XCFWXF5?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=880edb17fc3a695291a470e0e5fa2b0c&language=en_US"
+        },
+        {
+          "asin": "B071HR14SJ",
+          "slug": "meguiars-gold-class-car-wash-ultra-rich-foam-car-wash-soap-a",
+          "title": "Meguiar's Gold Class Car Wash, Ultra-Rich Foam Car Wash Soap and Conditioner for Vehicle Cleaning, Paint Cleaner to Clea",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/41-kLe+zxsL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B071HR14SJ/ref=cm_sw_r_as_gl_api_gl_i_A213YBFZQD5A31NEWYBV?linkCode=ml1&tag=noya0b-20&linkId=671b01ab77961f42fe5654cc35b079ea"
+        },
+        {
+          "asin": "B0C415KNH8",
+          "slug": "irobot-roomba-combo-i5-robot-vacuum-mop-clean-by-room-with-s",
+          "title": "iRobot Roomba Combo i5 Robot Vacuum & Mop - Clean by Room with Smart Mapping, Works with Alexa, Personalized Cleaning Po",
+          "price": "$309.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Q2OiGD67L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C415KNH8?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7746671cc34aca2e5db4f581dd266587&language=en_US"
+        },
+        {
           "asin": "B0BKSR1CP2",
           "slug": "ltkougfam-round-abc-space-kids-rugs4-ft-non-slip-solar-syste",
           "title": "LTKOUGFAM Round ABC Space Kids Rugs,4 ft Non-Slip Solar System Alphabet Rugs, Washable Rug, Soft Plush Educational Circl",
@@ -198,61 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41qiDroFQdL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B01JRNIWJG?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1d71632d67fb1f635b49811e27c83d57&language=en_US"
-        },
-        {
-          "asin": "B07XHRSRZ2",
-          "slug": "blue-diamond-almonds-honey-roasted-snack-almonds-party-salty",
-          "title": "Blue Diamond Almonds Honey Roasted Snack Almonds, Party Salty Snack, Plant-Based Protein and Fiber, After School Snacks,",
-          "price": "$7.93",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/41EUxQNTkCL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B07XHRSRZ2?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=12e9370c4dc0ac7ac3d9565a3e71e0cd&language=en_US"
-        },
-        {
-          "asin": "B0CHWBW94G",
-          "slug": "iphone-17-16-15-charger-fast-charging-10-ft-long-usb-c-charg",
-          "title": "iPhone 17 16 15 Charger Fast Charging, 10 FT Long USB C Charger Cord with 20W Type C Fast Phone Charging Block for iPhon",
-          "price": "$21.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/41k-zzoVX-L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CHWBW94G?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=59d17dae3bc4823c897116aa8b9e2665&language=en_US"
-        },
-        {
-          "asin": "B0C661GY47",
-          "slug": "drkio-20-pack-glass-baby-food-storage-containers-4-oz-baby-f",
-          "title": "DRKIO 20 Pack Glass Baby Food Storage Containers 4 Oz Baby Food Jars with Lids Baby Food Maker Microwave Dishwasher Free",
-          "price": "$23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51LCWrVDlbL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C661GY47?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bc8094f07893e3713b4574b682d83229&language=en_US"
-        },
-        {
-          "asin": "B0GL94ZZZV",
-          "slug": "bosch-gxl18v-241b22-18v-2-tool-combo-kit-includes-12-in-hamm",
-          "title": "BOSCH GXL18V-241B22 18V 2-Tool Combo Kit - Includes 1/2 In. Hammer Drill/Driver, 2-in-1 Impact Driver/Wrench, (2) 2 Ah B",
-          "price": "$249.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/41eMm2YE6hL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GL94ZZZV?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6c0f34f486518e62544edc30ac076976&language=en_US"
-        },
-        {
-          "asin": "B0FF9Q4CNX",
-          "slug": "kkxiu-straw-crossbody-bags-for-womentop-handle-beach-bag-clu",
-          "title": "KKXIU Straw Crossbody Bags for Women,Top Handle Beach Bag & Clutch Raffia Summer Vacation Purse Shoulder Handbags with A",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/419ZZpVaGqL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FF9Q4CNX/ref=cm_sw_r_as_gl_api_gl_i_dl_S6FW81SJ11MQSAAWTNBM?linkCode=ml1&tag=noya0b-20&linkId=0a758894f1a5d28038276502452c3ed2"
         }
       ],
       "faq": [
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-05T12:00:02.099Z",
-      "updatedAt": "2026-07-05T12:00:02.100Z"
+      "generatedAt": "2026-07-05T12:10:02.010Z",
+      "updatedAt": "2026-07-05T12:10:02.010Z"
     },
     {
       "date": "2026-07-04",
@@ -7309,5 +7306,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-05T12:00:02.102Z"
+  "generatedAt": "2026-07-05T12:10:02.013Z"
 }
