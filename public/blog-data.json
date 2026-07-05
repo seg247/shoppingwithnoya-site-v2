@@ -9,8 +9,7 @@
         "Other",
         "Beauty",
         "Grocery & Food",
-        "Electronics",
-        "Pet Supplies"
+        "Electronics"
       ],
       "byCategory": {
         "Beauty": [
@@ -48,6 +47,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81Xsji1YaXL.jpg",
             "url": "https://www.amazon.com/dp/B07FWBMNJ5?th=1&linkCode=sl2&tag=noya0b-20&linkId=34288921e6f770320bf060d3a6644a56&language=en_US"
+          },
+          {
+            "asin": "B00J2APAGS",
+            "slug": "covergirl-outlast-lipcolor-mauve-muse-585-006-fl-oz",
+            "title": "COVERGIRL Outlast Lipcolor Mauve Muse 585 0.06 Fl Oz",
+            "price": "$8.62",
+            "discount": 28,
+            "rating": "WARM",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/31yH4uBMr5L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B00J2APAGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=c691c8d64d12ff9060f148723f71b844&language=en_US"
           },
           {
             "asin": "B07HNLBZ4Y",
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31NOhzRXMjL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B08D3XPCZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6e9c8c75afa83bb82794f2276e1cf868&language=en_US"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B010IU5B78",
-            "slug": "good-n-fun-kabobs-long-lasting-dog-treat-with-real-proteins",
-            "title": "Good 'n' Fun Kabobs Long-Lasting Dog Treat, With Real Proteins, Beef Hide and Premium Chicken, Supports Dental Health, M",
-            "price": "$10.48",
-            "discount": 19,
-            "rating": "GOOD",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/41KI3UAysWL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B010IU5B78?th=1&linkCode=sl2&tag=noya0b-20&linkId=3d86e8ab6dfd85cd3aed4865c02786c5&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -167,6 +164,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51AlMW6MJdL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0C6YBHKJ5?linkCode=sl2&tag=noya0b-20&linkId=a86d8219a780cdcdd8000a12d6e4fb78&language=en_US"
+        },
+        {
+          "asin": "B00J2APAGS",
+          "slug": "covergirl-outlast-lipcolor-mauve-muse-585-006-fl-oz",
+          "title": "COVERGIRL Outlast Lipcolor Mauve Muse 585 0.06 Fl Oz",
+          "price": "$8.62",
+          "discount": 28,
+          "rating": "WARM",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/31yH4uBMr5L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B00J2APAGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=c691c8d64d12ff9060f148723f71b844&language=en_US"
         },
         {
           "asin": "B010FOFSH0",
@@ -233,17 +241,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/21Mnee0ZucL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B07KX8YVQD?th=1&linkCode=sl2&tag=noya0b-20&linkId=980ddbe5faa0f2a369244c6512339c60&language=en_US"
-        },
-        {
-          "asin": "B010IU5B78",
-          "slug": "good-n-fun-kabobs-long-lasting-dog-treat-with-real-proteins",
-          "title": "Good 'n' Fun Kabobs Long-Lasting Dog Treat, With Real Proteins, Beef Hide and Premium Chicken, Supports Dental Health, M",
-          "price": "$10.48",
-          "discount": 19,
-          "rating": "GOOD",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/41KI3UAysWL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B010IU5B78?th=1&linkCode=sl2&tag=noya0b-20&linkId=3d86e8ab6dfd85cd3aed4865c02786c5&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-05T18:20:02.095Z",
-      "updatedAt": "2026-07-05T18:20:02.096Z"
+      "generatedAt": "2026-07-05T18:30:01.945Z",
+      "updatedAt": "2026-07-05T18:30:01.945Z"
     },
     {
       "date": "2026-07-04",
@@ -7300,5 +7297,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-05T18:20:02.098Z"
+  "generatedAt": "2026-07-05T18:30:01.947Z"
 }
