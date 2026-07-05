@@ -31,7 +31,7 @@
             "discount": 35,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61drEghJ5aL._SL1000_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
           },
           {
@@ -237,16 +237,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/21mwZHY5F8L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B00NR1YIKM?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=77cacc9b22fdb9f6b8f142789cba9a51&language=en_US"
-          },
-          {
-            "asin": "B0C45CK57M",
-            "slug": "abib-airy-sunstick-protection-bar-spf50-broad-spectrum-semi",
-            "title": "Abib Airy Sunstick Protection Bar SPF50+ Broad Spectrum, Semi-Matte Sunscreen Stick for Oily & Combination Skin, No Whit",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/318wsIF8QlL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C45CK57M?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9b268595674a8c02db65a02aef8ef31a&language=en_US"
           }
         ],
         "Hair Care": [
@@ -281,6 +271,16 @@
             "url": "https://www.amazon.com/dp/B0B439SDBN?th=1&linkCode=sl2&tag=noya0b-20&linkId=6ac5f0e6f29d8264178b53f32185946f&language=en_US"
           },
           {
+            "asin": "B005CUTW8O",
+            "slug": "wahl-usa-4-in-1-calming-dog-shampoo-with-lavender-chamomile",
+            "title": "Wahl USA 4-in-1 Calming Dog Shampoo with Lavender Chamomile Scent – Cleans, Conditions, Detangles, & Moisturizes - Pet F",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/415nQL+xAbL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B005CUTW8O?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=41ecade69933e6d73f39883635311b6a&language=en_US"
+          },
+          {
             "asin": "B0BY9NG61J",
             "slug": "matrix-food-for-soft-shampoo-for-dry-and-brittle-hair-moistu",
             "title": "MATRIX Food For Soft Shampoo For Dry and Brittle Hair - Moisturizes and Hydrates, Softens and Smooths, With Avocado Oil ",
@@ -289,16 +289,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/31g+uIcp84L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0BY9NG61J?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9abf3d2f178c4e4d25178c95616658ec&language=en_US"
-          },
-          {
-            "asin": "B0DSPD2838",
-            "slug": "mescomb-dual-voltage-hot-air-styler-wrap-5-in-1-hair-dryer-b",
-            "title": "MESCOMB Dual Voltage Hot Air Styler Wrap - 5 in 1 Hair Dryer Brush with Fast Drying Blow Dryer, Styling, Straightening &",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/41+c1D3O3QL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DSPD2838?th=1&linkCode=sl2&tag=noya0b-20&linkId=5ef7c0b38de630640e8db633febba2e4&language=en_US"
           }
         ],
         "Body Care": [
@@ -311,6 +301,16 @@
             "subcat": "Body Care",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F997QX28?tag=noya0b-20"
+          },
+          {
+            "asin": "B01HTJTPZA",
+            "slug": "dove-advanced-care-antiperspirant-deodorant-stick-cool-essen",
+            "title": "Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials 4 ct for helping your skin barrier repair after shavin",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/618IrjjMkUL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B01HTJTPZA?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0347c656d8164859f84ab50e69644042&language=en_US"
           },
           {
             "asin": "B09XBXDBTB",
@@ -372,7 +372,7 @@
           "discount": 35,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61drEghJ5aL._SL1000_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FGCB4WYV?tag=noya0b-20"
         },
         {
@@ -506,6 +506,26 @@
           "url": "https://www.amazon.com/dp/B0DL3JFSG8?th=1&linkCode=sl2&tag=noya0b-20&linkId=6f06a1101a5a79ac41c0bdb81bd00733&language=en_US"
         },
         {
+          "asin": "B005CUTW8O",
+          "slug": "wahl-usa-4-in-1-calming-dog-shampoo-with-lavender-chamomile",
+          "title": "Wahl USA 4-in-1 Calming Dog Shampoo with Lavender Chamomile Scent – Cleans, Conditions, Detangles, & Moisturizes - Pet F",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/415nQL+xAbL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B005CUTW8O?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=41ecade69933e6d73f39883635311b6a&language=en_US"
+        },
+        {
+          "asin": "B01HTJTPZA",
+          "slug": "dove-advanced-care-antiperspirant-deodorant-stick-cool-essen",
+          "title": "Dove Advanced Care Antiperspirant Deodorant Stick Cool Essentials 4 ct for helping your skin barrier repair after shavin",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/618IrjjMkUL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B01HTJTPZA?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0347c656d8164859f84ab50e69644042&language=en_US"
+        },
+        {
           "asin": "B08TKNMW1Z",
           "slug": "dove-men-care-body-and-face-wash-hydrating-clean-comfort-men",
           "title": "DOVE MEN + CARE Body and Face Wash Hydrating Clean Comfort Men's Body Wash with 24-Hour Nourishing Micromoisture Technol",
@@ -604,26 +624,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/31g+uIcp84L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0BY9NG61J?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9abf3d2f178c4e4d25178c95616658ec&language=en_US"
-        },
-        {
-          "asin": "B0C45CK57M",
-          "slug": "abib-airy-sunstick-protection-bar-spf50-broad-spectrum-semi",
-          "title": "Abib Airy Sunstick Protection Bar SPF50+ Broad Spectrum, Semi-Matte Sunscreen Stick for Oily & Combination Skin, No Whit",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/318wsIF8QlL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C45CK57M?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9b268595674a8c02db65a02aef8ef31a&language=en_US"
-        },
-        {
-          "asin": "B0DSPD2838",
-          "slug": "mescomb-dual-voltage-hot-air-styler-wrap-5-in-1-hair-dryer-b",
-          "title": "MESCOMB Dual Voltage Hot Air Styler Wrap - 5 in 1 Hair Dryer Brush with Fast Drying Blow Dryer, Styling, Straightening &",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/41+c1D3O3QL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DSPD2838?th=1&linkCode=sl2&tag=noya0b-20&linkId=5ef7c0b38de630640e8db633febba2e4&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-05T20:20:04.731Z",
-      "updatedAt": "2026-07-05T20:20:04.731Z"
+      "generatedAt": "2026-07-05T20:30:05.107Z",
+      "updatedAt": "2026-07-05T20:30:05.107Z"
     },
     {
       "date": "2026-07-04",
@@ -16204,5 +16204,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-05T20:20:04.736Z"
+  "generatedAt": "2026-07-05T20:30:05.111Z"
 }
