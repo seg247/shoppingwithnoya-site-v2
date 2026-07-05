@@ -10,8 +10,7 @@
         "Beauty",
         "Electronics",
         "Cleaning Supplies",
-        "Home & Kitchen",
-        "Grocery & Food"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Cleaning Supplies": [
@@ -65,6 +64,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B0GSV91J1N",
+            "slug": "icevival-commercial-under-counter-ice-maker-with-drain-pump",
+            "title": "ICEVIVAL Commercial Under Counter Ice Maker with Drain Pump, Produces 80 lbs Ice Daily, Built-in or Freestanding Ice Mac",
+            "price": "$399.99",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41GAIVIcFXL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GSV91J1N?th=1&linkCode=sl2&tag=noya0b-20&linkId=11bb2431eac329ae70cbff27c4e615c6&language=en_US"
+          },
           {
             "asin": "B07FWBMNJ5",
             "slug": "-reclining-stadium-seat-wide-bleacher-chair-with-back-suppor",
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51AlMW6MJdL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0C6YBHKJ5?linkCode=sl2&tag=noya0b-20&linkId=a86d8219a780cdcdd8000a12d6e4fb78&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00BI48PRW",
-            "slug": "la-dolce-vita-classic-almond-italian-biscotti-cookie-snacks",
-            "title": "La Dolce Vita Classic Almond Italian Biscotti Cookie Snacks with Whole Almonds, 40 oz. Jar, 30 Servings (Pack of 1)",
-            "price": "$11.19",
-            "discount": 25,
-            "rating": "WARM",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/51PFki8CHoL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B00BI48PRW?th=1&linkCode=sl2&tag=noya0b-20&linkId=738abf9a1de58623aa839d3a1d86307b&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -170,6 +167,17 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/41DRAIMRxBL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B01HXV90BS?th=1&linkCode=sl2&tag=noya0b-20&linkId=f888696dca6e62f62d6739ae35d94f2b&language=en_US"
+        },
+        {
+          "asin": "B0GSV91J1N",
+          "slug": "icevival-commercial-under-counter-ice-maker-with-drain-pump",
+          "title": "ICEVIVAL Commercial Under Counter Ice Maker with Drain Pump, Produces 80 lbs Ice Daily, Built-in or Freestanding Ice Mac",
+          "price": "$399.99",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/41GAIVIcFXL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GSV91J1N?th=1&linkCode=sl2&tag=noya0b-20&linkId=11bb2431eac329ae70cbff27c4e615c6&language=en_US"
         },
         {
           "asin": "B07FWBMNJ5",
@@ -236,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41CL4DOpbsL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0CTJ67LK1?linkCode=sl2&tag=noya0b-20&linkId=af45807a63ecae446054a4854000b910&language=en_US"
-        },
-        {
-          "asin": "B00BI48PRW",
-          "slug": "la-dolce-vita-classic-almond-italian-biscotti-cookie-snacks",
-          "title": "La Dolce Vita Classic Almond Italian Biscotti Cookie Snacks with Whole Almonds, 40 oz. Jar, 30 Servings (Pack of 1)",
-          "price": "$11.19",
-          "discount": 25,
-          "rating": "WARM",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/51PFki8CHoL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B00BI48PRW?th=1&linkCode=sl2&tag=noya0b-20&linkId=738abf9a1de58623aa839d3a1d86307b&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-05T22:20:01.361Z",
-      "updatedAt": "2026-07-05T22:20:01.361Z"
+      "generatedAt": "2026-07-05T22:30:01.330Z",
+      "updatedAt": "2026-07-05T22:30:01.330Z"
     },
     {
       "date": "2026-07-04",
@@ -7303,5 +7300,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-05T22:20:01.363Z"
+  "generatedAt": "2026-07-05T22:30:01.332Z"
 }
