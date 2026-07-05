@@ -9,6 +9,7 @@
         "Beauty",
         "Garden & Outdoor",
         "Electronics",
+        "Cleaning Supplies",
         "Fashion",
         "Other",
         "Grocery & Food",
@@ -26,6 +27,43 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51zwfz88qJL.jpg",
             "url": "https://www.amazon.com/dp/B0FRZ8CCBG?th=1&tag=noya0b-20"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0GN4KSLZJ",
+            "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
+            "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
+            "price": "$12",
+            "discount": 56,
+            "rating": "FIRE",
+            "category": "Cleaning Supplies",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0GN4KSLZJ?th=1&tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FYJB4K11",
+            "slug": "ralph-lauren-fragrances-polo-red-extreme-cologne-for-men-wit",
+            "title": "RALPH LAUREN FRAGRANCES - Polo Red Extreme - Cologne for Men - With Red Ginger, Vanilla and Leather - 4.2 Fl Oz : Everyt",
+            "price": "$67",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FYJB4K11?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B01BQQUFQU",
+            "slug": "tula-skincare-cult-classic-purifying-face-cleanser-daily-was",
+            "title": "TULA Skincare Cult Classic Purifying Face Cleanser, Daily Wash for Pores & Skin Balance with Prebiotic Extracts, Antioxi",
+            "price": "$22",
+            "discount": 35,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01BQQUFQU?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -103,41 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71xD6Fe6GEL.jpg",
             "url": "https://www.amazon.com/dp/B071DFDF9N?th=1&tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B01BQQUFQU",
-            "slug": "tula-skincare-cult-classic-purifying-face-cleanser-daily-was",
-            "title": "TULA Skincare Cult Classic Purifying Face Cleanser, Daily Wash for Pores & Skin Balance with Prebiotic Extracts, Antioxi",
-            "price": "$22",
-            "discount": 35,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01BQQUFQU?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0F95RJ9N9",
-            "slug": "tree-hut-dewy-daisy-gift-set-exfoliating-body-scrub-hydratin",
-            "title": "Tree Hut Dewy Daisy Gift Set, Exfoliating Body Scrub & Hydrating Body Spray, Skin Care Bundle, 18 & 6 fl oz : Beauty & P",
-            "price": "$9",
-            "discount": 34,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81chsN-9w1L.jpg",
-            "url": "https://www.amazon.com/dp/B0F95RJ9N9?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CKFL71H8",
-            "slug": "este-lauder-futurist-peptide-power-hydrating-serum-primer-wi",
-            "title": "Estée Lauder Futurist Peptide-Power Hydrating Serum Primer with Hyaluronic Acid, 0.9 Fl Oz : Beauty & Personal Care",
-            "price": "$39",
-            "discount": 30,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CKFL71H8?th=1&psc=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -151,6 +154,28 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51zwfz88qJL.jpg",
           "url": "https://www.amazon.com/dp/B0FRZ8CCBG?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GN4KSLZJ",
+          "slug": "tarte-maracuja-juicy-lip-gloss-peptide-infused-hydrating-glo",
+          "title": "tarte maracuja juicy lip gloss – Peptide-Infused Hydrating Glossy Balm, 12HR Instant Moisture lipgloss, Includes Collect",
+          "price": "$12",
+          "discount": 56,
+          "rating": "FIRE",
+          "category": "Cleaning Supplies",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0GN4KSLZJ?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FYJB4K11",
+          "slug": "ralph-lauren-fragrances-polo-red-extreme-cologne-for-men-wit",
+          "title": "RALPH LAUREN FRAGRANCES - Polo Red Extreme - Cologne for Men - With Red Ginger, Vanilla and Leather - 4.2 Fl Oz : Everyt",
+          "price": "$67",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FYJB4K11?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FF9Q4CNX",
@@ -228,28 +253,6 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01BQQUFQU?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0F95RJ9N9",
-          "slug": "tree-hut-dewy-daisy-gift-set-exfoliating-body-scrub-hydratin",
-          "title": "Tree Hut Dewy Daisy Gift Set, Exfoliating Body Scrub & Hydrating Body Spray, Skin Care Bundle, 18 & 6 fl oz : Beauty & P",
-          "price": "$9",
-          "discount": 34,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81chsN-9w1L.jpg",
-          "url": "https://www.amazon.com/dp/B0F95RJ9N9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CKFL71H8",
-          "slug": "este-lauder-futurist-peptide-power-hydrating-serum-primer-wi",
-          "title": "Estée Lauder Futurist Peptide-Power Hydrating Serum Primer with Hyaluronic Acid, 0.9 Fl Oz : Beauty & Personal Care",
-          "price": "$39",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0CKFL71H8?th=1&psc=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-05T00:50:01.646Z",
-      "updatedAt": "2026-07-05T00:50:01.646Z"
+      "generatedAt": "2026-07-05T01:00:02.138Z",
+      "updatedAt": "2026-07-05T01:00:02.138Z"
     },
     {
       "date": "2026-07-03",
@@ -7026,5 +7029,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-05T00:50:01.649Z"
+  "generatedAt": "2026-07-05T01:00:02.141Z"
 }
