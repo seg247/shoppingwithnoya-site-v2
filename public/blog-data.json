@@ -11,7 +11,8 @@
         "Grocery & Food",
         "Pet Supplies",
         "Electronics",
-        "Fashion"
+        "Fashion",
+        "Personal Care"
       ],
       "byCategory": {
         "Other": [
@@ -110,17 +111,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/21ZFnuylMyL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0CDPGDMC9?linkCode=sl2&tag=noya0b-20&linkId=edbc239c21f72c4b62dee36840b15ca1&language=en_US"
-          },
-          {
-            "asin": "B003IS3HV0",
-            "slug": "leather-honey-leather-conditioner-since-1968-for-all-leather",
-            "title": "Leather Honey Leather Conditioner, Since 1968. For All Leather Items Including Auto, Furniture, Shoes, Purses and Tack. ",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/31c4tz1o6wL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B003IS3HV0?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=88073424f87f44538861a20a8da7b5cc&language=en_US"
           }
         ],
         "Fashion": [
@@ -134,6 +124,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/517IaVPf52L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B09QXWMDZ8?th=1&linkCode=sl2&tag=noya0b-20&linkId=72e604a7a3702114ae9e8883d65c915c&language=en_US"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B09QG1F7YD",
+            "slug": "kuoser-recovery-suit-for-dogs-cats-after-surgery-professiona",
+            "title": "Kuoser Recovery Suit for Dogs Cats After Surgery, Professional Pet Recovery Shirt Dog Abdominal Wounds Bandages, Substit",
+            "price": "$34.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/41ve4-rBNGL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B09QG1F7YD?th=1&linkCode=sl2&tag=noya0b-20&linkId=6d94f2f544cd9e8785dab55d0a4f7014&language=en_US"
           }
         ]
       },
@@ -238,15 +241,15 @@
           "url": "https://www.amazon.com/dp/B09QXWMDZ8?th=1&linkCode=sl2&tag=noya0b-20&linkId=72e604a7a3702114ae9e8883d65c915c&language=en_US"
         },
         {
-          "asin": "B003IS3HV0",
-          "slug": "leather-honey-leather-conditioner-since-1968-for-all-leather",
-          "title": "Leather Honey Leather Conditioner, Since 1968. For All Leather Items Including Auto, Furniture, Shoes, Purses and Tack. ",
-          "price": "$19.99",
+          "asin": "B09QG1F7YD",
+          "slug": "kuoser-recovery-suit-for-dogs-cats-after-surgery-professiona",
+          "title": "Kuoser Recovery Suit for Dogs Cats After Surgery, Professional Pet Recovery Shirt Dog Abdominal Wounds Bandages, Substit",
+          "price": "$34.99",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/31c4tz1o6wL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B003IS3HV0?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=88073424f87f44538861a20a8da7b5cc&language=en_US"
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ve4-rBNGL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B09QG1F7YD?th=1&linkCode=sl2&tag=noya0b-20&linkId=6d94f2f544cd9e8785dab55d0a4f7014&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-05T13:20:01.930Z",
-      "updatedAt": "2026-07-05T13:20:01.930Z"
+      "generatedAt": "2026-07-05T13:30:02.008Z",
+      "updatedAt": "2026-07-05T13:30:02.008Z"
     },
     {
       "date": "2026-07-04",
@@ -7303,5 +7306,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-05T13:20:01.932Z"
+  "generatedAt": "2026-07-05T13:30:02.010Z"
 }
