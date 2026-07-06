@@ -9,6 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
+        "Cleaning Supplies",
         "Garden & Outdoor"
       ],
       "byCategory": {
@@ -34,6 +35,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/41UEUDejpuL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0C73XLG74?th=1&linkCode=sl2&tag=noya0b-20&linkId=659b59d00161167d84dbf0fa54e8e9d0&language=en_US"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B09P2RKRWX",
+            "slug": "tineco-floor-one-s5-smart-cordless-wet-dry-vacuum-cleaner-an",
+            "title": "Tineco Floor ONE S5 Smart Cordless Wet Dry Vacuum Cleaner and Mop for Hard Floors, Digital Display, Long Run Time, Great",
+            "price": "$229.00",
+            "discount": 35,
+            "rating": "HOT",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/31dP6oJCXcL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B09P2RKRWX?th=1&linkCode=sl2&tag=noya0b-20&linkId=0370d95e4a7ec1a2bb40e176d577a1be&language=en_US"
           }
         ],
         "Electronics": [
@@ -104,17 +118,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51ZnE2xhb2L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B07NDZ8WJ7?th=1&linkCode=sl2&tag=noya0b-20&linkId=6929dbc65d2d63384bc6ad1ffbb02c9e&language=en_US"
-          },
-          {
-            "asin": "B01BK871DE",
-            "slug": "naturealm-sacred-7-organic-mushroom-powder-supplement-7-mont",
-            "title": "Naturealm Sacred 7 Organic Mushroom Powder Supplement | 7-Month Supply | 7-in-1 Blend with Lions Mane, Reishi, Chaga | B",
-            "price": "$59.49",
-            "discount": 15,
-            "rating": "GOOD",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51+C5Oq2-OL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B01BK871DE?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ae88b49e541139a3131a446a2aafbe4&language=en_US"
           }
         ],
         "Garden & Outdoor": [
@@ -142,6 +145,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/41EeOg-wEcL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0DQ82FJST?th=1&linkCode=sl2&tag=noya0b-20&linkId=a160856af785c24d3f313f3cdfe33910&language=en_US"
+        },
+        {
+          "asin": "B09P2RKRWX",
+          "slug": "tineco-floor-one-s5-smart-cordless-wet-dry-vacuum-cleaner-an",
+          "title": "Tineco Floor ONE S5 Smart Cordless Wet Dry Vacuum Cleaner and Mop for Hard Floors, Digital Display, Long Run Time, Great",
+          "price": "$229.00",
+          "discount": 35,
+          "rating": "HOT",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/31dP6oJCXcL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B09P2RKRWX?th=1&linkCode=sl2&tag=noya0b-20&linkId=0370d95e4a7ec1a2bb40e176d577a1be&language=en_US"
         },
         {
           "asin": "B0GKV8LC6N",
@@ -230,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51ZnE2xhb2L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B07NDZ8WJ7?th=1&linkCode=sl2&tag=noya0b-20&linkId=6929dbc65d2d63384bc6ad1ffbb02c9e&language=en_US"
-        },
-        {
-          "asin": "B01BK871DE",
-          "slug": "naturealm-sacred-7-organic-mushroom-powder-supplement-7-mont",
-          "title": "Naturealm Sacred 7 Organic Mushroom Powder Supplement | 7-Month Supply | 7-in-1 Blend with Lions Mane, Reishi, Chaga | B",
-          "price": "$59.49",
-          "discount": 15,
-          "rating": "GOOD",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51+C5Oq2-OL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B01BK871DE?th=1&linkCode=sl2&tag=noya0b-20&linkId=4ae88b49e541139a3131a446a2aafbe4&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-06T12:30:00.310Z",
-      "updatedAt": "2026-07-06T12:30:00.310Z"
+      "generatedAt": "2026-07-06T12:40:01.916Z",
+      "updatedAt": "2026-07-06T12:40:01.916Z"
     },
     {
       "date": "2026-07-05",
@@ -7568,5 +7571,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-06T12:30:00.319Z"
+  "generatedAt": "2026-07-06T12:40:01.918Z"
 }
