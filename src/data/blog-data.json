@@ -10,7 +10,8 @@
         "Home & Kitchen",
         "Cleaning Supplies",
         "Electronics",
-        "Beauty"
+        "Beauty",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Other": [
@@ -57,17 +58,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51cYuMlgAkL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B09PV561PB?th=1&linkCode=sl2&tag=noya0b-20&linkId=674074ec55cd5e4b34194f294047c2e6&language=en_US"
-          },
-          {
-            "asin": "B07D276DRM",
-            "slug": "-easeland-queen-size-down-alternative-comforter-quilted-duve",
-            "title": "\udecd️ EASELAND Queen Size Down Alternative Comforter - Quilted Duvet Insert for All Seasons, Soft Lightweight with Corner T",
-            "price": "$32.90",
-            "discount": 23,
-            "rating": "WARM",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61B-k6LdYnL.jpg",
-            "url": "https://www.amazon.com/dp/B07D276DRM?th=1&linkCode=sl2&tag=noya0b-20&linkId=c569948093c352ecdbb91a7a135e9f69&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -131,6 +121,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61N65FGNDxL.jpg",
             "url": "https://www.amazon.com/dp/B010FOFSH0?linkCode=sl2&tag=noya0b-20&linkId=a2466e86dd58b8f7dbaf377c9690ab10&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0B6JSFPLN",
+            "slug": "-nextmug-temperature-controlled-self-heating-coffee-mug-slat",
+            "title": "\udecd️ Nextmug - Temperature-Controlled, Self-Heating Coffee Mug (Slate Blue - 14 oz.)",
+            "price": "$99.95",
+            "discount": 23,
+            "rating": "WARM",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51CD0M5LP0L.jpg",
+            "url": "https://www.amazon.com/dp/B0B6JSFPLN?th=1&linkCode=sl2&tag=noya0b-20&linkId=52d105a93b3ef64a18b8855f8cd9d2ef&language=en_US"
           }
         ]
       },
@@ -235,15 +238,15 @@
           "url": "https://www.amazon.com/dp/B09PV561PB?th=1&linkCode=sl2&tag=noya0b-20&linkId=674074ec55cd5e4b34194f294047c2e6&language=en_US"
         },
         {
-          "asin": "B07D276DRM",
-          "slug": "-easeland-queen-size-down-alternative-comforter-quilted-duve",
-          "title": "\udecd️ EASELAND Queen Size Down Alternative Comforter - Quilted Duvet Insert for All Seasons, Soft Lightweight with Corner T",
-          "price": "$32.90",
+          "asin": "B0B6JSFPLN",
+          "slug": "-nextmug-temperature-controlled-self-heating-coffee-mug-slat",
+          "title": "\udecd️ Nextmug - Temperature-Controlled, Self-Heating Coffee Mug (Slate Blue - 14 oz.)",
+          "price": "$99.95",
           "discount": 23,
           "rating": "WARM",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61B-k6LdYnL.jpg",
-          "url": "https://www.amazon.com/dp/B07D276DRM?th=1&linkCode=sl2&tag=noya0b-20&linkId=c569948093c352ecdbb91a7a135e9f69&language=en_US"
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51CD0M5LP0L.jpg",
+          "url": "https://www.amazon.com/dp/B0B6JSFPLN?th=1&linkCode=sl2&tag=noya0b-20&linkId=52d105a93b3ef64a18b8855f8cd9d2ef&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-06T17:30:00.491Z",
-      "updatedAt": "2026-07-06T17:30:00.491Z"
+      "generatedAt": "2026-07-06T17:40:01.838Z",
+      "updatedAt": "2026-07-06T17:40:01.838Z"
     },
     {
       "date": "2026-07-05",
@@ -7571,5 +7574,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-06T17:30:00.494Z"
+  "generatedAt": "2026-07-06T17:40:01.842Z"
 }
