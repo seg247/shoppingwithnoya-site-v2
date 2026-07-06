@@ -9,7 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Health"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -104,17 +105,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/31VTWxVU6ZL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B01IWOCCOW?th=1&linkCode=sl2&tag=noya0b-20&linkId=b581ca02d565e5ba5a9a2e347a0d7ad5&language=en_US"
-          },
-          {
-            "asin": "B0BRSTJT3V",
-            "slug": "secueye-128gb-tf-memory-card-class-10-fat32-high-speed-readi",
-            "title": "SECUEYE 128GB TF Memory Card Class 10 FAT32 High Speed Reading/Writing for Security Camera Dash Cam 24/7 Recording",
-            "price": "$28.99",
-            "discount": 10,
-            "rating": "GOOD",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/41HatcnxBrL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BRSTJT3V?th=1&linkCode=sl2&tag=noya0b-20&linkId=3190c2c780252336b4177a650d68b666&language=en_US"
           }
         ],
         "Garden & Outdoor": [
@@ -128,6 +118,19 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/51ZN28cqjoL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0C8S1G7MM?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=36941bd49bf92f868e0346a4d61571f7&language=en_US"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B07JYJFPJX",
+            "slug": "supersmart-h-pylori-formula-20-billion-cfu-per-day-natural-p",
+            "title": "Supersmart H. Pylori Formula 20 Billion CFU per Day - Natural Probiotic Lactobacillus Reuteri DSM 17648 Supplement | Non",
+            "price": "$27.00",
+            "discount": 10,
+            "rating": "GOOD",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/31HedUDLRzL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B07JYJFPJX?th=1&linkCode=sl2&tag=noya0b-20&linkId=e95706c57518eee54d419a7e61c9b684&language=en_US"
           }
         ]
       },
@@ -232,15 +235,15 @@
           "url": "https://www.amazon.com/dp/B0101SI6W4?th=1&linkCode=sl2&tag=noya0b-20&linkId=36175b59b9a1f2968aed0ce824a06d69&language=en_US"
         },
         {
-          "asin": "B0BRSTJT3V",
-          "slug": "secueye-128gb-tf-memory-card-class-10-fat32-high-speed-readi",
-          "title": "SECUEYE 128GB TF Memory Card Class 10 FAT32 High Speed Reading/Writing for Security Camera Dash Cam 24/7 Recording",
-          "price": "$28.99",
+          "asin": "B07JYJFPJX",
+          "slug": "supersmart-h-pylori-formula-20-billion-cfu-per-day-natural-p",
+          "title": "Supersmart H. Pylori Formula 20 Billion CFU per Day - Natural Probiotic Lactobacillus Reuteri DSM 17648 Supplement | Non",
+          "price": "$27.00",
           "discount": 10,
           "rating": "GOOD",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/41HatcnxBrL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BRSTJT3V?th=1&linkCode=sl2&tag=noya0b-20&linkId=3190c2c780252336b4177a650d68b666&language=en_US"
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/31HedUDLRzL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B07JYJFPJX?th=1&linkCode=sl2&tag=noya0b-20&linkId=e95706c57518eee54d419a7e61c9b684&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-06T09:30:02.194Z",
-      "updatedAt": "2026-07-06T09:30:02.194Z"
+      "generatedAt": "2026-07-06T09:40:00.732Z",
+      "updatedAt": "2026-07-06T09:40:00.732Z"
     },
     {
       "date": "2026-07-05",
@@ -7568,5 +7571,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-06T09:30:02.196Z"
+  "generatedAt": "2026-07-06T09:40:00.735Z"
 }
