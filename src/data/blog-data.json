@@ -11,8 +11,8 @@
         "Toys & Kids",
         "Home & Kitchen",
         "Cleaning Supplies",
-        "Electronics",
-        "Beauty"
+        "Fashion",
+        "Electronics"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -113,6 +113,19 @@
             "url": "https://www.amazon.com/dp/B09P2RKRWX?th=1&linkCode=sl2&tag=noya0b-20&linkId=0370d95e4a7ec1a2bb40e176d577a1be&language=en_US"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0F434KKFV",
+            "slug": "fisoew-womens-crochet-swimsuit-coverups-2-piece-bathing-suit",
+            "title": "Fisoew Womens Crochet Swimsuit Coverups 2 Piece Bathing Suit Cover Up Long Sleeve Tie Front Crop Top Mini Skirt Sets at ",
+            "price": "$12",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81+mZOncOEL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F434KKFV?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0GKV8LC6N",
@@ -124,19 +137,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/41izh9uvKPL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GKV8LC6N?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b7eb8dbad3544678b68bd052a3cfc8e&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B010FOFSH0",
-            "slug": "-dearklairs-vitamin-c-serum-korean-brightening-daily-serum-f",
-            "title": "\udecd️ DearKlairs Vitamin C Serum – Korean Brightening Daily Serum for Even Skin Tone & Dark Spot Care, EGF Peptides, 5% Pur",
-            "price": "$16.67",
-            "discount": 28,
-            "rating": "WARM",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61N65FGNDxL.jpg",
-            "url": "https://www.amazon.com/dp/B010FOFSH0?linkCode=sl2&tag=noya0b-20&linkId=a2466e86dd58b8f7dbaf377c9690ab10&language=en_US"
           }
         ]
       },
@@ -208,6 +208,17 @@
           "url": "https://www.amazon.com/dp/B09P2RKRWX?th=1&linkCode=sl2&tag=noya0b-20&linkId=0370d95e4a7ec1a2bb40e176d577a1be&language=en_US"
         },
         {
+          "asin": "B0F434KKFV",
+          "slug": "fisoew-womens-crochet-swimsuit-coverups-2-piece-bathing-suit",
+          "title": "Fisoew Womens Crochet Swimsuit Coverups 2 Piece Bathing Suit Cover Up Long Sleeve Tie Front Crop Top Mini Skirt Sets at ",
+          "price": "$12",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81+mZOncOEL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F434KKFV?th=1&psc=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0F92JPR7C",
           "slug": "-6-pack-moving-bags-heavy-duty-210gsm-with-full-open-side-zi",
           "title": "\udecd️ 6 Pack Moving Bags Heavy Duty 210GSM with Full-Open Side Zipper, 93L 220lbs Waterproof Foldable Storage Totes for Col",
@@ -239,17 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81EsRJaGmoL.jpg",
           "url": "https://www.amazon.com/dp/B087N7QYN1?th=1&linkCode=sl2&tag=noya0b-20&linkId=83ddd1b173ae18d9b034627923aed334&language=en_US"
-        },
-        {
-          "asin": "B010FOFSH0",
-          "slug": "-dearklairs-vitamin-c-serum-korean-brightening-daily-serum-f",
-          "title": "\udecd️ DearKlairs Vitamin C Serum – Korean Brightening Daily Serum for Even Skin Tone & Dark Spot Care, EGF Peptides, 5% Pur",
-          "price": "$16.67",
-          "discount": 28,
-          "rating": "WARM",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61N65FGNDxL.jpg",
-          "url": "https://www.amazon.com/dp/B010FOFSH0?linkCode=sl2&tag=noya0b-20&linkId=a2466e86dd58b8f7dbaf377c9690ab10&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-06T23:40:00.557Z",
-      "updatedAt": "2026-07-06T23:40:00.557Z"
+      "generatedAt": "2026-07-06T23:50:01.581Z",
+      "updatedAt": "2026-07-06T23:50:01.581Z"
     },
     {
       "date": "2026-07-05",
@@ -7577,5 +7577,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-06T23:40:00.560Z"
+  "generatedAt": "2026-07-06T23:50:01.584Z"
 }
