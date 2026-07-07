@@ -11,8 +11,7 @@
         "Fashion",
         "Beauty",
         "Electronics",
-        "Cleaning Supplies",
-        "Home & Kitchen"
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Other": [
@@ -37,6 +36,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71fnIy+7B2L.jpg",
             "url": "https://www.amazon.com/dp/B076MSRSLK?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a4bd516b93b93da26d1590d35cb8409&language=en_US"
+          },
+          {
+            "asin": "B002PQ8BQM",
+            "slug": "-price-drop-10-off",
+            "title": "\udcc9 Price Drop: -10% OFF",
+            "price": "$19.97",
+            "discount": 10,
+            "rating": "GOOD",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MYs0dBZgL.jpg",
+            "url": "https://www.amazon.com/dp/B002PQ8BQM?th=1&linkCode=sl2&tag=noya0b-20&linkId=a630ae1e7cf8eeef11c425a84f664273&language=en_US"
           },
           {
             "asin": "B09Z36WRD2",
@@ -125,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61jSkQDn74L.jpg",
             "url": "https://www.amazon.com/dp/B09B7YS1VK?th=1&linkCode=sl2&tag=noya0b-20&linkId=b791c9b1d1338a0037378fd0e0e9caf6&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0B28PZN5V",
-            "slug": "-son-in-law-blanket-60x50-best-christmasbirthday-gift-ideas",
-            "title": "\udecd️ Son in Law Blanket 60’’x50’’, Best Christmas/Birthday Gift Ideas for Son in Law from Mother in Law",
-            "price": "$22.99",
-            "discount": 8,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/919BC5ivcSL.jpg",
-            "url": "https://www.amazon.com/dp/B0B28PZN5V?th=1&linkCode=sl2&tag=noya0b-20&linkId=96038bd440315d36bdf4390ff5a64c33&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -208,6 +205,17 @@
           "url": "https://www.amazon.com/dp/B076MSRSLK?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a4bd516b93b93da26d1590d35cb8409&language=en_US"
         },
         {
+          "asin": "B002PQ8BQM",
+          "slug": "-price-drop-10-off",
+          "title": "\udcc9 Price Drop: -10% OFF",
+          "price": "$19.97",
+          "discount": 10,
+          "rating": "GOOD",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71MYs0dBZgL.jpg",
+          "url": "https://www.amazon.com/dp/B002PQ8BQM?th=1&linkCode=sl2&tag=noya0b-20&linkId=a630ae1e7cf8eeef11c425a84f664273&language=en_US"
+        },
+        {
           "asin": "B09Z36WRD2",
           "slug": "-migrastil-migraine-stick-rollon-fast-cooling-comfort-for-yo",
           "title": "\udecd️ Migrastil Migraine Stick Rollon - Fast Cooling Comfort for Your Head 3-Pack. Aromatherapy with Peppermint & Other Ess",
@@ -239,17 +247,6 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/61jSkQDn74L.jpg",
           "url": "https://www.amazon.com/dp/B09B7YS1VK?th=1&linkCode=sl2&tag=noya0b-20&linkId=b791c9b1d1338a0037378fd0e0e9caf6&language=en_US"
-        },
-        {
-          "asin": "B0B28PZN5V",
-          "slug": "-son-in-law-blanket-60x50-best-christmasbirthday-gift-ideas",
-          "title": "\udecd️ Son in Law Blanket 60’’x50’’, Best Christmas/Birthday Gift Ideas for Son in Law from Mother in Law",
-          "price": "$22.99",
-          "discount": 8,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/919BC5ivcSL.jpg",
-          "url": "https://www.amazon.com/dp/B0B28PZN5V?th=1&linkCode=sl2&tag=noya0b-20&linkId=96038bd440315d36bdf4390ff5a64c33&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-07T05:30:02.266Z",
-      "updatedAt": "2026-07-07T05:30:02.266Z"
+      "generatedAt": "2026-07-07T05:40:01.265Z",
+      "updatedAt": "2026-07-07T05:40:01.265Z"
     },
     {
       "date": "2026-07-06",
@@ -7854,5 +7851,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-07T05:30:02.268Z"
+  "generatedAt": "2026-07-07T05:40:01.268Z"
 }
