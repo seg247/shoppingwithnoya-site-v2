@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Fashion",
-        "Sports & Fitness",
-        "Electronics"
+        "Electronics",
+        "Sports & Fitness"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -83,6 +83,19 @@
             "url": "https://www.amazon.com/dp/B087N7QYN1?th=1&linkCode=sl2&tag=noya0b-20&linkId=b6e58e58b8df673eb3bb34d04ce418d6&language=en_US"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B09XSDMT4F",
+            "slug": "-sony-wh-1000xm5-premium-noise-canceling-headphones-auto-nc",
+            "title": "\udecd️ Sony WH-1000XM5 Premium Noise Canceling Headphones, Auto NC Optimizer, 30-Hour Battery, Alexa Voice Control, Silver",
+            "price": "$15.29",
+            "discount": 38,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61sGlge485L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09XSDMT4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=bad81376676738d7aaa1a8ced22e3c03&language=en_US"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B083F6GRKG",
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71qo6lRINWL.jpg",
             "url": "https://www.amazon.com/dp/B07T3J76KQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=7811e1f99b6df7bf9771e4a3a9fc2604&language=en_US"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0C6YBHKJ5",
-            "slug": "-redtiger-4k-starvis-2-dash-cam-front-and-rear-5ghz-wifi-20m",
-            "title": "\udecd️ REDTIGER 4K STARVIS 2 Dash Cam Front and Rear, 5GHz WiFi 20MB/s Download, 128GB Card Included, Voice Control, Dash Ca",
-            "price": "$119.99",
-            "discount": 29,
-            "rating": "WARM",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/716yL7ENIjL.jpg",
-            "url": "https://www.amazon.com/dp/B0C6YBHKJ5?linkCode=sl2&tag=noya0b-20&linkId=a7578f2e89930cf64d5256a44dc5d01e&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81hkHjfOagL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09P8CKJFJ?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a2792c817baaa40ab1d58fa88d5fcbf9&language=en_US"
+        },
+        {
+          "asin": "B09XSDMT4F",
+          "slug": "-sony-wh-1000xm5-premium-noise-canceling-headphones-auto-nc",
+          "title": "\udecd️ Sony WH-1000XM5 Premium Noise Canceling Headphones, Auto NC Optimizer, 30-Hour Battery, Alexa Voice Control, Silver",
+          "price": "$15.29",
+          "discount": 38,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61sGlge485L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09XSDMT4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=bad81376676738d7aaa1a8ced22e3c03&language=en_US"
         },
         {
           "asin": "B0CTQ4WHK3",
@@ -233,17 +244,6 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/71qo6lRINWL.jpg",
           "url": "https://www.amazon.com/dp/B07T3J76KQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=7811e1f99b6df7bf9771e4a3a9fc2604&language=en_US"
-        },
-        {
-          "asin": "B0C6YBHKJ5",
-          "slug": "-redtiger-4k-starvis-2-dash-cam-front-and-rear-5ghz-wifi-20m",
-          "title": "\udecd️ REDTIGER 4K STARVIS 2 Dash Cam Front and Rear, 5GHz WiFi 20MB/s Download, 128GB Card Included, Voice Control, Dash Ca",
-          "price": "$119.99",
-          "discount": 29,
-          "rating": "WARM",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/716yL7ENIjL.jpg",
-          "url": "https://www.amazon.com/dp/B0C6YBHKJ5?linkCode=sl2&tag=noya0b-20&linkId=a7578f2e89930cf64d5256a44dc5d01e&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-07T19:30:01.869Z",
-      "updatedAt": "2026-07-07T19:30:01.869Z"
+      "generatedAt": "2026-07-07T19:40:02.245Z",
+      "updatedAt": "2026-07-07T19:40:02.245Z"
     },
     {
       "date": "2026-07-06",
@@ -7848,5 +7848,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-07T19:30:01.871Z"
+  "generatedAt": "2026-07-07T19:40:02.247Z"
 }
