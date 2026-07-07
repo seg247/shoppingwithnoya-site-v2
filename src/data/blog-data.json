@@ -9,9 +9,7 @@
         "Other",
         "Sports & Fitness",
         "Fashion",
-        "Beauty",
-        "Electronics",
-        "Cleaning Supplies"
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -25,6 +23,28 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81hkHjfOagL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09P8CKJFJ?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a2792c817baaa40ab1d58fa88d5fcbf9&language=en_US"
+          },
+          {
+            "asin": "B0C6QKHDD8",
+            "slug": "-new-starter-fits-for-chevrolet-cobalt-2005-2007-malibu-04-0",
+            "title": "\udecd️ New Starter Fits for Chevrolet Cobalt 2005-2007, Malibu 04-07, Cavalier 02-05, for Saturn Ion 03-07, Vue 02-07, for P",
+            "price": "$57.56",
+            "discount": 17,
+            "rating": "GOOD",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71d+BXoqZCL.jpg",
+            "url": "https://www.amazon.com/dp/B0C6QKHDD8?th=1&linkCode=sl2&tag=noya0b-20&linkId=046fd6f5d279bf1985491c38298160e4&language=en_US"
+          },
+          {
+            "asin": "B00O59ZR32",
+            "slug": "-precious-moments-birthday-train-tiger-age-16-16-and-feline",
+            "title": "\udecd️ Precious Moments Birthday Train Tiger, Age 16, 16 And Feline Fine, Birthday Gift for 16 Year Old Boys and Girls, Bisq",
+            "price": "$40.00",
+            "discount": 15,
+            "rating": "GOOD",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61GO-O-PJNL.jpg",
+            "url": "https://www.amazon.com/dp/B00O59ZR32?th=1&linkCode=sl2&tag=noya0b-20&linkId=616226f3ca4ff4cc353f8c843777a04b&language=en_US"
           },
           {
             "asin": "B076MSRSLK",
@@ -109,32 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61nWKTHSjgL.jpg",
             "url": "https://www.amazon.com/dp/B08L8W5FHT?th=1&linkCode=sl2&tag=noya0b-20&linkId=21794895862cc4edd207ff172c65cad4&language=en_US"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B09MQ7R1D8",
-            "slug": "-cardo-systems-spirit-motorcycle-bluetooth-communication-hea",
-            "title": "\udecd️ Cardo Systems Spirit Motorcycle Bluetooth Communication Headset, 2-Way Bluetooth, Thin 32mm Speakers, Waterproof, Uni",
-            "price": "$98.95",
-            "discount": 10,
-            "rating": "GOOD",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51GNePhdpbL.jpg",
-            "url": "https://www.amazon.com/dp/B09MQ7R1D8?th=1&linkCode=sl2&tag=noya0b-20&linkId=16fcea055173e6905edb6074e1b723ff&language=en_US"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B09B7YS1VK",
-            "slug": "-dirty-labs-signature-scent-bio-liquid-laundry-detergent-80",
-            "title": "\udecd️ Dirty Labs | Signature Scent Bio-Liquid Laundry Detergent 80 Loads (21.6 fl oz) Hyper-Concentrated High Efficiency & ",
-            "price": "$29.00",
-            "discount": 10,
-            "rating": "GOOD",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jSkQDn74L.jpg",
-            "url": "https://www.amazon.com/dp/B09B7YS1VK?th=1&linkCode=sl2&tag=noya0b-20&linkId=b791c9b1d1338a0037378fd0e0e9caf6&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -183,6 +177,28 @@
           "url": "https://www.amazon.com/dp/B08L8W5FHT?th=1&linkCode=sl2&tag=noya0b-20&linkId=21794895862cc4edd207ff172c65cad4&language=en_US"
         },
         {
+          "asin": "B0C6QKHDD8",
+          "slug": "-new-starter-fits-for-chevrolet-cobalt-2005-2007-malibu-04-0",
+          "title": "\udecd️ New Starter Fits for Chevrolet Cobalt 2005-2007, Malibu 04-07, Cavalier 02-05, for Saturn Ion 03-07, Vue 02-07, for P",
+          "price": "$57.56",
+          "discount": 17,
+          "rating": "GOOD",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71d+BXoqZCL.jpg",
+          "url": "https://www.amazon.com/dp/B0C6QKHDD8?th=1&linkCode=sl2&tag=noya0b-20&linkId=046fd6f5d279bf1985491c38298160e4&language=en_US"
+        },
+        {
+          "asin": "B00O59ZR32",
+          "slug": "-precious-moments-birthday-train-tiger-age-16-16-and-feline",
+          "title": "\udecd️ Precious Moments Birthday Train Tiger, Age 16, 16 And Feline Fine, Birthday Gift for 16 Year Old Boys and Girls, Bisq",
+          "price": "$40.00",
+          "discount": 15,
+          "rating": "GOOD",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61GO-O-PJNL.jpg",
+          "url": "https://www.amazon.com/dp/B00O59ZR32?th=1&linkCode=sl2&tag=noya0b-20&linkId=616226f3ca4ff4cc353f8c843777a04b&language=en_US"
+        },
+        {
           "asin": "B082SPK6R3",
           "slug": "-little-donkey-andy-mens-lightweight-softshell-vest-windproo",
           "title": "\udecd️ Little Donkey Andy Men's Lightweight Softshell Vest Windproof Sleeveless Jacket for Travel Hiking Running Golf",
@@ -225,28 +241,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61CZ3DhSGtL.jpg",
           "url": "https://www.amazon.com/dp/B09Z36WRD2?th=1&linkCode=sl2&tag=noya0b-20&linkId=0448dd4e3225d7a7c8b30cc9da24781a&language=en_US"
-        },
-        {
-          "asin": "B09MQ7R1D8",
-          "slug": "-cardo-systems-spirit-motorcycle-bluetooth-communication-hea",
-          "title": "\udecd️ Cardo Systems Spirit Motorcycle Bluetooth Communication Headset, 2-Way Bluetooth, Thin 32mm Speakers, Waterproof, Uni",
-          "price": "$98.95",
-          "discount": 10,
-          "rating": "GOOD",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51GNePhdpbL.jpg",
-          "url": "https://www.amazon.com/dp/B09MQ7R1D8?th=1&linkCode=sl2&tag=noya0b-20&linkId=16fcea055173e6905edb6074e1b723ff&language=en_US"
-        },
-        {
-          "asin": "B09B7YS1VK",
-          "slug": "-dirty-labs-signature-scent-bio-liquid-laundry-detergent-80",
-          "title": "\udecd️ Dirty Labs | Signature Scent Bio-Liquid Laundry Detergent 80 Loads (21.6 fl oz) Hyper-Concentrated High Efficiency & ",
-          "price": "$29.00",
-          "discount": 10,
-          "rating": "GOOD",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/61jSkQDn74L.jpg",
-          "url": "https://www.amazon.com/dp/B09B7YS1VK?th=1&linkCode=sl2&tag=noya0b-20&linkId=b791c9b1d1338a0037378fd0e0e9caf6&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-07T05:50:01.979Z",
-      "updatedAt": "2026-07-07T05:50:01.979Z"
+      "generatedAt": "2026-07-07T06:00:01.288Z",
+      "updatedAt": "2026-07-07T06:00:01.288Z"
     },
     {
       "date": "2026-07-06",
@@ -7851,5 +7845,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-07T05:50:01.982Z"
+  "generatedAt": "2026-07-07T06:00:01.290Z"
 }
