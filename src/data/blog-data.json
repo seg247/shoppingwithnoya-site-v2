@@ -12,7 +12,8 @@
         "Home & Kitchen",
         "Cleaning Supplies",
         "Fashion",
-        "Electronics"
+        "Electronics",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -74,17 +75,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81Bjrs0b69L.jpg",
             "url": "https://www.amazon.com/dp/B0F92JPR7C?th=1&linkCode=sl2&tag=noya0b-20&linkId=26620700a8838135bd55507d9bbd7d15&language=en_US"
-          },
-          {
-            "asin": "B087N7QYN1",
-            "slug": "-okeeffes-for-healthy-feet-foot-cream-64-oz-jar-1-pack-guara",
-            "title": "\udecd️ O'Keeffe's for Healthy Feet Foot Cream - 6.4 oz Jar (1 Pack) - Guaranteed Relief for Extremely Cracked, Dry Feet, Rep",
-            "price": "$11.90",
-            "discount": 30,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81EsRJaGmoL.jpg",
-            "url": "https://www.amazon.com/dp/B087N7QYN1?th=1&linkCode=sl2&tag=noya0b-20&linkId=83ddd1b173ae18d9b034627923aed334&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -137,6 +127,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/41izh9uvKPL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GKV8LC6N?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b7eb8dbad3544678b68bd052a3cfc8e&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B003433WXC",
+            "slug": "go-score-select-snacks-for-an-extra-30-off-lots-are-on-sale",
+            "title": "Go score select snacks for an extra 30% off!! lots are on sale + attaching to other promos!",
+            "price": "$3.24",
+            "discount": 30,
+            "rating": "HOT",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71J5hGuOBEL.jpg",
+            "url": "https://www.amazon.com/dp/B003433WXC?tag=noya0b-20"
           }
         ]
       },
@@ -241,15 +244,15 @@
           "url": "https://www.amazon.com/dp/B0GKV8LC6N?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b7eb8dbad3544678b68bd052a3cfc8e&language=en_US"
         },
         {
-          "asin": "B087N7QYN1",
-          "slug": "-okeeffes-for-healthy-feet-foot-cream-64-oz-jar-1-pack-guara",
-          "title": "\udecd️ O'Keeffe's for Healthy Feet Foot Cream - 6.4 oz Jar (1 Pack) - Guaranteed Relief for Extremely Cracked, Dry Feet, Rep",
-          "price": "$11.90",
+          "asin": "B003433WXC",
+          "slug": "go-score-select-snacks-for-an-extra-30-off-lots-are-on-sale",
+          "title": "Go score select snacks for an extra 30% off!! lots are on sale + attaching to other promos!",
+          "price": "$3.24",
           "discount": 30,
           "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81EsRJaGmoL.jpg",
-          "url": "https://www.amazon.com/dp/B087N7QYN1?th=1&linkCode=sl2&tag=noya0b-20&linkId=83ddd1b173ae18d9b034627923aed334&language=en_US"
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71J5hGuOBEL.jpg",
+          "url": "https://www.amazon.com/dp/B003433WXC?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-07T01:30:01.915Z",
-      "updatedAt": "2026-07-07T01:30:01.916Z"
+      "generatedAt": "2026-07-07T01:40:01.623Z",
+      "updatedAt": "2026-07-07T01:40:01.623Z"
     },
     {
       "date": "2026-07-05",
@@ -7577,5 +7580,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-07T01:30:01.919Z"
+  "generatedAt": "2026-07-07T01:40:01.626Z"
 }
