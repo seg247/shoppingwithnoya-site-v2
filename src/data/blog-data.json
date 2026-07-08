@@ -10,6 +10,7 @@
         "Health",
         "Home & Kitchen",
         "Beauty",
+        "Grocery & Food",
         "Electronics"
       ],
       "byCategory": {
@@ -37,7 +38,57 @@
             "url": "https://www.amazon.com/dp/B0063X0KOY?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae60756867e3194e4142de18fbcf473f&language=en_US"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0G8LN71W6",
+            "slug": "bubba-52-oz-insulated-stainless-steel-water-keg-large-reusab",
+            "title": "✨bubba 52 oz Insulated Stainless Steel Water Keg - Large Reusable Water Bottle Drinking Jug - Insulated Keg for Everyday",
+            "price": "$27.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Y175tcoWL.jpg",
+            "url": "https://www.amazon.com/dp/B0G8LN71W6?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=87c4e23624a696f833cfea69c8f9c8bd&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FPM7GPLH",
+            "slug": "elf-skin-best-obsessed-skincare-kit-travel-size-makeup-remov",
+            "title": "✨e.l.f. SKIN Best & Obsessed Skincare Kit, Travel-Size Makeup Remover, Sunscreen & Brightening Serums For Glowy Skin, Ve",
+            "price": "$15.64",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PZH79rs8L.jpg",
+            "url": "https://www.amazon.com/dp/B0FPM7GPLH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e908c2ab9ac900612511d326694162b9&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B07HFWFQKJ",
+            "slug": "quest-nutrition-peanut-butter-chocolate-chip-high-protein-co",
+            "title": "✨Quest Nutrition Peanut Butter Chocolate Chip High Protein Cookie, Keto Friendly, Low Carb, 24.5 Oz, 12 count (Pack of 1",
+            "price": "$15.63",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07HFWFQKJ?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1734e6bc9856e4d1fa43d7b9bb6e7a94&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0D78SW8JN",
+            "slug": "lazy-chair-with-folding-ottoman-accent-chair-velvet-upholste",
+            "title": "✨Lazy Chair with Folding Ottoman, Accent Chair Velvet Upholstered with Metal Structure and Non-Slip Pads, Sofa Armchair ",
+            "price": "$116.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71etMR5ntLL.jpg",
+            "url": "https://www.amazon.com/dp/B0D78SW8JN?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bc73f97e6b6a713296e40db5e4f56e66&language=en_US"
+          },
           {
             "asin": "B0CLXQBYMG",
             "slug": "astroai-airun-h1-tire-inflator-portable-air-compressorfast-i",
@@ -70,67 +121,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/91bxGNb7YyL.jpg",
             "url": "https://www.amazon.com/dp/B09VS6DHBK?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=742f90f73eae9b0575cfe8f860f6a601&language=en_US"
-          },
-          {
-            "asin": "B0GHMYC99D",
-            "slug": "5x7-area-rugs-living-room-washable-large-vintage-rug-neutral",
-            "title": "✨5X7 Area Rugs Living Room: Washable Large Vintage Rug Neutral Non-Slip Soft Stain Resistant Indoor Carpet for Bedroom N",
-            "price": "$38.69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JwgONXQjL.jpg",
-            "url": "https://www.amazon.com/dp/B0GHMYC99D?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d5e14861daea24c386735c8b91f167cf&language=en_US"
-          },
-          {
-            "asin": "B00DEYEREY",
-            "slug": "boiron-arnicare-cream-for-joint-pain-muscle-pain-swelling-so",
-            "title": "✨Boiron Arnicare Cream for Joint Pain, Muscle Pain, Swelling, Soreness, Stiffness, and Bruises - Fast Absorbing and Frag",
-            "price": "$8.48",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71KQKYeglQL.jpg",
-            "url": "https://www.amazon.com/dp/B00DEYEREY?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=813590aecd2afb2e30682b7b862e8d6a&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07BRHZDXN",
-            "slug": "homichef-commercial-grade-large-stock-pot-20-quart-with-lid",
-            "title": "✨HOMICHEF Commercial Grade LARGE STOCK POT 20 Quart With Lid - Nickel Free Stainless Steel Cookware - Healthy Polished S",
-            "price": "$71.24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51tN+PrZmhL.jpg",
-            "url": "https://www.amazon.com/dp/B07BRHZDXN?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e6c9ae34303d8ef5363e55500c56f1dd&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0037Z6VJY",
-            "slug": "veterinary-formula-clinical-care-antiseptic-and-antifungal-m",
-            "title": "✨Veterinary Formula Clinical Care Antiseptic and Antifungal Medicated Shampoo for Dogs & Cats, 16 Fl Oz – Helps Alleviat",
-            "price": "$9.92",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/618vQo0izpL.jpg",
-            "url": "https://www.amazon.com/dp/B0037Z6VJY?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c4ffaa4f53a6ad371f13f18ba2736ec8&language=en_US"
           }
         ],
         "Electronics": [
           {
-            "asin": "B099284SRR",
-            "slug": "anker-621-magnetic-portable-charger-maggo-5000mah-wireless-p",
-            "title": "✨Anker 621 Magnetic Portable Charger (MagGo), 5,000mAh Wireless Power Bank with USB-C Cable, Magsafe-Compatible Battery ",
-            "price": "$30.99",
+            "asin": "B091FXQQMQ",
+            "slug": "kasa-smart-plug-ultra-mini-15a-smart-home-wi-fi-outlet-works",
+            "title": "✨Kasa Smart Plug Ultra Mini 15A, Smart Home Wi-Fi Outlet Works with Alexa, Google Home, No Hub Required, UL Certified, 2",
+            "price": "$16.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71IVZ0B-lQL.jpg",
-            "url": "https://www.amazon.com/dp/B099284SRR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5f63cee714dd06368d060b1e117ce746&language=en_US"
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B091FXQQMQ?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e96626cf6af9e14a943b8ad19c3b59dd&language=en_US"
           }
         ]
       },
@@ -156,6 +159,61 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71NmCs7+SsL.jpg",
           "url": "https://www.amazon.com/dp/B0063X0KOY?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae60756867e3194e4142de18fbcf473f&language=en_US"
+        },
+        {
+          "asin": "B0G8LN71W6",
+          "slug": "bubba-52-oz-insulated-stainless-steel-water-keg-large-reusab",
+          "title": "✨bubba 52 oz Insulated Stainless Steel Water Keg - Large Reusable Water Bottle Drinking Jug - Insulated Keg for Everyday",
+          "price": "$27.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Y175tcoWL.jpg",
+          "url": "https://www.amazon.com/dp/B0G8LN71W6?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=87c4e23624a696f833cfea69c8f9c8bd&language=en_US"
+        },
+        {
+          "asin": "B0FPM7GPLH",
+          "slug": "elf-skin-best-obsessed-skincare-kit-travel-size-makeup-remov",
+          "title": "✨e.l.f. SKIN Best & Obsessed Skincare Kit, Travel-Size Makeup Remover, Sunscreen & Brightening Serums For Glowy Skin, Ve",
+          "price": "$15.64",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71PZH79rs8L.jpg",
+          "url": "https://www.amazon.com/dp/B0FPM7GPLH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e908c2ab9ac900612511d326694162b9&language=en_US"
+        },
+        {
+          "asin": "B07HFWFQKJ",
+          "slug": "quest-nutrition-peanut-butter-chocolate-chip-high-protein-co",
+          "title": "✨Quest Nutrition Peanut Butter Chocolate Chip High Protein Cookie, Keto Friendly, Low Carb, 24.5 Oz, 12 count (Pack of 1",
+          "price": "$15.63",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07HFWFQKJ?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1734e6bc9856e4d1fa43d7b9bb6e7a94&language=en_US"
+        },
+        {
+          "asin": "B0D78SW8JN",
+          "slug": "lazy-chair-with-folding-ottoman-accent-chair-velvet-upholste",
+          "title": "✨Lazy Chair with Folding Ottoman, Accent Chair Velvet Upholstered with Metal Structure and Non-Slip Pads, Sofa Armchair ",
+          "price": "$116.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71etMR5ntLL.jpg",
+          "url": "https://www.amazon.com/dp/B0D78SW8JN?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bc73f97e6b6a713296e40db5e4f56e66&language=en_US"
+        },
+        {
+          "asin": "B091FXQQMQ",
+          "slug": "kasa-smart-plug-ultra-mini-15a-smart-home-wi-fi-outlet-works",
+          "title": "✨Kasa Smart Plug Ultra Mini 15A, Smart Home Wi-Fi Outlet Works with Alexa, Google Home, No Hub Required, UL Certified, 2",
+          "price": "$16.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B091FXQQMQ?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e96626cf6af9e14a943b8ad19c3b59dd&language=en_US"
         },
         {
           "asin": "B0CLXQBYMG",
@@ -189,61 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/91bxGNb7YyL.jpg",
           "url": "https://www.amazon.com/dp/B09VS6DHBK?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=742f90f73eae9b0575cfe8f860f6a601&language=en_US"
-        },
-        {
-          "asin": "B0GHMYC99D",
-          "slug": "5x7-area-rugs-living-room-washable-large-vintage-rug-neutral",
-          "title": "✨5X7 Area Rugs Living Room: Washable Large Vintage Rug Neutral Non-Slip Soft Stain Resistant Indoor Carpet for Bedroom N",
-          "price": "$38.69",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JwgONXQjL.jpg",
-          "url": "https://www.amazon.com/dp/B0GHMYC99D?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d5e14861daea24c386735c8b91f167cf&language=en_US"
-        },
-        {
-          "asin": "B07BRHZDXN",
-          "slug": "homichef-commercial-grade-large-stock-pot-20-quart-with-lid",
-          "title": "✨HOMICHEF Commercial Grade LARGE STOCK POT 20 Quart With Lid - Nickel Free Stainless Steel Cookware - Healthy Polished S",
-          "price": "$71.24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51tN+PrZmhL.jpg",
-          "url": "https://www.amazon.com/dp/B07BRHZDXN?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e6c9ae34303d8ef5363e55500c56f1dd&language=en_US"
-        },
-        {
-          "asin": "B0037Z6VJY",
-          "slug": "veterinary-formula-clinical-care-antiseptic-and-antifungal-m",
-          "title": "✨Veterinary Formula Clinical Care Antiseptic and Antifungal Medicated Shampoo for Dogs & Cats, 16 Fl Oz – Helps Alleviat",
-          "price": "$9.92",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/618vQo0izpL.jpg",
-          "url": "https://www.amazon.com/dp/B0037Z6VJY?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c4ffaa4f53a6ad371f13f18ba2736ec8&language=en_US"
-        },
-        {
-          "asin": "B00DEYEREY",
-          "slug": "boiron-arnicare-cream-for-joint-pain-muscle-pain-swelling-so",
-          "title": "✨Boiron Arnicare Cream for Joint Pain, Muscle Pain, Swelling, Soreness, Stiffness, and Bruises - Fast Absorbing and Frag",
-          "price": "$8.48",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71KQKYeglQL.jpg",
-          "url": "https://www.amazon.com/dp/B00DEYEREY?lv=shuf&redirect=true&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=813590aecd2afb2e30682b7b862e8d6a&language=en_US"
-        },
-        {
-          "asin": "B099284SRR",
-          "slug": "anker-621-magnetic-portable-charger-maggo-5000mah-wireless-p",
-          "title": "✨Anker 621 Magnetic Portable Charger (MagGo), 5,000mAh Wireless Power Bank with USB-C Cable, Magsafe-Compatible Battery ",
-          "price": "$30.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71IVZ0B-lQL.jpg",
-          "url": "https://www.amazon.com/dp/B099284SRR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5f63cee714dd06368d060b1e117ce746&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-08T04:20:01.595Z",
-      "updatedAt": "2026-07-08T04:20:01.595Z"
+      "generatedAt": "2026-07-08T04:30:01.251Z",
+      "updatedAt": "2026-07-08T04:30:01.251Z"
     },
     {
       "date": "2026-07-07",
@@ -8116,5 +8119,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-08T04:20:01.598Z"
+  "generatedAt": "2026-07-08T04:30:01.254Z"
 }
