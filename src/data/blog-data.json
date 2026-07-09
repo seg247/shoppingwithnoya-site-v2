@@ -8,7 +8,8 @@
       "categories": [
         "Other",
         "Home & Kitchen",
-        "Toys & Kids"
+        "Toys & Kids",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -79,17 +80,19 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/81rC5K+DQLL.jpg",
             "url": "https://www.amazon.com/dp/B0FLG9P6D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=6d618721eae06dc7b3586b484902d621&language=en_US"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0FDVDJ2NX",
-            "slug": "-joyin-50-pcs-mini-pull-back-cars-bulk-toy-cars-party-favors",
-            "title": "\udecd️ JOYIN 50 Pcs Mini Pull Back Cars, Bulk Toy Cars Party Favors for Kids 8-12, Treasure Box Prizes for Classroom, Pinata",
-            "price": "$8.99",
-            "discount": 44,
-            "rating": "HOT",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/91NFlW-k6kL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDVDJ2NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=12d7738a8716e02ac94e3d2812b38c2f&language=en_US"
+            "asin": "B00NJ2M43M",
+            "slug": "-sony-zx-series-wired-on-ear-headphones-white-mdr-zx110",
+            "title": "\udecd️ Sony ZX Series Wired On-Ear Headphones, White MDR-ZX110",
+            "price": "$9.99",
+            "discount": 60,
+            "rating": "FIRE",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00NJ2M43M?th=1&linkCode=sl2&tag=noya0b-20&linkId=bdf0a60ac21b19f893807ca891046d34&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -150,6 +153,17 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81rC5K+DQLL.jpg",
           "url": "https://www.amazon.com/dp/B0FLG9P6D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=6d618721eae06dc7b3586b484902d621&language=en_US"
+        },
+        {
+          "asin": "B00NJ2M43M",
+          "slug": "-sony-zx-series-wired-on-ear-headphones-white-mdr-zx110",
+          "title": "\udecd️ Sony ZX Series Wired On-Ear Headphones, White MDR-ZX110",
+          "price": "$9.99",
+          "discount": 60,
+          "rating": "FIRE",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00NJ2M43M?th=1&linkCode=sl2&tag=noya0b-20&linkId=bdf0a60ac21b19f893807ca891046d34&language=en_US"
         },
         {
           "asin": "B002RS6JSA",
@@ -227,17 +241,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51XhV5o+KLL.jpg",
           "url": "https://www.amazon.com/dp/B001B197II?th=1&linkCode=sl2&tag=noya0b-20&linkId=538eac44f80c4037e8063914aeb6a6bb&language=en_US"
-        },
-        {
-          "asin": "B0FDVDJ2NX",
-          "slug": "-joyin-50-pcs-mini-pull-back-cars-bulk-toy-cars-party-favors",
-          "title": "\udecd️ JOYIN 50 Pcs Mini Pull Back Cars, Bulk Toy Cars Party Favors for Kids 8-12, Treasure Box Prizes for Classroom, Pinata",
-          "price": "$8.99",
-          "discount": 44,
-          "rating": "HOT",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/91NFlW-k6kL.jpg",
-          "url": "https://www.amazon.com/dp/B0FDVDJ2NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=12d7738a8716e02ac94e3d2812b38c2f&language=en_US"
         }
       ],
       "faq": [
@@ -262,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-09T09:20:00.491Z",
-      "updatedAt": "2026-07-09T09:20:00.491Z"
+      "generatedAt": "2026-07-09T09:30:01.147Z",
+      "updatedAt": "2026-07-09T09:30:01.147Z"
     },
     {
       "date": "2026-07-08",
@@ -8384,5 +8387,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-09T09:20:00.494Z"
+  "generatedAt": "2026-07-09T09:30:01.149Z"
 }
