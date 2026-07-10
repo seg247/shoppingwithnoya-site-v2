@@ -10,9 +10,9 @@
         "Toys & Kids",
         "Garden & Outdoor",
         "Grocery & Food",
+        "Beauty",
         "Cleaning Supplies",
-        "Electronics",
-        "Other"
+        "Electronics"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -100,6 +100,19 @@
             "url": "https://www.amazon.com/dp/B00O56Q4SC?th=1&linkCode=sl2&tag=noya0b-20&linkId=da1248c7963319468ecd84c434d5c353&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0DKJ347ZJ",
+            "slug": "-dalba-piedmont-italian-white-truffle-waterfull-essence-suns",
+            "title": "\udecd️ d'alba Piedmont Italian White Truffle Waterfull Essence Sunscreen, Vegan Skincare, Lightweight Sunscreen with BROAD S",
+            "price": "$15.99",
+            "discount": 43,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
+            "url": "https://www.amazon.com/dp/B0DKJ347ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=695a9dbb1adb6d754ae518cdc5409417&language=en_US"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0CP4L14KR",
@@ -124,19 +137,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61b6z5Hc+qL.jpg",
             "url": "https://www.amazon.com/dp/B071HVWD55?th=1&linkCode=sl2&tag=noya0b-20&linkId=d0a0e0089f2bf135c952512927b03bd3&language=en_US"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B08PZ7DWJH",
-            "slug": "-nutrichef-electric-countertop-food-dehydrator-900-watt-prem",
-            "title": "\udecd️ NutriChef Electric Countertop Food Dehydrator -900-Watt Premium Multi-Tier Meat Beef Jerky Maker Fruit/Vegetable Drye",
-            "price": "$176.32",
-            "discount": 31,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71iYlbmgieL.jpg",
-            "url": "https://www.amazon.com/dp/B08PZ7DWJH?th=1&linkCode=sl2&tag=noya0b-20&linkId=3346fc79f8e1b80b5d378e8e84f6fb15&language=en_US"
           }
         ]
       },
@@ -184,6 +184,17 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/91Q3SKeiD2L.jpg",
           "url": "https://www.amazon.com/dp/B00O56Q4SC?th=1&linkCode=sl2&tag=noya0b-20&linkId=da1248c7963319468ecd84c434d5c353&language=en_US"
+        },
+        {
+          "asin": "B0DKJ347ZJ",
+          "slug": "-dalba-piedmont-italian-white-truffle-waterfull-essence-suns",
+          "title": "\udecd️ d'alba Piedmont Italian White Truffle Waterfull Essence Sunscreen, Vegan Skincare, Lightweight Sunscreen with BROAD S",
+          "price": "$15.99",
+          "discount": 43,
+          "rating": "HOT",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
+          "url": "https://www.amazon.com/dp/B0DKJ347ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=695a9dbb1adb6d754ae518cdc5409417&language=en_US"
         },
         {
           "asin": "B07JPYCH7F",
@@ -239,17 +250,6 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81raEjN8+OL.jpg",
           "url": "https://www.amazon.com/dp/B0DD2VRZT4?th=1&linkCode=sl2&tag=noya0b-20&linkId=de2acc43392ca26a169934f3b3f0ee96&language=en_US"
-        },
-        {
-          "asin": "B08PZ7DWJH",
-          "slug": "-nutrichef-electric-countertop-food-dehydrator-900-watt-prem",
-          "title": "\udecd️ NutriChef Electric Countertop Food Dehydrator -900-Watt Premium Multi-Tier Meat Beef Jerky Maker Fruit/Vegetable Drye",
-          "price": "$176.32",
-          "discount": 31,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71iYlbmgieL.jpg",
-          "url": "https://www.amazon.com/dp/B08PZ7DWJH?th=1&linkCode=sl2&tag=noya0b-20&linkId=3346fc79f8e1b80b5d378e8e84f6fb15&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-10T07:10:01.286Z",
-      "updatedAt": "2026-07-10T07:10:01.287Z"
+      "generatedAt": "2026-07-10T07:20:01.258Z",
+      "updatedAt": "2026-07-10T07:20:01.258Z"
     },
     {
       "date": "2026-07-09",
@@ -8670,5 +8670,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-10T07:10:01.289Z"
+  "generatedAt": "2026-07-10T07:20:01.261Z"
 }
