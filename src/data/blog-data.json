@@ -9,8 +9,8 @@
         "Toys & Kids",
         "Other",
         "Electronics",
-        "Beauty",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -61,6 +61,30 @@
             "url": "https://www.amazon.com/dp/B09D55YMC1?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae0306754f162dee7a444e3708563739&language=en_US"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0F3DQPLSP",
+            "slug": "-yankee-candle-sage-citrus-scented-candle-22oz-large-jar-wit",
+            "title": "\udecd️ Yankee Candle Sage & Citrus, Scented Candle, 22oz Large Jar with up to 150 Hour Burn Time, Giftable, Birthdays",
+            "price": "$14.24",
+            "discount": 59,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0F3DQPLSP?th=1&linkCode=sl2&tag=noya0b-20&linkId=e822528af035b1fa9c1bec25773176b5&language=en_US"
+          },
+          {
+            "asin": "B0D9MP33QB",
+            "slug": "-mr-coffee-express-cold-brew-coffee-maker-10-minute-cold-bre",
+            "title": "\udecd️ Mr. Coffee® Express Cold Brew Coffee Maker, 10-Minute Cold Brew Coffee Machine, Sake",
+            "price": "$37.93",
+            "discount": 58,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0D9MP33QB?th=1&linkCode=sl2&tag=noya0b-20&linkId=c5830ddde7aa5bcb6325ff0f2201fca1&language=en_US"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B01AXQP6AE",
@@ -72,19 +96,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71xMIZgC-TL.jpg",
             "url": "https://www.amazon.com/dp/B01AXQP6AE?th=1&linkCode=sl2&tag=noya0b-20&linkId=5c92d61c144cfe5402af2cd86cc8e788&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0D9MP33QB",
-            "slug": "-mr-coffee-express-cold-brew-coffee-maker-10-minute-cold-bre",
-            "title": "\udecd️ Mr. Coffee® Express Cold Brew Coffee Maker, 10-Minute Cold Brew Coffee Machine, Sake",
-            "price": "$37.93",
-            "discount": 58,
-            "rating": "FIRE",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D9MP33QB?th=1&linkCode=sl2&tag=noya0b-20&linkId=c5830ddde7aa5bcb6325ff0f2201fca1&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -120,17 +131,6 @@
             "category": "Toys & Kids",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D7NKNJDG?linkCode=sl2&tag=noya0b-20&linkId=f7b449f73e98b7859548af1c92a3570d&language=en_US"
-          },
-          {
-            "asin": "B09R6NHW8Q",
-            "slug": "-flybar-funpark-6v-bumper-car-for-toddlers-electric-toddler",
-            "title": "\udecd️ Flybar FunPark 6V Bumper Car for Toddlers, Electric Toddler Ride On Toys for Kids, Baby, Ages 1.5-4 Years, LED Lights",
-            "price": "$60.00",
-            "discount": 54,
-            "rating": "FIRE",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/5121gzGg27L.jpg",
-            "url": "https://www.amazon.com/dp/B09R6NHW8Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=54d3668d237044b9d1b473f74642677c&language=en_US"
           }
         ]
       },
@@ -167,6 +167,17 @@
           "category": "Electronics",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00NJ2M43M?th=1&linkCode=sl2&tag=noya0b-20&linkId=bc3252f21ff3034bc1112275d17dcfc3&language=en_US"
+        },
+        {
+          "asin": "B0F3DQPLSP",
+          "slug": "-yankee-candle-sage-citrus-scented-candle-22oz-large-jar-wit",
+          "title": "\udecd️ Yankee Candle Sage & Citrus, Scented Candle, 22oz Large Jar with up to 150 Hour Burn Time, Giftable, Birthdays",
+          "price": "$14.24",
+          "discount": 59,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0F3DQPLSP?th=1&linkCode=sl2&tag=noya0b-20&linkId=e822528af035b1fa9c1bec25773176b5&language=en_US"
         },
         {
           "asin": "B01AXQP6AE",
@@ -233,17 +244,6 @@
           "category": "Toys & Kids",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D7NKNJDG?linkCode=sl2&tag=noya0b-20&linkId=f7b449f73e98b7859548af1c92a3570d&language=en_US"
-        },
-        {
-          "asin": "B09R6NHW8Q",
-          "slug": "-flybar-funpark-6v-bumper-car-for-toddlers-electric-toddler",
-          "title": "\udecd️ Flybar FunPark 6V Bumper Car for Toddlers, Electric Toddler Ride On Toys for Kids, Baby, Ages 1.5-4 Years, LED Lights",
-          "price": "$60.00",
-          "discount": 54,
-          "rating": "FIRE",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/5121gzGg27L.jpg",
-          "url": "https://www.amazon.com/dp/B09R6NHW8Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=54d3668d237044b9d1b473f74642677c&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-10T18:20:02.178Z",
-      "updatedAt": "2026-07-10T18:20:02.178Z"
+      "generatedAt": "2026-07-10T18:30:02.052Z",
+      "updatedAt": "2026-07-10T18:30:02.052Z"
     },
     {
       "date": "2026-07-09",
@@ -8664,5 +8664,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-10T18:20:02.181Z"
+  "generatedAt": "2026-07-10T18:30:02.054Z"
 }
