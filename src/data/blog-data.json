@@ -10,6 +10,7 @@
         "Electronics",
         "Home & Kitchen",
         "Toys & Kids",
+        "Fashion",
         "Garden & Outdoor"
       ],
       "byCategory": {
@@ -24,17 +25,6 @@
             "category": "Home & Kitchen",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D9MP33QB?th=1&linkCode=sl2&tag=noya0b-20&linkId=c5830ddde7aa5bcb6325ff0f2201fca1&language=en_US"
-          },
-          {
-            "asin": "B0D123LQ45",
-            "slug": "-american-soft-linen-100-cotton-luxury-turkish-towels-3-piec",
-            "title": "\udecd️ American Soft Linen 100% Cotton Luxury Turkish Towels, 3 Piece Towel Set | Soft Absorbent Quick Dry OEKO Tex Standard",
-            "price": "$24.99",
-            "discount": 16,
-            "rating": "GOOD",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D123LQ45?th=1&linkCode=sl2&tag=noya0b-20&linkId=036a80f53df8a7e7ae0b603d91ba74c1&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -120,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B0DD2VRZT4?th=1&linkCode=sl2&tag=noya0b-20&linkId=de2acc43392ca26a169934f3b3f0ee96&language=en_US"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0CTMB9NPV",
+            "slug": "-rockdove-mens-original-two-tone-memory-foam-slipper",
+            "title": "\udecd️ RockDove Men's Original Two-Tone Memory Foam Slipper",
+            "price": "$24.99",
+            "discount": 29,
+            "rating": "WARM",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81FBcEhnHzL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CTMB9NPV?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=cb03c45281adc837388b2be8ebfa2954&language=en_US"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0FP99QGNW",
@@ -180,6 +183,17 @@
           "url": "https://www.amazon.com/dp/B0DD2VRZT4?th=1&linkCode=sl2&tag=noya0b-20&linkId=de2acc43392ca26a169934f3b3f0ee96&language=en_US"
         },
         {
+          "asin": "B0CTMB9NPV",
+          "slug": "-rockdove-mens-original-two-tone-memory-foam-slipper",
+          "title": "\udecd️ RockDove Men's Original Two-Tone Memory Foam Slipper",
+          "price": "$24.99",
+          "discount": 29,
+          "rating": "WARM",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FBcEhnHzL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CTMB9NPV?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=cb03c45281adc837388b2be8ebfa2954&language=en_US"
+        },
+        {
           "asin": "B0BRMJ2MYW",
           "slug": "-phomemo-tattoo-stencil-printer-m08f-bluetooth-thermal-tatto",
           "title": "\udecd️ Phomemo Tattoo Stencil Printer, M08F Bluetooth Thermal Tattoo Printer with 10pcs Transfer Paper, Compatible with Phon",
@@ -233,17 +247,6 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01B7HSI76?th=1&linkCode=sl2&tag=noya0b-20&linkId=348504434dca7ef280e8b5486a37f55a&language=en_US"
-        },
-        {
-          "asin": "B0D123LQ45",
-          "slug": "-american-soft-linen-100-cotton-luxury-turkish-towels-3-piec",
-          "title": "\udecd️ American Soft Linen 100% Cotton Luxury Turkish Towels, 3 Piece Towel Set | Soft Absorbent Quick Dry OEKO Tex Standard",
-          "price": "$24.99",
-          "discount": 16,
-          "rating": "GOOD",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D123LQ45?th=1&linkCode=sl2&tag=noya0b-20&linkId=036a80f53df8a7e7ae0b603d91ba74c1&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-10T04:50:01.837Z",
-      "updatedAt": "2026-07-10T04:50:01.837Z"
+      "generatedAt": "2026-07-10T05:00:01.851Z",
+      "updatedAt": "2026-07-10T05:00:01.851Z"
     },
     {
       "date": "2026-07-09",
@@ -8664,5 +8667,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-10T04:50:01.839Z"
+  "generatedAt": "2026-07-10T05:00:01.854Z"
 }
