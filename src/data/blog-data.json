@@ -9,9 +9,11 @@
         "Grocery & Food",
         "Electronics",
         "Home & Kitchen",
+        "Cleaning Supplies",
         "Toys & Kids",
         "Fashion",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Beauty"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -49,17 +51,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/7158U7kkK8L.jpg",
             "url": "https://www.amazon.com/dp/B0BRMHJK9R?th=1&linkCode=sl2&tag=noya0b-20&linkId=c537c5e5009abf93c35e00f0fe00d523&language=en_US"
-          },
+          }
+        ],
+        "Cleaning Supplies": [
           {
-            "asin": "B01B7HSI76",
-            "slug": "-oxo-good-grips-small-citrus-juicer",
-            "title": "\udecd️ OXO Good Grips Small Citrus Juicer",
-            "price": "$11.99",
-            "discount": 20,
-            "rating": "WARM",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01B7HSI76?th=1&linkCode=sl2&tag=noya0b-20&linkId=348504434dca7ef280e8b5486a37f55a&language=en_US"
+            "asin": "B0CP4L14KR",
+            "slug": "-lenox-dinnerware-set-peanuts-easter-snoopy-4-piece-accent-p",
+            "title": "\udecd️ Lenox Dinnerware Set, Peanuts Easter Snoopy 4-Piece Accent Plates Set, Service For 4, Porcelain Plates, Dishwasher & ",
+            "price": "$32.99",
+            "discount": 34,
+            "rating": "HOT",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WWOC1UuDL.jpg",
+            "url": "https://www.amazon.com/dp/B0CP4L14KR?th=1&linkCode=sl2&tag=noya0b-20&linkId=68a2897011f3e6d96e2878f3c2fdd84d&language=en_US"
           }
         ],
         "Electronics": [
@@ -84,17 +88,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71pNpZVE6pL.jpg",
             "url": "https://www.amazon.com/dp/B0BRMJ2MYW?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b6198915924adb7a4339e72f45a6546&language=en_US"
-          },
-          {
-            "asin": "B0CRGJC5ZD",
-            "slug": "-samsung-32-odyssey-g55c-series-qhd-1000r-curved-gaming-moni",
-            "title": "\udecd️ SAMSUNG 32\" Odyssey G55C Series QHD 1000R Curved Gaming Monitor, 1ms(MPRT), HDR10, 165Hz, AMD Radeon FreeSync, Eye Ca",
-            "price": "$249.99",
-            "discount": 24,
-            "rating": "WARM",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CRGJC5ZD?th=1&linkCode=sl2&tag=noya0b-20&linkId=4bdc8a22a642e3f661d66338cb539709&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -135,6 +128,19 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71v9uaU-VIL.jpg",
             "url": "https://www.amazon.com/dp/B0FP99QGNW?th=1&linkCode=sl2&tag=noya0b-20&linkId=8e157ba0e4c46729b4328be7edd275b5&language=en_US"
           }
+        ],
+        "Beauty": [
+          {
+            "asin": "B07BYJF7L7",
+            "slug": "-some-by-mi-aha-bha-pha-30-days-miracle-toner-507oz-150ml-ko",
+            "title": "\udecd️ SOME BY MI AHA BHA PHA 30 Days Miracle Toner – 5.07oz, 150ml – Korean Refining Face Toner for All Skin Types – Daily ",
+            "price": "$16.80",
+            "discount": 25,
+            "rating": "WARM",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61QWLWW49uL.jpg",
+            "url": "https://www.amazon.com/dp/B07BYJF7L7?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6e5fb17d3a60ca740acc12b6aba528a&language=en_US"
+          }
         ]
       },
       "deals": [
@@ -159,6 +165,17 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/91Q3SKeiD2L.jpg",
           "url": "https://www.amazon.com/dp/B00O56Q4SC?th=1&linkCode=sl2&tag=noya0b-20&linkId=da1248c7963319468ecd84c434d5c353&language=en_US"
+        },
+        {
+          "asin": "B0CP4L14KR",
+          "slug": "-lenox-dinnerware-set-peanuts-easter-snoopy-4-piece-accent-p",
+          "title": "\udecd️ Lenox Dinnerware Set, Peanuts Easter Snoopy 4-Piece Accent Plates Set, Service For 4, Porcelain Plates, Dishwasher & ",
+          "price": "$32.99",
+          "discount": 34,
+          "rating": "HOT",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WWOC1UuDL.jpg",
+          "url": "https://www.amazon.com/dp/B0CP4L14KR?th=1&linkCode=sl2&tag=noya0b-20&linkId=68a2897011f3e6d96e2878f3c2fdd84d&language=en_US"
         },
         {
           "asin": "B071HVWD55",
@@ -227,26 +244,15 @@
           "url": "https://www.amazon.com/dp/B0FP99QGNW?th=1&linkCode=sl2&tag=noya0b-20&linkId=8e157ba0e4c46729b4328be7edd275b5&language=en_US"
         },
         {
-          "asin": "B0CRGJC5ZD",
-          "slug": "-samsung-32-odyssey-g55c-series-qhd-1000r-curved-gaming-moni",
-          "title": "\udecd️ SAMSUNG 32\" Odyssey G55C Series QHD 1000R Curved Gaming Monitor, 1ms(MPRT), HDR10, 165Hz, AMD Radeon FreeSync, Eye Ca",
-          "price": "$249.99",
-          "discount": 24,
+          "asin": "B07BYJF7L7",
+          "slug": "-some-by-mi-aha-bha-pha-30-days-miracle-toner-507oz-150ml-ko",
+          "title": "\udecd️ SOME BY MI AHA BHA PHA 30 Days Miracle Toner – 5.07oz, 150ml – Korean Refining Face Toner for All Skin Types – Daily ",
+          "price": "$16.80",
+          "discount": 25,
           "rating": "WARM",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0CRGJC5ZD?th=1&linkCode=sl2&tag=noya0b-20&linkId=4bdc8a22a642e3f661d66338cb539709&language=en_US"
-        },
-        {
-          "asin": "B01B7HSI76",
-          "slug": "-oxo-good-grips-small-citrus-juicer",
-          "title": "\udecd️ OXO Good Grips Small Citrus Juicer",
-          "price": "$11.99",
-          "discount": 20,
-          "rating": "WARM",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01B7HSI76?th=1&linkCode=sl2&tag=noya0b-20&linkId=348504434dca7ef280e8b5486a37f55a&language=en_US"
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61QWLWW49uL.jpg",
+          "url": "https://www.amazon.com/dp/B07BYJF7L7?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6e5fb17d3a60ca740acc12b6aba528a&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-10T05:00:01.851Z",
-      "updatedAt": "2026-07-10T05:00:01.851Z"
+      "generatedAt": "2026-07-10T05:10:01.498Z",
+      "updatedAt": "2026-07-10T05:10:01.498Z"
     },
     {
       "date": "2026-07-09",
@@ -8667,5 +8673,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-10T05:00:01.854Z"
+  "generatedAt": "2026-07-10T05:10:01.501Z"
 }
