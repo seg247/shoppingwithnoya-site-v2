@@ -12,8 +12,8 @@
         "Garden & Outdoor",
         "Grocery & Food",
         "Beauty",
-        "Cleaning Supplies",
-        "Electronics"
+        "Electronics",
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -116,6 +116,19 @@
             "url": "https://www.amazon.com/dp/B0DKJ347ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=695a9dbb1adb6d754ae518cdc5409417&language=en_US"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0FBYQHQH1",
+            "slug": "-hisense-40-inch-class-qd4-series-hi-qled-fhd-smart-fire-tv",
+            "title": "\udecd️ Hisense 40-Inch Class QD4 Series Hi-QLED FHD Smart Fire TV (40QD4QF) - Quantum Dot Color, DTS Virtual: X, Alexa Built",
+            "price": "$157.99",
+            "discount": 37,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71v1mNcT6qL.jpg",
+            "url": "https://www.amazon.com/dp/B0FBYQHQH1?th=1&linkCode=sl2&tag=noya0b-20&linkId=0107dd7e0df97a041aa65425b38581a2&language=en_US"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0CP4L14KR",
@@ -127,19 +140,6 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/71WWOC1UuDL.jpg",
             "url": "https://www.amazon.com/dp/B0CP4L14KR?th=1&linkCode=sl2&tag=noya0b-20&linkId=68a2897011f3e6d96e2878f3c2fdd84d&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B071HVWD55",
-            "slug": "-uhuru-wireless-gaming-mouse-up-to-12000-dpi-rechargeable-us",
-            "title": "\udecd️ UHURU Wireless Gaming Mouse Up to 12000 DPI, Rechargeable USB-C Wireless Mouse with 7 Buttons 7 Dynamic LED Color Erg",
-            "price": "$19.99",
-            "discount": 33,
-            "rating": "HOT",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61b6z5Hc+qL.jpg",
-            "url": "https://www.amazon.com/dp/B071HVWD55?th=1&linkCode=sl2&tag=noya0b-20&linkId=d0a0e0089f2bf135c952512927b03bd3&language=en_US"
           }
         ]
       },
@@ -233,6 +233,17 @@
           "url": "https://www.amazon.com/dp/B0G832Q2R5?th=1&linkCode=sl2&tag=noya0b-20&linkId=8878535f35bdcc79b75afe929e09bac1&language=en_US"
         },
         {
+          "asin": "B0FBYQHQH1",
+          "slug": "-hisense-40-inch-class-qd4-series-hi-qled-fhd-smart-fire-tv",
+          "title": "\udecd️ Hisense 40-Inch Class QD4 Series Hi-QLED FHD Smart Fire TV (40QD4QF) - Quantum Dot Color, DTS Virtual: X, Alexa Built",
+          "price": "$157.99",
+          "discount": 37,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71v1mNcT6qL.jpg",
+          "url": "https://www.amazon.com/dp/B0FBYQHQH1?th=1&linkCode=sl2&tag=noya0b-20&linkId=0107dd7e0df97a041aa65425b38581a2&language=en_US"
+        },
+        {
           "asin": "B0CP4L14KR",
           "slug": "-lenox-dinnerware-set-peanuts-easter-snoopy-4-piece-accent-p",
           "title": "\udecd️ Lenox Dinnerware Set, Peanuts Easter Snoopy 4-Piece Accent Plates Set, Service For 4, Porcelain Plates, Dishwasher & ",
@@ -242,17 +253,6 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/71WWOC1UuDL.jpg",
           "url": "https://www.amazon.com/dp/B0CP4L14KR?th=1&linkCode=sl2&tag=noya0b-20&linkId=68a2897011f3e6d96e2878f3c2fdd84d&language=en_US"
-        },
-        {
-          "asin": "B071HVWD55",
-          "slug": "-uhuru-wireless-gaming-mouse-up-to-12000-dpi-rechargeable-us",
-          "title": "\udecd️ UHURU Wireless Gaming Mouse Up to 12000 DPI, Rechargeable USB-C Wireless Mouse with 7 Buttons 7 Dynamic LED Color Erg",
-          "price": "$19.99",
-          "discount": 33,
-          "rating": "HOT",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61b6z5Hc+qL.jpg",
-          "url": "https://www.amazon.com/dp/B071HVWD55?th=1&linkCode=sl2&tag=noya0b-20&linkId=d0a0e0089f2bf135c952512927b03bd3&language=en_US"
         }
       ],
       "faq": [
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-10T07:40:01.380Z",
-      "updatedAt": "2026-07-10T07:40:01.380Z"
+      "generatedAt": "2026-07-10T07:50:02.102Z",
+      "updatedAt": "2026-07-10T07:50:02.102Z"
     },
     {
       "date": "2026-07-09",
@@ -8673,5 +8673,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-10T07:40:01.383Z"
+  "generatedAt": "2026-07-10T07:50:02.105Z"
 }
