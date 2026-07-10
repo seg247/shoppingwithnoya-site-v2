@@ -9,8 +9,8 @@
         "Toys & Kids",
         "Home & Kitchen",
         "Electronics",
-        "Other",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Other"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -37,31 +37,18 @@
             "url": "https://www.amazon.com/dp/B08J8GZXKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=7f066e5e1eafb951a010ec2c1790c81a&language=en_US"
           }
         ],
-        "Electronics": [
-          {
-            "asin": "B09D55YMC1",
-            "slug": "-otterbox-iphone-13-pro-max-iphone-12-pro-max-commuter-serie",
-            "title": "\udecd️ OtterBox iPhone 13 Pro Max & iPhone 12 Pro Max Commuter Series Case - Black, Slim & Tough, Pocket-Friendly, with Port",
-            "price": "$22.21",
-            "discount": 56,
-            "rating": "FIRE",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09D55YMC1?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae0306754f162dee7a444e3708563739&language=en_US"
-          },
-          {
-            "asin": "B0FT3W9CY8",
-            "slug": "-square-mouse-pad-tropical-plants-personalized-premium-textu",
-            "title": "\udecd️ Square Mouse Pad Tropical Plants, Personalized Premium-Textured Custom Mouse Mat Design, Washable Mousepad Cloth, Non",
-            "price": "$4.49",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YRUQ8sPGL.jpg",
-            "url": "https://www.amazon.com/dp/B0FT3W9CY8?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9031739badbae28815fb832f8b966bb&language=en_US"
-          }
-        ],
         "Toys & Kids": [
+          {
+            "asin": "B0GTL6C9S2",
+            "slug": "-2pack-slow-rising-dumpling-squishy-butter-squeeze-toys-slow",
+            "title": "\udecd️ 2Pack Slow Rising Dumpling Squishy Butter Squeeze Toys, Slow Rising Squishy,Squeeze Ball Realistic Butter Stick Soft ",
+            "price": "$5.99",
+            "discount": 57,
+            "rating": "FIRE",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/61kRkAFKvtL.jpg",
+            "url": "https://www.amazon.com/dp/B0GTL6C9S2?th=1&linkCode=sl2&tag=noya0b-20&linkId=31e59a62cf0fbae4bddc3fbf907d76c4&language=en_US"
+          },
           {
             "asin": "B0D7NKNJDG",
             "slug": "-melissa-doug-blockables-town-snap-and-play-mix-and-match-co",
@@ -96,6 +83,30 @@
             "url": "https://www.amazon.com/dp/B09R6NHW8Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=54d3668d237044b9d1b473f74642677c&language=en_US"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B09D55YMC1",
+            "slug": "-otterbox-iphone-13-pro-max-iphone-12-pro-max-commuter-serie",
+            "title": "\udecd️ OtterBox iPhone 13 Pro Max & iPhone 12 Pro Max Commuter Series Case - Black, Slim & Tough, Pocket-Friendly, with Port",
+            "price": "$22.21",
+            "discount": 56,
+            "rating": "FIRE",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B09D55YMC1?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae0306754f162dee7a444e3708563739&language=en_US"
+          },
+          {
+            "asin": "B0FT3W9CY8",
+            "slug": "-square-mouse-pad-tropical-plants-personalized-premium-textu",
+            "title": "\udecd️ Square Mouse Pad Tropical Plants, Personalized Premium-Textured Custom Mouse Mat Design, Washable Mousepad Cloth, Non",
+            "price": "$4.49",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YRUQ8sPGL.jpg",
+            "url": "https://www.amazon.com/dp/B0FT3W9CY8?th=1&linkCode=sl2&tag=noya0b-20&linkId=e9031739badbae28815fb832f8b966bb&language=en_US"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0D9HM6ZHW",
@@ -120,17 +131,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71mTLMSByeL.jpg",
             "url": "https://www.amazon.com/dp/B009QYH52C?th=1&linkCode=sl2&tag=noya0b-20&linkId=eff691860a3b93b2c01e75ecd1e5a402&language=en_US"
-          },
-          {
-            "asin": "B0CT8ZJ7ZC",
-            "slug": "-hp-officejet-pro-8125e-wireless-all-in-one-color-inkjet-pri",
-            "title": "\udecd️ HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Hom",
-            "price": "$99.89",
-            "discount": 45,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0CT8ZJ7ZC?linkCode=sl2&tag=noya0b-20&linkId=7004f03f414c2c437061de9e76d6194f&language=en_US"
           }
         ]
       },
@@ -145,6 +145,17 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D9MP33QB?th=1&linkCode=sl2&tag=noya0b-20&linkId=c5830ddde7aa5bcb6325ff0f2201fca1&language=en_US"
+        },
+        {
+          "asin": "B0GTL6C9S2",
+          "slug": "-2pack-slow-rising-dumpling-squishy-butter-squeeze-toys-slow",
+          "title": "\udecd️ 2Pack Slow Rising Dumpling Squishy Butter Squeeze Toys, Slow Rising Squishy,Squeeze Ball Realistic Butter Stick Soft ",
+          "price": "$5.99",
+          "discount": 57,
+          "rating": "FIRE",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/61kRkAFKvtL.jpg",
+          "url": "https://www.amazon.com/dp/B0GTL6C9S2?th=1&linkCode=sl2&tag=noya0b-20&linkId=31e59a62cf0fbae4bddc3fbf907d76c4&language=en_US"
         },
         {
           "asin": "B09D55YMC1",
@@ -233,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71mTLMSByeL.jpg",
           "url": "https://www.amazon.com/dp/B009QYH52C?th=1&linkCode=sl2&tag=noya0b-20&linkId=eff691860a3b93b2c01e75ecd1e5a402&language=en_US"
-        },
-        {
-          "asin": "B0CT8ZJ7ZC",
-          "slug": "-hp-officejet-pro-8125e-wireless-all-in-one-color-inkjet-pri",
-          "title": "\udecd️ HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Hom",
-          "price": "$99.89",
-          "discount": 45,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0CT8ZJ7ZC?linkCode=sl2&tag=noya0b-20&linkId=7004f03f414c2c437061de9e76d6194f&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-10T13:00:01.937Z",
-      "updatedAt": "2026-07-10T13:00:01.937Z"
+      "generatedAt": "2026-07-10T13:10:01.806Z",
+      "updatedAt": "2026-07-10T13:10:01.807Z"
     },
     {
       "date": "2026-07-09",
@@ -8664,5 +8664,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-10T13:00:01.940Z"
+  "generatedAt": "2026-07-10T13:10:01.809Z"
 }
