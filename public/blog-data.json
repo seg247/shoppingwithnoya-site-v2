@@ -9,6 +9,7 @@
         "Electronics",
         "Fashion",
         "Home & Kitchen",
+        "Grocery & Food",
         "Other",
         "Beauty"
       ],
@@ -46,17 +47,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71P2rn1E7aL.jpg",
             "url": "https://www.amazon.com/dp/B09NY3RSJ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=91acbb326880efe5f59ad5d225ca9cd1&language=en_US"
-          },
-          {
-            "asin": "B09XSDMT4F",
-            "slug": "-sony-wh-1000xm5-premium-noise-canceling-headphones-auto-nc",
-            "title": "\udecd️ Sony WH-1000XM5 Premium Noise Canceling Headphones, Auto NC Optimizer, 30-Hour Battery, Alexa Voice Control, Silver",
-            "price": "$248.00",
-            "discount": 38,
-            "rating": "HOT",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09XSDMT4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=a1eb3d38de9dc937878506ee2e19e11b&language=en_US"
           }
         ],
         "Fashion": [
@@ -105,6 +95,19 @@
             "category": "Home & Kitchen",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F6DY1DGR?linkCode=sl2&tag=noya0b-20&linkId=b1227fb787e73d9dee0af808c05e8826&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B078GVQCTN",
+            "slug": "save-an-extra-40-off-kind-bars-granola-clip-q-sub-and-save-f",
+            "title": "Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
+            "price": "$31.68",
+            "discount": 40,
+            "rating": "HOT",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -213,6 +216,17 @@
           "url": "https://www.amazon.com/dp/B0F6DY1DGR?linkCode=sl2&tag=noya0b-20&linkId=b1227fb787e73d9dee0af808c05e8826&language=en_US"
         },
         {
+          "asin": "B078GVQCTN",
+          "slug": "save-an-extra-40-off-kind-bars-granola-clip-q-sub-and-save-f",
+          "title": "Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
+          "price": "$31.68",
+          "discount": 40,
+          "rating": "HOT",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
+        },
+        {
           "asin": "B0GF74ZGDZ",
           "slug": "-wolfbox-mf60mf70-compressed-air-duster-110000rpm-super-powe",
           "title": "\udecd️ WOLFBOX MF60&MF70 Compressed Air Duster-110000RPM Super Power Electric Air Duster, 3-Speed Adjustable Rechargeable Co",
@@ -233,17 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/619WkLrPMLL.jpg",
           "url": "https://www.amazon.com/dp/B0D9TX8G86?linkCode=sl2&tag=noya0b-20&linkId=ac1b1de447fea2f6a3f142f43fd2b49c&language=en_US"
-        },
-        {
-          "asin": "B09XSDMT4F",
-          "slug": "-sony-wh-1000xm5-premium-noise-canceling-headphones-auto-nc",
-          "title": "\udecd️ Sony WH-1000XM5 Premium Noise Canceling Headphones, Auto NC Optimizer, 30-Hour Battery, Alexa Voice Control, Silver",
-          "price": "$248.00",
-          "discount": 38,
-          "rating": "HOT",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09XSDMT4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=a1eb3d38de9dc937878506ee2e19e11b&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-11T11:40:02.016Z",
-      "updatedAt": "2026-07-11T11:40:02.016Z"
+      "generatedAt": "2026-07-11T11:50:01.433Z",
+      "updatedAt": "2026-07-11T11:50:01.433Z"
     },
     {
       "date": "2026-07-10",
@@ -8935,5 +8938,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-11T11:40:02.019Z"
+  "generatedAt": "2026-07-11T11:50:01.436Z"
 }
