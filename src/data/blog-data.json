@@ -9,8 +9,8 @@
         "Fashion",
         "Electronics",
         "Home & Kitchen",
-        "Grocery & Food",
-        "Other"
+        "Toys & Kids",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Fashion": [
@@ -83,6 +83,19 @@
             "url": "https://www.amazon.com/dp/B09NY3RSJ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=91acbb326880efe5f59ad5d225ca9cd1&language=en_US"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0B5HPQSLG",
+            "slug": "this-barbie-skate-set-is-also-50-off",
+            "title": "This Barbie Skate set is also 50% off!",
+            "price": "$12",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Qvng5+yHL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0B5HPQSLG?linkCode=sl2&tag=noya0b-20&linkId=353b8189250faf98e8fd45216232e427&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0GT6BYB85",
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0GF74ZGDZ",
-            "slug": "-wolfbox-mf60mf70-compressed-air-duster-110000rpm-super-powe",
-            "title": "\udecd️ WOLFBOX MF60&MF70 Compressed Air Duster-110000RPM Super Power Electric Air Duster, 3-Speed Adjustable Rechargeable Co",
-            "price": "$30.39",
-            "discount": 39,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71zeGEFy1aL.jpg",
-            "url": "https://www.amazon.com/dp/B0GF74ZGDZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=a3f8d6e2f92239e5743e0fd9200a352a&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71k3d9qhgbL.jpg",
           "url": "https://www.amazon.com/dp/B0FX7R5C6L?th=1&linkCode=sl2&tag=noya0b-20&linkId=e353ce796f825995a51f5030e72e2ad6&language=en_US"
+        },
+        {
+          "asin": "B0B5HPQSLG",
+          "slug": "this-barbie-skate-set-is-also-50-off",
+          "title": "This Barbie Skate set is also 50% off!",
+          "price": "$12",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Qvng5+yHL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0B5HPQSLG?linkCode=sl2&tag=noya0b-20&linkId=353b8189250faf98e8fd45216232e427&language=en_US"
         },
         {
           "asin": "B0BRKXLQ63",
@@ -233,17 +244,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GF74ZGDZ",
-          "slug": "-wolfbox-mf60mf70-compressed-air-duster-110000rpm-super-powe",
-          "title": "\udecd️ WOLFBOX MF60&MF70 Compressed Air Duster-110000RPM Super Power Electric Air Duster, 3-Speed Adjustable Rechargeable Co",
-          "price": "$30.39",
-          "discount": 39,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71zeGEFy1aL.jpg",
-          "url": "https://www.amazon.com/dp/B0GF74ZGDZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=a3f8d6e2f92239e5743e0fd9200a352a&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-11T16:40:01.342Z",
-      "updatedAt": "2026-07-11T16:40:01.342Z"
+      "generatedAt": "2026-07-11T16:50:02.100Z",
+      "updatedAt": "2026-07-11T16:50:02.100Z"
     },
     {
       "date": "2026-07-10",
@@ -8935,5 +8935,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-11T16:40:01.345Z"
+  "generatedAt": "2026-07-11T16:50:02.103Z"
 }
