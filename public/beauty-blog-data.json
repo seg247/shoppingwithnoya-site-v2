@@ -9,8 +9,8 @@
         "Beauty",
         "Skincare",
         "Hair Care",
-        "Makeup",
-        "Body Care"
+        "Body Care",
+        "Makeup"
       ],
       "bySubcat": {
         "Beauty": [
@@ -249,48 +249,6 @@
             "url": "https://www.amazon.com/dp/B005CUTY4G?linkCode=sl2&tag=noya0b-20&linkId=2bd70a6563fa7292bf21687591a24ec6&language=en_US"
           }
         ],
-        "Makeup": [
-          {
-            "asin": "B0DW4XLPM9",
-            "slug": "-smashbox-photo-finish-primers-face-primers-for-makeup-smoot",
-            "title": "\udecd️ Smashbox Photo Finish Primers | Face Primers for Makeup, Smooths Skin & Extends Makeup Wear | Hydrating, Pore-Minimiz",
-            "discount": 50,
-            "rating": "FIRE",
-            "subcat": "Makeup",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DW4XLPM9?th=1&linkCode=sl2&tag=noya0b-20&linkId=5ccaf8a470c0d777b4858e1510699972&language=en_US"
-          },
-          {
-            "asin": "B09NZH86DZ",
-            "slug": "-revlon-skin-reviving-roller-with-rose-quartz-for-all-day-fa",
-            "title": "\udecd️ Revlon Skin Reviving Roller with Rose Quartz for All-Day Facial Reviving & Brightening, Compact & Reusable, Gentle on",
-            "discount": 29,
-            "rating": "WARM",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/81j7LVjg2YL.jpg",
-            "url": "https://www.amazon.com/dp/B09NZH86DZ?linkCode=sl2&tag=noya0b-20&linkId=1d8badfbc28c3aae8eb2b0f4723d9869&language=en_US"
-          },
-          {
-            "asin": "B0CYMX5L8P",
-            "slug": "good-girl-blush-elixir-by-carolina-herrera-for-women-1-oz-ed",
-            "title": "Good Girl Blush Elixir by Carolina Herrera for Women - 1 oz EDP Spray : Beauty & Personal Care",
-            "discount": 26,
-            "rating": "WARM",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/51l830pbIJL.jpg",
-            "url": "https://www.amazon.com/dp/B0CYMX5L8P?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B07F5PCD3H",
-            "slug": "-maybelline-fit-me-matte-poreless-pressed-face-powder-makeup",
-            "title": "\udecd️ Maybelline Fit Me Matte + Poreless Pressed Face Powder Makeup & Setting Powder, Golden Caramel, 1 Count",
-            "discount": 25,
-            "rating": "WARM",
-            "subcat": "Makeup",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07F5PCD3H?th=1&linkCode=sl2&tag=noya0b-20&linkId=be67c41d649f6b8b69bd6359e1df1146&language=en_US"
-          }
-        ],
         "Body Care": [
           {
             "asin": "B0B3D49DB3",
@@ -321,6 +279,48 @@
             "subcat": "Body Care",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D7CYQNZF?th=1&linkCode=sl2&tag=noya0b-20&linkId=5cdca4cdbf6315ba50af97a3c19a85c2&language=en_US"
+          }
+        ],
+        "Makeup": [
+          {
+            "asin": "B09NZH86DZ",
+            "slug": "-revlon-skin-reviving-roller-with-rose-quartz-for-all-day-fa",
+            "title": "\udecd️ Revlon Skin Reviving Roller with Rose Quartz for All-Day Facial Reviving & Brightening, Compact & Reusable, Gentle on",
+            "discount": 29,
+            "rating": "WARM",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/81j7LVjg2YL.jpg",
+            "url": "https://www.amazon.com/dp/B09NZH86DZ?linkCode=sl2&tag=noya0b-20&linkId=1d8badfbc28c3aae8eb2b0f4723d9869&language=en_US"
+          },
+          {
+            "asin": "B0CYMX5L8P",
+            "slug": "good-girl-blush-elixir-by-carolina-herrera-for-women-1-oz-ed",
+            "title": "Good Girl Blush Elixir by Carolina Herrera for Women - 1 oz EDP Spray : Beauty & Personal Care",
+            "discount": 26,
+            "rating": "WARM",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51l830pbIJL.jpg",
+            "url": "https://www.amazon.com/dp/B0CYMX5L8P?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B07F5PCD3H",
+            "slug": "-maybelline-fit-me-matte-poreless-pressed-face-powder-makeup",
+            "title": "\udecd️ Maybelline Fit Me Matte + Poreless Pressed Face Powder Makeup & Setting Powder, Golden Caramel, 1 Count",
+            "discount": 25,
+            "rating": "WARM",
+            "subcat": "Makeup",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07F5PCD3H?th=1&linkCode=sl2&tag=noya0b-20&linkId=be67c41d649f6b8b69bd6359e1df1146&language=en_US"
+          },
+          {
+            "asin": "B00AWWMWMU",
+            "slug": "-laura-geller-new-york-award-winning-baked-balance-n-brighte",
+            "title": "\udecd️ LAURA GELLER NEW YORK Award-Winning Baked Balance-n-Brighten Color Correcting Powder Foundation – Handmade in Italy –",
+            "discount": 24,
+            "rating": "WARM",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TDKDYgqAL.jpg",
+            "url": "https://www.amazon.com/dp/B00AWWMWMU?th=1&linkCode=sl2&tag=noya0b-20&linkId=ff78f083a55b0144dac917bb515670d9&language=en_US"
           }
         ]
       },
@@ -354,16 +354,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71j14iyZ9jL.jpg",
           "url": "https://www.amazon.com/dp/B07J14W55P?th=1&linkCode=sl2&tag=noya0b-20&linkId=556f9074dd28962dc3ed5efd51e37b05&language=en_US"
-        },
-        {
-          "asin": "B0DW4XLPM9",
-          "slug": "-smashbox-photo-finish-primers-face-primers-for-makeup-smoot",
-          "title": "\udecd️ Smashbox Photo Finish Primers | Face Primers for Makeup, Smooths Skin & Extends Makeup Wear | Hydrating, Pore-Minimiz",
-          "discount": 50,
-          "rating": "FIRE",
-          "subcat": "Makeup",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DW4XLPM9?th=1&linkCode=sl2&tag=noya0b-20&linkId=5ccaf8a470c0d777b4858e1510699972&language=en_US"
         },
         {
           "asin": "B0CN1P8G4W",
@@ -624,6 +614,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61QWLWW49uL.jpg",
           "url": "https://www.amazon.com/dp/B07BYJF7L7?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6e5fb17d3a60ca740acc12b6aba528a&language=en_US"
+        },
+        {
+          "asin": "B00AWWMWMU",
+          "slug": "-laura-geller-new-york-award-winning-baked-balance-n-brighte",
+          "title": "\udecd️ LAURA GELLER NEW YORK Award-Winning Baked Balance-n-Brighten Color Correcting Powder Foundation – Handmade in Italy –",
+          "discount": 24,
+          "rating": "WARM",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TDKDYgqAL.jpg",
+          "url": "https://www.amazon.com/dp/B00AWWMWMU?th=1&linkCode=sl2&tag=noya0b-20&linkId=ff78f083a55b0144dac917bb515670d9&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -651,7 +651,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include \udecd️ Smashbox Photo Finish Primers | Face Primers fo and \udecd️ Revlon Skin Reviving Roller with Rose Quartz fo and more."
+          "a": "Yes! Today's makeup deals include \udecd️ Revlon Skin Reviving Roller with Rose Quartz fo and Good Girl Blush Elixir by Carolina Herrera for Wom and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-11T22:40:04.232Z",
-      "updatedAt": "2026-07-11T22:40:04.232Z"
+      "generatedAt": "2026-07-11T22:50:03.660Z",
+      "updatedAt": "2026-07-11T22:50:03.660Z"
     },
     {
       "date": "2026-07-10",
@@ -20197,5 +20197,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-11T22:40:04.237Z"
+  "generatedAt": "2026-07-11T22:50:03.666Z"
 }
