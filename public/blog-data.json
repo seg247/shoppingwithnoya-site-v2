@@ -9,8 +9,8 @@
         "Other",
         "Electronics",
         "Toys & Kids",
-        "Books & Media",
-        "Fashion"
+        "Beauty",
+        "Books & Media"
       ],
       "byCategory": {
         "Electronics": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0FLG9P6D9?th=1&linkCode=sl2&tag=noya0b-20&linkId=188f8a430826893e546887e20f48a7b6&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B092HJLHSK",
+            "slug": "medicube-red-body-wash-low-ph-clarifying-body-wash-for-back",
+            "title": "medicube Red Body Wash | Low pH Clarifying Body Wash For Back & Chest | Hydrating Body Wash with Niacinamide, AHA BHA PH",
+            "price": "$9",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Eo3k1P4KL.jpg",
+            "url": "https://www.amazon.com/dp/B092HJLHSK?th=1&tag=noya0b-20"
+          }
+        ],
         "Books & Media": [
           {
             "asin": "B0DGKST9ZN",
@@ -118,19 +131,6 @@
             "category": "Books & Media",
             "imageUrl": "https://m.media-amazon.com/images/I/819nqpCvidL.jpg",
             "url": "https://www.amazon.com/dp/B0DGKST9ZN?linkCode=sl2&tag=noya0b-20&linkId=9324581ddd154a5a8e7d180186e4f17d&language=en_US"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0BRKXLQ63",
-            "slug": "-roadbox-upf-50-fishing-shirts-for-men-long-sleeve-uv-sun-pr",
-            "title": "\udecd️ Roadbox UPF 50+ Fishing Shirts for Men, Long Sleeve UV Sun Protection Hoodie, Outdoor Hiking Running Swimming Rash Gu",
-            "price": "$9.99",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71yfM+AMzaL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BRKXLQ63?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a074f5ee7595d7fe35cdd043ed8a2ff7&language=en_US"
           }
         ]
       },
@@ -213,6 +213,17 @@
           "url": "https://www.amazon.com/dp/B07XJVNNM1?th=1&linkCode=sl2&tag=noya0b-20&linkId=2bea81dbdbd5fae5ad00c7065a789899&language=en_US"
         },
         {
+          "asin": "B092HJLHSK",
+          "slug": "medicube-red-body-wash-low-ph-clarifying-body-wash-for-back",
+          "title": "medicube Red Body Wash | Low pH Clarifying Body Wash For Back & Chest | Hydrating Body Wash with Niacinamide, AHA BHA PH",
+          "price": "$9",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Eo3k1P4KL.jpg",
+          "url": "https://www.amazon.com/dp/B092HJLHSK?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DGKST9ZN",
           "slug": "-keep-it-simple-yall-easy-dinners-from-your-barefoot-neighbo",
           "title": "\udecd️ Keep It Simple, Y'all: Easy Dinners from Your Barefoot Neighbor: A Cookbook",
@@ -233,17 +244,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0BH9D6897?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0BRKXLQ63",
-          "slug": "-roadbox-upf-50-fishing-shirts-for-men-long-sleeve-uv-sun-pr",
-          "title": "\udecd️ Roadbox UPF 50+ Fishing Shirts for Men, Long Sleeve UV Sun Protection Hoodie, Outdoor Hiking Running Swimming Rash Gu",
-          "price": "$9.99",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71yfM+AMzaL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BRKXLQ63?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a074f5ee7595d7fe35cdd043ed8a2ff7&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-12T23:20:01.741Z",
-      "updatedAt": "2026-07-12T23:20:01.741Z"
+      "generatedAt": "2026-07-12T23:30:01.958Z",
+      "updatedAt": "2026-07-12T23:30:01.958Z"
     },
     {
       "date": "2026-07-11",
@@ -9206,5 +9206,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-12T23:20:01.744Z"
+  "generatedAt": "2026-07-12T23:30:01.961Z"
 }
