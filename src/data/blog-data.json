@@ -9,8 +9,8 @@
         "Home & Kitchen",
         "Fashion",
         "Electronics",
-        "Toys & Kids",
-        "Tools & Hardware"
+        "Books & Media",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Fashion": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0CCK25S7Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c8c787946054a10a3cdf18aa150c6961&language=en_US"
           }
         ],
+        "Books & Media": [
+          {
+            "asin": "B0DGKST9ZN",
+            "slug": "-keep-it-simple-yall-easy-dinners-from-your-barefoot-neighbo",
+            "title": "\udecd️ Keep It Simple, Y'all: Easy Dinners from Your Barefoot Neighbor: A Cookbook",
+            "price": "$14.99",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Books & Media",
+            "imageUrl": "https://m.media-amazon.com/images/I/81zHC8xvL2L.jpg",
+            "url": "https://www.amazon.com/dp/B0DGKST9ZN?linkCode=sl2&tag=noya0b-20&linkId=bc8ef0bf865ccb67652699493c130839&language=en_US"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0B5HPQSLG",
@@ -118,19 +131,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/71Qvng5+yHL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0B5HPQSLG?linkCode=sl2&tag=noya0b-20&linkId=353b8189250faf98e8fd45216232e427&language=en_US"
-          }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B07KH9SQKB",
-            "slug": "-craftsman-v20-4ah-lithium-ion-power-tool-battery-2-pack-cmc",
-            "title": "\udecd️ CRAFTSMAN V20 4Ah Lithium Ion Power Tool Battery 2-Pack (CMCB204-2)",
-            "price": "$79.00",
-            "discount": 47,
-            "rating": "HOT",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/610U4E6imEL.jpg",
-            "url": "https://www.amazon.com/dp/B07KH9SQKB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cef7b0f06d0ffb33eb06ab3f6780f3a7&language=en_US"
           }
         ]
       },
@@ -167,6 +167,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71k3d9qhgbL.jpg",
           "url": "https://www.amazon.com/dp/B0FX7R5C6L?th=1&linkCode=sl2&tag=noya0b-20&linkId=e353ce796f825995a51f5030e72e2ad6&language=en_US"
+        },
+        {
+          "asin": "B0DGKST9ZN",
+          "slug": "-keep-it-simple-yall-easy-dinners-from-your-barefoot-neighbo",
+          "title": "\udecd️ Keep It Simple, Y'all: Easy Dinners from Your Barefoot Neighbor: A Cookbook",
+          "price": "$14.99",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Books & Media",
+          "imageUrl": "https://m.media-amazon.com/images/I/81zHC8xvL2L.jpg",
+          "url": "https://www.amazon.com/dp/B0DGKST9ZN?linkCode=sl2&tag=noya0b-20&linkId=bc8ef0bf865ccb67652699493c130839&language=en_US"
         },
         {
           "asin": "B07J14W55P",
@@ -233,17 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71LNv-hirFL.jpg",
           "url": "https://www.amazon.com/dp/B08RS8Q7J5?th=1&linkCode=sl2&tag=noya0b-20&linkId=29705d6688e478d9a586be1aad4da2d3&language=en_US"
-        },
-        {
-          "asin": "B07KH9SQKB",
-          "slug": "-craftsman-v20-4ah-lithium-ion-power-tool-battery-2-pack-cmc",
-          "title": "\udecd️ CRAFTSMAN V20 4Ah Lithium Ion Power Tool Battery 2-Pack (CMCB204-2)",
-          "price": "$79.00",
-          "discount": 47,
-          "rating": "HOT",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/610U4E6imEL.jpg",
-          "url": "https://www.amazon.com/dp/B07KH9SQKB?th=1&linkCode=sl2&tag=noya0b-20&linkId=cef7b0f06d0ffb33eb06ab3f6780f3a7&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-12T01:30:01.418Z",
-      "updatedAt": "2026-07-12T01:30:01.418Z"
+      "generatedAt": "2026-07-12T01:40:02.047Z",
+      "updatedAt": "2026-07-12T01:40:02.047Z"
     },
     {
       "date": "2026-07-10",
@@ -8935,5 +8935,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-12T01:30:01.421Z"
+  "generatedAt": "2026-07-12T01:40:02.050Z"
 }
