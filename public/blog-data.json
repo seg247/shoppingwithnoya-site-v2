@@ -10,7 +10,8 @@
         "Home & Kitchen",
         "Other",
         "Fashion",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Electronics": [
@@ -46,17 +47,6 @@
             "category": "Electronics",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B09D55YMC1?th=1&linkCode=sl2&tag=noya0b-20&linkId=c6bc89bc4fb6047c7b5a8e24f3f6ac9f&language=en_US"
-          },
-          {
-            "asin": "B0D7J3T8LH",
-            "slug": "-corsair-k70-core-tkl-wireless-rgb-tenkeyless-mechanical-gam",
-            "title": "\udecd️ Corsair K70 CORE TKL Wireless RGB Tenkeyless Mechanical Gaming Keyboard – Pre-Lubed MLX Red v2 Linear Switches, SOCD,",
-            "price": "$149.99",
-            "discount": 54,
-            "rating": "FIRE",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D7J3T8LH?th=1&linkCode=sl2&tag=noya0b-20&linkId=4771eae45fbf73250e1b30ab1fd99b40&language=en_US"
           }
         ],
         "Fashion": [
@@ -131,6 +121,19 @@
             "category": "Grocery & Food",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0C5GV43TZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=9f920a3af16b1e4d919baf3bd0a96396&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B09ZRJTXV1",
+            "slug": "best-choice-products-10ft-solar-polyester-led-lighted-patio",
+            "title": "Best Choice Products 10ft Solar Polyester LED Lighted Patio Umbrella w/Tilt Adjustment and UV-Resistant Fabric - Resort ",
+            "price": "$44",
+            "discount": 57,
+            "rating": "FIRE",
+            "category": "Garden & Outdoor",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B09ZRJTXV1?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -235,15 +238,15 @@
           "url": "https://www.amazon.com/dp/B0C5GV43TZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=9f920a3af16b1e4d919baf3bd0a96396&language=en_US"
         },
         {
-          "asin": "B0D7J3T8LH",
-          "slug": "-corsair-k70-core-tkl-wireless-rgb-tenkeyless-mechanical-gam",
-          "title": "\udecd️ Corsair K70 CORE TKL Wireless RGB Tenkeyless Mechanical Gaming Keyboard – Pre-Lubed MLX Red v2 Linear Switches, SOCD,",
-          "price": "$149.99",
-          "discount": 54,
+          "asin": "B09ZRJTXV1",
+          "slug": "best-choice-products-10ft-solar-polyester-led-lighted-patio",
+          "title": "Best Choice Products 10ft Solar Polyester LED Lighted Patio Umbrella w/Tilt Adjustment and UV-Resistant Fabric - Resort ",
+          "price": "$44",
+          "discount": 57,
           "rating": "FIRE",
-          "category": "Electronics",
+          "category": "Garden & Outdoor",
           "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D7J3T8LH?th=1&linkCode=sl2&tag=noya0b-20&linkId=4771eae45fbf73250e1b30ab1fd99b40&language=en_US"
+          "url": "https://www.amazon.com/dp/B09ZRJTXV1?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-13T23:30:01.713Z",
-      "updatedAt": "2026-07-13T23:30:01.713Z"
+      "generatedAt": "2026-07-13T23:40:01.319Z",
+      "updatedAt": "2026-07-13T23:40:01.319Z"
     },
     {
       "date": "2026-07-12",
@@ -9480,5 +9483,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-13T23:30:01.716Z"
+  "generatedAt": "2026-07-13T23:40:01.322Z"
 }
