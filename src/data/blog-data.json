@@ -11,7 +11,8 @@
         "Grocery & Food",
         "Beauty",
         "Tools & Hardware",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Grocery & Food": [
@@ -97,17 +98,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71ne6UMjXYL.jpg",
             "url": "https://www.amazon.com/dp/B0DDBK9K68?th=1&linkCode=sl2&tag=noya0b-20&linkId=1a36a95a1fd298c463983acc27829b73&language=en_US"
-          },
-          {
-            "asin": "B0FDKR4RVP",
-            "slug": "-bose-ultra-open-earbuds-bluetooth-open-ear-earbuds-with-ope",
-            "title": "\udecd️ Bose Ultra Open Earbuds - Bluetooth Open Ear Earbuds with OpenAudio for Awareness, Clip-On Design for Comfort, Water ",
-            "price": "$199.00",
-            "discount": 33,
-            "rating": "HOT",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FDKR4RVP?th=1&linkCode=sl2&tag=noya0b-20&linkId=4fbe64d19ac43722c37302b4d170ab82&language=en_US"
           }
         ],
         "Tools & Hardware": [
@@ -134,6 +124,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71fOMqriNqL.jpg",
             "url": "https://www.amazon.com/dp/B071VG6T2P?th=1&linkCode=sl2&tag=noya0b-20&linkId=2c4a15f3d7295b84f68516a477722a1c&language=en_US"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0CJQF34ZJ",
+            "slug": "-amavins-reusable-100-coral-fleece-mop-pads-compatible-with",
+            "title": "\udecd️ AmaVins Reusable 100% Coral Fleece Mop Pads Compatible with Swiffer Sweeper, 3 Pack Wet and Dry Flat Cover, Washable ",
+            "price": "$6.58",
+            "discount": 34,
+            "rating": "HOT",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81upBXy72wL.jpg",
+            "url": "https://www.amazon.com/dp/B0CJQF34ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=775a3f9ca60018d3d6eb2a111e0feca9&language=en_US"
           }
         ]
       },
@@ -205,6 +208,17 @@
           "url": "https://www.amazon.com/dp/B071VG6T2P?th=1&linkCode=sl2&tag=noya0b-20&linkId=2c4a15f3d7295b84f68516a477722a1c&language=en_US"
         },
         {
+          "asin": "B0CJQF34ZJ",
+          "slug": "-amavins-reusable-100-coral-fleece-mop-pads-compatible-with",
+          "title": "\udecd️ AmaVins Reusable 100% Coral Fleece Mop Pads Compatible with Swiffer Sweeper, 3 Pack Wet and Dry Flat Cover, Washable ",
+          "price": "$6.58",
+          "discount": 34,
+          "rating": "HOT",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81upBXy72wL.jpg",
+          "url": "https://www.amazon.com/dp/B0CJQF34ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=775a3f9ca60018d3d6eb2a111e0feca9&language=en_US"
+        },
+        {
           "asin": "B0DDBK9K68",
           "slug": "-wireless-earbuds-75hrs-bluetooth-54-headphone-sport-2026-bl",
           "title": "\udecd️ Wireless Earbuds 75hrs Bluetooth 5.4 Headphone Sport, 2026 Bluetooth Earbuds Stereo Deep Bass Over Ear Bud with Earho",
@@ -236,17 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/615Ng9coGyL.jpg",
           "url": "https://www.amazon.com/dp/B0GKFLMB36?th=1&linkCode=sl2&tag=noya0b-20&linkId=0526446f4e0858fa9f9e62a9101af9f8&language=en_US"
-        },
-        {
-          "asin": "B0FDKR4RVP",
-          "slug": "-bose-ultra-open-earbuds-bluetooth-open-ear-earbuds-with-ope",
-          "title": "\udecd️ Bose Ultra Open Earbuds - Bluetooth Open Ear Earbuds with OpenAudio for Awareness, Clip-On Design for Comfort, Water ",
-          "price": "$199.00",
-          "discount": 33,
-          "rating": "HOT",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FDKR4RVP?th=1&linkCode=sl2&tag=noya0b-20&linkId=4fbe64d19ac43722c37302b4d170ab82&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-13T05:00:00.882Z",
-      "updatedAt": "2026-07-13T05:00:00.883Z"
+      "generatedAt": "2026-07-13T05:10:01.750Z",
+      "updatedAt": "2026-07-13T05:10:01.750Z"
     },
     {
       "date": "2026-07-12",
@@ -9483,5 +9486,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-13T05:00:00.888Z"
+  "generatedAt": "2026-07-13T05:10:01.753Z"
 }
