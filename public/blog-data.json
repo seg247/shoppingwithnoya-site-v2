@@ -10,7 +10,8 @@
         "Other",
         "Home & Kitchen",
         "Books & Media",
-        "Beauty"
+        "Beauty",
+        "Fashion"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -72,17 +73,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/81Y7COsJW7L.jpg",
             "url": "https://www.amazon.com/dp/B0CG6C15SV?linkCode=sl2&tag=noya0b-20&linkId=cbb55f718d2ae25a2854e7270afd3b09&language=en_US"
-          },
-          {
-            "asin": "B0F9L1PPPJ",
-            "slug": "-anker-prime-3-in-1-qi22-magsafe-compatible-25w-wireless-cha",
-            "title": "\udecd️ Anker Prime 3-in-1 Qi2.2 MagSafe Compatible 25W Wireless Charging Station | Smart Display, TEC Active Cooling, Apple ",
-            "price": "$139.99",
-            "discount": 39,
-            "rating": "HOT",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0F9L1PPPJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2e172e73bcb443bf446fa03ffea15305&language=en_US"
           }
         ],
         "Other": [
@@ -131,6 +121,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71eUxjY0HOL.jpg",
             "url": "https://www.amazon.com/dp/B0GWQ7F978?th=1&linkCode=sl2&tag=noya0b-20&linkId=3bc74248aabc0735e5a7d047f9509154&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "1802796487",
+            "slug": "-little-book-of-tom-ford-the-story-of-the-iconic-brand-littl",
+            "title": "\udecd️ Little Book of Tom Ford: The story of the iconic brand (Little Books of Fashion)",
+            "price": "$10.33",
+            "discount": 39,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51gZdaFzTJL.jpg",
+            "url": "https://www.amazon.com/dp/1802796487?linkCode=sl2&tag=noya0b-20&linkId=76fdc89a9fcdb8344286d4ccb5709e6a&language=en_US"
           }
         ]
       },
@@ -224,6 +227,17 @@
           "url": "https://www.amazon.com/dp/B0CG6C15SV?linkCode=sl2&tag=noya0b-20&linkId=cbb55f718d2ae25a2854e7270afd3b09&language=en_US"
         },
         {
+          "asin": "1802796487",
+          "slug": "-little-book-of-tom-ford-the-story-of-the-iconic-brand-littl",
+          "title": "\udecd️ Little Book of Tom Ford: The story of the iconic brand (Little Books of Fashion)",
+          "price": "$10.33",
+          "discount": 39,
+          "rating": "HOT",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51gZdaFzTJL.jpg",
+          "url": "https://www.amazon.com/dp/1802796487?linkCode=sl2&tag=noya0b-20&linkId=76fdc89a9fcdb8344286d4ccb5709e6a&language=en_US"
+        },
+        {
           "asin": "B0GF74ZGDZ",
           "slug": "-wolfbox-mf60mf70-compressed-air-duster-110000rpm-super-powe",
           "title": "\udecd️ WOLFBOX MF60&MF70 Compressed Air Duster-110000RPM Super Power Electric Air Duster, 3-Speed Adjustable Rechargeable Co",
@@ -233,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71zeGEFy1aL.jpg",
           "url": "https://www.amazon.com/dp/B0GF74ZGDZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=f6b2be598976c973935909d1b24f0fb2&language=en_US"
-        },
-        {
-          "asin": "B0F9L1PPPJ",
-          "slug": "-anker-prime-3-in-1-qi22-magsafe-compatible-25w-wireless-cha",
-          "title": "\udecd️ Anker Prime 3-in-1 Qi2.2 MagSafe Compatible 25W Wireless Charging Station | Smart Display, TEC Active Cooling, Apple ",
-          "price": "$139.99",
-          "discount": 39,
-          "rating": "HOT",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0F9L1PPPJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2e172e73bcb443bf446fa03ffea15305&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-14T17:10:01.434Z",
-      "updatedAt": "2026-07-14T17:10:01.434Z"
+      "generatedAt": "2026-07-14T17:20:01.382Z",
+      "updatedAt": "2026-07-14T17:20:01.382Z"
     },
     {
       "date": "2026-07-13",
@@ -9751,5 +9754,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-14T17:10:01.437Z"
+  "generatedAt": "2026-07-14T17:20:01.385Z"
 }
