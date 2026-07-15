@@ -9,7 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Fashion",
-        "Electronics"
+        "Electronics",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Fashion": [
@@ -36,6 +37,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61-Ryz02AdL.jpg",
             "url": "https://www.amazon.com/dp/B0CNXQSVZF?th=1&linkCode=sl2&tag=noya0b-20&linkId=ab57d2f00d714c2e345c42cb207d17ed&language=en_US"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B09GYGMYM4",
+            "slug": "-anteday-electric-milk-frother-handheld-quality-frother-wand",
+            "title": "\udecd️ Anteday Electric Milk Frother Handheld, Quality Frother Wand for Coffee, Battery Operated (Not included) Drink Mixer ",
+            "price": "$5.59",
+            "discount": 38,
+            "rating": "HOT",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WcUjMd0vL.jpg",
+            "url": "https://www.amazon.com/dp/B09GYGMYM4?th=1&linkCode=sl2&tag=noya0b-20&linkId=51d1b7ccb7e0c82578dc7328f2be9d8b&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -117,17 +131,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81lu0o-sNqL.jpg",
             "url": "https://www.amazon.com/dp/B0DYY9GVYF?th=1&linkCode=sl2&tag=noya0b-20&linkId=e4fea0fff10fd7a8829c664a6f36a91e&language=en_US"
-          },
-          {
-            "asin": "B09P53JX4R",
-            "slug": "-teeho-te001-keyless-entry-door-lock-with-keypad-smart-deadb",
-            "title": "\udecd️ TEEHO TE001 Keyless Entry Door Lock with Keypad - Smart Deadbolt Lock for Front Door with 2 Keys - Auto Lock - Easy I",
-            "price": "$35.98",
-            "discount": 28,
-            "rating": "WARM",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61FZ4kvcn9L.jpg",
-            "url": "https://www.amazon.com/dp/B09P53JX4R?th=1&linkCode=sl2&tag=noya0b-20&linkId=afc1195a74ff64fe8de22b417dcaa2d6&language=en_US"
           }
         ]
       },
@@ -153,6 +156,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61-Ryz02AdL.jpg",
           "url": "https://www.amazon.com/dp/B0CNXQSVZF?th=1&linkCode=sl2&tag=noya0b-20&linkId=ab57d2f00d714c2e345c42cb207d17ed&language=en_US"
+        },
+        {
+          "asin": "B09GYGMYM4",
+          "slug": "-anteday-electric-milk-frother-handheld-quality-frother-wand",
+          "title": "\udecd️ Anteday Electric Milk Frother Handheld, Quality Frother Wand for Coffee, Battery Operated (Not included) Drink Mixer ",
+          "price": "$5.59",
+          "discount": 38,
+          "rating": "HOT",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WcUjMd0vL.jpg",
+          "url": "https://www.amazon.com/dp/B09GYGMYM4?th=1&linkCode=sl2&tag=noya0b-20&linkId=51d1b7ccb7e0c82578dc7328f2be9d8b&language=en_US"
         },
         {
           "asin": "B0D1BZJSX4",
@@ -230,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81lu0o-sNqL.jpg",
           "url": "https://www.amazon.com/dp/B0DYY9GVYF?th=1&linkCode=sl2&tag=noya0b-20&linkId=e4fea0fff10fd7a8829c664a6f36a91e&language=en_US"
-        },
-        {
-          "asin": "B09P53JX4R",
-          "slug": "-teeho-te001-keyless-entry-door-lock-with-keypad-smart-deadb",
-          "title": "\udecd️ TEEHO TE001 Keyless Entry Door Lock with Keypad - Smart Deadbolt Lock for Front Door with 2 Keys - Auto Lock - Easy I",
-          "price": "$35.98",
-          "discount": 28,
-          "rating": "WARM",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61FZ4kvcn9L.jpg",
-          "url": "https://www.amazon.com/dp/B09P53JX4R?th=1&linkCode=sl2&tag=noya0b-20&linkId=afc1195a74ff64fe8de22b417dcaa2d6&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-15T05:40:03.173Z",
-      "updatedAt": "2026-07-15T05:40:03.173Z"
+      "generatedAt": "2026-07-15T05:50:02.611Z",
+      "updatedAt": "2026-07-15T05:50:02.611Z"
     },
     {
       "date": "2026-07-14",
@@ -10022,5 +10025,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-15T05:40:03.177Z"
+  "generatedAt": "2026-07-15T05:50:02.614Z"
 }
