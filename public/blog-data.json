@@ -9,9 +9,9 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
+        "Grocery & Food",
         "Books & Media",
-        "Fashion",
-        "Grocery & Food"
+        "Fashion"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -73,6 +73,19 @@
             "url": "https://www.amazon.com/dp/B0H5JHHFPJ?th=1&tag=noya0b-20"
           }
         ],
+        "Grocery & Food": [
+          {
+            "asin": "B010DS3X20",
+            "slug": "-bic-wite-out-ez-correct-correction-tape-white-no-dry-time-t",
+            "title": "\udecd️ BIC Wite-Out EZ Correct Correction Tape, White, No Dry Time, Tear Resistant Tape, 2-Count",
+            "price": "$2.99",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81pvNOVATVL.jpg",
+            "url": "https://www.amazon.com/dp/B010DS3X20?th=1&linkCode=sl2&tag=noya0b-20&linkId=af6449afaf22fc1f69db0c6113545e41&language=en_US"
+          }
+        ],
         "Books & Media": [
           {
             "asin": "B0DGKST9ZN",
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81+hyCtu+HL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09PF79L21?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=81bc2542e0bc53c18e0c52cf69cefc8c&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B004I2EB24",
-            "slug": "-bostitch-office-ez-squeeze-3-hole-punch-20-sheet-capacity-r",
-            "title": "\udecd️ Bostitch Office EZ Squeeze 3-Hole Punch, 20 Sheet Capacity, Reduced Effort, No Jam Technology, Silver",
-            "price": "$16.12",
-            "discount": 47,
-            "rating": "HOT",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e9fqc-qnL.jpg",
-            "url": "https://www.amazon.com/dp/B004I2EB24?th=1&linkCode=sl2&tag=noya0b-20&linkId=92f9edd59482c3f01118c5c639350530&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -159,6 +159,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/718YIM825FL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B072C48XGJ?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=727725a36afa8e99b2390590fcd4f3b7&language=en_US"
+        },
+        {
+          "asin": "B010DS3X20",
+          "slug": "-bic-wite-out-ez-correct-correction-tape-white-no-dry-time-t",
+          "title": "\udecd️ BIC Wite-Out EZ Correct Correction Tape, White, No Dry Time, Tear Resistant Tape, 2-Count",
+          "price": "$2.99",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81pvNOVATVL.jpg",
+          "url": "https://www.amazon.com/dp/B010DS3X20?th=1&linkCode=sl2&tag=noya0b-20&linkId=af6449afaf22fc1f69db0c6113545e41&language=en_US"
         },
         {
           "asin": "B07V49W7DP",
@@ -236,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81ujTxkJs-L.jpg",
           "url": "https://www.amazon.com/dp/B0H5JHHFPJ?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B004I2EB24",
-          "slug": "-bostitch-office-ez-squeeze-3-hole-punch-20-sheet-capacity-r",
-          "title": "\udecd️ Bostitch Office EZ Squeeze 3-Hole Punch, 20 Sheet Capacity, Reduced Effort, No Jam Technology, Silver",
-          "price": "$16.12",
-          "discount": 47,
-          "rating": "HOT",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e9fqc-qnL.jpg",
-          "url": "https://www.amazon.com/dp/B004I2EB24?th=1&linkCode=sl2&tag=noya0b-20&linkId=92f9edd59482c3f01118c5c639350530&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-15T01:20:01.376Z",
-      "updatedAt": "2026-07-15T01:20:01.376Z"
+      "generatedAt": "2026-07-15T01:30:01.211Z",
+      "updatedAt": "2026-07-15T01:30:01.211Z"
     },
     {
       "date": "2026-07-13",
@@ -9754,5 +9754,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-15T01:20:01.379Z"
+  "generatedAt": "2026-07-15T01:30:01.213Z"
 }
