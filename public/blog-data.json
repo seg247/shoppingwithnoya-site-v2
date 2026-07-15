@@ -9,6 +9,7 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
+        "Beauty",
         "Garden & Outdoor",
         "Toys & Kids"
       ],
@@ -46,17 +47,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71C7Yz27rdL.jpg",
             "url": "https://www.amazon.com/dp/B001PTFWG2?th=1&linkCode=sl2&tag=noya0b-20&linkId=233775940b61df6279693c8a7d279886&language=en_US"
-          },
-          {
-            "asin": "B0G6KF32SK",
-            "slug": "15-inch-thermal-brush-dual-voltage-heated-round-brushecurlin",
-            "title": "1.5 inch Thermal Brush, Dual Voltage Heated Round brushe,curlingBrush for Blowout Look, Dual PTC Fast Style heated brush",
-            "price": "$14",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71P-+3Vz7jL.jpg",
-            "url": "https://www.amazon.com/dp/B0G6KF32SK?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -105,6 +95,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/714bnp4jQrL.jpg",
             "url": "https://www.amazon.com/dp/B0D9B96TBX?th=1&linkCode=sl2&tag=noya0b-20&linkId=d50b909f3db88d85dd373a656df16528&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B002XQ1YTK",
+            "slug": "juicy-couture-viva-la-juicy-eau-de-parfum-womens-perfume-wit",
+            "title": "Juicy Couture Viva La Juicy Eau De Parfum, Women's Perfume with Notes of Mandarin, Gardenia & Caramel, Gift for Her, Flo",
+            "price": "$49",
+            "discount": 62,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B002XQ1YTK?th=1&tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
@@ -180,6 +183,17 @@
           "url": "https://www.amazon.com/dp/B0D9B96TBX?th=1&linkCode=sl2&tag=noya0b-20&linkId=d50b909f3db88d85dd373a656df16528&language=en_US"
         },
         {
+          "asin": "B002XQ1YTK",
+          "slug": "juicy-couture-viva-la-juicy-eau-de-parfum-womens-perfume-wit",
+          "title": "Juicy Couture Viva La Juicy Eau De Parfum, Women's Perfume with Notes of Mandarin, Gardenia & Caramel, Gift for Her, Flo",
+          "price": "$49",
+          "discount": 62,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B002XQ1YTK?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B01GH5KPU6",
           "slug": "-under-armour-mens-tech-golf-polo",
           "title": "\udecd️ Under Armour Men's Tech Golf Polo",
@@ -233,17 +247,6 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/815M2pJudfL.jpg",
           "url": "https://www.amazon.com/dp/0807508543?linkCode=sl2&tag=noya0b-20&linkId=a6ea8f8ff31b27790dca55483c4435d0&language=en_US"
-        },
-        {
-          "asin": "B0G6KF32SK",
-          "slug": "15-inch-thermal-brush-dual-voltage-heated-round-brushecurlin",
-          "title": "1.5 inch Thermal Brush, Dual Voltage Heated Round brushe,curlingBrush for Blowout Look, Dual PTC Fast Style heated brush",
-          "price": "$14",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71P-+3Vz7jL.jpg",
-          "url": "https://www.amazon.com/dp/B0G6KF32SK?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-15T22:30:01.551Z",
-      "updatedAt": "2026-07-15T22:30:01.551Z"
+      "generatedAt": "2026-07-15T22:40:01.788Z",
+      "updatedAt": "2026-07-15T22:40:01.788Z"
     },
     {
       "date": "2026-07-14",
@@ -10025,5 +10028,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-15T22:30:01.554Z"
+  "generatedAt": "2026-07-15T22:40:01.792Z"
 }
