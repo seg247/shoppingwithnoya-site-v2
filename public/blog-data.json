@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
-        "Garden & Outdoor",
-        "Electronics"
+        "Toys & Kids",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Beauty": [
@@ -85,6 +85,17 @@
             "url": "https://www.amazon.com/dp/B09R3YXNGP?th=1&linkCode=sl2&tag=noya0b-20&linkId=18dcbd9ab8c86c18578c1fed54796d6e&language=en_US"
           },
           {
+            "asin": "B0D2RL7H4J",
+            "slug": "-sensarte-nonstick-cookware-set-13-piece-healthy-pots-and-pa",
+            "title": "\udecd️ SENSARTE Nonstick Cookware Set 13-Piece, Healthy Pots and Pans Set Kitchen Cooking Set with Stay-Cool Handles, Silico",
+            "price": "$66.49",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71yIeGVB1NL.jpg",
+            "url": "https://www.amazon.com/dp/B0D2RL7H4J?th=1&linkCode=sl2&tag=noya0b-20&linkId=4b1b9727ba28166dc90c591b54f68237&language=en_US"
+          },
+          {
             "asin": "B0CGMFGX87",
             "slug": "-chefman-12-quart-5-in-1-air-fryer-oven-with-digital-timer-t",
             "title": "\udecd️ Chefman 12-Quart 5-in-1 Air Fryer Oven with Digital Timer, Touchscreen, and 12 Presets - Family Size Countertop Conve",
@@ -94,17 +105,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81lRxtBNtVL.jpg",
             "url": "https://www.amazon.com/dp/B0CGMFGX87?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ba608f8e7fc8f2d4f9ba15ce5ffac74&language=en_US"
-          },
+          }
+        ],
+        "Toys & Kids": [
           {
-            "asin": "B09PTJ977V",
-            "slug": "-frizcol-stroller-fan-for-baby-portable-fans-rechargeable-ba",
-            "title": "\udecd️ FRIZCOL Stroller Fan for Baby - Portable Fans Rechargeable - Battery Operated Fan(Use for 24Hrs) - Fan for Handheld/C",
-            "price": "$13.92",
-            "discount": 26,
-            "rating": "WARM",
-            "category": "Home & Kitchen",
+            "asin": "B0BZXNZZ67",
+            "slug": "-sloosh-bubble-lawn-mower-toddler-toys-spill-proof-bubble-ma",
+            "title": "\udecd️ SLOOSH Bubble Lawn Mower Toddler Toys - Spill-Proof Bubble Machine Pretend Gardening Play Toy for Age 1 2 3 1-3 Year ",
+            "price": "$25.99",
+            "discount": 35,
+            "rating": "HOT",
+            "category": "Toys & Kids",
             "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09PTJ977V?th=1&linkCode=sl2&tag=noya0b-20&linkId=b28440178c329e0b06cfdea46927e4cc&language=en_US"
+            "url": "https://www.amazon.com/dp/B0BZXNZZ67?th=1&linkCode=sl2&tag=noya0b-20&linkId=617f0f83bc54a69660694b14e21698d2&language=en_US"
           }
         ],
         "Garden & Outdoor": [
@@ -118,19 +131,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B09HN1C1YJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ad739393f8832d0acd9dc0360412873&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DDCHN5WW",
-            "slug": "-2-pack-wireless-lavalier-microphone-for-iphone-ipad-and-and",
-            "title": "\udecd️ 2 Pack Wireless Lavalier Microphone for iPhone iPad and Android Phone, Lapel Mic Plug and Play Wireless Mic Noise Red",
-            "price": "$13.28",
-            "discount": 26,
-            "rating": "WARM",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/7120tXVan3L.jpg",
-            "url": "https://www.amazon.com/dp/B0DDCHN5WW?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4e20289cf25b36047b40a44c36370b9&language=en_US"
           }
         ]
       },
@@ -202,6 +202,17 @@
           "url": "https://www.amazon.com/dp/B09R3YXNGP?th=1&linkCode=sl2&tag=noya0b-20&linkId=18dcbd9ab8c86c18578c1fed54796d6e&language=en_US"
         },
         {
+          "asin": "B0BZXNZZ67",
+          "slug": "-sloosh-bubble-lawn-mower-toddler-toys-spill-proof-bubble-ma",
+          "title": "\udecd️ SLOOSH Bubble Lawn Mower Toddler Toys - Spill-Proof Bubble Machine Pretend Gardening Play Toy for Age 1 2 3 1-3 Year ",
+          "price": "$25.99",
+          "discount": 35,
+          "rating": "HOT",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0BZXNZZ67?th=1&linkCode=sl2&tag=noya0b-20&linkId=617f0f83bc54a69660694b14e21698d2&language=en_US"
+        },
+        {
           "asin": "B09HN1C1YJ",
           "slug": "-coleman-triton-2-burner-propane-stove-portable-camping-cook",
           "title": "\udecd️ Coleman Triton 2-Burner Propane Stove, Portable Camping Cooktop with 2 Adjustable Burners & Wind Guards, 22,000 BTUs ",
@@ -213,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B09HN1C1YJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ad739393f8832d0acd9dc0360412873&language=en_US"
         },
         {
+          "asin": "B0D2RL7H4J",
+          "slug": "-sensarte-nonstick-cookware-set-13-piece-healthy-pots-and-pa",
+          "title": "\udecd️ SENSARTE Nonstick Cookware Set 13-Piece, Healthy Pots and Pans Set Kitchen Cooking Set with Stay-Cool Handles, Silico",
+          "price": "$66.49",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71yIeGVB1NL.jpg",
+          "url": "https://www.amazon.com/dp/B0D2RL7H4J?th=1&linkCode=sl2&tag=noya0b-20&linkId=4b1b9727ba28166dc90c591b54f68237&language=en_US"
+        },
+        {
           "asin": "B0CGMFGX87",
           "slug": "-chefman-12-quart-5-in-1-air-fryer-oven-with-digital-timer-t",
           "title": "\udecd️ Chefman 12-Quart 5-in-1 Air Fryer Oven with Digital Timer, Touchscreen, and 12 Presets - Family Size Countertop Conve",
@@ -222,28 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81lRxtBNtVL.jpg",
           "url": "https://www.amazon.com/dp/B0CGMFGX87?th=1&linkCode=sl2&tag=noya0b-20&linkId=1ba608f8e7fc8f2d4f9ba15ce5ffac74&language=en_US"
-        },
-        {
-          "asin": "B09PTJ977V",
-          "slug": "-frizcol-stroller-fan-for-baby-portable-fans-rechargeable-ba",
-          "title": "\udecd️ FRIZCOL Stroller Fan for Baby - Portable Fans Rechargeable - Battery Operated Fan(Use for 24Hrs) - Fan for Handheld/C",
-          "price": "$13.92",
-          "discount": 26,
-          "rating": "WARM",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09PTJ977V?th=1&linkCode=sl2&tag=noya0b-20&linkId=b28440178c329e0b06cfdea46927e4cc&language=en_US"
-        },
-        {
-          "asin": "B0DDCHN5WW",
-          "slug": "-2-pack-wireless-lavalier-microphone-for-iphone-ipad-and-and",
-          "title": "\udecd️ 2 Pack Wireless Lavalier Microphone for iPhone iPad and Android Phone, Lapel Mic Plug and Play Wireless Mic Noise Red",
-          "price": "$13.28",
-          "discount": 26,
-          "rating": "WARM",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/7120tXVan3L.jpg",
-          "url": "https://www.amazon.com/dp/B0DDCHN5WW?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4e20289cf25b36047b40a44c36370b9&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-16T05:50:01.873Z",
-      "updatedAt": "2026-07-16T05:50:01.873Z"
+      "generatedAt": "2026-07-16T06:00:01.698Z",
+      "updatedAt": "2026-07-16T06:00:01.698Z"
     },
     {
       "date": "2026-07-15",
@@ -10293,5 +10293,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-16T05:50:01.877Z"
+  "generatedAt": "2026-07-16T06:00:01.702Z"
 }
