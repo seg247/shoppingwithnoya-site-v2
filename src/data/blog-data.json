@@ -9,6 +9,8 @@
         "Other",
         "Toys & Kids",
         "Electronics",
+        "Health",
+        "Fashion",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -23,6 +25,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71S3Z3FZTFL.jpg",
             "url": "https://www.amazon.com/dp/B0D9YHM1YR?th=1&linkCode=sl2&tag=noya0b-20&linkId=1df19d64f02c3e659970049c73a7a391&language=en_US"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0CB3KZHD1",
+            "slug": "-water-dental-flosser-cordless-for-teeth-nicwell-4-modes-den",
+            "title": "\udecd️ Water Dental Flosser Cordless for Teeth - Nicwell 4 Modes Dental Oral Irrigator, Portable and Rechargeable IPX7 Water",
+            "price": "$31.99",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/61FbBeaLL7L.jpg",
+            "url": "https://www.amazon.com/dp/B0CB3KZHD1?th=1&linkCode=sl2&tag=noya0b-20&linkId=0905c922412c3cc21d39a02eb61b1eb0&language=en_US"
           }
         ],
         "Other": [
@@ -69,28 +84,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71wUu-LdQiL.jpg",
             "url": "https://www.amazon.com/dp/B0BXSKHL8D?th=1&linkCode=sl2&tag=noya0b-20&linkId=250f36c7cd22af2abd5a8e3cbf5d4bad&language=en_US"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0C6PYH8J2",
-            "slug": "-african-exfoliating-net-african-net-sponge-nylon-african-ba",
-            "title": "\udecd️ African Exfoliating Net, African Net Sponge, Nylon African Bathing Sponge Net, African Net Long Net Bath Sponge Showe",
-            "price": "$9.99",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81eA4km8q+L.jpg",
-            "url": "https://www.amazon.com/dp/B0C6PYH8J2?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4f8c050f9a553458315dd71dfeb55dc&language=en_US"
-          },
-          {
-            "asin": "B00CI40XSA",
-            "slug": "-c-line-mini-size-5-tab-poly-index-dividers-with-pockets-for",
-            "title": "\udecd️ C-Line Mini Size 5-Tab Poly Index Dividers with Pockets, for 5.5 x 8.5, 6 x 9 and 8.5 x 11 Binders, Assorted Colors, ",
-            "price": "$5.85",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71TIU1btV7L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00CI40XSA?th=1&linkCode=sl2&tag=noya0b-20&linkId=fb3c34c2846495c0e6932fbf9bf16fa6&language=en_US"
+            "asin": "B08S7DVP9H",
+            "slug": "-oncai-mens-house-slippers-memory-foam-slip-on-warm-cozy-scu",
+            "title": "\udecd️ ONCAI Men's House Slippers Memory Foam Slip-On Warm Cozy Scuff Home Bedroom Shoes with Indoor/Outdoor Rubber Soles US",
+            "price": "$13.98",
+            "discount": 30,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/7106CmBUuUL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08S7DVP9H?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=6e9c0f617833b642776f4a8a8dcb102b&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -144,6 +150,17 @@
           "url": "https://www.amazon.com/dp/B0D9YHM1YR?th=1&linkCode=sl2&tag=noya0b-20&linkId=1df19d64f02c3e659970049c73a7a391&language=en_US"
         },
         {
+          "asin": "B0CB3KZHD1",
+          "slug": "-water-dental-flosser-cordless-for-teeth-nicwell-4-modes-den",
+          "title": "\udecd️ Water Dental Flosser Cordless for Teeth - Nicwell 4 Modes Dental Oral Irrigator, Portable and Rechargeable IPX7 Water",
+          "price": "$31.99",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/61FbBeaLL7L.jpg",
+          "url": "https://www.amazon.com/dp/B0CB3KZHD1?th=1&linkCode=sl2&tag=noya0b-20&linkId=0905c922412c3cc21d39a02eb61b1eb0&language=en_US"
+        },
+        {
           "asin": "B0CFGY42N6",
           "slug": "-olanly-small-bathroom-rugs-24x16-extra-soft-absorbent-cheni",
           "title": "\udecd️ OLANLY Small Bathroom Rugs 24x16, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable",
@@ -153,6 +170,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/91fwWVgLjCL.jpg",
           "url": "https://www.amazon.com/dp/B0CFGY42N6?th=1&linkCode=sl2&tag=noya0b-20&linkId=2460de7f80d8096bb26bd3ed7bb844ef&language=en_US"
+        },
+        {
+          "asin": "B08S7DVP9H",
+          "slug": "-oncai-mens-house-slippers-memory-foam-slip-on-warm-cozy-scu",
+          "title": "\udecd️ ONCAI Men's House Slippers Memory Foam Slip-On Warm Cozy Scuff Home Bedroom Shoes with Indoor/Outdoor Rubber Soles US",
+          "price": "$13.98",
+          "discount": 30,
+          "rating": "HOT",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/7106CmBUuUL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08S7DVP9H?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=6e9c0f617833b642776f4a8a8dcb102b&language=en_US"
         },
         {
           "asin": "B0D1MZTHGR",
@@ -219,28 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B082KP92DF?th=1&linkCode=sl2&tag=noya0b-20&linkId=cba26c9fc43bfccb8feb27017d11c4b6&language=en_US"
-        },
-        {
-          "asin": "B0C6PYH8J2",
-          "slug": "-african-exfoliating-net-african-net-sponge-nylon-african-ba",
-          "title": "\udecd️ African Exfoliating Net, African Net Sponge, Nylon African Bathing Sponge Net, African Net Long Net Bath Sponge Showe",
-          "price": "$9.99",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81eA4km8q+L.jpg",
-          "url": "https://www.amazon.com/dp/B0C6PYH8J2?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4f8c050f9a553458315dd71dfeb55dc&language=en_US"
-        },
-        {
-          "asin": "B00CI40XSA",
-          "slug": "-c-line-mini-size-5-tab-poly-index-dividers-with-pockets-for",
-          "title": "\udecd️ C-Line Mini Size 5-Tab Poly Index Dividers with Pockets, for 5.5 x 8.5, 6 x 9 and 8.5 x 11 Binders, Assorted Colors, ",
-          "price": "$5.85",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71TIU1btV7L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00CI40XSA?th=1&linkCode=sl2&tag=noya0b-20&linkId=fb3c34c2846495c0e6932fbf9bf16fa6&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-17T04:30:00.359Z",
-      "updatedAt": "2026-07-17T04:30:00.359Z"
+      "generatedAt": "2026-07-17T04:40:02.033Z",
+      "updatedAt": "2026-07-17T04:40:02.033Z"
     },
     {
       "date": "2026-07-16",
@@ -10561,5 +10567,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-17T04:30:00.363Z"
+  "generatedAt": "2026-07-17T04:40:02.038Z"
 }
