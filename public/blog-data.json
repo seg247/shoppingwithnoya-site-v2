@@ -10,8 +10,7 @@
         "Electronics",
         "Home & Kitchen",
         "Free Deal",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
         "Free Deal": [
@@ -52,6 +51,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B004TK2OW4",
+            "slug": "johnsons-baby-oil-pure-mineral-oil-to-prevent-moisture-loss",
+            "title": "Johnson's Baby Oil, Pure Mineral Oil to Prevent Moisture Loss, Original 3 fl. oz : Baby",
+            "price": "$7.63",
+            "discount": 60,
+            "rating": "FIRE",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eBgEo9ytL.jpg",
+            "url": "https://www.amazon.com/dp/B004TK2OW4?th=1&linkCode=sl2&tag=noya0b-20&linkId=c9e5b8b8682097c62b0533e0dc28ebab&language=en_US"
+          },
           {
             "asin": "1684128870",
             "slug": "harry-potter-crochet-crochet-kits-collin-lucy-9781684128877",
@@ -122,19 +132,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0BPRQRQDR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cdbb9d17cded5ca02385efaff0ffc28&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B078GVQCTN",
-            "slug": "icymi-save-an-extra-40-off-kind-bars-granola-clip-q-sub-and",
-            "title": "ICYMI Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
-            "price": null,
-            "discount": 40,
-            "rating": "HOT",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -159,6 +156,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61AJMx7Cb1L.jpg",
           "url": "https://www.amazon.com/dp/B0H5CVQKR5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=049788981f14d6cd5ea98be3647d0f52&language=en_US"
+        },
+        {
+          "asin": "B004TK2OW4",
+          "slug": "johnsons-baby-oil-pure-mineral-oil-to-prevent-moisture-loss",
+          "title": "Johnson's Baby Oil, Pure Mineral Oil to Prevent Moisture Loss, Original 3 fl. oz : Baby",
+          "price": "$7.63",
+          "discount": 60,
+          "rating": "FIRE",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eBgEo9ytL.jpg",
+          "url": "https://www.amazon.com/dp/B004TK2OW4?th=1&linkCode=sl2&tag=noya0b-20&linkId=c9e5b8b8682097c62b0533e0dc28ebab&language=en_US"
         },
         {
           "asin": "1684128870",
@@ -236,17 +244,6 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0BPRQRQDR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cdbb9d17cded5ca02385efaff0ffc28&language=en_US"
-        },
-        {
-          "asin": "B078GVQCTN",
-          "slug": "icymi-save-an-extra-40-off-kind-bars-granola-clip-q-sub-and",
-          "title": "ICYMI Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
-          "price": null,
-          "discount": 40,
-          "rating": "HOT",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-17T19:10:01.578Z",
-      "updatedAt": "2026-07-17T19:10:01.578Z"
+      "generatedAt": "2026-07-17T19:20:02.136Z",
+      "updatedAt": "2026-07-17T19:20:02.136Z"
     },
     {
       "date": "2026-07-16",
@@ -10567,5 +10564,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-17T19:10:01.582Z"
+  "generatedAt": "2026-07-17T19:20:02.140Z"
 }
