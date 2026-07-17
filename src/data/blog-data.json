@@ -9,8 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Beauty",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Beauty"
       ],
       "byCategory": {
         "Electronics": [
@@ -70,17 +70,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51kKIz6KfJL.jpg",
             "url": "https://www.amazon.com/dp/B07964J5BG?th=1&linkCode=sl2&tag=noya0b-20&linkId=3475c45f6917ab20ef9a4b1d618d7862&language=en_US"
-          },
-          {
-            "asin": "B000QZ3UG0",
-            "slug": "-as-a-man-thinketh-the-original-1902-classic-includes-the-ma",
-            "title": "\udecd️ As a Man Thinketh - The Original 1902 Classic (includes The Mastery of Destiny) (Reader's Library Classics)",
-            "price": "$175.95",
-            "discount": 40,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71pcVMd757L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -122,15 +111,26 @@
         ],
         "Grocery & Food": [
           {
-            "asin": "B0BL75738K",
-            "slug": "save-an-extra-40-off-select-monster-bang-energy-drinks",
-            "title": "Save an extra 40% off select monster & bang energy drinks!",
-            "price": "$27.48",
+            "asin": "B078GVQCTN",
+            "slug": "icymi-save-an-extra-40-off-kind-bars-granola-clip-q-sub-and",
+            "title": "ICYMI Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
+            "price": null,
             "discount": 40,
             "rating": "HOT",
             "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/617XoiJXjQL.jpg",
-            "url": "https://www.amazon.com/dp/B0BL75738K?tag=noya0b-20"
+            "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
+          },
+          {
+            "asin": "B078GVQCTN",
+            "slug": "icymi-save-an-extra-40-off-kind-bars-granola-clip-q-sub-and",
+            "title": "ICYMI Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
+            "price": null,
+            "discount": 40,
+            "rating": "HOT",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
           }
         ]
       },
@@ -224,26 +224,26 @@
           "url": "https://www.amazon.com/dp/B0BPRQRQDR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cdbb9d17cded5ca02385efaff0ffc28&language=en_US"
         },
         {
-          "asin": "B0BL75738K",
-          "slug": "save-an-extra-40-off-select-monster-bang-energy-drinks",
-          "title": "Save an extra 40% off select monster & bang energy drinks!",
-          "price": "$27.48",
+          "asin": "B078GVQCTN",
+          "slug": "icymi-save-an-extra-40-off-kind-bars-granola-clip-q-sub-and",
+          "title": "ICYMI Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
+          "price": null,
           "discount": 40,
           "rating": "HOT",
           "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/617XoiJXjQL.jpg",
-          "url": "https://www.amazon.com/dp/B0BL75738K?tag=noya0b-20"
+          "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
         },
         {
-          "asin": "B000QZ3UG0",
-          "slug": "-as-a-man-thinketh-the-original-1902-classic-includes-the-ma",
-          "title": "\udecd️ As a Man Thinketh - The Original 1902 Classic (includes The Mastery of Destiny) (Reader's Library Classics)",
-          "price": "$175.95",
+          "asin": "B078GVQCTN",
+          "slug": "icymi-save-an-extra-40-off-kind-bars-granola-clip-q-sub-and",
+          "title": "ICYMI Save an extra 40% off KIND bars & granola! clip Q + sub and save for less",
+          "price": null,
           "discount": 40,
           "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71pcVMd757L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HZPlQaRvL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B078GVQCTN?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-17T17:40:01.407Z",
-      "updatedAt": "2026-07-17T17:40:01.407Z"
+      "generatedAt": "2026-07-17T17:50:01.938Z",
+      "updatedAt": "2026-07-17T17:50:01.938Z"
     },
     {
       "date": "2026-07-16",
@@ -10564,5 +10564,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-17T17:40:01.411Z"
+  "generatedAt": "2026-07-17T17:50:01.942Z"
 }
