@@ -9,8 +9,7 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Free Deal",
-        "Beauty"
+        "Free Deal"
       ],
       "byCategory": {
         "Free Deal": [
@@ -37,6 +36,17 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61AJMx7Cb1L.jpg",
             "url": "https://www.amazon.com/dp/B0H5CVQKR5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=049788981f14d6cd5ea98be3647d0f52&language=en_US"
+          },
+          {
+            "asin": "B0D986WQV4",
+            "slug": "usb-c-fast-charger-100w-gan-6-port-usb-c-fast-charging-stati",
+            "title": "USB C Fast Charger, 100W GaN 6 Port USB C Fast Charging Station Hub Block Cube, QC USB A and PD USB C Wall Charger Power",
+            "price": "$11.69",
+            "discount": 47,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51VmLjUD7NL.jpg",
+            "url": "https://www.amazon.com/dp/B0D986WQV4?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7cd6d1be1be2429b5376fe6570d787b8&language=en_US"
           },
           {
             "asin": "B0D9YHM1YR",
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/619dwX2rgVL.jpg",
             "url": "https://www.amazon.com/dp/B081C5JLBQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=10bae83ef0c0b75417ca8950c4df0571&language=en_US"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0BPRQRQDR",
-            "slug": "-aveeno-sheer-hydration-daily-moisturizing-fragrance-free-lo",
-            "title": "\udecd️ Aveeno Sheer Hydration Daily Moisturizing Fragrance-Free Lotion with Nourishing Prebiotic Oat, Fast-Absorbing Body Mo",
-            "price": "$13.29",
-            "discount": 45,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0BPRQRQDR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cdbb9d17cded5ca02385efaff0ffc28&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -202,6 +199,17 @@
           "url": "https://www.amazon.com/dp/B07WP6JRSQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=38cfde6cc61924e7e92559820da4e155&language=en_US"
         },
         {
+          "asin": "B0D986WQV4",
+          "slug": "usb-c-fast-charger-100w-gan-6-port-usb-c-fast-charging-stati",
+          "title": "USB C Fast Charger, 100W GaN 6 Port USB C Fast Charging Station Hub Block Cube, QC USB A and PD USB C Wall Charger Power",
+          "price": "$11.69",
+          "discount": 47,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51VmLjUD7NL.jpg",
+          "url": "https://www.amazon.com/dp/B0D986WQV4?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7cd6d1be1be2429b5376fe6570d787b8&language=en_US"
+        },
+        {
           "asin": "B07964J5BG",
           "slug": "-chi-classic-tourmaline-ceramic-15-hairstyling-iron-wide-pla",
           "title": "\udecd️ CHI Classic Tourmaline Ceramic 1.5″ Hairstyling Iron, Wide Plate Hair Straightener & Curling Tool for Smooth, Shiny, ",
@@ -233,17 +241,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/619dwX2rgVL.jpg",
           "url": "https://www.amazon.com/dp/B081C5JLBQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=10bae83ef0c0b75417ca8950c4df0571&language=en_US"
-        },
-        {
-          "asin": "B0BPRQRQDR",
-          "slug": "-aveeno-sheer-hydration-daily-moisturizing-fragrance-free-lo",
-          "title": "\udecd️ Aveeno Sheer Hydration Daily Moisturizing Fragrance-Free Lotion with Nourishing Prebiotic Oat, Fast-Absorbing Body Mo",
-          "price": "$13.29",
-          "discount": 45,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0BPRQRQDR?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cdbb9d17cded5ca02385efaff0ffc28&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-17T19:30:02.034Z",
-      "updatedAt": "2026-07-17T19:30:02.034Z"
+      "generatedAt": "2026-07-17T19:40:00.904Z",
+      "updatedAt": "2026-07-17T19:40:00.904Z"
     },
     {
       "date": "2026-07-16",
@@ -10564,5 +10561,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-17T19:30:02.038Z"
+  "generatedAt": "2026-07-17T19:40:00.909Z"
 }
