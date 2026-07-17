@@ -10,8 +10,8 @@
         "Hair Care",
         "Fragrance",
         "Beauty",
-        "Makeup",
-        "Body Care"
+        "Body Care",
+        "Makeup"
       ],
       "bySubcat": {
         "Skincare": [
@@ -62,7 +62,7 @@
             "discount": 18,
             "rating": "GOOD",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71hrqewqXJL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B001P92FMG?th=1&linkCode=sl2&tag=noya0b-20&linkId=7013ae7f22c3e4d6c39347b97df96a22&language=en_US"
           },
           {
@@ -82,7 +82,7 @@
             "discount": 11,
             "rating": "GOOD",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/6120FfGpPDL._AC_SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08L88LZ4V?th=1&linkCode=sl2&tag=noya0b-20&linkId=48d8f3e774d31b0f60e6b88a670a2504&language=en_US"
           },
           {
@@ -124,6 +124,16 @@
             "subcat": "Skincare",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B000Q31SXY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2afdd76c5c2e9c169255aff6195c12a1&language=en_US"
+          },
+          {
+            "asin": "B000BHNBAI",
+            "slug": "-jack-black-double-duty-face-moisturizer-with-spf-20-facial",
+            "title": "\udecd️ Jack Black Double Duty Face Moisturizer with SPF 20, Facial Moisturizer Face Cream for Men, Mens Facial Lotion with S",
+            "discount": 5,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ddZ0qHCGL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B000BHNBAI?th=1&linkCode=sl2&tag=noya0b-20&linkId=d8f5c10b14d5d2ed7e9b78bb8362190a&language=en_US"
           }
         ],
         "Hair Care": [
@@ -158,16 +168,6 @@
             "url": "https://www.amazon.com/dp/B09MVMNW5M?th=1&linkCode=sl2&tag=noya0b-20&linkId=cb0ae36ec190f022ee82245155e6b7e7&language=en_US"
           },
           {
-            "asin": "B0D1CK3MYP",
-            "slug": "-157-x-59-extra-large-cuttable-air-conditioner-filters-cut-t",
-            "title": "\udecd️ 15.7\" x 59\" Extra Large Cuttable Air Conditioner Filters - Cut to Fit Carbon Pad Air Purifier Filters, Washable Reusa",
-            "discount": 21,
-            "rating": "WARM",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81+4L8aPbTL.jpg",
-            "url": "https://www.amazon.com/dp/B0D1CK3MYP?th=1&linkCode=sl2&tag=noya0b-20&linkId=bb54cd35fa4f00a6f44c9a823b083a48&language=en_US"
-          },
-          {
             "asin": "B09RRW33WF",
             "slug": "-remington-shine-therapy-argan-oil-keratin-infused-1-inch-ta",
             "title": "\udecd️ Remington Shine Therapy Argan Oil & Keratin Infused ½-1 Inch Tapered Curling Wand for Natural Curls, Includes Heat Gl",
@@ -194,7 +194,7 @@
             "discount": 8,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/810QDsVUvHL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01DPWDVTQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=1e71210b6dffa846388265413e3ec26c&language=en_US"
           },
           {
@@ -238,6 +238,16 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/71zzx0rh3OL.jpg",
             "url": "https://www.amazon.com/dp/B095XGKMPX?th=1&linkCode=sl2&tag=noya0b-20&linkId=159459190916fac0e33beaa88d95b2ba&language=en_US"
+          },
+          {
+            "asin": "B08VQ68BVS",
+            "slug": "-lattafa-perfumes-ramz-silver-eau-de-parfum-spray-for-unisex",
+            "title": "\udecd️ Lattafa Perfumes Ramz Silver Eau De Parfum Spray for Unisex, 3.4 Ounce",
+            "discount": 5,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/515MonfM4GL.jpg",
+            "url": "https://www.amazon.com/dp/B08VQ68BVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=0b92efc1c105f1a8b6623dac10237e94&language=en_US"
           }
         ],
         "Beauty": [
@@ -250,28 +260,6 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71Pk1J3ag9L.jpg",
             "url": "https://www.amazon.com/dp/B08R4XX2QR?th=1&tag=noya0b-20"
-          }
-        ],
-        "Makeup": [
-          {
-            "asin": "B0BXL2H1LD",
-            "slug": "-yirddeo-pink-full-comforter-set-3pcs-boho-blush-full-size-b",
-            "title": "\udecd️ YIRDDEO Pink Full Comforter Set 3Pcs, Boho Blush Full Size Bedding Set, Vertical Tufted Bed Set, Lightweight Neutral ",
-            "discount": 25,
-            "rating": "WARM",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/81xDl8mG17L.jpg",
-            "url": "https://www.amazon.com/dp/B0BXL2H1LD?th=1&linkCode=sl2&tag=noya0b-20&linkId=fc9ce3624c8c3846be95206f3b85ff72&language=en_US"
-          },
-          {
-            "asin": "B0032GQFK8",
-            "slug": "-laura-geller-new-york-baked-bronze-n-brighten-bronzer-powde",
-            "title": "\udecd️ LAURA GELLER NEW YORK Baked Bronze-N-Brighten Bronzer Powder - Fair - Natural Bronze Glow",
-            "discount": 12,
-            "rating": "GOOD",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71JzSpPQ5xL.jpg",
-            "url": "https://www.amazon.com/dp/B0032GQFK8?th=1&linkCode=sl2&tag=noya0b-20&linkId=f57c6e53a3366d8c56123421a901c1bf&language=en_US"
           }
         ],
         "Body Care": [
@@ -324,6 +312,18 @@
             "subcat": "Body Care",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0845CVB2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=530ffdfcce2113368de69ebedb1115cc&language=en_US"
+          }
+        ],
+        "Makeup": [
+          {
+            "asin": "B0032GQFK8",
+            "slug": "-laura-geller-new-york-baked-bronze-n-brighten-bronzer-powde",
+            "title": "\udecd️ LAURA GELLER NEW YORK Baked Bronze-N-Brighten Bronzer Powder - Fair - Natural Bronze Glow",
+            "discount": 12,
+            "rating": "GOOD",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JzSpPQ5xL.jpg",
+            "url": "https://www.amazon.com/dp/B0032GQFK8?th=1&linkCode=sl2&tag=noya0b-20&linkId=f57c6e53a3366d8c56123421a901c1bf&language=en_US"
           }
         ]
       },
@@ -409,16 +409,6 @@
           "url": "https://www.amazon.com/dp/B01I2ZQJSG?linkCode=sl2&tag=noya0b-20&linkId=7adda2ae18eeb40f4167eb3f4211a833&language=en_US"
         },
         {
-          "asin": "B0BXL2H1LD",
-          "slug": "-yirddeo-pink-full-comforter-set-3pcs-boho-blush-full-size-b",
-          "title": "\udecd️ YIRDDEO Pink Full Comforter Set 3Pcs, Boho Blush Full Size Bedding Set, Vertical Tufted Bed Set, Lightweight Neutral ",
-          "discount": 25,
-          "rating": "WARM",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xDl8mG17L.jpg",
-          "url": "https://www.amazon.com/dp/B0BXL2H1LD?th=1&linkCode=sl2&tag=noya0b-20&linkId=fc9ce3624c8c3846be95206f3b85ff72&language=en_US"
-        },
-        {
           "asin": "B09MVMNW5M",
           "slug": "-cetaphil-baby-wash-shampoo-135oz-pack-of-2-hypoallergenic-g",
           "title": "\udecd️ Cetaphil Baby Wash & Shampoo, 13.5oz Pack of 2, Hypoallergenic, Gentle Enough for Everyday Use, Soap Free",
@@ -439,23 +429,13 @@
           "url": "https://www.amazon.com/dp/B09WHV1NJL?th=1&linkCode=sl2&tag=noya0b-20&linkId=db6407cbeda6159dd1fd11023a3a753e&language=en_US"
         },
         {
-          "asin": "B0D1CK3MYP",
-          "slug": "-157-x-59-extra-large-cuttable-air-conditioner-filters-cut-t",
-          "title": "\udecd️ 15.7\" x 59\" Extra Large Cuttable Air Conditioner Filters - Cut to Fit Carbon Pad Air Purifier Filters, Washable Reusa",
-          "discount": 21,
-          "rating": "WARM",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81+4L8aPbTL.jpg",
-          "url": "https://www.amazon.com/dp/B0D1CK3MYP?th=1&linkCode=sl2&tag=noya0b-20&linkId=bb54cd35fa4f00a6f44c9a823b083a48&language=en_US"
-        },
-        {
           "asin": "B001P92FMG",
           "slug": "-neutrogena-sport-face-sunscreen-spf-70-oil-free-sweat-and-w",
           "title": "\udecd️ Neutrogena, Sport Face Sunscreen SPF 70+, Oil-Free, Sweat and Water-Resistant, Broad-Spectrum UVA/UVB, 2.5 Fl Oz",
           "discount": 18,
           "rating": "GOOD",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71hrqewqXJL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B001P92FMG?th=1&linkCode=sl2&tag=noya0b-20&linkId=7013ae7f22c3e4d6c39347b97df96a22&language=en_US"
         },
         {
@@ -525,7 +505,7 @@
           "discount": 11,
           "rating": "GOOD",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/6120FfGpPDL._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08L88LZ4V?th=1&linkCode=sl2&tag=noya0b-20&linkId=48d8f3e774d31b0f60e6b88a670a2504&language=en_US"
         },
         {
@@ -585,7 +565,7 @@
           "discount": 8,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/810QDsVUvHL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01DPWDVTQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=1e71210b6dffa846388265413e3ec26c&language=en_US"
         },
         {
@@ -627,6 +607,26 @@
           "subcat": "Skincare",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B000Q31SXY?th=1&linkCode=sl2&tag=noya0b-20&linkId=2afdd76c5c2e9c169255aff6195c12a1&language=en_US"
+        },
+        {
+          "asin": "B000BHNBAI",
+          "slug": "-jack-black-double-duty-face-moisturizer-with-spf-20-facial",
+          "title": "\udecd️ Jack Black Double Duty Face Moisturizer with SPF 20, Facial Moisturizer Face Cream for Men, Mens Facial Lotion with S",
+          "discount": 5,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ddZ0qHCGL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B000BHNBAI?th=1&linkCode=sl2&tag=noya0b-20&linkId=d8f5c10b14d5d2ed7e9b78bb8362190a&language=en_US"
+        },
+        {
+          "asin": "B08VQ68BVS",
+          "slug": "-lattafa-perfumes-ramz-silver-eau-de-parfum-spray-for-unisex",
+          "title": "\udecd️ Lattafa Perfumes Ramz Silver Eau De Parfum Spray for Unisex, 3.4 Ounce",
+          "discount": 5,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/515MonfM4GL.jpg",
+          "url": "https://www.amazon.com/dp/B08VQ68BVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=0b92efc1c105f1a8b6623dac10237e94&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include \udecd️ YIRDDEO Pink Full Comforter Set 3Pcs, Boho Blus and \udecd️ LAURA GELLER NEW YORK Baked Bronze-N-Brighten B and more."
+          "a": "Yes! Today's makeup deals include \udecd️ LAURA GELLER NEW YORK Baked Bronze-N-Brighten B and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-17T21:40:03.744Z",
-      "updatedAt": "2026-07-17T21:40:03.744Z"
+      "generatedAt": "2026-07-17T21:50:04.462Z",
+      "updatedAt": "2026-07-17T21:50:04.462Z"
     },
     {
       "date": "2026-07-16",
@@ -24199,5 +24199,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-17T21:40:03.753Z"
+  "generatedAt": "2026-07-17T21:50:04.470Z"
 }
