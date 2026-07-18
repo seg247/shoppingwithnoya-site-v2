@@ -10,7 +10,8 @@
         "Fashion",
         "Other",
         "Home & Kitchen",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Beauty": [
@@ -46,17 +47,6 @@
             "category": "Beauty",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GJG1KY8V?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0GWQ7F978",
-            "slug": "-hair-dryer-160000-rpm-high-speed-ionic-blow-dryer-with-diff",
-            "title": "\udecd️ Hair Dryer, 160,000 RPM High-Speed Ionic Blow Dryer with Diffuser, Professional Hairdryer for Fast Drying, 500 Millio",
-            "price": "$56.99",
-            "discount": 43,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JiG73UDHL.jpg",
-            "url": "https://www.amazon.com/dp/B0GWQ7F978?th=1&linkCode=sl2&tag=noya0b-20&linkId=91d2d19b5ee554a1f0fe4e2a98a6bedf&language=en_US"
           }
         ],
         "Fashion": [
@@ -131,6 +121,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/718jvHxHlQL.jpg",
             "url": "https://www.amazon.com/dp/B0CF1ZQVC2?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B08PFQ7XLJ",
+            "slug": "qpau-splash-pads-for-toddlers-1-3-pink-mermaid-toy-splash-pa",
+            "title": "QPAU Splash Pads for Toddlers 1-3, Pink Mermaid Toy Splash Pad for Kids, Outdoor Play Mat for Babies, Inflatable Pool fo",
+            "price": "$19",
+            "discount": 46,
+            "rating": "HOT",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81xolOkRi2L.jpg",
+            "url": "https://www.amazon.com/dp/B08PFQ7XLJ?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -224,6 +227,17 @@
           "url": "https://www.amazon.com/dp/B0GJG1KY8V?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B08PFQ7XLJ",
+          "slug": "qpau-splash-pads-for-toddlers-1-3-pink-mermaid-toy-splash-pa",
+          "title": "QPAU Splash Pads for Toddlers 1-3, Pink Mermaid Toy Splash Pad for Kids, Outdoor Play Mat for Babies, Inflatable Pool fo",
+          "price": "$19",
+          "discount": 46,
+          "rating": "HOT",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81xolOkRi2L.jpg",
+          "url": "https://www.amazon.com/dp/B08PFQ7XLJ?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B07MDDT2LV",
           "slug": "-metabo-hpt-finish-nailer-with-air-duster-pro-preferred-pneu",
           "title": "\udecd️ Metabo HPT Finish Nailer with Air Duster, Pro-Preferred Pneumatic Power Nailers, Ideal for Molding, Chair Rail, and C",
@@ -233,17 +247,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07MDDT2LV?th=1&linkCode=sl2&tag=noya0b-20&linkId=10ac1c8c7756543bd62e03e7561d9fd0&language=en_US"
-        },
-        {
-          "asin": "B0GWQ7F978",
-          "slug": "-hair-dryer-160000-rpm-high-speed-ionic-blow-dryer-with-diff",
-          "title": "\udecd️ Hair Dryer, 160,000 RPM High-Speed Ionic Blow Dryer with Diffuser, Professional Hairdryer for Fast Drying, 500 Millio",
-          "price": "$56.99",
-          "discount": 43,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JiG73UDHL.jpg",
-          "url": "https://www.amazon.com/dp/B0GWQ7F978?th=1&linkCode=sl2&tag=noya0b-20&linkId=91d2d19b5ee554a1f0fe4e2a98a6bedf&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-18T23:40:01.388Z",
-      "updatedAt": "2026-07-18T23:40:01.388Z"
+      "generatedAt": "2026-07-18T23:50:01.307Z",
+      "updatedAt": "2026-07-18T23:50:01.307Z"
     },
     {
       "date": "2026-07-17",
@@ -10841,5 +10844,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-18T23:40:01.393Z"
+  "generatedAt": "2026-07-18T23:50:01.311Z"
 }
