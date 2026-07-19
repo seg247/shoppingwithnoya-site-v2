@@ -9,6 +9,7 @@
         "Other",
         "Beauty",
         "Grocery & Food",
+        "Personal Care",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -80,17 +81,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71pcVMd757L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
-          },
-          {
-            "asin": "B0B76WTT4Y",
-            "slug": "-tbmpoy-mens-tracksuits-sweatsuits-for-men-sweat-track-suits",
-            "title": "\udecd️ TBMPOY Men's Tracksuits Sweatsuits for Men Sweat Track Suits 2 Piece Casual Athletic Jogging Warm Up Full Zip Sets",
-            "price": "$42.99",
-            "discount": 7,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/7113R9du4CL._AC_SL1100_.jpg",
-            "url": "https://www.amazon.com/dp/B0B76WTT4Y?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a880f189080c5f9af303fd965dd3cacc&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -115,6 +105,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/512lwvl2+tL._AC_SL1254_.jpg",
             "url": "https://www.amazon.com/dp/B08D3XPCZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=19f7e17d5c5dd807e8b38b1063978d34&language=en_US"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0035LCFNQ",
+            "slug": "-duracell-coppertop-aa-batteries-24-count-power-boost-reliab",
+            "title": "\udecd️ Duracell Coppertop AA Batteries, 24 Count, POWER BOOST™, Reliable Alkaline",
+            "price": "$16.60",
+            "discount": 32,
+            "rating": "HOT",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71F1yxjGeYL.jpg",
+            "url": "https://www.amazon.com/dp/B0035LCFNQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=6b76d0b9d815a8e6dcbc7887fa8b9f75&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -177,6 +180,17 @@
           "url": "https://www.amazon.com/dp/B007XIMA32?th=1&linkCode=sl2&tag=noya0b-20&linkId=9fe7b5db7c23c0c125ab0e2f92d37e3c&language=en_US"
         },
         {
+          "asin": "B0035LCFNQ",
+          "slug": "-duracell-coppertop-aa-batteries-24-count-power-boost-reliab",
+          "title": "\udecd️ Duracell Coppertop AA Batteries, 24 Count, POWER BOOST™, Reliable Alkaline",
+          "price": "$16.60",
+          "discount": 32,
+          "rating": "HOT",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71F1yxjGeYL.jpg",
+          "url": "https://www.amazon.com/dp/B0035LCFNQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=6b76d0b9d815a8e6dcbc7887fa8b9f75&language=en_US"
+        },
+        {
           "asin": "B000QZ3UG0",
           "slug": "-goveelife-smart-ice-maker-countertop-portable-ice-machine-w",
           "title": "\udecd️ GoveeLife Smart Ice Maker Countertop, Portable Ice Machine with Voice Control, 9 Ice Cubes in 6 Minutes 3 Sizes, 26lb",
@@ -230,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71pcVMd757L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
-        },
-        {
-          "asin": "B0B76WTT4Y",
-          "slug": "-tbmpoy-mens-tracksuits-sweatsuits-for-men-sweat-track-suits",
-          "title": "\udecd️ TBMPOY Men's Tracksuits Sweatsuits for Men Sweat Track Suits 2 Piece Casual Athletic Jogging Warm Up Full Zip Sets",
-          "price": "$42.99",
-          "discount": 7,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/7113R9du4CL._AC_SL1100_.jpg",
-          "url": "https://www.amazon.com/dp/B0B76WTT4Y?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a880f189080c5f9af303fd965dd3cacc&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-19T14:40:01.361Z",
-      "updatedAt": "2026-07-19T14:40:01.361Z"
+      "generatedAt": "2026-07-19T14:50:02.052Z",
+      "updatedAt": "2026-07-19T14:50:02.052Z"
     },
     {
       "date": "2026-07-18",
@@ -11112,5 +11115,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-19T14:40:01.365Z"
+  "generatedAt": "2026-07-19T14:50:02.056Z"
 }
