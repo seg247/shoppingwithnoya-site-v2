@@ -4,10 +4,12 @@
       "date": "2026-07-19",
       "slug": "2026-07-19",
       "title": "🔥 Best Deals Today — July 19, 2026",
-      "intro": "Today's best online deals for Sunday, July 19, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Electronics and more. The best discount today is 35% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, July 19, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Cleaning Supplies and more. The best discount today is 35% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Grocery & Food",
+        "Cleaning Supplies",
+        "Home & Kitchen",
         "Electronics",
         "Beauty"
       ],
@@ -80,28 +82,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71tNCgLudIL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0BL466Y41?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Cleaning Supplies": [
           {
-            "asin": "B097XS47KV",
-            "slug": "-medical-15-20-mmhg-zipper-compression-socks-women-men",
-            "title": "\udecd️ Medical 15-20 mmHg Zipper Compression Socks Women Men",
-            "price": "$15.99",
+            "asin": "B00FFDP0AC",
+            "slug": "lysol-toilet-bowl-cleaner-gel-for-cleaning-and-disinfecting",
+            "title": "Lysol Toilet Bowl Cleaner Gel, For Cleaning and Disinfecting, Bleach Free, Ocean Fresh Scent, 24oz (Pack of 2)",
+            "price": "$4.44",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61sL9Fl1qPL._AC_SL1001_.jpg",
-            "url": "https://www.amazon.com/dp/B097XS47KV?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b4788e7648a6e37d039018fb0a25b6b&language=en_US"
-          },
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Frn3Ym8yL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00FFDP0AC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B07GQV5C4P",
-            "slug": "-everie-evc-nano-sous-vide-container-12-quart-with-upgraded",
-            "title": "\udecd️ EVERIE EVC-NANO Sous Vide Container 12 Quart with Upgraded Collapsible Hinged Lid, Stronger Split-Hinge Design, Compa",
+            "asin": "B0CYJBB2NN",
+            "slug": "bella-60-qt-manual-slow-cooker-ceramic-nonstick-coating-3-te",
+            "title": "bella 6.0 Qt Manual Slow Cooker, Ceramic Nonstick Coating, 3 Temperature Settings, Dishwasher Safe Stoneware Pot and Tem",
             "price": null,
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61skQ2i5+EL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07GQV5C4P?th=1&linkCode=sl2&tag=noya0b-20&linkId=e4b1effeb1113446f970a307b83676a4&language=en_US"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71DIKCSDHGL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CYJBB2NN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Electronics": [
@@ -188,6 +194,28 @@
           "url": "https://www.amazon.com/dp/B08S5GWH9V?th=1&linkCode=sl2&tag=noya0b-20&linkId=601ab0e1df876b9d230c4a5c137d5df5&language=en_US"
         },
         {
+          "asin": "B00FFDP0AC",
+          "slug": "lysol-toilet-bowl-cleaner-gel-for-cleaning-and-disinfecting",
+          "title": "Lysol Toilet Bowl Cleaner Gel, For Cleaning and Disinfecting, Bleach Free, Ocean Fresh Scent, 24oz (Pack of 2)",
+          "price": "$4.44",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Frn3Ym8yL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00FFDP0AC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0CYJBB2NN",
+          "slug": "bella-60-qt-manual-slow-cooker-ceramic-nonstick-coating-3-te",
+          "title": "bella 6.0 Qt Manual Slow Cooker, Ceramic Nonstick Coating, 3 Temperature Settings, Dishwasher Safe Stoneware Pot and Tem",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71DIKCSDHGL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CYJBB2NN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
           "asin": "B0BL466Y41",
           "slug": "hp-smart-tank-5101-wireless-all-in-one-refillable-printer-sc",
           "title": "HP Smart Tank 5101 Wireless All-in-One Refillable Printer, Scanner, Copier with 2 Years of Ink Included, Wireless (2.4gh",
@@ -219,34 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71YwwbezQRL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01N97PCBH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B097XS47KV",
-          "slug": "-medical-15-20-mmhg-zipper-compression-socks-women-men",
-          "title": "\udecd️ Medical 15-20 mmHg Zipper Compression Socks Women Men",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61sL9Fl1qPL._AC_SL1001_.jpg",
-          "url": "https://www.amazon.com/dp/B097XS47KV?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b4788e7648a6e37d039018fb0a25b6b&language=en_US"
-        },
-        {
-          "asin": "B07GQV5C4P",
-          "slug": "-everie-evc-nano-sous-vide-container-12-quart-with-upgraded",
-          "title": "\udecd️ EVERIE EVC-NANO Sous Vide Container 12 Quart with Upgraded Collapsible Hinged Lid, Stronger Split-Hinge Design, Compa",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61skQ2i5+EL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07GQV5C4P?th=1&linkCode=sl2&tag=noya0b-20&linkId=e4b1effeb1113446f970a307b83676a4&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 19, 2026?",
-          "a": "The best deals today include \"\udecd️ Total Tea SIimming Detox Tea Caffeine Free - 25 Day Detox...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️ Total Tea SIimming Detox Tea Caffeine Free - 25 Day Detox...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-19T06:10:02.161Z",
-      "updatedAt": "2026-07-19T06:10:02.161Z"
+      "generatedAt": "2026-07-19T06:20:02.230Z",
+      "updatedAt": "2026-07-19T06:20:02.230Z"
     },
     {
       "date": "2026-07-18",
@@ -11112,5 +11118,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-19T06:10:02.165Z"
+  "generatedAt": "2026-07-19T06:20:02.234Z"
 }
