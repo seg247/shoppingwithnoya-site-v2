@@ -9,6 +9,7 @@
         "Grocery & Food",
         "Beauty",
         "Other",
+        "Home & Kitchen",
         "Fashion",
         "Personal Care"
       ],
@@ -72,7 +73,31 @@
             "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B07VC8W1NG",
+            "slug": "-sweese-74-inch-porcelain-dessert-plates-set-of-6-stackable",
+            "title": "\udecd️ Sweese 7.4 Inch Porcelain Dessert Plates, Set of 6 - Stackable, Microwave Oven Safe - White",
+            "price": "$29.49",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/616yEh1AVQL.jpg",
+            "url": "https://www.amazon.com/dp/B07VC8W1NG?th=1&linkCode=sl2&tag=noya0b-20&linkId=dacdd1ebf36ca6dc130e91e5b984d095&language=en_US"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B07WP6JRSQ",
+            "slug": "-saris-fluid2-indoor-bike-trainer-smart-equipped-option-fits",
+            "title": "\udecd️ Saris Fluid2 Indoor Bike Trainer, Smart Equipped Option, Fits Road and Mountain Bikes, Compatible with Zwift App",
+            "price": "$129.99",
+            "discount": 48,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/616KfAPh3sL.jpg",
+            "url": "https://www.amazon.com/dp/B07WP6JRSQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=ff5e162aa89cb31444ea4b7c8da9f3e7&language=en_US"
+          },
           {
             "asin": "B0FDRB778Y",
             "slug": "-as-a-man-thinketh-the-original-1902-classic-includes-the-ma",
@@ -83,17 +108,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51MiyozZnuL.jpg",
             "url": "https://www.amazon.com/dp/B0FDRB778Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ae097997f3465aa01ac81a9c3e55a&language=en_US"
-          },
-          {
-            "asin": "B000QZ3UG0",
-            "slug": "-goveelife-smart-ice-maker-countertop-portable-ice-machine-w",
-            "title": "\udecd️ GoveeLife Smart Ice Maker Countertop, Portable Ice Machine with Voice Control, 9 Ice Cubes in 6 Minutes 3 Sizes, 26lb",
-            "price": "$175.95",
-            "discount": 25,
-            "rating": "WARM",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71pcVMd757L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
           }
         ],
         "Fashion": [
@@ -107,17 +121,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71yKXyXCMKL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B074HBC1BR?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=32de0ebe4ed168ca85ad9f60f0ab4bb8&language=en_US"
-          },
-          {
-            "asin": "B0FDRB778Y",
-            "slug": "-w11106747-w10340443-washer-door-bellow-boot-seal-gasket-com",
-            "title": "\udecd️ W11106747, W10340443 Washer Door Bellow Boot Seal Gasket Compatible for Whirlpool",
-            "price": "$99.99",
-            "discount": 30,
-            "rating": "HOT",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51MiyozZnuL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDRB778Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ae097997f3465aa01ac81a9c3e55a&language=en_US"
           }
         ],
         "Personal Care": [
@@ -167,6 +170,28 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71wBKW5YZBL.jpg",
           "url": "https://www.amazon.com/dp/B000YA5GAA?th=1&linkCode=sl2&tag=noya0b-20&linkId=fa3c56bc8cd19333819b0a8ed73beaa4&language=en_US"
+        },
+        {
+          "asin": "B07VC8W1NG",
+          "slug": "-sweese-74-inch-porcelain-dessert-plates-set-of-6-stackable",
+          "title": "\udecd️ Sweese 7.4 Inch Porcelain Dessert Plates, Set of 6 - Stackable, Microwave Oven Safe - White",
+          "price": "$29.49",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/616yEh1AVQL.jpg",
+          "url": "https://www.amazon.com/dp/B07VC8W1NG?th=1&linkCode=sl2&tag=noya0b-20&linkId=dacdd1ebf36ca6dc130e91e5b984d095&language=en_US"
+        },
+        {
+          "asin": "B07WP6JRSQ",
+          "slug": "-saris-fluid2-indoor-bike-trainer-smart-equipped-option-fits",
+          "title": "\udecd️ Saris Fluid2 Indoor Bike Trainer, Smart Equipped Option, Fits Road and Mountain Bikes, Compatible with Zwift App",
+          "price": "$129.99",
+          "discount": 48,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/616KfAPh3sL.jpg",
+          "url": "https://www.amazon.com/dp/B07WP6JRSQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=ff5e162aa89cb31444ea4b7c8da9f3e7&language=en_US"
         },
         {
           "asin": "B0FDRB778Y",
@@ -222,28 +247,6 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71F1yxjGeYL.jpg",
           "url": "https://www.amazon.com/dp/B0035LCFNQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=6b76d0b9d815a8e6dcbc7887fa8b9f75&language=en_US"
-        },
-        {
-          "asin": "B0FDRB778Y",
-          "slug": "-w11106747-w10340443-washer-door-bellow-boot-seal-gasket-com",
-          "title": "\udecd️ W11106747, W10340443 Washer Door Bellow Boot Seal Gasket Compatible for Whirlpool",
-          "price": "$99.99",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51MiyozZnuL.jpg",
-          "url": "https://www.amazon.com/dp/B0FDRB778Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ae097997f3465aa01ac81a9c3e55a&language=en_US"
-        },
-        {
-          "asin": "B000QZ3UG0",
-          "slug": "-goveelife-smart-ice-maker-countertop-portable-ice-machine-w",
-          "title": "\udecd️ GoveeLife Smart Ice Maker Countertop, Portable Ice Machine with Voice Control, 9 Ice Cubes in 6 Minutes 3 Sizes, 26lb",
-          "price": "$175.95",
-          "discount": 25,
-          "rating": "WARM",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71pcVMd757L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B000QZ3UG0?th=1&linkCode=sl2&tag=noya0b-20&linkId=306186150a5a938b07fe7fd16f41f402&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-19T18:50:01.437Z",
-      "updatedAt": "2026-07-19T18:50:01.437Z"
+      "generatedAt": "2026-07-19T19:00:01.783Z",
+      "updatedAt": "2026-07-19T19:00:01.783Z"
     },
     {
       "date": "2026-07-18",
@@ -11115,5 +11118,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-19T18:50:01.441Z"
+  "generatedAt": "2026-07-19T19:00:01.787Z"
 }
