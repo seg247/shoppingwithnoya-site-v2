@@ -10,6 +10,7 @@
         "Grocery & Food",
         "Electronics",
         "Garden & Outdoor",
+        "Home & Kitchen",
         "Beauty"
       ],
       "byCategory": {
@@ -46,17 +47,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71jXduQMGzL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0H1DWX1VN?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0DSQLYJNB",
-            "slug": "feit-electric-a19-smart-led-light-bulb-60w-equivalent-dimmab",
-            "title": "Feit Electric A19 Smart LED Light Bulb, 60W Equivalent, Dimmable, RGBW Color Changing, Alexa & Google Home Compatible, 2",
-            "price": "$31.90",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71p0jzvpvQL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DSQLYJNB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Grocery & Food": [
@@ -94,6 +84,19 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/71Gj5pgIDcL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B000Q69TK0?th=1&linkCode=sl2&tag=noya0b-20&linkId=80a4e2af88e54d5aae7b8dd86a472b08&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0CMFQPFWS",
+            "slug": "infantino-foldable-foam-play-mat-reversible-57x57-in-animals",
+            "title": "Infantino Foldable Foam Play Mat Reversible 57x57 in, Animals | Reversible design with two sides to play, Lightweight & ",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VVsqeG4SL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CMFQPFWS/ref=cm_sw_r_as_gl_apa_gl_i_82CW1AW2DCE0YN3KF9ZG?linkCode=ml1&tag=noya0b-20&linkId=4a99bad9fce0d37b693b689c9cd09d17"
           }
         ],
         "Beauty": [
@@ -180,6 +183,17 @@
           "url": "https://www.amazon.com/dp/B000Q69TK0?th=1&linkCode=sl2&tag=noya0b-20&linkId=80a4e2af88e54d5aae7b8dd86a472b08&language=en_US"
         },
         {
+          "asin": "B0CMFQPFWS",
+          "slug": "infantino-foldable-foam-play-mat-reversible-57x57-in-animals",
+          "title": "Infantino Foldable Foam Play Mat Reversible 57x57 in, Animals | Reversible design with two sides to play, Lightweight & ",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VVsqeG4SL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CMFQPFWS/ref=cm_sw_r_as_gl_apa_gl_i_82CW1AW2DCE0YN3KF9ZG?linkCode=ml1&tag=noya0b-20&linkId=4a99bad9fce0d37b693b689c9cd09d17"
+        },
+        {
           "asin": "B0DVCDMSRL",
           "slug": "nautica-color-green-eau-de-toilette-for-men-woody-fougere-fr",
           "title": "Nautica Color Green Eau de Toilette for Men, Woody Fougere Fragrance, Notes of Ginger, Geranium and Vetiver, 1.6oz",
@@ -233,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61mAYxPU7OL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CYZLT7M2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DSQLYJNB",
-          "slug": "feit-electric-a19-smart-led-light-bulb-60w-equivalent-dimmab",
-          "title": "Feit Electric A19 Smart LED Light Bulb, 60W Equivalent, Dimmable, RGBW Color Changing, Alexa & Google Home Compatible, 2",
-          "price": "$31.90",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71p0jzvpvQL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DSQLYJNB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-20T06:00:01.366Z",
-      "updatedAt": "2026-07-20T06:00:01.366Z"
+      "generatedAt": "2026-07-20T06:10:01.885Z",
+      "updatedAt": "2026-07-20T06:10:01.885Z"
     },
     {
       "date": "2026-07-19",
@@ -11389,5 +11392,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-20T06:00:01.370Z"
+  "generatedAt": "2026-07-20T06:10:01.890Z"
 }
