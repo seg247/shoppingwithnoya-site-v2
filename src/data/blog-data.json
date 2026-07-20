@@ -10,6 +10,8 @@
         "Other",
         "Beauty",
         "Grocery & Food",
+        "Fashion",
+        "Toys & Kids",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -48,28 +50,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51MiyozZnuL.jpg",
             "url": "https://www.amazon.com/dp/B0FDRB778Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ae097997f3465aa01ac81a9c3e55a&language=en_US"
-          },
-          {
-            "asin": "B0B39PJJYG",
-            "slug": "-ezy-dose-pill-cutter-splitter-built-in-pill-dispenser-green",
-            "title": "\udecd️ Ezy Dose Pill Cutter & Splitter, Built-in Pill Dispenser, Green | Easy-Cut Stainless Steel Blade for Tablets, Vitamin",
-            "price": "$4.99",
-            "discount": 17,
-            "rating": "GOOD",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GDvAUF0eL.jpg",
-            "url": "https://www.amazon.com/dp/B0B39PJJYG?th=1&linkCode=sl2&tag=noya0b-20&linkId=8c630f9976246598ed0d5cdc728af1aa&language=en_US"
-          },
-          {
-            "asin": "B0C6FKBXGQ",
-            "slug": "-poly-voyager-4320-uc-wireless-headset-bluetooth-headphones",
-            "title": "\udecd️ Poly Voyager 4320 UC Wireless Headset, Bluetooth Headphones with Mic - Noise-Canceling Boom Mic - Connect to PC via U",
-            "price": "$146.99",
-            "discount": 16,
-            "rating": "GOOD",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/41tcR2HqURL.jpg",
-            "url": "https://www.amazon.com/dp/B0C6FKBXGQ?th=1&linkCode=ll2&tag=noya0b-20&linkId=ec59d42d3d40952317dfb2766df54e2e&language=en_US"
           }
         ],
         "Other": [
@@ -96,6 +76,19 @@
             "url": "https://www.amazon.com/dp/B0C9NFSWVB?th=1&linkCode=sl2&tag=noya0b-20&linkId=d2445a557463646c0369bb1c59c1dd34&language=en_US"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0FVFTY4CG",
+            "slug": "-spotminders-apple-mfi-certified-wallet-tracker-pro-works-wi",
+            "title": "\udecd️ SPOTMINDERS Apple MFi Certified Wallet Tracker PRO Works with Apple Find My IP68 Rechargeable Tracking Card for Walle",
+            "price": "$32.27",
+            "discount": 28,
+            "rating": "WARM",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Ht5iZD1mL.jpg",
+            "url": "https://www.amazon.com/dp/B0FVFTY4CG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f3ac7ccb57e07a7d6dccae2c1c0c3238&language=en_US"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B08L8W5FHT",
@@ -118,6 +111,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/613gfd5u7UL.jpg",
             "url": "https://www.amazon.com/dp/B0CPRKY8XD?th=1&linkCode=sl2&tag=noya0b-20&linkId=6b497204b5af8aa046efd8a5887d3e7f&language=en_US"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0DHLQMWW7",
+            "slug": "-graco-extend2fit-convertible-car-seat-rear-and-forward-faci",
+            "title": "\udecd️ Graco Extend2Fit Convertible Car Seat, Rear and Forward Facing Car Seat with Adjustable Extension Panel for Extra Leg",
+            "price": "$179.99",
+            "discount": 25,
+            "rating": "WARM",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71t-4GHbwAL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHLQMWW7?th=1&linkCode=sl2&tag=noya0b-20&linkId=490ae520b72b8521d3fb04fa76102bdc&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -180,6 +186,17 @@
           "url": "https://www.amazon.com/dp/B08LCW2TX5?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=346d50266774e80088b83fcae1da2768&language=en_US"
         },
         {
+          "asin": "B0FVFTY4CG",
+          "slug": "-spotminders-apple-mfi-certified-wallet-tracker-pro-works-wi",
+          "title": "\udecd️ SPOTMINDERS Apple MFi Certified Wallet Tracker PRO Works with Apple Find My IP68 Rechargeable Tracking Card for Walle",
+          "price": "$32.27",
+          "discount": 28,
+          "rating": "WARM",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Ht5iZD1mL.jpg",
+          "url": "https://www.amazon.com/dp/B0FVFTY4CG?th=1&linkCode=sl2&tag=noya0b-20&linkId=f3ac7ccb57e07a7d6dccae2c1c0c3238&language=en_US"
+        },
+        {
           "asin": "B08L8W5FHT",
           "slug": "-covergirl-outlast-allday-lip-color-with-moisturizing-topcoa",
           "title": "\udecd️ COVERGIRL, Outlast AllDay Lip Color with Moisturizing Topcoat New Neutrals Shade Collection 120 Dusty Blush, 1 Count",
@@ -189,6 +206,17 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61nWKTHSjgL.jpg",
           "url": "https://www.amazon.com/dp/B08L8W5FHT?th=1&linkCode=sl2&tag=noya0b-20&linkId=89f9da4dd156a7800ec22a633d70df1c&language=en_US"
+        },
+        {
+          "asin": "B0DHLQMWW7",
+          "slug": "-graco-extend2fit-convertible-car-seat-rear-and-forward-faci",
+          "title": "\udecd️ Graco Extend2Fit Convertible Car Seat, Rear and Forward Facing Car Seat with Adjustable Extension Panel for Extra Leg",
+          "price": "$179.99",
+          "discount": 25,
+          "rating": "WARM",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71t-4GHbwAL.jpg",
+          "url": "https://www.amazon.com/dp/B0DHLQMWW7?th=1&linkCode=sl2&tag=noya0b-20&linkId=490ae520b72b8521d3fb04fa76102bdc&language=en_US"
         },
         {
           "asin": "B0C9NFSWVB",
@@ -222,28 +250,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/613gfd5u7UL.jpg",
           "url": "https://www.amazon.com/dp/B0CPRKY8XD?th=1&linkCode=sl2&tag=noya0b-20&linkId=6b497204b5af8aa046efd8a5887d3e7f&language=en_US"
-        },
-        {
-          "asin": "B0B39PJJYG",
-          "slug": "-ezy-dose-pill-cutter-splitter-built-in-pill-dispenser-green",
-          "title": "\udecd️ Ezy Dose Pill Cutter & Splitter, Built-in Pill Dispenser, Green | Easy-Cut Stainless Steel Blade for Tablets, Vitamin",
-          "price": "$4.99",
-          "discount": 17,
-          "rating": "GOOD",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GDvAUF0eL.jpg",
-          "url": "https://www.amazon.com/dp/B0B39PJJYG?th=1&linkCode=sl2&tag=noya0b-20&linkId=8c630f9976246598ed0d5cdc728af1aa&language=en_US"
-        },
-        {
-          "asin": "B0C6FKBXGQ",
-          "slug": "-poly-voyager-4320-uc-wireless-headset-bluetooth-headphones",
-          "title": "\udecd️ Poly Voyager 4320 UC Wireless Headset, Bluetooth Headphones with Mic - Noise-Canceling Boom Mic - Connect to PC via U",
-          "price": "$146.99",
-          "discount": 16,
-          "rating": "GOOD",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/41tcR2HqURL.jpg",
-          "url": "https://www.amazon.com/dp/B0C6FKBXGQ?th=1&linkCode=ll2&tag=noya0b-20&linkId=ec59d42d3d40952317dfb2766df54e2e&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-20T12:40:00.733Z",
-      "updatedAt": "2026-07-20T12:40:00.733Z"
+      "generatedAt": "2026-07-20T12:50:01.749Z",
+      "updatedAt": "2026-07-20T12:50:01.749Z"
     },
     {
       "date": "2026-07-19",
@@ -11389,5 +11395,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-20T12:40:00.738Z"
+  "generatedAt": "2026-07-20T12:50:01.754Z"
 }
