@@ -10,7 +10,7 @@
         "Grocery & Food",
         "Electronics",
         "Garden & Outdoor",
-        "Home & Kitchen"
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -96,6 +96,19 @@
             "url": "https://www.amazon.com/dp/B000Q69TK0?th=1&linkCode=sl2&tag=noya0b-20&linkId=80a4e2af88e54d5aae7b8dd86a472b08&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0DVCDMSRL",
+            "slug": "nautica-color-green-eau-de-toilette-for-men-woody-fougere-fr",
+            "title": "Nautica Color Green Eau de Toilette for Men, Woody Fougere Fragrance, Notes of Ginger, Geranium and Vetiver, 1.6oz",
+            "price": "$18.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-pQlJex-L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DVCDMSRL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0002BEUZ8",
@@ -118,19 +131,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61mAYxPU7OL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CYZLT7M2?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07YBXMGDZ",
-            "slug": "aroma-housewares-arc-1120sbl-smartcarb-cool-touch-stainless",
-            "title": "Aroma Housewares ARC-1120SBL SmartCarb Cool-Touch Stainless Steel Rice Multicooker Food Steamer, Slow Cooker with Non-St",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LyNbc5R5L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07YBXMGDZ/ref=cm_sw_r_as_gl_apa_gl_i_QFS6P8RCYNMR47HR8XC9?linkCode=ml1&tag=noya0b-20&linkId=507ceea7b1d28bbbf53d1466438f77f8"
           }
         ]
       },
@@ -178,6 +178,17 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/71Gj5pgIDcL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B000Q69TK0?th=1&linkCode=sl2&tag=noya0b-20&linkId=80a4e2af88e54d5aae7b8dd86a472b08&language=en_US"
+        },
+        {
+          "asin": "B0DVCDMSRL",
+          "slug": "nautica-color-green-eau-de-toilette-for-men-woody-fougere-fr",
+          "title": "Nautica Color Green Eau de Toilette for Men, Woody Fougere Fragrance, Notes of Ginger, Geranium and Vetiver, 1.6oz",
+          "price": "$18.39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-pQlJex-L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DVCDMSRL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "B0CQ9PQ85X",
@@ -233,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71p0jzvpvQL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DSQLYJNB?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B07YBXMGDZ",
-          "slug": "aroma-housewares-arc-1120sbl-smartcarb-cool-touch-stainless",
-          "title": "Aroma Housewares ARC-1120SBL SmartCarb Cool-Touch Stainless Steel Rice Multicooker Food Steamer, Slow Cooker with Non-St",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LyNbc5R5L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07YBXMGDZ/ref=cm_sw_r_as_gl_apa_gl_i_QFS6P8RCYNMR47HR8XC9?linkCode=ml1&tag=noya0b-20&linkId=507ceea7b1d28bbbf53d1466438f77f8"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-20T05:30:01.013Z",
-      "updatedAt": "2026-07-20T05:30:01.014Z"
+      "generatedAt": "2026-07-20T05:40:00.265Z",
+      "updatedAt": "2026-07-20T05:40:00.265Z"
     },
     {
       "date": "2026-07-19",
@@ -11389,5 +11389,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-20T05:30:01.018Z"
+  "generatedAt": "2026-07-20T05:40:00.269Z"
 }
