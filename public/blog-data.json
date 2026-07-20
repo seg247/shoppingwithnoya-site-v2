@@ -9,6 +9,7 @@
         "Electronics",
         "Other",
         "Grocery & Food",
+        "Home & Kitchen",
         "Beauty"
       ],
       "byCategory": {
@@ -104,17 +105,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71LDTV2QOLL.jpg",
             "url": "https://www.amazon.com/dp/B08GPGSNS3?th=1&linkCode=sl2&tag=noya0b-20&linkId=6a28cb7d829df4463ffd9bcebe69f6f9&language=en_US"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0FDRB778Y",
-            "slug": "-andonstar-ad246s-m-hdmi-digital-microscope-2000x-for-adults",
-            "title": "\udecd️ Andonstar AD246S-M HDMI Digital Microscope 2000x for Adults, 3 Lens 2160P UHD Video Record, 7 Inch LCD Soldering Micr",
-            "price": "$99.99",
-            "discount": 13,
-            "rating": "GOOD",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71kfNevU2yL.jpg",
-            "url": "https://www.amazon.com/dp/B0FDRB778Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ae097997f3465aa01ac81a9c3e55a&language=en_US"
+            "asin": "B0GQSGPQZ9",
+            "slug": "-dreame-d30-ultra-ce-robot-vacuum-and-mop-with-auto-dust-emp",
+            "title": "\udecd️ DREAME D30 Ultra CE Robot Vacuum and Mop with Auto Dust Emptying, 25,000Pa Suction, 0.41in Mop Lifting, Multifunction",
+            "price": "$399.99",
+            "discount": 20,
+            "rating": "WARM",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61otbxYXZ8L.jpg",
+            "url": "https://www.amazon.com/dp/B0GQSGPQZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=2b9137d6198903d924c5371e110f1ca1&language=en_US"
           }
         ],
         "Beauty": [
@@ -177,6 +180,17 @@
           "url": "https://www.amazon.com/dp/B08LCW2TX5?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=346d50266774e80088b83fcae1da2768&language=en_US"
         },
         {
+          "asin": "B0GQSGPQZ9",
+          "slug": "-dreame-d30-ultra-ce-robot-vacuum-and-mop-with-auto-dust-emp",
+          "title": "\udecd️ DREAME D30 Ultra CE Robot Vacuum and Mop with Auto Dust Emptying, 25,000Pa Suction, 0.41in Mop Lifting, Multifunction",
+          "price": "$399.99",
+          "discount": 20,
+          "rating": "WARM",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61otbxYXZ8L.jpg",
+          "url": "https://www.amazon.com/dp/B0GQSGPQZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=2b9137d6198903d924c5371e110f1ca1&language=en_US"
+        },
+        {
           "asin": "B0CPRKY8XD",
           "slug": "-ghd-chronos-chronos-max-stylers-1-and-2-professional-flat-i",
           "title": "\udecd️ ghd Chronos & Chronos Max Stylers -1\" and 2\" Professional Flat Iron Hair Straighteners|3X Faster Styling|More Shine,L",
@@ -230,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71LDTV2QOLL.jpg",
           "url": "https://www.amazon.com/dp/B08GPGSNS3?th=1&linkCode=sl2&tag=noya0b-20&linkId=6a28cb7d829df4463ffd9bcebe69f6f9&language=en_US"
-        },
-        {
-          "asin": "B0FDRB778Y",
-          "slug": "-andonstar-ad246s-m-hdmi-digital-microscope-2000x-for-adults",
-          "title": "\udecd️ Andonstar AD246S-M HDMI Digital Microscope 2000x for Adults, 3 Lens 2160P UHD Video Record, 7 Inch LCD Soldering Micr",
-          "price": "$99.99",
-          "discount": 13,
-          "rating": "GOOD",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71kfNevU2yL.jpg",
-          "url": "https://www.amazon.com/dp/B0FDRB778Y?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ae097997f3465aa01ac81a9c3e55a&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-20T12:10:00.280Z",
-      "updatedAt": "2026-07-20T12:10:00.281Z"
+      "generatedAt": "2026-07-20T12:20:02.178Z",
+      "updatedAt": "2026-07-20T12:20:02.179Z"
     },
     {
       "date": "2026-07-19",
@@ -11386,5 +11389,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-20T12:10:00.285Z"
+  "generatedAt": "2026-07-20T12:20:02.183Z"
 }
