@@ -10,7 +10,8 @@
         "Electronics",
         "Grocery & Food",
         "Beauty",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Personal Care"
       ],
       "byCategory": {
         "Electronics": [
@@ -94,17 +95,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71BHY-OlHTL.jpg",
             "url": "https://www.amazon.com/dp/B0D9BRDHKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=dcf995e69cc1e062d2462f868b27e364&language=en_US"
-          },
-          {
-            "asin": "B0F7QZ9QWC",
-            "slug": "-portable-ultrasonic-cleaner-56khz-ultrasonic-retainer-clean",
-            "title": "\udecd️ Portable Ultrasonic Cleaner, 56kHz Ultrasonic Retainer Cleaner, Upgraded Lighted Retainer Cleaner Machine for Retaine",
-            "price": "$9.99",
-            "discount": 57,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61sAJRyzaBL.jpg",
-            "url": "https://www.amazon.com/dp/B0F7QZ9QWC?th=1&linkCode=sl2&tag=noya0b-20&linkId=eac40f7cc8abc6c94c594279eba24311&language=en_US"
           }
         ],
         "Beauty": [
@@ -131,6 +121,19 @@
             "category": "Home & Kitchen",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CQRFMRYL?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ebaa1fae4f31f9a49974be86d349019&language=en_US"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0FMZLGJXR",
+            "slug": "-blink-outdoor-2k-and-video-doorbell-two-year-battery-life-s",
+            "title": "\udecd️ Blink Outdoor 2K+ and Video Doorbell – Two-year battery life, smart detection, Sync Module Core included – 5 Cameras ",
+            "price": "$166.99",
+            "discount": 60,
+            "rating": "FIRE",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Lv2KaEPYL.jpg",
+            "url": "https://www.amazon.com/dp/B0FMZLGJXR?th=1&linkCode=sl2&tag=noya0b-20&linkId=82e9118e8b7a124358bfcdce997e695d&language=en_US"
           }
         ]
       },
@@ -224,6 +227,17 @@
           "url": "https://www.amazon.com/dp/B01824W2VA?th=1&linkCode=sl2&tag=noya0b-20&linkId=524fdbb418b705bd10966616dd42b643&language=en_US"
         },
         {
+          "asin": "B0FMZLGJXR",
+          "slug": "-blink-outdoor-2k-and-video-doorbell-two-year-battery-life-s",
+          "title": "\udecd️ Blink Outdoor 2K+ and Video Doorbell – Two-year battery life, smart detection, Sync Module Core included – 5 Cameras ",
+          "price": "$166.99",
+          "discount": 60,
+          "rating": "FIRE",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Lv2KaEPYL.jpg",
+          "url": "https://www.amazon.com/dp/B0FMZLGJXR?th=1&linkCode=sl2&tag=noya0b-20&linkId=82e9118e8b7a124358bfcdce997e695d&language=en_US"
+        },
+        {
           "asin": "B0D9BRDHKH",
           "slug": "-2pcs-silicone-remote-cover-for-firetv-4k-max-2nd-insigniapi",
           "title": "\udecd️ (2pcs) Silicone Remote Cover for Firetv 4K Max (2nd)/ Insignia/Pioneer/Toshiba/Omni (QLED) Series, Anti-Slip Protecti",
@@ -233,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71BHY-OlHTL.jpg",
           "url": "https://www.amazon.com/dp/B0D9BRDHKH?th=1&linkCode=sl2&tag=noya0b-20&linkId=dcf995e69cc1e062d2462f868b27e364&language=en_US"
-        },
-        {
-          "asin": "B0F7QZ9QWC",
-          "slug": "-portable-ultrasonic-cleaner-56khz-ultrasonic-retainer-clean",
-          "title": "\udecd️ Portable Ultrasonic Cleaner, 56kHz Ultrasonic Retainer Cleaner, Upgraded Lighted Retainer Cleaner Machine for Retaine",
-          "price": "$9.99",
-          "discount": 57,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61sAJRyzaBL.jpg",
-          "url": "https://www.amazon.com/dp/B0F7QZ9QWC?th=1&linkCode=sl2&tag=noya0b-20&linkId=eac40f7cc8abc6c94c594279eba24311&language=en_US"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-21T14:30:01.498Z",
-      "updatedAt": "2026-07-21T14:30:01.498Z"
+      "generatedAt": "2026-07-21T14:40:02.224Z",
+      "updatedAt": "2026-07-21T14:40:02.224Z"
     },
     {
       "date": "2026-07-20",
@@ -11657,5 +11660,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-21T14:30:01.503Z"
+  "generatedAt": "2026-07-21T14:40:02.229Z"
 }
