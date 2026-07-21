@@ -9,6 +9,7 @@
         "Other",
         "Electronics",
         "Grocery & Food",
+        "Beauty",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -104,17 +105,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B08XTRKWL5?th=1&linkCode=sl2&tag=noya0b-20&linkId=594b46147f842c26e4a0b18fa455c330&language=en_US"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B0GTQJ22PT",
-            "slug": "-ear-plugs-for-sleeping-50db-earplugs-noise-cancelling-ear-p",
-            "title": "\udecd️ Ear Plugs for Sleeping 50dB Earplugs Noise Cancelling Ear Plugs for Noise Reduction Concerts Soft Reusable Silicone E",
-            "price": "$37.98",
-            "discount": 56,
+            "asin": "B0G4D8SNG7",
+            "slug": "-fmz-flat-iron-hair-straightener-titanium-ceramic-hair-strai",
+            "title": "\udecd️ FMZ Flat Iron Hair Straightener, Titanium Ceramic Hair Straighteners for Women, Rotating 4-in-1 Dual Voltage Travel F",
+            "price": "$19.98",
+            "discount": 71,
             "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61tBi3z0zAL.jpg",
-            "url": "https://www.amazon.com/dp/B0GTQJ22PT?th=1&linkCode=sl2&tag=noya0b-20&linkId=dc3f2903b0b18bfec4757b13280335b6&language=en_US"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UeO+DJ1FL.jpg",
+            "url": "https://www.amazon.com/dp/B0G4D8SNG7?th=1&linkCode=sl2&tag=noya0b-20&linkId=545969e41eb2b33d3441721ba18a62fd&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -164,6 +167,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00004Y8D5?th=1&linkCode=sl2&tag=noya0b-20&linkId=465b5ebb4fca86da8d67792908040137&language=en_US"
+        },
+        {
+          "asin": "B0G4D8SNG7",
+          "slug": "-fmz-flat-iron-hair-straightener-titanium-ceramic-hair-strai",
+          "title": "\udecd️ FMZ Flat Iron Hair Straightener, Titanium Ceramic Hair Straighteners for Women, Rotating 4-in-1 Dual Voltage Travel F",
+          "price": "$19.98",
+          "discount": 71,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UeO+DJ1FL.jpg",
+          "url": "https://www.amazon.com/dp/B0G4D8SNG7?th=1&linkCode=sl2&tag=noya0b-20&linkId=545969e41eb2b33d3441721ba18a62fd&language=en_US"
         },
         {
           "asin": "B0CQRFMRYL",
@@ -230,17 +244,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B08XTRKWL5?th=1&linkCode=sl2&tag=noya0b-20&linkId=594b46147f842c26e4a0b18fa455c330&language=en_US"
-        },
-        {
-          "asin": "B0GTQJ22PT",
-          "slug": "-ear-plugs-for-sleeping-50db-earplugs-noise-cancelling-ear-p",
-          "title": "\udecd️ Ear Plugs for Sleeping 50dB Earplugs Noise Cancelling Ear Plugs for Noise Reduction Concerts Soft Reusable Silicone E",
-          "price": "$37.98",
-          "discount": 56,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61tBi3z0zAL.jpg",
-          "url": "https://www.amazon.com/dp/B0GTQJ22PT?th=1&linkCode=sl2&tag=noya0b-20&linkId=dc3f2903b0b18bfec4757b13280335b6&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-21T09:30:01.439Z",
-      "updatedAt": "2026-07-21T09:30:01.439Z"
+      "generatedAt": "2026-07-21T09:40:01.377Z",
+      "updatedAt": "2026-07-21T09:40:01.377Z"
     },
     {
       "date": "2026-07-20",
@@ -11654,5 +11657,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-21T09:30:01.444Z"
+  "generatedAt": "2026-07-21T09:40:01.382Z"
 }
