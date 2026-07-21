@@ -10,8 +10,8 @@
         "Grocery & Food",
         "Electronics",
         "Beauty",
-        "Home & Kitchen",
-        "Personal Care"
+        "Personal Care",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Electronics": [
@@ -110,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B0G4D8SNG7?th=1&linkCode=sl2&tag=noya0b-20&linkId=545969e41eb2b33d3441721ba18a62fd&language=en_US"
           }
         ],
+        "Personal Care": [
+          {
+            "asin": "B0H2DM2PBD",
+            "slug": "-16-led-drawing-board-for-kids-with-8-colors-3-dynamic-modes",
+            "title": "\udecd️ 16\" LED Drawing Board for Kids with 8 Colors 3 Dynamic Modes, Rechargeable 15H Battery Display, Glow Light Up Note Bo",
+            "price": "$29.99",
+            "discount": 70,
+            "rating": "FIRE",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71tlGcZ8siL.jpg",
+            "url": "https://www.amazon.com/dp/B0H2DM2PBD?th=1&linkCode=sl2&tag=noya0b-20&linkId=4a8f1f9b14214f41793fd5b7aca5f42d&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0CQRFMRYL",
@@ -121,19 +134,6 @@
             "category": "Home & Kitchen",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CQRFMRYL?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ebaa1fae4f31f9a49974be86d349019&language=en_US"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0FMZLGJXR",
-            "slug": "-blink-outdoor-2k-and-video-doorbell-two-year-battery-life-s",
-            "title": "\udecd️ Blink Outdoor 2K+ and Video Doorbell – Two-year battery life, smart detection, Sync Module Core included – 5 Cameras ",
-            "price": "$166.99",
-            "discount": 60,
-            "rating": "FIRE",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Lv2KaEPYL.jpg",
-            "url": "https://www.amazon.com/dp/B0FMZLGJXR?th=1&linkCode=sl2&tag=noya0b-20&linkId=82e9118e8b7a124358bfcdce997e695d&language=en_US"
           }
         ]
       },
@@ -181,6 +181,17 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71UeO+DJ1FL.jpg",
           "url": "https://www.amazon.com/dp/B0G4D8SNG7?th=1&linkCode=sl2&tag=noya0b-20&linkId=545969e41eb2b33d3441721ba18a62fd&language=en_US"
+        },
+        {
+          "asin": "B0H2DM2PBD",
+          "slug": "-16-led-drawing-board-for-kids-with-8-colors-3-dynamic-modes",
+          "title": "\udecd️ 16\" LED Drawing Board for Kids with 8 Colors 3 Dynamic Modes, Rechargeable 15H Battery Display, Glow Light Up Note Bo",
+          "price": "$29.99",
+          "discount": 70,
+          "rating": "FIRE",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71tlGcZ8siL.jpg",
+          "url": "https://www.amazon.com/dp/B0H2DM2PBD?th=1&linkCode=sl2&tag=noya0b-20&linkId=4a8f1f9b14214f41793fd5b7aca5f42d&language=en_US"
         },
         {
           "asin": "B0CQRFMRYL",
@@ -236,17 +247,6 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DRMFCMS4?th=1&linkCode=sl2&tag=noya0b-20&linkId=10c7fc47023dffe2fd7b7a75a6e601d2&language=en_US"
-        },
-        {
-          "asin": "B0FMZLGJXR",
-          "slug": "-blink-outdoor-2k-and-video-doorbell-two-year-battery-life-s",
-          "title": "\udecd️ Blink Outdoor 2K+ and Video Doorbell – Two-year battery life, smart detection, Sync Module Core included – 5 Cameras ",
-          "price": "$166.99",
-          "discount": 60,
-          "rating": "FIRE",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Lv2KaEPYL.jpg",
-          "url": "https://www.amazon.com/dp/B0FMZLGJXR?th=1&linkCode=sl2&tag=noya0b-20&linkId=82e9118e8b7a124358bfcdce997e695d&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-21T16:10:02.194Z",
-      "updatedAt": "2026-07-21T16:10:02.194Z"
+      "generatedAt": "2026-07-21T16:20:01.881Z",
+      "updatedAt": "2026-07-21T16:20:01.881Z"
     },
     {
       "date": "2026-07-20",
@@ -11660,5 +11660,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-21T16:10:02.198Z"
+  "generatedAt": "2026-07-21T16:20:01.886Z"
 }
