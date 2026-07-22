@@ -11,7 +11,7 @@
         "Electronics",
         "Pet Supplies",
         "Personal Care",
-        "Grocery & Food"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Electronics": [
@@ -77,6 +77,19 @@
             "url": "https://www.amazon.com/dp/B0DKJ347ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=a8eab6559a73b24396d22c18c068d78d&language=en_US"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0FM3KT4FF",
+            "slug": "-pterosaur-dinosaur-skeleton-building-blocks-detailed-fossil",
+            "title": "\udecd️ Pterosaur Dinosaur Skeleton Building Blocks Detailed Fossil Model with Adjustable Wings & Joints STEM Learning Constr",
+            "price": "$9.99",
+            "discount": 60,
+            "rating": "FIRE",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71AF2lqGEqL.jpg",
+            "url": "https://www.amazon.com/dp/B0FM3KT4FF?th=1&linkCode=sl2&tag=noya0b-20&linkId=5084fab80695e171e3e5cae7e373d7a8&language=en_US"
+          }
+        ],
         "Other": [
           {
             "asin": "B0F5WF4V7S",
@@ -121,19 +134,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/719rsBmdopL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F9YJHQXM?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b0acddba4b335dc04874e9c23b4d03b&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00I471G9K",
-            "slug": "-kodiak-cakes-minute-muffins-double-dark-chocolate-236-ounce",
-            "title": "\udecd️ Kodiak Cakes Minute Muffins, Double Dark Chocolate, 2.36 Ounce (Pack of 12) (Packaging May Vary)",
-            "price": "$11.94",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00I471G9K?th=1&linkCode=sl2&tag=noya0b-20&linkId=68394994ae353d8956c1379200b71238&language=en_US"
           }
         ]
       },
@@ -181,6 +181,17 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61kd4sKPgXL.jpg",
           "url": "https://www.amazon.com/dp/B0G1H49J6D?th=1&linkCode=sl2&tag=noya0b-20&linkId=b2abd0966ee1247201e77aeea97ff89d&language=en_US"
+        },
+        {
+          "asin": "B0FM3KT4FF",
+          "slug": "-pterosaur-dinosaur-skeleton-building-blocks-detailed-fossil",
+          "title": "\udecd️ Pterosaur Dinosaur Skeleton Building Blocks Detailed Fossil Model with Adjustable Wings & Joints STEM Learning Constr",
+          "price": "$9.99",
+          "discount": 60,
+          "rating": "FIRE",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71AF2lqGEqL.jpg",
+          "url": "https://www.amazon.com/dp/B0FM3KT4FF?th=1&linkCode=sl2&tag=noya0b-20&linkId=5084fab80695e171e3e5cae7e373d7a8&language=en_US"
         },
         {
           "asin": "B0DKJ347ZJ",
@@ -236,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/719rsBmdopL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F9YJHQXM?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b0acddba4b335dc04874e9c23b4d03b&language=en_US"
-        },
-        {
-          "asin": "B00I471G9K",
-          "slug": "-kodiak-cakes-minute-muffins-double-dark-chocolate-236-ounce",
-          "title": "\udecd️ Kodiak Cakes Minute Muffins, Double Dark Chocolate, 2.36 Ounce (Pack of 12) (Packaging May Vary)",
-          "price": "$11.94",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00I471G9K?th=1&linkCode=sl2&tag=noya0b-20&linkId=68394994ae353d8956c1379200b71238&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-22T17:10:01.563Z",
-      "updatedAt": "2026-07-22T17:10:01.563Z"
+      "generatedAt": "2026-07-22T17:20:02.001Z",
+      "updatedAt": "2026-07-22T17:20:02.001Z"
     },
     {
       "date": "2026-07-21",
@@ -11934,5 +11934,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-22T17:10:01.568Z"
+  "generatedAt": "2026-07-22T17:20:02.005Z"
 }
