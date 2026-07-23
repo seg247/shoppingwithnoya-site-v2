@@ -11,9 +11,9 @@
         "Other",
         "Pet Supplies",
         "Personal Care",
+        "Home & Kitchen",
         "Grocery & Food",
-        "Toys & Kids",
-        "Home & Kitchen"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Electronics": [
@@ -66,6 +66,19 @@
             "category": "Personal Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71tlGcZ8siL.jpg",
             "url": "https://www.amazon.com/dp/B0H2DM2PBD?th=1&linkCode=sl2&tag=noya0b-20&linkId=6c9ad5f2d1d543d532a576916868b6f4&language=en_US"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B09BK53WCV",
+            "slug": "-kitchenaid-ribbed-soft-silicone-oven-mitt-2-pack-set-75x13",
+            "title": "\udecd️ KITCHENAID Ribbed Soft Silicone Oven Mitt 2-Pack Set, 7.5\"x13\", Charcoal Grey",
+            "price": "$12.15",
+            "discount": 65,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ziNMoF6kL.jpg",
+            "url": "https://www.amazon.com/dp/B09BK53WCV?th=1&linkCode=sl2&tag=noya0b-20&linkId=dfc4190b4ebec258285c9e1ea25240ff&language=en_US"
           }
         ],
         "Beauty": [
@@ -128,19 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71AF2lqGEqL.jpg",
             "url": "https://www.amazon.com/dp/B0FM3KT4FF?th=1&linkCode=sl2&tag=noya0b-20&linkId=5084fab80695e171e3e5cae7e373d7a8&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0C621SPBN",
-            "slug": "-vacuum-seal-bags-for-clothing-travel-home-storage-travel-va",
-            "title": "\udecd️ Vacuum Seal Bags for Clothing Travel & Home Storage, travel vacuum bags with pump, Store Blankets, Comforters, Pillow",
-            "price": "$18.99",
-            "discount": 53,
-            "rating": "FIRE",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fducOL8SL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C621SPBN?th=1&linkCode=sl2&tag=noya0b-20&linkId=56ce404d21cfb1eefdf812d1a983904d&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -187,6 +187,17 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71tlGcZ8siL.jpg",
           "url": "https://www.amazon.com/dp/B0H2DM2PBD?th=1&linkCode=sl2&tag=noya0b-20&linkId=6c9ad5f2d1d543d532a576916868b6f4&language=en_US"
+        },
+        {
+          "asin": "B09BK53WCV",
+          "slug": "-kitchenaid-ribbed-soft-silicone-oven-mitt-2-pack-set-75x13",
+          "title": "\udecd️ KITCHENAID Ribbed Soft Silicone Oven Mitt 2-Pack Set, 7.5\"x13\", Charcoal Grey",
+          "price": "$12.15",
+          "discount": 65,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ziNMoF6kL.jpg",
+          "url": "https://www.amazon.com/dp/B09BK53WCV?th=1&linkCode=sl2&tag=noya0b-20&linkId=dfc4190b4ebec258285c9e1ea25240ff&language=en_US"
         },
         {
           "asin": "B0G1H49J6D",
@@ -242,17 +253,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
           "url": "https://www.amazon.com/dp/B0DKJ347ZJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=a8eab6559a73b24396d22c18c068d78d&language=en_US"
-        },
-        {
-          "asin": "B0C621SPBN",
-          "slug": "-vacuum-seal-bags-for-clothing-travel-home-storage-travel-va",
-          "title": "\udecd️ Vacuum Seal Bags for Clothing Travel & Home Storage, travel vacuum bags with pump, Store Blankets, Comforters, Pillow",
-          "price": "$18.99",
-          "discount": 53,
-          "rating": "FIRE",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fducOL8SL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C621SPBN?th=1&linkCode=sl2&tag=noya0b-20&linkId=56ce404d21cfb1eefdf812d1a983904d&language=en_US"
         }
       ],
       "faq": [
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-23T03:30:02.091Z",
-      "updatedAt": "2026-07-23T03:30:02.091Z"
+      "generatedAt": "2026-07-23T03:40:01.318Z",
+      "updatedAt": "2026-07-23T03:40:01.318Z"
     },
     {
       "date": "2026-07-21",
@@ -11940,5 +11940,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-23T03:30:02.095Z"
+  "generatedAt": "2026-07-23T03:40:01.323Z"
 }
