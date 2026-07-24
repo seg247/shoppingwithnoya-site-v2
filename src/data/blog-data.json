@@ -10,8 +10,8 @@
         "Home & Kitchen",
         "Grocery & Food",
         "Tools & Hardware",
-        "Books & Media",
-        "Electronics"
+        "Beauty",
+        "Books & Media"
       ],
       "byCategory": {
         "Other": [
@@ -86,6 +86,19 @@
             "url": "https://www.amazon.com/dp/B07HNR514B?linkCode=sl2&tag=noya0b-20&linkId=24d65a694f46558bf78757a8b8116e39&language=en_US"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B01ACPVYWA",
+            "slug": "-covergirl-simply-ageless-3-in-1-foundation-240-natural-beig",
+            "title": "\udecd️ COVERGIRL Simply Ageless 3-in-1 Foundation - 240 Natural Beige",
+            "price": "$9.97",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71u5ih1Ir0L.jpg",
+            "url": "https://www.amazon.com/dp/B01ACPVYWA?th=1&linkCode=sl2&tag=noya0b-20&linkId=f8518200f83c9c2358bb42ce39a94622&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B09Y8DCSTN",
@@ -121,19 +134,6 @@
             "category": "Books & Media",
             "imageUrl": "https://m.media-amazon.com/images/I/6197-GG9ceL.jpg",
             "url": "https://www.amazon.com/dp/B0GS1D7P4J?linkCode=sl2&tag=noya0b-20&linkId=7c2f30efb91a70f4b87c90230c5cd2d6&language=en_US"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B08HDBZNZ9",
-            "slug": "-over-ear-headphones-active-noise-cancelling-headphones-h1-w",
-            "title": "\udecd️ Over Ear Headphones Active Noise Cancelling Headphones, H1 Wireless Bluetooth Headset, Deep Bass Headset, Low Latency",
-            "price": "$29.99",
-            "discount": 40,
-            "rating": "HOT",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61KQKnlrTVL.jpg",
-            "url": "https://www.amazon.com/dp/B08HDBZNZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=2d2ae0f6057db23c9ef18246acae1954&language=en_US"
           }
         ]
       },
@@ -181,6 +181,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/512et-X2EhL.jpg",
           "url": "https://www.amazon.com/dp/B074JHM2CV?th=1&linkCode=sl2&tag=noya0b-20&linkId=acae108817f28585004a2a4736b674dd&language=en_US"
+        },
+        {
+          "asin": "B01ACPVYWA",
+          "slug": "-covergirl-simply-ageless-3-in-1-foundation-240-natural-beig",
+          "title": "\udecd️ COVERGIRL Simply Ageless 3-in-1 Foundation - 240 Natural Beige",
+          "price": "$9.97",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71u5ih1Ir0L.jpg",
+          "url": "https://www.amazon.com/dp/B01ACPVYWA?th=1&linkCode=sl2&tag=noya0b-20&linkId=f8518200f83c9c2358bb42ce39a94622&language=en_US"
         },
         {
           "asin": "B09Y8DCSTN",
@@ -236,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71Hg2Q7MQ7L.jpg",
           "url": "https://www.amazon.com/dp/B087X35JJ8?th=1&linkCode=sl2&tag=noya0b-20&linkId=d2b7191fccc345d4ccef23c905df9ca3&language=en_US"
-        },
-        {
-          "asin": "B08HDBZNZ9",
-          "slug": "-over-ear-headphones-active-noise-cancelling-headphones-h1-w",
-          "title": "\udecd️ Over Ear Headphones Active Noise Cancelling Headphones, H1 Wireless Bluetooth Headset, Deep Bass Headset, Low Latency",
-          "price": "$29.99",
-          "discount": 40,
-          "rating": "HOT",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61KQKnlrTVL.jpg",
-          "url": "https://www.amazon.com/dp/B08HDBZNZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=2d2ae0f6057db23c9ef18246acae1954&language=en_US"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-24T08:00:01.761Z",
-      "updatedAt": "2026-07-24T08:00:01.761Z"
+      "generatedAt": "2026-07-24T08:10:02.169Z",
+      "updatedAt": "2026-07-24T08:10:02.169Z"
     },
     {
       "date": "2026-07-23",
@@ -12491,5 +12491,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-24T08:00:01.766Z"
+  "generatedAt": "2026-07-24T08:10:02.174Z"
 }
