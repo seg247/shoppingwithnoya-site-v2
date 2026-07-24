@@ -11,8 +11,8 @@
         "Home & Kitchen",
         "Sports & Fitness",
         "Tools & Hardware",
-        "Beauty",
-        "Books & Media"
+        "Fashion",
+        "Beauty"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -89,6 +89,19 @@
             "url": "https://www.amazon.com/dp/B07HNR514B?linkCode=sl2&tag=noya0b-20&linkId=24d65a694f46558bf78757a8b8116e39&language=en_US"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B07CLXD2V4",
+            "slug": "-veracosy-mens-two-tone-house-slippers-memory-foam-indoor-ru",
+            "title": "\udecd️ VeraCosy Men's Two-Tone House Slippers Memory Foam Indoor Rubber Sole | Memory Foam,Slip on,Two-Tone,Supportive,Comfy",
+            "price": "$14.85",
+            "discount": 58,
+            "rating": "FIRE",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81oMw+GnqfL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07CLXD2V4?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b15c9f3ce07b5e28599adabacfdfc385&language=en_US"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B01ACPVYWA",
@@ -124,19 +137,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/41WohPriZjL.jpg",
             "url": "https://www.amazon.com/dp/B07WPY4WFX?th=1&linkCode=sl2&tag=noya0b-20&linkId=2cd6bd35179c0b48545bddb3b9290a11&language=en_US"
-          }
-        ],
-        "Books & Media": [
-          {
-            "asin": "B0GS1D7P4J",
-            "slug": "-4pcs-fireworks-water-gun-couple-romance-firework-style-wate",
-            "title": "\udecd️ 4Pcs Fireworks Water Gun, Couple Romance Firework Style Water Spray Gun, Large Capacity Fire Works Watergun for Bathi",
-            "price": "$9.99",
-            "discount": 47,
-            "rating": "HOT",
-            "category": "Books & Media",
-            "imageUrl": "https://m.media-amazon.com/images/I/6197-GG9ceL.jpg",
-            "url": "https://www.amazon.com/dp/B0GS1D7P4J?linkCode=sl2&tag=noya0b-20&linkId=7c2f30efb91a70f4b87c90230c5cd2d6&language=en_US"
           }
         ]
       },
@@ -184,6 +184,17 @@
           "category": "Tools & Hardware",
           "imageUrl": "https://m.media-amazon.com/images/I/61F7s7pSmZL.jpg",
           "url": "https://www.amazon.com/dp/B07HNR514B?linkCode=sl2&tag=noya0b-20&linkId=24d65a694f46558bf78757a8b8116e39&language=en_US"
+        },
+        {
+          "asin": "B07CLXD2V4",
+          "slug": "-veracosy-mens-two-tone-house-slippers-memory-foam-indoor-ru",
+          "title": "\udecd️ VeraCosy Men's Two-Tone House Slippers Memory Foam Indoor Rubber Sole | Memory Foam,Slip on,Two-Tone,Supportive,Comfy",
+          "price": "$14.85",
+          "discount": 58,
+          "rating": "FIRE",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81oMw+GnqfL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07CLXD2V4?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b15c9f3ce07b5e28599adabacfdfc385&language=en_US"
         },
         {
           "asin": "B074JHM2CV",
@@ -239,17 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/41WohPriZjL.jpg",
           "url": "https://www.amazon.com/dp/B07WPY4WFX?th=1&linkCode=sl2&tag=noya0b-20&linkId=2cd6bd35179c0b48545bddb3b9290a11&language=en_US"
-        },
-        {
-          "asin": "B0GS1D7P4J",
-          "slug": "-4pcs-fireworks-water-gun-couple-romance-firework-style-wate",
-          "title": "\udecd️ 4Pcs Fireworks Water Gun, Couple Romance Firework Style Water Spray Gun, Large Capacity Fire Works Watergun for Bathi",
-          "price": "$9.99",
-          "discount": 47,
-          "rating": "HOT",
-          "category": "Books & Media",
-          "imageUrl": "https://m.media-amazon.com/images/I/6197-GG9ceL.jpg",
-          "url": "https://www.amazon.com/dp/B0GS1D7P4J?linkCode=sl2&tag=noya0b-20&linkId=7c2f30efb91a70f4b87c90230c5cd2d6&language=en_US"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-24T09:20:02.101Z",
-      "updatedAt": "2026-07-24T09:20:02.101Z"
+      "generatedAt": "2026-07-24T09:30:01.826Z",
+      "updatedAt": "2026-07-24T09:30:01.826Z"
     },
     {
       "date": "2026-07-23",
@@ -12494,5 +12494,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-24T09:20:02.107Z"
+  "generatedAt": "2026-07-24T09:30:01.831Z"
 }
