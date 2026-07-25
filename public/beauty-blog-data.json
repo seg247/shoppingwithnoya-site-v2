@@ -9,8 +9,8 @@
         "Skincare",
         "Makeup",
         "Hair Care",
-        "Fragrance",
         "Body Care",
+        "Fragrance",
         "Nails"
       ],
       "bySubcat": {
@@ -104,16 +104,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61ce87E4qFL.jpg",
             "url": "https://www.amazon.com/dp/B072FH17NJ?linkCode=sl2&tag=noya0b-20&linkId=5f26fabfe4591acc6da3ac106be7c93d&language=en_US"
-          },
-          {
-            "asin": "B0CM2TC3C5",
-            "slug": "-skin-and-coat-supplement-for-dogs-cats-taily-liquid-collage",
-            "title": "\udecd️ Skin and Coat Supplement for Dogs, Cats | Taily Liquid Collagen for Dogs | Itch Relief for Dogs with Allergies, with ",
-            "discount": 20,
-            "rating": "WARM",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71r-z2yS2uL.jpg",
-            "url": "https://www.amazon.com/dp/B0CM2TC3C5?linkCode=sl2&tag=noya0b-20&linkId=0a8bfcf1b9ec82b99faef97fcafe0cd6&language=en_US"
           }
         ],
         "Makeup": [
@@ -250,19 +240,17 @@
             "url": "https://www.amazon.com/dp/B0DWSK5JYM?th=1&linkCode=sl2&tag=noya0b-20&linkId=2fa13e892ac5a8dc674905d63481eb61&language=en_US"
           }
         ],
-        "Fragrance": [
-          {
-            "asin": "B0GTLTZQXW",
-            "slug": "-air-purifiers-for-home-large-room-air-purifier-up-to-2200sq",
-            "title": "\udecd️ Air Purifiers for Home Large Room, Air Purifier up to 2200sq.ft, PM2.5 Air Quality Display, Sleep Mode with Fragrance",
-            "discount": 39,
-            "rating": "HOT",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/81rgdwAfTAL.jpg",
-            "url": "https://www.amazon.com/dp/B0GTLTZQXW?th=1&linkCode=sl2&tag=noya0b-20&linkId=919aaa60fa7e46ee4c7a73f2096f311c&language=en_US"
-          }
-        ],
         "Body Care": [
+          {
+            "asin": "B0CTL1F8LW",
+            "slug": "lancme-lip-idle-butterglow-hydrating-lip-balm-10-pink-h-la-l",
+            "title": "Lancôme Lip Idôle ButterGlow Hydrating Lip Balm - 10 Pink ÔH LA LA | 24H Hydration, Instant Shine & Moisture - With Squa",
+            "discount": 40,
+            "rating": "HOT",
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CTL1F8LW?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0F62R84FS",
             "slug": "-mbzoey-electric-foil-shavers-for-men-mini-electric-razor-fo",
@@ -302,6 +290,18 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/611BYEYtMdL.jpg",
             "url": "https://www.amazon.com/dp/B0FHRBJBKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=d29130bc536d7de073867ef40e1cc281&language=en_US"
+          }
+        ],
+        "Fragrance": [
+          {
+            "asin": "B0GTLTZQXW",
+            "slug": "-air-purifiers-for-home-large-room-air-purifier-up-to-2200sq",
+            "title": "\udecd️ Air Purifiers for Home Large Room, Air Purifier up to 2200sq.ft, PM2.5 Air Quality Display, Sleep Mode with Fragrance",
+            "discount": 39,
+            "rating": "HOT",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/81rgdwAfTAL.jpg",
+            "url": "https://www.amazon.com/dp/B0GTLTZQXW?th=1&linkCode=sl2&tag=noya0b-20&linkId=919aaa60fa7e46ee4c7a73f2096f311c&language=en_US"
           }
         ],
         "Nails": [
@@ -357,6 +357,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61E+OHPYiUL.jpg",
           "url": "https://www.amazon.com/dp/B0FWBH9ZF9?th=1&linkCode=sl2&tag=noya0b-20&linkId=ac2a30b2cb78a2cbfce9742078f4e40c&language=en_US"
+        },
+        {
+          "asin": "B0CTL1F8LW",
+          "slug": "lancme-lip-idle-butterglow-hydrating-lip-balm-10-pink-h-la-l",
+          "title": "Lancôme Lip Idôle ButterGlow Hydrating Lip Balm - 10 Pink ÔH LA LA | 24H Hydration, Instant Shine & Moisture - With Squa",
+          "discount": 40,
+          "rating": "HOT",
+          "subcat": "Body Care",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CTL1F8LW?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0GTLTZQXW",
@@ -617,16 +627,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/616vhP8wLvL.jpg",
           "url": "https://www.amazon.com/dp/B0DWSK5JYM?th=1&linkCode=sl2&tag=noya0b-20&linkId=2fa13e892ac5a8dc674905d63481eb61&language=en_US"
-        },
-        {
-          "asin": "B0CM2TC3C5",
-          "slug": "-skin-and-coat-supplement-for-dogs-cats-taily-liquid-collage",
-          "title": "\udecd️ Skin and Coat Supplement for Dogs, Cats | Taily Liquid Collagen for Dogs | Itch Relief for Dogs with Allergies, with ",
-          "discount": 20,
-          "rating": "WARM",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71r-z2yS2uL.jpg",
-          "url": "https://www.amazon.com/dp/B0CM2TC3C5?linkCode=sl2&tag=noya0b-20&linkId=0a8bfcf1b9ec82b99faef97fcafe0cd6&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-25T00:40:04.535Z",
-      "updatedAt": "2026-07-25T00:40:04.535Z"
+      "generatedAt": "2026-07-25T00:50:04.496Z",
+      "updatedAt": "2026-07-25T00:50:04.496Z"
     },
     {
       "date": "2026-07-23",
@@ -28866,5 +28866,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-25T00:40:04.543Z"
+  "generatedAt": "2026-07-25T00:50:04.508Z"
 }
