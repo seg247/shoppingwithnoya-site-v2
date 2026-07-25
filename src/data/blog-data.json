@@ -4,14 +4,14 @@
       "date": "2026-07-25",
       "slug": "2026-07-25",
       "title": "🔥 Best Deals Today — July 25, 2026",
-      "intro": "Today's best online deals for Saturday, July 25, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Beauty and more. The best discount today is 75% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, July 25, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Tools & Hardware and more. The best discount today is 75% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
         "Other",
+        "Tools & Hardware",
         "Beauty",
         "Toys & Kids",
-        "Fashion",
-        "Grocery & Food"
+        "Fashion"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -84,6 +84,19 @@
             "url": "https://www.amazon.com/dp/B005LD2C98?th=1&linkCode=sl2&tag=noya0b-20&linkId=44498dc6e8c8ae05674cebfed263524a&language=en_US"
           }
         ],
+        "Tools & Hardware": [
+          {
+            "asin": "B07M62L77L",
+            "slug": "-metabo-hpt-15-gauge-angled-finish-nailer-selective-actuatio",
+            "title": "\udecd️ Metabo HPT 15 Gauge Angled Finish Nailer, Selective Actuation, NT65MA4 | Pneumatic Power Tool, Air Duster Included, 1",
+            "price": "$65.40",
+            "discount": 65,
+            "rating": "FIRE",
+            "category": "Tools & Hardware",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07M62L77L?th=1&linkCode=sl2&tag=noya0b-20&linkId=8f03ca0b50401ace10bb1d0a2049ab51&language=en_US"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0H6M67CKN",
@@ -122,19 +135,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CZ5VQ4VD?th=1&linkCode=sl2&tag=noya0b-20&linkId=1938df87625e061562d883497acb6a4e&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00I471G9K",
-            "slug": "-kodiak-cakes-minute-muffins-double-dark-chocolate-236-ounce",
-            "title": "\udecd️ Kodiak Cakes Minute Muffins, Double Dark Chocolate, 2.36 Ounce (Pack of 12) (Packaging May Vary)",
-            "price": "$11.94",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Y1cXX4d9L.jpg",
-            "url": "https://www.amazon.com/dp/B00I471G9K?th=1&linkCode=sl2&tag=noya0b-20&linkId=599dd5406ba3d62e602520ff177e2429&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -170,6 +170,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51+KMDb8zBL.jpg",
           "url": "https://www.amazon.com/dp/B0GVRXVCZ7?th=1&linkCode=sl2&tag=noya0b-20&linkId=6cbdedc2dc836d8fd3c80cfa2d17e65a&language=en_US"
+        },
+        {
+          "asin": "B07M62L77L",
+          "slug": "-metabo-hpt-15-gauge-angled-finish-nailer-selective-actuatio",
+          "title": "\udecd️ Metabo HPT 15 Gauge Angled Finish Nailer, Selective Actuation, NT65MA4 | Pneumatic Power Tool, Air Duster Included, 1",
+          "price": "$65.40",
+          "discount": 65,
+          "rating": "FIRE",
+          "category": "Tools & Hardware",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07M62L77L?th=1&linkCode=sl2&tag=noya0b-20&linkId=8f03ca0b50401ace10bb1d0a2049ab51&language=en_US"
         },
         {
           "asin": "B0GVHG488P",
@@ -236,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CZ5VQ4VD?th=1&linkCode=sl2&tag=noya0b-20&linkId=1938df87625e061562d883497acb6a4e&language=en_US"
-        },
-        {
-          "asin": "B00I471G9K",
-          "slug": "-kodiak-cakes-minute-muffins-double-dark-chocolate-236-ounce",
-          "title": "\udecd️ Kodiak Cakes Minute Muffins, Double Dark Chocolate, 2.36 Ounce (Pack of 12) (Packaging May Vary)",
-          "price": "$11.94",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Y1cXX4d9L.jpg",
-          "url": "https://www.amazon.com/dp/B00I471G9K?th=1&linkCode=sl2&tag=noya0b-20&linkId=599dd5406ba3d62e602520ff177e2429&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 25, 2026?",
-          "a": "The best deals today include \"\udecd️ COOFANDY Men's Flannel Long Sleeve Plaid Button Down Shir...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"\udecd️ COOFANDY Men's Flannel Long Sleeve Plaid Button Down Shir...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Tools & Hardware and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-25T15:50:01.436Z",
-      "updatedAt": "2026-07-25T15:50:01.436Z"
+      "generatedAt": "2026-07-25T16:00:01.764Z",
+      "updatedAt": "2026-07-25T16:00:01.764Z"
     },
     {
       "date": "2026-07-24",
@@ -12765,5 +12765,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-25T15:50:01.441Z"
+  "generatedAt": "2026-07-25T16:00:01.769Z"
 }
