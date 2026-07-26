@@ -4,39 +4,27 @@
       "date": "2026-07-26",
       "slug": "2026-07-26",
       "title": "🔥 Best Deals Today — July 26, 2026",
-      "intro": "Today's best online deals for Sunday, July 26, 2026 — 10 hand-picked discounts across Other, Tools & Hardware, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, July 26, 2026 — 10 hand-picked discounts across Other, Tools & Hardware, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Tools & Hardware",
+        "Fashion",
         "Home & Kitchen",
         "Toys & Kids"
       ],
       "byCategory": {
-        "Tools & Hardware": [
-          {
-            "asin": "B0052MILZM",
-            "slug": "dewalt-20v-max-led-work-lightflashlight-dcl040",
-            "title": "DEWALT 20V MAX* LED Work Light/Flashlight (DCL040)",
-            "price": "$31",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/51RLPCcaqML._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B0052MILZM/ref=cm_sw_r_as_gl_apa_gl_i_SWP02GPQCRRWA4365FGC?linkCode=ml1&tag=noya0b-20&linkId=bc18bd65599dc95f7152538a4d2871c4"
-          },
-          {
-            "asin": "B009ELXH1K",
-            "slug": "dewalt-angle-grinder-one-touch-guard-4-12-inch-dwe4011",
-            "title": "DEWALT Angle Grinder, One-Touch Guard, 4-1/2 -Inch (DWE4011)",
-            "price": "$59.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B009ELXH1K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0CSDYB6H7",
+            "slug": "bobs-red-mill-signature-cornbread-baking-mix-13oz-pack-of-4",
+            "title": "Bob's Red Mill Signature Cornbread Baking Mix, 13oz (Pack of 4) - Simple Clean Ingredients, Homemade Taste, Kosher",
+            "price": "$11.19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81casZtTmVL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CSDYB6H7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B00023RCAG",
             "slug": "lifetime-shatterproof-backboard-rim-combo-48-inch-mounting-b",
@@ -80,17 +68,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61IgZR1UgAL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00CUDZO6A?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0G7MRFYMD",
-            "slug": "knorr-concentrated-stock-for-a-flavorful-and-aromatic-chicke",
-            "title": "Knorr Concentrated Stock For a Flavorful and Aromatic Chicken Stock Chicken Gluten Free and No Artificial Flavors, Color",
-            "price": "$8",
+            "asin": "B0F22GSWM2",
+            "slug": "champion-oracle-convertible-sling-bag-with-adjustable-strap",
+            "title": "Champion Oracle Convertible Sling Bag with Adjustable Strap for Travel, Commute, Daily Use, Forest Peak Green, One Size",
+            "price": "$16",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/8170KV0k15L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G7MRFYMD/ref=cm_sw_r_as_gl_apa_gl_i_FZ2C1CNBENHYFMA9YKRQ?linkCode=ml1&tag=noya0b-20&linkId=666df55027c3828bf16df9cb866193df"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ZUeZlCnHL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F22GSWM2/ref=cm_sw_r_as_gl_apa_gl_i_dl_EVK574NR642RFEN0MZ89?linkCode=ml1&tag=noya0b-20&linkId=e71b95a79ddec3edd17be8639d219efa"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B00GD739KW",
+            "slug": "mlb-flyback-multi-position-return-trainer-68-x-48-inch-sport",
+            "title": "MLB Flyback Multi-Position Return Trainer, 68 x 48-Inch : Sports Fan Baseball Equipment : Sports & Outdoors",
+            "price": "$30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81y1ORXIQES._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00GD739KW/ref=cm_sw_r_as_gl_apa_gl_i_GQV0GFZCPRH4RFCEA70G?linkCode=ml1&tag=noya0b-20&linkId=7ac73274136aad8824be142299579a8e"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0052MILZM",
+            "slug": "dewalt-20v-max-led-work-lightflashlight-dcl040",
+            "title": "DEWALT 20V MAX* LED Work Light/Flashlight (DCL040)",
+            "price": "$31",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/51RLPCcaqML._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B0052MILZM/ref=cm_sw_r_as_gl_apa_gl_i_SWP02GPQCRRWA4365FGC?linkCode=ml1&tag=noya0b-20&linkId=bc18bd65599dc95f7152538a4d2871c4"
+          },
+          {
+            "asin": "B009ELXH1K",
+            "slug": "dewalt-angle-grinder-one-touch-guard-4-12-inch-dwe4011",
+            "title": "DEWALT Angle Grinder, One-Touch Guard, 4-1/2 -Inch (DWE4011)",
+            "price": "$59.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B009ELXH1K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Toys & Kids": [
@@ -105,33 +132,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81-50fLviRL.jpg",
             "url": "https://www.amazon.com/dp/B0CVNQC2PT/ref=cm_sw_r_as_gl_apa_gl_i_S7EK2Z8V6S9T62J8PBFY?linkCode=ml1&tag=noya0b-20&linkId=3d0c39f8a218f675608b509619b98d2f"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FNS39P4K",
-            "slug": "maxi-cosi-romi-2-in-1-convertible-car-seat-infant-baby-seat",
-            "title": "Maxi-Cosi Romi 2-in-1 Convertible Car Seat, Infant Baby Seat, Rear & Forward Facing, 5-40 lbs, 30-50 lbs, Lightweight, L",
-            "price": "$60",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71d2BELWvpL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNS39P4K/ref=cm_sw_r_as_gl_apa_gl_i_NFBSGKDM4KNHVPEPMSBZ?linkCode=ml1&tag=noya0b-20&linkId=326fc11a432a2ad346eab12987ebd9b8"
-          },
-          {
-            "asin": "B0FNS39P4K",
-            "slug": "maxi-cosi-romi-2-in-1-convertible-car-seat-infant-baby-seat",
-            "title": "Maxi-Cosi Romi 2-in-1 Convertible Car Seat, Infant Baby Seat, Rear & Forward Facing, 5-40 lbs, 30-50 lbs, Lightweight, L",
-            "price": "$60",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71d2BELWvpL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNS39P4K/ref=cm_sw_r_as_gl_apa_gl_i_NFBSGKDM4KNHVPEPMSBZ?linkCode=ml1&tag=noya0b-20&linkId=326fc11a432a2ad346eab12987ebd9b8"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CSDYB6H7",
+          "slug": "bobs-red-mill-signature-cornbread-baking-mix-13oz-pack-of-4",
+          "title": "Bob's Red Mill Signature Cornbread Baking Mix, 13oz (Pack of 4) - Simple Clean Ingredients, Homemade Taste, Kosher",
+          "price": "$11.19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81casZtTmVL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CSDYB6H7?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0F22GSWM2",
+          "slug": "champion-oracle-convertible-sling-bag-with-adjustable-strap",
+          "title": "Champion Oracle Convertible Sling Bag with Adjustable Strap for Travel, Commute, Daily Use, Forest Peak Green, One Size",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZUeZlCnHL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F22GSWM2/ref=cm_sw_r_as_gl_apa_gl_i_dl_EVK574NR642RFEN0MZ89?linkCode=ml1&tag=noya0b-20&linkId=e71b95a79ddec3edd17be8639d219efa"
+        },
+        {
+          "asin": "B00GD739KW",
+          "slug": "mlb-flyback-multi-position-return-trainer-68-x-48-inch-sport",
+          "title": "MLB Flyback Multi-Position Return Trainer, 68 x 48-Inch : Sports Fan Baseball Equipment : Sports & Outdoors",
+          "price": "$30",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81y1ORXIQES._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00GD739KW/ref=cm_sw_r_as_gl_apa_gl_i_GQV0GFZCPRH4RFCEA70G?linkCode=ml1&tag=noya0b-20&linkId=7ac73274136aad8824be142299579a8e"
+        },
         {
           "asin": "B0052MILZM",
           "slug": "dewalt-20v-max-led-work-lightflashlight-dcl040",
@@ -208,45 +244,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81-50fLviRL.jpg",
           "url": "https://www.amazon.com/dp/B0CVNQC2PT/ref=cm_sw_r_as_gl_apa_gl_i_S7EK2Z8V6S9T62J8PBFY?linkCode=ml1&tag=noya0b-20&linkId=3d0c39f8a218f675608b509619b98d2f"
-        },
-        {
-          "asin": "B0FNS39P4K",
-          "slug": "maxi-cosi-romi-2-in-1-convertible-car-seat-infant-baby-seat",
-          "title": "Maxi-Cosi Romi 2-in-1 Convertible Car Seat, Infant Baby Seat, Rear & Forward Facing, 5-40 lbs, 30-50 lbs, Lightweight, L",
-          "price": "$60",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71d2BELWvpL.jpg",
-          "url": "https://www.amazon.com/dp/B0FNS39P4K/ref=cm_sw_r_as_gl_apa_gl_i_NFBSGKDM4KNHVPEPMSBZ?linkCode=ml1&tag=noya0b-20&linkId=326fc11a432a2ad346eab12987ebd9b8"
-        },
-        {
-          "asin": "B0FNS39P4K",
-          "slug": "maxi-cosi-romi-2-in-1-convertible-car-seat-infant-baby-seat",
-          "title": "Maxi-Cosi Romi 2-in-1 Convertible Car Seat, Infant Baby Seat, Rear & Forward Facing, 5-40 lbs, 30-50 lbs, Lightweight, L",
-          "price": "$60",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71d2BELWvpL.jpg",
-          "url": "https://www.amazon.com/dp/B0FNS39P4K/ref=cm_sw_r_as_gl_apa_gl_i_NFBSGKDM4KNHVPEPMSBZ?linkCode=ml1&tag=noya0b-20&linkId=326fc11a432a2ad346eab12987ebd9b8"
-        },
-        {
-          "asin": "B0G7MRFYMD",
-          "slug": "knorr-concentrated-stock-for-a-flavorful-and-aromatic-chicke",
-          "title": "Knorr Concentrated Stock For a Flavorful and Aromatic Chicken Stock Chicken Gluten Free and No Artificial Flavors, Color",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/8170KV0k15L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G7MRFYMD/ref=cm_sw_r_as_gl_apa_gl_i_FZ2C1CNBENHYFMA9YKRQ?linkCode=ml1&tag=noya0b-20&linkId=666df55027c3828bf16df9cb866193df"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 26, 2026?",
-          "a": "The best deals today include \"DEWALT 20V MAX* LED Work Light/Flashlight (DCL040)...\" and 9 other hand-picked discounts. Deals span Other, Tools & Hardware, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Bob's Red Mill Signature Cornbread Baking Mix, 13oz (Pack of...\" and 9 other hand-picked discounts. Deals span Other, Tools & Hardware, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-26T06:30:00.826Z",
-      "updatedAt": "2026-07-26T06:30:00.826Z"
+      "generatedAt": "2026-07-26T06:40:00.568Z",
+      "updatedAt": "2026-07-26T06:40:00.568Z"
     },
     {
       "date": "2026-07-25",
@@ -13033,5 +13036,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-26T06:30:00.831Z"
+  "generatedAt": "2026-07-26T06:40:00.573Z"
 }
