@@ -9,7 +9,9 @@
         "Other",
         "Home & Kitchen",
         "Personal Care",
-        "Garden & Outdoor"
+        "Sports & Fitness",
+        "Garden & Outdoor",
+        "Electronics"
       ],
       "byCategory": {
         "Personal Care": [
@@ -69,28 +71,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71Kt1bHGNfL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CZ74XKCZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=eeaa6bfe45a3be45c6ab8837b4d3e6db&language=en_US"
-          },
+          }
+        ],
+        "Sports & Fitness": [
           {
-            "asin": "B01AW5V7PE",
-            "slug": "-melissa-doug-drawing-paper-sketch-pad-3-pack-bundle-for-col",
-            "title": "\udecd️ Melissa & Doug Drawing Paper, Sketch Pad, 3-Pack Bundle for Coloring, Writing or Painting (9 x 12 inches) - 50 Sheets",
-            "price": "$10.49",
-            "discount": 30,
+            "asin": "B0BY1TR6Y8",
+            "slug": "-etenwolf-electric-ball-pump-inflation-deflation-with-2600ma",
+            "title": "\udecd️ ETENWOLF Electric Ball Pump Inflation & Deflation with 2600mAh Battery | 3-17PSI Basketball Pump with Precise Pressur",
+            "price": "$17.48",
+            "discount": 42,
             "rating": "HOT",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01AW5V7PE?linkCode=sl2&tag=noya0b-20&linkId=5d9ec24c0c52bf8fa90d3a35faf0aa31&language=en_US"
-          },
-          {
-            "asin": "B00J2APAGS",
-            "slug": "-covergirl-outlast-lipcolor-mauve-muse-585-006-fl-oz",
-            "title": "\udecd️ COVERGIRL Outlast Lipcolor Mauve Muse 585 0.06 Fl Oz",
-            "price": "$8.39",
-            "discount": 30,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51V8vy6m0yL.jpg",
-            "url": "https://www.amazon.com/dp/B00J2APAGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=d035136b9deb33d2a44f1797e72424d2&language=en_US"
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/61t71GINUyL.jpg",
+            "url": "https://www.amazon.com/dp/B0BY1TR6Y8?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ccd9174165fa6872086ee041ee12c80&language=en_US"
           }
         ],
         "Garden & Outdoor": [
@@ -104,6 +97,19 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/71i5My8MJ4L.jpg",
             "url": "https://www.amazon.com/dp/B075SBMTQL?th=1&linkCode=sl2&tag=noya0b-20&linkId=dea2aae3fd6e41ff694c4c45945d32d0&language=en_US"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B09XSDMT4F",
+            "slug": "-sony-wh-1000xm5-premium-noise-cancelling-wireless-headphone",
+            "title": "\udecd️ Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones, Silver",
+            "price": "$248.00",
+            "discount": 38,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B09XSDMT4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=9d3ab1bdff4d28836239800cb3d2126e&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -155,6 +161,17 @@
           "url": "https://www.amazon.com/dp/B08H89LSJF?th=1&linkCode=sl2&tag=noya0b-20&linkId=461646bb5f530a0b974c5719b85a3699&language=en_US"
         },
         {
+          "asin": "B0BY1TR6Y8",
+          "slug": "-etenwolf-electric-ball-pump-inflation-deflation-with-2600ma",
+          "title": "\udecd️ ETENWOLF Electric Ball Pump Inflation & Deflation with 2600mAh Battery | 3-17PSI Basketball Pump with Precise Pressur",
+          "price": "$17.48",
+          "discount": 42,
+          "rating": "HOT",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/61t71GINUyL.jpg",
+          "url": "https://www.amazon.com/dp/B0BY1TR6Y8?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ccd9174165fa6872086ee041ee12c80&language=en_US"
+        },
+        {
           "asin": "B075SBMTQL",
           "slug": "-thermacell-fuel-zoneguard-base-patio-shield-mosquito-repell",
           "title": "\udecd️ Thermacell Fuel-ZoneGuard Base Patio Shield Mosquito Repeller, Glacial Blue",
@@ -164,6 +181,17 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/71i5My8MJ4L.jpg",
           "url": "https://www.amazon.com/dp/B075SBMTQL?th=1&linkCode=sl2&tag=noya0b-20&linkId=dea2aae3fd6e41ff694c4c45945d32d0&language=en_US"
+        },
+        {
+          "asin": "B09XSDMT4F",
+          "slug": "-sony-wh-1000xm5-premium-noise-cancelling-wireless-headphone",
+          "title": "\udecd️ Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones, Silver",
+          "price": "$248.00",
+          "discount": 38,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B09XSDMT4F?th=1&linkCode=sl2&tag=noya0b-20&linkId=9d3ab1bdff4d28836239800cb3d2126e&language=en_US"
         },
         {
           "asin": "B0DQ82FJST",
@@ -219,28 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71Kt1bHGNfL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CZ74XKCZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=eeaa6bfe45a3be45c6ab8837b4d3e6db&language=en_US"
-        },
-        {
-          "asin": "B01AW5V7PE",
-          "slug": "-melissa-doug-drawing-paper-sketch-pad-3-pack-bundle-for-col",
-          "title": "\udecd️ Melissa & Doug Drawing Paper, Sketch Pad, 3-Pack Bundle for Coloring, Writing or Painting (9 x 12 inches) - 50 Sheets",
-          "price": "$10.49",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01AW5V7PE?linkCode=sl2&tag=noya0b-20&linkId=5d9ec24c0c52bf8fa90d3a35faf0aa31&language=en_US"
-        },
-        {
-          "asin": "B00J2APAGS",
-          "slug": "-covergirl-outlast-lipcolor-mauve-muse-585-006-fl-oz",
-          "title": "\udecd️ COVERGIRL Outlast Lipcolor Mauve Muse 585 0.06 Fl Oz",
-          "price": "$8.39",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51V8vy6m0yL.jpg",
-          "url": "https://www.amazon.com/dp/B00J2APAGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=d035136b9deb33d2a44f1797e72424d2&language=en_US"
         }
       ],
       "faq": [
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-26T21:00:01.710Z",
-      "updatedAt": "2026-07-26T21:00:01.711Z"
+      "generatedAt": "2026-07-26T21:10:00.427Z",
+      "updatedAt": "2026-07-26T21:10:00.427Z"
     },
     {
       "date": "2026-07-25",
@@ -13033,5 +13039,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-26T21:00:01.715Z"
+  "generatedAt": "2026-07-26T21:10:00.432Z"
 }
