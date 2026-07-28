@@ -9,11 +9,82 @@
         "Other",
         "Toys & Kids",
         "Fashion",
-        "Grocery & Food",
-        "Beauty"
+        "Cleaning Supplies"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0DWZD7WM4",
+            "slug": "ooey-gooey-gooey-grill-chicken-bbgoo-set-with-toppings-super",
+            "title": "Ooey Gooey Gooey Grill Chicken BBGoo Set with Toppings, Super Soft and Squishy Play Food, Fidget and Sensory Toy for Kid",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81c5pTbIcsL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DWZD7WM4/ref=cm_sw_r_as_gl_api_gl_i_5M8RGYDWX42D6QVG1845?linkCode=ml1&tag=noya0b-20&linkId=c373bb8220152d26198fdebc3a9699af"
+          },
+          {
+            "asin": "B09PGVGCH5",
+            "slug": "horizon-group-usa-bluey-aqua-art-reusable-water-reveal-activ",
+            "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81fmkv7E38L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09PGVGCH5/ref=cm_sw_r_as_gl_api_gl_i_TR9R5G9N6AXK1RNKZZVR?linkCode=ml1&tag=noya0b-20&linkId=f2a47a21083a75d068f4d262f4cd56d5"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0DPXT5433",
+            "slug": "dawn-platinum-plus-powersuds-liquid-dish-soap-174-oz-ez-sque",
+            "title": "Dawn Platinum Plus PowerSuds Liquid Dish Soap, 17.4 oz. EZ-Squeeze Bottle : Health & Household",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71E2s2lVfeL.jpg",
+            "url": "https://www.amazon.com/dp/B0DPXT5433/ref=cm_sw_r_as_gl_api_gl_i_CT274DCXHT8S30J4QMG8?linkCode=ml1&tag=noya0b-20&linkId=0461af189ee19b86564cdc2614b19e60"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0DRW5TL43",
+            "slug": "lego-speed-champions-porsche-911-gt3-rs-super-car-toy-model",
+            "title": "\udecd️LEGO Speed Champions Porsche 911 GT3 RS Super Car Toy - Model Kit & Pretend Play Toy for Boys & Girls, Ages 9+ - Sport",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/91C8TlzS7rL.jpg",
+            "url": "https://www.amazon.com/dp/B0DRW5TL43?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b489894b22c1f03046f1a0b2a5d267ff&language=en_US"
+          },
+          {
+            "asin": "B0C4SVKZ3G",
+            "slug": "12-packs-bulk-plane-backpack-keychain-mini-pop-fidget-for-bi",
+            "title": "12 Packs Bulk plane Backpack Keychain Mini pop Fidget for Birthday Party Favors,Students Bubble Prize for boy and Little",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61efx3U1J5L._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B0C4SVKZ3G/ref=cm_sw_r_as_gl_api_gl_i_RQ3NJGRK88GFS3WVPF7C?linkCode=ml1&tag=noya0b-20&linkId=8f1e29ca3e2c54caefe4a0f576912c6f"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0FCC4S815",
+            "slug": "3-otters-32pcs-magnetic-blocks-with-a-storage-box-portal",
+            "title": "3 otters 32PCS Magnetic Blocks, with a Storage Box, Portal",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81uHMSAW42L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FCC4S815/ref=cm_sw_r_as_gl_api_gl_i_dl_N9NQD6ZQQ26AJD7SD6KS?linkCode=ml1&tag=noya0b-20&linkId=28e1c67e616c8bd831b5fbfdbd83307c"
+          },
           {
             "asin": "B09W48KWGY",
             "slug": "12-large-storage-bags-with-zipper-top-3-gallon-size-16-x-18",
@@ -57,84 +128,54 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71T1ZddAFpL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F78HJ8VG/ref=cm_sw_r_as_gl_api_gl_i_dl_33RA2PX8XG03WK48NCRG?linkCode=ml1&tag=noya0b-20&linkId=496e253ee89e0fa3b9b86f23ecbaa8d0"
-          },
-          {
-            "asin": "B0F6LFGVGZ",
-            "slug": "hobestluk-bean-bag-chair-for-adult-giant-beanbag-with-filler",
-            "title": "\udecd️Hobestluk Bean Bag Chair for Adult Giant Beanbag with Filler Grey 5FT",
-            "price": "$109.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91ARhKsnIIL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F6LFGVGZ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=63cf2b0b0130495054553bd174191fc6&language=en_US"
-          },
-          {
-            "asin": "1728253101",
-            "slug": "my-first-mom-and-son-journal-an-activity-book-for-boys-and-m",
-            "title": "My First Mom and Son Journal: An activity book for boys and moms together",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ge5Npqg4L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/1728253101/ref=cm_sw_r_as_gl_api_gl_i_dl_ZJ8TGPJGGE9S94FKNS6Z?linkCode=ml1&tag=noya0b-20&linkId=ae5adb150001acc07eae817fbe3dba74"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B09PGVGCH5",
-            "slug": "horizon-group-usa-bluey-aqua-art-reusable-water-reveal-activ",
-            "title": "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen for No-Mess Drawing and Coloring",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81fmkv7E38L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09PGVGCH5/ref=cm_sw_r_as_gl_api_gl_i_TR9R5G9N6AXK1RNKZZVR?linkCode=ml1&tag=noya0b-20&linkId=f2a47a21083a75d068f4d262f4cd56d5"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0C4SVKZ3G",
-            "slug": "12-packs-bulk-plane-backpack-keychain-mini-pop-fidget-for-bi",
-            "title": "12 Packs Bulk plane Backpack Keychain Mini pop Fidget for Birthday Party Favors,Students Bubble Prize for boy and Little",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61efx3U1J5L._AC_SL1200_.jpg",
-            "url": "https://www.amazon.com/dp/B0C4SVKZ3G/ref=cm_sw_r_as_gl_api_gl_i_RQ3NJGRK88GFS3WVPF7C?linkCode=ml1&tag=noya0b-20&linkId=8f1e29ca3e2c54caefe4a0f576912c6f"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B072M1NC4M",
-            "slug": "gooo-9xx-40ct-of-lays-chips",
-            "title": "Gooo! $9.xx 40ct of Lays Chips!",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/91sQLmVaxGL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B072M1NC4M?th=1&linkCode=sl2&tag=noya0b-20&linkId=5be02f21e2aa59b9d4935fc70bbe8119&language=en_US"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0C382ZPWF",
-            "slug": "thayers-barrier-bestie-ultra-whip-face-cream-moisturizer-wit",
-            "title": "THAYERS Barrier Bestie Ultra Whip Face Cream, Moisturizer with Sugarcane Squalane and Ceramides, Skin Care for Dry to Ve",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81xlWbvSV4L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C382ZPWF/ref=cm_sw_r_as_gl_api_gl_i_NFX9RHZE4QS7QFD4BQNE?linkCode=ml1&tag=noya0b-20&linkId=07eee9f674d18bb656e5833e1ff6f5f6"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DWZD7WM4",
+          "slug": "ooey-gooey-gooey-grill-chicken-bbgoo-set-with-toppings-super",
+          "title": "Ooey Gooey Gooey Grill Chicken BBGoo Set with Toppings, Super Soft and Squishy Play Food, Fidget and Sensory Toy for Kid",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81c5pTbIcsL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DWZD7WM4/ref=cm_sw_r_as_gl_api_gl_i_5M8RGYDWX42D6QVG1845?linkCode=ml1&tag=noya0b-20&linkId=c373bb8220152d26198fdebc3a9699af"
+        },
+        {
+          "asin": "B0DPXT5433",
+          "slug": "dawn-platinum-plus-powersuds-liquid-dish-soap-174-oz-ez-sque",
+          "title": "Dawn Platinum Plus PowerSuds Liquid Dish Soap, 17.4 oz. EZ-Squeeze Bottle : Health & Household",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71E2s2lVfeL.jpg",
+          "url": "https://www.amazon.com/dp/B0DPXT5433/ref=cm_sw_r_as_gl_api_gl_i_CT274DCXHT8S30J4QMG8?linkCode=ml1&tag=noya0b-20&linkId=0461af189ee19b86564cdc2614b19e60"
+        },
+        {
+          "asin": "B0DRW5TL43",
+          "slug": "lego-speed-champions-porsche-911-gt3-rs-super-car-toy-model",
+          "title": "\udecd️LEGO Speed Champions Porsche 911 GT3 RS Super Car Toy - Model Kit & Pretend Play Toy for Boys & Girls, Ages 9+ - Sport",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/91C8TlzS7rL.jpg",
+          "url": "https://www.amazon.com/dp/B0DRW5TL43?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b489894b22c1f03046f1a0b2a5d267ff&language=en_US"
+        },
+        {
+          "asin": "B0FCC4S815",
+          "slug": "3-otters-32pcs-magnetic-blocks-with-a-storage-box-portal",
+          "title": "3 otters 32PCS Magnetic Blocks, with a Storage Box, Portal",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81uHMSAW42L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FCC4S815/ref=cm_sw_r_as_gl_api_gl_i_dl_N9NQD6ZQQ26AJD7SD6KS?linkCode=ml1&tag=noya0b-20&linkId=28e1c67e616c8bd831b5fbfdbd83307c"
+        },
         {
           "asin": "B09W48KWGY",
           "slug": "12-large-storage-bags-with-zipper-top-3-gallon-size-16-x-18",
@@ -200,56 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71T1ZddAFpL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F78HJ8VG/ref=cm_sw_r_as_gl_api_gl_i_dl_33RA2PX8XG03WK48NCRG?linkCode=ml1&tag=noya0b-20&linkId=496e253ee89e0fa3b9b86f23ecbaa8d0"
-        },
-        {
-          "asin": "B072M1NC4M",
-          "slug": "gooo-9xx-40ct-of-lays-chips",
-          "title": "Gooo! $9.xx 40ct of Lays Chips!",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/91sQLmVaxGL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B072M1NC4M?th=1&linkCode=sl2&tag=noya0b-20&linkId=5be02f21e2aa59b9d4935fc70bbe8119&language=en_US"
-        },
-        {
-          "asin": "B0F6LFGVGZ",
-          "slug": "hobestluk-bean-bag-chair-for-adult-giant-beanbag-with-filler",
-          "title": "\udecd️Hobestluk Bean Bag Chair for Adult Giant Beanbag with Filler Grey 5FT",
-          "price": "$109.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/91ARhKsnIIL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F6LFGVGZ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=63cf2b0b0130495054553bd174191fc6&language=en_US"
-        },
-        {
-          "asin": "1728253101",
-          "slug": "my-first-mom-and-son-journal-an-activity-book-for-boys-and-m",
-          "title": "My First Mom and Son Journal: An activity book for boys and moms together",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ge5Npqg4L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/1728253101/ref=cm_sw_r_as_gl_api_gl_i_dl_ZJ8TGPJGGE9S94FKNS6Z?linkCode=ml1&tag=noya0b-20&linkId=ae5adb150001acc07eae817fbe3dba74"
-        },
-        {
-          "asin": "B0C382ZPWF",
-          "slug": "thayers-barrier-bestie-ultra-whip-face-cream-moisturizer-wit",
-          "title": "THAYERS Barrier Bestie Ultra Whip Face Cream, Moisturizer with Sugarcane Squalane and Ceramides, Skin Care for Dry to Ve",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xlWbvSV4L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C382ZPWF/ref=cm_sw_r_as_gl_api_gl_i_NFX9RHZE4QS7QFD4BQNE?linkCode=ml1&tag=noya0b-20&linkId=07eee9f674d18bb656e5833e1ff6f5f6"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 28, 2026?",
-          "a": "The best deals today include \"\udecd️12 Large Storage Bags With Zipper Top - 3 Gallon Size, 16\"...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Fashion and are updated daily."
+          "a": "The best deals today include \"Ooey Gooey Gooey Grill Chicken BBGoo Set with Toppings, Supe...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T13:40:02.013Z",
-      "updatedAt": "2026-07-28T13:40:02.013Z"
+      "generatedAt": "2026-07-28T13:50:01.754Z",
+      "updatedAt": "2026-07-28T13:50:01.754Z"
     },
     {
       "date": "2026-07-27",
@@ -13578,5 +13575,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T13:40:02.017Z"
+  "generatedAt": "2026-07-28T13:50:01.759Z"
 }
