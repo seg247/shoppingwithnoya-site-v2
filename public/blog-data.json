@@ -9,10 +9,35 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
+        "Pet Supplies",
         "Electronics"
       ],
       "byCategory": {
+        "Pet Supplies": [
+          {
+            "asin": "B007M0J9VC",
+            "slug": "wellness-core-small-breed-adult-dry-dog-food-grain-free-kibb",
+            "title": "Wellness CORE Small Breed Adult Dry Dog Food, Grain Free Kibble, Natural, High Protein, Turkey and Chicken Recipe, 12 lb",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/61w4z-ej2ML._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B007M0J9VC/ref=cm_sw_r_as_gl_api_gl_i_CP5E58HB54SK6AWS1H3H?linkCode=ml1&tag=noya0b-20&linkId=9a9a4f3a94651971d9de3038b5c9548d"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B00002N5NT",
+            "slug": "johnson-level-tool-7500m-magnetic-structo-cast-torpedo-level",
+            "title": "Johnson Level & Tool 7500M Magnetic Structo-Cast Torpedo Level, 9\", Orange, 1 Level",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61KBSL-PyeL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00002N5NT/ref=cm_sw_r_as_gl_api_gl_i_P4GW0VT3Q08K6B47E52N?linkCode=ml1&tag=noya0b-20&linkId=d3ef8cc52ee9d6b3f3eea0bd36191aca"
+          },
           {
             "asin": "B0CJYJGQ5Z",
             "slug": "differin-acne-treatment-pimple-patches-salicylic-acid-centel",
@@ -45,28 +70,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81L1B6nIz4L.jpg",
             "url": "https://www.amazon.com/dp/B07Q4FTMMG/ref=cm_sw_r_as_gl_api_gl_i_0M353GND2AK8CJYBV25B?linkCode=ml1&tag=noya0b-20&linkId=34df2136927be1e9d4c18a6819aaa4c4"
-          },
-          {
-            "asin": "B0DYQMRG97",
-            "slug": "sunbeam-nails-press-on-toenails-4-design-4-in-1-reusable-fak",
-            "title": "Sun&Beam Nails Press-On Toenails 4 Design 4 in 1 Reusable Fake Toenail Tips 120 Pcs (Cat Eye)",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ICt6-OBRL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DYQMRG97/ref=cm_sw_r_as_gl_api_gl_i_4JG30T8RX3DRKDHKZFZX?linkCode=ml1&tag=noya0b-20&linkId=36a6ee0f3575c20ac81fb5ec593ae9e9"
-          },
-          {
-            "asin": "B0F14RP5X4",
-            "slug": "sunbeam-nails-press-on-nails-120-pcs-4-in-1-mix-match-fake-n",
-            "title": "Sun&Beam Nails Press-On Nails 120 Pcs, 4-in-1 Mix & Match Fake Nails, Reusable & Easy to Apply, DIY Nail Ar (M303)",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/815CLad7C+L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F14RP5X4/ref=cm_sw_r_as_gl_api_gl_i_V8WS7TM6Y1082AAQWHRQ?linkCode=ml1&tag=noya0b-20&linkId=0313c2b063cc44342cc55ae873bcd362"
           }
         ],
         "Fashion": [
@@ -132,6 +135,28 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B007M0J9VC",
+          "slug": "wellness-core-small-breed-adult-dry-dog-food-grain-free-kibb",
+          "title": "Wellness CORE Small Breed Adult Dry Dog Food, Grain Free Kibble, Natural, High Protein, Turkey and Chicken Recipe, 12 lb",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/61w4z-ej2ML._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B007M0J9VC/ref=cm_sw_r_as_gl_api_gl_i_CP5E58HB54SK6AWS1H3H?linkCode=ml1&tag=noya0b-20&linkId=9a9a4f3a94651971d9de3038b5c9548d"
+        },
+        {
+          "asin": "B00002N5NT",
+          "slug": "johnson-level-tool-7500m-magnetic-structo-cast-torpedo-level",
+          "title": "Johnson Level & Tool 7500M Magnetic Structo-Cast Torpedo Level, 9\", Orange, 1 Level",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61KBSL-PyeL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00002N5NT/ref=cm_sw_r_as_gl_api_gl_i_P4GW0VT3Q08K6B47E52N?linkCode=ml1&tag=noya0b-20&linkId=d3ef8cc52ee9d6b3f3eea0bd36191aca"
+        },
         {
           "asin": "B0CJYJGQ5Z",
           "slug": "differin-acne-treatment-pimple-patches-salicylic-acid-centel",
@@ -219,34 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81ldFdNx1UL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0FBW97R6H/ref=cm_sw_r_as_gl_api_gl_i_dl_Q95KYGWPJHNS6J2MV8ZF?linkCode=ml1&tag=noya0b-20&linkId=208cf80c43ea41c17e54fd0663ccc10a"
-        },
-        {
-          "asin": "B0DYQMRG97",
-          "slug": "sunbeam-nails-press-on-toenails-4-design-4-in-1-reusable-fak",
-          "title": "Sun&Beam Nails Press-On Toenails 4 Design 4 in 1 Reusable Fake Toenail Tips 120 Pcs (Cat Eye)",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ICt6-OBRL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DYQMRG97/ref=cm_sw_r_as_gl_api_gl_i_4JG30T8RX3DRKDHKZFZX?linkCode=ml1&tag=noya0b-20&linkId=36a6ee0f3575c20ac81fb5ec593ae9e9"
-        },
-        {
-          "asin": "B0F14RP5X4",
-          "slug": "sunbeam-nails-press-on-nails-120-pcs-4-in-1-mix-match-fake-n",
-          "title": "Sun&Beam Nails Press-On Nails 120 Pcs, 4-in-1 Mix & Match Fake Nails, Reusable & Easy to Apply, DIY Nail Ar (M303)",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/815CLad7C+L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F14RP5X4/ref=cm_sw_r_as_gl_api_gl_i_V8WS7TM6Y1082AAQWHRQ?linkCode=ml1&tag=noya0b-20&linkId=0313c2b063cc44342cc55ae873bcd362"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 28, 2026?",
-          "a": "The best deals today include \"Differin Acne Treatment Pimple Patches, Salicylic Acid & Cen...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Wellness CORE Small Breed Adult Dry Dog Food, Grain Free Kib...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T09:10:02.178Z",
-      "updatedAt": "2026-07-28T09:10:02.178Z"
+      "generatedAt": "2026-07-28T09:20:01.508Z",
+      "updatedAt": "2026-07-28T09:20:01.508Z"
     },
     {
       "date": "2026-07-27",
@@ -13575,5 +13578,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T09:10:02.183Z"
+  "generatedAt": "2026-07-28T09:20:01.514Z"
 }
