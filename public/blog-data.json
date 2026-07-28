@@ -9,34 +9,21 @@
         "Other",
         "Grocery & Food",
         "Toys & Kids",
-        "Home & Kitchen"
+        "Fashion"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B0DZL2FJZ6",
-            "slug": "lipton-english-breakfast-black-tea-bags-120-total-bags-20ct",
-            "title": "Lipton English Breakfast Black Tea Bags, 120 Total Bags (20ct - Pack of 6) | Features a a balanced blend from the renown",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/610PpT3VtqL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DZL2FJZ6/ref=cm_sw_r_as_gl_api_gl_i_CRHRRZFSH6AM3S6JDV4B?linkCode=ml1&tag=noya0b-20&linkId=f944a9de0db546af26033558f4b81e49"
-          },
-          {
-            "asin": "B072M1NC4M",
-            "slug": "lays-potato-chips-classic-1-ounce-pack-of-40",
-            "title": "Lay's Potato Chips, Classic, 1 Ounce (Pack of 40)",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/91sQLmVaxGL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B072M1NC4M/ref=cm_sw_r_as_gl_api_gl_i_HSCQAHRSNF5AYRZXB3FK?linkCode=ml1&tag=noya0b-20&linkId=51202615b8ecc76eea7dc72a55d7d97d"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B09W48KWGY",
+            "slug": "12-large-storage-bags-with-zipper-top-3-gallon-size-16-x-18",
+            "title": "12 Large Storage Bags With Zipper Top - 3 Gallon Size, 16\" x 18\", Extra Large Plastic for Clothes, Travel, Moving, Large",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81yzvRyFM1L.jpg",
+            "url": "https://www.amazon.com/dp/B09W48KWGY/ref=cm_sw_r_as_gl_api_gl_i_dl_PXQZCTKB0V90NFYQ01Z9?linkCode=ml1&tag=noya0b-20&linkId=720222d06f0f51a4c2c95b0d6ff3213f"
+          },
           {
             "asin": "B0F6LFGVGZ",
             "slug": "hobestluk-bean-bag-chair-for-adult-giant-beanbag-with-filler",
@@ -80,17 +67,43 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81AGYA3sv1L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B07N6X547M/ref=cm_sw_r_as_gl_api_gl_i_dl_HQKNN4PH2727WP5K6T36?linkCode=ml1&tag=noya0b-20&linkId=f983ac42d73028cd1f98486096e025d3"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0D47N69XM",
-            "slug": "puffs-facial-tissues-plus-lotion-18-cube-boxes-56-facial-tis",
-            "title": "Puffs Facial Tissues Plus Lotion, 18 Cube Boxes, 56 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
-            "price": "$25.47",
+            "asin": "B0F86WLC2H",
+            "slug": "herain-passport-holder-for-travel-essentials-2-pcs-passport",
+            "title": "Herain Passport Holder for Travel Essentials, 2 Pcs Passport Cover Wallet Case Travel Gifts Women Men Family, RFID Passp",
+            "price": "$5",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81U9upXARTL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D47N69XM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81okyg0lARL.jpg",
+            "url": "https://www.amazon.com/dp/B0F86WLC2H/ref=cm_sw_r_as_gl_api_gl_i_4JWDKAC7C8TB17V390GS?linkCode=ml1&tag=noya0b-20&linkId=78799c7ef0ee5ba95097e3e1db663f2f"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0DZL2FJZ6",
+            "slug": "lipton-english-breakfast-black-tea-bags-120-total-bags-20ct",
+            "title": "Lipton English Breakfast Black Tea Bags, 120 Total Bags (20ct - Pack of 6) | Features a a balanced blend from the renown",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/610PpT3VtqL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DZL2FJZ6/ref=cm_sw_r_as_gl_api_gl_i_CRHRRZFSH6AM3S6JDV4B?linkCode=ml1&tag=noya0b-20&linkId=f944a9de0db546af26033558f4b81e49"
+          },
+          {
+            "asin": "B072M1NC4M",
+            "slug": "lays-potato-chips-classic-1-ounce-pack-of-40",
+            "title": "Lay's Potato Chips, Classic, 1 Ounce (Pack of 40)",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/91sQLmVaxGL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B072M1NC4M/ref=cm_sw_r_as_gl_api_gl_i_HSCQAHRSNF5AYRZXB3FK?linkCode=ml1&tag=noya0b-20&linkId=51202615b8ecc76eea7dc72a55d7d97d"
           }
         ],
         "Toys & Kids": [
@@ -116,22 +129,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/715pBF+eu8L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DQ6C171P/ref=cm_sw_r_as_gl_api_gl_i_ZRDETQKSY3SWB5X63KC3?linkCode=ml1&tag=noya0b-20&linkId=71fc66e27fc3b57c58a1e6617ced45d9"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DB6GQ3W2",
-            "slug": "monopoly-pokmon-edition-board-game-ages-8-and-up-2-to-4-play",
-            "title": "Monopoly Pokémon Edition Board Game | Ages 8 and Up | 2 to 4 Players | Kids Games for Pokémon Fans | Fun Family Games| 4",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81WelZNJ68L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DB6GQ3W2/ref=cm_sw_r_as_gl_api_gl_i_ZP8VX8F3KA3HW4EK01CZ?linkCode=ml1&tag=noya0b-20&linkId=f08ea04825453bac9e717abde76a0aed"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B09W48KWGY",
+          "slug": "12-large-storage-bags-with-zipper-top-3-gallon-size-16-x-18",
+          "title": "12 Large Storage Bags With Zipper Top - 3 Gallon Size, 16\" x 18\", Extra Large Plastic for Clothes, Travel, Moving, Large",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81yzvRyFM1L.jpg",
+          "url": "https://www.amazon.com/dp/B09W48KWGY/ref=cm_sw_r_as_gl_api_gl_i_dl_PXQZCTKB0V90NFYQ01Z9?linkCode=ml1&tag=noya0b-20&linkId=720222d06f0f51a4c2c95b0d6ff3213f"
+        },
+        {
+          "asin": "B0F86WLC2H",
+          "slug": "herain-passport-holder-for-travel-essentials-2-pcs-passport",
+          "title": "Herain Passport Holder for Travel Essentials, 2 Pcs Passport Cover Wallet Case Travel Gifts Women Men Family, RFID Passp",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81okyg0lARL.jpg",
+          "url": "https://www.amazon.com/dp/B0F86WLC2H/ref=cm_sw_r_as_gl_api_gl_i_4JWDKAC7C8TB17V390GS?linkCode=ml1&tag=noya0b-20&linkId=78799c7ef0ee5ba95097e3e1db663f2f"
+        },
         {
           "asin": "B0DZL2FJZ6",
           "slug": "lipton-english-breakfast-black-tea-bags-120-total-bags-20ct",
@@ -219,34 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81AGYA3sv1L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B07N6X547M/ref=cm_sw_r_as_gl_api_gl_i_dl_HQKNN4PH2727WP5K6T36?linkCode=ml1&tag=noya0b-20&linkId=f983ac42d73028cd1f98486096e025d3"
-        },
-        {
-          "asin": "B0D47N69XM",
-          "slug": "puffs-facial-tissues-plus-lotion-18-cube-boxes-56-facial-tis",
-          "title": "Puffs Facial Tissues Plus Lotion, 18 Cube Boxes, 56 Facial Tissues per Box, Allergies and Colds (Packaging May Vary)",
-          "price": "$25.47",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81U9upXARTL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D47N69XM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0DB6GQ3W2",
-          "slug": "monopoly-pokmon-edition-board-game-ages-8-and-up-2-to-4-play",
-          "title": "Monopoly Pokémon Edition Board Game | Ages 8 and Up | 2 to 4 Players | Kids Games for Pokémon Fans | Fun Family Games| 4",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81WelZNJ68L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DB6GQ3W2/ref=cm_sw_r_as_gl_api_gl_i_ZP8VX8F3KA3HW4EK01CZ?linkCode=ml1&tag=noya0b-20&linkId=f08ea04825453bac9e717abde76a0aed"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 28, 2026?",
-          "a": "The best deals today include \"Lipton English Breakfast Black Tea Bags, 120 Total Bags (20c...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"12 Large Storage Bags With Zipper Top - 3 Gallon Size, 16\" x...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T11:30:01.321Z",
-      "updatedAt": "2026-07-28T11:30:01.321Z"
+      "generatedAt": "2026-07-28T11:40:01.332Z",
+      "updatedAt": "2026-07-28T11:40:01.332Z"
     },
     {
       "date": "2026-07-27",
@@ -13575,5 +13575,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T11:30:01.326Z"
+  "generatedAt": "2026-07-28T11:40:01.337Z"
 }
