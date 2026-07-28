@@ -9,6 +9,7 @@
         "Other",
         "Beauty",
         "Fashion",
+        "Home & Kitchen",
         "Garden & Outdoor"
       ],
       "byCategory": {
@@ -45,17 +46,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71ow4m-BxrL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CJ8WV4CT/ref=cm_sw_r_as_gl_api_gl_i_dl_9YBXHN9T8XP551CR51BX?linkCode=ml1&tag=noya0b-20&linkId=4341efc4d8df9b0e057b1edd785b9a84"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0000AQNKL",
-            "slug": "prang-board-chalk-assorted-colors-12-count",
-            "title": "Prang Board Chalk, Assorted Colors, 12 Count",
-            "price": "$0.67",
+            "asin": "B0FN4BM2VH",
+            "slug": "412-piece-tool-set-home-repair-auto-tool-kit-with-storage-or",
+            "title": "412 Piece Tool Set, Home Repair & Auto Tool Kit with Storage Organizer",
+            "price": "$28",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Vz9cQpjuL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0000AQNKL/ref=cm_sw_r_as_gl_api_gl_i_35TDYCNHC5D3X3EGP98X?linkCode=ml1&tag=noya0b-20&linkId=b1e409815dc473e52722d1d9f960e54b"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/714J9UVQk-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FN4BM2VH/ref=cm_sw_r_as_gl_api_gl_i_dl_T19WRCA5S067YQ9M7WR3?linkCode=ml1&tag=noya0b-20&linkId=2e9f820dd2986af8be2f3affa2c39690"
           }
         ],
         "Beauty": [
@@ -144,6 +147,17 @@
           "url": "https://www.amazon.com/dp/B000XZDYXM?tag=noya0b-20"
         },
         {
+          "asin": "B0FN4BM2VH",
+          "slug": "412-piece-tool-set-home-repair-auto-tool-kit-with-storage-or",
+          "title": "412 Piece Tool Set, Home Repair & Auto Tool Kit with Storage Organizer",
+          "price": "$28",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/714J9UVQk-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FN4BM2VH/ref=cm_sw_r_as_gl_api_gl_i_dl_T19WRCA5S067YQ9M7WR3?linkCode=ml1&tag=noya0b-20&linkId=2e9f820dd2986af8be2f3affa2c39690"
+        },
+        {
           "asin": "B0FPFKMBHN",
           "slug": "songmics-home-storage-bench-snapsemble-superfast-assembly-41",
           "title": "SONGMICS HOME Storage Bench, Snapsemble Superfast Assembly, 41\" Wide Entryway Shoe Cubby Bench with Cushion & Adjustable",
@@ -230,17 +244,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71WszQQImgL.jpg",
           "url": "https://www.amazon.com/dp/B0G4437LZ5/ref=cm_sw_r_as_gl_api_gl_i_13A28FAFVANVJ3K7V63W?linkCode=ml1&tag=noya0b-20&linkId=08206784b876457b2ec8ca99800c3c93"
-        },
-        {
-          "asin": "B0000AQNKL",
-          "slug": "prang-board-chalk-assorted-colors-12-count",
-          "title": "Prang Board Chalk, Assorted Colors, 12 Count",
-          "price": "$0.67",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Vz9cQpjuL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0000AQNKL/ref=cm_sw_r_as_gl_api_gl_i_35TDYCNHC5D3X3EGP98X?linkCode=ml1&tag=noya0b-20&linkId=b1e409815dc473e52722d1d9f960e54b"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T15:10:01.366Z",
-      "updatedAt": "2026-07-28T15:10:01.366Z"
+      "generatedAt": "2026-07-28T15:20:02.057Z",
+      "updatedAt": "2026-07-28T15:20:02.057Z"
     },
     {
       "date": "2026-07-27",
@@ -13575,5 +13578,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T15:10:01.371Z"
+  "generatedAt": "2026-07-28T15:20:02.062Z"
 }
