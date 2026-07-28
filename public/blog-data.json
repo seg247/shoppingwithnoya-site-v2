@@ -9,8 +9,9 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
-        "Fashion",
-        "Personal Care"
+        "Electronics",
+        "Personal Care",
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -46,6 +47,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FPFKMBHN/ref=cm_sw_r_as_gl_api_gl_i_dl_MEKZCJHSZRV2GK1CB7V3?linkCode=ml1&tag=noya0b-20&linkId=dee74f968a6b0cd022e5cd603d98e89c"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GPWS7F97",
+            "slug": "skytech-gaming-pc-nebula-2-core-i5-rtx-3050-16gb-ram-1tb-ssd",
+            "title": "Skytech Gaming PC Nebula 2, Core i5, RTX 3050, 16GB RAM, 1TB SSD | | Windows 11, Intel 14400F, NVIDIA 3050 (6GB), NVMe S",
+            "price": "$949.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/711RnSkT92L._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B0GPWS7F97?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Personal Care": [
@@ -120,17 +134,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/619DRZosw5L.jpg",
             "url": "https://www.amazon.com/dp/B0DLBWLCFH/ref=cm_sw_r_as_gl_api_gl_i_K8NCMCDVN69HWNCV6RRH?linkCode=ml1&tag=noya0b-20&linkId=58b5dfc4519fdbc866f7ba924d2dcb89"
-          },
-          {
-            "asin": "B09KZ18WCX",
-            "slug": "inusa-resilience-luggage-with-spinner-wheels-durable-lightwe",
-            "title": "InUSA RESILIENCE Luggage with Spinner Wheels | Durable Lightweight Hardside Spacious Travel Bag with Handle and Trolley ",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/91AsxXsj34L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09KZ18WCX/ref=cm_sw_r_as_gl_api_gl_i_4SKYBM9W355R44AMJM2Q?linkCode=ml1&tag=noya0b-20&linkId=44254f72b83e23167bd3473d7ac53bbf"
           }
         ]
       },
@@ -145,6 +148,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81z5dcSacsL.jpg",
           "url": "https://www.amazon.com/dp/B000XZDYXM?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GPWS7F97",
+          "slug": "skytech-gaming-pc-nebula-2-core-i5-rtx-3050-16gb-ram-1tb-ssd",
+          "title": "Skytech Gaming PC Nebula 2, Core i5, RTX 3050, 16GB RAM, 1TB SSD | | Windows 11, Intel 14400F, NVIDIA 3050 (6GB), NVMe S",
+          "price": "$949.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/711RnSkT92L._AC_SL1200_.jpg",
+          "url": "https://www.amazon.com/dp/B0GPWS7F97?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "B0FP1KZM28",
@@ -233,17 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71bfHCGMlEL.jpg",
           "url": "https://www.amazon.com/dp/B0D16L5F2M/ref=cm_sw_r_as_gl_api_gl_i_dl_QGXQ7408S43QNE4G86ZS?tag=noya0b-20"
-        },
-        {
-          "asin": "B09KZ18WCX",
-          "slug": "inusa-resilience-luggage-with-spinner-wheels-durable-lightwe",
-          "title": "InUSA RESILIENCE Luggage with Spinner Wheels | Durable Lightweight Hardside Spacious Travel Bag with Handle and Trolley ",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/91AsxXsj34L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09KZ18WCX/ref=cm_sw_r_as_gl_api_gl_i_4SKYBM9W355R44AMJM2Q?linkCode=ml1&tag=noya0b-20&linkId=44254f72b83e23167bd3473d7ac53bbf"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T15:30:01.535Z",
-      "updatedAt": "2026-07-28T15:30:01.535Z"
+      "generatedAt": "2026-07-28T15:40:01.550Z",
+      "updatedAt": "2026-07-28T15:40:01.550Z"
     },
     {
       "date": "2026-07-27",
@@ -13578,5 +13581,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T15:30:01.540Z"
+  "generatedAt": "2026-07-28T15:40:01.556Z"
 }
