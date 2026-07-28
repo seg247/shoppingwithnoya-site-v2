@@ -4,12 +4,12 @@
       "date": "2026-07-28",
       "slug": "2026-07-28",
       "title": "💄 Best Beauty Deals Today — July 28, 2026",
-      "intro": "Today's best beauty deals for Tuesday, July 28, 2026 — 30 hand-picked discounts on Makeup, Skincare, Hair Care and more. The best beauty discount today is 50% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Tuesday, July 28, 2026 — 30 hand-picked discounts on Makeup, Fragrance, Skincare and more. The best beauty discount today is 50% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
         "Makeup",
+        "Fragrance",
         "Skincare",
         "Hair Care",
-        "Fragrance",
         "Body Care"
       ],
       "bySubcat": {
@@ -53,16 +53,38 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/41-NnguERnL.jpg",
             "url": "https://www.amazon.com/dp/B0C9TXLWLY?th=1&linkCode=sl2&tag=noya0b-20&linkId=397561a031ab84efa99423ee2ca07cf9&language=en_US"
+          }
+        ],
+        "Fragrance": [
+          {
+            "asin": "B0FXML1H2Y",
+            "slug": "calvin-klein-euphoria-bold-elixir-parfum-intense-worn-by-ros",
+            "title": "Calvin Klein Euphoria Bold Elixir Parfum Intense worn by Rosalia– Ambery Perfume for Women – With Jasmine, Smoky Orchid,",
+            "discount": 40,
+            "rating": "HOT",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/51C02xq6vaL.jpg",
+            "url": "https://amazon.com/dp/B0FXML1H2Y?th=1&tag=noya0b-20"
           },
           {
-            "asin": "B01KPEG108",
-            "slug": "-tarte-maneater-mascara-extreme-curl-instant-volume-length-1",
-            "title": "\udecd️ tarte maneater mascara – Extreme Curl, Instant Volume & Length, 16HR Ultra-Creamy Longwear Eye Makeup",
-            "discount": 7,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01KPEG108?th=1&linkCode=sl2&tag=noya0b-20&linkId=527f5148fa63fefe7e9e6a6b5c5e6486&language=en_US"
+            "asin": "B0D7NSQX4X",
+            "slug": "-hanni-the-fatty-fragrance-free-fatty-acid-moisture-stick-25",
+            "title": "\udecd️ HANNI The Fatty FRAGRANCE-FREE Fatty Acid Moisture Stick, 2.5 oz | 70% omega-3 & omega-6 fatty acids; National Eczema",
+            "discount": 10,
+            "rating": "GOOD",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/41yKDhGK3TL.jpg",
+            "url": "https://www.amazon.com/dp/B0D7NSQX4X?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b73a578a8fbba93017a4e3b721fae27&language=en_US"
+          },
+          {
+            "asin": "B0BLFNXMJ9",
+            "slug": "-hello-unicorn-aluminum-free-deodorant-for-women-girls-safe",
+            "title": "\udecd️ hello Unicorn Aluminum Free Deodorant for Women, Girls, Safe for Kids, Dermatologically tested, Natural Fragrance, 2 ",
+            "discount": 10,
+            "rating": "GOOD",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UmvxccEpL.jpg",
+            "url": "https://www.amazon.com/dp/B0BLFNXMJ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=e6bd30e5e446ed04b442c11d99c7511b&language=en_US"
           }
         ],
         "Skincare": [
@@ -289,28 +311,6 @@
             "url": "https://www.amazon.com/dp/B0DSPD2838?th=1&linkCode=sl2&tag=noya0b-20&linkId=fc339a9d7a2df91b55d43ac1adbee15d&language=en_US"
           }
         ],
-        "Fragrance": [
-          {
-            "asin": "B0D7NSQX4X",
-            "slug": "-hanni-the-fatty-fragrance-free-fatty-acid-moisture-stick-25",
-            "title": "\udecd️ HANNI The Fatty FRAGRANCE-FREE Fatty Acid Moisture Stick, 2.5 oz | 70% omega-3 & omega-6 fatty acids; National Eczema",
-            "discount": 10,
-            "rating": "GOOD",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/41yKDhGK3TL.jpg",
-            "url": "https://www.amazon.com/dp/B0D7NSQX4X?th=1&linkCode=sl2&tag=noya0b-20&linkId=7b73a578a8fbba93017a4e3b721fae27&language=en_US"
-          },
-          {
-            "asin": "B0BLFNXMJ9",
-            "slug": "-hello-unicorn-aluminum-free-deodorant-for-women-girls-safe",
-            "title": "\udecd️ hello Unicorn Aluminum Free Deodorant for Women, Girls, Safe for Kids, Dermatologically tested, Natural Fragrance, 2 ",
-            "discount": 10,
-            "rating": "GOOD",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UmvxccEpL.jpg",
-            "url": "https://www.amazon.com/dp/B0BLFNXMJ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=e6bd30e5e446ed04b442c11d99c7511b&language=en_US"
-          }
-        ],
         "Body Care": [
           {
             "asin": "B0DQF7CQ3Z",
@@ -334,6 +334,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/817iQ7Td8AL.jpg",
           "url": "https://amazon.com/dp/B08X9X3XN8?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FXML1H2Y",
+          "slug": "calvin-klein-euphoria-bold-elixir-parfum-intense-worn-by-ros",
+          "title": "Calvin Klein Euphoria Bold Elixir Parfum Intense worn by Rosalia– Ambery Perfume for Women – With Jasmine, Smoky Orchid,",
+          "discount": 40,
+          "rating": "HOT",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/51C02xq6vaL.jpg",
+          "url": "https://amazon.com/dp/B0FXML1H2Y?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0DGG36V9J",
@@ -614,16 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61tZ15f1hnL.jpg",
           "url": "https://www.amazon.com/dp/B0CDPGDMC9?linkCode=sl2&tag=noya0b-20&linkId=bf6a4a2692595240f04f33b1f5250012&language=en_US"
-        },
-        {
-          "asin": "B01KPEG108",
-          "slug": "-tarte-maneater-mascara-extreme-curl-instant-volume-length-1",
-          "title": "\udecd️ tarte maneater mascara – Extreme Curl, Instant Volume & Length, 16HR Ultra-Creamy Longwear Eye Makeup",
-          "discount": 7,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01KPEG108?th=1&linkCode=sl2&tag=noya0b-20&linkId=527f5148fa63fefe7e9e6a6b5c5e6486&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -643,7 +643,7 @@
       "faq": [
         {
           "q": "What are the best beauty deals today on July 28, 2026?",
-          "a": "The top beauty deals today include \"Alleyoop Stack the Odds, Travel Makeup, Mini Makeup, Sassy P...\" and 29 other hand-picked discounts across Makeup, Skincare, Hair Care."
+          "a": "The top beauty deals today include \"Alleyoop Stack the Odds, Travel Makeup, Mini Makeup, Sassy P...\" and 29 other hand-picked discounts across Makeup, Fragrance, Skincare."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-07-28T23:00:03.072Z",
-      "updatedAt": "2026-07-28T23:00:03.073Z"
+      "generatedAt": "2026-07-28T23:10:04.487Z",
+      "updatedAt": "2026-07-28T23:10:04.488Z"
     },
     {
       "date": "2026-07-27",
@@ -31526,5 +31526,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-07-28T23:00:03.103Z"
+  "generatedAt": "2026-07-28T23:10:04.519Z"
 }
