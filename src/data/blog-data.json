@@ -12,6 +12,19 @@
         "Grocery & Food"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B072M1NC4M",
+            "slug": "lays-potato-chips-classic-1-ounce-pack-of-40",
+            "title": "Lay's Potato Chips, Classic, 1 Ounce (Pack of 40)",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/91sQLmVaxGL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B072M1NC4M/ref=cm_sw_r_as_gl_api_gl_i_HSCQAHRSNF5AYRZXB3FK?linkCode=ml1&tag=noya0b-20&linkId=51202615b8ecc76eea7dc72a55d7d97d"
+          }
+        ],
         "Other": [
           {
             "asin": "B0F6LFGVGZ",
@@ -116,22 +129,20 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0009J5NXG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0GRWW34K8",
-            "slug": "kind-breakfast-protein-bars-variety-pack-3-8g-protein-gluten",
-            "title": "KIND Breakfast Protein Bars, Variety Pack, 3-8g Protein, Gluten Free, 18 ct | Perfect for busy mornings: a gluten-free h",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81rfJD7aAkL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GRWW34K8/ref=cm_sw_r_as_gl_api_gl_i_AP20WDBBT2FHM7XHRA1C?linkCode=ml1&tag=noya0b-20&linkId=92dd14d34b63e7fedce4d3ccc82e974f"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B072M1NC4M",
+          "slug": "lays-potato-chips-classic-1-ounce-pack-of-40",
+          "title": "Lay's Potato Chips, Classic, 1 Ounce (Pack of 40)",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/91sQLmVaxGL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B072M1NC4M/ref=cm_sw_r_as_gl_api_gl_i_HSCQAHRSNF5AYRZXB3FK?linkCode=ml1&tag=noya0b-20&linkId=51202615b8ecc76eea7dc72a55d7d97d"
+        },
         {
           "asin": "B0F6LFGVGZ",
           "slug": "hobestluk-bean-bag-chair-for-adult-giant-beanbag-with-filler",
@@ -230,23 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0009J5NXG?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GRWW34K8",
-          "slug": "kind-breakfast-protein-bars-variety-pack-3-8g-protein-gluten",
-          "title": "KIND Breakfast Protein Bars, Variety Pack, 3-8g Protein, Gluten Free, 18 ct | Perfect for busy mornings: a gluten-free h",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81rfJD7aAkL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GRWW34K8/ref=cm_sw_r_as_gl_api_gl_i_AP20WDBBT2FHM7XHRA1C?linkCode=ml1&tag=noya0b-20&linkId=92dd14d34b63e7fedce4d3ccc82e974f"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 28, 2026?",
-          "a": "The best deals today include \"Hobestluk Bean Bag Chair for Adult Giant Beanbag with Filler...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Lay's Potato Chips, Classic, 1 Ounce (Pack of 40)...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T11:10:01.659Z",
-      "updatedAt": "2026-07-28T11:10:01.660Z"
+      "generatedAt": "2026-07-28T11:20:01.600Z",
+      "updatedAt": "2026-07-28T11:20:01.600Z"
     },
     {
       "date": "2026-07-27",
@@ -13575,5 +13575,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T11:10:01.664Z"
+  "generatedAt": "2026-07-28T11:20:01.605Z"
 }
