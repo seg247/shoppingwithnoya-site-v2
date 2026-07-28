@@ -9,12 +9,25 @@
         "Other",
         "Grocery & Food",
         "Toys & Kids",
+        "Garden & Outdoor",
         "Fashion",
         "Electronics",
-        "Health",
-        "Home & Kitchen"
+        "Health"
       ],
       "byCategory": {
+        "Garden & Outdoor": [
+          {
+            "asin": "B0031JK95S",
+            "slug": "tasty-organic-lightly-sweet-meal-replacement-shake-vegan-gar",
+            "title": "Tasty Organic Lightly Sweet Meal Replacement Shake Vegan - Garden of Life 20g Complete Plant Based Protein, Greens, Rice",
+            "price": "$24.02",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/716zeM0WvoL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0031JK95S?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0DSJWQLHX",
@@ -125,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/817zhv6TSpL.jpg",
             "url": "https://www.amazon.com/dp/B08G9JLJ1Y/ref=cm_sw_r_as_gl_apa_gl_i_WDTPQ0GG5DZZ8JMKAAVE?linkCode=ml1&tag=noya0b-20&linkId=3b64f4b1e8bf8c6592f4e89d46aea605"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0GHCRGRST",
-            "slug": "fancy-feast-purina-gourmet-wet-cat-food-variety-packagepetit",
-            "title": "Fancy Feast Purina Gourmet Wet Cat Food Variety Package,Petites Gravy Collection,Break-Apart tubs,96 Servings - 2.8 oz. ",
-            "price": "$26",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lXytYXrqL.jpg",
-            "url": "https://www.amazon.com/dp/B0GHCRGRST/ref=cm_sw_r_as_gl_apa_gl_i_SC26TFH1ZW42DFD4YHDC?linkCode=ml1&tag=noya0b-20&linkId=07118ef0f97139c97120cfe89348694b"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0031JK95S",
+          "slug": "tasty-organic-lightly-sweet-meal-replacement-shake-vegan-gar",
+          "title": "Tasty Organic Lightly Sweet Meal Replacement Shake Vegan - Garden of Life 20g Complete Plant Based Protein, Greens, Rice",
+          "price": "$24.02",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/716zeM0WvoL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0031JK95S?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0DSJWQLHX",
           "slug": "travelon-travel-carry-all-17-packable-tote-wluggage-sleeve-t",
@@ -239,23 +250,12 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/817zhv6TSpL.jpg",
           "url": "https://www.amazon.com/dp/B08G9JLJ1Y/ref=cm_sw_r_as_gl_apa_gl_i_WDTPQ0GG5DZZ8JMKAAVE?linkCode=ml1&tag=noya0b-20&linkId=3b64f4b1e8bf8c6592f4e89d46aea605"
-        },
-        {
-          "asin": "B0GHCRGRST",
-          "slug": "fancy-feast-purina-gourmet-wet-cat-food-variety-packagepetit",
-          "title": "Fancy Feast Purina Gourmet Wet Cat Food Variety Package,Petites Gravy Collection,Break-Apart tubs,96 Servings - 2.8 oz. ",
-          "price": "$26",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lXytYXrqL.jpg",
-          "url": "https://www.amazon.com/dp/B0GHCRGRST/ref=cm_sw_r_as_gl_apa_gl_i_SC26TFH1ZW42DFD4YHDC?linkCode=ml1&tag=noya0b-20&linkId=07118ef0f97139c97120cfe89348694b"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 28, 2026?",
-          "a": "The best deals today include \"Travelon Travel Carry-All 17\" Packable Tote w/Luggage Sleeve...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Tasty Organic Lightly Sweet Meal Replacement Shake Vegan - G...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T05:40:02.188Z",
-      "updatedAt": "2026-07-28T05:40:02.188Z"
+      "generatedAt": "2026-07-28T05:50:01.873Z",
+      "updatedAt": "2026-07-28T05:50:01.873Z"
     },
     {
       "date": "2026-07-27",
@@ -13584,5 +13584,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T05:40:02.193Z"
+  "generatedAt": "2026-07-28T05:50:01.878Z"
 }
