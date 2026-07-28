@@ -14,6 +14,41 @@
         "Pet Supplies"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B08SX3YX2B",
+            "slug": "almond-breeze-dairy-free-almondmilk-unsweetened-vanilla-32-o",
+            "title": "Almond Breeze Dairy Free Almondmilk, Unsweetened Vanilla, 32 Ounce (Pack of 6)",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/919LjI20IML._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08SX3YX2B/ref=cm_sw_r_as_gl_api_gl_i_V1SNZ422ZG2T423K6F1X?linkCode=ml1&tag=noya0b-20&linkId=7c60d556ec1ed07eb2fc1eeca481b3df"
+          },
+          {
+            "asin": "B0CMCTV3ZG",
+            "slug": "holikme-9pack-drill-brush-all-purpose-drill-brush-with-exten",
+            "title": "Holikme 9Pack Drill Brush ，All Purpose Drill Brush with Extend Attachment for Bathroom Surfaces, Grout, Floor, Tub, Show",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81iErvXx8NL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CMCTV3ZG/ref=cm_sw_r_as_gl_api_gl_i_RJPBAK0HB62GKZBS1GQ1?linkCode=ml1&tag=noya0b-20&linkId=43d08ad984206718b067059b0dd19e3e"
+          },
+          {
+            "asin": "B00002N5NT",
+            "slug": "johnson-level-tool-7500m-magnetic-structo-cast-torpedo-level",
+            "title": "Johnson Level & Tool 7500M Magnetic Structo-Cast Torpedo Level, 9\", Orange, 1 Level",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61KBSL-PyeL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00002N5NT/ref=cm_sw_r_as_gl_api_gl_i_P4GW0VT3Q08K6B47E52N?linkCode=ml1&tag=noya0b-20&linkId=d3ef8cc52ee9d6b3f3eea0bd36191aca"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0DR3Y8B9V",
@@ -75,41 +110,6 @@
             "url": "https://www.amazon.com/dp/B01MFER4XH/ref=cm_sw_r_as_gl_api_gl_i_ZJD8YZWT6AW0KAG5DJNF?linkCode=ml1&tag=noya0b-20&linkId=5e1ca2fa1552a585e14514900291cf5c"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0CMCTV3ZG",
-            "slug": "holikme-9pack-drill-brush-all-purpose-drill-brush-with-exten",
-            "title": "Holikme 9Pack Drill Brush ，All Purpose Drill Brush with Extend Attachment for Bathroom Surfaces, Grout, Floor, Tub, Show",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81iErvXx8NL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CMCTV3ZG/ref=cm_sw_r_as_gl_api_gl_i_RJPBAK0HB62GKZBS1GQ1?linkCode=ml1&tag=noya0b-20&linkId=43d08ad984206718b067059b0dd19e3e"
-          },
-          {
-            "asin": "B00002N5NT",
-            "slug": "johnson-level-tool-7500m-magnetic-structo-cast-torpedo-level",
-            "title": "Johnson Level & Tool 7500M Magnetic Structo-Cast Torpedo Level, 9\", Orange, 1 Level",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61KBSL-PyeL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00002N5NT/ref=cm_sw_r_as_gl_api_gl_i_P4GW0VT3Q08K6B47E52N?linkCode=ml1&tag=noya0b-20&linkId=d3ef8cc52ee9d6b3f3eea0bd36191aca"
-          },
-          {
-            "asin": "B0CJYJGQ5Z",
-            "slug": "differin-acne-treatment-pimple-patches-salicylic-acid-centel",
-            "title": "Differin Acne Treatment Pimple Patches, Salicylic Acid & Centella, 36 ct | Hydrocolloid Acne Spot Treatment, Salicylic A",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MpVmcqBuL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CJYJGQ5Z/ref=cm_sw_r_as_gl_api_gl_i_HJDTBQ90AG8NN6NABW93?linkCode=ml1&tag=noya0b-20&linkId=00f28603be480c0e5be3a6d663d81561"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B07DRKZNP7",
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B08SX3YX2B",
+          "slug": "almond-breeze-dairy-free-almondmilk-unsweetened-vanilla-32-o",
+          "title": "Almond Breeze Dairy Free Almondmilk, Unsweetened Vanilla, 32 Ounce (Pack of 6)",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/919LjI20IML._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08SX3YX2B/ref=cm_sw_r_as_gl_api_gl_i_V1SNZ422ZG2T423K6F1X?linkCode=ml1&tag=noya0b-20&linkId=7c60d556ec1ed07eb2fc1eeca481b3df"
+        },
         {
           "asin": "B0DR3Y8B9V",
           "slug": "fisher-price-baby-push-toy-4-in-1-snack-cart-walker-learning",
@@ -236,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61KBSL-PyeL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00002N5NT/ref=cm_sw_r_as_gl_api_gl_i_P4GW0VT3Q08K6B47E52N?linkCode=ml1&tag=noya0b-20&linkId=d3ef8cc52ee9d6b3f3eea0bd36191aca"
-        },
-        {
-          "asin": "B0CJYJGQ5Z",
-          "slug": "differin-acne-treatment-pimple-patches-salicylic-acid-centel",
-          "title": "Differin Acne Treatment Pimple Patches, Salicylic Acid & Centella, 36 ct | Hydrocolloid Acne Spot Treatment, Salicylic A",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MpVmcqBuL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CJYJGQ5Z/ref=cm_sw_r_as_gl_api_gl_i_HJDTBQ90AG8NN6NABW93?linkCode=ml1&tag=noya0b-20&linkId=00f28603be480c0e5be3a6d663d81561"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 28, 2026?",
-          "a": "The best deals today include \"Fisher-Price Baby Push Toy 4-in-1 Snack Cart Walker Learning...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Tools & Hardware and are updated daily."
+          "a": "The best deals today include \"Almond Breeze Dairy Free Almondmilk, Unsweetened Vanilla, 32...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Tools & Hardware and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-28T10:00:01.537Z",
-      "updatedAt": "2026-07-28T10:00:01.537Z"
+      "generatedAt": "2026-07-28T10:10:02.043Z",
+      "updatedAt": "2026-07-28T10:10:02.043Z"
     },
     {
       "date": "2026-07-27",
@@ -13581,5 +13581,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-28T10:00:01.543Z"
+  "generatedAt": "2026-07-28T10:10:02.048Z"
 }
