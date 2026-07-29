@@ -9,7 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
-        "Grocery & Food"
+        "Beauty",
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Other": [
@@ -36,6 +37,17 @@
             "url": "https://www.amazon.com/dp/B000XZDYXM?tag=noya0b-20"
           },
           {
+            "asin": "B0DHGMBZ36",
+            "slug": "tijn-sleep-glasses-with-blue-green-light-blocking-red-light",
+            "title": "✨TIJN Sleep Glasses with Blue Green Light Blocking, Red Light Lens for Computer Gaming, Screen Fatigue & UV Protection",
+            "price": "$15.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51PiyDXjiXL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHGMBZ36?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c3ff5fe3ed1a1892bf1743d767032bd1&language=en_US&gaOptInStatus=true"
+          },
+          {
             "asin": "B0CYSQLWT6",
             "slug": "marriotto-rpwfe-built-in-chip-rpwf-refrigerator-water-filter",
             "title": "✨MARRIOTTO RPWFE (Built-in CHIP), RPWF Refrigerator Water Filter Pack of 4 | Compatible with GE RPWFE RPWF GFE28GELDS, P",
@@ -45,17 +57,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71qij07UiFL.jpg",
             "url": "https://www.amazon.com/dp/B0CYSQLWT6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=8b8325bb38baf319e6ef9cc50dec162a&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B0FBRV79QP",
-            "slug": "gravity-electric-salt-and-pepper-grinder-set-rechargeable-ex",
-            "title": "Gravity Electric Salt and Pepper Grinder Set Rechargeable, External Adjustable Coarseness, Automatic Salt and Pepper Sha",
-            "price": "$8",
+            "asin": "B0DNS7RJHX",
+            "slug": "dalba-piedmont-air-fit-fresh-sun-stick-otc-broad-spectrum-sp",
+            "title": "d'alba Piedmont Air Fit Fresh Sun Stick, OTC BROAD SPECTRUM SPF 50+, Non-Sticky On-the-Go Sun Protection, Outdoor Essent",
+            "price": "$13",
+            "discount": 44,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51E69vZqsIL.jpg",
+            "url": "https://amazon.com/dp/B0DNS7RJHX?tag=noya0b-20"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B00006ICOD",
+            "slug": "rubbermaid-commercial-products-super-stitch-blend-mop-head-r",
+            "title": "✨Rubbermaid Commercial Products Super Stitch Blend Mop Head Replacement, 1-Inch Headband, Blue, Heavy Duty Industrial We",
+            "price": "$15.10",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71P717Ud+UL.jpg",
-            "url": "https://amazon.com/dp/B0FBRV79QP?th=1&tag=noya0b-20"
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/816MfsnTC+S.jpg",
+            "url": "https://www.amazon.com/dp/B00006ICOD?lv=shuf&rnid=23566063011&crid=2M372Z2DDZ7L9&keywords=cleaning+products&sprefix=Cleaning%2Caps%2C534&qid=1784412755&refinements=p_n_free_shipping_afn_mfn%3A23598027011%2Cp_n_deal_type%3A23566065011&dib_tag=se&dib=eyJ2IjoiMSJ9.NHZbrvOrUHVBQItIDueWIeOhoFhDfFowefe6Dcy5sDbWFTkTMyD1RXYKzq-HZNGb6zPRLJKOIZYlWVouq53lFT88KCBmanmlkW33LVTSczKgx5gZDjy5DUNsDGdml9vqPY87kEcen8AG57lUu4nxIfttP8OAFHb5AUN0EvHYdLi0cUDjLiuOtJp3tmPykMrQlqIpVlZYCZrm-hgLeLMwKOm9oqmkpDK0rm-SteBdfnCGthre1n8t-7YNgD-tlf_XTIWfKAbWjv4NOW38XMBezeCU8wmqOVxaE6a8IHUDvTU.a-Wz1ji4EWJPF24gc3eIA2R4xh8VG13wbUliDgYydK0&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=292a6547c96350c0ca9200cc9177fa79&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0796RL27B",
+            "slug": "kongnai-kitchen-funnel-set-4-pack-small-and-large-kitchen-ga",
+            "title": "✨KongNai Kitchen Funnel Set 4 Pack, Small and Large, Kitchen Gadgets Accessories Foldable Silicone Collapsible Funnels f",
+            "price": "$5.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/6197TF0tXlL.jpg",
+            "url": "https://www.amazon.com/dp/B0796RL27B?lv=shuf&crid=1E72XNI2M517F&keywords=Home%2Bneeds&sprefix=home%2Bneeds%2Caps%2C198&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&xpid=hyNCDqu8tTMRo&qid=1784398560&th=1&dib_tag=se&dib=eyJ2IjoiMSJ9.-b0O5Hj9olj81V8Ll23a717FybvepS78wsJa9eaqkONNOy1CyzsZdbSFOoq6hzVe7YDkFOtdjZGSi9Shu1fXbsvVQv7_p9MEZ02SGtju1J1SdX0yPbMf2LrV3VwkO8e1-e395gw_9a9-861cKLVn-MFFlN56E0yytD2eBijS0kk0TMd-lcvzPfMtK1YlRRcHXGF5Zd3_IGtYaf7xKRbDxhtRNLvAEfbPJWeis47Jem7Opl-_jx5XdBgB1INW6QoFG3Q76ksnpA7RDi-nRxCF1_AruVYucuCSSIXMsxBvTuU.heIbbxZ0vYd8zP5BKjPvVnJPGxWWjlvi37qqXDy53Ho&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1f4f1419f30d8d90e2cda8880ea841c3&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0C7QHZ8TM",
+            "slug": "2-layer-drawer-and-shelf-liner-for-kitchen-cabinet-12-in-x-2",
+            "title": "✨2-Layer Drawer and Shelf Liner for Kitchen Cabinet: 12 in X 20 Ft Non Slip Waterproof Shelf Paper Non Adhesive Refriger",
+            "price": "$13.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71cTc+HbYJL.jpg",
+            "url": "https://www.amazon.com/dp/B0C7QHZ8TM?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3e192764d02914d1d72bb6126e28da48&language=en_US&gaOptInStatus=true"
           }
         ],
         "Electronics": [
@@ -81,54 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/613GTO6ZUrL.jpg",
             "url": "https://www.amazon.com/dp/B0DK4VM1SX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=509ba5b8e507a7087a1b1141ba6e4ab4&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0GK9776YF",
-            "slug": "cooling-comforter-for-hot-sleepers-queen-90x90-silver-gray-c",
-            "title": "✨Cooling Comforter for Hot Sleepers, Queen 90x90, Silver Gray | Cooling blanket feel, Q-Max >0.4 cool touch, double-side",
-            "price": "$65.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61859HweXCL.jpg",
-            "url": "https://www.amazon.com/dp/B0GK9776YF?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=dcf78093361bcde9732e6f4c3e76f1f6&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GZTXKGPK",
-            "slug": "air-purifiers-for-home-large-room-cover-up-to-2400-ft-with-t",
-            "title": "✨Air Purifiers for Home Large Room, Cover Up to 2400 Ft² with True HEPA Filter, Smart Mode, PM2.5 Air Quality Display, 2",
-            "price": "$89.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PQ2gwM0IL.jpg",
-            "url": "https://www.amazon.com/dp/B0GZTXKGPK?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=67c54ecc4b58760b045df0d9ac938450&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CNL8RYF9",
-            "slug": "soap-dispenser-for-kitchen-sink-built-in-sink-soap-dispenser",
-            "title": "✨Soap Dispenser for Kitchen Sink, Built in Sink Soap Dispenser, Countertop Soap Dispenser Pump with 47\" Extension Tube k",
-            "price": "$19.86",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51xZmzW6jeL.jpg",
-            "url": "https://www.amazon.com/dp/B0CNL8RYF9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=567217ff9e48a7bc3f5aa608a3f8ba8b&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FBLHSHLF",
-            "slug": "sugar-free-electrolytes-powder-packets-4-flavor-variety-pack",
-            "title": "✨Sugar Free Electrolytes Powder Packets, 4 Flavor Variety Pack, 16 Sticks | No Artificial Flavors, Colors or Sweeteners ",
-            "price": "$24.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JkQdCZL6L.jpg",
-            "url": "https://www.amazon.com/dp/B0FBLHSHLF?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=50c1cf7e95b248fbb4cbba964585c50d&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -144,6 +147,17 @@
           "url": "https://www.amazon.com/dp/B000IEQQCE?linkCode=sl1&tag=noya0b-20&linkId=77a059a6a1ab51d731182b87939eda9f&language=en_US"
         },
         {
+          "asin": "B0DNS7RJHX",
+          "slug": "dalba-piedmont-air-fit-fresh-sun-stick-otc-broad-spectrum-sp",
+          "title": "d'alba Piedmont Air Fit Fresh Sun Stick, OTC BROAD SPECTRUM SPF 50+, Non-Sticky On-the-Go Sun Protection, Outdoor Essent",
+          "price": "$13",
+          "discount": 44,
+          "rating": "HOT",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51E69vZqsIL.jpg",
+          "url": "https://amazon.com/dp/B0DNS7RJHX?tag=noya0b-20"
+        },
+        {
           "asin": "B000XZDYXM",
           "slug": "here-is-everything-with-the-40-off-sub-and-save-tons-of-item",
           "title": "Here is everything with the 40% off sub and save\udfc3‍♀️\udfc3‍♀️ tons of items have additional Q’s stacking!! + combine with up ",
@@ -153,6 +167,50 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81z5dcSacsL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B000XZDYXM?tag=noya0b-20"
+        },
+        {
+          "asin": "B00006ICOD",
+          "slug": "rubbermaid-commercial-products-super-stitch-blend-mop-head-r",
+          "title": "✨Rubbermaid Commercial Products Super Stitch Blend Mop Head Replacement, 1-Inch Headband, Blue, Heavy Duty Industrial We",
+          "price": "$15.10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/816MfsnTC+S.jpg",
+          "url": "https://www.amazon.com/dp/B00006ICOD?lv=shuf&rnid=23566063011&crid=2M372Z2DDZ7L9&keywords=cleaning+products&sprefix=Cleaning%2Caps%2C534&qid=1784412755&refinements=p_n_free_shipping_afn_mfn%3A23598027011%2Cp_n_deal_type%3A23566065011&dib_tag=se&dib=eyJ2IjoiMSJ9.NHZbrvOrUHVBQItIDueWIeOhoFhDfFowefe6Dcy5sDbWFTkTMyD1RXYKzq-HZNGb6zPRLJKOIZYlWVouq53lFT88KCBmanmlkW33LVTSczKgx5gZDjy5DUNsDGdml9vqPY87kEcen8AG57lUu4nxIfttP8OAFHb5AUN0EvHYdLi0cUDjLiuOtJp3tmPykMrQlqIpVlZYCZrm-hgLeLMwKOm9oqmkpDK0rm-SteBdfnCGthre1n8t-7YNgD-tlf_XTIWfKAbWjv4NOW38XMBezeCU8wmqOVxaE6a8IHUDvTU.a-Wz1ji4EWJPF24gc3eIA2R4xh8VG13wbUliDgYydK0&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=292a6547c96350c0ca9200cc9177fa79&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0796RL27B",
+          "slug": "kongnai-kitchen-funnel-set-4-pack-small-and-large-kitchen-ga",
+          "title": "✨KongNai Kitchen Funnel Set 4 Pack, Small and Large, Kitchen Gadgets Accessories Foldable Silicone Collapsible Funnels f",
+          "price": "$5.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/6197TF0tXlL.jpg",
+          "url": "https://www.amazon.com/dp/B0796RL27B?lv=shuf&crid=1E72XNI2M517F&keywords=Home%2Bneeds&sprefix=home%2Bneeds%2Caps%2C198&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&xpid=hyNCDqu8tTMRo&qid=1784398560&th=1&dib_tag=se&dib=eyJ2IjoiMSJ9.-b0O5Hj9olj81V8Ll23a717FybvepS78wsJa9eaqkONNOy1CyzsZdbSFOoq6hzVe7YDkFOtdjZGSi9Shu1fXbsvVQv7_p9MEZ02SGtju1J1SdX0yPbMf2LrV3VwkO8e1-e395gw_9a9-861cKLVn-MFFlN56E0yytD2eBijS0kk0TMd-lcvzPfMtK1YlRRcHXGF5Zd3_IGtYaf7xKRbDxhtRNLvAEfbPJWeis47Jem7Opl-_jx5XdBgB1INW6QoFG3Q76ksnpA7RDi-nRxCF1_AruVYucuCSSIXMsxBvTuU.heIbbxZ0vYd8zP5BKjPvVnJPGxWWjlvi37qqXDy53Ho&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1f4f1419f30d8d90e2cda8880ea841c3&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0C7QHZ8TM",
+          "slug": "2-layer-drawer-and-shelf-liner-for-kitchen-cabinet-12-in-x-2",
+          "title": "✨2-Layer Drawer and Shelf Liner for Kitchen Cabinet: 12 in X 20 Ft Non Slip Waterproof Shelf Paper Non Adhesive Refriger",
+          "price": "$13.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cTc+HbYJL.jpg",
+          "url": "https://www.amazon.com/dp/B0C7QHZ8TM?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3e192764d02914d1d72bb6126e28da48&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DHGMBZ36",
+          "slug": "tijn-sleep-glasses-with-blue-green-light-blocking-red-light",
+          "title": "✨TIJN Sleep Glasses with Blue Green Light Blocking, Red Light Lens for Computer Gaming, Screen Fatigue & UV Protection",
+          "price": "$15.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51PiyDXjiXL.jpg",
+          "url": "https://www.amazon.com/dp/B0DHGMBZ36?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c3ff5fe3ed1a1892bf1743d767032bd1&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0CYSQLWT6",
@@ -186,61 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/613GTO6ZUrL.jpg",
           "url": "https://www.amazon.com/dp/B0DK4VM1SX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=509ba5b8e507a7087a1b1141ba6e4ab4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GK9776YF",
-          "slug": "cooling-comforter-for-hot-sleepers-queen-90x90-silver-gray-c",
-          "title": "✨Cooling Comforter for Hot Sleepers, Queen 90x90, Silver Gray | Cooling blanket feel, Q-Max >0.4 cool touch, double-side",
-          "price": "$65.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61859HweXCL.jpg",
-          "url": "https://www.amazon.com/dp/B0GK9776YF?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=dcf78093361bcde9732e6f4c3e76f1f6&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FBRV79QP",
-          "slug": "gravity-electric-salt-and-pepper-grinder-set-rechargeable-ex",
-          "title": "Gravity Electric Salt and Pepper Grinder Set Rechargeable, External Adjustable Coarseness, Automatic Salt and Pepper Sha",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71P717Ud+UL.jpg",
-          "url": "https://amazon.com/dp/B0FBRV79QP?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GZTXKGPK",
-          "slug": "air-purifiers-for-home-large-room-cover-up-to-2400-ft-with-t",
-          "title": "✨Air Purifiers for Home Large Room, Cover Up to 2400 Ft² with True HEPA Filter, Smart Mode, PM2.5 Air Quality Display, 2",
-          "price": "$89.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61PQ2gwM0IL.jpg",
-          "url": "https://www.amazon.com/dp/B0GZTXKGPK?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=67c54ecc4b58760b045df0d9ac938450&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CNL8RYF9",
-          "slug": "soap-dispenser-for-kitchen-sink-built-in-sink-soap-dispenser",
-          "title": "✨Soap Dispenser for Kitchen Sink, Built in Sink Soap Dispenser, Countertop Soap Dispenser Pump with 47\" Extension Tube k",
-          "price": "$19.86",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51xZmzW6jeL.jpg",
-          "url": "https://www.amazon.com/dp/B0CNL8RYF9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=567217ff9e48a7bc3f5aa608a3f8ba8b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FBLHSHLF",
-          "slug": "sugar-free-electrolytes-powder-packets-4-flavor-variety-pack",
-          "title": "✨Sugar Free Electrolytes Powder Packets, 4 Flavor Variety Pack, 16 Sticks | No Artificial Flavors, Colors or Sweeteners ",
-          "price": "$24.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JkQdCZL6L.jpg",
-          "url": "https://www.amazon.com/dp/B0FBLHSHLF?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=50c1cf7e95b248fbb4cbba964585c50d&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -250,7 +253,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 56% off on \"Versace Bright Crystal by Versace for Women 1.7 oz Eau de To...\". There are 2 deals with verified discounts today."
+          "a": "The biggest discount today is 56% off on \"Versace Bright Crystal by Versace for Women 1.7 oz Eau de To...\". There are 3 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-29T22:50:01.256Z",
-      "updatedAt": "2026-07-29T22:50:01.256Z"
+      "generatedAt": "2026-07-29T23:00:02.161Z",
+      "updatedAt": "2026-07-29T23:00:02.161Z"
     },
     {
       "date": "2026-07-28",
@@ -13855,5 +13858,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-29T22:50:01.260Z"
+  "generatedAt": "2026-07-29T23:00:02.165Z"
 }
