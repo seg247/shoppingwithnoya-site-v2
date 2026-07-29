@@ -11,11 +11,32 @@
         "Grocery & Food",
         "Toys & Kids",
         "Home & Kitchen",
-        "Personal Care",
-        "Tools & Hardware"
+        "Personal Care"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B0FK3826VH",
+            "slug": "thermaltake-toughpower-gt-1000w-atx-31-native-pcie-51-12v-2x",
+            "title": "Thermaltake Toughpower GT 1000W; ATX 3.1; Native PCIe 5.1 12V-2x6; Full Modular; Flat Cables; Color Matched Connectors; ",
+            "price": "$99.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71uZg195moL.jpg",
+            "url": "https://www.amazon.com/dp/B0FK3826VH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0DYWGPD4L",
+            "slug": "miracle-gro-2-piece-pruning-shears-set-includes-8-in-bypass",
+            "title": "Miracle-Gro 2-Piece Pruning Shears Set – Includes 8 in. Bypass Pruner for Live Plants and 8 in. Anvil Pruner for Dry Ste",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DYWGPD4L/ref=cm_sw_r_as_gl_api_gl_i_CP92TXWKM3CMAW5S1GYE?linkCode=ml1&tag=noya0b-20&linkId=73b16ae7720cb445268fe26b634b28cd"
+          },
           {
             "asin": "B0DB5NQ2G1",
             "slug": "wonder-forge-farmers-market-day-1000-piece-jigsaw-puzzle-for",
@@ -61,17 +82,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/61nsle+LzQL.jpg",
             "url": "https://www.amazon.com/dp/B0828QKJCX/ref=cm_sw_r_as_gl_api_gl_i_dl_QR9FC1D6J93N1VC5WMKK?linkCode=ml1&tag=noya0b-20&linkId=b7ee98bedfebee35816fb1a202385cfa"
-          },
-          {
-            "asin": "B0CPXKBXWP",
-            "slug": "easter-decorations-outdoor-happy-easter-yard-signs-with-stak",
-            "title": "Easter Decorations Outdoor Happy Easter Yard Signs with Stakes Easter Rabbit Bunny Yard Signs Easter Eggs Lawn Signs Cor",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JUNv3yJML.jpg",
-            "url": "https://www.amazon.com/dp/B0CPXKBXWP/ref=cm_sw_r_as_gl_api_gl_i_dl_KXG5TA16C2JE6VBACQRV?linkCode=ml1&tag=noya0b-20&linkId=a9915d8d7b68920bd5e5f6b5c738f251"
           }
         ],
         "Grocery & Food": [
@@ -125,22 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71752MJka6L._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B07RS1FFPP/ref=cm_sw_r_as_gl_api_gl_i_2R8CWRGZF79DX1ADA34N?linkCode=ml1&tag=noya0b-20&linkId=d49148f51028da5c60043070451829cf"
           }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B0F9W3YJ9D",
-            "slug": "tinoaly-10pcs-battery-holder-tool-holder-for-dewalt-yellow-w",
-            "title": "Tinoaly 10pcs Battery Holder Tool Holder for Dewalt | Yellow Wall Mount Battery & Drill Tool Storage for Necessary Gadge",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/71KlyQ7bc8L.jpg",
-            "url": "https://www.amazon.com/dp/B0F9W3YJ9D/ref=cm_sw_r_as_gl_api_gl_i_T4546BKY23DFDW3SXA9W?linkCode=ml1&tag=noya0b-20&linkId=be43040ca35fc8f8f9a9d4fb1cbfa93a"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FK3826VH",
+          "slug": "thermaltake-toughpower-gt-1000w-atx-31-native-pcie-51-12v-2x",
+          "title": "Thermaltake Toughpower GT 1000W; ATX 3.1; Native PCIe 5.1 12V-2x6; Full Modular; Flat Cables; Color Matched Connectors; ",
+          "price": "$99.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71uZg195moL.jpg",
+          "url": "https://www.amazon.com/dp/B0FK3826VH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DYWGPD4L",
+          "slug": "miracle-gro-2-piece-pruning-shears-set-includes-8-in-bypass",
+          "title": "Miracle-Gro 2-Piece Pruning Shears Set – Includes 8 in. Bypass Pruner for Live Plants and 8 in. Anvil Pruner for Dry Ste",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DYWGPD4L/ref=cm_sw_r_as_gl_api_gl_i_CP92TXWKM3CMAW5S1GYE?linkCode=ml1&tag=noya0b-20&linkId=73b16ae7720cb445268fe26b634b28cd"
+        },
         {
           "asin": "B0DB5NQ2G1",
           "slug": "wonder-forge-farmers-market-day-1000-piece-jigsaw-puzzle-for",
@@ -228,34 +247,12 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71752MJka6L._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
           "url": "https://www.amazon.com/dp/B07RS1FFPP/ref=cm_sw_r_as_gl_api_gl_i_2R8CWRGZF79DX1ADA34N?linkCode=ml1&tag=noya0b-20&linkId=d49148f51028da5c60043070451829cf"
-        },
-        {
-          "asin": "B0CPXKBXWP",
-          "slug": "easter-decorations-outdoor-happy-easter-yard-signs-with-stak",
-          "title": "Easter Decorations Outdoor Happy Easter Yard Signs with Stakes Easter Rabbit Bunny Yard Signs Easter Eggs Lawn Signs Cor",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JUNv3yJML.jpg",
-          "url": "https://www.amazon.com/dp/B0CPXKBXWP/ref=cm_sw_r_as_gl_api_gl_i_dl_KXG5TA16C2JE6VBACQRV?linkCode=ml1&tag=noya0b-20&linkId=a9915d8d7b68920bd5e5f6b5c738f251"
-        },
-        {
-          "asin": "B0F9W3YJ9D",
-          "slug": "tinoaly-10pcs-battery-holder-tool-holder-for-dewalt-yellow-w",
-          "title": "Tinoaly 10pcs Battery Holder Tool Holder for Dewalt | Yellow Wall Mount Battery & Drill Tool Storage for Necessary Gadge",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/71KlyQ7bc8L.jpg",
-          "url": "https://www.amazon.com/dp/B0F9W3YJ9D/ref=cm_sw_r_as_gl_api_gl_i_T4546BKY23DFDW3SXA9W?linkCode=ml1&tag=noya0b-20&linkId=be43040ca35fc8f8f9a9d4fb1cbfa93a"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 29, 2026?",
-          "a": "The best deals today include \"Wonder Forge Farmer's Market Day 1000 Piece Jigsaw Puzzle fo...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Thermaltake Toughpower GT 1000W; ATX 3.1; Native PCIe 5.1 12...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-29T09:30:01.965Z",
-      "updatedAt": "2026-07-29T09:30:01.965Z"
+      "generatedAt": "2026-07-29T09:40:01.574Z",
+      "updatedAt": "2026-07-29T09:40:01.574Z"
     },
     {
       "date": "2026-07-28",
@@ -13864,5 +13861,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-29T09:30:01.970Z"
+  "generatedAt": "2026-07-29T09:40:01.581Z"
 }
