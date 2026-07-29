@@ -10,11 +10,32 @@
         "Other",
         "Beauty",
         "Electronics",
-        "Home & Kitchen",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B010R05ONA",
+            "slug": "rawlings-coolflo-base-coach-helmet-skull-cap-matte-black-med",
+            "title": "Rawlings | COOLFLO Base Coach Helmet | Skull Cap | Matte Black | Medium (7 1/8\" - 7 1/4\") : Sports & Outdoors",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B010R05ONA/ref=cm_sw_r_as_gl_apa_gl_i_V6W04784XX4DWXTJPQ30?linkCode=ml1&tag=noya0b-20&linkId=d7d65d4660680b42a13d5c2642b916ca"
+          },
+          {
+            "asin": "B09KKYXPZD",
+            "slug": "temporary-oos-but-can-still-order",
+            "title": "Temporary oos but can still order",
+            "price": "$48",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51r6rIBgiGL._AC_SL1344_.jpg",
+            "url": "https://www.amazon.com/dp/B09KKYXPZD/ref=cm_sw_r_as_gl_apa_gl_i_X339FYRF0XEYDZTZSPH1?linkCode=ml1&tag=noya0b-20&linkId=de9fa266ca0c6f5818fe9004d8229b99"
+          },
           {
             "asin": "B08DLBNDH8",
             "slug": "-5xx-paper-mate-profile-mech-mechanical-pencils",
@@ -84,17 +105,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81uouyzJrXL.jpg",
             "url": "https://www.amazon.com/dp/B0FJMG31LD/ref=cm_sw_r_as_gl_apa_gl_i_KPEJM6RXHKDH5V17EPDS?linkCode=ml1&tag=noya0b-20&linkId=9482f57ee44a2ede9dcae46a1d1266dc"
-          },
-          {
-            "asin": "B0DTJBHPL5",
-            "slug": "monster-jam-smash-bash-grave-digger-rc-truck-115-scale-vehic",
-            "title": "Monster Jam Smash & Bash Grave Digger RC Truck 1:15 Scale Vehicle | Includes 1 Repairable RC Truck, Crash and Rebuild wi",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/8111qpCiPXL.jpg",
-            "url": "https://www.amazon.com/dp/B0DTJBHPL5/ref=cm_sw_r_as_gl_apa_gl_i_PM6EGS9MC6T8XEG7XS46?linkCode=ml1&tag=noya0b-20&linkId=aa57081d2b84b976bdd59559d2b575b7"
           }
         ],
         "Electronics": [
@@ -122,22 +132,31 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GMYN28PG/ref=cm_sw_r_as_gl_apa_gl_i_AW0X5W1880JJ8AXTNXX8?linkCode=ml1&tag=noya0b-20&linkId=33e7704082d827198bfd00107c51e159"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0C286128V",
-            "slug": "unicoring-sterling-silver-heart-drop-dangle-earrings-for-wom",
-            "title": "UnicoRing Sterling Silver Heart Drop Dangle Earrings for Women Dangling with Leverback Cubic Zirconia Silver Earrings fo",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71GMG3l88BL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C286128V/ref=cm_sw_r_as_gl_apa_gl_i_RNAN7ZEDW72PYTQN3MQC?linkCode=ml1&tag=noya0b-20&linkId=963c9f2ff02f0355f40515516907f6ad"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B010R05ONA",
+          "slug": "rawlings-coolflo-base-coach-helmet-skull-cap-matte-black-med",
+          "title": "Rawlings | COOLFLO Base Coach Helmet | Skull Cap | Matte Black | Medium (7 1/8\" - 7 1/4\") : Sports & Outdoors",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B010R05ONA/ref=cm_sw_r_as_gl_apa_gl_i_V6W04784XX4DWXTJPQ30?linkCode=ml1&tag=noya0b-20&linkId=d7d65d4660680b42a13d5c2642b916ca"
+        },
+        {
+          "asin": "B09KKYXPZD",
+          "slug": "temporary-oos-but-can-still-order",
+          "title": "Temporary oos but can still order",
+          "price": "$48",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51r6rIBgiGL._AC_SL1344_.jpg",
+          "url": "https://www.amazon.com/dp/B09KKYXPZD/ref=cm_sw_r_as_gl_apa_gl_i_X339FYRF0XEYDZTZSPH1?linkCode=ml1&tag=noya0b-20&linkId=de9fa266ca0c6f5818fe9004d8229b99"
+        },
         {
           "asin": "B08DLBNDH8",
           "slug": "-5xx-paper-mate-profile-mech-mechanical-pencils",
@@ -225,34 +244,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81uouyzJrXL.jpg",
           "url": "https://www.amazon.com/dp/B0FJMG31LD/ref=cm_sw_r_as_gl_apa_gl_i_KPEJM6RXHKDH5V17EPDS?linkCode=ml1&tag=noya0b-20&linkId=9482f57ee44a2ede9dcae46a1d1266dc"
-        },
-        {
-          "asin": "B0DTJBHPL5",
-          "slug": "monster-jam-smash-bash-grave-digger-rc-truck-115-scale-vehic",
-          "title": "Monster Jam Smash & Bash Grave Digger RC Truck 1:15 Scale Vehicle | Includes 1 Repairable RC Truck, Crash and Rebuild wi",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/8111qpCiPXL.jpg",
-          "url": "https://www.amazon.com/dp/B0DTJBHPL5/ref=cm_sw_r_as_gl_apa_gl_i_PM6EGS9MC6T8XEG7XS46?linkCode=ml1&tag=noya0b-20&linkId=aa57081d2b84b976bdd59559d2b575b7"
-        },
-        {
-          "asin": "B0C286128V",
-          "slug": "unicoring-sterling-silver-heart-drop-dangle-earrings-for-wom",
-          "title": "UnicoRing Sterling Silver Heart Drop Dangle Earrings for Women Dangling with Leverback Cubic Zirconia Silver Earrings fo",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71GMG3l88BL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C286128V/ref=cm_sw_r_as_gl_apa_gl_i_RNAN7ZEDW72PYTQN3MQC?linkCode=ml1&tag=noya0b-20&linkId=963c9f2ff02f0355f40515516907f6ad"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 29, 2026?",
-          "a": "The best deals today include \"\udf08 $5.xx Paper Mate Profile Mech Mechanical Pencils...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Rawlings | COOLFLO Base Coach Helmet | Skull Cap | Matte Bla...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-29T05:40:01.932Z",
-      "updatedAt": "2026-07-29T05:40:01.933Z"
+      "generatedAt": "2026-07-29T05:50:00.500Z",
+      "updatedAt": "2026-07-29T05:50:00.500Z"
     },
     {
       "date": "2026-07-28",
@@ -13861,5 +13858,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-29T05:40:01.938Z"
+  "generatedAt": "2026-07-29T05:50:00.506Z"
 }
