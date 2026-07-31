@@ -9,10 +9,9 @@
         "Grocery & Food",
         "Other",
         "Beauty",
-        "Pet Supplies",
-        "Fashion",
         "Home & Kitchen",
-        "Health"
+        "Garden & Outdoor",
+        "Electronics"
       ],
       "byCategory": {
         "Beauty": [
@@ -28,7 +27,68 @@
             "url": "https://www.amazon.com/dp/B000RI5TCE?th=1&linkCode=sl2&tag=noya0b-20&linkId=972ca5ddd2ad4eae89178c86cb720e79&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0GZPJ4SBL",
+            "slug": "orzbow-baby-bouncer-seat-portable-infant-chair-0-18-months-u",
+            "title": "Orzbow Baby Bouncer Seat, Portable Infant Chair, 0-18 Months, Up to 20 Ibs | Foldable & Lightweight, Ergonomic 3-Positio",
+            "price": "$39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61nD0bIQbWL.jpg",
+            "url": "https://www.amazon.com/dp/B0GZPJ4SBL/ref=cm_sw_r_as_gl_apa_gl_i_J379HJY3Z35VS231QZVH?linkCode=ml1&tag=noya0b-20&linkId=d380532294d2e07ffefaa4f227dd49f2&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0G81NCH63",
+            "slug": "typhur-nugget-ice-maker-countertop-35lbs24h-self-cleaning-pu",
+            "title": "✨Typhur Nugget Ice Maker Countertop, 35lbs/24H, Self-Cleaning Pump, Silver | 8-Pack Cleaner, Dual Ice Scoops, Crushed Pe",
+            "price": "$199.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61H4cBu8aeL.jpg",
+            "url": "https://www.amazon.com/dp/B0G81NCH63?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3d97913b4d75cff13e86ae112f57c73d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B084DW56BH",
+            "slug": "oxo-tot-bathtub-spout-cover",
+            "title": "✨OXO Tot Bathtub Spout Cover",
+            "price": "$11.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B084DW56BH?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f624ff18cd7d224d8e3d5c21e86be42a&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0DFWG8WX7",
+            "slug": "ptlsy-43inch-tall-chiminea-outdoor-fireplace-wood-burning-fo",
+            "title": "ptlsy 43inch Tall Chiminea Outdoor Fireplace Wood Burning for Backyard and Patio Wood Burning Rocket Fire Pit : Patio, L",
+            "price": "$98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DFWG8WX7/ref=cm_sw_r_as_gl_apa_gl_i_53VV2R01AW0KQZ43EGPB?linkCode=ml1&tag=noya0b-20&linkId=ed06c3c65fc8a702cb3a40b3711e1492&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
+          {
+            "asin": "B0GN4WDGQV",
+            "slug": "micro-ingredients-organic-beet-root-juice-powder-8-oz-water",
+            "title": "✨Micro Ingredients Organic Beet Root Juice Powder, 8 oz | Water Soluble, Raw Beet Supplement | Powder Drink Mix for Smoo",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61QJ1glVadL.jpg",
+            "url": "https://www.amazon.com/dp/B0GN4WDGQV?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9b240fc7d7706c92488c1b6f26602b51&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0G49MJMWW",
             "slug": "steam-mop-detachable-handheld-steamer-2-in-1-design-20s-fast",
@@ -63,80 +123,17 @@
             "url": "https://www.amazon.com/dp/B06X6J5266?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c9e1ef1c3fc68b26ecbd292d26a92a16&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Other": [
+        "Electronics": [
           {
-            "asin": "B084DW56BH",
-            "slug": "oxo-tot-bathtub-spout-cover",
-            "title": "✨OXO Tot Bathtub Spout Cover",
-            "price": "$11.95",
+            "asin": "B0FP11PC4F",
+            "slug": "asus-rog-pg32ucdmr-32-inch-4k-240hz-oled-gaming-monitor-qd-o",
+            "title": "✨ASUS ROG PG32UCDMR 32 Inch 4K 240Hz OLED Gaming Monitor QD-OLED | OLED Care Pro, 0.03ms, G-SYNC Compatible, USB-C 90W, ",
+            "price": "$1179.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
+            "category": "Electronics",
             "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B084DW56BH?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f624ff18cd7d224d8e3d5c21e86be42a&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B01N7IKGHB",
-            "slug": "international-harvest-organic-mango-slices-12-ounce",
-            "title": "✨International Harvest, Organic Mango Slices, 12 Ounce",
-            "price": "$13.66",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ntYQZyItL.jpg",
-            "url": "https://www.amazon.com/dp/B01N7IKGHB?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7b3a934f035c5514dedcef612aa1a1d0&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B0DGLBGGLW",
-            "slug": "bedsure-comfyfleece-donut-cat-bed-for-indoor-cats-with-washa",
-            "title": "✨Bedsure ComfyFleece™ Donut Cat Bed for Indoor Cats with Washable Cover | 20x20x6in, Calming Round Kitten Beds,Support P",
-            "price": "$15.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DGLBGGLW?lv=shuf&aa_adgroupid=lv_d7hFu5Lm95q7cp3lBT&th=1&maas=maas_adg_api_585612740923053902_static_9_129&aa_campaignid=lv_i9TGzPnsuFzyDXBnx5&m=A23G3BO9GSH7EX&aa_creativeid=lv_xUP18F3YTAaceKEG5X&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c2ae2d8791a55ca78dc6e6f115991a24&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0G46HTXLY",
-            "slug": "disney-princess-frozen-elsa-minnie-stitch-toddler-girl-tulle",
-            "title": "✨Disney Princess Frozen Elsa Minnie Stitch Toddler Girl Tulle Tutu Dress Ruffle Sleeve Mesh Summer Birthday Party Clothe",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71BH0pqvCVL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G46HTXLY?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=f0d3dcd811098024dcaf670ffd8cbb3b&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DTHC7Z4P",
-            "slug": "knzzo-air-mattress-full-with-built-in-pump-waterproof-18-in",
-            "title": "✨KNZZO Air Mattress Full with Built in Pump, Waterproof 18 in Air Bed, 660lb | ISPA Member Brand,Blow Up Mattress, Water",
-            "price": "$69.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MX5Dl1Q6L.jpg",
-            "url": "https://www.amazon.com/dp/B0DTHC7Z4P?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b90edc374740f368aa9da8639c33bb34&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B00CK02OU2",
-            "slug": "filterbuy-10x20x1-air-filter-merv-11-superior-pet-allergy-de",
-            "title": "✨Filterbuy 10x20x1 Air Filter MERV 11 Superior Pet & Allergy Defense (6-Pack), Electrostatic Pleated HVAC AC Furnace Fil",
-            "price": "$59.94",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00CK02OU2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c71bbdd2eed1911a7c57738c54396621&language=en_US&gaOptInStatus=true"
+            "url": "https://www.amazon.com/dp/B0FP11PC4F?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=47f0b3a4c546dea9937dce0e7d0070b1&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -151,6 +148,61 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61HsIU295AL.jpg",
           "url": "https://www.amazon.com/dp/B000RI5TCE?th=1&linkCode=sl2&tag=noya0b-20&linkId=972ca5ddd2ad4eae89178c86cb720e79&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GZPJ4SBL",
+          "slug": "orzbow-baby-bouncer-seat-portable-infant-chair-0-18-months-u",
+          "title": "Orzbow Baby Bouncer Seat, Portable Infant Chair, 0-18 Months, Up to 20 Ibs | Foldable & Lightweight, Ergonomic 3-Positio",
+          "price": "$39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61nD0bIQbWL.jpg",
+          "url": "https://www.amazon.com/dp/B0GZPJ4SBL/ref=cm_sw_r_as_gl_apa_gl_i_J379HJY3Z35VS231QZVH?linkCode=ml1&tag=noya0b-20&linkId=d380532294d2e07ffefaa4f227dd49f2&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0G81NCH63",
+          "slug": "typhur-nugget-ice-maker-countertop-35lbs24h-self-cleaning-pu",
+          "title": "✨Typhur Nugget Ice Maker Countertop, 35lbs/24H, Self-Cleaning Pump, Silver | 8-Pack Cleaner, Dual Ice Scoops, Crushed Pe",
+          "price": "$199.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61H4cBu8aeL.jpg",
+          "url": "https://www.amazon.com/dp/B0G81NCH63?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3d97913b4d75cff13e86ae112f57c73d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DFWG8WX7",
+          "slug": "ptlsy-43inch-tall-chiminea-outdoor-fireplace-wood-burning-fo",
+          "title": "ptlsy 43inch Tall Chiminea Outdoor Fireplace Wood Burning for Backyard and Patio Wood Burning Rocket Fire Pit : Patio, L",
+          "price": "$98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DFWG8WX7/ref=cm_sw_r_as_gl_apa_gl_i_53VV2R01AW0KQZ43EGPB?linkCode=ml1&tag=noya0b-20&linkId=ed06c3c65fc8a702cb3a40b3711e1492&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GN4WDGQV",
+          "slug": "micro-ingredients-organic-beet-root-juice-powder-8-oz-water",
+          "title": "✨Micro Ingredients Organic Beet Root Juice Powder, 8 oz | Water Soluble, Raw Beet Supplement | Powder Drink Mix for Smoo",
+          "price": "$19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61QJ1glVadL.jpg",
+          "url": "https://www.amazon.com/dp/B0GN4WDGQV?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=9b240fc7d7706c92488c1b6f26602b51&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FP11PC4F",
+          "slug": "asus-rog-pg32ucdmr-32-inch-4k-240hz-oled-gaming-monitor-qd-o",
+          "title": "✨ASUS ROG PG32UCDMR 32 Inch 4K 240Hz OLED Gaming Monitor QD-OLED | OLED Care Pro, 0.03ms, G-SYNC Compatible, USB-C 90W, ",
+          "price": "$1179.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FP11PC4F?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=47f0b3a4c546dea9937dce0e7d0070b1&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0G49MJMWW",
@@ -195,61 +247,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/61VfvfV69lL.jpg",
           "url": "https://www.amazon.com/dp/B06X6J5266?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c9e1ef1c3fc68b26ecbd292d26a92a16&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01N7IKGHB",
-          "slug": "international-harvest-organic-mango-slices-12-ounce",
-          "title": "✨International Harvest, Organic Mango Slices, 12 Ounce",
-          "price": "$13.66",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ntYQZyItL.jpg",
-          "url": "https://www.amazon.com/dp/B01N7IKGHB?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7b3a934f035c5514dedcef612aa1a1d0&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DGLBGGLW",
-          "slug": "bedsure-comfyfleece-donut-cat-bed-for-indoor-cats-with-washa",
-          "title": "✨Bedsure ComfyFleece™ Donut Cat Bed for Indoor Cats with Washable Cover | 20x20x6in, Calming Round Kitten Beds,Support P",
-          "price": "$15.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DGLBGGLW?lv=shuf&aa_adgroupid=lv_d7hFu5Lm95q7cp3lBT&th=1&maas=maas_adg_api_585612740923053902_static_9_129&aa_campaignid=lv_i9TGzPnsuFzyDXBnx5&m=A23G3BO9GSH7EX&aa_creativeid=lv_xUP18F3YTAaceKEG5X&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c2ae2d8791a55ca78dc6e6f115991a24&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G46HTXLY",
-          "slug": "disney-princess-frozen-elsa-minnie-stitch-toddler-girl-tulle",
-          "title": "✨Disney Princess Frozen Elsa Minnie Stitch Toddler Girl Tulle Tutu Dress Ruffle Sleeve Mesh Summer Birthday Party Clothe",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71BH0pqvCVL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G46HTXLY?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=f0d3dcd811098024dcaf670ffd8cbb3b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DTHC7Z4P",
-          "slug": "knzzo-air-mattress-full-with-built-in-pump-waterproof-18-in",
-          "title": "✨KNZZO Air Mattress Full with Built in Pump, Waterproof 18 in Air Bed, 660lb | ISPA Member Brand,Blow Up Mattress, Water",
-          "price": "$69.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71MX5Dl1Q6L.jpg",
-          "url": "https://www.amazon.com/dp/B0DTHC7Z4P?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b90edc374740f368aa9da8639c33bb34&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00CK02OU2",
-          "slug": "filterbuy-10x20x1-air-filter-merv-11-superior-pet-allergy-de",
-          "title": "✨Filterbuy 10x20x1 Air Filter MERV 11 Superior Pet & Allergy Defense (6-Pack), Electrostatic Pleated HVAC AC Furnace Fil",
-          "price": "$59.94",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00CK02OU2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c71bbdd2eed1911a7c57738c54396621&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-07-31T07:10:00.685Z",
-      "updatedAt": "2026-07-31T07:10:00.685Z"
+      "generatedAt": "2026-07-31T07:20:00.961Z",
+      "updatedAt": "2026-07-31T07:20:00.962Z"
     },
     {
       "date": "2026-07-30",
@@ -14409,5 +14406,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-07-31T07:10:00.690Z"
+  "generatedAt": "2026-07-31T07:20:00.975Z"
 }
