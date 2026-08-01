@@ -9,11 +9,98 @@
         "Other",
         "Home & Kitchen",
         "Grocery & Food",
+        "Toys & Kids",
         "Beauty",
-        "Automotive",
-        "Personal Care"
+        "Sports & Fitness"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0GXDRHWG3",
+            "slug": "2-pack-bread-squishy-slow-rise-toys-stress-relief-sensory-fi",
+            "title": "2 Pack Bread Squishy Slow Rise Toys, Stress Relief Sensory Fidget Toys for Kids & Adults, Gifts for Office or Party Favo",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0GXDRHWG3/ref=cm_sw_r_as_gl_api_gl_i_RR6EA05APPMZTRDGV9KC?linkCode=ml1&tag=noya0b-20&linkId=36a28149391b78bbd7b86bb365de3a34&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0H5HXQH6Z",
+            "slug": "luxury-14-inch-hybrid-king-size-mattress-in-a-box-medium-fir",
+            "title": "✨Luxury 14 inch Hybrid King Size Mattress in a Box, Medium Firm Pro Support | Cooling Gel Memory Foam | Motion Isolation",
+            "price": "$329.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/819O50uQnVL.jpg",
+            "url": "https://www.amazon.com/dp/B0H5HXQH6Z?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c5e3ebc444e43ebf650d50426332d840&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B09H2T86XR",
+            "slug": "50-pcs-push-pins-picture-hangers-wall-hooks-double-headed-th",
+            "title": "✨50 PCS Push Pins Picture Hangers Wall Hooks, Double Headed Thumb Tacks for Wall Hangings, Renter Friendly Decor Small P",
+            "price": "$6.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61qG1z9MAUL.jpg",
+            "url": "https://www.amazon.com/dp/B09H2T86XR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=66c3478c41b48b08cc5bd94322464b28&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0BZWM1LSJ",
+            "slug": "david-reduced-sodium-sunflower-seeds-original-flavor-16-oz-g",
+            "title": "DAVID Reduced Sodium Sunflower Seeds, Original Flavor, 16 oz. : Grocery & Gourmet Food",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81NuHLu10mL.jpg",
+            "url": "https://www.amazon.com/dp/B0BZWM1LSJ/ref=cm_sw_r_as_gl_api_gl_i_SQWAA9EMPEJTCFMNXPV5?linkCode=ml1&tag=noya0b-20&linkId=e67be6fa7ed5eed2a5a50810a8725117&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BJSCFS3J",
+            "slug": "motts-assorted-fruit-flavored-snacks-made-with-real-fruit-pu",
+            "title": "Mott's Assorted Fruit Flavored Snacks, Made with Real Fruit Puree (40 Pack)",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81kIBYBnRnL.jpg",
+            "url": "https://www.amazon.com/dp/B0BJSCFS3J/ref=cm_sw_r_as_gl_api_gl_i_BZTYPT2JYCXWD3Q7F0Y3?linkCode=ml1&tag=noya0b-20&linkId=66dac29fddc16494624852668188919c&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0BNW452TH",
+            "slug": "botanic-hearth-curly-hair-shampoo-and-conditioner-set-for-cu",
+            "title": "✨Botanic Hearth Curly Hair Shampoo And Conditioner Set For Curly Hair | Detangle, Define & Enhance Curls | With Jojoba O",
+            "price": "$25.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71cKcwsQDPL.jpg",
+            "url": "https://www.amazon.com/dp/B0BNW452TH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a5f824ec02c24473b10fc29a2f3d7a82&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B09NR7CLSL",
+            "slug": "golf-shirts-for-men-dry-fit-short-sleeve-print-performance-m",
+            "title": "✨Golf Shirts for Men Dry Fit Short Sleeve Print Performance Moisture Wicking Polo Shirt",
+            "price": "$19.94",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/81EFItvX9+L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09NR7CLSL?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=40e98b635a6856de48cf771042e8ce19&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B084DW56BH",
@@ -47,97 +134,65 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81NN4E0dOnL.jpg",
             "url": "https://www.amazon.com/dp/B0D9YNC6DT?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f0de561922ff510df2dbf430d3939d5b&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09MJ29G8W",
-            "slug": "lionvison-3xl-square-nail-tips-504-pcs-no-c-curve-clear-nail",
-            "title": "✨LIONVISON 3XL Square Nail Tips: 504 PCS No C Curve Clear Nails Tips | XXXL Extra Long - 12 Sizes Half Cover Straight Ta",
-            "price": "$8.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UAZTjBEmL.jpg",
-            "url": "https://www.amazon.com/dp/B09MJ29G8W?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=aa53965f84d32ec63b3d0f96740f3925&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0BJSCFS3J",
-            "slug": "motts-assorted-fruit-flavored-snacks-made-with-real-fruit-pu",
-            "title": "Mott's Assorted Fruit Flavored Snacks, Made with Real Fruit Puree (40 Pack)",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81kIBYBnRnL.jpg",
-            "url": "https://www.amazon.com/dp/B0BJSCFS3J/ref=cm_sw_r_as_gl_api_gl_i_BZTYPT2JYCXWD3Q7F0Y3?linkCode=ml1&tag=noya0b-20&linkId=66dac29fddc16494624852668188919c&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B09H2T86XR",
-            "slug": "50-pcs-push-pins-picture-hangers-wall-hooks-double-headed-th",
-            "title": "✨50 PCS Push Pins Picture Hangers Wall Hooks, Double Headed Thumb Tacks for Wall Hangings, Renter Friendly Decor Small P",
-            "price": "$6.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61qG1z9MAUL.jpg",
-            "url": "https://www.amazon.com/dp/B09H2T86XR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=66c3478c41b48b08cc5bd94322464b28&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BXSRTDHT",
-            "slug": "40-pcs-food-storage-containers-with-lids-airtight-20-contain",
-            "title": "✨40 PCS Food Storage Containers with Lids Airtight (20 Containers & 20 Lids), Leak proof Meal Prep Container Set for Kit",
-            "price": "$21.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81-iM28m-sL.jpg",
-            "url": "https://www.amazon.com/dp/B0BXSRTDHT?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6af125b45c69a1b35b8cc1f70ff3ecec&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DHSRJJ6H",
-            "slug": "rogaine-mens-thickening-2-in-1-shampoo-conditioner-hair-thic",
-            "title": "Rogaine Men's Thickening 2 in 1 Shampoo + Conditioner, Hair Thickening Shampoo & Conditioner with Rosemary Oil, Keratin ",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DHSRJJ6H/ref=cm_sw_r_as_gl_api_gl_i_D5T94JQTSNZ6SJ8R7CR2?linkCode=ml1&tag=noya0b-20&linkId=9145cfc8f9a48a655cb1ef9f91f03922&gaOptInStatus=true"
-          }
-        ],
-        "Automotive": [
-          {
-            "asin": "B0FXCLTTCN",
-            "slug": "meguiars-quik-solutions-all-weather-floor-mat-kitall-weather",
-            "title": "Meguiar’s Quik Solutions All-Weather Floor Mat Kit,All Weather Floor Mat Cleaner and Car Mat Protectant that Deep Cleans",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Automotive",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FXCLTTCN/ref=cm_sw_r_as_gl_api_gl_i_YQQQDMPBXMBNQSTT3RGC?linkCode=ml1&tag=noya0b-20&linkId=7cf3d318dedd70fa585e305a125123bf&gaOptInStatus=true"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0CSYSPP5X",
-            "slug": "qimedo-electric-spin-scrubber-q2-4000mah-battery-1500rpm-hig",
-            "title": "✨Qimedo Electric Spin Scrubber Q2, 4000mAh Battery, 1500RPM High Power | Floor Scrubber Machine with Long Handle, Cordle",
-            "price": "$76.45",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71saoDjFCBL.jpg",
-            "url": "https://www.amazon.com/dp/B0CSYSPP5X?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f9c67157a422b2148949fcac109168e3&language=en_US&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GXDRHWG3",
+          "slug": "2-pack-bread-squishy-slow-rise-toys-stress-relief-sensory-fi",
+          "title": "2 Pack Bread Squishy Slow Rise Toys, Stress Relief Sensory Fidget Toys for Kids & Adults, Gifts for Office or Party Favo",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0GXDRHWG3/ref=cm_sw_r_as_gl_api_gl_i_RR6EA05APPMZTRDGV9KC?linkCode=ml1&tag=noya0b-20&linkId=36a28149391b78bbd7b86bb365de3a34&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H5HXQH6Z",
+          "slug": "luxury-14-inch-hybrid-king-size-mattress-in-a-box-medium-fir",
+          "title": "✨Luxury 14 inch Hybrid King Size Mattress in a Box, Medium Firm Pro Support | Cooling Gel Memory Foam | Motion Isolation",
+          "price": "$329.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/819O50uQnVL.jpg",
+          "url": "https://www.amazon.com/dp/B0H5HXQH6Z?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c5e3ebc444e43ebf650d50426332d840&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BZWM1LSJ",
+          "slug": "david-reduced-sodium-sunflower-seeds-original-flavor-16-oz-g",
+          "title": "DAVID Reduced Sodium Sunflower Seeds, Original Flavor, 16 oz. : Grocery & Gourmet Food",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81NuHLu10mL.jpg",
+          "url": "https://www.amazon.com/dp/B0BZWM1LSJ/ref=cm_sw_r_as_gl_api_gl_i_SQWAA9EMPEJTCFMNXPV5?linkCode=ml1&tag=noya0b-20&linkId=e67be6fa7ed5eed2a5a50810a8725117&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BNW452TH",
+          "slug": "botanic-hearth-curly-hair-shampoo-and-conditioner-set-for-cu",
+          "title": "✨Botanic Hearth Curly Hair Shampoo And Conditioner Set For Curly Hair | Detangle, Define & Enhance Curls | With Jojoba O",
+          "price": "$25.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cKcwsQDPL.jpg",
+          "url": "https://www.amazon.com/dp/B0BNW452TH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a5f824ec02c24473b10fc29a2f3d7a82&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09NR7CLSL",
+          "slug": "golf-shirts-for-men-dry-fit-short-sleeve-print-performance-m",
+          "title": "✨Golf Shirts for Men Dry Fit Short Sleeve Print Performance Moisture Wicking Polo Shirt",
+          "price": "$19.94",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/81EFItvX9+L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09NR7CLSL?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=40e98b635a6856de48cf771042e8ce19&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B084DW56BH",
           "slug": "oxo-tot-bathtub-spout-cover",
@@ -192,67 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61qG1z9MAUL.jpg",
           "url": "https://www.amazon.com/dp/B09H2T86XR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=66c3478c41b48b08cc5bd94322464b28&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DHSRJJ6H",
-          "slug": "rogaine-mens-thickening-2-in-1-shampoo-conditioner-hair-thic",
-          "title": "Rogaine Men's Thickening 2 in 1 Shampoo + Conditioner, Hair Thickening Shampoo & Conditioner with Rosemary Oil, Keratin ",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DHSRJJ6H/ref=cm_sw_r_as_gl_api_gl_i_D5T94JQTSNZ6SJ8R7CR2?linkCode=ml1&tag=noya0b-20&linkId=9145cfc8f9a48a655cb1ef9f91f03922&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09MJ29G8W",
-          "slug": "lionvison-3xl-square-nail-tips-504-pcs-no-c-curve-clear-nail",
-          "title": "✨LIONVISON 3XL Square Nail Tips: 504 PCS No C Curve Clear Nails Tips | XXXL Extra Long - 12 Sizes Half Cover Straight Ta",
-          "price": "$8.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71UAZTjBEmL.jpg",
-          "url": "https://www.amazon.com/dp/B09MJ29G8W?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=aa53965f84d32ec63b3d0f96740f3925&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FXCLTTCN",
-          "slug": "meguiars-quik-solutions-all-weather-floor-mat-kitall-weather",
-          "title": "Meguiar’s Quik Solutions All-Weather Floor Mat Kit,All Weather Floor Mat Cleaner and Car Mat Protectant that Deep Cleans",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Automotive",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FXCLTTCN/ref=cm_sw_r_as_gl_api_gl_i_YQQQDMPBXMBNQSTT3RGC?linkCode=ml1&tag=noya0b-20&linkId=7cf3d318dedd70fa585e305a125123bf&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BXSRTDHT",
-          "slug": "40-pcs-food-storage-containers-with-lids-airtight-20-contain",
-          "title": "✨40 PCS Food Storage Containers with Lids Airtight (20 Containers & 20 Lids), Leak proof Meal Prep Container Set for Kit",
-          "price": "$21.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81-iM28m-sL.jpg",
-          "url": "https://www.amazon.com/dp/B0BXSRTDHT?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6af125b45c69a1b35b8cc1f70ff3ecec&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CSYSPP5X",
-          "slug": "qimedo-electric-spin-scrubber-q2-4000mah-battery-1500rpm-hig",
-          "title": "✨Qimedo Electric Spin Scrubber Q2, 4000mAh Battery, 1500RPM High Power | Floor Scrubber Machine with Long Handle, Cordle",
-          "price": "$76.45",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71saoDjFCBL.jpg",
-          "url": "https://www.amazon.com/dp/B0CSYSPP5X?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f9c67157a422b2148949fcac109168e3&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 1, 2026?",
-          "a": "The best deals today include \"✨OXO Tot Bathtub Spout Cover...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"2 Pack Bread Squishy Slow Rise Toys, Stress Relief Sensory F...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-01T11:40:01.967Z",
-      "updatedAt": "2026-08-01T11:40:01.967Z"
+      "generatedAt": "2026-08-01T11:50:01.387Z",
+      "updatedAt": "2026-08-01T11:50:01.388Z"
     },
     {
       "date": "2026-07-31",
@@ -14683,5 +14683,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-01T11:40:01.980Z"
+  "generatedAt": "2026-08-01T11:50:01.401Z"
 }
