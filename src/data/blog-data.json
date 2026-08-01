@@ -4,15 +4,101 @@
       "date": "2026-08-01",
       "slug": "2026-08-01",
       "title": "🔥 Best Deals Today — August 1, 2026",
-      "intro": "Today's best online deals for Saturday, August 1, 2026 — 10 hand-picked discounts across Electronics, Cleaning Supplies, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, August 1, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Electronics",
-        "Cleaning Supplies",
-        "Other",
         "Home & Kitchen",
-        "Beauty"
+        "Beauty",
+        "Cleaning Supplies",
+        "Automotive",
+        "Electronics",
+        "Other"
       ],
       "byCategory": {
+        "Automotive": [
+          {
+            "asin": "B093RT3B1W",
+            "slug": "castrol-gtx-classic-20w-50-conventional-motor-oil-1-quart-pa",
+            "title": "✨Castrol GTX Classic 20W-50 Conventional Motor Oil, 1 Quart, Pack of 6",
+            "price": "$50.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Automotive",
+            "imageUrl": "https://m.media-amazon.com/images/I/61CUc-w3baL.jpg",
+            "url": "https://www.amazon.com/dp/B093RT3B1W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7ba9383000e1f9d7bfee66d976553953&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B08WX99RLP",
+            "slug": "multi-collagen-protein-powder-type-i-ii-iii-iv-v-x-unflavore",
+            "title": "✨Multi Collagen Protein Powder Type I II III IV V X - Unflavored & Hydrolyzed 16Oz Pure Collagen Peptides Powder - Grass",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81inW81ZC1L.jpg",
+            "url": "https://www.amazon.com/dp/B08WX99RLP?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=66fc0fad617e42ce66a9cf79077ebe47&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B003IS3HV0",
+            "slug": "leather-honey-leather-conditioner-non-toxic-made-in-the-usa",
+            "title": "✨Leather Honey Leather Conditioner – Non-Toxic & Made in the USA Since 1968",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B003IS3HV0?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9937c36f9777ef2aadba49d5f3610950&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B081DFLV9K",
+            "slug": "freshware-food-storage-containers-50-set-16-oz-plastic-deli",
+            "title": "✨Freshware Food Storage Containers [50 Set] 16 oz Plastic Deli Containers with Lids, Slime, Soup, Meal Prep Containers |",
+            "price": "$14.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71XnaWxqwqL.jpg",
+            "url": "https://www.amazon.com/dp/B081DFLV9K?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b98e643498d317f6f80262a455993970&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B08CZDYNF7",
+            "slug": "ultrean-food-scale-digital-kitchen-scale-with-lcd-display-we",
+            "title": "✨Ultrean Food Scale, Digital Kitchen Scale with LCD Display, Weight Grams and Ounces for Baking Cooking and Meal Prep, 6",
+            "price": "$6.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TV+iWbGlL.jpg",
+            "url": "https://www.amazon.com/dp/B08CZDYNF7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=20cee4c02491b716f1a498d10d0e54d8&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FW4XDPNY",
+            "slug": "veken-coffee-canister-with-window-airtight-stainless-steel-c",
+            "title": "✨Veken Coffee Canister with Window, Airtight Stainless Steel Container, 22OZ | Date Tracker,Kitchen Food Storage Organiz",
+            "price": "$25.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61KvCmZ2OfL.jpg",
+            "url": "https://www.amazon.com/dp/B0FW4XDPNY?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=57cbfb6f9c3a27a7023850d781f74857&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0B5M97W1T",
+            "slug": "asus-prime-b550m-a-wifi-ii-amd-micro-atx-motherboard-with-pc",
+            "title": "✨ASUS Prime B550M-A WiFi II AMD Micro ATX Motherboard with PCIe 4.0, WiFi 6, ECC Memory, HDMI 2.1, RGB Header",
+            "price": "$89.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0B5M97W1T?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3f632c03ea86040fc62bd2c0d446fe86&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B07G1JRPV9",
@@ -49,92 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81PoOYZHR3L.jpg",
             "url": "https://www.amazon.com/dp/B0BS4LQQNT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=192c7c0b43cf78b75f8d7205752dc11a&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FW4XDPNY",
-            "slug": "veken-coffee-canister-with-window-airtight-stainless-steel-c",
-            "title": "✨Veken Coffee Canister with Window, Airtight Stainless Steel Container, 22OZ | Date Tracker,Kitchen Food Storage Organiz",
-            "price": "$25.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61KvCmZ2OfL.jpg",
-            "url": "https://www.amazon.com/dp/B0FW4XDPNY?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=57cbfb6f9c3a27a7023850d781f74857&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B003IS3HV0",
-            "slug": "leather-honey-leather-conditioner-non-toxic-made-in-the-usa",
-            "title": "✨Leather Honey Leather Conditioner – Non-Toxic & Made in the USA Since 1968",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B003IS3HV0?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9937c36f9777ef2aadba49d5f3610950&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DW8MW6J6",
-            "slug": "lamicall-shower-phone-holder-with-speaker-holes-ipx6-waterpo",
-            "title": "✨Lamicall Shower Phone Holder with Speaker Holes, IPX6 Waterpoof Case Stand | Bigger Size, Clear Sound, 480° Rotation, B",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71tNJJwQBeL.jpg",
-            "url": "https://www.amazon.com/dp/B0DW8MW6J6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=74726ff6e8eae1df3b66e9d4bdd186bc&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07FDXDB3W",
-            "slug": "blavor-solar-power-bank-10000mah-portable-wireless-charger-2",
-            "title": "✨BLAVOR Solar Power Bank 10,000mAh, Portable Wireless Charger, 20W Fast Charging External Battery Pack with USB C for Ce",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81+a8VjhdyL.jpg",
-            "url": "https://www.amazon.com/dp/B07FDXDB3W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c7a49a7ad1a8bc6267cd9db3658199b5&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FPDYL4W8",
-            "slug": "amazon-basics-25w-qi22-certified-wireless-charging-pad-magsa",
-            "title": "Amazon Basics 25W Qi2.2 Certified Wireless Charging Pad, MagSafe Compatible for iPhone 17/16/15/14/13/12, Magnetic Compa",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SwLCvaOxL.jpg",
-            "url": "https://www.amazon.com/dp/B0FPDYL4W8/ref=cm_sw_r_as_gl_api_gl_i_HWY3V8T6JQVX952BSTQV?linkCode=ml1&tag=noya0b-20&linkId=3097973f9176229fadca5696df9bca3d&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BB8ZXJCK",
-            "slug": "aioneus-usb-c-charger-block-40w-fast-charging-block-type-c-c",
-            "title": "✨Aioneus USB C Charger Block, 40W Fast Charging Block Type C Charging Block 4-Port Dual Port PD+QC Wall Charger Head Cub",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WAJ48caGL.jpg",
-            "url": "https://www.amazon.com/dp/B0BB8ZXJCK?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=42d5bd301a826ca375fadcd0efedaf6c&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FNBLG4SB",
-            "slug": "razer-kiyo-v2-webcam-for-streaming-and-collaboration-4k-30fp",
-            "title": "✨Razer Kiyo V2 Webcam for Streaming and Collaboration 4K 30Fps, Black | AI Powered Auto-Framing, Built-in Microphone, Ul",
-            "price": "$112.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FNBLG4SB?lv=shuf&ascsubtag=srctok-475f7094667d9b7b&btn_type=pt&th=1&btn_ref=srctok-475f7094667d9b7b&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cbebc03db3a6248aaeda04b453a02b6c&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B093RT3B1W",
+          "slug": "castrol-gtx-classic-20w-50-conventional-motor-oil-1-quart-pa",
+          "title": "✨Castrol GTX Classic 20W-50 Conventional Motor Oil, 1 Quart, Pack of 6",
+          "price": "$50.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Automotive",
+          "imageUrl": "https://m.media-amazon.com/images/I/61CUc-w3baL.jpg",
+          "url": "https://www.amazon.com/dp/B093RT3B1W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7ba9383000e1f9d7bfee66d976553953&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08WX99RLP",
+          "slug": "multi-collagen-protein-powder-type-i-ii-iii-iv-v-x-unflavore",
+          "title": "✨Multi Collagen Protein Powder Type I II III IV V X - Unflavored & Hydrolyzed 16Oz Pure Collagen Peptides Powder - Grass",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81inW81ZC1L.jpg",
+          "url": "https://www.amazon.com/dp/B08WX99RLP?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=66fc0fad617e42ce66a9cf79077ebe47&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B081DFLV9K",
+          "slug": "freshware-food-storage-containers-50-set-16-oz-plastic-deli",
+          "title": "✨Freshware Food Storage Containers [50 Set] 16 oz Plastic Deli Containers with Lids, Slime, Soup, Meal Prep Containers |",
+          "price": "$14.39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71XnaWxqwqL.jpg",
+          "url": "https://www.amazon.com/dp/B081DFLV9K?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b98e643498d317f6f80262a455993970&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0B5M97W1T",
+          "slug": "asus-prime-b550m-a-wifi-ii-amd-micro-atx-motherboard-with-pc",
+          "title": "✨ASUS Prime B550M-A WiFi II AMD Micro ATX Motherboard with PCIe 4.0, WiFi 6, ECC Memory, HDMI 2.1, RGB Header",
+          "price": "$89.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0B5M97W1T?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3f632c03ea86040fc62bd2c0d446fe86&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08CZDYNF7",
+          "slug": "ultrean-food-scale-digital-kitchen-scale-with-lcd-display-we",
+          "title": "✨Ultrean Food Scale, Digital Kitchen Scale with LCD Display, Weight Grams and Ounces for Baking Cooking and Meal Prep, 6",
+          "price": "$6.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TV+iWbGlL.jpg",
+          "url": "https://www.amazon.com/dp/B08CZDYNF7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=20cee4c02491b716f1a498d10d0e54d8&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B07G1JRPV9",
           "slug": "carlyle-oregano-oil-supplement-150-softgel-capsules-contains",
@@ -189,71 +247,16 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B003IS3HV0?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9937c36f9777ef2aadba49d5f3610950&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DW8MW6J6",
-          "slug": "lamicall-shower-phone-holder-with-speaker-holes-ipx6-waterpo",
-          "title": "✨Lamicall Shower Phone Holder with Speaker Holes, IPX6 Waterpoof Case Stand | Bigger Size, Clear Sound, 480° Rotation, B",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71tNJJwQBeL.jpg",
-          "url": "https://www.amazon.com/dp/B0DW8MW6J6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=74726ff6e8eae1df3b66e9d4bdd186bc&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07FDXDB3W",
-          "slug": "blavor-solar-power-bank-10000mah-portable-wireless-charger-2",
-          "title": "✨BLAVOR Solar Power Bank 10,000mAh, Portable Wireless Charger, 20W Fast Charging External Battery Pack with USB C for Ce",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81+a8VjhdyL.jpg",
-          "url": "https://www.amazon.com/dp/B07FDXDB3W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c7a49a7ad1a8bc6267cd9db3658199b5&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FPDYL4W8",
-          "slug": "amazon-basics-25w-qi22-certified-wireless-charging-pad-magsa",
-          "title": "Amazon Basics 25W Qi2.2 Certified Wireless Charging Pad, MagSafe Compatible for iPhone 17/16/15/14/13/12, Magnetic Compa",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61SwLCvaOxL.jpg",
-          "url": "https://www.amazon.com/dp/B0FPDYL4W8/ref=cm_sw_r_as_gl_api_gl_i_HWY3V8T6JQVX952BSTQV?linkCode=ml1&tag=noya0b-20&linkId=3097973f9176229fadca5696df9bca3d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BB8ZXJCK",
-          "slug": "aioneus-usb-c-charger-block-40w-fast-charging-block-type-c-c",
-          "title": "✨Aioneus USB C Charger Block, 40W Fast Charging Block Type C Charging Block 4-Port Dual Port PD+QC Wall Charger Head Cub",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WAJ48caGL.jpg",
-          "url": "https://www.amazon.com/dp/B0BB8ZXJCK?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=42d5bd301a826ca375fadcd0efedaf6c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FNBLG4SB",
-          "slug": "razer-kiyo-v2-webcam-for-streaming-and-collaboration-4k-30fp",
-          "title": "✨Razer Kiyo V2 Webcam for Streaming and Collaboration 4K 30Fps, Black | AI Powered Auto-Framing, Built-in Microphone, Ul",
-          "price": "$112.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FNBLG4SB?lv=shuf&ascsubtag=srctok-475f7094667d9b7b&btn_type=pt&th=1&btn_ref=srctok-475f7094667d9b7b&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cbebc03db3a6248aaeda04b453a02b6c&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 1, 2026?",
-          "a": "The best deals today include \"✨Carlyle Oregano Oil Supplement | 150 Softgel Capsules | Con...\" and 9 other hand-picked discounts. Deals span Electronics, Cleaning Supplies, Other and are updated daily."
+          "a": "The best deals today include \"✨Castrol GTX Classic 20W-50 Conventional Motor Oil, 1 Quart,...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-01T13:30:01.429Z",
-      "updatedAt": "2026-08-01T13:30:01.429Z"
+      "generatedAt": "2026-08-01T13:40:01.647Z",
+      "updatedAt": "2026-08-01T13:40:01.647Z"
     },
     {
       "date": "2026-07-31",
@@ -14680,5 +14683,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-01T13:30:01.443Z"
+  "generatedAt": "2026-08-01T13:40:01.660Z"
 }
