@@ -4,14 +4,15 @@
       "date": "2026-07-31",
       "slug": "2026-07-31",
       "title": "🔥 Best Deals Today — July 31, 2026",
-      "intro": "Today's best online deals for Friday, July 31, 2026 — 10 hand-picked discounts across Beauty, Electronics, Home & Kitchen and more. The best discount today is 55% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, July 31, 2026 — 10 hand-picked discounts across Electronics, Home & Kitchen, Fashion and more. The best discount today is 55% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Beauty",
         "Electronics",
         "Home & Kitchen",
         "Fashion",
-        "Cleaning Supplies",
-        "Other"
+        "Beauty",
+        "Health",
+        "Other",
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -25,6 +26,17 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71DeaP1FZOL.jpg",
             "url": "https://amazon.com/dp/B08TLK7B7F?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B073NYKNL4",
+            "slug": "wekapo-beach-blanket-sandproof-waterproof-extra-large-beach",
+            "title": "✨WEKAPO Beach Blanket Sandproof Waterproof, Extra Large Beach Mat, Oversized & Compact Sand Free, Quick Drying Beach Ess",
+            "price": "$28.46",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/616vcse6ZdL.jpg",
+            "url": "https://www.amazon.com/dp/B073NYKNL4?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=feca52fd091811de74fcc3f61528b297&language=en_US&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -51,31 +63,44 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61HsIU295AL.jpg",
             "url": "https://www.amazon.com/dp/B000RI5TCE?th=1&linkCode=sl2&tag=noya0b-20&linkId=972ca5ddd2ad4eae89178c86cb720e79&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Health": [
           {
-            "asin": "B08DLGCKGK",
-            "slug": "remington-damage-protection-hair-dryer-ceramic-ionic-technol",
-            "title": "✨Remington Damage Protection Hair Dryer, Ceramic Ionic Technology | Diffuser and Concentrator Attachments, 3 Piece Set, ",
-            "price": "$26.74",
+            "asin": "B09PRJP43V",
+            "slug": "fit-king-leg-compression-massager-with-heat-for-circulation",
+            "title": "✨FIT KING Leg Compression Massager with Heat for Circulation and Pain Relief | FSA-HSA, Full Leg & Foot Massage for Swel",
+            "price": "$139.96",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/711ugJ+ad4L.jpg",
-            "url": "https://www.amazon.com/dp/B08DLGCKGK?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c3d603f2c2196f3edf952882f3b59aea&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B000TGA3JI",
-            "slug": "palmers-cocoa-butter-scar-serum-with-vitamin-e-fragrance-fre",
-            "title": "✨Palmer's Cocoa Butter Scar Serum with Vitamin E, Fragrance Free (1 Oz) | This oil helps improve the appearance of old &",
-            "price": "$15.52",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71yWMpOrqJL.jpg",
-            "url": "https://www.amazon.com/dp/B000TGA3JI?lv=shuf&psc=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=55cfdd6a75f89e4f26cc068007f7776d&language=en_US&gaOptInStatus=true"
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71DNHI3ZnuL.jpg",
+            "url": "https://www.amazon.com/dp/B09PRJP43V?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=96e39b1f05f48d3d12701a6ce0111c7a&language=en_US&gaOptInStatus=true"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B084RFRG6X",
+            "slug": "vacplus-toilet-bowl-cleaner-tablets-12-pack-auto-cleaning-lo",
+            "title": "✨Vacplus Toilet Bowl Cleaner Tablets, 12 Pack, Auto Cleaning, Long-Lasting | Bathroom Tank, Prevent Stains, Deodorizing,",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/816Mo3ztTiL.jpg",
+            "url": "https://www.amazon.com/dp/B084RFRG6X?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cdd0e0e615204df2f03a0a781ecd8346&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0C5M5P36T",
+            "slug": "cruise-essentials-2026one-beat-travel-power-strip-with-usb-c",
+            "title": "✨Cruise Essentials 2026,One Beat Travel Power Strip with USB C,Flat Plug 6ft | Extension Cord with 3 Outlets 4 USB Ports",
+            "price": "$11.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51n30UegC7L.jpg",
+            "url": "https://www.amazon.com/dp/B0C5M5P36T?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=465dd53e2654d335ef7652ce8c7a821a&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0BCDD4KTK",
             "slug": "koorui-24-inch-gaming-monitor-180hz-fhd-1080p-va-display-wit",
@@ -86,28 +111,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71cQCv8fWKL.jpg",
             "url": "https://www.amazon.com/dp/B0BCDD4KTK?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ecaf860b4134d56a3b5d2bdae084b757&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B0CC9G5CPH",
-            "slug": "innocn-32-mini-led-4k-160hz-3840-x-2160p-hdr1000-monitor-1ms",
-            "title": "✨INNOCN 32\" Mini LED 4K 160Hz 3840 x 2160P HDR1000 Monitor 1ms IPS HDMI 2.1, 99% DCI-P3, USB Type-C Connectivity, Height",
-            "price": "$399.98",
+            "asin": "B09YYR2VF9",
+            "slug": "bento-lunch-box-for-kids-leakproof-large-bento-style-with-4",
+            "title": "✨Bento Lunch Box for Kids - Leakproof Large Bento-Style with 4 Compartments Portions Lunchbox with Tableware Back to Sch",
+            "price": "$8.49",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xH0gQWqQL.jpg",
-            "url": "https://www.amazon.com/dp/B0CC9G5CPH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6a5e85e1bdfd57d88ab6f381af8b83bb&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CC9G5CPH",
-            "slug": "innocn-32-mini-led-4k-160hz-3840-x-2160p-hdr1000-monitor-1ms",
-            "title": "✨INNOCN 32\" Mini LED 4K 160Hz 3840 x 2160P HDR1000 Monitor 1ms IPS HDMI 2.1, 99% DCI-P3, USB Type-C Connectivity, Height",
-            "price": "$399.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xH0gQWqQL.jpg",
-            "url": "https://www.amazon.com/dp/B0CC9G5CPH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6a5e85e1bdfd57d88ab6f381af8b83bb&language=en_US&gaOptInStatus=true"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/718thdB-VIL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+            "url": "https://www.amazon.com/dp/B09YYR2VF9?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=be07c1ef571122fe5b75999f0cc59013&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -121,19 +137,6 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/71QvDh81RIL.jpg",
             "url": "https://www.amazon.com/dp/B07K7VWYYL?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=12d6d09b89cef4cf8d5179380e46c4c0&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0BG6TGKZS",
-            "slug": "clean-nutraceuticals-lions-mane-20in1-mushroom-supplement-wi",
-            "title": "✨Clean Nutraceuticals Lions Mane 20in1 Mushroom Supplement with Turkey Tail Reishi Cordyceps Chaga Maitake Meshima Poria",
-            "price": "$27.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ScCfMVWpL.jpg",
-            "url": "https://www.amazon.com/dp/B0BG6TGKZS?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=dd8f79d3dd16938bf7527e7fef45af76&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -172,6 +175,61 @@
           "url": "https://www.amazon.com/dp/B000RI5TCE?th=1&linkCode=sl2&tag=noya0b-20&linkId=972ca5ddd2ad4eae89178c86cb720e79&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B09PRJP43V",
+          "slug": "fit-king-leg-compression-massager-with-heat-for-circulation",
+          "title": "✨FIT KING Leg Compression Massager with Heat for Circulation and Pain Relief | FSA-HSA, Full Leg & Foot Massage for Swel",
+          "price": "$139.96",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71DNHI3ZnuL.jpg",
+          "url": "https://www.amazon.com/dp/B09PRJP43V?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=96e39b1f05f48d3d12701a6ce0111c7a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B084RFRG6X",
+          "slug": "vacplus-toilet-bowl-cleaner-tablets-12-pack-auto-cleaning-lo",
+          "title": "✨Vacplus Toilet Bowl Cleaner Tablets, 12 Pack, Auto Cleaning, Long-Lasting | Bathroom Tank, Prevent Stains, Deodorizing,",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/816Mo3ztTiL.jpg",
+          "url": "https://www.amazon.com/dp/B084RFRG6X?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cdd0e0e615204df2f03a0a781ecd8346&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0C5M5P36T",
+          "slug": "cruise-essentials-2026one-beat-travel-power-strip-with-usb-c",
+          "title": "✨Cruise Essentials 2026,One Beat Travel Power Strip with USB C,Flat Plug 6ft | Extension Cord with 3 Outlets 4 USB Ports",
+          "price": "$11.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51n30UegC7L.jpg",
+          "url": "https://www.amazon.com/dp/B0C5M5P36T?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=465dd53e2654d335ef7652ce8c7a821a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B073NYKNL4",
+          "slug": "wekapo-beach-blanket-sandproof-waterproof-extra-large-beach",
+          "title": "✨WEKAPO Beach Blanket Sandproof Waterproof, Extra Large Beach Mat, Oversized & Compact Sand Free, Quick Drying Beach Ess",
+          "price": "$28.46",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/616vcse6ZdL.jpg",
+          "url": "https://www.amazon.com/dp/B073NYKNL4?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=feca52fd091811de74fcc3f61528b297&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09YYR2VF9",
+          "slug": "bento-lunch-box-for-kids-leakproof-large-bento-style-with-4",
+          "title": "✨Bento Lunch Box for Kids - Leakproof Large Bento-Style with 4 Compartments Portions Lunchbox with Tableware Back to Sch",
+          "price": "$8.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/718thdB-VIL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+          "url": "https://www.amazon.com/dp/B09YYR2VF9?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=be07c1ef571122fe5b75999f0cc59013&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0BCDD4KTK",
           "slug": "koorui-24-inch-gaming-monitor-180hz-fhd-1080p-va-display-wit",
           "title": "✨KOORUI 24 Inch Gaming Monitor, 180Hz FHD 1080P VA Display with 3000:1 Contrast, Eye Care, HDMI & VGA, VESA 100x100mm Mo",
@@ -192,67 +250,12 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/71QvDh81RIL.jpg",
           "url": "https://www.amazon.com/dp/B07K7VWYYL?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=12d6d09b89cef4cf8d5179380e46c4c0&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08DLGCKGK",
-          "slug": "remington-damage-protection-hair-dryer-ceramic-ionic-technol",
-          "title": "✨Remington Damage Protection Hair Dryer, Ceramic Ionic Technology | Diffuser and Concentrator Attachments, 3 Piece Set, ",
-          "price": "$26.74",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/711ugJ+ad4L.jpg",
-          "url": "https://www.amazon.com/dp/B08DLGCKGK?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c3d603f2c2196f3edf952882f3b59aea&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B000TGA3JI",
-          "slug": "palmers-cocoa-butter-scar-serum-with-vitamin-e-fragrance-fre",
-          "title": "✨Palmer's Cocoa Butter Scar Serum with Vitamin E, Fragrance Free (1 Oz) | This oil helps improve the appearance of old &",
-          "price": "$15.52",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71yWMpOrqJL.jpg",
-          "url": "https://www.amazon.com/dp/B000TGA3JI?lv=shuf&psc=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=55cfdd6a75f89e4f26cc068007f7776d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BG6TGKZS",
-          "slug": "clean-nutraceuticals-lions-mane-20in1-mushroom-supplement-wi",
-          "title": "✨Clean Nutraceuticals Lions Mane 20in1 Mushroom Supplement with Turkey Tail Reishi Cordyceps Chaga Maitake Meshima Poria",
-          "price": "$27.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ScCfMVWpL.jpg",
-          "url": "https://www.amazon.com/dp/B0BG6TGKZS?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=dd8f79d3dd16938bf7527e7fef45af76&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CC9G5CPH",
-          "slug": "innocn-32-mini-led-4k-160hz-3840-x-2160p-hdr1000-monitor-1ms",
-          "title": "✨INNOCN 32\" Mini LED 4K 160Hz 3840 x 2160P HDR1000 Monitor 1ms IPS HDMI 2.1, 99% DCI-P3, USB Type-C Connectivity, Height",
-          "price": "$399.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xH0gQWqQL.jpg",
-          "url": "https://www.amazon.com/dp/B0CC9G5CPH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6a5e85e1bdfd57d88ab6f381af8b83bb&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CC9G5CPH",
-          "slug": "innocn-32-mini-led-4k-160hz-3840-x-2160p-hdr1000-monitor-1ms",
-          "title": "✨INNOCN 32\" Mini LED 4K 160Hz 3840 x 2160P HDR1000 Monitor 1ms IPS HDMI 2.1, 99% DCI-P3, USB Type-C Connectivity, Height",
-          "price": "$399.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xH0gQWqQL.jpg",
-          "url": "https://www.amazon.com/dp/B0CC9G5CPH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6a5e85e1bdfd57d88ab6f381af8b83bb&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on July 31, 2026?",
-          "a": "The best deals today include \"TuoxinEM Corner Table Great for Small Tiny Space Perfectly, ...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"TuoxinEM Corner Table Great for Small Tiny Space Perfectly, ...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-01T01:40:01.484Z",
-      "updatedAt": "2026-08-01T01:40:01.484Z"
+      "generatedAt": "2026-08-01T01:50:01.584Z",
+      "updatedAt": "2026-08-01T01:50:01.584Z"
     },
     {
       "date": "2026-07-30",
@@ -14406,5 +14409,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-01T01:40:01.497Z"
+  "generatedAt": "2026-08-01T01:50:01.598Z"
 }
