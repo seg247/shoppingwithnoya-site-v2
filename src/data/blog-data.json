@@ -4,18 +4,29 @@
       "date": "2026-08-01",
       "slug": "2026-08-01",
       "title": "🔥 Best Deals Today — August 1, 2026",
-      "intro": "Today's best online deals for Saturday, August 1, 2026 — 10 hand-picked discounts across Other, Beauty, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, August 1, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Beauty",
         "Home & Kitchen",
-        "Pet Supplies",
-        "Personal Care",
+        "Beauty",
         "Grocery & Food",
-        "Sports & Fitness"
+        "Electronics",
+        "Pet Supplies",
+        "Personal Care"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B0039STM1S",
+            "slug": "onyx-general-purpose-life-jacket-youth-red-life-jackets-and",
+            "title": "Onyx General Purpose Life Jacket, Youth, Red : Life Jackets And Vests : Sports & Outdoors",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61BYuJmQGnL.jpg",
+            "url": "https://www.amazon.com/dp/B0039STM1S/ref=cm_sw_r_as_gl_api_gl_i_3Y3FABHZXJ0A3SV16AJ3?linkCode=ml1&tag=noya0b-20&linkId=7fe604fdac0801b42c4184ac54c43ae7&gaOptInStatus=true"
+          },
           {
             "asin": "B00WBNY9Y2",
             "slug": "inspire-stretch-vinyl-exam-gloves-the-original-quality-dispo",
@@ -26,17 +37,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71L40jLUi-L._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B00WBNY9Y2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6b64582483a728acda743e335e68d5be&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B004MPC3KO",
-            "slug": "homestyles-arts-and-crafts-cottage-oak-nightstand-with-drawe",
-            "title": "Homestyles Arts and Crafts Cottage Oak Nightstand with Drawer",
-            "price": "$27",
+            "asin": "B00IO29CI2",
+            "slug": "trident-white-peppermint-sugar-free-chewing-gum-9-packs-of-1",
+            "title": "✨Trident White Peppermint Sugar-Free Chewing Gum, 9 Packs of 16 Pieces (144 Total Pieces) | 144 Total Pieces, Contains X",
+            "price": "$8.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51-NbHZmi4L.jpg",
-            "url": "https://www.amazon.com/dp/B004MPC3KO/ref=cm_sw_r_as_gl_api_gl_i_FQ58BV9M66584BCAH8VM?linkCode=ml1&tag=noya0b-20&linkId=3a6685f59e375b4f7cd19f6a6ba0dbce&gaOptInStatus=true"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VipEKvkJL.jpg",
+            "url": "https://www.amazon.com/dp/B00IO29CI2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c4599b941f6ca577e5daa22bb2eb19cc&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B07L73JPX5",
+            "slug": "act-ii-mini-bags-butter-microwave-popcorn-158-oz-3-count-bag",
+            "title": "Act II Mini Bags Butter Microwave Popcorn, 1.58 oz., 3-Count Bags (Pack of 12)",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81G4uesgBWL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+            "url": "https://www.amazon.com/dp/B07L73JPX5/ref=cm_sw_r_as_gl_api_gl_i_3HF08XYZ0FP9R7HCTBHW?linkCode=ml1&tag=noya0b-20&linkId=70ba9969206812a746fc27d1cdbfde5a&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0CLV5X2LH",
+            "slug": "roskdeewat-egg-holder-for-fridge-automatic-rolling-egg-conta",
+            "title": "✨RoskDeewat Egg Holder for Fridge, Automatic Rolling Egg Container -2 Tier | Stackable Fridge Organizers and Storage wit",
+            "price": "$23.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71H1dK+Hv7L.jpg",
+            "url": "https://www.amazon.com/dp/B0CLV5X2LH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2f904662b4721d03f132a96e39d20a10&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0842QS48F",
+            "slug": "kemimoto-x3-electric-device-tablet-holder-gps-mount-storage",
+            "title": "✨KEMIMOTO X3 Electric Device Tablet Holder, GPS Mount Storage Box Compatible with 2017-2025 Can Am Maverick X3 All Model",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71I-nI0HkPL.jpg",
+            "url": "https://www.amazon.com/dp/B0842QS48F?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=078fc8e359ff9bd62f4db8ea2d2b3cae&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -88,59 +138,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71iNNUyae9L.jpg",
             "url": "https://www.amazon.com/dp/B0F94KYCQX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9fdbb3fbe1b4384edb3b3b39e05d1364&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B082KP92DF",
-            "slug": "amazerbath-shower-curtain-liner-72x72-clear-shower-curtain-l",
-            "title": "✨AmazerBath Shower Curtain Liner, 72x72 Clear Shower Curtain Liner, Waterproof Plastic Shower Liner, Cute Lightweight PE",
-            "price": "$6.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B082KP92DF?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=68e7c04599fc71f8a197e500df0d78b6&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08573DQ39",
-            "slug": "umite-chef-kitchen-cooking-utensils-set-33-pcs-non-stick-sil",
-            "title": "✨Umite Chef Kitchen Cooking Utensils Set, 33 pcs Non-Stick Silicone Cooking Kitchen Utensils Spatula Set with Holder, Wo",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/615CbF7dxCL.jpg",
-            "url": "https://www.amazon.com/dp/B08573DQ39?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f93ba17b2b4b7a1efa71147fcaf7cc99&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B09J6ZFJJV",
-            "slug": "nutri-grain-breakfast-bars-made-with-10g-whole-grains-kids-s",
-            "title": "✨Nutri-Grain Breakfast Bars, Made with 10g Whole Grains, Kids Snacks, 2-Flavor Variety Pack (3 Boxes, 48 Bars)",
-            "price": "$23.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81dXSLQfi1L.jpg",
-            "url": "https://www.amazon.com/dp/B09J6ZFJJV?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d8d809d3fceb2c37f75bb33f7ede555e&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B094DMH7ZM",
-            "slug": "airmoto-tire-inflator-portable-air-compressor-for-cars-bikes",
-            "title": "✨Airmoto Tire Inflator Portable Air Compressor for Cars, Bikes and Bicycles | Cordless Air Pump with Digital Pressure Ga",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/81yeGmVV7KL.jpg",
-            "url": "https://www.amazon.com/dp/B094DMH7ZM?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5e03dcf6de7096c06cdc4ec73160dd87&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0039STM1S",
+          "slug": "onyx-general-purpose-life-jacket-youth-red-life-jackets-and",
+          "title": "Onyx General Purpose Life Jacket, Youth, Red : Life Jackets And Vests : Sports & Outdoors",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61BYuJmQGnL.jpg",
+          "url": "https://www.amazon.com/dp/B0039STM1S/ref=cm_sw_r_as_gl_api_gl_i_3Y3FABHZXJ0A3SV16AJ3?linkCode=ml1&tag=noya0b-20&linkId=7fe604fdac0801b42c4184ac54c43ae7&gaOptInStatus=true"
+        },
+        {
+          "asin": "B00IO29CI2",
+          "slug": "trident-white-peppermint-sugar-free-chewing-gum-9-packs-of-1",
+          "title": "✨Trident White Peppermint Sugar-Free Chewing Gum, 9 Packs of 16 Pieces (144 Total Pieces) | 144 Total Pieces, Contains X",
+          "price": "$8.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VipEKvkJL.jpg",
+          "url": "https://www.amazon.com/dp/B00IO29CI2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c4599b941f6ca577e5daa22bb2eb19cc&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07L73JPX5",
+          "slug": "act-ii-mini-bags-butter-microwave-popcorn-158-oz-3-count-bag",
+          "title": "Act II Mini Bags Butter Microwave Popcorn, 1.58 oz., 3-Count Bags (Pack of 12)",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81G4uesgBWL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+          "url": "https://www.amazon.com/dp/B07L73JPX5/ref=cm_sw_r_as_gl_api_gl_i_3HF08XYZ0FP9R7HCTBHW?linkCode=ml1&tag=noya0b-20&linkId=70ba9969206812a746fc27d1cdbfde5a&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CLV5X2LH",
+          "slug": "roskdeewat-egg-holder-for-fridge-automatic-rolling-egg-conta",
+          "title": "✨RoskDeewat Egg Holder for Fridge, Automatic Rolling Egg Container -2 Tier | Stackable Fridge Organizers and Storage wit",
+          "price": "$23.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71H1dK+Hv7L.jpg",
+          "url": "https://www.amazon.com/dp/B0CLV5X2LH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2f904662b4721d03f132a96e39d20a10&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0842QS48F",
+          "slug": "kemimoto-x3-electric-device-tablet-holder-gps-mount-storage",
+          "title": "✨KEMIMOTO X3 Electric Device Tablet Holder, GPS Mount Storage Box Compatible with 2017-2025 Can Am Maverick X3 All Model",
+          "price": "$59.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71I-nI0HkPL.jpg",
+          "url": "https://www.amazon.com/dp/B0842QS48F?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=078fc8e359ff9bd62f4db8ea2d2b3cae&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B00WBNY9Y2",
           "slug": "inspire-stretch-vinyl-exam-gloves-the-original-quality-dispo",
@@ -195,67 +250,12 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71iNNUyae9L.jpg",
           "url": "https://www.amazon.com/dp/B0F94KYCQX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9fdbb3fbe1b4384edb3b3b39e05d1364&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B004MPC3KO",
-          "slug": "homestyles-arts-and-crafts-cottage-oak-nightstand-with-drawe",
-          "title": "Homestyles Arts and Crafts Cottage Oak Nightstand with Drawer",
-          "price": "$27",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51-NbHZmi4L.jpg",
-          "url": "https://www.amazon.com/dp/B004MPC3KO/ref=cm_sw_r_as_gl_api_gl_i_FQ58BV9M66584BCAH8VM?linkCode=ml1&tag=noya0b-20&linkId=3a6685f59e375b4f7cd19f6a6ba0dbce&gaOptInStatus=true"
-        },
-        {
-          "asin": "B082KP92DF",
-          "slug": "amazerbath-shower-curtain-liner-72x72-clear-shower-curtain-l",
-          "title": "✨AmazerBath Shower Curtain Liner, 72x72 Clear Shower Curtain Liner, Waterproof Plastic Shower Liner, Cute Lightweight PE",
-          "price": "$6.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B082KP92DF?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=68e7c04599fc71f8a197e500df0d78b6&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09J6ZFJJV",
-          "slug": "nutri-grain-breakfast-bars-made-with-10g-whole-grains-kids-s",
-          "title": "✨Nutri-Grain Breakfast Bars, Made with 10g Whole Grains, Kids Snacks, 2-Flavor Variety Pack (3 Boxes, 48 Bars)",
-          "price": "$23.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81dXSLQfi1L.jpg",
-          "url": "https://www.amazon.com/dp/B09J6ZFJJV?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d8d809d3fceb2c37f75bb33f7ede555e&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B094DMH7ZM",
-          "slug": "airmoto-tire-inflator-portable-air-compressor-for-cars-bikes",
-          "title": "✨Airmoto Tire Inflator Portable Air Compressor for Cars, Bikes and Bicycles | Cordless Air Pump with Digital Pressure Ga",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/81yeGmVV7KL.jpg",
-          "url": "https://www.amazon.com/dp/B094DMH7ZM?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5e03dcf6de7096c06cdc4ec73160dd87&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08573DQ39",
-          "slug": "umite-chef-kitchen-cooking-utensils-set-33-pcs-non-stick-sil",
-          "title": "✨Umite Chef Kitchen Cooking Utensils Set, 33 pcs Non-Stick Silicone Cooking Kitchen Utensils Spatula Set with Holder, Wo",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/615CbF7dxCL.jpg",
-          "url": "https://www.amazon.com/dp/B08573DQ39?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f93ba17b2b4b7a1efa71147fcaf7cc99&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 1, 2026?",
-          "a": "The best deals today include \"✨Inspire Stretch Vinyl Exam Gloves | THE ORIGINAL Quality Di...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Onyx General Purpose Life Jacket, Youth, Red : Life Jackets ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-01T10:20:01.710Z",
-      "updatedAt": "2026-08-01T10:20:01.710Z"
+      "generatedAt": "2026-08-01T10:30:02.038Z",
+      "updatedAt": "2026-08-01T10:30:02.038Z"
     },
     {
       "date": "2026-07-31",
@@ -14686,5 +14686,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-01T10:20:01.724Z"
+  "generatedAt": "2026-08-01T10:30:02.051Z"
 }
