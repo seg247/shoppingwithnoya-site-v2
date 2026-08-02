@@ -11,10 +11,8 @@
         "Toys & Kids",
         "Beauty",
         "Sports & Fitness",
-        "Electronics",
-        "Fashion",
-        "Health",
-        "Grocery & Food"
+        "Cleaning Supplies",
+        "Electronics"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -52,6 +50,28 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61uB+kgi9OL.jpg",
             "url": "https://www.amazon.com/dp/B0G8JYLZ1V?lv=shuf&gaOptInStatus=true&th=1&m=A341IW89LHQTDA&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=772ed05cceeead69dc18dc2f055f8e97&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DRJKB159",
+            "slug": "midten-75-9-rifle-bipod-compatible-with-m-rail-attach-direct",
+            "title": "MidTen 7.5\"-9\" Rifle Bipod Compatible with M-Rail Attach Directly Adjustable Shooting Rest Lightweight Aluminum Bipods f",
+            "price": "$18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/616HytECvSL.jpg",
+            "url": "https://www.amazon.com/dp/B0DRJKB159?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FGX76Z5W",
+            "slug": "wfiia-59-smart-led-corner-floor-lamp-rgbicw-color-changing-a",
+            "title": "Wfiia 59\" Smart LED Corner Floor Lamp, RGBICW Color Changing Ambient Lighting, App Control Music Sync Mood Light, Modern",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/7154mv5tSVL.jpg",
+            "url": "https://www.amazon.com/dp/B0FGX76Z5W?th=1&tag=noya0b-20"
           }
         ],
         "Toys & Kids": [
@@ -93,56 +113,30 @@
             "url": "https://www.amazon.com/dp/B0CZN5HPN9?tag=noya0b-20"
           }
         ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B07GWW54HL",
+            "slug": "all-free-clear-original-liquid-laundry-detergent-for-sensiti",
+            "title": "all free clear, Original, Liquid Laundry Detergent for Sensitive Skin, Unscented and Hypoallergenic, Concentrated, 82.5o",
+            "price": "$13.53",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71udy5RpgaL.jpg",
+            "url": "https://www.amazon.com/dp/B07GWW54HL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Electronics": [
           {
-            "asin": "B0GXZXJ5B9",
-            "slug": "cinmoore-25k-security-camera-indoor-free-ai-personpetcry-det",
-            "title": "CINMOORE 2.5K Security Camera Indoor, Free AI Person/Pet/Cry Detection, 4MP Pet/Dog/Cat Camera w/Phone App, Pan Tilt 2.4",
-            "price": "$12",
+            "asin": "B0FBR4ZN3X",
+            "slug": "veektomx-10000mah-mini-power-bank-225w-fast-charger-for-ipho",
+            "title": "VEEKTOMX 10000mAh Mini Power Bank, 22.5W Fast Charger for iPhone Android | Ultra Slim Pocket Size Design, Compatible wit",
+            "price": "$11",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Qt0EXdEzL.jpg",
-            "url": "https://www.amazon.com/dp/B0GXZXJ5B9?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0F22GSWM2",
-            "slug": "champion-oracle-convertible-sling-bag-with-adjustable-strap",
-            "title": "Champion Oracle Convertible Sling Bag with Adjustable Strap for Travel, Commute, Daily Use, Forest Peak Green, One Size ",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JFEgrS-8L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F22GSWM2?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e465ac78c7731c356b2eb8161fde2726&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B0GNCZ8PJS",
-            "slug": "resilia-d3-k2-vitamin-10000-iu-mk-7-200-mcg-high-potency-sof",
-            "title": "Resilia D3 K2 Vitamin 10000 IU + MK-7 200 mcg – High Potency Softgels with Coconut Oil for Maximum Absorption – Supports",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Mf8jVRtWL.jpg",
-            "url": "https://www.amazon.com/dp/B0GNCZ8PJS?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0DT5TS7CJ",
-            "slug": "honey-dispenser-12oz-no-drip-with-base-2026-upgrade-glass-ho",
-            "title": "✨Honey Dispenser 12Oz No Drip with Base 2026 Upgrade, Glass Honey Jar pot with Handle, Syrup Dispenser for Coffee or Tea",
-            "price": "$22.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81qbbL8gMnL.jpg",
-            "url": "https://www.amazon.com/dp/B0DT5TS7CJ/ref=nosim?tag=noya0b-20&th=1"
+            "imageUrl": "https://m.media-amazon.com/images/I/61NAfF2cqBL.jpg",
+            "url": "https://www.amazon.com/dp/B0FBR4ZN3X?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -214,48 +208,48 @@
           "url": "https://www.amazon.com/dp/B0CZN5HPN9?tag=noya0b-20"
         },
         {
-          "asin": "B0GXZXJ5B9",
-          "slug": "cinmoore-25k-security-camera-indoor-free-ai-personpetcry-det",
-          "title": "CINMOORE 2.5K Security Camera Indoor, Free AI Person/Pet/Cry Detection, 4MP Pet/Dog/Cat Camera w/Phone App, Pan Tilt 2.4",
-          "price": "$12",
+          "asin": "B07GWW54HL",
+          "slug": "all-free-clear-original-liquid-laundry-detergent-for-sensiti",
+          "title": "all free clear, Original, Liquid Laundry Detergent for Sensitive Skin, Unscented and Hypoallergenic, Concentrated, 82.5o",
+          "price": "$13.53",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71udy5RpgaL.jpg",
+          "url": "https://www.amazon.com/dp/B07GWW54HL?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0DRJKB159",
+          "slug": "midten-75-9-rifle-bipod-compatible-with-m-rail-attach-direct",
+          "title": "MidTen 7.5\"-9\" Rifle Bipod Compatible with M-Rail Attach Directly Adjustable Shooting Rest Lightweight Aluminum Bipods f",
+          "price": "$18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/616HytECvSL.jpg",
+          "url": "https://www.amazon.com/dp/B0DRJKB159?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FGX76Z5W",
+          "slug": "wfiia-59-smart-led-corner-floor-lamp-rgbicw-color-changing-a",
+          "title": "Wfiia 59\" Smart LED Corner Floor Lamp, RGBICW Color Changing Ambient Lighting, App Control Music Sync Mood Light, Modern",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/7154mv5tSVL.jpg",
+          "url": "https://www.amazon.com/dp/B0FGX76Z5W?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FBR4ZN3X",
+          "slug": "veektomx-10000mah-mini-power-bank-225w-fast-charger-for-ipho",
+          "title": "VEEKTOMX 10000mAh Mini Power Bank, 22.5W Fast Charger for iPhone Android | Ultra Slim Pocket Size Design, Compatible wit",
+          "price": "$11",
           "discount": 0,
           "rating": "WORTH A LOOK",
           "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Qt0EXdEzL.jpg",
-          "url": "https://www.amazon.com/dp/B0GXZXJ5B9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F22GSWM2",
-          "slug": "champion-oracle-convertible-sling-bag-with-adjustable-strap",
-          "title": "Champion Oracle Convertible Sling Bag with Adjustable Strap for Travel, Commute, Daily Use, Forest Peak Green, One Size ",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JFEgrS-8L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F22GSWM2?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e465ac78c7731c356b2eb8161fde2726&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GNCZ8PJS",
-          "slug": "resilia-d3-k2-vitamin-10000-iu-mk-7-200-mcg-high-potency-sof",
-          "title": "Resilia D3 K2 Vitamin 10000 IU + MK-7 200 mcg – High Potency Softgels with Coconut Oil for Maximum Absorption – Supports",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Mf8jVRtWL.jpg",
-          "url": "https://www.amazon.com/dp/B0GNCZ8PJS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DT5TS7CJ",
-          "slug": "honey-dispenser-12oz-no-drip-with-base-2026-upgrade-glass-ho",
-          "title": "✨Honey Dispenser 12Oz No Drip with Base 2026 Upgrade, Glass Honey Jar pot with Handle, Syrup Dispenser for Coffee or Tea",
-          "price": "$22.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81qbbL8gMnL.jpg",
-          "url": "https://www.amazon.com/dp/B0DT5TS7CJ/ref=nosim?tag=noya0b-20&th=1"
+          "imageUrl": "https://m.media-amazon.com/images/I/61NAfF2cqBL.jpg",
+          "url": "https://www.amazon.com/dp/B0FBR4ZN3X?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -280,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T01:10:01.961Z",
-      "updatedAt": "2026-08-02T01:10:01.962Z"
+      "generatedAt": "2026-08-02T01:20:01.430Z",
+      "updatedAt": "2026-08-02T01:20:01.430Z"
     },
     {
       "date": "2026-07-31",
@@ -14692,5 +14686,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T01:10:01.974Z"
+  "generatedAt": "2026-08-02T01:20:01.443Z"
 }
