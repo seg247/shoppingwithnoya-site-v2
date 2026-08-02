@@ -8,12 +8,67 @@
       "categories": [
         "Beauty",
         "Home & Kitchen",
-        "Other",
-        "Luxury Beauty",
-        "Gaming"
+        "Other"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B075CWJ3T8",
+            "slug": "instant-pot-duo-plus-9-in-1-electric-pressure-cooker-slow-co",
+            "title": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & S",
+            "price": "$129.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
+            "url": "https://www.amazon.com/dp/B075CWJ3T8?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DBQCV3QV",
+            "slug": "hoobro-rattan-shoe-storage-bench-with-double-flip-drawers-na",
+            "title": "HOOBRO Rattan Shoe Storage Bench with Double Flip Drawers, Narrow Shoe Storage Organizer for Entryway, 11.8\" D x 39.4\" W",
+            "price": "$54",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71H0mMmpc8L.jpg",
+            "url": "https://www.amazon.com/dp/B0DBQCV3QV?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0GD6QRWDL",
+            "slug": "idoo-full-size-air-mattress-with-built-in-pump-inflatable-bl",
+            "title": "iDOO Full Size Air Mattress with Built in Pump, Inflatable Blow up Bed | Built-in pump in Fast Inflation, Strong Support",
+            "price": "$59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61jtaPyCBxL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GD6QRWDL?th=1&tag=noya0b-20"
+          }
+        ],
         "Beauty": [
+          {
+            "asin": "B0GVS1GQWC",
+            "slug": "skintific-5x-ceramide-repair-gel-for-sensitive-skin-light-te",
+            "title": "SKINTIFIC 5X Ceramide Repair Gel for Sensitive Skin-Light Texture,30g | Lightweight Face Moisturizer with 24H Hydration,",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61hdKQc-4KL.jpg",
+            "url": "https://www.amazon.com/dp/B0GVS1GQWC?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+          },
           {
             "asin": "B09998HYQP",
             "slug": "gellen-gel-nail-polish-starter-kit-with-u-v-light-12-colors",
@@ -71,70 +126,42 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01GFLZ44O?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DBQCV3QV",
-            "slug": "hoobro-rattan-shoe-storage-bench-with-double-flip-drawers-na",
-            "title": "HOOBRO Rattan Shoe Storage Bench with Double Flip Drawers, Narrow Shoe Storage Organizer for Entryway, 11.8\" D x 39.4\" W",
-            "price": "$54",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71H0mMmpc8L.jpg",
-            "url": "https://www.amazon.com/dp/B0DBQCV3QV?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0GD6QRWDL",
-            "slug": "idoo-full-size-air-mattress-with-built-in-pump-inflatable-bl",
-            "title": "iDOO Full Size Air Mattress with Built in Pump, Inflatable Blow up Bed | Built-in pump in Fast Inflation, Strong Support",
-            "price": "$59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jtaPyCBxL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GD6QRWDL?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0FQJHY93V",
-            "slug": "14-piece-kitchen-knife-set-with-block-black-dishwasher-safe",
-            "title": "14 Piece Kitchen Knife Set with Block, Black, Dishwasher Safe | Ultra Sharp High Carbon Stainless Steel Blades with 6 St",
-            "price": "$34",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ie1DWoBrL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FQJHY93V?tag=noya0b-20"
-          }
-        ],
-        "Luxury Beauty": [
-          {
-            "asin": "B01BZV7MG2",
-            "slug": "luxury-skin-care-sample-box-beauty-personal-care",
-            "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
-            "price": "$9.44",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Luxury Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
-            "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
-          }
-        ],
-        "Gaming": [
-          {
-            "asin": "B0BQ1JN7MH",
-            "slug": "colgate-kids-battery-powered-pokemon-toothbrush-extra-soft-f",
-            "title": "Colgate Kids Battery Powered Pokemon Toothbrush, Extra Soft | For Kids Ages 3 and Up, Extra Soft Bristles, Battery Power",
-            "price": "$5.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fSCeWpvAL.jpg",
-            "url": "https://www.amazon.com/dp/B0BQ1JN7MH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B075CWJ3T8",
+          "slug": "instant-pot-duo-plus-9-in-1-electric-pressure-cooker-slow-co",
+          "title": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & S",
+          "price": "$129.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
+          "url": "https://www.amazon.com/dp/B075CWJ3T8?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GVS1GQWC",
+          "slug": "skintific-5x-ceramide-repair-gel-for-sensitive-skin-light-te",
+          "title": "SKINTIFIC 5X Ceramide Repair Gel for Sensitive Skin-Light Texture,30g | Lightweight Face Moisturizer with 24H Hydration,",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61hdKQc-4KL.jpg",
+          "url": "https://www.amazon.com/dp/B0GVS1GQWC?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B08SL72G3P",
+          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+        },
         {
           "asin": "B09998HYQP",
           "slug": "gellen-gel-nail-polish-starter-kit-with-u-v-light-12-colors",
@@ -211,45 +238,12 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01GFLZ44O?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B01BZV7MG2",
-          "slug": "luxury-skin-care-sample-box-beauty-personal-care",
-          "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
-          "price": "$9.44",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Luxury Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
-          "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BQ1JN7MH",
-          "slug": "colgate-kids-battery-powered-pokemon-toothbrush-extra-soft-f",
-          "title": "Colgate Kids Battery Powered Pokemon Toothbrush, Extra Soft | For Kids Ages 3 and Up, Extra Soft Bristles, Battery Power",
-          "price": "$5.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fSCeWpvAL.jpg",
-          "url": "https://www.amazon.com/dp/B0BQ1JN7MH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0FQJHY93V",
-          "slug": "14-piece-kitchen-knife-set-with-block-black-dishwasher-safe",
-          "title": "14 Piece Kitchen Knife Set with Block, Black, Dishwasher Safe | Ultra Sharp High Carbon Stainless Steel Blades with 6 St",
-          "price": "$34",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ie1DWoBrL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FQJHY93V?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Gellen Gel Nail Polish Starter Kit with U V Light - 12 Color...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow C...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +262,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T19:10:00.560Z",
-      "updatedAt": "2026-08-02T19:10:00.560Z"
+      "generatedAt": "2026-08-02T19:20:00.250Z",
+      "updatedAt": "2026-08-02T19:20:00.250Z"
     },
     {
       "date": "2026-08-01",
@@ -14951,5 +14945,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T19:10:00.573Z"
+  "generatedAt": "2026-08-02T19:20:00.264Z"
 }
