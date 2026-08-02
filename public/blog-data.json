@@ -4,16 +4,53 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Other, Sports, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Sports and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Sports",
         "Garden & Outdoor",
+        "Sports",
+        "Pet Supplies",
         "Electronics",
-        "Home & Kitchen",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Pet Supplies": [
+          {
+            "asin": "B08T1X4SWH",
+            "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
+            "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
+            "price": "$15.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS.jpg",
+            "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0773BDR17",
+            "slug": "garden-hose-pot-brass-outdoor-pot-for-garden-hose-storage-ho",
+            "title": "Garden Hose Pot - Brass Outdoor Pot for Garden Hose Storage | Holds and Hides Large Water Hose for Decorative Lawn & Gar",
+            "price": "$114.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JIOh+rYcL.jpg",
+            "url": "https://www.amazon.com/dp/B0773BDR17?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CNX62CJN",
+            "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
+            "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Net, Black)",
+            "price": "$109.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Z5d-cDqRL.jpg",
+            "url": "https://www.amazon.com/dp/B0CNX62CJN?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B00JU532B0",
@@ -73,30 +110,6 @@
             "url": "https://www.amazon.com/dp/B0CY4S7LVV?tag=noya0b-20"
           }
         ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0CNX62CJN",
-            "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
-            "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Net, Black)",
-            "price": "$109.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Z5d-cDqRL.jpg",
-            "url": "https://www.amazon.com/dp/B0CNX62CJN?tag=noya0b-20"
-          },
-          {
-            "asin": "B08K39Y3CR",
-            "slug": "meikuler-desktop-shelf-organizer-adjustable-wood-display-des",
-            "title": "Meikuler Desktop Shelf Organizer, Adjustable Wood Display Desk Shelf, Office Storage Rack Tabletop Bookshelf Multipurpos",
-            "price": "$23.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61hK57ERtWL.jpg",
-            "url": "https://www.amazon.com/dp/B08K39Y3CR?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
           {
             "asin": "B0BW31CWH3",
@@ -122,22 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/717849a6v+L.jpg",
             "url": "https://www.amazon.com/dp/B0D8LXRHQ8?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CJ534XDZ",
-            "slug": "anluoer-twin-comforter-set-5-pieceruffle-bed-in-a-bag-twin-b",
-            "title": "Anluoer Twin Comforter Set 5 Piece,Ruffle Bed in a Bag Twin Bedding Sets | Girls Pink Bedding, Shabby Chic, OEKO-TEX Cer",
-            "price": "$41.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71icf3FLIlL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJ534XDZ?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08T1X4SWH",
+          "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
+          "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
+          "price": "$15.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS.jpg",
+          "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
+        },
+        {
+          "asin": "B0773BDR17",
+          "slug": "garden-hose-pot-brass-outdoor-pot-for-garden-hose-storage-ho",
+          "title": "Garden Hose Pot - Brass Outdoor Pot for Garden Hose Storage | Holds and Hides Large Water Hose for Decorative Lawn & Gar",
+          "price": "$114.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JIOh+rYcL.jpg",
+          "url": "https://www.amazon.com/dp/B0773BDR17?tag=noya0b-20"
+        },
         {
           "asin": "B00JU532B0",
           "slug": "taymac-mm420c-1-gang-nonmetallic-extra-duty-weatherproof-in",
@@ -225,34 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71yqsnz0JDL.jpg",
           "url": "https://www.amazon.com/dp/B00UFXHZJQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=6649de09f8a7350a0c38e614e1cf1ffb&language=en_US"
-        },
-        {
-          "asin": "B08K39Y3CR",
-          "slug": "meikuler-desktop-shelf-organizer-adjustable-wood-display-des",
-          "title": "Meikuler Desktop Shelf Organizer, Adjustable Wood Display Desk Shelf, Office Storage Rack Tabletop Bookshelf Multipurpos",
-          "price": "$23.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61hK57ERtWL.jpg",
-          "url": "https://www.amazon.com/dp/B08K39Y3CR?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CJ534XDZ",
-          "slug": "anluoer-twin-comforter-set-5-pieceruffle-bed-in-a-bag-twin-b",
-          "title": "Anluoer Twin Comforter Set 5 Piece,Ruffle Bed in a Bag Twin Bedding Sets | Girls Pink Bedding, Shabby Chic, OEKO-TEX Cer",
-          "price": "$41.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71icf3FLIlL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJ534XDZ?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"TayMac MM420C 1-Gang Nonmetallic Extra Duty Weatherproof In-...\" and 9 other hand-picked discounts. Deals span Other, Sports, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Dog Harness Collar Leash Set - No Pull Pet Adjustable Back C...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Sports and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T13:50:01.386Z",
-      "updatedAt": "2026-08-02T13:50:01.386Z"
+      "generatedAt": "2026-08-02T14:00:01.335Z",
+      "updatedAt": "2026-08-02T14:00:01.335Z"
     },
     {
       "date": "2026-08-01",
@@ -14954,5 +14954,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T13:50:01.399Z"
+  "generatedAt": "2026-08-02T14:00:01.349Z"
 }
