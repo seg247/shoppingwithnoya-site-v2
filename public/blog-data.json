@@ -4,18 +4,76 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Fashion, Electronics, Pet Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Beauty, Other, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Fashion",
-        "Electronics",
-        "Pet Supplies",
-        "Other",
         "Beauty",
-        "Smart Home",
-        "Garden & Outdoor"
+        "Other",
+        "Electronics",
+        "Luxury Beauty",
+        "Fashion",
+        "Smart Home"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B07KRS9JG1",
+            "slug": "aussie-miracle-moist-with-avocado-jojoba-oil-paraben-free-co",
+            "title": "Aussie Miracle Moist with Avocado & Jojoba Oil, Paraben Free Conditioner, 26.2 fl oz : Beauty & Personal Care",
+            "price": "$7.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Xw4iz-iUL.jpg",
+            "url": "https://www.amazon.com/dp/B07KRS9JG1?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GKHLTDWM",
+            "slug": "giorgio-armani-luminous-silk-foundation-perfect-natural-glow",
+            "title": "Giorgio Armani Luminous Silk Foundation, Perfect Natural Glow, Shade 5.95, 30ml/1oz : Beauty & Personal Care",
+            "price": "$109.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51oMVQiDO9L.jpg",
+            "url": "https://www.amazon.com/dp/B0GKHLTDWM?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FKR45ZSN",
+            "slug": "remedy-for-dark-spots-advanced-discoloration-correcting-seru",
+            "title": "REMEDY for Dark Spots, Advanced Discoloration Correcting Serum with Retinol | Kojic Acid, Tranexamic Acid, Niacinamide,",
+            "price": "$34.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/719jVvH8v4L.jpg",
+            "url": "https://www.amazon.com/dp/B0FKR45ZSN?tag=noya0b-20"
+          }
+        ],
+        "Luxury Beauty": [
+          {
+            "asin": "B0GGM189NR",
+            "slug": "the-lip-bar-lip-gloss-quiet-luxury-sheer-dusty-mauve-beauty",
+            "title": "The Lip Bar - Lip Gloss Quiet Luxury (SHEER DUSTY MAUVE) : Beauty & Personal Care",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61lNOcRBTFL.jpg",
+            "url": "https://www.amazon.com/dp/B0GGM189NR?tag=noya0b-20"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B086KY66PH",
+            "slug": "hanes-mens-cotton-moisture-wicking-crew-tee-undershirts-mult",
+            "title": "Hanes Mens Cotton, Moisture-wicking Crew Tee Undershirts, Multi-packs, Black/Grey/Blue Assorted - 6 Pack, Large US : Clo",
+            "price": "$21.58",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61jovhryNTL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B086KY66PH?tag=noya0b-20"
+          },
           {
             "asin": "B0G27QR496",
             "slug": "all-are-in-stock-grab-yours-before-they-sell-out-again",
@@ -39,30 +97,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B072M77MZD?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F6LNPQJW",
-            "slug": "leafigure-2-pack-womens-biker-shorts-with-pockets-6-blackkha",
-            "title": "Leafigure 2 Pack Womens Biker Shorts with Pockets 6\" Black/Khaki XXL | High Waisted, Tummy Control, Running, Gym, Workou",
-            "price": "$12.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wjqLpNgvL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F6LNPQJW?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FKR45ZSN",
-            "slug": "remedy-for-dark-spots-advanced-discoloration-correcting-seru",
-            "title": "REMEDY for Dark Spots, Advanced Discoloration Correcting Serum with Retinol | Kojic Acid, Tranexamic Acid, Niacinamide,",
-            "price": "$34.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/719jVvH8v4L.jpg",
-            "url": "https://www.amazon.com/dp/B0FKR45ZSN?tag=noya0b-20"
           }
         ],
         "Smart Home": [
@@ -101,46 +135,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61SPi8adgvL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0D8KTB24M?tag=noya0b-20"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B0DG2W9JHV",
-            "slug": "6pcs-grooming-bath-supplies-for-dogs-cats-dog-washing-gloves",
-            "title": "6PCS Grooming & Bath Supplies for Dogs, Cats | Dog Washing Gloves | Dog Bath Brush | Dog Shower Brush | Pet Grooming Glo",
-            "price": "$9.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81am2ltPa+L.jpg",
-            "url": "https://www.amazon.com/dp/B0DG2W9JHV?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BHNRDDDC",
-            "slug": "pet-supplies-veken-cat-water-fountain-filters-8-pack-replace",
-            "title": "Pet Supplies : Veken Cat Water Fountain Filters, 8 Pack Replacement Filters | and 8 Pack Replacement Pre-Filter Sponges",
-            "price": "$16.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81zGTJJIqEL.jpg",
-            "url": "https://www.amazon.com/dp/B0BHNRDDDC?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0CL8QP1GN",
-            "slug": "hoselink-classic-beige-82ft-hi-flow-automatic-retractable-ga",
-            "title": "HOSELINK Classic Beige 82ft Hi-Flow Automatic Retractable Garden Hose Reel, 9/16”, 8-Pattern Spray Nozzle, UV-Stabilized",
-            "price": "$259.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71gX1w6I4yL.jpg",
-            "url": "https://www.amazon.com/dp/B0CL8QP1GN?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07KRS9JG1",
+          "slug": "aussie-miracle-moist-with-avocado-jojoba-oil-paraben-free-co",
+          "title": "Aussie Miracle Moist with Avocado & Jojoba Oil, Paraben Free Conditioner, 26.2 fl oz : Beauty & Personal Care",
+          "price": "$7.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Xw4iz-iUL.jpg",
+          "url": "https://www.amazon.com/dp/B07KRS9JG1?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GKHLTDWM",
+          "slug": "giorgio-armani-luminous-silk-foundation-perfect-natural-glow",
+          "title": "Giorgio Armani Luminous Silk Foundation, Perfect Natural Glow, Shade 5.95, 30ml/1oz : Beauty & Personal Care",
+          "price": "$109.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51oMVQiDO9L.jpg",
+          "url": "https://www.amazon.com/dp/B0GKHLTDWM?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GGM189NR",
+          "slug": "the-lip-bar-lip-gloss-quiet-luxury-sheer-dusty-mauve-beauty",
+          "title": "The Lip Bar - Lip Gloss Quiet Luxury (SHEER DUSTY MAUVE) : Beauty & Personal Care",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61lNOcRBTFL.jpg",
+          "url": "https://www.amazon.com/dp/B0GGM189NR?tag=noya0b-20"
+        },
+        {
+          "asin": "B086KY66PH",
+          "slug": "hanes-mens-cotton-moisture-wicking-crew-tee-undershirts-mult",
+          "title": "Hanes Mens Cotton, Moisture-wicking Crew Tee Undershirts, Multi-packs, Black/Grey/Blue Assorted - 6 Pack, Large US : Clo",
+          "price": "$21.58",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61jovhryNTL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B086KY66PH?tag=noya0b-20"
+        },
         {
           "asin": "B0G27QR496",
           "slug": "all-are-in-stock-grab-yours-before-they-sell-out-again",
@@ -206,60 +247,16 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61SPi8adgvL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0D8KTB24M?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F6LNPQJW",
-          "slug": "leafigure-2-pack-womens-biker-shorts-with-pockets-6-blackkha",
-          "title": "Leafigure 2 Pack Womens Biker Shorts with Pockets 6\" Black/Khaki XXL | High Waisted, Tummy Control, Running, Gym, Workou",
-          "price": "$12.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71wjqLpNgvL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F6LNPQJW?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DG2W9JHV",
-          "slug": "6pcs-grooming-bath-supplies-for-dogs-cats-dog-washing-gloves",
-          "title": "6PCS Grooming & Bath Supplies for Dogs, Cats | Dog Washing Gloves | Dog Bath Brush | Dog Shower Brush | Pet Grooming Glo",
-          "price": "$9.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81am2ltPa+L.jpg",
-          "url": "https://www.amazon.com/dp/B0DG2W9JHV?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BHNRDDDC",
-          "slug": "pet-supplies-veken-cat-water-fountain-filters-8-pack-replace",
-          "title": "Pet Supplies : Veken Cat Water Fountain Filters, 8 Pack Replacement Filters | and 8 Pack Replacement Pre-Filter Sponges",
-          "price": "$16.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81zGTJJIqEL.jpg",
-          "url": "https://www.amazon.com/dp/B0BHNRDDDC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CL8QP1GN",
-          "slug": "hoselink-classic-beige-82ft-hi-flow-automatic-retractable-ga",
-          "title": "HOSELINK Classic Beige 82ft Hi-Flow Automatic Retractable Garden Hose Reel, 9/16”, 8-Pattern Spray Nozzle, UV-Stabilized",
-          "price": "$259.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71gX1w6I4yL.jpg",
-          "url": "https://www.amazon.com/dp/B0CL8QP1GN?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"All are in stock! Grab yours before they sell out again...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Pet Supplies and are updated daily."
+          "a": "The best deals today include \"Aussie Miracle Moist with Avocado & Jojoba Oil, Paraben Free...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T10:50:02.071Z",
-      "updatedAt": "2026-08-02T10:50:02.071Z"
+      "generatedAt": "2026-08-02T11:00:01.811Z",
+      "updatedAt": "2026-08-02T11:00:01.811Z"
     },
     {
       "date": "2026-08-01",
@@ -14957,5 +14954,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T10:50:02.084Z"
+  "generatedAt": "2026-08-02T11:00:01.824Z"
 }
