@@ -10,6 +10,7 @@
         "Beauty",
         "Electronics",
         "Home & Kitchen",
+        "Luxury Beauty",
         "Health"
       ],
       "byCategory": {
@@ -26,6 +27,43 @@
             "url": "https://www.amazon.com/dp/B0GQYMG23Z?th=1&tag=noya0b-20"
           }
         ],
+        "Luxury Beauty": [
+          {
+            "asin": "B01BZV7MG2",
+            "slug": "luxury-skin-care-sample-box-beauty-personal-care",
+            "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
+            "price": "$13.29",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
+            "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FXGDP8B6",
+            "slug": "peripera-bundle-freckle-pen-02-tan-brown-syrupy-tok-cheek-01",
+            "title": "Peripera [Bundle] Freckle Pen 02 TAN BROWN + SYRUPY TOK CHEEK 01 LIGHT PEACH : Beauty & Personal Care",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51eNr6rTj0L.jpg",
+            "url": "https://www.amazon.com/dp/B0FXGDP8B6?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GSDN8JLJ",
+            "slug": "sheglam-air-plush-lip-cheek-cream-long-lasting-multi-use-liq",
+            "title": "SHEGLAM Air Plush Lip & Cheek Cream Long-lasting Multi-Use Liquid Blush & Lip Stain-025 High Winds : Beauty & Personal C",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61anuGJA5pL.jpg",
+            "url": "https://www.amazon.com/dp/B0GSDN8JLJ?th=1&tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B0C2WJHQLT",
@@ -37,30 +75,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
             "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0GSDN8JLJ",
-            "slug": "sheglam-air-plush-lip-cheek-cream-long-lasting-multi-use-liq",
-            "title": "SHEGLAM Air Plush Lip & Cheek Cream Long-lasting Multi-Use Liquid Blush & Lip Stain-025 High Winds : Beauty & Personal C",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61anuGJA5pL.jpg",
-            "url": "https://www.amazon.com/dp/B0GSDN8JLJ?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0F6H4MRVZ",
-            "slug": "every-man-jack-game-of-thrones-body-wash-gift-set-for-men-bo",
-            "title": "Every Man Jack Game of Thrones Body Wash Gift Set for Men, Boxed Set of 4 | Scents inspired by Westeros, Naturally Deriv",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81OO-FyD-XL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F6H4MRVZ?th=1&tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -120,17 +134,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GHN5GGSX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b4581a1c6dcb39f08e31db455d08b6ae&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08D2968XC",
-            "slug": "sharper-image-24ghz-rc-glow-up-stunt-drone-with-led-lights-m",
-            "title": "\udecd️SHARPER IMAGE 2.4GHz RC Glow Up Stunt Drone with LED Lights, Mini Remote Controlled Quadcopter with Assisted Landing, ",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81aSubmQ2DL.jpg",
-            "url": "https://www.amazon.com/dp/B08D2968XC?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c13b2df8a494d0d5416d6985fc52644a&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -145,6 +148,28 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81cdeLTOBdL.jpg",
           "url": "https://www.amazon.com/dp/B0GQYMG23Z?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B01BZV7MG2",
+          "slug": "luxury-skin-care-sample-box-beauty-personal-care",
+          "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
+          "price": "$13.29",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
+          "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FXGDP8B6",
+          "slug": "peripera-bundle-freckle-pen-02-tan-brown-syrupy-tok-cheek-01",
+          "title": "Peripera [Bundle] Freckle Pen 02 TAN BROWN + SYRUPY TOK CHEEK 01 LIGHT PEACH : Beauty & Personal Care",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51eNr6rTj0L.jpg",
+          "url": "https://www.amazon.com/dp/B0FXGDP8B6?tag=noya0b-20"
         },
         {
           "asin": "B0C2WJHQLT",
@@ -222,28 +247,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GHN5GGSX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b4581a1c6dcb39f08e31db455d08b6ae&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F6H4MRVZ",
-          "slug": "every-man-jack-game-of-thrones-body-wash-gift-set-for-men-bo",
-          "title": "Every Man Jack Game of Thrones Body Wash Gift Set for Men, Boxed Set of 4 | Scents inspired by Westeros, Naturally Deriv",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81OO-FyD-XL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F6H4MRVZ?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B08D2968XC",
-          "slug": "sharper-image-24ghz-rc-glow-up-stunt-drone-with-led-lights-m",
-          "title": "\udecd️SHARPER IMAGE 2.4GHz RC Glow Up Stunt Drone with LED Lights, Mini Remote Controlled Quadcopter with Assisted Landing, ",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81aSubmQ2DL.jpg",
-          "url": "https://www.amazon.com/dp/B08D2968XC?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c13b2df8a494d0d5416d6985fc52644a&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T21:20:01.808Z",
-      "updatedAt": "2026-08-02T21:20:01.808Z"
+      "generatedAt": "2026-08-02T21:30:00.647Z",
+      "updatedAt": "2026-08-02T21:30:00.648Z"
     },
     {
       "date": "2026-08-01",
@@ -14951,5 +14954,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T21:20:01.821Z"
+  "generatedAt": "2026-08-02T21:30:00.661Z"
 }
