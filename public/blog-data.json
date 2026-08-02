@@ -10,10 +10,47 @@
         "Grocery & Food",
         "Luxury Beauty",
         "Fashion",
-        "Grocery"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B071FT2J6B",
+            "slug": "hanes-mens-hoodie-ecosmart-fleece-full-zip-zip-up-hooded-swe",
+            "title": "Hanes Mens Hoodie, Ecosmart Fleece Full-zip Zip-up Hooded Sweatshirt For, Ash, X-Large US at Amazon Men’s Clothing store",
+            "price": "$10.96",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B071FT2J6B?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0G63XV7V7",
+            "slug": "silver-magnetic-hooks-20lb-strong-neodymium-magnetic-hooks-f",
+            "title": "Silver Magnetic Hooks, 20LB Strong Neodymium Magnetic Hooks for Cruise, Grill, Towel, Indoor Hanging, Kitchen, Workplace",
+            "price": "$3.25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vtVgJBwIL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G63XV7V7?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
+          {
+            "asin": "B00JUM3Y16",
+            "slug": "hanes-mens-pullover-ecosmart-hooded-sweatshirt-deep-forest-x",
+            "title": "Hanes Men's Pullover EcoSmart Hooded Sweatshirt, Deep Forest, X-Large at Amazon Men’s Clothing store",
+            "price": "$9.68",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ouIolDR-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00JUM3Y16?tag=noya0b-20"
+          },
           {
             "asin": "0060256656",
             "slug": "the-giving-tree-9780060256654-shel-silverstein-books",
@@ -70,17 +107,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/610SeC7O10L.jpg",
             "url": "https://www.amazon.com/dp/B0BQDQN9Z4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0BYPGPGLH",
-            "slug": "amazon-grocery-purified-water-plastic-bottles-10-fl-oz-pack",
-            "title": "Amazon Grocery, Purified Water, Plastic Bottles, 10 Fl Oz, Pack 24",
-            "price": "$4.12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71N4g8F7fxL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BYPGPGLH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Luxury Beauty": [
@@ -106,35 +132,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61thTKVDztL.jpg",
             "url": "https://www.amazon.com/dp/B0GY14XSSW?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CSN8Z5GR",
-            "slug": "ny-threads-quick-dry-knit-mens-athletic-shorts-loose-fit-run",
-            "title": "NY Threads Quick Dry Knit Men's Athletic Shorts Loose-Fit Running Gym Shorts for Men, Large, Black/Dark Grey at Amazon M",
-            "price": "$12.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81YZoqzOyaL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CSN8Z5GR?tag=noya0b-20"
-          }
-        ],
-        "Grocery": [
-          {
-            "asin": "B000R4JJ9M",
-            "slug": "halls-cough-throat-relief-honey-lemon-cough-drops-30-ct-no-s",
-            "title": "HALLS Cough & Throat Relief Honey Lemon Cough Drops, 30 ct | No Synthetic Dyes",
-            "price": "$3.67",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery",
-            "imageUrl": "https://m.media-amazon.com/images/I/716IfLswmVL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B000R4JJ9M?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B071FT2J6B",
+          "slug": "hanes-mens-hoodie-ecosmart-fleece-full-zip-zip-up-hooded-swe",
+          "title": "Hanes Mens Hoodie, Ecosmart Fleece Full-zip Zip-up Hooded Sweatshirt For, Ash, X-Large US at Amazon Men’s Clothing store",
+          "price": "$10.96",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B071FT2J6B?tag=noya0b-20"
+        },
+        {
+          "asin": "B0G63XV7V7",
+          "slug": "silver-magnetic-hooks-20lb-strong-neodymium-magnetic-hooks-f",
+          "title": "Silver Magnetic Hooks, 20LB Strong Neodymium Magnetic Hooks for Cruise, Grill, Towel, Indoor Hanging, Kitchen, Workplace",
+          "price": "$3.25",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vtVgJBwIL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G63XV7V7?tag=noya0b-20"
+        },
+        {
+          "asin": "B00JUM3Y16",
+          "slug": "hanes-mens-pullover-ecosmart-hooded-sweatshirt-deep-forest-x",
+          "title": "Hanes Men's Pullover EcoSmart Hooded Sweatshirt, Deep Forest, X-Large at Amazon Men’s Clothing store",
+          "price": "$9.68",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ouIolDR-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00JUM3Y16?tag=noya0b-20"
+        },
         {
           "asin": "0060256656",
           "slug": "the-giving-tree-9780060256654-shel-silverstein-books",
@@ -211,45 +244,12 @@
           "category": "Luxury Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61thTKVDztL.jpg",
           "url": "https://www.amazon.com/dp/B0GY14XSSW?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BYPGPGLH",
-          "slug": "amazon-grocery-purified-water-plastic-bottles-10-fl-oz-pack",
-          "title": "Amazon Grocery, Purified Water, Plastic Bottles, 10 Fl Oz, Pack 24",
-          "price": "$4.12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71N4g8F7fxL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BYPGPGLH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CSN8Z5GR",
-          "slug": "ny-threads-quick-dry-knit-mens-athletic-shorts-loose-fit-run",
-          "title": "NY Threads Quick Dry Knit Men's Athletic Shorts Loose-Fit Running Gym Shorts for Men, Large, Black/Dark Grey at Amazon M",
-          "price": "$12.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81YZoqzOyaL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CSN8Z5GR?tag=noya0b-20"
-        },
-        {
-          "asin": "B000R4JJ9M",
-          "slug": "halls-cough-throat-relief-honey-lemon-cough-drops-30-ct-no-s",
-          "title": "HALLS Cough & Throat Relief Honey Lemon Cough Drops, 30 ct | No Synthetic Dyes",
-          "price": "$3.67",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery",
-          "imageUrl": "https://m.media-amazon.com/images/I/716IfLswmVL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B000R4JJ9M?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"The Giving Tree: 9780060256654: Shel Silverstein: Books...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Luxury Beauty and are updated daily."
+          "a": "The best deals today include \"Hanes Mens Hoodie, Ecosmart Fleece Full-zip Zip-up Hooded Sw...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Luxury Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T05:30:01.423Z",
-      "updatedAt": "2026-08-02T05:30:01.423Z"
+      "generatedAt": "2026-08-02T05:40:02.013Z",
+      "updatedAt": "2026-08-02T05:40:02.013Z"
     },
     {
       "date": "2026-08-01",
@@ -14951,5 +14951,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T05:30:01.436Z"
+  "generatedAt": "2026-08-02T05:40:02.027Z"
 }
