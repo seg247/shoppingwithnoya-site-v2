@@ -4,18 +4,81 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Other, Electronics, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Fashion, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Fashion",
         "Other",
-        "Electronics",
+        "Beauty",
+        "Home & Kitchen",
+        "Health",
         "Garden & Outdoor",
         "Toys & Kids",
-        "Fashion",
-        "Grocery",
-        "Smart Home",
-        "Home & Kitchen"
+        "Grocery"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "0316599875",
+            "slug": "the-country-road-murders-a-thriller-9780316599870-patterson",
+            "title": "The Country Road Murders: A Thriller: 9780316599870: Patterson, James, Lupica, Mike: Books",
+            "price": "$16.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/711RAXysr1L.jpg",
+            "url": "https://www.amazon.com/dp/0316599875?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B00YEYKK8U",
+            "slug": "oxo-brew-9-cup-drip-coffee-maker-programmable-machine-stainl",
+            "title": "OXO Brew 9-Cup Drip Coffee Maker – Programmable Machine, Stainless Steel | Stainless Steel, Single Serve Or Full Carafe ",
+            "price": "$45.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00YEYKK8U?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0H6J8LFVY",
+            "slug": "uaijmubn-cargo-pants-for-women-baggy-cargo-pant-tactical-ela",
+            "title": "UAIJMUBN Cargo Pants for Women Baggy Cargo Pant Tactical Elastic High Waisted Stretchy Sweatpants Work Hiking Pant with",
+            "price": "$7.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51+9Cia9ooL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0H6J8LFVY?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GDW8K7SR",
+            "slug": "eymuse-womens-tank-tops-v-neck-basic-solid-color-tees-trendy",
+            "title": "EyMuse Womens Tank Tops V Neck Basic Solid Color Tees Trendy Casual Flowy Summer Sleeveless Outfits Fashion Clothing,Lig",
+            "price": "$11.04",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71J8fEMX55L._AC_SL1450_.jpg",
+            "url": "https://www.amazon.com/dp/B0GDW8K7SR?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B09MFMCTRK",
+            "slug": "valitic-kojic-acid-dark-spot-remover-soap-bars-with-vitamin",
+            "title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Retinol, Collagen, Turmeric - Original Japanese Complex I",
+            "price": "$15.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71FF60ZljPL.jpg",
+            "url": "https://www.amazon.com/dp/B09MFMCTRK?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0DKG7D5RB",
@@ -66,19 +129,6 @@
             "url": "https://www.amazon.com/dp/B0FG9GSJPD/ref=cm_sw_r_as_gl_apa_gl_i_BXWX67Y6H15WWFVHE8N6?linkCode=ml1&tag=noya0b-20&linkId=9ab18f048f8cd2ccbd7b4b1967419cfe&gaOptInStatus=true"
           }
         ],
-        "Fashion": [
-          {
-            "asin": "B0GDW8K7SR",
-            "slug": "eymuse-womens-tank-tops-v-neck-basic-solid-color-tees-trendy",
-            "title": "EyMuse Womens Tank Tops V Neck Basic Solid Color Tees Trendy Casual Flowy Summer Sleeveless Outfits Fashion Clothing,Lig",
-            "price": "$11.04",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71J8fEMX55L._AC_SL1450_.jpg",
-            "url": "https://www.amazon.com/dp/B0GDW8K7SR?tag=noya0b-20"
-          }
-        ],
         "Grocery": [
           {
             "asin": "B0D8KRFZSD",
@@ -91,59 +141,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61SPi8adgvL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0D8KRFZSD?tag=noya0b-20"
           }
-        ],
-        "Smart Home": [
-          {
-            "asin": "B09SVH12ZG",
-            "slug": "lockstar-smart-door-lock-keyless-entry-deadbolt-door-lock-mu",
-            "title": "LOCKSTAR® Smart Door Lock • Keyless Entry Deadbolt Door Lock • Multiple Entry Methods – APP • Fingerprint Touch ID • Key",
-            "price": "$139.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Smart Home",
-            "imageUrl": "https://m.media-amazon.com/images/I/81FvhZInCaL.jpg",
-            "url": "https://www.amazon.com/dp/B09SVH12ZG?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B004YAVF8I",
-            "slug": "logitech-m185-compact-ambidextrous-24-ghz-wireless-mouse-swi",
-            "title": "Logitech M185 Compact Ambidextrous 2.4 GHz Wireless Mouse - Swift Grey | Ambidextrous mouse with 2.4 GHz USB-A Nano Rece",
-            "price": "$12.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51WN5aXZWIL.jpg",
-            "url": "https://www.amazon.com/dp/B004YAVF8I?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BVM1PSYN",
-            "slug": "amazon-basics-bluetooth-on-ear-headphones-wireless-with-micr",
-            "title": "Amazon Basics Bluetooth On-Ear Headphones Wireless with Microphone, Deep Bass, 35 Hour Playtime, Foldable, Collapsible,",
-            "price": "$25.57",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/712wyKsNmML.jpg",
-            "url": "https://www.amazon.com/dp/B0BVM1PSYN?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FNT5M8VS",
-            "slug": "cuisinart-dual-basket-air-fryer-two-baskets-totals-11-qt-4-f",
-            "title": "Cuisinart Dual Basket Air Fryer, Two Baskets Totals 11 QT, 4 Function Air Fryer to Air Fry, Roast, Bake & Keep Warm, Fea",
-            "price": "$119.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FNT5M8VS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "0316599875",
+          "slug": "the-country-road-murders-a-thriller-9780316599870-patterson",
+          "title": "The Country Road Murders: A Thriller: 9780316599870: Patterson, James, Lupica, Mike: Books",
+          "price": "$16.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/711RAXysr1L.jpg",
+          "url": "https://www.amazon.com/dp/0316599875?tag=noya0b-20"
+        },
+        {
+          "asin": "B00YEYKK8U",
+          "slug": "oxo-brew-9-cup-drip-coffee-maker-programmable-machine-stainl",
+          "title": "OXO Brew 9-Cup Drip Coffee Maker – Programmable Machine, Stainless Steel | Stainless Steel, Single Serve Or Full Carafe ",
+          "price": "$45.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00YEYKK8U?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0H6J8LFVY",
+          "slug": "uaijmubn-cargo-pants-for-women-baggy-cargo-pant-tactical-ela",
+          "title": "UAIJMUBN Cargo Pants for Women Baggy Cargo Pant Tactical Elastic High Waisted Stretchy Sweatpants Work Hiking Pant with",
+          "price": "$7.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51+9Cia9ooL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0H6J8LFVY?tag=noya0b-20"
+        },
+        {
+          "asin": "B09MFMCTRK",
+          "slug": "valitic-kojic-acid-dark-spot-remover-soap-bars-with-vitamin",
+          "title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars with Vitamin C, Retinol, Collagen, Turmeric - Original Japanese Complex I",
+          "price": "$15.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71FF60ZljPL.jpg",
+          "url": "https://www.amazon.com/dp/B09MFMCTRK?tag=noya0b-20"
+        },
         {
           "asin": "B0DKG7D5RB",
           "slug": "thrustmaster-t598-direct-drive-racing-wheel-pedal-set-ps5-pc",
@@ -209,60 +253,16 @@
           "category": "Grocery",
           "imageUrl": "https://m.media-amazon.com/images/I/61SPi8adgvL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0D8KRFZSD?tag=noya0b-20"
-        },
-        {
-          "asin": "B09SVH12ZG",
-          "slug": "lockstar-smart-door-lock-keyless-entry-deadbolt-door-lock-mu",
-          "title": "LOCKSTAR® Smart Door Lock • Keyless Entry Deadbolt Door Lock • Multiple Entry Methods – APP • Fingerprint Touch ID • Key",
-          "price": "$139.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Smart Home",
-          "imageUrl": "https://m.media-amazon.com/images/I/81FvhZInCaL.jpg",
-          "url": "https://www.amazon.com/dp/B09SVH12ZG?tag=noya0b-20"
-        },
-        {
-          "asin": "B004YAVF8I",
-          "slug": "logitech-m185-compact-ambidextrous-24-ghz-wireless-mouse-swi",
-          "title": "Logitech M185 Compact Ambidextrous 2.4 GHz Wireless Mouse - Swift Grey | Ambidextrous mouse with 2.4 GHz USB-A Nano Rece",
-          "price": "$12.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51WN5aXZWIL.jpg",
-          "url": "https://www.amazon.com/dp/B004YAVF8I?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BVM1PSYN",
-          "slug": "amazon-basics-bluetooth-on-ear-headphones-wireless-with-micr",
-          "title": "Amazon Basics Bluetooth On-Ear Headphones Wireless with Microphone, Deep Bass, 35 Hour Playtime, Foldable, Collapsible,",
-          "price": "$25.57",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/712wyKsNmML.jpg",
-          "url": "https://www.amazon.com/dp/B0BVM1PSYN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FNT5M8VS",
-          "slug": "cuisinart-dual-basket-air-fryer-two-baskets-totals-11-qt-4-f",
-          "title": "Cuisinart Dual Basket Air Fryer, Two Baskets Totals 11 QT, 4 Function Air Fryer to Air Fry, Roast, Bake & Keep Warm, Fea",
-          "price": "$119.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FNT5M8VS?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Thrustmaster T598 Direct Drive Racing Wheel & Pedal Set - PS...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"The Country Road Murders: A Thriller: 9780316599870: Patters...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T07:10:01.891Z",
-      "updatedAt": "2026-08-02T07:10:01.891Z"
+      "generatedAt": "2026-08-02T07:20:01.456Z",
+      "updatedAt": "2026-08-02T07:20:01.456Z"
     },
     {
       "date": "2026-08-01",
@@ -14960,5 +14960,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T07:10:01.904Z"
+  "generatedAt": "2026-08-02T07:20:01.469Z"
 }
