@@ -4,15 +4,56 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Beauty, Grocery & Food, Luxury Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Beauty, Women's Fashion, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
-        "Grocery & Food",
-        "Luxury Beauty",
+        "Women's Fashion",
+        "Other",
+        "Garden & Outdoor",
         "Fashion",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Women's Fashion": [
+          {
+            "asin": "B0FNC6G5VG",
+            "slug": "womens-blouses-dressy-casual-short-sleeve-shirts-spring-busi",
+            "title": "Womens Blouses Dressy Casual Short Sleeve Shirts Spring Business Work Floral Summer Tops Plus Size Fashion Clothing V Ne",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Women's Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81b-g15z3qL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FNC6G5VG?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0GMQ28S1Z",
+            "slug": "vevor-sand-filter-pump-12-13-hp-3000-gph-swimming-pool-filtr",
+            "title": "VEVOR Sand Filter Pump 12\" 1/3 HP 3000 GPH Swimming Pool Filtration System | for Above Ground Pools Up to 15000 Gallons,",
+            "price": "$109.90",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71tUXr3cc7L.jpg",
+            "url": "https://www.amazon.com/dp/B0GMQ28S1Z?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0FP241BT3",
+            "slug": "11-pack-cleaning-brush-set-for-kitchen-and-bathroom-gap-crev",
+            "title": "11 Pack Cleaning Brush Set for Kitchen and Bathroom Gap Crevice Stove Sink Window Track Household Cleaning Tools : Patio",
+            "price": "$3.12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/613GJtGGKNL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FP241BT3?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B071FT2J6B",
@@ -96,45 +137,43 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71+Q6DV5jeL.jpg",
             "url": "https://www.amazon.com/dp/B07W2VL1QJ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0BQDQN9Z4",
-            "slug": "amazon-grocery-garlic-salt-with-parsley-64-oz",
-            "title": "Amazon Grocery, Garlic Salt with Parsley, 6.4 Oz",
-            "price": "$1.27",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/610SeC7O10L.jpg",
-            "url": "https://www.amazon.com/dp/B0BQDQN9Z4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Luxury Beauty": [
-          {
-            "asin": "B00W5D1MDE",
-            "slug": "clorox-toilet-bowl-cleaner-clinging-bleach-gel-kills-999-of",
-            "title": "Clorox Toilet Bowl Cleaner Clinging Bleach Gel, Kills 99.9% of Bacteria and Viruses, Ocean Mist, 24 Fl Oz, Pack of 2 : E",
-            "price": "$5.24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Luxury Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Y1z35NXZL.jpg",
-            "url": "https://www.amazon.com/dp/B00W5D1MDE?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GY14XSSW",
-            "slug": "celimax-poreskin-clarifying-daily-sunscreen-169-floz-no-whit",
-            "title": "celimax Pore+Skin Clarifying Daily Sunscreen, 1.69 fl.oz | No White Cast, Sunscreen with TXA & Niacinamide, SPF50, Non-S",
-            "price": "$21.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Luxury Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61thTKVDztL.jpg",
-            "url": "https://www.amazon.com/dp/B0GY14XSSW?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FNC6G5VG",
+          "slug": "womens-blouses-dressy-casual-short-sleeve-shirts-spring-busi",
+          "title": "Womens Blouses Dressy Casual Short Sleeve Shirts Spring Business Work Floral Summer Tops Plus Size Fashion Clothing V Ne",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Women's Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81b-g15z3qL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FNC6G5VG?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GMQ28S1Z",
+          "slug": "vevor-sand-filter-pump-12-13-hp-3000-gph-swimming-pool-filtr",
+          "title": "VEVOR Sand Filter Pump 12\" 1/3 HP 3000 GPH Swimming Pool Filtration System | for Above Ground Pools Up to 15000 Gallons,",
+          "price": "$109.90",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71tUXr3cc7L.jpg",
+          "url": "https://www.amazon.com/dp/B0GMQ28S1Z?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FP241BT3",
+          "slug": "11-pack-cleaning-brush-set-for-kitchen-and-bathroom-gap-crev",
+          "title": "11 Pack Cleaning Brush Set for Kitchen and Bathroom Gap Crevice Stove Sink Window Track Household Cleaning Tools : Patio",
+          "price": "$3.12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/613GJtGGKNL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FP241BT3?tag=noya0b-20"
+        },
         {
           "asin": "B071FT2J6B",
           "slug": "hanes-mens-hoodie-ecosmart-fleece-full-zip-zip-up-hooded-swe",
@@ -211,45 +250,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61T655NRniL.jpg",
           "url": "https://www.amazon.com/dp/B0G1VBDXYF?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BQDQN9Z4",
-          "slug": "amazon-grocery-garlic-salt-with-parsley-64-oz",
-          "title": "Amazon Grocery, Garlic Salt with Parsley, 6.4 Oz",
-          "price": "$1.27",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/610SeC7O10L.jpg",
-          "url": "https://www.amazon.com/dp/B0BQDQN9Z4?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B00W5D1MDE",
-          "slug": "clorox-toilet-bowl-cleaner-clinging-bleach-gel-kills-999-of",
-          "title": "Clorox Toilet Bowl Cleaner Clinging Bleach Gel, Kills 99.9% of Bacteria and Viruses, Ocean Mist, 24 Fl Oz, Pack of 2 : E",
-          "price": "$5.24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Luxury Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Y1z35NXZL.jpg",
-          "url": "https://www.amazon.com/dp/B00W5D1MDE?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GY14XSSW",
-          "slug": "celimax-poreskin-clarifying-daily-sunscreen-169-floz-no-whit",
-          "title": "celimax Pore+Skin Clarifying Daily Sunscreen, 1.69 fl.oz | No White Cast, Sunscreen with TXA & Niacinamide, SPF50, Non-S",
-          "price": "$21.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Luxury Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61thTKVDztL.jpg",
-          "url": "https://www.amazon.com/dp/B0GY14XSSW?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Hanes Mens Hoodie, Ecosmart Fleece Full-zip Zip-up Hooded Sw...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Luxury Beauty and are updated daily."
+          "a": "The best deals today include \"Womens Blouses Dressy Casual Short Sleeve Shirts Spring Busi...\" and 9 other hand-picked discounts. Deals span Beauty, Women's Fashion, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T05:40:02.013Z",
-      "updatedAt": "2026-08-02T05:40:02.013Z"
+      "generatedAt": "2026-08-02T05:50:01.542Z",
+      "updatedAt": "2026-08-02T05:50:01.542Z"
     },
     {
       "date": "2026-08-01",
@@ -14951,5 +14957,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T05:40:02.027Z"
+  "generatedAt": "2026-08-02T05:50:01.555Z"
 }
