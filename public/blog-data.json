@@ -9,13 +9,23 @@
         "Beauty",
         "Grocery & Food",
         "Electronics",
+        "Luxury Beauty",
         "Home & Kitchen",
-        "Other",
-        "Automotive",
-        "Garden & Outdoor"
+        "Other"
       ],
       "byCategory": {
         "Beauty": [
+          {
+            "asin": "B0G1VBDXYF",
+            "slug": "luxe-color-changing-foundation-medium-beauty-personal-care",
+            "title": "Luxe Color Changing Foundation – Medium : Beauty & Personal Care",
+            "price": "$29.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61T655NRniL.jpg",
+            "url": "https://www.amazon.com/dp/B0G1VBDXYF?tag=noya0b-20"
+          },
           {
             "asin": "B0C345V4M3",
             "slug": "twist-blue-man-no-10-long-lasting-perfume-for-men-inspired-b",
@@ -37,6 +47,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/518FyPyz+BL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09WTWY3SW?tag=noya0b-20"
+          }
+        ],
+        "Luxury Beauty": [
+          {
+            "asin": "B0C7935G9F",
+            "slug": "houbigant-quelques-fleurs-loriginal-eau-de-parfum-30ml-amazo",
+            "title": "Houbigant, Quelques Fleurs L'Original Eau de Parfum, 30ml : Amazon Luxury",
+            "price": "$105.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51q2DKnzozL.jpg",
+            "url": "https://www.amazon.com/dp/B0C7935G9F?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -112,35 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61DeasIceIL._AC_SL1498_.jpg",
             "url": "https://www.amazon.com/dp/B0168IXO3M?tag=noya0b-20"
           }
-        ],
-        "Automotive": [
-          {
-            "asin": "B0FP26K1L6",
-            "slug": "wiholl-plus-size-tops-for-women-trendy-2026-short-sleeve-shi",
-            "title": "WIHOLL Plus Size Tops for Women Trendy 2026 Short Sleeve Shirts Scoop Neck Women's Clothing Spring Fashion Clothes Loose",
-            "price": "$12.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Automotive",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lFTyrYUzL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FP26K1L6?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B09FPXQGL5",
-            "slug": "vego-garden-raised-garden-bed-kits-1734-tall-9-in-1-8ft-x-2f",
-            "title": "Vego garden Raised Garden Bed Kits, 17&#34; Tall 9 in 1 8ft X 2ft Metal Raised Planter Bed for Vegetables Flowers Ground",
-            "price": "$179.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/81oI8C1cyqL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09FPXQGL5?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G1VBDXYF",
+          "slug": "luxe-color-changing-foundation-medium-beauty-personal-care",
+          "title": "Luxe Color Changing Foundation – Medium : Beauty & Personal Care",
+          "price": "$29.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61T655NRniL.jpg",
+          "url": "https://www.amazon.com/dp/B0G1VBDXYF?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C7935G9F",
+          "slug": "houbigant-quelques-fleurs-loriginal-eau-de-parfum-30ml-amazo",
+          "title": "Houbigant, Quelques Fleurs L'Original Eau de Parfum, 30ml : Amazon Luxury",
+          "price": "$105.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51q2DKnzozL.jpg",
+          "url": "https://www.amazon.com/dp/B0C7935G9F?tag=noya0b-20"
+        },
         {
           "asin": "B0C345V4M3",
           "slug": "twist-blue-man-no-10-long-lasting-perfume-for-men-inspired-b",
@@ -228,34 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61DeasIceIL._AC_SL1498_.jpg",
           "url": "https://www.amazon.com/dp/B0168IXO3M?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FP26K1L6",
-          "slug": "wiholl-plus-size-tops-for-women-trendy-2026-short-sleeve-shi",
-          "title": "WIHOLL Plus Size Tops for Women Trendy 2026 Short Sleeve Shirts Scoop Neck Women's Clothing Spring Fashion Clothes Loose",
-          "price": "$12.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Automotive",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lFTyrYUzL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FP26K1L6?tag=noya0b-20"
-        },
-        {
-          "asin": "B09FPXQGL5",
-          "slug": "vego-garden-raised-garden-bed-kits-1734-tall-9-in-1-8ft-x-2f",
-          "title": "Vego garden Raised Garden Bed Kits, 17&#34; Tall 9 in 1 8ft X 2ft Metal Raised Planter Bed for Vegetables Flowers Ground",
-          "price": "$179.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/81oI8C1cyqL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09FPXQGL5?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Twist Blue Man No. 10 Long Lasting Perfume for Men Inspired ...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Electronics and are updated daily."
+          "a": "The best deals today include \"Luxe Color Changing Foundation – Medium : Beauty & Personal ...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T09:10:01.684Z",
-      "updatedAt": "2026-08-02T09:10:01.684Z"
+      "generatedAt": "2026-08-02T09:20:01.223Z",
+      "updatedAt": "2026-08-02T09:20:01.224Z"
     },
     {
       "date": "2026-08-01",
@@ -14957,5 +14954,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T09:10:01.697Z"
+  "generatedAt": "2026-08-02T09:20:01.236Z"
 }
