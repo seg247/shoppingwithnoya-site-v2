@@ -8,10 +8,46 @@
       "categories": [
         "Beauty",
         "Home & Kitchen",
-        "Other"
+        "Other",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0G59PBJPL",
+            "slug": "dawn-platinum-plus-lemon-scent-dish-spray-16-fl-oz-health-ho",
+            "title": "Dawn, Platinum Plus Lemon Scent Dish Spray, 16 Fl Oz : Health & Household",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71W8qK5bQTL.jpg",
+            "url": "https://www.amazon.com/dp/B0G59PBJPL?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=17048be68a9f320a42045bc3391d1c91&language=en_US"
+          },
+          {
+            "asin": "B000EF1FUK",
+            "slug": "method-all-purpose-cleaner-spray-french-lavender-28-fl-oz-8",
+            "title": "method All-Purpose Cleaner Spray, French Lavender, 28 fl oz, 8 Pack",
+            "price": "$21.20",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B000EF1FUK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0D943RYCX",
+            "slug": "16pcs-pots-and-pans-set-non-stick-cookware-juego-de-ollas-pa",
+            "title": "16PCS Pots and Pans Set Non Stick Cookware JueGo De Ollas Para Cocina | Beautiful Great Value Food Cooks Evenly Cleans E",
+            "price": "$49.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/614wG6B1dUL.jpg",
+            "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
+          },
           {
             "asin": "B075CWJ3T8",
             "slug": "instant-pot-duo-plus-9-in-1-electric-pressure-cooker-slow-co",
@@ -33,17 +69,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71H0mMmpc8L.jpg",
             "url": "https://www.amazon.com/dp/B0DBQCV3QV?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0GD6QRWDL",
-            "slug": "idoo-full-size-air-mattress-with-built-in-pump-inflatable-bl",
-            "title": "iDOO Full Size Air Mattress with Built in Pump, Inflatable Blow up Bed | Built-in pump in Fast Inflation, Strong Support",
-            "price": "$59",
+            "asin": "B0FJDY148S",
+            "slug": "teamfar-enameled-cast-iron-bread-loaf-pan-2-qt-oval-dutch-ov",
+            "title": "TeamFar Enameled Cast Iron Bread Loaf Pan, 2 QT Oval Dutch Oven with Lid | for Sourdough Bread Baking, Enameled Meatloaf",
+            "price": "$29",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jtaPyCBxL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GD6QRWDL?th=1&tag=noya0b-20"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71FPzF-YA5L.jpg",
+            "url": "https://www.amazon.com/dp/B0FJDY148S?th=1&tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -90,45 +128,43 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61-zvoWOgwL.jpg",
             "url": "https://www.amazon.com/dp/B08C9J4ZZV?tag=noya0b-20"
-          },
-          {
-            "asin": "B0175DVMMY",
-            "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
-            "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
-            "price": "$20.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
-            "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B000EF1FUK",
-            "slug": "method-all-purpose-cleaner-spray-french-lavender-28-fl-oz-8",
-            "title": "method All-Purpose Cleaner Spray, French Lavender, 28 fl oz, 8 Pack",
-            "price": "$21.20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B000EF1FUK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B01GFLZ44O",
-            "slug": "scrubbing-bubbles-bathroom-and-shower-cleaner-disinfectant-a",
-            "title": "Scrubbing Bubbles Bathroom and Shower Cleaner Disinfectant Aerosol, Foaming Action Bathroom Grime Fighter, Rainshower Sc",
-            "price": "$3.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01GFLZ44O?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G59PBJPL",
+          "slug": "dawn-platinum-plus-lemon-scent-dish-spray-16-fl-oz-health-ho",
+          "title": "Dawn, Platinum Plus Lemon Scent Dish Spray, 16 Fl Oz : Health & Household",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71W8qK5bQTL.jpg",
+          "url": "https://www.amazon.com/dp/B0G59PBJPL?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=17048be68a9f320a42045bc3391d1c91&language=en_US"
+        },
+        {
+          "asin": "B0D943RYCX",
+          "slug": "16pcs-pots-and-pans-set-non-stick-cookware-juego-de-ollas-pa",
+          "title": "16PCS Pots and Pans Set Non Stick Cookware JueGo De Ollas Para Cocina | Beautiful Great Value Food Cooks Evenly Cleans E",
+          "price": "$49.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/614wG6B1dUL.jpg",
+          "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FJDY148S",
+          "slug": "teamfar-enameled-cast-iron-bread-loaf-pan-2-qt-oval-dutch-ov",
+          "title": "TeamFar Enameled Cast Iron Bread Loaf Pan, 2 QT Oval Dutch Oven with Lid | for Sourdough Bread Baking, Enameled Meatloaf",
+          "price": "$29",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71FPzF-YA5L.jpg",
+          "url": "https://www.amazon.com/dp/B0FJDY148S?th=1&tag=noya0b-20"
+        },
         {
           "asin": "B075CWJ3T8",
           "slug": "instant-pot-duo-plus-9-in-1-electric-pressure-cooker-slow-co",
@@ -205,45 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71H0mMmpc8L.jpg",
           "url": "https://www.amazon.com/dp/B0DBQCV3QV?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0175DVMMY",
-          "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
-          "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
-          "price": "$20.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
-          "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GD6QRWDL",
-          "slug": "idoo-full-size-air-mattress-with-built-in-pump-inflatable-bl",
-          "title": "iDOO Full Size Air Mattress with Built in Pump, Inflatable Blow up Bed | Built-in pump in Fast Inflation, Strong Support",
-          "price": "$59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61jtaPyCBxL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GD6QRWDL?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B01GFLZ44O",
-          "slug": "scrubbing-bubbles-bathroom-and-shower-cleaner-disinfectant-a",
-          "title": "Scrubbing Bubbles Bathroom and Shower Cleaner Disinfectant Aerosol, Foaming Action Bathroom Grime Fighter, Rainshower Sc",
-          "price": "$3.50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01GFLZ44O?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow C...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"Dawn, Platinum Plus Lemon Scent Dish Spray, 16 Fl Oz : Healt...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -262,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T19:20:00.250Z",
-      "updatedAt": "2026-08-02T19:20:00.250Z"
+      "generatedAt": "2026-08-02T19:30:00.939Z",
+      "updatedAt": "2026-08-02T19:30:00.939Z"
     },
     {
       "date": "2026-08-01",
@@ -14945,5 +14948,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T19:20:00.264Z"
+  "generatedAt": "2026-08-02T19:30:00.953Z"
 }
