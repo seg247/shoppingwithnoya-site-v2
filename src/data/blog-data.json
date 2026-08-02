@@ -4,17 +4,44 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Fashion, Home & Kitchen, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Fashion, Home & Kitchen, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Fashion",
         "Home & Kitchen",
+        "Grocery & Food",
+        "Other",
         "Electronics",
         "Baby Care",
         "Garden & Outdoor",
-        "Jewelry",
-        "Kids' Fashion"
+        "Jewelry"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B07W1W8TZV",
+            "slug": "amazon-grocery-paprika-275-oz",
+            "title": "Amazon Grocery, Paprika, 2.75 Oz",
+            "price": "$1.25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61M3owu3MiL.jpg",
+            "url": "https://www.amazon.com/dp/B07W1W8TZV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0FK3921YR",
+            "slug": "thermaltake-toughpower-gt-1000w-atx-31-native-pcie-51-12v-2x",
+            "title": "Thermaltake Toughpower GT 1000W; ATX 3.1; Native PCIe 5.1 12V-2x6; Full Modular; Flat Cables; Color Matched Connectors; ",
+            "price": "$104.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VkTGKn7BL.jpg",
+            "url": "https://www.amazon.com/dp/B0FK3921YR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0G4W949HZ",
@@ -37,17 +64,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/61X4W6XKYLL._AC.jpg",
             "url": "https://www.amazon.com/dp/B0DPHTLDYK?tag=noya0b-20"
-          },
-          {
-            "asin": "B08KYCY7NS",
-            "slug": "dream-pairs-womens-high-top-winter-warm-snow-bootssand5-thic",
-            "title": "DREAM PAIRS Women's High-top Winter Warm Snow Boots,Sand,5 | Thick faux fur lining traps full winter warmth, Grippy TPR",
-            "price": "$53.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81L57A-tUmL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08KYCY7NS?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -125,22 +141,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51KNEdKgFHL._AC_SL1050_.jpg",
             "url": "https://www.amazon.com/dp/B089Y5BDMH?tag=noya0b-20"
           }
-        ],
-        "Kids' Fashion": [
-          {
-            "asin": "0670785938",
-            "slug": "the-body-keeps-the-score-brain-mind-and-body-in-the-healing",
-            "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma: van der Kolk M.D., Bessel: 9780670785933",
-            "price": "$19.25",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Kids' Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51f-lu5FgtL.jpg",
-            "url": "https://www.amazon.com/dp/0670785938?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07W1W8TZV",
+          "slug": "amazon-grocery-paprika-275-oz",
+          "title": "Amazon Grocery, Paprika, 2.75 Oz",
+          "price": "$1.25",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61M3owu3MiL.jpg",
+          "url": "https://www.amazon.com/dp/B07W1W8TZV?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0FK3921YR",
+          "slug": "thermaltake-toughpower-gt-1000w-atx-31-native-pcie-51-12v-2x",
+          "title": "Thermaltake Toughpower GT 1000W; ATX 3.1; Native PCIe 5.1 12V-2x6; Full Modular; Flat Cables; Color Matched Connectors; ",
+          "price": "$104.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VkTGKn7BL.jpg",
+          "url": "https://www.amazon.com/dp/B0FK3921YR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0G4W949HZ",
           "slug": "vintage-dragonfly-floral-zero-wallet-multi-purpose-pet-treat",
@@ -228,34 +253,12 @@
           "category": "Jewelry",
           "imageUrl": "https://m.media-amazon.com/images/I/51KNEdKgFHL._AC_SL1050_.jpg",
           "url": "https://www.amazon.com/dp/B089Y5BDMH?tag=noya0b-20"
-        },
-        {
-          "asin": "B08KYCY7NS",
-          "slug": "dream-pairs-womens-high-top-winter-warm-snow-bootssand5-thic",
-          "title": "DREAM PAIRS Women's High-top Winter Warm Snow Boots,Sand,5 | Thick faux fur lining traps full winter warmth, Grippy TPR",
-          "price": "$53.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81L57A-tUmL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08KYCY7NS?tag=noya0b-20"
-        },
-        {
-          "asin": "0670785938",
-          "slug": "the-body-keeps-the-score-brain-mind-and-body-in-the-healing",
-          "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma: van der Kolk M.D., Bessel: 9780670785933",
-          "price": "$19.25",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Kids' Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51f-lu5FgtL.jpg",
-          "url": "https://www.amazon.com/dp/0670785938?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Vintage Dragonfly & Floral Zero Wallet, Multi-Purpose Pet Tr...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Electronics and are updated daily."
+          "a": "The best deals today include \"Amazon Grocery, Paprika, 2.75 Oz...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T04:50:01.853Z",
-      "updatedAt": "2026-08-02T04:50:01.853Z"
+      "generatedAt": "2026-08-02T05:00:01.274Z",
+      "updatedAt": "2026-08-02T05:00:01.274Z"
     },
     {
       "date": "2026-08-01",
@@ -14957,5 +14960,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T04:50:01.869Z"
+  "generatedAt": "2026-08-02T05:00:01.287Z"
 }
