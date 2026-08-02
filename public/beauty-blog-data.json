@@ -9,9 +9,9 @@
         "Hair Care",
         "Fragrance",
         "Makeup",
+        "Skincare",
         "Beauty",
-        "Body Care",
-        "Skincare"
+        "Body Care"
       ],
       "bySubcat": {
         "Hair Care": [
@@ -130,16 +130,6 @@
             "url": "https://www.amazon.com/dp/B000RI5TCE?th=1&linkCode=sl2&tag=noya0b-20&linkId=972ca5ddd2ad4eae89178c86cb720e79&language=en_US&gaOptInStatus=true"
           },
           {
-            "asin": "B085WQBJ9L",
-            "slug": "wet-n-wild-color-icon-cream-eyeliner-eyeshadow-multi-stick-m",
-            "title": "wet n wild Color Icon Cream Eyeliner Eyeshadow Multi-Stick, Moisturizing, Nourishing Velvety Cream-to-Powder Buildable &",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UIaZf7FuL.jpg",
-            "url": "https://www.amazon.com/dp/B085WQBJ9L?tag=noya0b-20"
-          },
-          {
             "asin": "B0G1VBDXYF",
             "slug": "luxe-color-changing-foundation-medium-beauty-personal-care",
             "title": "Luxe Color Changing Foundation – Medium : Beauty & Personal Care",
@@ -148,6 +138,16 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/61T655NRniL.jpg",
             "url": "https://www.amazon.com/dp/B0G1VBDXYF?tag=noya0b-20"
+          },
+          {
+            "asin": "B085WQBJ9L",
+            "slug": "wet-n-wild-color-icon-cream-eyeliner-eyeshadow-multi-stick-m",
+            "title": "wet n wild Color Icon Cream Eyeliner Eyeshadow Multi-Stick, Moisturizing, Nourishing Velvety Cream-to-Powder Buildable &",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UIaZf7FuL.jpg",
+            "url": "https://www.amazon.com/dp/B085WQBJ9L?tag=noya0b-20"
           },
           {
             "asin": "B0FTT4M7L7",
@@ -190,61 +190,17 @@
             "url": "https://www.amazon.com/dp/B01LW1983J/ref=nosim?tag=noya0b-20&th=1"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B09QXDSQPF",
-            "slug": "cl-de-peau-beaut-lip-glorifier",
-            "title": "Clé de Peau Beauté, Lip Glorifier",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61IpkayP5EL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09QXDSQPF?tag=noya0b-20"
-          },
-          {
-            "asin": "B0D4TSXJWH",
-            "slug": "zeagoo-sleeveless-tank-tops-for-women-summer-square-neck-ple",
-            "title": "Zeagoo Sleeveless Tank Tops for Women Summer Square Neck Pleated Babydoll Flowy Soft Tunic Tank Top at Amazon Women’s Cl",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/8102XA21IAL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D4TSXJWH?tag=noya0b-20"
-          }
-        ],
-        "Body Care": [
-          {
-            "asin": "B00B3OM8ZM",
-            "slug": "mothercare-all-we-know-baby-body-wash-300ml",
-            "title": "Mothercare All We Know Baby Body Wash 300ml",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Fbw20z-HL.jpg",
-            "url": "https://www.amazon.com/dp/B00B3OM8ZM?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F62R84FS",
-            "slug": "mbzoey-electric-foil-shavers-for-men-ipx7-waterproof-magneti",
-            "title": "✨Mbzoey Electric Foil Shavers for Men: IPX7 Waterproof - Magnetic Cover | Mini Razor for Travel - Face Shaver with LED D",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71OhPxgRbxL.jpg",
-            "url": "https://www.amazon.com/dp/B0F62R84FS/ref=nosim?tag=noya0b-20&th=1"
-          },
-          {
-            "asin": "B0FY7F9C29",
-            "slug": "cremo-rich-lathering-italian-bergamot-travel-size-body-wash",
-            "title": "✨Cremo Rich-Lathering Italian Bergamot Travel Size Body Wash Men, Notes of Italian Bergamot, Neroli Blossom, and Fresh V",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61BtLjJQA-L.jpg",
-            "url": "https://www.amazon.com/dp/B0FY7F9C29/ref=nosim?tag=noya0b-20&th=1"
-          }
-        ],
         "Skincare": [
+          {
+            "asin": "B0GY14XSSW",
+            "slug": "celimax-poreskin-clarifying-daily-sunscreen-169-floz-no-whit",
+            "title": "celimax Pore+Skin Clarifying Daily Sunscreen, 1.69 fl.oz | No White Cast, Sunscreen with TXA & Niacinamide, SPF50, Non-S",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/61thTKVDztL.jpg",
+            "url": "https://www.amazon.com/dp/B0GY14XSSW?tag=noya0b-20"
+          },
           {
             "asin": "B09T91MKPT",
             "slug": "dearklairs-skincare-travel-trial-kit-korean-mini-set-for-all",
@@ -314,16 +270,60 @@
             "subcat": "Skincare",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07BKV4B6Q/ref=nosim?tag=noya0b-20&th=1"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B00TLD7MRG",
-            "slug": "clinique-3-step-dramatically-different-moisturizing-hydratin",
-            "title": "Clinique 3-Step Dramatically Different Moisturizing Hydrating Face Cream | Face Moisturizer For Dry Skin Types, 1.7 Fl O",
+            "asin": "B09QXDSQPF",
+            "slug": "cl-de-peau-beaut-lip-glorifier",
+            "title": "Clé de Peau Beauté, Lip Glorifier",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61k5g1soYQL.jpg",
-            "url": "https://www.amazon.com/dp/B00TLD7MRG?psc=1&tag=noya0b-20"
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61IpkayP5EL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09QXDSQPF?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D4TSXJWH",
+            "slug": "zeagoo-sleeveless-tank-tops-for-women-summer-square-neck-ple",
+            "title": "Zeagoo Sleeveless Tank Tops for Women Summer Square Neck Pleated Babydoll Flowy Soft Tunic Tank Top at Amazon Women’s Cl",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/8102XA21IAL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D4TSXJWH?tag=noya0b-20"
+          }
+        ],
+        "Body Care": [
+          {
+            "asin": "B00B3OM8ZM",
+            "slug": "mothercare-all-we-know-baby-body-wash-300ml",
+            "title": "Mothercare All We Know Baby Body Wash 300ml",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51Fbw20z-HL.jpg",
+            "url": "https://www.amazon.com/dp/B00B3OM8ZM?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F62R84FS",
+            "slug": "mbzoey-electric-foil-shavers-for-men-ipx7-waterproof-magneti",
+            "title": "✨Mbzoey Electric Foil Shavers for Men: IPX7 Waterproof - Magnetic Cover | Mini Razor for Travel - Face Shaver with LED D",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71OhPxgRbxL.jpg",
+            "url": "https://www.amazon.com/dp/B0F62R84FS/ref=nosim?tag=noya0b-20&th=1"
+          },
+          {
+            "asin": "B0FY7F9C29",
+            "slug": "cremo-rich-lathering-italian-bergamot-travel-size-body-wash",
+            "title": "✨Cremo Rich-Lathering Italian Bergamot Travel Size Body Wash Men, Notes of Italian Bergamot, Neroli Blossom, and Fresh V",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61BtLjJQA-L.jpg",
+            "url": "https://www.amazon.com/dp/B0FY7F9C29/ref=nosim?tag=noya0b-20&th=1"
           }
         ]
       },
@@ -367,6 +367,26 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61HsIU295AL.jpg",
           "url": "https://www.amazon.com/dp/B000RI5TCE?th=1&linkCode=sl2&tag=noya0b-20&linkId=972ca5ddd2ad4eae89178c86cb720e79&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0G1VBDXYF",
+          "slug": "luxe-color-changing-foundation-medium-beauty-personal-care",
+          "title": "Luxe Color Changing Foundation – Medium : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/61T655NRniL.jpg",
+          "url": "https://www.amazon.com/dp/B0G1VBDXYF?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GY14XSSW",
+          "slug": "celimax-poreskin-clarifying-daily-sunscreen-169-floz-no-whit",
+          "title": "celimax Pore+Skin Clarifying Daily Sunscreen, 1.69 fl.oz | No White Cast, Sunscreen with TXA & Niacinamide, SPF50, Non-S",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/61thTKVDztL.jpg",
+          "url": "https://www.amazon.com/dp/B0GY14XSSW?tag=noya0b-20"
         },
         {
           "asin": "B085WQBJ9L",
@@ -437,16 +457,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/8115iCI1lFL.jpg",
           "url": "https://www.amazon.com/dp/B00TUM6QUC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0G1VBDXYF",
-          "slug": "luxe-color-changing-foundation-medium-beauty-personal-care",
-          "title": "Luxe Color Changing Foundation – Medium : Beauty & Personal Care",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61T655NRniL.jpg",
-          "url": "https://www.amazon.com/dp/B0G1VBDXYF?tag=noya0b-20"
         },
         {
           "asin": "B0DQ81ZCJG",
@@ -617,16 +627,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/81P-k2IHyiL.jpg",
           "url": "https://www.amazon.com/dp/B01LW1983J/ref=nosim?tag=noya0b-20&th=1"
-        },
-        {
-          "asin": "B00TLD7MRG",
-          "slug": "clinique-3-step-dramatically-different-moisturizing-hydratin",
-          "title": "Clinique 3-Step Dramatically Different Moisturizing Hydrating Face Cream | Face Moisturizer For Dry Skin Types, 1.7 Fl O",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61k5g1soYQL.jpg",
-          "url": "https://www.amazon.com/dp/B00TLD7MRG?psc=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -650,11 +650,11 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include DearKlairs Skincare Travel Trial Kit Korean Mini S and DIME Beauty Whipped Exfoliating Face Mask - Gentle. Check the full list above for current prices."
+          "a": "Today's skincare deals include celimax Pore+Skin Clarifying Daily Sunscreen, 1.69 and DearKlairs Skincare Travel Trial Kit Korean Mini S. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include Revlon Lipsticks from $4.xx! and wet n wild Color Icon Cream Eyeliner Eyeshadow Mul and more."
+          "a": "Yes! Today's makeup deals include Revlon Lipsticks from $4.xx! and Luxe Color Changing Foundation – Medium : Beauty & and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-02T05:10:04.816Z",
-      "updatedAt": "2026-08-02T05:10:04.816Z"
+      "generatedAt": "2026-08-02T05:20:04.584Z",
+      "updatedAt": "2026-08-02T05:20:04.584Z"
     },
     {
       "date": "2026-08-01",
@@ -34857,5 +34857,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-08-02T05:10:04.826Z"
+  "generatedAt": "2026-08-02T05:20:04.596Z"
 }
