@@ -4,16 +4,57 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Women's Fashion, Watches and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Women's Fashion, Home & Kitchen, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
         "Women's Fashion",
+        "Home & Kitchen",
+        "Fashion",
+        "Health",
+        "Garden & Outdoor",
         "Watches",
         "Shoes",
-        "Men's Fashion",
-        "Fashion"
+        "Men's Fashion"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0CSNB2872",
+            "slug": "ny-threads-quick-dry-knit-mens-athletic-shorts-loose-fit-run",
+            "title": "NY Threads Quick Dry Knit Men's Athletic Shorts Loose-Fit Running Gym Shorts for Men, Large, Medium Grey/Navy at Amazon",
+            "price": "$12.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81YZoqzOyaL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CSNB2872?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B09V4G9L3S",
+            "slug": "fivewan-24k-gold-under-eye-patches-60-pcs-eye-mask-pure-gold",
+            "title": "Fivewan 24k Gold Under Eye Patches - 60 Pcs Eye Mask Pure Gold Anti-Aging Collagen Hyaluronic Acid Under Eye Mask for Re",
+            "price": "$8.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oz99G0wdL.jpg",
+            "url": "https://www.amazon.com/dp/B09V4G9L3S?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0H6PLP23T",
+            "slug": "8-piece-heat-resistant-non-slip-coasters-with-cat-design-col",
+            "title": "8-Piece Heat Resistant Non-Slip Coasters with Cat Design, Colorful Drink Mats for Coffee Table, Decorative Cup Holders f",
+            "price": "$3.40",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81tqrYl2nYL._AC_SL1254_.jpg",
+            "url": "https://www.amazon.com/dp/B0H6PLP23T?tag=noya0b-20"
+          }
+        ],
         "Watches": [
           {
             "asin": "B0GTZ6HB8Q",
@@ -99,45 +140,43 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61GHjknqwNL.jpg",
             "url": "https://www.amazon.com/dp/B0D9C1QLSJ?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GDQHC93F",
-            "slug": "50-pack-cleaning-brushes-reusable-small-brushes-for-shower-d",
-            "title": "50 Pack Cleaning Brushes - Reusable Small Brushes for Shower Drains, Faucets, Keyboards, Electronics, Jewelry, Stove Bur",
-            "price": "$1.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61AIVzZhQ8L.jpg",
-            "url": "https://www.amazon.com/dp/B0GDQHC93F?tag=noya0b-20"
-          },
-          {
-            "asin": "B091JXDLDX",
-            "slug": "tiluck-stainless-steel-measuring-cups-spoons-set-cups-and-sp",
-            "title": "TILUCK Stainless Steel Measuring Cups & Spoons Set, Cups and Spoons | Stainless Steel Nesting Measure Cups , Kitchen Gad",
-            "price": "$14.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PYwRCwAIL.jpg",
-            "url": "https://www.amazon.com/dp/B091JXDLDX?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0DRYVL71M",
-            "slug": "nantdog-linen-pants-women-2025-summer-beach-lounge-palazzo-t",
-            "title": "Nantdog Linen Pants Women 2025 Summer Beach Lounge Palazzo Trousers Loose Elastic Plus Size Drawstring with Pockets Pant",
-            "price": "$4.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61wYjn0D0EL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DRYVL71M?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CSNB2872",
+          "slug": "ny-threads-quick-dry-knit-mens-athletic-shorts-loose-fit-run",
+          "title": "NY Threads Quick Dry Knit Men's Athletic Shorts Loose-Fit Running Gym Shorts for Men, Large, Medium Grey/Navy at Amazon",
+          "price": "$12.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YZoqzOyaL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CSNB2872?tag=noya0b-20"
+        },
+        {
+          "asin": "B09V4G9L3S",
+          "slug": "fivewan-24k-gold-under-eye-patches-60-pcs-eye-mask-pure-gold",
+          "title": "Fivewan 24k Gold Under Eye Patches - 60 Pcs Eye Mask Pure Gold Anti-Aging Collagen Hyaluronic Acid Under Eye Mask for Re",
+          "price": "$8.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oz99G0wdL.jpg",
+          "url": "https://www.amazon.com/dp/B09V4G9L3S?tag=noya0b-20"
+        },
+        {
+          "asin": "B0H6PLP23T",
+          "slug": "8-piece-heat-resistant-non-slip-coasters-with-cat-design-col",
+          "title": "8-Piece Heat Resistant Non-Slip Coasters with Cat Design, Colorful Drink Mats for Coffee Table, Decorative Cup Holders f",
+          "price": "$3.40",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81tqrYl2nYL._AC_SL1254_.jpg",
+          "url": "https://www.amazon.com/dp/B0H6PLP23T?tag=noya0b-20"
+        },
         {
           "asin": "B0GTZ6HB8Q",
           "slug": "vfurygd-women-sexy-halter-deep-v-neck-crop-tank-top-backless",
@@ -214,49 +253,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61GHjknqwNL.jpg",
           "url": "https://www.amazon.com/dp/B0D9C1QLSJ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GDQHC93F",
-          "slug": "50-pack-cleaning-brushes-reusable-small-brushes-for-shower-d",
-          "title": "50 Pack Cleaning Brushes - Reusable Small Brushes for Shower Drains, Faucets, Keyboards, Electronics, Jewelry, Stove Bur",
-          "price": "$1.50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61AIVzZhQ8L.jpg",
-          "url": "https://www.amazon.com/dp/B0GDQHC93F?tag=noya0b-20"
-        },
-        {
-          "asin": "B091JXDLDX",
-          "slug": "tiluck-stainless-steel-measuring-cups-spoons-set-cups-and-sp",
-          "title": "TILUCK Stainless Steel Measuring Cups & Spoons Set, Cups and Spoons | Stainless Steel Nesting Measure Cups , Kitchen Gad",
-          "price": "$14.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PYwRCwAIL.jpg",
-          "url": "https://www.amazon.com/dp/B091JXDLDX?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DRYVL71M",
-          "slug": "nantdog-linen-pants-women-2025-summer-beach-lounge-palazzo-t",
-          "title": "Nantdog Linen Pants Women 2025 Summer Beach Lounge Palazzo Trousers Loose Elastic Plus Size Drawstring with Pockets Pant",
-          "price": "$4.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61wYjn0D0EL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DRYVL71M?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"VFURYGD Women Sexy Halter Deep V Neck Crop Tank Top Backless...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Women's Fashion, Watches and are updated daily."
+          "a": "The best deals today include \"NY Threads Quick Dry Knit Men's Athletic Shorts Loose-Fit Ru...\" and 9 other hand-picked discounts. Deals span Women's Fashion, Home & Kitchen, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Women's Fashion and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T11:40:01.615Z",
-      "updatedAt": "2026-08-02T11:40:01.615Z"
+      "generatedAt": "2026-08-02T11:50:02.055Z",
+      "updatedAt": "2026-08-02T11:50:02.055Z"
     },
     {
       "date": "2026-08-01",
@@ -14954,5 +14960,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T11:40:01.628Z"
+  "generatedAt": "2026-08-02T11:50:02.068Z"
 }
