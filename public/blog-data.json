@@ -4,17 +4,82 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Appliances, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
-        "Appliances",
+        "Electronics",
+        "Other",
+        "Sports",
+        "Baby Care",
         "Fashion",
-        "Watches",
-        "Jewelry",
-        "Shoes",
-        "Kids' Fashion"
+        "Appliances"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B09XSDMT4F",
+            "slug": "sony-wh-1000xm5-premium-noise-cancelling-wireless-headphones",
+            "title": "Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones, Silver | Auto NC Optimizer, Up to 30 Hrs of Battery, Carry",
+            "price": "$248.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61sGlge485L.jpg",
+            "url": "https://www.amazon.com/dp/B09XSDMT4F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B07WYY6KKC",
+            "slug": "braun-ipl-silkexpert-pro-5-ipl-hair-removal-for-women-and-me",
+            "title": "Braun IPL, Silk·Expert Pro 5, IPL Hair Removal for Women and Men, Permanent Laser Hair Reduction At-Home, 2 Heads, Pouch",
+            "price": "$299.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+E0-+BUPL.jpg",
+            "url": "https://www.amazon.com/dp/B07WYY6KKC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Sports": [
+          {
+            "asin": "B0D31Y4836",
+            "slug": "saucony-womens-ride-18-sneaker-vanilla-85-road-running",
+            "title": "Saucony Women's Ride 18 Sneaker, Vanilla, 8.5 | Road Running",
+            "price": "$89.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JchtrlNWL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D31Y4836?tag=noya0b-20"
+          }
+        ],
+        "Baby Care": [
+          {
+            "asin": "B0DTGTTP9H",
+            "slug": "sherlove-trendy-chunky-gold-knot-earrings-for-women-unique-s",
+            "title": "SHERLOVE Trendy Chunky Gold Knot Earrings for Women, Unique Statement Drop Dangle Earrings Hypoallergenic Lightweight Go",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Baby Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/615gPPkC91L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DTGTTP9H?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0DQ71M1VS",
+            "slug": "eymuse-womens-tank-tops-v-neck-sleeveless-t-shirt-flowy-loos",
+            "title": "EyMuse Womens Tank Tops V Neck Sleeveless T Shirt Flowy Loose Fit Basic Casual Summer Tunic,Black,L at Amazon Women’s Cl",
+            "price": "$5.09",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71J8fEMX55L._AC_SL1450_.jpg",
+            "url": "https://www.amazon.com/dp/B0DQ71M1VS?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0H6FWGBS4",
@@ -73,74 +138,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71qMBfvyZ2L.jpg",
             "url": "https://www.amazon.com/dp/B0BGLFF94Y?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GFCQZ86Z",
-            "slug": "blwslc-lightning-printed-womens-handbag-large-capacity-shoul",
-            "title": "BLWSLC lightning Printed Women's Handbag Large Capacity Shoulder Bag Suitable for Shopping Work Travel and Gym : Clothin",
-            "price": "$15.27",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61OTIc99XTL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GFCQZ86Z?tag=noya0b-20"
-          }
-        ],
-        "Watches": [
-          {
-            "asin": "B079J9ZWLZ",
-            "slug": "timex-mens-easy-reader-38mm-watch-two-tone-case-blue-dial-wi",
-            "title": "Timex Men's Easy Reader 38mm Watch – Two-Tone Case Blue Dial with Two-Tone Stainless Steel Expansion Band : Clothing, Sh",
-            "price": "$53.26",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Watches",
-            "imageUrl": "https://m.media-amazon.com/images/I/51FiNTSGFzL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B079J9ZWLZ?tag=noya0b-20"
-          }
-        ],
-        "Jewelry": [
-          {
-            "asin": "B000WQQGOG",
-            "slug": "1928-jewelry-manor-house-4mm-faux-pearl-strand-amethyst-crys",
-            "title": "1928 Jewelry Manor House 4mm Faux Pearl Strand Amethyst Crystal Filigree Puff Ball Necklace 15\" + 3\" Extender, Romantic",
-            "price": "$55.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Jewelry",
-            "imageUrl": "https://m.media-amazon.com/images/I/61j6I7IN3dL.jpg",
-            "url": "https://www.amazon.com/dp/B000WQQGOG?tag=noya0b-20"
-          }
-        ],
-        "Shoes": [
-          {
-            "asin": "B00JUM36R8",
-            "slug": "hanes-mens-pullover-ecosmart-hooded-sweatshirt-navy-large-at",
-            "title": "Hanes Men's Pullover EcoSmart Hooded Sweatshirt, Navy, Large at Amazon Men’s Clothing store",
-            "price": "$8.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Shoes",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ouIolDR-L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00JUM36R8?tag=noya0b-20"
-          }
-        ],
-        "Kids' Fashion": [
-          {
-            "asin": "1328471225",
-            "slug": "the-giver-25th-anniversary-edition-a-newbery-award-winnera-b",
-            "title": "The Giver 25th Anniversary Edition: A Newbery Award Winner―A Boy Discovers Dark Secrets in an Ideal World (Giver Quartet",
-            "price": "$10.83",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Kids' Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/815GpeI7AXL.jpg",
-            "url": "https://www.amazon.com/dp/1328471225?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B09XSDMT4F",
+          "slug": "sony-wh-1000xm5-premium-noise-cancelling-wireless-headphones",
+          "title": "Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones, Silver | Auto NC Optimizer, Up to 30 Hrs of Battery, Carry",
+          "price": "$248.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61sGlge485L.jpg",
+          "url": "https://www.amazon.com/dp/B09XSDMT4F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B07WYY6KKC",
+          "slug": "braun-ipl-silkexpert-pro-5-ipl-hair-removal-for-women-and-me",
+          "title": "Braun IPL, Silk·Expert Pro 5, IPL Hair Removal for Women and Men, Permanent Laser Hair Reduction At-Home, 2 Heads, Pouch",
+          "price": "$299.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+E0-+BUPL.jpg",
+          "url": "https://www.amazon.com/dp/B07WYY6KKC?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0D31Y4836",
+          "slug": "saucony-womens-ride-18-sneaker-vanilla-85-road-running",
+          "title": "Saucony Women's Ride 18 Sneaker, Vanilla, 8.5 | Road Running",
+          "price": "$89.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JchtrlNWL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0D31Y4836?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DTGTTP9H",
+          "slug": "sherlove-trendy-chunky-gold-knot-earrings-for-women-unique-s",
+          "title": "SHERLOVE Trendy Chunky Gold Knot Earrings for Women, Unique Statement Drop Dangle Earrings Hypoallergenic Lightweight Go",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Baby Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/615gPPkC91L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DTGTTP9H?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DQ71M1VS",
+          "slug": "eymuse-womens-tank-tops-v-neck-sleeveless-t-shirt-flowy-loos",
+          "title": "EyMuse Womens Tank Tops V Neck Sleeveless T Shirt Flowy Loose Fit Basic Casual Summer Tunic,Black,L at Amazon Women’s Cl",
+          "price": "$5.09",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71J8fEMX55L._AC_SL1450_.jpg",
+          "url": "https://www.amazon.com/dp/B0DQ71M1VS?tag=noya0b-20"
+        },
         {
           "asin": "B0H6FWGBS4",
           "slug": "vacuum-sealer-machine5667-home-kitchen",
@@ -195,67 +250,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71bIw0sX-KL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0B6BMQF2X?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFCQZ86Z",
-          "slug": "blwslc-lightning-printed-womens-handbag-large-capacity-shoul",
-          "title": "BLWSLC lightning Printed Women's Handbag Large Capacity Shoulder Bag Suitable for Shopping Work Travel and Gym : Clothin",
-          "price": "$15.27",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61OTIc99XTL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GFCQZ86Z?tag=noya0b-20"
-        },
-        {
-          "asin": "B079J9ZWLZ",
-          "slug": "timex-mens-easy-reader-38mm-watch-two-tone-case-blue-dial-wi",
-          "title": "Timex Men's Easy Reader 38mm Watch – Two-Tone Case Blue Dial with Two-Tone Stainless Steel Expansion Band : Clothing, Sh",
-          "price": "$53.26",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Watches",
-          "imageUrl": "https://m.media-amazon.com/images/I/51FiNTSGFzL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B079J9ZWLZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B000WQQGOG",
-          "slug": "1928-jewelry-manor-house-4mm-faux-pearl-strand-amethyst-crys",
-          "title": "1928 Jewelry Manor House 4mm Faux Pearl Strand Amethyst Crystal Filigree Puff Ball Necklace 15\" + 3\" Extender, Romantic",
-          "price": "$55.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Jewelry",
-          "imageUrl": "https://m.media-amazon.com/images/I/61j6I7IN3dL.jpg",
-          "url": "https://www.amazon.com/dp/B000WQQGOG?tag=noya0b-20"
-        },
-        {
-          "asin": "B00JUM36R8",
-          "slug": "hanes-mens-pullover-ecosmart-hooded-sweatshirt-navy-large-at",
-          "title": "Hanes Men's Pullover EcoSmart Hooded Sweatshirt, Navy, Large at Amazon Men’s Clothing store",
-          "price": "$8.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Shoes",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ouIolDR-L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00JUM36R8?tag=noya0b-20"
-        },
-        {
-          "asin": "1328471225",
-          "slug": "the-giver-25th-anniversary-edition-a-newbery-award-winnera-b",
-          "title": "The Giver 25th Anniversary Edition: A Newbery Award Winner―A Boy Discovers Dark Secrets in an Ideal World (Giver Quartet",
-          "price": "$10.83",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Kids' Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/815GpeI7AXL.jpg",
-          "url": "https://www.amazon.com/dp/1328471225?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Vacuum Sealer Machine5667 : Home & Kitchen...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Appliances, Fashion and are updated daily."
+          "a": "The best deals today include \"Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphones...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T06:20:01.389Z",
-      "updatedAt": "2026-08-02T06:20:01.389Z"
+      "generatedAt": "2026-08-02T06:30:01.844Z",
+      "updatedAt": "2026-08-02T06:30:01.844Z"
     },
     {
       "date": "2026-08-01",
@@ -14957,5 +14957,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T06:20:01.402Z"
+  "generatedAt": "2026-08-02T06:30:01.857Z"
 }
