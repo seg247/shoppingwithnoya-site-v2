@@ -4,14 +4,12 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Other and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Other, Beauty, Home & Kitchen and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
-        "Beauty",
         "Other",
-        "Grocery & Food",
-        "Electronics",
-        "Pet Supplies"
+        "Beauty",
+        "Home & Kitchen",
+        "Electronics"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -36,31 +34,55 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61tRmPHc14L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GH1R8Q3K?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2a8f2205a372ab1f8d3b2a7e1afa960d&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0CNV6HNBL",
-            "slug": "nicetown-semi-sheer-charcoal-gray-bedroom-curtains-rod-pocke",
-            "title": "NICETOWN Semi Sheer Charcoal Gray Bedroom Curtains, Rod Pocket & Back Tab Rustic Faux Linen Window Treatments Privacy wi",
-            "price": "$14",
+            "asin": "B09BF64J55",
+            "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
+            "title": "KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wireless Headphones with Microphone, Foldable Lightweight Headse",
+            "price": "$24.56",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/91ZS58CGJoL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CNV6HNBL?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0G8HB9CDS",
-            "slug": "boritar-tennis-baby-blanket-double-layer-dotted-with-elephan",
-            "title": "BORITAR Tennis Baby Blanket Double Layer Dotted with Elephant 30 x 40 Inch | Super Soft Plush Minky Fabric with Woodland",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0G8HB9CDS?tag=noya0b-20"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
           }
         ],
         "Other": [
+          {
+            "asin": "B09H3JCGVV",
+            "slug": "rust-oleum-331049-2pk-milk-paint-finish-quart-classic-white",
+            "title": "\udecd️Rust-Oleum 331049-2PK Milk Paint Finish, Quart, Classic White, (Pack of 2)",
+            "price": "$55.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/615haecxk+L.jpg",
+            "url": "https://www.amazon.com/dp/B09H3JCGVV?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4d9347683b60eacff1e358fea17ce22c&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FNQ3QDR7",
+            "slug": "gerber-toddler-girls-3-pack-long-sleeve-shirts-black-white-g",
+            "title": "\udecd️Gerber Toddler Girls' 3-Pack Long Sleeve Shirts, Black, White & Gray, 12 Months",
+            "price": "$22.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81I3QhH9F8L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FNQ3QDR7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=cb88739e9e839802a846c01d6202fba5&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GHN5GGSX",
+            "slug": "urban-green-glass-food-container-set-with-silicone-glass-lid",
+            "title": "\udecd️Urban Green Glass Food Container Set with Silicone Glass Lid, Square Shape, 4 Pack, Airtight, LeakProof, 100% Plastic ",
+            "price": "$49.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0GHN5GGSX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b4581a1c6dcb39f08e31db455d08b6ae&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B08D2968XC",
             "slug": "sharper-image-24ghz-rc-glow-up-stunt-drone-with-led-lights-m",
@@ -74,6 +96,17 @@
           }
         ],
         "Beauty": [
+          {
+            "asin": "B0F6H4MRVZ",
+            "slug": "every-man-jack-game-of-thrones-body-wash-gift-set-for-men-bo",
+            "title": "Every Man Jack Game of Thrones Body Wash Gift Set for Men, Boxed Set of 4 | Scents inspired by Westeros, Naturally Deriv",
+            "price": "$29",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81OO-FyD-XL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F6H4MRVZ?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B01MDTVZTZ",
             "slug": "the-ordinary-niacinamide-10-zinc-1-smoothing-serum-for-blemi",
@@ -96,45 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81f-sO+D96L.jpg",
             "url": "https://www.amazon.com/dp/B0FC1ZS5QQ?th=1&tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0BV59SPGQ",
-            "slug": "amazon-grocery-hazelnut-spread-with-cocoa-13-oz",
-            "title": "Amazon Grocery, Hazelnut Spread With Cocoa, 13 Oz",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ew2Udv5OL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BV59SPGQ?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=689e6112994a3924de28f30ee9acb474&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B00Q3I8H80",
-            "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
-            "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S",
-            "price": "$13.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL.jpg",
-            "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B08T1X4SWH",
-            "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
-            "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
-            "price": "$15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS._AC_SL1200_.jpg",
-            "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +142,61 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81cdeLTOBdL.jpg",
           "url": "https://www.amazon.com/dp/B0GQYMG23Z?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B09BF64J55",
+          "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
+          "title": "KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wireless Headphones with Microphone, Foldable Lightweight Headse",
+          "price": "$24.56",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
+        },
+        {
+          "asin": "B09H3JCGVV",
+          "slug": "rust-oleum-331049-2pk-milk-paint-finish-quart-classic-white",
+          "title": "\udecd️Rust-Oleum 331049-2PK Milk Paint Finish, Quart, Classic White, (Pack of 2)",
+          "price": "$55.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/615haecxk+L.jpg",
+          "url": "https://www.amazon.com/dp/B09H3JCGVV?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4d9347683b60eacff1e358fea17ce22c&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FNQ3QDR7",
+          "slug": "gerber-toddler-girls-3-pack-long-sleeve-shirts-black-white-g",
+          "title": "\udecd️Gerber Toddler Girls' 3-Pack Long Sleeve Shirts, Black, White & Gray, 12 Months",
+          "price": "$22.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81I3QhH9F8L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FNQ3QDR7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=cb88739e9e839802a846c01d6202fba5&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GHN5GGSX",
+          "slug": "urban-green-glass-food-container-set-with-silicone-glass-lid",
+          "title": "\udecd️Urban Green Glass Food Container Set with Silicone Glass Lid, Square Shape, 4 Pack, Airtight, LeakProof, 100% Plastic ",
+          "price": "$49.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0GHN5GGSX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b4581a1c6dcb39f08e31db455d08b6ae&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0F6H4MRVZ",
+          "slug": "every-man-jack-game-of-thrones-body-wash-gift-set-for-men-bo",
+          "title": "Every Man Jack Game of Thrones Body Wash Gift Set for Men, Boxed Set of 4 | Scents inspired by Westeros, Naturally Deriv",
+          "price": "$29",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81OO-FyD-XL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F6H4MRVZ?th=1&tag=noya0b-20"
         },
         {
           "asin": "B08D2968XC",
@@ -192,67 +241,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81f-sO+D96L.jpg",
           "url": "https://www.amazon.com/dp/B0FC1ZS5QQ?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0BV59SPGQ",
-          "slug": "amazon-grocery-hazelnut-spread-with-cocoa-13-oz",
-          "title": "Amazon Grocery, Hazelnut Spread With Cocoa, 13 Oz",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ew2Udv5OL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BV59SPGQ?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=689e6112994a3924de28f30ee9acb474&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00Q3I8H80",
-          "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
-          "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S",
-          "price": "$13.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL.jpg",
-          "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-        },
-        {
-          "asin": "B08T1X4SWH",
-          "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
-          "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS._AC_SL1200_.jpg",
-          "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CNV6HNBL",
-          "slug": "nicetown-semi-sheer-charcoal-gray-bedroom-curtains-rod-pocke",
-          "title": "NICETOWN Semi Sheer Charcoal Gray Bedroom Curtains, Rod Pocket & Back Tab Rustic Faux Linen Window Treatments Privacy wi",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/91ZS58CGJoL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CNV6HNBL?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0G8HB9CDS",
-          "slug": "boritar-tennis-baby-blanket-double-layer-dotted-with-elephan",
-          "title": "BORITAR Tennis Baby Blanket Double Layer Dotted with Elephant 30 x 40 Inch | Super Soft Plush Minky Fabric with Woodland",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0G8HB9CDS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"BGment Jacquard Linen Curtains for Living Room 84 inches Lon...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Other and are updated daily."
+          "a": "The best deals today include \"BGment Jacquard Linen Curtains for Living Room 84 inches Lon...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T21:00:00.427Z",
-      "updatedAt": "2026-08-02T21:00:00.428Z"
+      "generatedAt": "2026-08-02T21:10:01.971Z",
+      "updatedAt": "2026-08-02T21:10:01.972Z"
     },
     {
       "date": "2026-08-01",
@@ -14954,5 +14948,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T21:00:00.441Z"
+  "generatedAt": "2026-08-02T21:10:01.985Z"
 }
