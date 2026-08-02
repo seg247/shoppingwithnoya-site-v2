@@ -4,19 +4,29 @@
       "date": "2026-08-02",
       "slug": "2026-08-02",
       "title": "🔥 Best Deals Today — August 2, 2026",
-      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Fashion, Home & Kitchen, Baby Care and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, August 2, 2026 — 10 hand-picked discounts across Fashion, Home & Kitchen, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Fashion",
         "Home & Kitchen",
+        "Electronics",
         "Baby Care",
         "Garden & Outdoor",
         "Jewelry",
-        "Kids' Fashion",
-        "Men's Fashion",
-        "Women's Fashion"
+        "Kids' Fashion"
       ],
       "byCategory": {
         "Fashion": [
+          {
+            "asin": "B0G4W949HZ",
+            "slug": "vintage-dragonfly-floral-zero-wallet-multi-purpose-pet-treat",
+            "title": "Vintage Dragonfly & Floral Zero Wallet, Multi-Purpose Pet Treat Pouch | Wallet-Hands-Free Clip-On Organizer for Snacks,E",
+            "price": "$2.57",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61IYtDImc2L._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B0G4W949HZ?tag=noya0b-20"
+          },
           {
             "asin": "B0DPHTLDYK",
             "slug": "nike-womens-revolution-8-road-running-shoes-whitepure-platin",
@@ -38,6 +48,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81L57A-tUmL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08KYCY7NS?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GPW3BJ6V",
+            "slug": "dell-156-laptop-fhd-intel-core-ultra-5-225u-16gb-ram-windows",
+            "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home | Anti-Glare 300 Nits WVA, Intel Graphics, DDR",
+            "price": "$758.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML.jpg",
+            "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20"
           }
         ],
         "Baby Care": [
@@ -115,35 +138,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51f-lu5FgtL.jpg",
             "url": "https://www.amazon.com/dp/0670785938?tag=noya0b-20"
           }
-        ],
-        "Men's Fashion": [
-          {
-            "asin": "B07CDN39DP",
-            "slug": "lumify-redness-reliever-eye-drops-for-whiter-brighter-lookin",
-            "title": "LUMIFY Redness Reliever Eye Drops, for Whiter & Brighter Looking Eyes, 0.08 Fl Oz (2.5 mL) : Health & Household",
-            "price": "$11.93",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Men's Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81rdYLVw3JL.jpg",
-            "url": "https://www.amazon.com/dp/B07CDN39DP?tag=noya0b-20"
-          }
-        ],
-        "Women's Fashion": [
-          {
-            "asin": "B0G3WFHQN5",
-            "slug": "womens-casual-tunic-v-neck-short-sleeve-pleated-henley-loose",
-            "title": "Women’s Casual Tunic V Neck Short Sleeve Pleated Henley Loose Fit Blouse at Amazon Women’s Clothing store",
-            "price": "$14.24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Women's Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81uAEa2a2AL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G3WFHQN5?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G4W949HZ",
+          "slug": "vintage-dragonfly-floral-zero-wallet-multi-purpose-pet-treat",
+          "title": "Vintage Dragonfly & Floral Zero Wallet, Multi-Purpose Pet Treat Pouch | Wallet-Hands-Free Clip-On Organizer for Snacks,E",
+          "price": "$2.57",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61IYtDImc2L._AC_SL1200_.jpg",
+          "url": "https://www.amazon.com/dp/B0G4W949HZ?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GPW3BJ6V",
+          "slug": "dell-156-laptop-fhd-intel-core-ultra-5-225u-16gb-ram-windows",
+          "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home | Anti-Glare 300 Nits WVA, Intel Graphics, DDR",
+          "price": "$758.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML.jpg",
+          "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20"
+        },
         {
           "asin": "B0DPHTLDYK",
           "slug": "nike-womens-revolution-8-road-running-shoes-whitepure-platin",
@@ -231,34 +250,12 @@
           "category": "Kids' Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/51f-lu5FgtL.jpg",
           "url": "https://www.amazon.com/dp/0670785938?tag=noya0b-20"
-        },
-        {
-          "asin": "B07CDN39DP",
-          "slug": "lumify-redness-reliever-eye-drops-for-whiter-brighter-lookin",
-          "title": "LUMIFY Redness Reliever Eye Drops, for Whiter & Brighter Looking Eyes, 0.08 Fl Oz (2.5 mL) : Health & Household",
-          "price": "$11.93",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Men's Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81rdYLVw3JL.jpg",
-          "url": "https://www.amazon.com/dp/B07CDN39DP?tag=noya0b-20"
-        },
-        {
-          "asin": "B0G3WFHQN5",
-          "slug": "womens-casual-tunic-v-neck-short-sleeve-pleated-henley-loose",
-          "title": "Women’s Casual Tunic V Neck Short Sleeve Pleated Henley Loose Fit Blouse at Amazon Women’s Clothing store",
-          "price": "$14.24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Women's Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81uAEa2a2AL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G3WFHQN5?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 2, 2026?",
-          "a": "The best deals today include \"Nike Women's Revolution 8 Road Running Shoes, White/Pure Pla...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Baby Care and are updated daily."
+          "a": "The best deals today include \"Vintage Dragonfly & Floral Zero Wallet, Multi-Purpose Pet Tr...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-02T04:40:01.435Z",
-      "updatedAt": "2026-08-02T04:40:01.435Z"
+      "generatedAt": "2026-08-02T04:50:01.853Z",
+      "updatedAt": "2026-08-02T04:50:01.853Z"
     },
     {
       "date": "2026-08-01",
@@ -14960,5 +14957,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-02T04:40:01.448Z"
+  "generatedAt": "2026-08-02T04:50:01.869Z"
 }
