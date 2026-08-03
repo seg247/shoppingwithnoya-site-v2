@@ -9,8 +9,8 @@
         "Skincare",
         "Hair Care",
         "Fragrance",
-        "Body Care",
         "Makeup",
+        "Body Care",
         "Nails"
       ],
       "bySubcat": {
@@ -94,16 +94,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/51fA+Xs29OL._SL1200_.jpg",
             "url": "https://www.amazon.com/dp/B0GXF8YXXV/ref=nosim?tag=noya0b-20&th=1"
-          },
-          {
-            "asin": "B0DCPBSQDR",
-            "slug": "everlasting-comfort-25l-top-fill-humidifier-upgraded-easy-to",
-            "title": "Everlasting Comfort 2.5L Top Fill Humidifier – Upgraded Easy to Clean 20HR Runtime Cool Mist Air Moisturizer for Bedroom",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/614lqxmoh6L.jpg",
-            "url": "https://www.amazon.com/dp/B0DCPBSQDR?th=1&tag=noya0b-20"
           }
         ],
         "Hair Care": [
@@ -240,29 +230,17 @@
             "url": "https://www.amazon.com/dp/B07Q4N23MT?th=1&tag=noya0b-20"
           }
         ],
-        "Body Care": [
-          {
-            "asin": "B072J2ZBPY",
-            "slug": "degree-men-ultraclear-antiperspirant-deodorant-black-white-4",
-            "title": "\udecd️Degree Men UltraClear Antiperspirant Deodorant Black + White 4 count 72-Hour Sweat & Odor Protection Antiperspirant Fo",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81P81+wit4L.jpg",
-            "url": "https://www.amazon.com/dp/B072J2ZBPY?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2c8af517baeaa3fa5de775a11cadb3c2&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CP8J9XBN",
-            "slug": "native-body-wash-holiday-edition-fresh-mistletoe-scent-conta",
-            "title": "Native Body Wash, Holiday Edition, Fresh Mistletoe Scent, Contains Naturally Derived Ingredients | For Women & Men, Sulf",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61qqfvFDeGL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CP8J9XBN?th=1&tag=noya0b-20"
-          }
-        ],
         "Makeup": [
+          {
+            "asin": "B000IEMGGE",
+            "slug": "laura-geller-baked-balance-n-brighten-powder-foundation-fair",
+            "title": "✨LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Fair",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Yo39CAaeL.jpg",
+            "url": "https://www.amazon.com/dp/B000IEMGGE?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bcb89632ee61cd059d1f781d47af80a6&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B07HWPH1MP",
             "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
@@ -312,6 +290,28 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
             "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
+          }
+        ],
+        "Body Care": [
+          {
+            "asin": "B072J2ZBPY",
+            "slug": "degree-men-ultraclear-antiperspirant-deodorant-black-white-4",
+            "title": "\udecd️Degree Men UltraClear Antiperspirant Deodorant Black + White 4 count 72-Hour Sweat & Odor Protection Antiperspirant Fo",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81P81+wit4L.jpg",
+            "url": "https://www.amazon.com/dp/B072J2ZBPY?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2c8af517baeaa3fa5de775a11cadb3c2&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0CP8J9XBN",
+            "slug": "native-body-wash-holiday-edition-fresh-mistletoe-scent-conta",
+            "title": "Native Body Wash, Holiday Edition, Fresh Mistletoe Scent, Contains Naturally Derived Ingredients | For Women & Men, Sulf",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61qqfvFDeGL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CP8J9XBN?th=1&tag=noya0b-20"
           }
         ],
         "Nails": [
@@ -377,6 +377,16 @@
           "subcat": "Fragrance",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0B6KKPP2P?tag=noya0b-20"
+        },
+        {
+          "asin": "B000IEMGGE",
+          "slug": "laura-geller-baked-balance-n-brighten-powder-foundation-fair",
+          "title": "✨LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Fair",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Yo39CAaeL.jpg",
+          "url": "https://www.amazon.com/dp/B000IEMGGE?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=bcb89632ee61cd059d1f781d47af80a6&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0F8RHSCFZ",
@@ -617,16 +627,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
           "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DCPBSQDR",
-          "slug": "everlasting-comfort-25l-top-fill-humidifier-upgraded-easy-to",
-          "title": "Everlasting Comfort 2.5L Top Fill Humidifier – Upgraded Easy to Clean 20HR Runtime Cool Mist Air Moisturizer for Bedroom",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/614lqxmoh6L.jpg",
-          "url": "https://www.amazon.com/dp/B0DCPBSQDR?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include Gel Nail Polish Starter Kit - 6 Colors Gel Polish  and Gellen Gel Nail Polish Starter Kit with U V Light  and more."
+          "a": "Yes! Today's makeup deals include ✨LAURA GELLER Baked Balance-n-Brighten Powder Foun and Gel Nail Polish Starter Kit - 6 Colors Gel Polish  and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-03T14:00:03.387Z",
-      "updatedAt": "2026-08-03T14:00:03.387Z"
+      "generatedAt": "2026-08-03T14:10:04.466Z",
+      "updatedAt": "2026-08-03T14:10:04.466Z"
     },
     {
       "date": "2026-08-02",
@@ -35528,5 +35528,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-08-03T14:00:03.399Z"
+  "generatedAt": "2026-08-03T14:10:04.475Z"
 }
