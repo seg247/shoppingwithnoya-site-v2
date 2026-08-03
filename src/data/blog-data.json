@@ -10,10 +10,35 @@
         "Home & Kitchen",
         "Beauty",
         "Health",
+        "Fashion",
         "Electronics"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0899TYS99",
+            "slug": "large-crossbody-bags-hobo-purse-and-wallet-set-for-women-sho",
+            "title": "Large Crossbody Bags Hobo Purse and Wallet Set for Women Shoulder Handbags | Soft lightweight vegan leather;Roomy with l",
+            "price": "$40.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/717Yoc6p-vL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0899TYS99?tag=noya0b-20"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B07CH3BWJ2",
+            "slug": "amazon-basics-replacement-water-filter-cartridge-compatible",
+            "title": "✨Amazon Basics Replacement Water Filter Cartridge Compatible with GE MWF Refrigerator, NSF Certified, No Leaks, Fits Per",
+            "price": "$22.30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71AuTCOx6uL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07CH3BWJ2/ref=nosim?tag=noya0b-20&th=1"
+          },
           {
             "asin": "B0BFJ93NPY",
             "slug": "electrolux-wellq7-cordless-2-in-1-vacuum-with-high-suction-p",
@@ -24,28 +49,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61WXnkJtAdL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0BFJ93NPY/ref=cm_sw_r_as_gl_apa_gl_i_KNHQW02TKPK4EEN6YESH?linkCode=ml1&tag=noya0b-20&linkId=de571491a52f19661b25f97dc39c0fa9"
-          },
-          {
-            "asin": "B0BW3MKM11",
-            "slug": "sancua-6-pack-black-tablecloths-60x102-inch-for-6-feet-recta",
-            "title": "✨sancua 6 Pack Black Tablecloths 60x102 Inch for 6 Feet Rectangle Tables | Stain and Wrinkle Resistant Washable Polyeste",
-            "price": "$29.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51GaT2LGvsL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BW3MKM11/ref=nosim?tag=noya0b-20&th=1"
-          },
-          {
-            "asin": "B0GYZZYTC6",
-            "slug": "pny-32gb-class-10-u1-v10-a1-microsdhc-flash-memory-card-quic",
-            "title": "PNY 32GB Class 10 U1 V10 A1 microSDHC™ Flash Memory Card – Quick Read Speeds, UHS-I, Continuous Full HD Photo, HD Video,",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/5178TVUHYTL._AC_SL1000_.jpg",
-            "url": "https://www.amazon.com/dp/B0GYZZYTC6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Home & Kitchen": [
@@ -136,6 +139,28 @@
       },
       "deals": [
         {
+          "asin": "B0899TYS99",
+          "slug": "large-crossbody-bags-hobo-purse-and-wallet-set-for-women-sho",
+          "title": "Large Crossbody Bags Hobo Purse and Wallet Set for Women Shoulder Handbags | Soft lightweight vegan leather;Roomy with l",
+          "price": "$40.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/717Yoc6p-vL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0899TYS99?tag=noya0b-20"
+        },
+        {
+          "asin": "B07CH3BWJ2",
+          "slug": "amazon-basics-replacement-water-filter-cartridge-compatible",
+          "title": "✨Amazon Basics Replacement Water Filter Cartridge Compatible with GE MWF Refrigerator, NSF Certified, No Leaks, Fits Per",
+          "price": "$22.30",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71AuTCOx6uL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07CH3BWJ2/ref=nosim?tag=noya0b-20&th=1"
+        },
+        {
           "asin": "B0BFJ93NPY",
           "slug": "electrolux-wellq7-cordless-2-in-1-vacuum-with-high-suction-p",
           "title": "Electrolux WellQ7 Cordless 2-in-1 Vacuum with High Suction Power and 5-Step Filtration System, 50-Minute Run Time, 2 Pow",
@@ -222,34 +247,12 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BW3MKM11",
-          "slug": "sancua-6-pack-black-tablecloths-60x102-inch-for-6-feet-recta",
-          "title": "✨sancua 6 Pack Black Tablecloths 60x102 Inch for 6 Feet Rectangle Tables | Stain and Wrinkle Resistant Washable Polyeste",
-          "price": "$29.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51GaT2LGvsL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BW3MKM11/ref=nosim?tag=noya0b-20&th=1"
-        },
-        {
-          "asin": "B0GYZZYTC6",
-          "slug": "pny-32gb-class-10-u1-v10-a1-microsdhc-flash-memory-card-quic",
-          "title": "PNY 32GB Class 10 U1 V10 A1 microSDHC™ Flash Memory Card – Quick Read Speeds, UHS-I, Continuous Full HD Photo, HD Video,",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/5178TVUHYTL._AC_SL1000_.jpg",
-          "url": "https://www.amazon.com/dp/B0GYZZYTC6?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"Electrolux WellQ7 Cordless 2-in-1 Vacuum with High Suction P...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
+          "a": "The best deals today include \"Large Crossbody Bags Hobo Purse and Wallet Set for Women Sho...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T06:00:01.775Z",
-      "updatedAt": "2026-08-03T06:00:01.775Z"
+      "generatedAt": "2026-08-03T06:10:01.641Z",
+      "updatedAt": "2026-08-03T06:10:01.641Z"
     },
     {
       "date": "2026-08-02",
@@ -15222,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T06:00:01.780Z"
+  "generatedAt": "2026-08-03T06:10:01.647Z"
 }
