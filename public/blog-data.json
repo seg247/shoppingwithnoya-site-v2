@@ -9,10 +9,24 @@
         "Fashion",
         "Electronics",
         "Garden & Outdoor",
+        "Health",
         "Sports",
         "Appliances"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B08146763Z",
+            "slug": "ripple-protein-shake-coffee-12-oz",
+            "title": "Ripple Protein Shake, Coffee, 12 oz",
+            "price": "$30.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL._SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CSXV3GK4",
@@ -120,21 +134,21 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/51ZLNr9TZYL.jpg",
             "url": "https://www.amazon.com/dp/B0G1VC21PB?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FVDLJGC1",
-            "slug": "womens-cotton-leggings-soft-high-waisted-pants-stretch-full",
-            "title": "Women's Cotton Leggings Soft High Waisted Pants Stretch Full Length Lounge Solid Plus Size Fall Winter Basic Pant Beige",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Vpav-DG5L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FVDLJGC1?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B08146763Z",
+          "slug": "ripple-protein-shake-coffee-12-oz",
+          "title": "Ripple Protein Shake, Coffee, 12 oz",
+          "price": "$30.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL._SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
+        },
         {
           "asin": "B0CSXV3GK4",
           "slug": "wireless-earbuds-75h-bluetooth-54-sport-headphones-with-earh",
@@ -233,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/51ZLNr9TZYL.jpg",
           "url": "https://www.amazon.com/dp/B0G1VC21PB?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FVDLJGC1",
-          "slug": "womens-cotton-leggings-soft-high-waisted-pants-stretch-full",
-          "title": "Women's Cotton Leggings Soft High Waisted Pants Stretch Full Length Lounge Solid Plus Size Fall Winter Basic Pant Beige",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51Vpav-DG5L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FVDLJGC1?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"Wireless Earbuds 75H Bluetooth 5.4 Sport Headphones with Ear...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Ripple Protein Shake, Coffee, 12 oz...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T10:30:01.514Z",
-      "updatedAt": "2026-08-03T10:30:01.514Z"
+      "generatedAt": "2026-08-03T10:40:02.129Z",
+      "updatedAt": "2026-08-03T10:40:02.129Z"
     },
     {
       "date": "2026-08-02",
@@ -15222,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T10:30:01.519Z"
+  "generatedAt": "2026-08-03T10:40:02.134Z"
 }
