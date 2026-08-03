@@ -4,16 +4,51 @@
       "date": "2026-08-03",
       "slug": "2026-08-03",
       "title": "🔥 Best Deals Today — August 3, 2026",
-      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Electronics, Sports, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Beauty, Electronics, Sports and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Beauty",
         "Electronics",
         "Sports",
         "Health",
         "Tools & Hardware",
-        "Beauty",
         "Garden & Outdoor"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0175DVMMY",
+            "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
+            "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
+            "price": "$20.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
+            "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
+          },
+          {
+            "asin": "B09231NL5H",
+            "slug": "bella-vita-organic-man-luxury-perfume-gift-set-4x20-ml-for-m",
+            "title": "Bella Vita Organic Man Luxury Perfume Gift Set 4x20 ML for Men with Dominus, Oud, CEO, Impact Perfume|Woody, Citrusy Lon",
+            "price": "$22.94",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61V7ch8HzGL._SL1348_.jpg",
+            "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
+          },
+          {
+            "asin": "B08HHJNKZV",
+            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B0C2WJHQLT",
@@ -49,28 +84,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CQ53RVTW",
-            "slug": "soundcore-boom-2-by-anker-80w-outdoor-bluetooth-speaker-24h",
-            "title": "Soundcore Boom 2 by Anker, 80W Outdoor Bluetooth Speaker, 24H Playtime | IPX7 Waterproof, BassUp 2.0, 20H Playtime, Fast",
-            "price": "$109.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71hacRj5-QL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CQ53RVTW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0GPW3BJ6V",
-            "slug": "dell-156-laptop-fhd-intel-core-ultra-5-225u-16gb-ram-windows",
-            "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home | Anti-Glare 300 Nits WVA, Intel Graphics, DDR",
-            "price": "$578.11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Sports": [
@@ -110,19 +123,6 @@
             "url": "https://www.amazon.com/dp/B0858C7X3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B08HHJNKZV",
-            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
-          }
-        ],
         "Garden & Outdoor": [
           {
             "asin": "B09Y5G4283",
@@ -138,6 +138,28 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0175DVMMY",
+          "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
+          "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, P",
+          "price": "$20.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
+          "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
+        },
+        {
+          "asin": "B09231NL5H",
+          "slug": "bella-vita-organic-man-luxury-perfume-gift-set-4x20-ml-for-m",
+          "title": "Bella Vita Organic Man Luxury Perfume Gift Set 4x20 ML for Men with Dominus, Oud, CEO, Impact Perfume|Woody, Citrusy Lon",
+          "price": "$22.94",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61V7ch8HzGL._SL1348_.jpg",
+          "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
+        },
         {
           "asin": "B0C2WJHQLT",
           "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
@@ -225,38 +247,16 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/619PDYUzn9L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09Y5G4283?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CQ53RVTW",
-          "slug": "soundcore-boom-2-by-anker-80w-outdoor-bluetooth-speaker-24h",
-          "title": "Soundcore Boom 2 by Anker, 80W Outdoor Bluetooth Speaker, 24H Playtime | IPX7 Waterproof, BassUp 2.0, 20H Playtime, Fast",
-          "price": "$109.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71hacRj5-QL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CQ53RVTW?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0GPW3BJ6V",
-          "slug": "dell-156-laptop-fhd-intel-core-ultra-5-225u-16gb-ram-windows",
-          "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home | Anti-Glare 300 Nits WVA, Intel Graphics, DDR",
-          "price": "$578.11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premiu...\" and 9 other hand-picked discounts. Deals span Electronics, Sports, Health and are updated daily."
+          "a": "The best deals today include \"MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face ...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Sports and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T12:10:01.913Z",
-      "updatedAt": "2026-08-03T12:10:01.913Z"
+      "generatedAt": "2026-08-03T12:20:00.448Z",
+      "updatedAt": "2026-08-03T12:20:00.448Z"
     },
     {
       "date": "2026-08-02",
@@ -15225,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T12:10:01.918Z"
+  "generatedAt": "2026-08-03T12:20:00.453Z"
 }
