@@ -9,8 +9,8 @@
         "Skincare",
         "Hair Care",
         "Fragrance",
-        "Nails",
         "Makeup",
+        "Nails",
         "Body Care"
       ],
       "bySubcat": {
@@ -138,16 +138,6 @@
             "url": "https://www.amazon.com/dp/B0FVFPZJR2?th=1&tag=noya0b-20"
           },
           {
-            "asin": "B08HHJNKZV",
-            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
-          },
-          {
             "asin": "B00R42M8OS",
             "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
             "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
@@ -156,6 +146,16 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
+          },
+          {
+            "asin": "B08HHJNKZV",
+            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
           },
           {
             "asin": "B09C53YR2B",
@@ -216,7 +216,7 @@
             "discount": 35,
             "rating": "HOT",
             "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61p-ezsgw+L._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F84LQRYZ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1bc5b5a89f097f7be74785988a34571f&language=en_US"
           },
           {
@@ -260,18 +260,6 @@
             "url": "https://www.amazon.com/dp/B07Q4N23MT?th=1&tag=noya0b-20"
           }
         ],
-        "Nails": [
-          {
-            "asin": "B097BSKN9P",
-            "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
-            "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
-          }
-        ],
         "Makeup": [
           {
             "asin": "B07HWPH1MP",
@@ -312,6 +300,18 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71ucO6TV+oL.jpg",
             "url": "https://www.amazon.com/dp/B09998HYQP?tag=noya0b-20"
+          }
+        ],
+        "Nails": [
+          {
+            "asin": "B097BSKN9P",
+            "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
+            "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
           }
         ],
         "Body Care": [
@@ -365,7 +365,7 @@
           "discount": 35,
           "rating": "HOT",
           "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/61p-ezsgw+L._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0F84LQRYZ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1bc5b5a89f097f7be74785988a34571f&language=en_US"
         },
         {
@@ -377,6 +377,36 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/61flHF1LSTL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0B6KKPP2P?tag=noya0b-20"
+        },
+        {
+          "asin": "B00R42M8OS",
+          "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
+          "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
+        },
+        {
+          "asin": "B07HWPH1MP",
+          "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
+          "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
+        },
+        {
+          "asin": "B089W5FN7D",
+          "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
+          "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
         },
         {
           "asin": "B00E9MD3V8",
@@ -457,36 +487,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/51fA+Xs29OL._SL1200_.jpg",
           "url": "https://www.amazon.com/dp/B0GXF8YXXV/ref=nosim?tag=noya0b-20&th=1"
-        },
-        {
-          "asin": "B00R42M8OS",
-          "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
-          "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
-        },
-        {
-          "asin": "B07HWPH1MP",
-          "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
-          "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
-        },
-        {
-          "asin": "B089W5FN7D",
-          "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
-          "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
         },
         {
           "asin": "B07Q4N23MT",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-03T07:10:02.184Z",
-      "updatedAt": "2026-08-03T07:10:02.184Z"
+      "generatedAt": "2026-08-03T07:20:02.981Z",
+      "updatedAt": "2026-08-03T07:20:02.982Z"
     },
     {
       "date": "2026-08-02",
@@ -35528,5 +35528,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-08-03T07:10:02.194Z"
+  "generatedAt": "2026-08-03T07:20:02.993Z"
 }
