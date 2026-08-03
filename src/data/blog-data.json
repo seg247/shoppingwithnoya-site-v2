@@ -4,16 +4,43 @@
       "date": "2026-08-03",
       "slug": "2026-08-03",
       "title": "🔥 Best Deals Today — August 3, 2026",
-      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Electronics, Fashion, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Electronics, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
-        "Fashion",
         "Other",
+        "Beauty",
+        "Garden & Outdoor",
         "Home & Kitchen",
         "Toys & Kids",
-        "Personal Care"
+        "Fashion"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B08HHJNKZV",
+            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B09Z2FRNTK",
+            "slug": "navaris-desk-organizer-shelf-unit-desktop-shelves-for-table",
+            "title": "Navaris Desk Organizer Shelf Unit - Desktop Shelves for Table or Countertop - Free-Standing Adjustable Bamboo Shelving f",
+            "price": "$23.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Fh8f5FtVL.jpg",
+            "url": "https://www.amazon.com/dp/B09Z2FRNTK?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B082FHLT9B",
@@ -86,17 +113,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71xWQcJSQKL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F3BCTCJK?tag=noya0b-20"
-          },
-          {
-            "asin": "B0D1FZG9ZS",
-            "slug": "mhxw-sxpn-2-pack-bamboo-under-bed-storage-containers-with-wh",
-            "title": "MHXW SXPN 2 Pack Bamboo Under Bed Storage Containers with Wheels, Black | Underbed Drawer Storage with Bag, Wood Rolling",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81qh5DFJh1L.jpg",
-            "url": "https://www.amazon.com/dp/B0D1FZG9ZS?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -122,22 +138,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/716HtGQpPmL.jpg",
             "url": "https://www.amazon.com/dp/B0000645YM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0FWLMV6NH",
-            "slug": "philips-sonicare-diamondclean-9000-electric-toothbrush-bundl",
-            "title": "Philips Sonicare DiamondClean 9000 Electric Toothbrush Bundle, HX9912/71 | 2000% More Plaque Removal¹, Visual Pressure S",
-            "price": "$399.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JMyJ5BsAL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FWLMV6NH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08HHJNKZV",
+          "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+          "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+          "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+        },
+        {
+          "asin": "B09Z2FRNTK",
+          "slug": "navaris-desk-organizer-shelf-unit-desktop-shelves-for-table",
+          "title": "Navaris Desk Organizer Shelf Unit - Desktop Shelves for Table or Countertop - Free-Standing Adjustable Bamboo Shelving f",
+          "price": "$23.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Fh8f5FtVL.jpg",
+          "url": "https://www.amazon.com/dp/B09Z2FRNTK?tag=noya0b-20"
+        },
         {
           "asin": "B082FHLT9B",
           "slug": "amazoncom-canglong-dining-chairs-set-of-4-mid-century-modern",
@@ -225,34 +250,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/716HtGQpPmL.jpg",
           "url": "https://www.amazon.com/dp/B0000645YM?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0D1FZG9ZS",
-          "slug": "mhxw-sxpn-2-pack-bamboo-under-bed-storage-containers-with-wh",
-          "title": "MHXW SXPN 2 Pack Bamboo Under Bed Storage Containers with Wheels, Black | Underbed Drawer Storage with Bag, Wood Rolling",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81qh5DFJh1L.jpg",
-          "url": "https://www.amazon.com/dp/B0D1FZG9ZS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FWLMV6NH",
-          "slug": "philips-sonicare-diamondclean-9000-electric-toothbrush-bundl",
-          "title": "Philips Sonicare DiamondClean 9000 Electric Toothbrush Bundle, HX9912/71 | 2000% More Plaque Removal¹, Visual Pressure S",
-          "price": "$399.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JMyJ5BsAL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FWLMV6NH?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"Amazon.com - CangLong Dining Chairs Set of 4, Mid Century Mo...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Other and are updated daily."
+          "a": "The best deals today include \"Portable Air Conditioner Fan, Spray humidification, 3 in 1 A...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T08:10:02.117Z",
-      "updatedAt": "2026-08-03T08:10:02.117Z"
+      "generatedAt": "2026-08-03T08:20:01.537Z",
+      "updatedAt": "2026-08-03T08:20:01.537Z"
     },
     {
       "date": "2026-08-02",
@@ -15225,5 +15228,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T08:10:02.123Z"
+  "generatedAt": "2026-08-03T08:20:01.550Z"
 }
