@@ -9,12 +9,23 @@
         "Beauty",
         "Electronics",
         "Sports",
+        "Other",
         "Health",
-        "Tools & Hardware",
-        "Garden & Outdoor"
+        "Tools & Hardware"
       ],
       "byCategory": {
         "Beauty": [
+          {
+            "asin": "B07HWPH1MP",
+            "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
+            "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
+            "price": "$25.64",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
+          },
           {
             "asin": "B0175DVMMY",
             "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
@@ -36,17 +47,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61V7ch8HzGL._SL1348_.jpg",
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B08HHJNKZV",
-            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
-            "price": "$29.99",
+            "asin": "B09PSKG7C3",
+            "slug": "garmin-inreach-mini-2-satellite-communicator-orange-sos-sate",
+            "title": "Garmin inReach® Mini 2, Satellite Communicator, Orange | SOS Satellite Communicator with Navigation, Two-Way Messaging B",
+            "price": "$250.00",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51yVqDGXt4L._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B09PSKG7C3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Health": [
@@ -122,22 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51TWESR+NsL._AC_SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B0858C7X3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B09Y5G4283",
-            "slug": "ygyqz-desk-shelf-organizer-2-tier-desktop-bookshelf-black-wh",
-            "title": "YGYQZ Desk Shelf Organizer, 2-Tier Desktop Bookshelf, Black & White | Detachable Design, 2-Tier Storage, Multi-Use Deskt",
-            "price": "$22.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/619PDYUzn9L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09Y5G4283?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07HWPH1MP",
+          "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
+          "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
+          "price": "$25.64",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
+        },
+        {
+          "asin": "B09PSKG7C3",
+          "slug": "garmin-inreach-mini-2-satellite-communicator-orange-sos-sate",
+          "title": "Garmin inReach® Mini 2, Satellite Communicator, Orange | SOS Satellite Communicator with Navigation, Two-Way Messaging B",
+          "price": "$250.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51yVqDGXt4L._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B09PSKG7C3?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
         {
           "asin": "B0175DVMMY",
           "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
@@ -225,34 +247,12 @@
           "category": "Tools & Hardware",
           "imageUrl": "https://m.media-amazon.com/images/I/51TWESR+NsL._AC_SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B0858C7X3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B08HHJNKZV",
-          "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-          "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-          "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
-        },
-        {
-          "asin": "B09Y5G4283",
-          "slug": "ygyqz-desk-shelf-organizer-2-tier-desktop-bookshelf-black-wh",
-          "title": "YGYQZ Desk Shelf Organizer, 2-Tier Desktop Bookshelf, Black & White | Detachable Design, 2-Tier Storage, Multi-Use Deskt",
-          "price": "$22.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/619PDYUzn9L._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09Y5G4283?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face ...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Sports and are updated daily."
+          "a": "The best deals today include \"Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base T...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Sports and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T12:20:00.448Z",
-      "updatedAt": "2026-08-03T12:20:00.448Z"
+      "generatedAt": "2026-08-03T12:30:01.898Z",
+      "updatedAt": "2026-08-03T12:30:01.899Z"
     },
     {
       "date": "2026-08-02",
@@ -15225,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T12:20:00.453Z"
+  "generatedAt": "2026-08-03T12:30:01.904Z"
 }
