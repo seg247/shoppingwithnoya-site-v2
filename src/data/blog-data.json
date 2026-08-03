@@ -4,16 +4,29 @@
       "date": "2026-08-03",
       "slug": "2026-08-03",
       "title": "🔥 Best Deals Today — August 3, 2026",
-      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Electronics, Sports, Tools & Hardware and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Electronics, Sports, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
         "Sports",
+        "Health",
         "Tools & Hardware",
         "Beauty",
-        "Garden & Outdoor",
-        "Fashion"
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B0C2WJHQLT",
+            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
+            "price": "$30.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B09BF64J55",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/619PDYUzn9L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B09Y5G4283?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0F3BCTCJK",
-            "slug": "us-polo-assn-mens-fleece-full-zip-hoodie-with-stripe-heather",
-            "title": "U.S. Polo Assn. Men's Fleece Full-Zip Hoodie with Stripe, Heather Gray, Small at Amazon Men’s Clothing store",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xWQcJSQKL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F3BCTCJK?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0C2WJHQLT",
+          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
+          "price": "$30.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
+        },
         {
           "asin": "B09BF64J55",
           "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
@@ -236,23 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0F3BCTCJK",
-          "slug": "us-polo-assn-mens-fleece-full-zip-hoodie-with-stripe-heather",
-          "title": "U.S. Polo Assn. Men's Fleece Full-Zip Hoodie with Stripe, Heather Gray, Small at Amazon Men’s Clothing store",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xWQcJSQKL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F3BCTCJK?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wire...\" and 9 other hand-picked discounts. Deals span Electronics, Sports, Tools & Hardware and are updated daily."
+          "a": "The best deals today include \"DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premiu...\" and 9 other hand-picked discounts. Deals span Electronics, Sports, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T12:00:01.948Z",
-      "updatedAt": "2026-08-03T12:00:01.948Z"
+      "generatedAt": "2026-08-03T12:10:01.913Z",
+      "updatedAt": "2026-08-03T12:10:01.913Z"
     },
     {
       "date": "2026-08-02",
@@ -15225,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T12:00:01.953Z"
+  "generatedAt": "2026-08-03T12:10:01.918Z"
 }
