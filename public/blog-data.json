@@ -9,10 +9,37 @@
         "Home & Kitchen",
         "Electronics",
         "Fashion",
-        "Garden & Outdoor",
-        "Beauty"
+        "Tools & Hardware",
+        "Beauty",
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Tools & Hardware": [
+          {
+            "asin": "B0858C7X3M",
+            "slug": "dewalt-random-orbit-sander-variable-speed-5-inch-dwe6423-pow",
+            "title": "DEWALT Random Orbit Sander, Variable Speed, 5-Inch (DWE6423), Power Source Corded Electric",
+            "price": "$71.10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/51TWESR+NsL._AC_SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B0858C7X3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B08HHJNKZV",
+            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B09Y5G4283",
@@ -107,34 +134,32 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/614wG6B1dUL.jpg",
             "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
-          },
-          {
-            "asin": "B00FLYWNYQ",
-            "slug": "instant-pot-duo-7-in-1-electric-pressure-cooker-slow-cooker",
-            "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, I",
-            "price": "$104.67",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00R42M8OS",
-            "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
-            "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
-            "price": "$32.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0858C7X3M",
+          "slug": "dewalt-random-orbit-sander-variable-speed-5-inch-dwe6423-pow",
+          "title": "DEWALT Random Orbit Sander, Variable Speed, 5-Inch (DWE6423), Power Source Corded Electric",
+          "price": "$71.10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/51TWESR+NsL._AC_SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B0858C7X3M?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B08HHJNKZV",
+          "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+          "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+          "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+        },
         {
           "asin": "B09Y5G4283",
           "slug": "ygyqz-desk-shelf-organizer-2-tier-desktop-bookshelf-black-wh",
@@ -222,34 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/614wG6B1dUL.jpg",
           "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
-        },
-        {
-          "asin": "B00FLYWNYQ",
-          "slug": "instant-pot-duo-7-in-1-electric-pressure-cooker-slow-cooker",
-          "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, I",
-          "price": "$104.67",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B00R42M8OS",
-          "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
-          "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
-          "price": "$32.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"YGYQZ Desk Shelf Organizer, 2-Tier Desktop Bookshelf, Black ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"DEWALT Random Orbit Sander, Variable Speed, 5-Inch (DWE6423)...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T11:30:02.070Z",
-      "updatedAt": "2026-08-03T11:30:02.070Z"
+      "generatedAt": "2026-08-03T11:40:01.390Z",
+      "updatedAt": "2026-08-03T11:40:01.391Z"
     },
     {
       "date": "2026-08-02",
@@ -15222,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T11:30:02.076Z"
+  "generatedAt": "2026-08-03T11:40:01.396Z"
 }
