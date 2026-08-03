@@ -4,13 +4,51 @@
       "date": "2026-08-03",
       "slug": "2026-08-03",
       "title": "🔥 Best Deals Today — August 3, 2026",
-      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Beauty",
         "Home & Kitchen",
-        "Fashion"
+        "Beauty",
+        "Fashion",
+        "Electronics"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0GPW3BJ6V",
+            "slug": "dell-156-laptop-fhd-intel-core-ultra-5-225u-16gb-ram-windows",
+            "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home | Anti-Glare 300 Nits WVA, Intel Graphics, DDR",
+            "price": "$578.11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0F3BCTCJK",
+            "slug": "us-polo-assn-mens-fleece-full-zip-hoodie-with-stripe-heather",
+            "title": "U.S. Polo Assn. Men's Fleece Full-Zip Hoodie with Stripe, Heather Gray, Small at Amazon Men’s Clothing store",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71xWQcJSQKL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F3BCTCJK?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D1FZG9ZS",
+            "slug": "mhxw-sxpn-2-pack-bamboo-under-bed-storage-containers-with-wh",
+            "title": "MHXW SXPN 2 Pack Bamboo Under Bed Storage Containers with Wheels, Black | Underbed Drawer Storage with Bag, Wood Rolling",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81qh5DFJh1L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D1FZG9ZS?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B07H5T2T2S",
@@ -57,19 +95,6 @@
             "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
           }
         ],
-        "Fashion": [
-          {
-            "asin": "B0D1FZG9ZS",
-            "slug": "mhxw-sxpn-2-pack-bamboo-under-bed-storage-containers-with-wh",
-            "title": "MHXW SXPN 2 Pack Bamboo Under Bed Storage Containers with Wheels, Black | Underbed Drawer Storage with Bag, Wood Rolling",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81qh5DFJh1L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D1FZG9ZS?tag=noya0b-20"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B00R42M8OS",
@@ -103,32 +128,32 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
-          },
-          {
-            "asin": "B0C1DWP9LK",
-            "slug": "hoover-powerdash-pet-compact-carpet-cleaner-lightweight-carp",
-            "title": "Hoover PowerDash Pet+ Compact Carpet Cleaner, Lightweight Carpet Shampooer | Heatforce Faster Drying, Pet Brush Roll, Us",
-            "price": "$107.94",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vXnknHAVL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C1DWP9LK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B09HSGD74T",
-            "slug": "collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
-            "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic",
-            "price": "$17.17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GPW3BJ6V",
+          "slug": "dell-156-laptop-fhd-intel-core-ultra-5-225u-16gb-ram-windows",
+          "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home | Anti-Glare 300 Nits WVA, Intel Graphics, DDR",
+          "price": "$578.11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UnG5C0XML._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GPW3BJ6V?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0F3BCTCJK",
+          "slug": "us-polo-assn-mens-fleece-full-zip-hoodie-with-stripe-heather",
+          "title": "U.S. Polo Assn. Men's Fleece Full-Zip Hoodie with Stripe, Heather Gray, Small at Amazon Men’s Clothing store",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71xWQcJSQKL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F3BCTCJK?tag=noya0b-20"
+        },
         {
           "asin": "B07H5T2T2S",
           "slug": "cuisinart-electric-knife-set-with-cutting-board-electric-kni",
@@ -216,38 +241,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C1DWP9LK",
-          "slug": "hoover-powerdash-pet-compact-carpet-cleaner-lightweight-carp",
-          "title": "Hoover PowerDash Pet+ Compact Carpet Cleaner, Lightweight Carpet Shampooer | Heatforce Faster Drying, Pet Brush Roll, Us",
-          "price": "$107.94",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vXnknHAVL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C1DWP9LK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B09HSGD74T",
-          "slug": "collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
-          "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic",
-          "price": "$17.17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"Cuisinart Electric Knife Set with Cutting Board, Electric Kn...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Fashion and are updated daily."
+          "a": "The best deals today include \"Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Wi...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -262,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T11:10:01.718Z",
-      "updatedAt": "2026-08-03T11:10:01.718Z"
+      "generatedAt": "2026-08-03T11:20:01.914Z",
+      "updatedAt": "2026-08-03T11:20:01.914Z"
     },
     {
       "date": "2026-08-02",
@@ -15216,5 +15219,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T11:10:01.724Z"
+  "generatedAt": "2026-08-03T11:20:01.920Z"
 }
