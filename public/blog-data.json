@@ -4,17 +4,75 @@
       "date": "2026-08-03",
       "slug": "2026-08-03",
       "title": "🔥 Best Deals Today — August 3, 2026",
-      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Garden & Outdoor, Sports, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 3, 2026 — 10 hand-picked discounts across Electronics, Sports, Pet Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Garden & Outdoor",
-        "Sports",
         "Electronics",
+        "Sports",
+        "Pet Supplies",
+        "Garden & Outdoor",
         "Other",
-        "Beauty",
-        "Home & Kitchen",
-        "Toys & Kids"
+        "Beauty"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B08TX1N211",
+            "slug": "wireless-earbuds-active-noise-cancelling",
+            "title": "Wireless Earbuds Active Noise Cancelling",
+            "price": "$26.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
+          },
+          {
+            "asin": "B09BF64J55",
+            "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
+            "title": "KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wireless Headphones with Microphone, Foldable Lightweight Headse",
+            "price": "$18.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
+          },
+          {
+            "asin": "B00Q3I8H80",
+            "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
+            "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S",
+            "price": "$13.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DX2DPJZ5",
+            "slug": "samsung-ssd-9100-pro-2tb-pcie-50x4-m2-2280-up-to-14700mbs-nv",
+            "title": "Samsung SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Up to 14,700MB/s | NVMe Internal Solid State Hard Drive best for AI Compu",
+            "price": "$379.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71qygJIcKnL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DX2DPJZ5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B08T1X4SWH",
+            "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
+            "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
+            "price": "$15.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0773BDR17",
@@ -26,17 +84,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/81JIOh+rYcL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0773BDR17?tag=noya0b-20"
-          },
-          {
-            "asin": "B09Z2FRNTK",
-            "slug": "navaris-desk-organizer-shelf-unit-desktop-shelves-for-table",
-            "title": "Navaris Desk Organizer Shelf Unit - Desktop Shelves for Table or Countertop - Free-Standing Adjustable Bamboo Shelving f",
-            "price": "$23.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Fh8f5FtVL.jpg",
-            "url": "https://www.amazon.com/dp/B09Z2FRNTK?tag=noya0b-20"
           }
         ],
         "Sports": [
@@ -61,30 +108,6 @@
             "category": "Sports",
             "imageUrl": "https://m.media-amazon.com/images/I/61RKLoB1AIL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0H5C5Y9NW?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DX2DPJZ5",
-            "slug": "samsung-ssd-9100-pro-2tb-pcie-50x4-m2-2280-up-to-14700mbs-nv",
-            "title": "Samsung SSD 9100 PRO 2TB, PCIe 5.0x4 M.2 2280, Up to 14,700MB/s | NVMe Internal Solid State Hard Drive best for AI Compu",
-            "price": "$379.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qygJIcKnL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DX2DPJZ5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0FB4789W5",
-            "slug": "samsung-galaxy-a56-5g-cell-phone-128gb-ai-smartphone-unlocke",
-            "title": "Samsung Galaxy A56 5G Cell Phone, 128GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life",
-            "price": "$373.24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61G910ED7hL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FB4789W5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Other": [
@@ -112,35 +135,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
             "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B082FHLT9B",
-            "slug": "amazoncom-canglong-dining-chairs-set-of-4-mid-century-modern",
-            "title": "Amazon.com - CangLong Dining Chairs Set of 4, Mid Century Modern Kitchen and Dining Chair, Soft Padded Dining Desk Chair",
-            "price": "$89",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51gl94UblML._AC_SL1478_.jpg",
-            "url": "https://www.amazon.com/dp/B082FHLT9B/ref=cm_sw_r_as_gl_apa_gl_i_CQ27X26K2VSKRH8B4N90?linkCode=ml1&tag=noya0b-20&linkId=78251e6658c71eef18b0743f4c0744ac&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0CVNQC2PT",
-            "slug": "safety-1st-summit-quad-wagon-stroller-4-seat-quad-stroller-w",
-            "title": "Safety 1st Summit Quad Wagon Stroller, 4 Seat Quad Stroller Wagon, Navy Ink : Toys & Games",
-            "price": "$133",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81-50fLviRL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CVNQC2PT/ref=cm_sw_r_as_gl_apa_gl_i_S7EK2Z8V6S9T62J8PBFY?linkCode=ml1&tag=noya0b-20&linkId=3d0c39f8a218f675608b509619b98d2f"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08TX1N211",
+          "slug": "wireless-earbuds-active-noise-cancelling",
+          "title": "Wireless Earbuds Active Noise Cancelling",
+          "price": "$26.39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
+        },
+        {
+          "asin": "B09BF64J55",
+          "slug": "kvidio-bluetooth-headphones-over-ear-65-hours-playtime-wirel",
+          "title": "KVIDIO Bluetooth Headphones Over Ear, 65 Hours Playtime Wireless Headphones with Microphone, Foldable Lightweight Headse",
+          "price": "$18.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
+        },
+        {
+          "asin": "B00Q3I8H80",
+          "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
+          "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S",
+          "price": "$13.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
+        },
+        {
+          "asin": "B08T1X4SWH",
+          "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
+          "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
+          "price": "$15.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS._AC_SL1200_.jpg",
+          "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
+        },
         {
           "asin": "B0773BDR17",
           "slug": "garden-hose-pot-brass-outdoor-pot-for-garden-hose-storage-ho",
@@ -206,60 +247,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
           "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
-        },
-        {
-          "asin": "B09Z2FRNTK",
-          "slug": "navaris-desk-organizer-shelf-unit-desktop-shelves-for-table",
-          "title": "Navaris Desk Organizer Shelf Unit - Desktop Shelves for Table or Countertop - Free-Standing Adjustable Bamboo Shelving f",
-          "price": "$23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Fh8f5FtVL.jpg",
-          "url": "https://www.amazon.com/dp/B09Z2FRNTK?tag=noya0b-20"
-        },
-        {
-          "asin": "B082FHLT9B",
-          "slug": "amazoncom-canglong-dining-chairs-set-of-4-mid-century-modern",
-          "title": "Amazon.com - CangLong Dining Chairs Set of 4, Mid Century Modern Kitchen and Dining Chair, Soft Padded Dining Desk Chair",
-          "price": "$89",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51gl94UblML._AC_SL1478_.jpg",
-          "url": "https://www.amazon.com/dp/B082FHLT9B/ref=cm_sw_r_as_gl_apa_gl_i_CQ27X26K2VSKRH8B4N90?linkCode=ml1&tag=noya0b-20&linkId=78251e6658c71eef18b0743f4c0744ac&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FB4789W5",
-          "slug": "samsung-galaxy-a56-5g-cell-phone-128gb-ai-smartphone-unlocke",
-          "title": "Samsung Galaxy A56 5G Cell Phone, 128GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery Life",
-          "price": "$373.24",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61G910ED7hL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FB4789W5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B0CVNQC2PT",
-          "slug": "safety-1st-summit-quad-wagon-stroller-4-seat-quad-stroller-w",
-          "title": "Safety 1st Summit Quad Wagon Stroller, 4 Seat Quad Stroller Wagon, Navy Ink : Toys & Games",
-          "price": "$133",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81-50fLviRL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CVNQC2PT/ref=cm_sw_r_as_gl_apa_gl_i_S7EK2Z8V6S9T62J8PBFY?linkCode=ml1&tag=noya0b-20&linkId=3d0c39f8a218f675608b509619b98d2f"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 3, 2026?",
-          "a": "The best deals today include \"Garden Hose Pot - Brass Outdoor Pot for Garden Hose Storage ...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Sports, Electronics and are updated daily."
+          "a": "The best deals today include \"Wireless Earbuds Active Noise Cancelling...\" and 9 other hand-picked discounts. Deals span Electronics, Sports, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Garden & Outdoor and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-03T08:40:02.165Z",
-      "updatedAt": "2026-08-03T08:40:02.166Z"
+      "generatedAt": "2026-08-03T08:50:00.375Z",
+      "updatedAt": "2026-08-03T08:50:00.375Z"
     },
     {
       "date": "2026-08-02",
@@ -15228,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-03T08:40:02.171Z"
+  "generatedAt": "2026-08-03T08:50:00.381Z"
 }
