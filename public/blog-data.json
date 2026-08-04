@@ -4,13 +4,13 @@
       "date": "2026-08-04",
       "slug": "2026-08-04",
       "title": "🔥 Best Deals Today — August 4, 2026",
-      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Fashion, Electronics and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Gaming and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Fashion",
-        "Electronics",
         "Home & Kitchen",
-        "Grocery & Food"
+        "Gaming",
+        "Fashion",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -48,6 +48,17 @@
             "url": "https://www.amazon.com/dp/B0CXG19R1S?tag=noya0b-20"
           },
           {
+            "asin": "B0D47V6515",
+            "slug": "bio-bidet-bb1200-elongated-smart-bidet-warm-water-wash-heate",
+            "title": "Bio Bidet BB1200 Elongated Smart Bidet, Warm Water Wash, Heated Seat & Dryer, App & Remote Control",
+            "price": "$230.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51NO5OFqjwL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D47V6515?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
             "asin": "B0CC4H42RC",
             "slug": "everbrite-halloween-pumpkin-head-lamps-for-kids-2-pack-4xx-o",
             "title": "EverBrite Halloween Pumpkin Head Lamps for Kids 2-Pack $4.xx on Amazon (Reg $9)!",
@@ -57,17 +68,56 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/716DUDxLukL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CC4H42RC?th=1&linkCode=sl2&tag=noya0b-20&linkId=c80fed0354f603dc4c3e0e94cd8c48c8&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Gaming": [
           {
-            "asin": "B000N35G5S",
-            "slug": "expo-low-odor-dry-erase-markers-fine-tip-black-4-count-home",
-            "title": "EXPO Low Odor Dry Erase Markers, Fine Tip, Black, 4 Count - Home Organization, Study Supplies : Office Products",
-            "price": "$4",
+            "asin": "B0DDXQKW2D",
+            "slug": "hot-potato-the-card-game",
+            "title": "Hot potato the card game! 🥔",
+            "price": "$9",
+            "discount": 62,
+            "rating": "FIRE",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/81FLCywVEBL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DDXQKW2D?linkCode=sl2&tag=noya0b-20&linkId=ad7d84cd88d336c10262047e7ed423a2&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0GVYHDKD6",
+            "slug": "nylon-tote-bag-for-women-lightweight-crossbody-purse-top-han",
+            "title": "Nylon Tote Bag for Women, Lightweight Crossbody Purse Top Handle Handbag Fits Casual Everyday and Work",
+            "price": "$32.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71QjwHcHLgL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B000N35G5S?channelId=1&lv=shuf&plpRedirect=mhFallback&psc=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=b9a80c50feb823fef485328548b8b2f9&language=en_US&gaOptInStatus=true"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YsnvFzAdL._AC_SL1200_.jpg",
+            "url": "https://www.amazon.com/dp/B0GVYHDKD6?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0GT8RMQ9S",
+            "slug": "ibuypower-element-se-gaming-pc-desktop-computer-amd-ryzen-5",
+            "title": "iBUYPOWER Element SE Gaming PC Desktop Computer AMD Ryzen 5 8400F CPU, NVIDIA GeForce RTX 3050 6GB GPU, 16GB DDR5 RAM, 1",
+            "price": "$999.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Rdc5sJthL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GT8RMQ9S?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0989YML7R",
+            "slug": "dewalt-20v-max-portable-fan-battery-powered-rechargeable-cor",
+            "title": "DEWALT 20V MAX Portable Fan, Battery Powered Rechargeable Cordless Shop Fan, Up to 4.5 Hrs Runtime, Variable Speed, 650 ",
+            "price": "$91.08",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71axgOKVIQL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0989YML7R?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
         ],
         "Electronics": [
@@ -82,56 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81AdU9Fpm7L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/069401429X?linkCode=sl2&tag=noya0b-20&linkId=1a7c32c88ec0ada1e391755ced2bccb8&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0989YML7R",
-            "slug": "dewalt-20v-max-portable-fan-battery-powered-rechargeable-cor",
-            "title": "DEWALT 20V MAX Portable Fan, Battery Powered Rechargeable Cordless Shop Fan, Up to 4.5 Hrs Runtime, Variable Speed, 650 ",
-            "price": "$91.08",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71axgOKVIQL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0989YML7R?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00LLRLQZO",
-            "slug": "juicy-fruit-gum-original-bubble-gum-bulk-pack-40-piece-bottl",
-            "title": "JUICY FRUIT Gum, Original Bubble Gum Bulk Pack, 40-Piece Bottle (4 Pack) | On-the-go chewing gum, bubblegum candy, 4 pac",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81dVJQl2cJL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00LLRLQZO?th=1&linkCode=sl2&tag=noya0b-20&linkId=2e82a4b631f99337aa0ce65fd578ef99&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0BS4H4W2R",
-            "slug": "febreze-touch-fabric-spray-air-freshener-odor-fighting-fabri",
-            "title": "Febreze Touch Fabric Spray, Air Freshener, Odor-Fighting Fabric Refresher, Couch and Linen Spray, Sneaker Balls Alternat",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81SmxgOC3AL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BS4H4W2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=9a301659a3d587e6f48fa53e00389d9f&language=en_US"
-          },
-          {
-            "asin": "B0BS4H4W2R",
-            "slug": "febreze-touch-fabric-spray-air-freshener-odor-fighting-fabri",
-            "title": "Febreze Touch Fabric Spray, Air Freshener, Odor-Fighting Fabric Refresher, Couch and Linen Spray, Sneaker Balls Alternat",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81SmxgOC3AL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BS4H4W2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=9a301659a3d587e6f48fa53e00389d9f&language=en_US"
-          }
         ]
       },
       "deals": [
@@ -145,6 +145,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/91LiudqW5TL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B08P55F12T?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=716fe62852bc8be7f2a661d61d1577b5&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DDXQKW2D",
+          "slug": "hot-potato-the-card-game",
+          "title": "Hot potato the card game! 🥔",
+          "price": "$9",
+          "discount": 62,
+          "rating": "FIRE",
+          "category": "Gaming",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FLCywVEBL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DDXQKW2D?linkCode=sl2&tag=noya0b-20&linkId=ad7d84cd88d336c10262047e7ed423a2&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0FBW1TJYC",
@@ -167,6 +178,39 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81V4HEoPFbL.jpg",
           "url": "https://www.amazon.com/dp/B0CXG19R1S?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D47V6515",
+          "slug": "bio-bidet-bb1200-elongated-smart-bidet-warm-water-wash-heate",
+          "title": "Bio Bidet BB1200 Elongated Smart Bidet, Warm Water Wash, Heated Seat & Dryer, App & Remote Control",
+          "price": "$230.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51NO5OFqjwL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0D47V6515?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0GVYHDKD6",
+          "slug": "nylon-tote-bag-for-women-lightweight-crossbody-purse-top-han",
+          "title": "Nylon Tote Bag for Women, Lightweight Crossbody Purse Top Handle Handbag Fits Casual Everyday and Work",
+          "price": "$32.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61YsnvFzAdL._AC_SL1200_.jpg",
+          "url": "https://www.amazon.com/dp/B0GVYHDKD6?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GT8RMQ9S",
+          "slug": "ibuypower-element-se-gaming-pc-desktop-computer-amd-ryzen-5",
+          "title": "iBUYPOWER Element SE Gaming PC Desktop Computer AMD Ryzen 5 8400F CPU, NVIDIA GeForce RTX 3050 6GB GPU, 16GB DDR5 RAM, 1",
+          "price": "$999.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Rdc5sJthL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GT8RMQ9S?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "069401429X",
@@ -200,60 +244,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71axgOKVIQL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0989YML7R?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B00LLRLQZO",
-          "slug": "juicy-fruit-gum-original-bubble-gum-bulk-pack-40-piece-bottl",
-          "title": "JUICY FRUIT Gum, Original Bubble Gum Bulk Pack, 40-Piece Bottle (4 Pack) | On-the-go chewing gum, bubblegum candy, 4 pac",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81dVJQl2cJL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00LLRLQZO?th=1&linkCode=sl2&tag=noya0b-20&linkId=2e82a4b631f99337aa0ce65fd578ef99&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BS4H4W2R",
-          "slug": "febreze-touch-fabric-spray-air-freshener-odor-fighting-fabri",
-          "title": "Febreze Touch Fabric Spray, Air Freshener, Odor-Fighting Fabric Refresher, Couch and Linen Spray, Sneaker Balls Alternat",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81SmxgOC3AL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BS4H4W2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=9a301659a3d587e6f48fa53e00389d9f&language=en_US"
-        },
-        {
-          "asin": "B0BS4H4W2R",
-          "slug": "febreze-touch-fabric-spray-air-freshener-odor-fighting-fabri",
-          "title": "Febreze Touch Fabric Spray, Air Freshener, Odor-Fighting Fabric Refresher, Couch and Linen Spray, Sneaker Balls Alternat",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81SmxgOC3AL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BS4H4W2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=9a301659a3d587e6f48fa53e00389d9f&language=en_US"
-        },
-        {
-          "asin": "B000N35G5S",
-          "slug": "expo-low-odor-dry-erase-markers-fine-tip-black-4-count-home",
-          "title": "EXPO Low Odor Dry Erase Markers, Fine Tip, Black, 4 Count - Home Organization, Study Supplies : Office Products",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71QjwHcHLgL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B000N35G5S?channelId=1&lv=shuf&plpRedirect=mhFallback&psc=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=b9a80c50feb823fef485328548b8b2f9&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 4, 2026?",
-          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Electronics and are updated daily."
+          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Gaming and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 80% off on \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\". There are 3 deals with verified discounts today."
+          "a": "The biggest discount today is 80% off on \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\". There are 4 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T15:40:01.696Z",
-      "updatedAt": "2026-08-04T15:40:01.696Z"
+      "generatedAt": "2026-08-04T15:50:01.414Z",
+      "updatedAt": "2026-08-04T15:50:01.414Z"
     },
     {
       "date": "2026-08-03",
@@ -15490,5 +15490,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T15:40:01.700Z"
+  "generatedAt": "2026-08-04T15:50:01.420Z"
 }
