@@ -10,9 +10,9 @@
         "Electronics",
         "Home & Kitchen",
         "Gaming",
-        "Fashion",
-        "Toys & Kids",
-        "Beauty"
+        "Garden & Outdoor",
+        "Beauty",
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -78,6 +78,17 @@
         ],
         "Electronics": [
           {
+            "asin": "B0F5VR52WZ",
+            "slug": "samsung-32-m8-m80f-series-4k-uhd-smart-monitor-samsung-visio",
+            "title": "Samsung 32” M8 (M80F) Series 4K UHD Smart Monitor | Samsung Vision AI, Smart TV Apps, Gaming Hub, USB-C, HDMI and USB-A,",
+            "price": "$349",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/SAMSUNG-Monitor-Display-Samsung-LS32FM803UNXZA/dp/B0F5VR52WZ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c3cd80ddb840cc80a5de8e7453ae0725&language=en_US&gaOptInStatus=true"
+          },
+          {
             "asin": "B08FDB3LVR",
             "slug": "oho-sunshine-bluetooth-audio-sunglasses-lightweight-open-ear",
             "title": "OhO sunshine Bluetooth Audio Sunglasses, Lightweight Open Ear Sport Glasses, 10H Playtime, UV400 ANSI Z87.1, Water Resis",
@@ -87,17 +98,32 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51eDQgVrBpL.jpg",
             "url": "https://www.amazon.com/OhO-Sunglasses-Bluetooth-Version-Wireless/dp/B08FDB3LVR?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=51cc8be1fc1db5b47b65cb705f38b717&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Garden & Outdoor": [
           {
-            "asin": "B0DCVX7XF2",
-            "slug": "wireless-lavalier-lapel-microphone-for-iphone-ipad-mini-vide",
-            "title": "Wireless Lavalier Lapel Microphone for iPhone, iPad, mini Video Recording Mic for Interview Video Podcast Vlog YouTube &",
-            "price": "$8",
+            "asin": "B0CNX62CJN",
+            "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
+            "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Net, Black)",
+            "price": "$109.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71amIzmePPL.jpg",
-            "url": "https://www.amazon.com/dp/B0DCVX7XF2?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0a4250a03abcefd205ac908b1071a82a&language=en_US&gaOptInStatus=true"
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Z5d-cDqRL.jpg",
+            "url": "https://www.amazon.com/dp/B0CNX62CJN?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B09LB91W1H",
+            "slug": "covergirl-clean-fresh-tinted-lip-balm-vegan-formula-hydratin",
+            "title": "CoverGirl Clean Fresh Tinted Lip Balm, Vegan Formula, Hydrating, Natural Finish, Bliss You Berry, 1 Count : Beauty & Per",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61gwyQ1sKVL.jpg",
+            "url": "https://www.amazon.com/dp/B09LB91W1H?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -111,32 +137,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/51tYU-WzMFL._AC_SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B093LRQHP9?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a7f06ee256ecc7ec4712b6344bb53671&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0DK7X8VKG",
-            "slug": "squishmallows-original-12in-star-wars-stormtrooper-plush-med",
-            "title": "Squishmallows Original 12in “Star Wars” Stormtrooper Plush (Medium-Sized) : Toys & Games",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DK7X8VKG?lv=shuf&gaOptInStatus=true&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ef054d306a1c4ce685d06da9d17ce&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0G27CVLMC",
-            "slug": "hempz-mini-moisturizer-set-hydrating-lotion-kit-for-body-and",
-            "title": "Hempz Mini Moisturizer Set, Hydrating Lotion Kit for Body and Hands, Beauty Actives Variety 4 pack, Travel Friendly, 2.2",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71u5-ZB+QuL.jpg",
-            "url": "https://www.amazon.com/dp/B0G27CVLMC?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -197,6 +197,39 @@
           "url": "https://www.amazon.com/dp/B0CXG19R1S?tag=noya0b-20"
         },
         {
+          "asin": "B0F5VR52WZ",
+          "slug": "samsung-32-m8-m80f-series-4k-uhd-smart-monitor-samsung-visio",
+          "title": "Samsung 32” M8 (M80F) Series 4K UHD Smart Monitor | Samsung Vision AI, Smart TV Apps, Gaming Hub, USB-C, HDMI and USB-A,",
+          "price": "$349",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/SAMSUNG-Monitor-Display-Samsung-LS32FM803UNXZA/dp/B0F5VR52WZ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=c3cd80ddb840cc80a5de8e7453ae0725&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CNX62CJN",
+          "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
+          "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Net, Black)",
+          "price": "$109.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Z5d-cDqRL.jpg",
+          "url": "https://www.amazon.com/dp/B0CNX62CJN?tag=noya0b-20"
+        },
+        {
+          "asin": "B09LB91W1H",
+          "slug": "covergirl-clean-fresh-tinted-lip-balm-vegan-formula-hydratin",
+          "title": "CoverGirl Clean Fresh Tinted Lip Balm, Vegan Formula, Hydrating, Natural Finish, Bliss You Berry, 1 Count : Beauty & Per",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61gwyQ1sKVL.jpg",
+          "url": "https://www.amazon.com/dp/B09LB91W1H?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B08FDB3LVR",
           "slug": "oho-sunshine-bluetooth-audio-sunglasses-lightweight-open-ear",
           "title": "OhO sunshine Bluetooth Audio Sunglasses, Lightweight Open Ear Sport Glasses, 10H Playtime, UV400 ANSI Z87.1, Water Resis",
@@ -217,39 +250,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/51tYU-WzMFL._AC_SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B093LRQHP9?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a7f06ee256ecc7ec4712b6344bb53671&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DCVX7XF2",
-          "slug": "wireless-lavalier-lapel-microphone-for-iphone-ipad-mini-vide",
-          "title": "Wireless Lavalier Lapel Microphone for iPhone, iPad, mini Video Recording Mic for Interview Video Podcast Vlog YouTube &",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71amIzmePPL.jpg",
-          "url": "https://www.amazon.com/dp/B0DCVX7XF2?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0a4250a03abcefd205ac908b1071a82a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DK7X8VKG",
-          "slug": "squishmallows-original-12in-star-wars-stormtrooper-plush-med",
-          "title": "Squishmallows Original 12in “Star Wars” Stormtrooper Plush (Medium-Sized) : Toys & Games",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DK7X8VKG?lv=shuf&gaOptInStatus=true&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b9ef054d306a1c4ce685d06da9d17ce&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G27CVLMC",
-          "slug": "hempz-mini-moisturizer-set-hydrating-lotion-kit-for-body-and",
-          "title": "Hempz Mini Moisturizer Set, Hydrating Lotion Kit for Body and Hands, Beauty Actives Variety 4 pack, Travel Friendly, 2.2",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71u5-ZB+QuL.jpg",
-          "url": "https://www.amazon.com/dp/B0G27CVLMC?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T19:50:02.116Z",
-      "updatedAt": "2026-08-04T19:50:02.116Z"
+      "generatedAt": "2026-08-04T20:00:02.073Z",
+      "updatedAt": "2026-08-04T20:00:02.073Z"
     },
     {
       "date": "2026-08-03",
@@ -15496,5 +15496,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T19:50:02.121Z"
+  "generatedAt": "2026-08-04T20:00:02.088Z"
 }
