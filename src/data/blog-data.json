@@ -4,13 +4,13 @@
       "date": "2026-08-04",
       "slug": "2026-08-04",
       "title": "🔥 Best Deals Today — August 4, 2026",
-      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Electronics, Health and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Electronics, Beauty and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Electronics",
+        "Beauty",
         "Health",
-        "Toys & Kids",
-        "Beauty"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -24,6 +24,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/91LiudqW5TL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08P55F12T?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=716fe62852bc8be7f2a661d61d1577b5&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GFNGRPRQ",
+            "slug": "lessonzoo-5-pack-toddler-girls-t-shirts-5-color-18-24-months",
+            "title": "LessonZoo 5 Pack Toddler Girls T-Shirts, 5-Color, 18-24 Months | Crew Neck, Short Sleeve, Ribbed Tops, Lettuce Trim, Cot",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81QqJ67TdsL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GFNGRPRQ/ref=cm_sw_r_as_gl_api_gl_i_S5KAP6X8BGN5K1HHF118?linkCode=ml1&tag=noya0b-20&linkId=fc7ca6898f79785a721424a0c47db1fb&gaOptInStatus=true"
           },
           {
             "asin": "B0DDSZP855",
@@ -46,28 +57,54 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61UpyYWjJCL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01D28ZOVQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B075J9FLP9",
-            "slug": "freshware-meal-prep-bowl-containers-30-pack-plastic-bowls-wi",
-            "title": "Freshware Meal Prep Bowl Containers [30 Pack] Plastic Bowls with Lids for Soup and Salad, Food Storage Bento Box, BPA Fr",
-            "price": "$12",
+            "asin": "B08DFBNG7F",
+            "slug": "asus-usb-bt500-usb-adapter-with-ultra-small-design-bluetooth",
+            "title": "ASUS USB-BT500 USB Adapter with Ultra Small Design, Bluetooth 5, Backward Compatible with Bluetooth®2.1/3.x/4.x, TAA Com",
+            "price": "$9.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81tlp7+vP9L.jpg",
-            "url": "https://www.amazon.com/dp/B075J9FLP9/ref=cm_sw_r_as_gl_api_gl_i_dl_8PDM164YN93GQ15JDNCA?linkCode=ml1&tag=noya0b-20&linkId=f55c3b0f2bb293b9ab5a0ef73e9fc9d6&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08DFBNG7F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
-            "asin": "B002E37158",
-            "slug": "glisten-garbage-disposer-cleaner-lemon-scent-odor-eliminator",
-            "title": "Glisten Garbage Disposer Cleaner, Lemon Scent Odor Eliminator, 4 Packets",
-            "price": "$3",
+            "asin": "B0D636PJ52",
+            "slug": "life360-tile-slim-wallet-finder-bluetooth-tracker-and-item-l",
+            "title": "Life360 Tile Slim - Wallet Finder, Bluetooth Tracker and Item Locator for Luggage Tags, Passports and More. Both iOS and",
+            "price": "$29",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dx14h-iKL.jpg",
-            "url": "https://www.amazon.com/dp/B002E37158/ref=cm_sw_r_as_gl_api_gl_i_0A4RQ9PX5MJA162AJABV?linkCode=ml1&tag=noya0b-20&linkId=9e41a51939959724f4e317edc592ffab&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WTpNKaUlL.jpg",
+            "url": "https://www.amazon.com/dp/B0D636PJ52/ref=cm_sw_r_as_gl_api_gl_i_dl_0PZ4M0632FJ1FPXPWK8P?linkCode=ml1&tag=noya0b-20&linkId=7c3306ece82cfa2aa8812717362668aa&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B01FA87072",
+            "slug": "jergens-in-shower-lotion-for-dry-skin-wet-skin-moisturizer-1",
+            "title": "Jergens In Shower Lotion For Dry Skin, Wet Skin Moisturizer, 10 oz, 4 Pack | Argan Oil, Hyaluronic Acid, Fast Absorption",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81tpH+n8bIL.jpg",
+            "url": "https://www.amazon.com/dp/B01FA87072/ref=cm_sw_r_as_gl_api_gl_i_R285X3NHB30V32DHHR0K?linkCode=ml1&tag=noya0b-20&linkId=b856c4363b398e6203abe59de5e70cb4&gaOptInStatus=true"
+          },
+          {
+            "asin": "B093VNWP94",
+            "slug": "cetaphil-advanced-radiance-face-cream-shea-butter-fragrance",
+            "title": "Cetaphil Advanced Radiance Face Cream, Shea Butter, Fragrance Free, 6 oz",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61himFiMvQL.jpg",
+            "url": "https://www.amazon.com/dp/B093VNWP94/ref=cm_sw_r_as_gl_api_gl_i_8FHVWFMG6JV6JW40MSMZ?linkCode=ml1&tag=noya0b-20&linkId=bf8d2b16809fb68d3527fbe379073fe4&gaOptInStatus=true"
           }
         ],
         "Health": [
@@ -95,43 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71PCL5H-PdL.jpg",
             "url": "https://www.amazon.com/dp/B08P3XN7S3/ref=cm_sw_r_as_gl_api_gl_i_KWTC4F4FD8HBNBEKCFHT?linkCode=ml1&tag=noya0b-20&linkId=10b78c5e5c5f27826fc42446bae5102a&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B093VNWP94",
-            "slug": "cetaphil-advanced-radiance-face-cream-shea-butter-fragrance",
-            "title": "Cetaphil Advanced Radiance Face Cream, Shea Butter, Fragrance Free, 6 oz",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61himFiMvQL.jpg",
-            "url": "https://www.amazon.com/dp/B093VNWP94/ref=cm_sw_r_as_gl_api_gl_i_8FHVWFMG6JV6JW40MSMZ?linkCode=ml1&tag=noya0b-20&linkId=bf8d2b16809fb68d3527fbe379073fe4&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0D7XK89B9",
-            "slug": "alka-seltzer-cold-cold-cough-fast-chewable-tablets-cough-med",
-            "title": "Alka-Seltzer Cold, Cold & Cough Fast Chewable Tablets, Cough Medicine, Multi-Symptom Relief, Body Aches and Pains, No Wa",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PH50EFYjL.jpg",
-            "url": "https://www.amazon.com/dp/B0D7XK89B9/ref=cm_sw_r_as_gl_api_gl_i_748NJ4D53JBX7FZMWS1Q?linkCode=ml1&tag=noya0b-20&linkId=4812e590f7b95be50a2b19930c9072c1&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CQV4RNTM",
-            "slug": "romuto-phone-holders-for-your-car-phone-holder-mountsuper-su",
-            "title": "Romuto Phone Holders for Your Car Phone Holder Mount【Super Suction】Cell Phone Holder for Car Accessories for Women Men【3",
-            "price": "$12.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81hqSkTVvNL.jpg",
-            "url": "https://www.amazon.com/dp/B0CQV4RNTM?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +145,50 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/91LiudqW5TL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B08P55F12T?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=716fe62852bc8be7f2a661d61d1577b5&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GFNGRPRQ",
+          "slug": "lessonzoo-5-pack-toddler-girls-t-shirts-5-color-18-24-months",
+          "title": "LessonZoo 5 Pack Toddler Girls T-Shirts, 5-Color, 18-24 Months | Crew Neck, Short Sleeve, Ribbed Tops, Lettuce Trim, Cot",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81QqJ67TdsL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GFNGRPRQ/ref=cm_sw_r_as_gl_api_gl_i_S5KAP6X8BGN5K1HHF118?linkCode=ml1&tag=noya0b-20&linkId=fc7ca6898f79785a721424a0c47db1fb&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08DFBNG7F",
+          "slug": "asus-usb-bt500-usb-adapter-with-ultra-small-design-bluetooth",
+          "title": "ASUS USB-BT500 USB Adapter with Ultra Small Design, Bluetooth 5, Backward Compatible with Bluetooth®2.1/3.x/4.x, TAA Com",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B08DFBNG7F?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B01FA87072",
+          "slug": "jergens-in-shower-lotion-for-dry-skin-wet-skin-moisturizer-1",
+          "title": "Jergens In Shower Lotion For Dry Skin, Wet Skin Moisturizer, 10 oz, 4 Pack | Argan Oil, Hyaluronic Acid, Fast Absorption",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81tpH+n8bIL.jpg",
+          "url": "https://www.amazon.com/dp/B01FA87072/ref=cm_sw_r_as_gl_api_gl_i_R285X3NHB30V32DHHR0K?linkCode=ml1&tag=noya0b-20&linkId=b856c4363b398e6203abe59de5e70cb4&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D636PJ52",
+          "slug": "life360-tile-slim-wallet-finder-bluetooth-tracker-and-item-l",
+          "title": "Life360 Tile Slim - Wallet Finder, Bluetooth Tracker and Item Locator for Luggage Tags, Passports and More. Both iOS and",
+          "price": "$29",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WTpNKaUlL.jpg",
+          "url": "https://www.amazon.com/dp/B0D636PJ52/ref=cm_sw_r_as_gl_api_gl_i_dl_0PZ4M0632FJ1FPXPWK8P?linkCode=ml1&tag=noya0b-20&linkId=7c3306ece82cfa2aa8812717362668aa&gaOptInStatus=true"
         },
         {
           "asin": "B0C2WJHQLT",
@@ -200,56 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61UpyYWjJCL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01D28ZOVQ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B075J9FLP9",
-          "slug": "freshware-meal-prep-bowl-containers-30-pack-plastic-bowls-wi",
-          "title": "Freshware Meal Prep Bowl Containers [30 Pack] Plastic Bowls with Lids for Soup and Salad, Food Storage Bento Box, BPA Fr",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81tlp7+vP9L.jpg",
-          "url": "https://www.amazon.com/dp/B075J9FLP9/ref=cm_sw_r_as_gl_api_gl_i_dl_8PDM164YN93GQ15JDNCA?linkCode=ml1&tag=noya0b-20&linkId=f55c3b0f2bb293b9ab5a0ef73e9fc9d6&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D7XK89B9",
-          "slug": "alka-seltzer-cold-cold-cough-fast-chewable-tablets-cough-med",
-          "title": "Alka-Seltzer Cold, Cold & Cough Fast Chewable Tablets, Cough Medicine, Multi-Symptom Relief, Body Aches and Pains, No Wa",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PH50EFYjL.jpg",
-          "url": "https://www.amazon.com/dp/B0D7XK89B9/ref=cm_sw_r_as_gl_api_gl_i_748NJ4D53JBX7FZMWS1Q?linkCode=ml1&tag=noya0b-20&linkId=4812e590f7b95be50a2b19930c9072c1&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CQV4RNTM",
-          "slug": "romuto-phone-holders-for-your-car-phone-holder-mountsuper-su",
-          "title": "Romuto Phone Holders for Your Car Phone Holder Mount【Super Suction】Cell Phone Holder for Car Accessories for Women Men【3",
-          "price": "$12.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81hqSkTVvNL.jpg",
-          "url": "https://www.amazon.com/dp/B0CQV4RNTM?tag=noya0b-20"
-        },
-        {
-          "asin": "B002E37158",
-          "slug": "glisten-garbage-disposer-cleaner-lemon-scent-odor-eliminator",
-          "title": "Glisten Garbage Disposer Cleaner, Lemon Scent Odor Eliminator, 4 Packets",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71dx14h-iKL.jpg",
-          "url": "https://www.amazon.com/dp/B002E37158/ref=cm_sw_r_as_gl_api_gl_i_0A4RQ9PX5MJA162AJABV?linkCode=ml1&tag=noya0b-20&linkId=9e41a51939959724f4e317edc592ffab&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 4, 2026?",
-          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Health and are updated daily."
+          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T11:40:01.565Z",
-      "updatedAt": "2026-08-04T11:40:01.565Z"
+      "generatedAt": "2026-08-04T11:50:01.920Z",
+      "updatedAt": "2026-08-04T11:50:01.920Z"
     },
     {
       "date": "2026-08-03",
@@ -15490,5 +15490,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T11:40:01.570Z"
+  "generatedAt": "2026-08-04T11:50:01.925Z"
 }
