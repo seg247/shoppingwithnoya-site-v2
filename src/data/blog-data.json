@@ -9,9 +9,10 @@
         "Other",
         "Home & Kitchen",
         "Fashion",
+        "Beauty",
         "Grocery & Food",
-        "Health",
-        "Toys & Kids"
+        "Electronics",
+        "Health"
       ],
       "byCategory": {
         "Fashion": [
@@ -51,7 +52,44 @@
             "url": "https://www.amazon.com/dp/B0FMKDYVGX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e1040f3844df9e3b485c542d6b5f61e7&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0DGGJ8CRT",
+            "slug": "natures-live-multi-collagen-peptides-softgel-type-i-ii-iii-v",
+            "title": "✨Nature's live Multi Collagen Peptides Softgel - Type I, II, III, V, X | Hydrolyzed Collagen Peptides with Biotin, Hyalu",
+            "price": "$25.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RngtrjjFL.jpg",
+            "url": "https://www.amazon.com/dp/B0DGGJ8CRT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=620390d765ae27024d227b733033f7ba&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B08HM1CRDW",
+            "slug": "qcen-juicer-machine-500w-centrifugal-juicer-with-extra-wide",
+            "title": "✨QCen Juicer Machine 500W Centrifugal Juicer with Extra Wide Feed Chute | For Fruits And Vegetables, Stainless Steel, BP",
+            "price": "$34.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nonehjNMS.jpg",
+            "url": "https://www.amazon.com/dp/B08HM1CRDW?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c5e78a2803aa6228d94974f940b407&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B004B9M5Y0",
+            "slug": "royal-gelatin-fat-free-dessert-mix-strawberry-14-ounce-pack",
+            "title": "✨Royal Gelatin, Fat Free Dessert Mix, Strawberry, 1.4 Ounce (Pack of 12)",
+            "price": "$10.08",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/8153MpAljBL.jpg",
+            "url": "https://www.amazon.com/dp/B004B9M5Y0?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2863035f0391fd4e04bed567d1adb533&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B00X5T558K",
             "slug": "tossware-pop-9oz-flute-premium-quality-recyclable-unbreakabl",
@@ -73,67 +111,32 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/0062378074?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=eef7ebd5628ec09098863529b0333f92&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0B2BKL5KT",
-            "slug": "post-it-transparent-notes-28-x-28-in-clear-12-pads-school-su",
-            "title": "Post-it Transparent Notes, 2.8 x 2.8 in, Clear, 12 Pads | School Supplies, Office Products, Great for Studying : Office ",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-pjFe+6aL.jpg",
-            "url": "https://www.amazon.com/dp/B0B2BKL5KT?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e3d12871a800b1b57a9f5c27874721d7&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07P2CWWVV",
-            "slug": "micro-ingredients-organic-lions-mane-mushroom-powder-16oz-pu",
-            "title": "✨Micro Ingredients Organic Lion’s Mane Mushroom Powder, 16oz | Pure Fruiting Body Superfood | Supports Brain, Focus, Ene",
-            "price": "$31.16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/712yuU4vzrL.jpg",
-            "url": "https://www.amazon.com/dp/B07P2CWWVV?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=be4c5146c82d5831d47196ca3d1ca21c&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Grocery & Food": [
+        "Electronics": [
           {
-            "asin": "B07W1X3PGS",
-            "slug": "amazon-grocery-ground-thyme-2-oz",
-            "title": "✨Amazon Grocery, Ground Thyme, 2 Oz",
-            "price": "$3.57",
+            "asin": "B08264XHCZ",
+            "slug": "apple-ipad-7th-generation-102-inch-2019-32gb-wi-fi-space-gra",
+            "title": "✨Apple iPad (7th Generation, 10.2-inch, 2019), 32GB, Wi-Fi, Space Gray (Renewed)",
+            "price": "$101.00",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71stiGdv-0L.jpg",
-            "url": "https://www.amazon.com/dp/B07W1X3PGS?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b2704a98987ed928c7aadecd01ef1c79&language=en_US&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81IjVvOXGdL.jpg",
+            "url": "https://www.amazon.com/dp/B08264XHCZ?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d606f67f55a47c7b6fbeedcfc4b4b224&language=en_US&gaOptInStatus=true"
           }
         ],
         "Health": [
           {
-            "asin": "B074F2MKDL",
-            "slug": "animal-flex-powder-joint-support-supplement-for-pain-relief",
-            "title": "✨Animal Flex Powder - Joint Support Supplement for Pain Relief, Repair and Restore Muscles with Turmeric, Glucosamine, C",
-            "price": "$30.95",
+            "asin": "B0FK3PFRPK",
+            "slug": "wikiray-probiotics-for-dogs-soft-chews-for-digestive-health",
+            "title": "✨wikiRay Probiotics for Dogs – Soft Chews for Digestive Health & Immunity | 120 Chews | 3 Billion CFU, Pumpkin, Enzymes,",
+            "price": "$25.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qPpaF7OwL.jpg",
-            "url": "https://www.amazon.com/dp/B074F2MKDL?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=de1d54180a8af1e31bea97337f8994a8&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B07RYB63DC",
-            "slug": "spot-bam-bones-plus-t-bone-bamboo-fiber-nylon-dog-chew-toy-f",
-            "title": "✨SPOT Bam-Bones Plus T Bone – Bamboo Fiber & Nylon Dog Chew Toy for Moderate to Aggressive Chewers, Durable Long Lasting",
-            "price": "$7.20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/711eub-KpWL.jpg",
-            "url": "https://www.amazon.com/dp/B07RYB63DC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3c85f489dc6994ec383fee89cf72db12&language=en_US&gaOptInStatus=true"
+            "imageUrl": "https://m.media-amazon.com/images/I/71B0Q+wTGgL.jpg",
+            "url": "https://www.amazon.com/dp/B0FK3PFRPK?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5119b0d89b68529c97077ecb4f8887ed&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -159,6 +162,61 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/716HtGQpPmL.jpg",
           "url": "https://www.amazon.com/dp/B0000645YM?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0DGGJ8CRT",
+          "slug": "natures-live-multi-collagen-peptides-softgel-type-i-ii-iii-v",
+          "title": "✨Nature's live Multi Collagen Peptides Softgel - Type I, II, III, V, X | Hydrolyzed Collagen Peptides with Biotin, Hyalu",
+          "price": "$25.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RngtrjjFL.jpg",
+          "url": "https://www.amazon.com/dp/B0DGGJ8CRT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=620390d765ae27024d227b733033f7ba&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08HM1CRDW",
+          "slug": "qcen-juicer-machine-500w-centrifugal-juicer-with-extra-wide",
+          "title": "✨QCen Juicer Machine 500W Centrifugal Juicer with Extra Wide Feed Chute | For Fruits And Vegetables, Stainless Steel, BP",
+          "price": "$34.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nonehjNMS.jpg",
+          "url": "https://www.amazon.com/dp/B08HM1CRDW?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c5e78a2803aa6228d94974f940b407&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B004B9M5Y0",
+          "slug": "royal-gelatin-fat-free-dessert-mix-strawberry-14-ounce-pack",
+          "title": "✨Royal Gelatin, Fat Free Dessert Mix, Strawberry, 1.4 Ounce (Pack of 12)",
+          "price": "$10.08",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/8153MpAljBL.jpg",
+          "url": "https://www.amazon.com/dp/B004B9M5Y0?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2863035f0391fd4e04bed567d1adb533&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08264XHCZ",
+          "slug": "apple-ipad-7th-generation-102-inch-2019-32gb-wi-fi-space-gra",
+          "title": "✨Apple iPad (7th Generation, 10.2-inch, 2019), 32GB, Wi-Fi, Space Gray (Renewed)",
+          "price": "$101.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81IjVvOXGdL.jpg",
+          "url": "https://www.amazon.com/dp/B08264XHCZ?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d606f67f55a47c7b6fbeedcfc4b4b224&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FK3PFRPK",
+          "slug": "wikiray-probiotics-for-dogs-soft-chews-for-digestive-health",
+          "title": "✨wikiRay Probiotics for Dogs – Soft Chews for Digestive Health & Immunity | 120 Chews | 3 Billion CFU, Pumpkin, Enzymes,",
+          "price": "$25.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71B0Q+wTGgL.jpg",
+          "url": "https://www.amazon.com/dp/B0FK3PFRPK?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5119b0d89b68529c97077ecb4f8887ed&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B00X5T558K",
@@ -192,61 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61y9D0o6zKL.jpg",
           "url": "https://www.amazon.com/dp/B0FMKDYVGX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e1040f3844df9e3b485c542d6b5f61e7&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0B2BKL5KT",
-          "slug": "post-it-transparent-notes-28-x-28-in-clear-12-pads-school-su",
-          "title": "Post-it Transparent Notes, 2.8 x 2.8 in, Clear, 12 Pads | School Supplies, Office Products, Great for Studying : Office ",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71-pjFe+6aL.jpg",
-          "url": "https://www.amazon.com/dp/B0B2BKL5KT?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e3d12871a800b1b57a9f5c27874721d7&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07W1X3PGS",
-          "slug": "amazon-grocery-ground-thyme-2-oz",
-          "title": "✨Amazon Grocery, Ground Thyme, 2 Oz",
-          "price": "$3.57",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71stiGdv-0L.jpg",
-          "url": "https://www.amazon.com/dp/B07W1X3PGS?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b2704a98987ed928c7aadecd01ef1c79&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B074F2MKDL",
-          "slug": "animal-flex-powder-joint-support-supplement-for-pain-relief",
-          "title": "✨Animal Flex Powder - Joint Support Supplement for Pain Relief, Repair and Restore Muscles with Turmeric, Glucosamine, C",
-          "price": "$30.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qPpaF7OwL.jpg",
-          "url": "https://www.amazon.com/dp/B074F2MKDL?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=de1d54180a8af1e31bea97337f8994a8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07P2CWWVV",
-          "slug": "micro-ingredients-organic-lions-mane-mushroom-powder-16oz-pu",
-          "title": "✨Micro Ingredients Organic Lion’s Mane Mushroom Powder, 16oz | Pure Fruiting Body Superfood | Supports Brain, Focus, Ene",
-          "price": "$31.16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/712yuU4vzrL.jpg",
-          "url": "https://www.amazon.com/dp/B07P2CWWVV?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=be4c5146c82d5831d47196ca3d1ca21c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07RYB63DC",
-          "slug": "spot-bam-bones-plus-t-bone-bamboo-fiber-nylon-dog-chew-toy-f",
-          "title": "✨SPOT Bam-Bones Plus T Bone – Bamboo Fiber & Nylon Dog Chew Toy for Moderate to Aggressive Chewers, Durable Long Lasting",
-          "price": "$7.20",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/711eub-KpWL.jpg",
-          "url": "https://www.amazon.com/dp/B07RYB63DC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3c85f489dc6994ec383fee89cf72db12&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T02:10:01.452Z",
-      "updatedAt": "2026-08-04T02:10:01.452Z"
+      "generatedAt": "2026-08-04T02:20:02.059Z",
+      "updatedAt": "2026-08-04T02:20:02.059Z"
     },
     {
       "date": "2026-08-02",
@@ -15225,5 +15228,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T02:10:01.465Z"
+  "generatedAt": "2026-08-04T02:20:02.072Z"
 }
