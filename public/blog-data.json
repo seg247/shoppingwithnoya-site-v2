@@ -4,13 +4,13 @@
       "date": "2026-08-04",
       "slug": "2026-08-04",
       "title": "🔥 Best Deals Today — August 4, 2026",
-      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Electronics and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Pet Supplies and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Garden & Outdoor",
+        "Pet Supplies",
         "Electronics",
-        "Appliances",
-        "Fashion"
+        "Appliances"
       ],
       "byCategory": {
         "Other": [
@@ -68,20 +68,33 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01MDTVZTZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=4fbac5c09f9557e55e054bcf6a0da805&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Pet Supplies": [
           {
-            "asin": "B08GCN1FJ9",
-            "slug": "saucony-womens-816-pairs-performance-heel-tab-athletic-socks",
-            "title": "Saucony Women's 8/16 Pairs Performance Heel Tab Athletic Socks, Black White Assorted (8 Pairs), Large at Amazon Women’s ",
-            "price": "$8",
+            "asin": "B08T1X4SWH",
+            "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
+            "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
+            "price": "$14.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/915sx39wvYL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08GCN1FJ9/ref=cm_sw_r_as_gl_api_gl_i_dl_12AY39STY97GAG5RHQ8J?linkCode=ml1&tag=noya0b-20&linkId=7ce409bec13c881c47833471ff73f6ab&gaOptInStatus=true"
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS.jpg",
+            "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
+          {
+            "asin": "B0773BDR17",
+            "slug": "garden-hose-pot-brass-outdoor-pot-for-garden-hose-storage-ho",
+            "title": "Garden Hose Pot - Brass Outdoor Pot for Garden Hose Storage | Holds and Hides Large Water Hose for Decorative Lawn & Gar",
+            "price": "$114.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JIOh+rYcL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0773BDR17?tag=noya0b-20"
+          },
           {
             "asin": "B0CNX62CJN",
             "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GVYHDKD6",
-            "slug": "nylon-tote-bag-for-women-lightweight-crossbody-purse-top-han",
-            "title": "Nylon Tote Bag for Women, Lightweight Crossbody Purse Top Handle Handbag Fits Casual Everyday and Work(Gray): Handbags",
-            "price": "$32.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YsnvFzAdL._AC_SL1200_.jpg",
-            "url": "https://www.amazon.com/dp/B0GVYHDKD6?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,28 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81V4HEoPFbL.jpg",
           "url": "https://www.amazon.com/dp/B0CXG19R1S?tag=noya0b-20"
+        },
+        {
+          "asin": "B08T1X4SWH",
+          "slug": "dog-harness-collar-leash-set-no-pull-pet-adjustable-back-cli",
+          "title": "Dog Harness Collar Leash Set - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/618MyAWmEdS.jpg",
+          "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
+        },
+        {
+          "asin": "B0773BDR17",
+          "slug": "garden-hose-pot-brass-outdoor-pot-for-garden-hose-storage-ho",
+          "title": "Garden Hose Pot - Brass Outdoor Pot for Garden Hose Storage | Holds and Hides Large Water Hose for Decorative Lawn & Gar",
+          "price": "$114.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JIOh+rYcL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0773BDR17?tag=noya0b-20"
         },
         {
           "asin": "B0CNX62CJN",
@@ -222,34 +244,12 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01MDTVZTZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=4fbac5c09f9557e55e054bcf6a0da805&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GVYHDKD6",
-          "slug": "nylon-tote-bag-for-women-lightweight-crossbody-purse-top-han",
-          "title": "Nylon Tote Bag for Women, Lightweight Crossbody Purse Top Handle Handbag Fits Casual Everyday and Work(Gray): Handbags",
-          "price": "$32.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61YsnvFzAdL._AC_SL1200_.jpg",
-          "url": "https://www.amazon.com/dp/B0GVYHDKD6?tag=noya0b-20"
-        },
-        {
-          "asin": "B08GCN1FJ9",
-          "slug": "saucony-womens-816-pairs-performance-heel-tab-athletic-socks",
-          "title": "Saucony Women's 8/16 Pairs Performance Heel Tab Athletic Socks, Black White Assorted (8 Pairs), Large at Amazon Women’s ",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/915sx39wvYL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08GCN1FJ9/ref=cm_sw_r_as_gl_api_gl_i_dl_12AY39STY97GAG5RHQ8J?linkCode=ml1&tag=noya0b-20&linkId=7ce409bec13c881c47833471ff73f6ab&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 4, 2026?",
-          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Electronics and are updated daily."
+          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T14:00:02.107Z",
-      "updatedAt": "2026-08-04T14:00:02.107Z"
+      "generatedAt": "2026-08-04T14:10:01.741Z",
+      "updatedAt": "2026-08-04T14:10:01.741Z"
     },
     {
       "date": "2026-08-03",
@@ -15490,5 +15490,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T14:00:02.113Z"
+  "generatedAt": "2026-08-04T14:10:01.746Z"
 }
