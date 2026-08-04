@@ -4,12 +4,13 @@
       "date": "2026-08-04",
       "slug": "2026-08-04",
       "title": "🔥 Best Deals Today — August 4, 2026",
-      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Appliances, Fashion and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Electronics and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
+        "Garden & Outdoor",
+        "Electronics",
         "Appliances",
-        "Fashion",
-        "Jewelry"
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -78,17 +79,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/915sx39wvYL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08GCN1FJ9/ref=cm_sw_r_as_gl_api_gl_i_dl_12AY39STY97GAG5RHQ8J?linkCode=ml1&tag=noya0b-20&linkId=7ce409bec13c881c47833471ff73f6ab&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Garden & Outdoor": [
           {
-            "asin": "B0F9NMGZ1V",
-            "slug": "winzz-egm100-30-inches-real-kids-electric-guitar-with-beginn",
-            "title": "WINZZ EGM100 30 Inches Real Kids Electric Guitar with Beginner Kit, Right Handed (Roseburst)",
-            "price": "$60",
+            "asin": "B0CNX62CJN",
+            "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
+            "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Net, Black)",
+            "price": "$109.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YcKHlQ+qL.jpg",
-            "url": "https://www.amazon.com/dp/B0F9NMGZ1V/ref=cm_sw_r_as_gl_api_gl_i_JFXV317W90K88HKG09RJ?linkCode=ml1&tag=noya0b-20&linkId=66b96a073ac4ae93f9f9a440aff689db&gaOptInStatus=true"
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Z5d-cDqRL.jpg",
+            "url": "https://www.amazon.com/dp/B0CNX62CJN?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B00HZD3UXY",
+            "slug": "sony-zx-series-wired-on-ear-headphones-pink-mdr-zx110-electr",
+            "title": "Sony ZX Series Wired On-Ear Headphones, Pink MDR-ZX110 : Electronics",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41b8N0ZORmL.jpg",
+            "url": "https://www.amazon.com/dp/B00HZD3UXY?th=1&linkCode=sl2&tag=noya0b-20&linkId=3aebb3506487a83d25816f5cfd3344ea&language=en_US&gaOptInStatus=true"
           }
         ],
         "Appliances": [
@@ -116,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61YsnvFzAdL._AC_SL1200_.jpg",
             "url": "https://www.amazon.com/dp/B0GVYHDKD6?tag=noya0b-20"
           }
-        ],
-        "Jewelry": [
-          {
-            "asin": "B0H258DJ4N",
-            "slug": "pearl-necklace-and-earrings-jewelry-set-chunky-pearl-design",
-            "title": "Pearl Necklace and Earrings Jewelry Set | Chunky pearl design with necklace and earrings provides a statement look for w",
-            "price": "$3.84",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Jewelry",
-            "imageUrl": "https://m.media-amazon.com/images/I/61xzuiMBwrL.jpg",
-            "url": "https://www.amazon.com/dp/B0H258DJ4N?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -153,6 +156,28 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81V4HEoPFbL.jpg",
           "url": "https://www.amazon.com/dp/B0CXG19R1S?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CNX62CJN",
+          "slug": "baby-bouncer-chair-comfortable-support-for-your-little-ones",
+          "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Net, Black)",
+          "price": "$109.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Z5d-cDqRL.jpg",
+          "url": "https://www.amazon.com/dp/B0CNX62CJN?tag=noya0b-20"
+        },
+        {
+          "asin": "B00HZD3UXY",
+          "slug": "sony-zx-series-wired-on-ear-headphones-pink-mdr-zx110-electr",
+          "title": "Sony ZX Series Wired On-Ear Headphones, Pink MDR-ZX110 : Electronics",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/41b8N0ZORmL.jpg",
+          "url": "https://www.amazon.com/dp/B00HZD3UXY?th=1&linkCode=sl2&tag=noya0b-20&linkId=3aebb3506487a83d25816f5cfd3344ea&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0CBP3VV3V",
@@ -219,34 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/915sx39wvYL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B08GCN1FJ9/ref=cm_sw_r_as_gl_api_gl_i_dl_12AY39STY97GAG5RHQ8J?linkCode=ml1&tag=noya0b-20&linkId=7ce409bec13c881c47833471ff73f6ab&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0H258DJ4N",
-          "slug": "pearl-necklace-and-earrings-jewelry-set-chunky-pearl-design",
-          "title": "Pearl Necklace and Earrings Jewelry Set | Chunky pearl design with necklace and earrings provides a statement look for w",
-          "price": "$3.84",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Jewelry",
-          "imageUrl": "https://m.media-amazon.com/images/I/61xzuiMBwrL.jpg",
-          "url": "https://www.amazon.com/dp/B0H258DJ4N?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F9NMGZ1V",
-          "slug": "winzz-egm100-30-inches-real-kids-electric-guitar-with-beginn",
-          "title": "WINZZ EGM100 30 Inches Real Kids Electric Guitar with Beginner Kit, Right Handed (Roseburst)",
-          "price": "$60",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71YcKHlQ+qL.jpg",
-          "url": "https://www.amazon.com/dp/B0F9NMGZ1V/ref=cm_sw_r_as_gl_api_gl_i_JFXV317W90K88HKG09RJ?linkCode=ml1&tag=noya0b-20&linkId=66b96a073ac4ae93f9f9a440aff689db&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 4, 2026?",
-          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Appliances, Fashion and are updated daily."
+          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T13:50:01.791Z",
-      "updatedAt": "2026-08-04T13:50:01.792Z"
+      "generatedAt": "2026-08-04T14:00:02.107Z",
+      "updatedAt": "2026-08-04T14:00:02.107Z"
     },
     {
       "date": "2026-08-03",
@@ -15487,5 +15490,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T13:50:01.797Z"
+  "generatedAt": "2026-08-04T14:00:02.113Z"
 }
