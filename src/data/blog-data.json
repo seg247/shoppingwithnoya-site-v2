@@ -10,9 +10,8 @@
         "Fashion",
         "Home & Kitchen",
         "Gaming",
-        "Garden & Outdoor",
-        "Cleaning Supplies",
-        "Grocery & Food"
+        "Beauty",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Other": [
@@ -37,6 +36,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71TQeNnqwRL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FBW1TJYC?th=1&linkCode=sl2&tag=noya0b-20&linkId=a2e873adede3ae6c8a8ea0be29097eb2&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GC7DNCJM",
+            "slug": "tresemm-groundbreaking-workable-hairspray-a-list-collection",
+            "title": "TRESemmé Groundbreaking Workable Hairspray, A-List Collection The Devil Wears P A-LIST Collection for Brushable + Custom",
+            "price": "$6",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/6185IBfzE7L.jpg",
+            "url": "https://www.amazon.com/dp/B0GC7DNCJM?th=1&tag=noya0b-20"
           },
           {
             "asin": "B0C52XDF5X",
@@ -76,6 +86,19 @@
             "url": "https://www.amazon.com/dp/B0DDXQKW2D?linkCode=sl2&tag=noya0b-20&linkId=ad7d84cd88d336c10262047e7ed423a2&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0DBRJTLVW",
+            "slug": "the-face-shop-original-vegan-collagen-face-mask-korean-glass",
+            "title": "THE FACE SHOP Original Vegan Collagen Face Mask, Korean Glass Skin Essential, Peptide Hydrogel Mask for Firming & Skin E",
+            "price": "$9",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YpJpL2gwL.jpg",
+            "url": "https://www.amazon.com/dp/B0DBRJTLVW?th=1&tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B07SYP3N6C",
@@ -111,32 +134,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0G12GFQ4K?tag=noya0b-20"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0BSK1B5G3",
-            "slug": "tide-odor-defense-oxi-laundry-detergent-pacs-original-scent",
-            "title": "Tide Odor Defense + Oxi Laundry Detergent Pacs, Original Scent, 45 Count, Advanced Odor + Stain Fighter : Health & House",
-            "price": "$12",
-            "discount": 33,
-            "rating": "HOT",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81yGn2Sa5hL.jpg",
-            "url": "https://www.amazon.com/dp/B0BSK1B5G3?lv=shuf&ascsubtag=6dcd652c904111f19f23da6ac0933c330INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c27d83c5c8bcb8476b9205c657a64b66&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B01CK2ZGR2",
-            "slug": "amazoncom-candy-corded-stick-vacuum-cleaner-powerful-suction",
-            "title": "Amazon.com - Candy Corded Stick Vacuum Cleaner, Powerful Suction Handheld Vacuum with One-Click Dust Disposal, 3-in-1 Us",
-            "price": "$27",
-            "discount": 31,
-            "rating": "HOT",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41dFp5XQyQL.jpg",
-            "url": "https://www.amazon.com/dp/B01CK2ZGR2?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -186,6 +183,28 @@
           "url": "https://www.amazon.com/dp/B0FBW1TJYC?th=1&linkCode=sl2&tag=noya0b-20&linkId=a2e873adede3ae6c8a8ea0be29097eb2&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0DBRJTLVW",
+          "slug": "the-face-shop-original-vegan-collagen-face-mask-korean-glass",
+          "title": "THE FACE SHOP Original Vegan Collagen Face Mask, Korean Glass Skin Essential, Peptide Hydrogel Mask for Firming & Skin E",
+          "price": "$9",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61YpJpL2gwL.jpg",
+          "url": "https://www.amazon.com/dp/B0DBRJTLVW?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GC7DNCJM",
+          "slug": "tresemm-groundbreaking-workable-hairspray-a-list-collection",
+          "title": "TRESemmé Groundbreaking Workable Hairspray, A-List Collection The Devil Wears P A-LIST Collection for Brushable + Custom",
+          "price": "$6",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/6185IBfzE7L.jpg",
+          "url": "https://www.amazon.com/dp/B0GC7DNCJM?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B07SYP3N6C",
           "slug": "boshiho-retro-straw-woven-handbag-womens-cross-body-bag-shou",
           "title": "boshiho Retro Straw Woven Handbag Womens Cross Body Bag Shoulder Messenger Satchel (Large - Black) : Clothing, Shoes & J",
@@ -228,28 +247,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71X2giUZp9L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0CTZMPYPL?th=1&psc=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0BSK1B5G3",
-          "slug": "tide-odor-defense-oxi-laundry-detergent-pacs-original-scent",
-          "title": "Tide Odor Defense + Oxi Laundry Detergent Pacs, Original Scent, 45 Count, Advanced Odor + Stain Fighter : Health & House",
-          "price": "$12",
-          "discount": 33,
-          "rating": "HOT",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81yGn2Sa5hL.jpg",
-          "url": "https://www.amazon.com/dp/B0BSK1B5G3?lv=shuf&ascsubtag=6dcd652c904111f19f23da6ac0933c330INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c27d83c5c8bcb8476b9205c657a64b66&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01CK2ZGR2",
-          "slug": "amazoncom-candy-corded-stick-vacuum-cleaner-powerful-suction",
-          "title": "Amazon.com - Candy Corded Stick Vacuum Cleaner, Powerful Suction Handheld Vacuum with One-Click Dust Disposal, 3-in-1 Us",
-          "price": "$27",
-          "discount": 31,
-          "rating": "HOT",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/41dFp5XQyQL.jpg",
-          "url": "https://www.amazon.com/dp/B01CK2ZGR2?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T22:40:01.601Z",
-      "updatedAt": "2026-08-04T22:40:01.601Z"
+      "generatedAt": "2026-08-04T22:50:01.980Z",
+      "updatedAt": "2026-08-04T22:50:01.980Z"
     },
     {
       "date": "2026-08-03",
@@ -15496,5 +15493,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T22:40:01.607Z"
+  "generatedAt": "2026-08-04T22:50:01.986Z"
 }
