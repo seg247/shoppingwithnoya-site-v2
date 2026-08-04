@@ -4,17 +4,86 @@
       "date": "2026-08-04",
       "slug": "2026-08-04",
       "title": "🔥 Best Deals Today — August 4, 2026",
-      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Electronics, Home & Kitchen, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, August 4, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Electronics",
-        "Home & Kitchen",
-        "Grocery & Food",
         "Beauty",
-        "Personal Care",
-        "Cleaning Supplies"
+        "Home & Kitchen",
+        "Other",
+        "Electronics",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B07PH15X26",
+            "slug": "twin-flat-sheet-single-top-flat-sheet-only-breathable-coolin",
+            "title": "✨Twin Flat Sheet - Single Top Flat Sheet Only - Breathable & Cooling - White | Hotel Luxury Top Flat Sheet Only, Ultra-S",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71i2JL8ElCL.jpg",
+            "url": "https://www.amazon.com/dp/B07PH15X26?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d0eb73df32aeaa26203e139666bad9c9&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "0744084962",
+            "slug": "history-of-the-world-map-by-map-dk-history-map-by-map",
+            "title": "✨History of the World Map by Map (DK History Map by Map)",
+            "price": "$33.34",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ZyeQhclxL.jpg",
+            "url": "https://www.amazon.com/dp/0744084962?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=65fd71fbb788d714f0b2ca3645226a6e&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FNWJFQFM",
+            "slug": "medicube-kojic-acid-turmeric-brightening-body-wash-gentle-sh",
+            "title": "✨medicube Kojic Acid Turmeric Brightening Body Wash | Gentle Shower Gel for Uneven Skin | Niacinamide, Vitamin C, AHA/BH",
+            "price": "$19.80",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/713ZUcpzWWL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNWJFQFM?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a289ffe9903f3756235164ddd5148ec4&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B086SR1KML",
+            "slug": "slopehill-professional-ionic-hair-dryer-powerful-1800w-fast",
+            "title": "✨slopehill Professional Ionic Hair Dryer, Powerful 1800W Fast Drying Low Noise Blow Dryer with 2 Concentrator Nozzle 1 D",
+            "price": "$32.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51kihBCyCfL.jpg",
+            "url": "https://www.amazon.com/dp/B086SR1KML?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6558b64531b00af170b153b23a640f89&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FTQLDQ8L",
+            "slug": "jiyu-nad-hydrating-face-moisturizer-korean-anti-aging-cream",
+            "title": "✨JIYU NAD+ Hydrating Face Moisturizer – Korean Anti-Aging Cream for Radiant, Firm & Smooth Skin – Deeply Hydrating & Bri",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51t+PlLZKhL.jpg",
+            "url": "https://www.amazon.com/dp/B0FTQLDQ8L?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d515e1f2724b1622390011ebd636f4f0&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0GHQYZBR7",
+            "slug": "portable-clip-on-fan-mini-usb-rechargeable-360-rotatable-fan",
+            "title": "✨Portable Clip-On Fan, Mini USB Rechargeable 360° Rotatable Fan, Personal Fan 3-Speed Silent Mini Bladeless Fans (White)",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61i1zfn7FUL.jpg",
+            "url": "https://www.amazon.com/dp/B0GHQYZBR7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4895ee4444c2694bb94e6b77e5539b3e&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0B42B6NZF",
             "slug": "sturdy-clear-shoe-organizer-with-magnetic-door-stackable-sho",
@@ -49,39 +118,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/715ghRa+qxL.jpg",
             "url": "https://www.amazon.com/dp/B0CYT26HFJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3cb6e419a94b565e25cb5e71e40f6b38&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GT4L41VN",
-            "slug": "4k-dash-cam-front-and-rear-night-vision-wdr-free-card-includ",
-            "title": "✨4K Dash Cam Front and Rear, Night Vision, WDR, Free Card Included | 2K Rear Dash Camera for Cars, 170° Wide Angle, 5.8G",
-            "price": "$74.09",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/812Ciwl5KnL.jpg",
-            "url": "https://www.amazon.com/dp/B0GT4L41VN?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=859495eccd9531919b617c76fc67eef5&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GT4L41VN",
-            "slug": "4k-dash-cam-front-and-rear-night-vision-wdr-free-card-includ",
-            "title": "✨4K Dash Cam Front and Rear, Night Vision, WDR, Free Card Included | 2K Rear Dash Camera for Cars, 170° Wide Angle, 5.8G",
-            "price": "$74.09",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/812Ciwl5KnL.jpg",
-            "url": "https://www.amazon.com/dp/B0GT4L41VN?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=859495eccd9531919b617c76fc67eef5&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0G44NHJ5M",
-            "slug": "120inch-projector-screen-with-stand-portable-projector-scree",
-            "title": "✨120inch Projector Screen with Stand: Portable Projector Screen Outdoor Indoor Front/Rear16:9 4K HD with Carry Bag Sandb",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71W-XcCKRKL.jpg",
-            "url": "https://www.amazon.com/dp/B0G44NHJ5M?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3bc544cd59982b964f6b2fd732363347&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -96,48 +132,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81N5XOn+jzL.jpg",
             "url": "https://www.amazon.com/dp/B07CSL91V5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4b799ca9a814623a06ecc01214c4ab52&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FTQLDQ8L",
-            "slug": "jiyu-nad-hydrating-face-moisturizer-korean-anti-aging-cream",
-            "title": "✨JIYU NAD+ Hydrating Face Moisturizer – Korean Anti-Aging Cream for Radiant, Firm & Smooth Skin – Deeply Hydrating & Bri",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51t+PlLZKhL.jpg",
-            "url": "https://www.amazon.com/dp/B0FTQLDQ8L?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d515e1f2724b1622390011ebd636f4f0&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0BHLHDXRJ",
-            "slug": "metabo-hpt-18v-cordless-drywall-cut-out-tool-brushless-m18dy",
-            "title": "✨Metabo HPT 18V Cordless Drywall Cut Out Tool, Brushless, M18DYAQ4 | Battery Not Included, 28,000 RPM Motor, Interchange",
-            "price": "$94.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0BHLHDXRJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=34bdae415597daf9b6c614425fae83e8&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B09QCJ6TDZ",
-            "slug": "comfee-portable-mini-dishwasher-countertop-with-132gal-built",
-            "title": "✨COMFEE' Portable Mini Dishwasher Countertop with 1.32Gal Built-in Water Tank for Apartments& RVs, No Hookup Needed, 6 P",
-            "price": "$289.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/61i2tsiCaGL.jpg",
-            "url": "https://www.amazon.com/dp/B09QCJ6TDZ?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c03e7a0c13339db12a609c1278f83bc3&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07PH15X26",
+          "slug": "twin-flat-sheet-single-top-flat-sheet-only-breathable-coolin",
+          "title": "✨Twin Flat Sheet - Single Top Flat Sheet Only - Breathable & Cooling - White | Hotel Luxury Top Flat Sheet Only, Ultra-S",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71i2JL8ElCL.jpg",
+          "url": "https://www.amazon.com/dp/B07PH15X26?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d0eb73df32aeaa26203e139666bad9c9&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FNWJFQFM",
+          "slug": "medicube-kojic-acid-turmeric-brightening-body-wash-gentle-sh",
+          "title": "✨medicube Kojic Acid Turmeric Brightening Body Wash | Gentle Shower Gel for Uneven Skin | Niacinamide, Vitamin C, AHA/BH",
+          "price": "$19.80",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/713ZUcpzWWL.jpg",
+          "url": "https://www.amazon.com/dp/B0FNWJFQFM?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a289ffe9903f3756235164ddd5148ec4&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B086SR1KML",
+          "slug": "slopehill-professional-ionic-hair-dryer-powerful-1800w-fast",
+          "title": "✨slopehill Professional Ionic Hair Dryer, Powerful 1800W Fast Drying Low Noise Blow Dryer with 2 Concentrator Nozzle 1 D",
+          "price": "$32.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51kihBCyCfL.jpg",
+          "url": "https://www.amazon.com/dp/B086SR1KML?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6558b64531b00af170b153b23a640f89&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GHQYZBR7",
+          "slug": "portable-clip-on-fan-mini-usb-rechargeable-360-rotatable-fan",
+          "title": "✨Portable Clip-On Fan, Mini USB Rechargeable 360° Rotatable Fan, Personal Fan 3-Speed Silent Mini Bladeless Fans (White)",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61i1zfn7FUL.jpg",
+          "url": "https://www.amazon.com/dp/B0GHQYZBR7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4895ee4444c2694bb94e6b77e5539b3e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "0744084962",
+          "slug": "history-of-the-world-map-by-map-dk-history-map-by-map",
+          "title": "✨History of the World Map by Map (DK History Map by Map)",
+          "price": "$33.34",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ZyeQhclxL.jpg",
+          "url": "https://www.amazon.com/dp/0744084962?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=65fd71fbb788d714f0b2ca3645226a6e&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0B42B6NZF",
           "slug": "sturdy-clear-shoe-organizer-with-magnetic-door-stackable-sho",
@@ -192,71 +244,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/51t+PlLZKhL.jpg",
           "url": "https://www.amazon.com/dp/B0FTQLDQ8L?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d515e1f2724b1622390011ebd636f4f0&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BHLHDXRJ",
-          "slug": "metabo-hpt-18v-cordless-drywall-cut-out-tool-brushless-m18dy",
-          "title": "✨Metabo HPT 18V Cordless Drywall Cut Out Tool, Brushless, M18DYAQ4 | Battery Not Included, 28,000 RPM Motor, Interchange",
-          "price": "$94.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0BHLHDXRJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=34bdae415597daf9b6c614425fae83e8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GT4L41VN",
-          "slug": "4k-dash-cam-front-and-rear-night-vision-wdr-free-card-includ",
-          "title": "✨4K Dash Cam Front and Rear, Night Vision, WDR, Free Card Included | 2K Rear Dash Camera for Cars, 170° Wide Angle, 5.8G",
-          "price": "$74.09",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/812Ciwl5KnL.jpg",
-          "url": "https://www.amazon.com/dp/B0GT4L41VN?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=859495eccd9531919b617c76fc67eef5&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GT4L41VN",
-          "slug": "4k-dash-cam-front-and-rear-night-vision-wdr-free-card-includ",
-          "title": "✨4K Dash Cam Front and Rear, Night Vision, WDR, Free Card Included | 2K Rear Dash Camera for Cars, 170° Wide Angle, 5.8G",
-          "price": "$74.09",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/812Ciwl5KnL.jpg",
-          "url": "https://www.amazon.com/dp/B0GT4L41VN?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=859495eccd9531919b617c76fc67eef5&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09QCJ6TDZ",
-          "slug": "comfee-portable-mini-dishwasher-countertop-with-132gal-built",
-          "title": "✨COMFEE' Portable Mini Dishwasher Countertop with 1.32Gal Built-in Water Tank for Apartments& RVs, No Hookup Needed, 6 P",
-          "price": "$289.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/61i2tsiCaGL.jpg",
-          "url": "https://www.amazon.com/dp/B09QCJ6TDZ?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c03e7a0c13339db12a609c1278f83bc3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G44NHJ5M",
-          "slug": "120inch-projector-screen-with-stand-portable-projector-scree",
-          "title": "✨120inch Projector Screen with Stand: Portable Projector Screen Outdoor Indoor Front/Rear16:9 4K HD with Carry Bag Sandb",
-          "price": "$59.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71W-XcCKRKL.jpg",
-          "url": "https://www.amazon.com/dp/B0G44NHJ5M?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3bc544cd59982b964f6b2fd732363347&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 4, 2026?",
-          "a": "The best deals today include \"✨Sturdy Clear Shoe Organizer with Magnetic Door, Stackable S...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"✨Twin Flat Sheet - Single Top Flat Sheet Only - Breathable &...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T05:30:02.115Z",
-      "updatedAt": "2026-08-04T05:30:02.115Z"
+      "generatedAt": "2026-08-04T05:40:01.608Z",
+      "updatedAt": "2026-08-04T05:40:01.608Z"
     },
     {
       "date": "2026-08-03",
@@ -15493,5 +15490,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T05:30:02.120Z"
+  "generatedAt": "2026-08-04T05:40:01.613Z"
 }
