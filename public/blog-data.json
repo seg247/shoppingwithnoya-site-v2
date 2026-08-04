@@ -10,7 +10,7 @@
         "Electronics",
         "Other",
         "Fashion",
-        "Beauty",
+        "Garden & Outdoor",
         "Grocery & Food"
       ],
       "byCategory": {
@@ -64,6 +64,17 @@
         ],
         "Electronics": [
           {
+            "asin": "B0CLGTRS5P",
+            "slug": "usb-c-charger-block-2-pack-40w-4-port-usb-c-wall-charger-fas",
+            "title": "✨USB C Charger Block, 2-Pack 40W 4-Port USB C Wall Charger Fast Charging Dual Port PD Power Adapter+QC Double Wall Plug ",
+            "price": "$8.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51orj8y0qKL.jpg",
+            "url": "https://www.amazon.com/dp/B0CLGTRS5P?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1d1f256e785bd6850e13d7df78725620&language=en_US&gaOptInStatus=true"
+          },
+          {
             "asin": "B0FB2SDTB9",
             "slug": "for-magsafe-portable-charger-5000mah-slim-wireless-magnetic",
             "title": "✨for Magsafe Portable Charger, 5000mAh Slim Wireless Magnetic Power Bank | Travel Essential for MagSafe Battery Pack wit",
@@ -73,20 +84,46 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61ufhswY9EL.jpg",
             "url": "https://www.amazon.com/dp/B0FB2SDTB9?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5795ffaa25d4e1712468d591c4aa8bc5&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Garden & Outdoor": [
           {
-            "asin": "B0GD7NRS93",
-            "slug": "gmktec-g3s-mini-pc-intel-n95-processor-up-to-34ghz-8gb-ram-2",
-            "title": "✨GMKtec G3S Mini PC Intel N95 Processor (Up to 3.4GHz) 8GB RAM 256GB M.2 SSD | Mini Desktop Computer with VESA Mount for",
-            "price": "$249.99",
+            "asin": "B0GZ4HSBJW",
+            "slug": "olixis-retractable-garden-hose-reel-12-x-65-ft-water-hose-wi",
+            "title": "✨OLIXIS Retractable Garden Hose Reel, 1/2'' x 65 ft Water Hose with Nozzle | Automatic Heavy Duty Wall Mounted, 9 Patter",
+            "price": "$64.95",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61FzaAcfW3L.jpg",
-            "url": "https://www.amazon.com/dp/B0GD7NRS93?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=18fa5f5a4325051a068fc8c6a1ce3170&language=en_US&gaOptInStatus=true"
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71gbnicblhL.jpg",
+            "url": "https://www.amazon.com/dp/B0GZ4HSBJW?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bc885fdeefbb340a53f9bd96562a30ef&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B00XOOP95U",
+            "slug": "pure-leaf-iced-tea-extra-sweet-real-brewed-tea-185-fl-oz-bot",
+            "title": "✨Pure Leaf Iced Tea, Extra Sweet, Real Brewed Tea, 18.5 Fl Oz Bottles (Pack Of 12)",
+            "price": "$25.18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00XOOP95U?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d60b7e67b3480abcaca853165e720de7&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
+          {
+            "asin": "B07JBRJH79",
+            "slug": "mighty-mint-peppermint-oil-insect-repellent-spray-16-oz-natu",
+            "title": "✨Mighty Mint Peppermint Oil Insect Repellent Spray, 16 oz | Natural Indoor & Outdoor Bug Control for Spiders, Ants, Roac",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61HCLxMDn8L.jpg",
+            "url": "https://www.amazon.com/dp/B07JBRJH79?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3123804b5000498816fce6d32505edf4&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B08Z7SLGMF",
             "slug": "bagsmart-compression-packing-cubes-for-travel-essentials-14",
@@ -97,43 +134,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81TVmzOszSL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B08Z7SLGMF?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=de33eeaf0c672b5ba9cb2bfbcba1f7bd&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B004B9M5Y0",
-            "slug": "royal-gelatin-fat-free-dessert-mix-strawberry-14-ounce-pack",
-            "title": "✨Royal Gelatin, Fat Free Dessert Mix, Strawberry, 1.4 Ounce (Pack of 12)",
-            "price": "$10.08",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/8153MpAljBL.jpg",
-            "url": "https://www.amazon.com/dp/B004B9M5Y0?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2863035f0391fd4e04bed567d1adb533&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DGGJ8CRT",
-            "slug": "natures-live-multi-collagen-peptides-softgel-type-i-ii-iii-v",
-            "title": "✨Nature's live Multi Collagen Peptides Softgel - Type I, II, III, V, X | Hydrolyzed Collagen Peptides with Biotin, Hyalu",
-            "price": "$25.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RngtrjjFL.jpg",
-            "url": "https://www.amazon.com/dp/B0DGGJ8CRT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=620390d765ae27024d227b733033f7ba&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B08HM1CRDW",
-            "slug": "qcen-juicer-machine-500w-centrifugal-juicer-with-extra-wide",
-            "title": "✨QCen Juicer Machine 500W Centrifugal Juicer with Extra Wide Feed Chute | For Fruits And Vegetables, Stainless Steel, BP",
-            "price": "$34.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nonehjNMS.jpg",
-            "url": "https://www.amazon.com/dp/B08HM1CRDW?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c5e78a2803aa6228d94974f940b407&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -159,6 +159,50 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/716HtGQpPmL.jpg",
           "url": "https://www.amazon.com/dp/B0000645YM?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0CLGTRS5P",
+          "slug": "usb-c-charger-block-2-pack-40w-4-port-usb-c-wall-charger-fas",
+          "title": "✨USB C Charger Block, 2-Pack 40W 4-Port USB C Wall Charger Fast Charging Dual Port PD Power Adapter+QC Double Wall Plug ",
+          "price": "$8.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51orj8y0qKL.jpg",
+          "url": "https://www.amazon.com/dp/B0CLGTRS5P?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1d1f256e785bd6850e13d7df78725620&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GZ4HSBJW",
+          "slug": "olixis-retractable-garden-hose-reel-12-x-65-ft-water-hose-wi",
+          "title": "✨OLIXIS Retractable Garden Hose Reel, 1/2'' x 65 ft Water Hose with Nozzle | Automatic Heavy Duty Wall Mounted, 9 Patter",
+          "price": "$64.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71gbnicblhL.jpg",
+          "url": "https://www.amazon.com/dp/B0GZ4HSBJW?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bc885fdeefbb340a53f9bd96562a30ef&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B00XOOP95U",
+          "slug": "pure-leaf-iced-tea-extra-sweet-real-brewed-tea-185-fl-oz-bot",
+          "title": "✨Pure Leaf Iced Tea, Extra Sweet, Real Brewed Tea, 18.5 Fl Oz Bottles (Pack Of 12)",
+          "price": "$25.18",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00XOOP95U?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d60b7e67b3480abcaca853165e720de7&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07JBRJH79",
+          "slug": "mighty-mint-peppermint-oil-insect-repellent-spray-16-oz-natu",
+          "title": "✨Mighty Mint Peppermint Oil Insect Repellent Spray, 16 oz | Natural Indoor & Outdoor Bug Control for Spiders, Ants, Roac",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61HCLxMDn8L.jpg",
+          "url": "https://www.amazon.com/dp/B07JBRJH79?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3123804b5000498816fce6d32505edf4&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0F5X4FM3Q",
@@ -203,50 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71sL9jWVkXL.jpg",
           "url": "https://www.amazon.com/dp/B001FWXKTA?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7dac449810ba80950d87ba65f7864715&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GD7NRS93",
-          "slug": "gmktec-g3s-mini-pc-intel-n95-processor-up-to-34ghz-8gb-ram-2",
-          "title": "✨GMKtec G3S Mini PC Intel N95 Processor (Up to 3.4GHz) 8GB RAM 256GB M.2 SSD | Mini Desktop Computer with VESA Mount for",
-          "price": "$249.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61FzaAcfW3L.jpg",
-          "url": "https://www.amazon.com/dp/B0GD7NRS93?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=18fa5f5a4325051a068fc8c6a1ce3170&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DGGJ8CRT",
-          "slug": "natures-live-multi-collagen-peptides-softgel-type-i-ii-iii-v",
-          "title": "✨Nature's live Multi Collagen Peptides Softgel - Type I, II, III, V, X | Hydrolyzed Collagen Peptides with Biotin, Hyalu",
-          "price": "$25.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RngtrjjFL.jpg",
-          "url": "https://www.amazon.com/dp/B0DGGJ8CRT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=620390d765ae27024d227b733033f7ba&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08HM1CRDW",
-          "slug": "qcen-juicer-machine-500w-centrifugal-juicer-with-extra-wide",
-          "title": "✨QCen Juicer Machine 500W Centrifugal Juicer with Extra Wide Feed Chute | For Fruits And Vegetables, Stainless Steel, BP",
-          "price": "$34.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71nonehjNMS.jpg",
-          "url": "https://www.amazon.com/dp/B08HM1CRDW?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c5e78a2803aa6228d94974f940b407&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B004B9M5Y0",
-          "slug": "royal-gelatin-fat-free-dessert-mix-strawberry-14-ounce-pack",
-          "title": "✨Royal Gelatin, Fat Free Dessert Mix, Strawberry, 1.4 Ounce (Pack of 12)",
-          "price": "$10.08",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/8153MpAljBL.jpg",
-          "url": "https://www.amazon.com/dp/B004B9M5Y0?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2863035f0391fd4e04bed567d1adb533&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-04T02:30:02.188Z",
-      "updatedAt": "2026-08-04T02:30:02.188Z"
+      "generatedAt": "2026-08-04T02:40:01.547Z",
+      "updatedAt": "2026-08-04T02:40:01.547Z"
     },
     {
       "date": "2026-08-02",
@@ -15225,5 +15225,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-04T02:30:02.202Z"
+  "generatedAt": "2026-08-04T02:40:01.560Z"
 }
