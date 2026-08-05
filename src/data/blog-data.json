@@ -11,8 +11,7 @@
         "Free Deal",
         "Electronics",
         "Fashion",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
         "Free Deal": [
@@ -39,6 +38,17 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51-E4YK1FrL.jpg",
             "url": "https://www.amazon.com/dp/B09YT7SDWB?th=1&linkCode=sl2&tag=noya0b-20&linkId=9fa5731de164fd6520020e62915bb888&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GDLTWD2Q",
+            "slug": "plachiday-beach-blanket-sandproof-extra-large-beach-mat-wate",
+            "title": "PLACHIDAY Beach Blanket Sandproof - Extra Large Beach Mat Waterproof Sand Free Mat, Quick Drying Durable Camping Blanket",
+            "price": "$9",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oXOZXrLTL.jpg",
+            "url": "https://www.amazon.com/dp/B0GDLTWD2Q?tag=noya0b-20"
           },
           {
             "asin": "B0FHW54F5R",
@@ -125,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51WitMPhZ5L.jpg",
             "url": "https://www.amazon.com/dp/B0FJRVSGQ2?tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FPMB2KMP",
-            "slug": "sthmec-small-round-side-end-table-set-of-2-with-cloth-storag",
-            "title": "sthmec Small Round Side End Table Set of 2 with Cloth Storage Basket, Round Bedside Sofa Couch Coffee Tables for Small P",
-            "price": "$29",
-            "discount": 33,
-            "rating": "HOT",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71+Ssb17zKL.jpg",
-            "url": "https://www.amazon.com/dp/B0FPMB2KMP?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -197,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B0DBLN529X?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4ec39af5224bed63bfec9e3199e7f2d6&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0GDLTWD2Q",
+          "slug": "plachiday-beach-blanket-sandproof-extra-large-beach-mat-wate",
+          "title": "PLACHIDAY Beach Blanket Sandproof - Extra Large Beach Mat Waterproof Sand Free Mat, Quick Drying Durable Camping Blanket",
+          "price": "$9",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oXOZXrLTL.jpg",
+          "url": "https://www.amazon.com/dp/B0GDLTWD2Q?tag=noya0b-20"
+        },
+        {
           "asin": "B0FHW54F5R",
           "slug": "yitahome-castle-bookcase-with-storage-adjustable-led-lights",
           "title": "YITAHOME Castle Bookcase with Storage & Adjustable LED Lights | U-Shaped White Bookshelf with Cabinet, UV High-Gloss Dis",
@@ -239,17 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/51WitMPhZ5L.jpg",
           "url": "https://www.amazon.com/dp/B0FJRVSGQ2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FPMB2KMP",
-          "slug": "sthmec-small-round-side-end-table-set-of-2-with-cloth-storag",
-          "title": "sthmec Small Round Side End Table Set of 2 with Cloth Storage Basket, Round Bedside Sofa Couch Coffee Tables for Small P",
-          "price": "$29",
-          "discount": 33,
-          "rating": "HOT",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+Ssb17zKL.jpg",
-          "url": "https://www.amazon.com/dp/B0FPMB2KMP?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-05T23:00:01.403Z",
-      "updatedAt": "2026-08-05T23:00:01.403Z"
+      "generatedAt": "2026-08-05T23:10:01.988Z",
+      "updatedAt": "2026-08-05T23:10:01.988Z"
     },
     {
       "date": "2026-08-04",
@@ -15767,5 +15764,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-05T23:00:01.409Z"
+  "generatedAt": "2026-08-05T23:10:01.994Z"
 }
