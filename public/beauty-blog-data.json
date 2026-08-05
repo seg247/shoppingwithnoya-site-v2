@@ -9,10 +9,10 @@
         "Skincare",
         "Makeup",
         "Hair Care",
+        "Nails",
         "Fragrance",
         "Beauty",
-        "Body Care",
-        "Nails"
+        "Body Care"
       ],
       "bySubcat": {
         "Skincare": [
@@ -115,16 +115,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
             "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
-          },
-          {
-            "asin": "B01FA87072",
-            "slug": "jergens-in-shower-lotion-for-dry-skin-wet-skin-moisturizer-1",
-            "title": "Jergens In Shower Lotion For Dry Skin, Wet Skin Moisturizer, 10 oz, 4 Pack | Argan Oil, Hyaluronic Acid, Fast Absorption",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/81tpH+n8bIL.jpg",
-            "url": "https://www.amazon.com/dp/B01FA87072/ref=cm_sw_r_as_gl_api_gl_i_R285X3NHB30V32DHHR0K?linkCode=ml1&tag=noya0b-20&linkId=b856c4363b398e6203abe59de5e70cb4&gaOptInStatus=true"
           }
         ],
         "Makeup": [
@@ -137,6 +127,16 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/6110Jv9wqeL.jpg",
             "url": "https://www.amazon.com/dp/B0FQFM1ZX6?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B08QCZRRXJ",
+            "slug": "face-make-up-set-full-coverage-concealer-pore-primer-black-m",
+            "title": "Face Make Up Set Full Coverage Concealer & Pore Primer & Black Mascara & Sponge Makeup Kit, Waterproof Matte Flawless Cr",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
+            "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
           },
           {
             "asin": "B0D8L95KF7",
@@ -197,19 +197,19 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/61-zvoWOgwL.jpg",
             "url": "https://www.amazon.com/dp/B08C9J4ZZV?tag=noya0b-20"
-          },
-          {
-            "asin": "B08QCZRRXJ",
-            "slug": "face-make-up-set-full-coverage-concealer-pore-primer-black-m",
-            "title": "Face Make Up Set Full Coverage Concealer & Pore Primer & Black Mascara & Sponge Makeup Kit, Waterproof Matte Flawless Cr",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
-            "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
           }
         ],
         "Hair Care": [
+          {
+            "asin": "B00R42M8OS",
+            "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
+            "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L.jpg",
+            "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
+          },
           {
             "asin": "B0B65M3LPX",
             "slug": "travel-curling-iron-blow-dryer-flat-iron-beauty-personal-car",
@@ -271,6 +271,18 @@
             "url": "https://www.amazon.com/dp/B09C53YR2B?tag=noya0b-20"
           }
         ],
+        "Nails": [
+          {
+            "asin": "B097BSKN9P",
+            "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
+            "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL.jpg",
+            "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
+          }
+        ],
         "Fragrance": [
           {
             "asin": "B09231NL5H",
@@ -316,18 +328,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71-q9iNA3gL._SL1100_.jpg",
             "url": "https://www.amazon.com/dp/B08724XVJ1?tag=noya0b-20"
           }
-        ],
-        "Nails": [
-          {
-            "asin": "B097BSKN9P",
-            "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
-            "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Nails",
-            "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL.jpg",
-            "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -350,6 +350,36 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/6110Jv9wqeL.jpg",
           "url": "https://www.amazon.com/dp/B0FQFM1ZX6?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B00R42M8OS",
+          "slug": "advanced-hair-repair-shampoo-conditioner-and-deep-conditione",
+          "title": "Advanced Hair Repair Shampoo, Conditioner and Deep Conditioner Mask System Set for Dry or Damaged Hair with Argan and Ma",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/81pcr+lQg-L.jpg",
+          "url": "https://www.amazon.com/dp/B00R42M8OS?tag=noya0b-20"
+        },
+        {
+          "asin": "B097BSKN9P",
+          "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
+          "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Nails",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL.jpg",
+          "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
+        },
+        {
+          "asin": "B08QCZRRXJ",
+          "slug": "face-make-up-set-full-coverage-concealer-pore-primer-black-m",
+          "title": "Face Make Up Set Full Coverage Concealer & Pore Primer & Black Mascara & Sponge Makeup Kit, Waterproof Matte Flawless Cr",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
+          "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
         },
         {
           "asin": "B0B65M3LPX",
@@ -552,16 +582,6 @@
           "url": "https://www.amazon.com/dp/B0035BOFRK?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
-          "asin": "B097BSKN9P",
-          "slug": "jodsone-gel-nail-polish-kit-with-u-v-light-32-colors-gel-pol",
-          "title": "JODSONE Gel Nail Polish Kit with U V Light 32 Colors Gel Polish Nail + 4 Functional Adhesive Bottles Kit Soak Off Manicu",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Nails",
-          "imageUrl": "https://m.media-amazon.com/images/I/81JuXVcBcjL.jpg",
-          "url": "https://www.amazon.com/dp/B097BSKN9P?tag=noya0b-20"
-        },
-        {
           "asin": "B08C9J4ZZV",
           "slug": "full-coverage-concealer-with-primer-makeup-set-waterproof-sm",
           "title": "Full Coverage Concealer with Primer Makeup Set, Waterproof Smooth Matte Flawless Foundation Concealer Corrector Makeup K",
@@ -602,16 +622,6 @@
           "url": "https://www.amazon.com/dp/B09C53YR2B?tag=noya0b-20"
         },
         {
-          "asin": "B08QCZRRXJ",
-          "slug": "face-make-up-set-full-coverage-concealer-pore-primer-black-m",
-          "title": "Face Make Up Set Full Coverage Concealer & Pore Primer & Black Mascara & Sponge Makeup Kit, Waterproof Matte Flawless Cr",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
-          "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
-        },
-        {
           "asin": "B09HSGD74T",
           "slug": "collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
           "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic",
@@ -620,16 +630,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
           "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
-        },
-        {
-          "asin": "B01FA87072",
-          "slug": "jergens-in-shower-lotion-for-dry-skin-wet-skin-moisturizer-1",
-          "title": "Jergens In Shower Lotion For Dry Skin, Wet Skin Moisturizer, 10 oz, 4 Pack | Argan Oil, Hyaluronic Acid, Fast Absorption",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/81tpH+n8bIL.jpg",
-          "url": "https://www.amazon.com/dp/B01FA87072/ref=cm_sw_r_as_gl_api_gl_i_R285X3NHB30V32DHHR0K?linkCode=ml1&tag=noya0b-20&linkId=b856c4363b398e6203abe59de5e70cb4&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -657,7 +657,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include Apple Watch Series 11 [GPS + Cellular 42mm] Smartw and Kizfarm Wooden Pretend Play Makeup Vanity Set for  and more."
+          "a": "Yes! Today's makeup deals include Apple Watch Series 11 [GPS + Cellular 42mm] Smartw and Face Make Up Set Full Coverage Concealer & Pore Pr and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -668,8 +668,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-05T01:00:02.288Z",
-      "updatedAt": "2026-08-05T01:00:02.288Z"
+      "generatedAt": "2026-08-05T01:10:01.931Z",
+      "updatedAt": "2026-08-05T01:10:01.931Z"
     },
     {
       "date": "2026-08-03",
@@ -36202,5 +36202,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-08-05T01:00:02.299Z"
+  "generatedAt": "2026-08-05T01:10:01.943Z"
 }
