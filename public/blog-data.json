@@ -9,6 +9,7 @@
         "Other",
         "Beauty",
         "Electronics",
+        "Appliances",
         "Grocery & Food"
       ],
       "byCategory": {
@@ -80,20 +81,33 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71Jhk8xHnDL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F67QT579?lv=shuf&ascsubtag=srctok-2af69d228352682c&btn_type=pt&gaOptInStatus=true&btn_ref=srctok-2af69d228352682c&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e5dbe5948b84f6079b7f28cb358ba4f8&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Appliances": [
           {
-            "asin": "B0G32CJBH4",
-            "slug": "as-low-as-52-reg-7xx",
-            "title": "As low as 52¢ reg $7.xx‼️",
-            "price": "$7",
+            "asin": "B0CQY5VN8D",
+            "slug": "two-in-one-heating-humidifierheaterhumidifierportable-space",
+            "title": "Two-in-one heating humidifier,heater&humidifier,Portable space heater for indoor use,mini heater,air humidifiers for Bed",
+            "price": "$34.91",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/719hv1Wk7pL.jpg",
-            "url": "https://www.amazon.com/dp/B0G32CJBH4?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&ascsubtag=srctok-44e570ca1c2752bd&btn_type=pt&btn_ref=srctok-44e570ca1c2752bd&linkCode=sl2&tag=noya0b-20&linkId=168a2505d537759458efea2eed76dce4&language=en_US&gaOptInStatus=true"
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/616ZiKQVU9L.jpg",
+            "url": "https://www.amazon.com/dp/B0CQY5VN8D?tag=noya0b-20"
           }
         ],
         "Beauty": [
+          {
+            "asin": "B00BKHFXWW",
+            "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-va",
+            "title": "NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky Lip Gloss - Vanilla Cream Pie (Mauve) : Nyx Vanilla Lipgloss : Beauty &",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61abyQ8I7jL.jpg",
+            "url": "https://www.amazon.com/dp/B00BKHFXWW?lv=shuf&rsd=erLvi4ZR%2B9izTfKCtWXijldXwM%2FRVWPcXY42sjHEVvTz%2BJOhfy7HaBUjKhvBqgPaIaPcejCmN7A8gHvwT2oE6s%2BOy%2BJiH2Qppe8qzOVfr8Y7OPjVEM2qbbPxzQ%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQG46M2caMDQMf%2FmoZQXrdb2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMcalaYWn7FWX3zX3JAgEQgDsufD7gsnTjsEnuHLAEp%2Bi9uq21dRl35VXabBZ%2BSKl1iWfG75fkcnIBaEMYey6RDsxXygRyg9FpP4ahyA%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_ss_2J230K9KF35ZRSRFWJTE&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b6c77dcbcb59b9d6d6cb88b4842c2859&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0DZWN5RF5",
             "slug": "leadzones-rechargeable-vanity-mirror-with-lights14x12led-lig",
@@ -104,30 +118,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61pmPoTlVNL.jpg",
             "url": "https://www.amazon.com/dp/B0DZWN5RF5?th=1&linkCode=sl2&tag=noya0b-20&linkId=9ff7daac764c34d9d89e8ae528654869&language=en_US"
-          },
-          {
-            "asin": "B003UZTX6Y",
-            "slug": "axe-deodorant-stick-for-men-phoenix-twin-pack-for-long-lasti",
-            "title": "AXE Deodorant Stick for Men Phoenix Twin Pack For Long Lasting Odor Protection, Crushed Mint & Rosemary Men's Deo, Alumi",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ss+5+P4aL.jpg",
-            "url": "https://www.amazon.com/AXE-Deodorant-Stick-Phoenix-Ounce/dp/B003UZTX6Y?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&ascsubtag=srctok-285a9c3fae2c0a39&btn_type=pt&btn_ref=srctok-285a9c3fae2c0a39&linkCode=sl2&tag=noya0b-20&linkId=a0f195224671cbb0ebeb8dab9129e2e5&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
           {
-            "asin": "B0FPHW4BVN",
-            "slug": "native-liquid-hand-soap-toasted-vanilla-honey-scent-non-dryi",
-            "title": "Native Liquid Hand Soap, Toasted Vanilla & Honey Scent, Non-Drying Formula for Soft, Smooth Hands, Made with Plant-Based",
-            "price": "$4",
+            "asin": "B0FPMB2KMP",
+            "slug": "sthmec-small-round-side-end-table-set-of-2-with-cloth-storag",
+            "title": "sthmec Small Round Side End Table Set of 2 with Cloth Storage Basket, Round Bedside Sofa Couch Coffee Tables for Small P",
+            "price": "$17",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FPHW4BVN?th=1&tag=noya0b-20"
+            "imageUrl": "https://m.media-amazon.com/images/I/71+Ssb17zKL.jpg",
+            "url": "https://www.amazon.com/dp/B0FPMB2KMP?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -164,6 +167,39 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51xmQzB5uYL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DBLN529X?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4ec39af5224bed63bfec9e3199e7f2d6&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CQY5VN8D",
+          "slug": "two-in-one-heating-humidifierheaterhumidifierportable-space",
+          "title": "Two-in-one heating humidifier,heater&humidifier,Portable space heater for indoor use,mini heater,air humidifiers for Bed",
+          "price": "$34.91",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/616ZiKQVU9L.jpg",
+          "url": "https://www.amazon.com/dp/B0CQY5VN8D?tag=noya0b-20"
+        },
+        {
+          "asin": "B00BKHFXWW",
+          "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-va",
+          "title": "NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky Lip Gloss - Vanilla Cream Pie (Mauve) : Nyx Vanilla Lipgloss : Beauty &",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61abyQ8I7jL.jpg",
+          "url": "https://www.amazon.com/dp/B00BKHFXWW?lv=shuf&rsd=erLvi4ZR%2B9izTfKCtWXijldXwM%2FRVWPcXY42sjHEVvTz%2BJOhfy7HaBUjKhvBqgPaIaPcejCmN7A8gHvwT2oE6s%2BOy%2BJiH2Qppe8qzOVfr8Y7OPjVEM2qbbPxzQ%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQG46M2caMDQMf%2FmoZQXrdb2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMcalaYWn7FWX3zX3JAgEQgDsufD7gsnTjsEnuHLAEp%2Bi9uq21dRl35VXabBZ%2BSKl1iWfG75fkcnIBaEMYey6RDsxXygRyg9FpP4ahyA%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_ss_2J230K9KF35ZRSRFWJTE&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b6c77dcbcb59b9d6d6cb88b4842c2859&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FPMB2KMP",
+          "slug": "sthmec-small-round-side-end-table-set-of-2-with-cloth-storag",
+          "title": "sthmec Small Round Side End Table Set of 2 with Cloth Storage Basket, Round Bedside Sofa Couch Coffee Tables for Small P",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+Ssb17zKL.jpg",
+          "url": "https://www.amazon.com/dp/B0FPMB2KMP?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FNCM5JNM",
@@ -208,39 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71Jhk8xHnDL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F67QT579?lv=shuf&ascsubtag=srctok-2af69d228352682c&btn_type=pt&gaOptInStatus=true&btn_ref=srctok-2af69d228352682c&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e5dbe5948b84f6079b7f28cb358ba4f8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B003UZTX6Y",
-          "slug": "axe-deodorant-stick-for-men-phoenix-twin-pack-for-long-lasti",
-          "title": "AXE Deodorant Stick for Men Phoenix Twin Pack For Long Lasting Odor Protection, Crushed Mint & Rosemary Men's Deo, Alumi",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ss+5+P4aL.jpg",
-          "url": "https://www.amazon.com/AXE-Deodorant-Stick-Phoenix-Ounce/dp/B003UZTX6Y?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&ascsubtag=srctok-285a9c3fae2c0a39&btn_type=pt&btn_ref=srctok-285a9c3fae2c0a39&linkCode=sl2&tag=noya0b-20&linkId=a0f195224671cbb0ebeb8dab9129e2e5&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G32CJBH4",
-          "slug": "as-low-as-52-reg-7xx",
-          "title": "As low as 52¢ reg $7.xx‼️",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/719hv1Wk7pL.jpg",
-          "url": "https://www.amazon.com/dp/B0G32CJBH4?lv=shuf&th=1&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&ascsubtag=srctok-44e570ca1c2752bd&btn_type=pt&btn_ref=srctok-44e570ca1c2752bd&linkCode=sl2&tag=noya0b-20&linkId=168a2505d537759458efea2eed76dce4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FPHW4BVN",
-          "slug": "native-liquid-hand-soap-toasted-vanilla-honey-scent-non-dryi",
-          "title": "Native Liquid Hand Soap, Toasted Vanilla & Honey Scent, Non-Drying Formula for Soft, Smooth Hands, Made with Plant-Based",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FPHW4BVN?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-05T18:00:01.342Z",
-      "updatedAt": "2026-08-05T18:00:01.342Z"
+      "generatedAt": "2026-08-05T18:10:02.060Z",
+      "updatedAt": "2026-08-05T18:10:02.060Z"
     },
     {
       "date": "2026-08-04",
@@ -15758,5 +15761,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-05T18:00:01.348Z"
+  "generatedAt": "2026-08-05T18:10:02.065Z"
 }
