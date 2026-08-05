@@ -4,17 +4,88 @@
       "date": "2026-08-05",
       "slug": "2026-08-05",
       "title": "🔥 Best Deals Today — August 5, 2026",
-      "intro": "Today's best online deals for Wednesday, August 5, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, August 5, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Grocery & Food",
         "Beauty",
+        "Health",
         "Other",
-        "Electronics",
-        "Garden & Outdoor",
-        "Tools & Hardware",
-        "Luxury Beauty"
+        "Electronics"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B00FSAZYUI",
+            "slug": "bumble-bee-solid-white-albacore-tuna-in-oil-5-oz-pack-of-24",
+            "title": "Bumble Bee Solid White Albacore Tuna in Oil, 5 oz (Pack of 24) | Wild Caught Tuna, 28g Protein per Can, High in Omega-3s",
+            "price": "$17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/81BlkqZyCkL._AC_UF350,350_QL50_AIweblab1380616,T1_.jpg",
+            "url": "https://www.amazon.com/dp/B00FSAZYUI?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a79d2556fbfe79ad99de44a71c2e233&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B07SK4STJ1",
+            "slug": "iliving-12-wall-mounted-shutter-exhaust-thermostat-control-3",
+            "title": "iLIVING 12\" Wall Mounted Shutter Exhaust Thermostat Control-3 Speeds Vent Fan For Home Attic, Shed, or Garage Ventilatio",
+            "price": "$63.83",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61u6j9ONkSL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07SK4STJ1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0BGQL5B3Q",
+            "slug": "lego-botanicals-artificial-wildflower-bouquet-fake-indoor-fl",
+            "title": "LEGO Botanicals Artificial Wildflower Bouquet - Fake Indoor Flowers Building Set for Home, Kitchen, Desk Decoration, Adu",
+            "price": "$47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/818UxJzyshL.jpg",
+            "url": "https://www.amazon.com/dp/B0BGQL5B3Q/ref=cm_sw_r_as_gl_api_gl_i_G3N945A31E79K82WFVWR?linkCode=ml1&tag=noya0b-20&linkId=a8054f964f16f2e53a583d4add62bc54&gaOptInStatus=true"
+          },
+          {
+            "asin": "B075KJ6XN3",
+            "slug": "chesapeake-bay-candle-scented-candle-peace-tranquility-cashm",
+            "title": "Chesapeake Bay Candle Scented Candle Peace + Tranquility (cashmere jasmine) 3-Wick Coffee Table Jar",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51b79BUgIyL.jpg",
+            "url": "https://www.amazon.com/dp/B075KJ6XN3/ref=cm_sw_r_as_gl_api_gl_i_B5WEB7N5V2YKVSR2SQG5?linkCode=ml1&tag=noya0b-20&linkId=413b90e9ed294e0a3414036905fd5967&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0H1Z4PL5W",
+            "slug": "24ct-orange-poppi-soda-only-12xx-when-you-clip-the-digital-c",
+            "title": "24ct Orange Poppi Soda Only $12.xx when you clip the digital coupon!",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0H1Z4PL5W?th=1&linkCode=sl2&tag=noya0b-20&linkId=c5723fbefbd12d7a70b2ba49ed44f486&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B00HC7633C",
+            "slug": "gatorade-original-thirst-quencher-3-flavor-frost-variety-pac",
+            "title": "Gatorade Original Thirst Quencher 3-Flavor Frost Variety Pack, 20 Fl Ounce - Pack of 12 : Grocery & Gourmet Food",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B00HC7633C?th=1&linkCode=sl2&tag=noya0b-20&linkId=1109b890f846d9a2b520dc8f5f75f63e&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0B65M3LPX",
@@ -37,41 +108,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61ftiDV357L.jpg",
             "url": "https://www.amazon.com/dp/B00E9MD3V8?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0BGQL5B3Q",
-            "slug": "lego-botanicals-artificial-wildflower-bouquet-fake-indoor-fl",
-            "title": "LEGO Botanicals Artificial Wildflower Bouquet - Fake Indoor Flowers Building Set for Home, Kitchen, Desk Decoration, Adu",
-            "price": "$47",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/818UxJzyshL.jpg",
-            "url": "https://www.amazon.com/dp/B0BGQL5B3Q/ref=cm_sw_r_as_gl_api_gl_i_G3N945A31E79K82WFVWR?linkCode=ml1&tag=noya0b-20&linkId=a8054f964f16f2e53a583d4add62bc54&gaOptInStatus=true"
-          },
-          {
-            "asin": "B075KJ6XN3",
-            "slug": "chesapeake-bay-candle-scented-candle-peace-tranquility-cashm",
-            "title": "Chesapeake Bay Candle Scented Candle Peace + Tranquility (cashmere jasmine) 3-Wick Coffee Table Jar",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51b79BUgIyL.jpg",
-            "url": "https://www.amazon.com/dp/B075KJ6XN3/ref=cm_sw_r_as_gl_api_gl_i_B5WEB7N5V2YKVSR2SQG5?linkCode=ml1&tag=noya0b-20&linkId=413b90e9ed294e0a3414036905fd5967&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BZJWTQRK",
-            "slug": "furinno-pasir-book-shelf-5-tier-corner-bookshelf-with-open-s",
-            "title": "Furinno PASIR Book Shelf, 5-Tier Corner Bookshelf with Open Shelf, Standing Bookcase, 9.3 x 12 x 51.7, for Organization ",
-            "price": "$21",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qvHDEcmqL.jpg",
-            "url": "https://www.amazon.com/dp/B0BZJWTQRK/ref=cm_sw_r_as_gl_api_gl_i_M73HC12FNXZQK0P2VF8C?linkCode=ml1&tag=noya0b-20&linkId=4bbbde5dfabb2d6abe424002feeee24e&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -99,48 +135,53 @@
             "imageUrl": "https://m.media-amazon.com/images/I/610kzLYAr4L.jpg",
             "url": "https://www.amazon.com/dp/B0FQ1ZGF98?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B08JD2YC8X",
-            "slug": "smartcasual-2mm-natural-jute-twine-string-thin-for-craft-pla",
-            "title": "SMART&CASUAL 2mm Natural Jute Twine String Thin for Craft Plant Garden Gift Wrapping Christmas Handmade Art Decoration P",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B08JD2YC8X/ref=cm_sw_r_as_gl_api_gl_i_WDDGDY7KH5JB8HYXSF1K?linkCode=ml1&tag=noya0b-20&linkId=2139e9802850e17e100dc3dd061834cc&gaOptInStatus=true"
-          }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B07K52XKSP",
-            "slug": "dewalt-16-oz-smooth-face-curve-claw-hammer-1175-in-steel-han",
-            "title": "DeWalt 16 oz Smooth Face Curve Claw Hammer 11.75 in. Steel Handle",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07K52XKSP/ref=cm_sw_r_as_gl_api_gl_i_4CS8GTWC9KWTW14T03GE?linkCode=ml1&tag=noya0b-20&linkId=954e8e9ab01275fd6dcb7a0d917c4a9a&gaOptInStatus=true"
-          }
-        ],
-        "Luxury Beauty": [
-          {
-            "asin": "B01BZV7MG2",
-            "slug": "luxury-skin-care-sample-box-beauty-personal-care",
-            "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Luxury Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
-            "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00FSAZYUI",
+          "slug": "bumble-bee-solid-white-albacore-tuna-in-oil-5-oz-pack-of-24",
+          "title": "Bumble Bee Solid White Albacore Tuna in Oil, 5 oz (Pack of 24) | Wild Caught Tuna, 28g Protein per Can, High in Omega-3s",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/81BlkqZyCkL._AC_UF350,350_QL50_AIweblab1380616,T1_.jpg",
+          "url": "https://www.amazon.com/dp/B00FSAZYUI?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a79d2556fbfe79ad99de44a71c2e233&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07SK4STJ1",
+          "slug": "iliving-12-wall-mounted-shutter-exhaust-thermostat-control-3",
+          "title": "iLIVING 12\" Wall Mounted Shutter Exhaust Thermostat Control-3 Speeds Vent Fan For Home Attic, Shed, or Garage Ventilatio",
+          "price": "$63.83",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61u6j9ONkSL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07SK4STJ1?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B0H1Z4PL5W",
+          "slug": "24ct-orange-poppi-soda-only-12xx-when-you-clip-the-digital-c",
+          "title": "24ct Orange Poppi Soda Only $12.xx when you clip the digital coupon!",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0H1Z4PL5W?th=1&linkCode=sl2&tag=noya0b-20&linkId=c5723fbefbd12d7a70b2ba49ed44f486&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B00HC7633C",
+          "slug": "gatorade-original-thirst-quencher-3-flavor-frost-variety-pac",
+          "title": "Gatorade Original Thirst Quencher 3-Flavor Frost Variety Pack, 20 Fl Ounce - Pack of 12 : Grocery & Gourmet Food",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B00HC7633C?th=1&linkCode=sl2&tag=noya0b-20&linkId=1109b890f846d9a2b520dc8f5f75f63e&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0B65M3LPX",
           "slug": "travel-curling-iron-blow-dryer-flat-iron-beauty-personal-car",
@@ -206,56 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/610kzLYAr4L.jpg",
           "url": "https://www.amazon.com/dp/B0FQ1ZGF98?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-        },
-        {
-          "asin": "B08JD2YC8X",
-          "slug": "smartcasual-2mm-natural-jute-twine-string-thin-for-craft-pla",
-          "title": "SMART&CASUAL 2mm Natural Jute Twine String Thin for Craft Plant Garden Gift Wrapping Christmas Handmade Art Decoration P",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B08JD2YC8X/ref=cm_sw_r_as_gl_api_gl_i_WDDGDY7KH5JB8HYXSF1K?linkCode=ml1&tag=noya0b-20&linkId=2139e9802850e17e100dc3dd061834cc&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07K52XKSP",
-          "slug": "dewalt-16-oz-smooth-face-curve-claw-hammer-1175-in-steel-han",
-          "title": "DeWalt 16 oz Smooth Face Curve Claw Hammer 11.75 in. Steel Handle",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B07K52XKSP/ref=cm_sw_r_as_gl_api_gl_i_4CS8GTWC9KWTW14T03GE?linkCode=ml1&tag=noya0b-20&linkId=954e8e9ab01275fd6dcb7a0d917c4a9a&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01BZV7MG2",
-          "slug": "luxury-skin-care-sample-box-beauty-personal-care",
-          "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Luxury Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
-          "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BZJWTQRK",
-          "slug": "furinno-pasir-book-shelf-5-tier-corner-bookshelf-with-open-s",
-          "title": "Furinno PASIR Book Shelf, 5-Tier Corner Bookshelf with Open Shelf, Standing Bookcase, 9.3 x 12 x 51.7, for Organization ",
-          "price": "$21",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qvHDEcmqL.jpg",
-          "url": "https://www.amazon.com/dp/B0BZJWTQRK/ref=cm_sw_r_as_gl_api_gl_i_M73HC12FNXZQK0P2VF8C?linkCode=ml1&tag=noya0b-20&linkId=4bbbde5dfabb2d6abe424002feeee24e&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 5, 2026?",
-          "a": "The best deals today include \"Travel Curling Iron + Blow Dryer + Flat Iron : Beauty & Pers...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Other and are updated daily."
+          "a": "The best deals today include \"Bumble Bee Solid White Albacore Tuna in Oil, 5 oz (Pack of 2...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-05T13:40:01.612Z",
-      "updatedAt": "2026-08-05T13:40:01.612Z"
+      "generatedAt": "2026-08-05T13:50:02.092Z",
+      "updatedAt": "2026-08-05T13:50:02.092Z"
     },
     {
       "date": "2026-08-04",
@@ -15767,5 +15764,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-05T13:40:01.618Z"
+  "generatedAt": "2026-08-05T13:50:02.170Z"
 }
