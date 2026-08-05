@@ -10,8 +10,8 @@
         "Other",
         "Free Deal",
         "Electronics",
-        "Fashion",
-        "Beauty"
+        "Beauty",
+        "Fashion"
       ],
       "byCategory": {
         "Free Deal": [
@@ -110,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B0DBLN529X?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4ec39af5224bed63bfec9e3199e7f2d6&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0GBZY3F51",
+            "slug": "too-faced-love-flush-blush-glowing-liquid-blush-liquid-blush",
+            "title": "Too Faced Love Flush Blush Glowing Liquid Blush | Liquid Blush, Blendable, Luminous Blush that leaves a Flush of Color |",
+            "price": "$12",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oCDejxUxL.jpg",
+            "url": "https://www.amazon.com/dp/B0GBZY3F51?th=1&tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0FV26CKFV",
@@ -121,19 +134,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81dHiCzgIqL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FV26CKFV?th=1&psc=1&tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FJRVSGQ2",
-            "slug": "biodance-7-day-glow-up-kit-collagen-gift-set-for-glass-skin",
-            "title": "BIODANCE 7 Day Glow Up Kit: Collagen Gift Set for Glass-Skin, Korean Skin Care with Cleanser, Toner Pads, Moisturizer, G",
-            "price": "$20",
-            "discount": 40,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51WitMPhZ5L.jpg",
-            "url": "https://www.amazon.com/dp/B0FJRVSGQ2?tag=noya0b-20"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B0DBLN529X?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4ec39af5224bed63bfec9e3199e7f2d6&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0GBZY3F51",
+          "slug": "too-faced-love-flush-blush-glowing-liquid-blush-liquid-blush",
+          "title": "Too Faced Love Flush Blush Glowing Liquid Blush | Liquid Blush, Blendable, Luminous Blush that leaves a Flush of Color |",
+          "price": "$12",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oCDejxUxL.jpg",
+          "url": "https://www.amazon.com/dp/B0GBZY3F51?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0GDLTWD2Q",
           "slug": "plachiday-beach-blanket-sandproof-extra-large-beach-mat-wate",
           "title": "PLACHIDAY Beach Blanket Sandproof - Extra Large Beach Mat Waterproof Sand Free Mat, Quick Drying Durable Camping Blanket",
@@ -236,17 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61UKSr8vowL.jpg",
           "url": "https://www.amazon.com/dp/B0FVDY61XN?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FJRVSGQ2",
-          "slug": "biodance-7-day-glow-up-kit-collagen-gift-set-for-glass-skin",
-          "title": "BIODANCE 7 Day Glow Up Kit: Collagen Gift Set for Glass-Skin, Korean Skin Care with Cleanser, Toner Pads, Moisturizer, G",
-          "price": "$20",
-          "discount": 40,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51WitMPhZ5L.jpg",
-          "url": "https://www.amazon.com/dp/B0FJRVSGQ2?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-05T23:30:01.991Z",
-      "updatedAt": "2026-08-05T23:30:01.991Z"
+      "generatedAt": "2026-08-05T23:40:01.599Z",
+      "updatedAt": "2026-08-05T23:40:01.599Z"
     },
     {
       "date": "2026-08-04",
@@ -15764,5 +15764,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-05T23:30:01.996Z"
+  "generatedAt": "2026-08-05T23:40:01.604Z"
 }
