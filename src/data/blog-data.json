@@ -4,15 +4,53 @@
       "date": "2026-08-05",
       "slug": "2026-08-05",
       "title": "🔥 Best Deals Today — August 5, 2026",
-      "intro": "Today's best online deals for Wednesday, August 5, 2026 — 10 hand-picked discounts across Electronics, Grocery & Food, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, August 5, 2026 — 10 hand-picked discounts across Electronics, Health, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
-        "Grocery & Food",
+        "Health",
         "Other",
-        "Sports & Fitness",
-        "Health"
+        "Beauty",
+        "Grocery & Food",
+        "Sports & Fitness"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0GFH73SX4",
+            "slug": "harrys-plus-razor-and-blade-value-pack-1-razor-handle-tide-9",
+            "title": "Harry's Plus Razor and Blade Value Pack, 1 Razor Handle (Tide), 9 Razor Blade Refill Cartridges- German Engineered- Up t",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71kYdlhQUDL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFH73SX4/ref=cm_sw_r_as_gl_api_gl_i_KSCRKAP4YG34C7947A23?linkCode=ml1&tag=noya0b-20&linkId=1af0bd1aef2a724bc5240007e4d865d0&gaOptInStatus=true"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0GPY78BJX",
+            "slug": "starbucks-coffee-protein-caffe-mocha-12-fl-oz-bottles-12-pac",
+            "title": "Starbucks Coffee & Protein, Caffe Mocha, 12 fl oz Bottles, (12 Pack), 22g Protein, 2g Sugar, No Added Sugar, 5g Prebioti",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/819R4fDL4jL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GPY78BJX?tag=noya0b-20"
+          },
+          {
+            "asin": "B0C2WJHQLT",
+            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
+            "price": "$33.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0FWQW981L",
@@ -83,28 +121,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81B3Y19+ZJL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B008IC0Y80/ref=cm_sw_r_as_gl_api_gl_i_73QWFCV2VCY2F2K7KXMM?linkCode=ml1&tag=noya0b-20&linkId=97516508845f7fa333ffacfb144fb44d&gaOptInStatus=true"
-          },
-          {
-            "asin": "B008JC26E4",
-            "slug": "muscletech-whey-protein-powder-milk-chocolate-4lb-30g-protei",
-            "title": "MuscleTech Whey Protein Powder (Milk Chocolate, 4LB) - 30g Protein | Nitro-Tech Ultimate Muscle Building Formula with Wh",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81+nReraesL.jpg",
-            "url": "https://www.amazon.com/dp/B008JC26E4/ref=cm_sw_r_as_gl_api_gl_i_TX7KFYWHQSHAE9S8BXCP?linkCode=ml1&tag=noya0b-20&linkId=52a6af389ae4d71ec0185a47bcbf1f39&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0H1Z4PL5W",
-            "slug": "poppi-prebiotic-soda-orange-75-fl-oz-24-pack-grocery-gourmet",
-            "title": "Poppi Prebiotic Soda, Orange, 7.5 Fl Oz, 24 Pack : Grocery & Gourmet Food",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0H1Z4PL5W/ref=cm_sw_r_as_gl_api_gl_i_36T94NJ2B7DN0Z1A11MS?linkCode=ml1&tag=noya0b-20&linkId=f1dcbf9fb4af2e0ef8764d3b48e24b75&gaOptInStatus=true"
           }
         ],
         "Sports & Fitness": [
@@ -119,22 +135,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81eAItsYNZL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B008IC0Z8Y/ref=cm_sw_r_as_gl_api_gl_i_0YAQCNPR9BPQBDF6ET1W?linkCode=ml1&tag=noya0b-20&linkId=1804e0a6c7e5915c8287b8fb29df97d0&gaOptInStatus=true"
           }
-        ],
-        "Health": [
-          {
-            "asin": "B08T9WKHYF",
-            "slug": "vets-best-seasonal-allergy-soft-chews-for-dogs-soothe-dog-90",
-            "title": "Vet's Best Seasonal Allergy Soft Chews for Dogs, Soothe Dog, 90 Day Supply | Soft Chews for Seasonal Allergies, Helps So",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vmFWbDmGL.jpg",
-            "url": "https://www.amazon.com/dp/B08T9WKHYF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GFH73SX4",
+          "slug": "harrys-plus-razor-and-blade-value-pack-1-razor-handle-tide-9",
+          "title": "Harry's Plus Razor and Blade Value Pack, 1 Razor Handle (Tide), 9 Razor Blade Refill Cartridges- German Engineered- Up t",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71kYdlhQUDL.jpg",
+          "url": "https://www.amazon.com/dp/B0GFH73SX4/ref=cm_sw_r_as_gl_api_gl_i_KSCRKAP4YG34C7947A23?linkCode=ml1&tag=noya0b-20&linkId=1af0bd1aef2a724bc5240007e4d865d0&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GPY78BJX",
+          "slug": "starbucks-coffee-protein-caffe-mocha-12-fl-oz-bottles-12-pac",
+          "title": "Starbucks Coffee & Protein, Caffe Mocha, 12 fl oz Bottles, (12 Pack), 22g Protein, 2g Sugar, No Added Sugar, 5g Prebioti",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/819R4fDL4jL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GPY78BJX?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C2WJHQLT",
+          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
+          "price": "$33.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
+        },
         {
           "asin": "B0FWQW981L",
           "slug": "sing-the-50-united-states-classic-seuss",
@@ -211,45 +247,12 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/81eAItsYNZL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B008IC0Z8Y/ref=cm_sw_r_as_gl_api_gl_i_0YAQCNPR9BPQBDF6ET1W?linkCode=ml1&tag=noya0b-20&linkId=1804e0a6c7e5915c8287b8fb29df97d0&gaOptInStatus=true"
-        },
-        {
-          "asin": "B008JC26E4",
-          "slug": "muscletech-whey-protein-powder-milk-chocolate-4lb-30g-protei",
-          "title": "MuscleTech Whey Protein Powder (Milk Chocolate, 4LB) - 30g Protein | Nitro-Tech Ultimate Muscle Building Formula with Wh",
-          "price": "$18",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81+nReraesL.jpg",
-          "url": "https://www.amazon.com/dp/B008JC26E4/ref=cm_sw_r_as_gl_api_gl_i_TX7KFYWHQSHAE9S8BXCP?linkCode=ml1&tag=noya0b-20&linkId=52a6af389ae4d71ec0185a47bcbf1f39&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0H1Z4PL5W",
-          "slug": "poppi-prebiotic-soda-orange-75-fl-oz-24-pack-grocery-gourmet",
-          "title": "Poppi Prebiotic Soda, Orange, 7.5 Fl Oz, 24 Pack : Grocery & Gourmet Food",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0H1Z4PL5W/ref=cm_sw_r_as_gl_api_gl_i_36T94NJ2B7DN0Z1A11MS?linkCode=ml1&tag=noya0b-20&linkId=f1dcbf9fb4af2e0ef8764d3b48e24b75&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08T9WKHYF",
-          "slug": "vets-best-seasonal-allergy-soft-chews-for-dogs-soothe-dog-90",
-          "title": "Vet's Best Seasonal Allergy Soft Chews for Dogs, Soothe Dog, 90 Day Supply | Soft Chews for Seasonal Allergies, Helps So",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vmFWbDmGL.jpg",
-          "url": "https://www.amazon.com/dp/B08T9WKHYF?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 5, 2026?",
-          "a": "The best deals today include \"Sing the 50 United States! (Classic Seuss)...\" and 9 other hand-picked discounts. Deals span Electronics, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"Harry's Plus Razor and Blade Value Pack, 1 Razor Handle (Tid...\" and 9 other hand-picked discounts. Deals span Electronics, Health, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-05T09:40:01.835Z",
-      "updatedAt": "2026-08-05T09:40:01.835Z"
+      "generatedAt": "2026-08-05T09:50:02.127Z",
+      "updatedAt": "2026-08-05T09:50:02.127Z"
     },
     {
       "date": "2026-08-04",
@@ -15761,5 +15764,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-05T09:40:01.840Z"
+  "generatedAt": "2026-08-05T09:50:02.133Z"
 }
