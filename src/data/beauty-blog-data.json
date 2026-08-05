@@ -92,7 +92,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/615NINF2ZZL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GNTGSVRV/ref=cm_sw_r_as_gl_apa_gl_i_6C1H8DW6AS26Q1CBA32H?linkCode=ml1&tag=noya0b-20&linkId=091ddaff2a3682a5cf9c796f7dc524f9&gaOptInStatus=true"
           },
           {
@@ -104,16 +104,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FKBXTLJZ",
-            "slug": "jergens-lavender-star-shaped-lotion-bursts-moisturizer-for-t",
-            "title": "Jergens Lavender Star-Shaped Lotion Bursts Moisturizer for Teens, 38 ct | Squishy Lotion Bursts, Lavender Moisturizer, N",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/610UIFrrRoL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FKBXTLJZ/ref=cm_sw_r_as_gl_apa_gl_i_DPVXGF87HV0A71XTH91X?linkCode=ml1&tag=noya0b-20&linkId=6f5ac0a426c613f842fcb8334522bf70&gaOptInStatus=true"
           }
         ],
         "Makeup": [
@@ -179,6 +169,16 @@
           }
         ],
         "Hair Care": [
+          {
+            "asin": "B08HHJNKZV",
+            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+          },
           {
             "asin": "B08SL72G3P",
             "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
@@ -347,6 +347,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/6110Jv9wqeL.jpg",
           "url": "https://www.amazon.com/dp/B0FQFM1ZX6?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B08HHJNKZV",
+          "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+          "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
         },
         {
           "asin": "B08SL72G3P",
@@ -535,7 +545,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/615NINF2ZZL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GNTGSVRV/ref=cm_sw_r_as_gl_apa_gl_i_6C1H8DW6AS26Q1CBA32H?linkCode=ml1&tag=noya0b-20&linkId=091ddaff2a3682a5cf9c796f7dc524f9&gaOptInStatus=true"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FKBXTLJZ",
-          "slug": "jergens-lavender-star-shaped-lotion-bursts-moisturizer-for-t",
-          "title": "Jergens Lavender Star-Shaped Lotion Bursts Moisturizer for Teens, 38 ct | Squishy Lotion Bursts, Lavender Moisturizer, N",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/610UIFrrRoL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FKBXTLJZ/ref=cm_sw_r_as_gl_apa_gl_i_DPVXGF87HV0A71XTH91X?linkCode=ml1&tag=noya0b-20&linkId=6f5ac0a426c613f842fcb8334522bf70&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-05T15:00:02.014Z",
-      "updatedAt": "2026-08-05T15:00:02.014Z"
+      "generatedAt": "2026-08-05T15:10:03.574Z",
+      "updatedAt": "2026-08-05T15:10:03.574Z"
     },
     {
       "date": "2026-08-04",
@@ -36870,5 +36870,5 @@
       "updatedAt": "2026-06-09T03:50:01.439Z"
     }
   ],
-  "generatedAt": "2026-08-05T15:00:02.026Z"
+  "generatedAt": "2026-08-05T15:10:03.587Z"
 }
