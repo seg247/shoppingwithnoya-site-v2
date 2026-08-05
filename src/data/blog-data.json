@@ -4,16 +4,16 @@
       "date": "2026-08-05",
       "slug": "2026-08-05",
       "title": "🔥 Best Deals Today — August 5, 2026",
-      "intro": "Today's best online deals for Wednesday, August 5, 2026 — 10 hand-picked discounts across Other, Electronics, Sports and more. The best discount today is 70% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, August 5, 2026 — 10 hand-picked discounts across Electronics, Other, Grocery & Food and more. The best discount today is 70% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
         "Electronics",
+        "Other",
+        "Grocery & Food",
+        "Home & Kitchen",
+        "Beauty",
         "Sports",
         "Baby Products",
-        "Sports & Fitness",
-        "Appliances",
-        "Beauty",
-        "Grocery & Food"
+        "Sports & Fitness"
       ],
       "byCategory": {
         "Electronics": [
@@ -27,6 +27,17 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71PxgcoTvYL.jpg",
             "url": "https://www.amazon.com/dp/B0BGSDTZVF?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3dc95d36c90df1490d9f8d267f2ab33d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BSGQL41X",
+            "slug": "sony-wh-ch520-wireless-on-ear-bluetooth-headphones-with-mic",
+            "title": "Sony WH-CH520 Wireless On-Ear Bluetooth Headphones with Mic, Cappuccino | Comfortable Lightweight Design, Up to 50 Hrs B",
+            "price": "$38",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41fn3hNjnRL.jpg",
+            "url": "https://www.amazon.com/dp/B0BSGQL41X?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=88483ccd635ad4a24d540daf4cafc42c&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -51,17 +62,45 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51xmQzB5uYL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DBLN529X?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4ec39af5224bed63bfec9e3199e7f2d6&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0FNCM5JNM",
-            "slug": "ganiza-food-processors-with-2-bowls-450w-meat-grinder-vegeta",
-            "title": "Ganiza Food Processors with 2 Bowls, 450W Meat Grinder Vegetable Chopper | 2-Speed Electric Food Chopper with 8 Cup Glas",
-            "price": "$32",
+            "asin": "B0GGQHT8HY",
+            "slug": "kool-aid-sours-drink-10-pouches-watermelon-blast-sour-candy",
+            "title": "Kool-Aid Sours Drink, 10 Pouches, Watermelon Blast Sour Candy, 6 oz",
+            "price": "$1",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71GqhJ2asuL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNCM5JNM?th=1&tag=noya0b-20"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81aoxtzSGZL.jpg",
+            "url": "https://www.amazon.com/dp/B0GGQHT8HY?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=28204e15ee109c3289ce3bf1d5c63c7b&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B08G675QGB",
+            "slug": "honestbaby-5-pack-short-sleeve-bodysuits-one-piece-for-infan",
+            "title": "HonestBaby 5-pack Short Sleeve Bodysuits One-piece for Infant Baby Boys, Gray Ombre, 3-6 Months: Clothing, Shoes & Jewel",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81p9Qthyp-L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/HonestBaby-5-Pack-Organic-Cotton-Bodysuits/dp/B08G675QGB?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b6c8bff204906ff6f794b2a8c1cdd46a&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0D14WQ9PK",
+            "slug": "wet-n-wild-enhance-and-define-megawear-mascara-gentle-gel-vo",
+            "title": "wet n wild Enhance and Define Megawear Mascara, Gentle Gel Volumizing Formula that Promotes Full & Healthy Lashes, Enric",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71KUPoV8niL.jpg",
+            "url": "https://www.amazon.com/dp/B0D14WQ9PK?th=1&tag=noya0b-20"
           }
         ],
         "Sports": [
@@ -102,45 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71RjEnVxEcL.jpg",
             "url": "https://www.amazon.com/dp/B0G6SNX7WJ?th=1&tag=noya0b-20"
           }
-        ],
-        "Appliances": [
-          {
-            "asin": "B0CQY5VN8D",
-            "slug": "two-in-one-heating-humidifierheaterhumidifierportable-space",
-            "title": "Two-in-one heating humidifier,heater&humidifier,Portable space heater for indoor use,mini heater,air humidifiers for Bed",
-            "price": "$34.91",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Appliances",
-            "imageUrl": "https://m.media-amazon.com/images/I/616ZiKQVU9L.jpg",
-            "url": "https://www.amazon.com/dp/B0CQY5VN8D?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00BKHFXWW",
-            "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-va",
-            "title": "NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky Lip Gloss - Vanilla Cream Pie (Mauve) : Nyx Vanilla Lipgloss : Beauty &",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61abyQ8I7jL.jpg",
-            "url": "https://www.amazon.com/dp/B00BKHFXWW?lv=shuf&rsd=erLvi4ZR%2B9izTfKCtWXijldXwM%2FRVWPcXY42sjHEVvTz%2BJOhfy7HaBUjKhvBqgPaIaPcejCmN7A8gHvwT2oE6s%2BOy%2BJiH2Qppe8qzOVfr8Y7OPjVEM2qbbPxzQ%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQG46M2caMDQMf%2FmoZQXrdb2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMcalaYWn7FWX3zX3JAgEQgDsufD7gsnTjsEnuHLAEp%2Bi9uq21dRl35VXabBZ%2BSKl1iWfG75fkcnIBaEMYey6RDsxXygRyg9FpP4ahyA%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_ss_2J230K9KF35ZRSRFWJTE&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b6c77dcbcb59b9d6d6cb88b4842c2859&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FPMB2KMP",
-            "slug": "sthmec-small-round-side-end-table-set-of-2-with-cloth-storag",
-            "title": "sthmec Small Round Side End Table Set of 2 with Cloth Storage Basket, Round Bedside Sofa Couch Coffee Tables for Small P",
-            "price": "$17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71+Ssb17zKL.jpg",
-            "url": "https://www.amazon.com/dp/B0FPMB2KMP?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -178,6 +178,50 @@
           "url": "https://www.amazon.com/dp/B0DBLN529X?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4ec39af5224bed63bfec9e3199e7f2d6&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0BSGQL41X",
+          "slug": "sony-wh-ch520-wireless-on-ear-bluetooth-headphones-with-mic",
+          "title": "Sony WH-CH520 Wireless On-Ear Bluetooth Headphones with Mic, Cappuccino | Comfortable Lightweight Design, Up to 50 Hrs B",
+          "price": "$38",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/41fn3hNjnRL.jpg",
+          "url": "https://www.amazon.com/dp/B0BSGQL41X?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=88483ccd635ad4a24d540daf4cafc42c&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GGQHT8HY",
+          "slug": "kool-aid-sours-drink-10-pouches-watermelon-blast-sour-candy",
+          "title": "Kool-Aid Sours Drink, 10 Pouches, Watermelon Blast Sour Candy, 6 oz",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81aoxtzSGZL.jpg",
+          "url": "https://www.amazon.com/dp/B0GGQHT8HY?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=28204e15ee109c3289ce3bf1d5c63c7b&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08G675QGB",
+          "slug": "honestbaby-5-pack-short-sleeve-bodysuits-one-piece-for-infan",
+          "title": "HonestBaby 5-pack Short Sleeve Bodysuits One-piece for Infant Baby Boys, Gray Ombre, 3-6 Months: Clothing, Shoes & Jewel",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81p9Qthyp-L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/HonestBaby-5-Pack-Organic-Cotton-Bodysuits/dp/B08G675QGB?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b6c8bff204906ff6f794b2a8c1cdd46a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D14WQ9PK",
+          "slug": "wet-n-wild-enhance-and-define-megawear-mascara-gentle-gel-vo",
+          "title": "wet n wild Enhance and Define Megawear Mascara, Gentle Gel Volumizing Formula that Promotes Full & Healthy Lashes, Enric",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71KUPoV8niL.jpg",
+          "url": "https://www.amazon.com/dp/B0D14WQ9PK?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DS6JLDQ5",
           "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
           "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Eq",
@@ -209,56 +253,12 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/71RjEnVxEcL.jpg",
           "url": "https://www.amazon.com/dp/B0G6SNX7WJ?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0CQY5VN8D",
-          "slug": "two-in-one-heating-humidifierheaterhumidifierportable-space",
-          "title": "Two-in-one heating humidifier,heater&humidifier,Portable space heater for indoor use,mini heater,air humidifiers for Bed",
-          "price": "$34.91",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Appliances",
-          "imageUrl": "https://m.media-amazon.com/images/I/616ZiKQVU9L.jpg",
-          "url": "https://www.amazon.com/dp/B0CQY5VN8D?tag=noya0b-20"
-        },
-        {
-          "asin": "B00BKHFXWW",
-          "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-va",
-          "title": "NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky Lip Gloss - Vanilla Cream Pie (Mauve) : Nyx Vanilla Lipgloss : Beauty &",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61abyQ8I7jL.jpg",
-          "url": "https://www.amazon.com/dp/B00BKHFXWW?lv=shuf&rsd=erLvi4ZR%2B9izTfKCtWXijldXwM%2FRVWPcXY42sjHEVvTz%2BJOhfy7HaBUjKhvBqgPaIaPcejCmN7A8gHvwT2oE6s%2BOy%2BJiH2Qppe8qzOVfr8Y7OPjVEM2qbbPxzQ%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQG46M2caMDQMf%2FmoZQXrdb2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMcalaYWn7FWX3zX3JAgEQgDsufD7gsnTjsEnuHLAEp%2Bi9uq21dRl35VXabBZ%2BSKl1iWfG75fkcnIBaEMYey6RDsxXygRyg9FpP4ahyA%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_ss_2J230K9KF35ZRSRFWJTE&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b6c77dcbcb59b9d6d6cb88b4842c2859&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FPMB2KMP",
-          "slug": "sthmec-small-round-side-end-table-set-of-2-with-cloth-storag",
-          "title": "sthmec Small Round Side End Table Set of 2 with Cloth Storage Basket, Round Bedside Sofa Couch Coffee Tables for Small P",
-          "price": "$17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+Ssb17zKL.jpg",
-          "url": "https://www.amazon.com/dp/B0FPMB2KMP?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0FNCM5JNM",
-          "slug": "ganiza-food-processors-with-2-bowls-450w-meat-grinder-vegeta",
-          "title": "Ganiza Food Processors with 2 Bowls, 450W Meat Grinder Vegetable Chopper | 2-Speed Electric Food Chopper with 8 Cup Glas",
-          "price": "$32",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71GqhJ2asuL.jpg",
-          "url": "https://www.amazon.com/dp/B0FNCM5JNM?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 5, 2026?",
-          "a": "The best deals today include \"iPhone Charger,3 Pack 10ft MFi Certified Lightning Cable Fas...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Sports and are updated daily."
+          "a": "The best deals today include \"iPhone Charger,3 Pack 10ft MFi Certified Lightning Cable Fas...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-05T18:20:02.076Z",
-      "updatedAt": "2026-08-05T18:20:02.076Z"
+      "generatedAt": "2026-08-05T18:30:01.457Z",
+      "updatedAt": "2026-08-05T18:30:01.457Z"
     },
     {
       "date": "2026-08-04",
@@ -15770,5 +15770,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-05T18:20:02.082Z"
+  "generatedAt": "2026-08-05T18:30:01.463Z"
 }
