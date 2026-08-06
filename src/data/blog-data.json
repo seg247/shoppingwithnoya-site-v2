@@ -4,12 +4,15 @@
       "date": "2026-08-06",
       "slug": "2026-08-06",
       "title": "🔥 Best Deals Today — August 6, 2026",
-      "intro": "Today's best online deals for Thursday, August 6, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Fashion and more. The best discount today is 60% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, August 6, 2026 — 10 hand-picked discounts across Other, Personal Care, Fashion and more. The best discount today is 60% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Home & Kitchen",
+        "Personal Care",
         "Fashion",
-        "Personal Care"
+        "Electronics",
+        "Cleaning Supplies",
+        "Grocery & Food",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Fashion": [
@@ -25,7 +28,92 @@
             "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B07P211Q4R",
+            "slug": "arteck-microsoft-surface-go-105-inch-type-cover-ultra-slim-p",
+            "title": "\udecd️Arteck Microsoft Surface Go 10.5-inch Type Cover, Ultra-Slim Portable Bluetooth Wireless Keyboard with Touchpad for La",
+            "price": "$32.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71krmmeJIPL.jpg",
+            "url": "https://www.amazon.com/dp/B07P211Q4R?linkCode=sl2&tag=noya0b-20&linkId=24be50b077c12daee3659b550120f35b&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B01LO0P9MS",
+            "slug": "van-heusen-mens-flex-flat-front-straight-fit-pant",
+            "title": "\udecd️Van Heusen Men's Flex Flat Front Straight Fit Pant",
+            "price": "$37.42",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71P7cYq25DL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B01LO0P9MS?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96f0b7a1742758ff665d97a322c97f47&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B01MYQ6WN4",
+            "slug": "fosmon-wavelink-wireless-driveway-alarm-chime-1-sensor-1-rec",
+            "title": "\udecd️Fosmon WaveLink Wireless Driveway Alarm Chime, 1 Sensor 1 Receiver | 500 Feet Wireless Range, 58 Tunes 5 Volume Levels",
+            "price": "$21.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fzdcNhQjL.jpg",
+            "url": "https://www.amazon.com/dp/B01MYQ6WN4?th=1&linkCode=sl2&tag=noya0b-20&linkId=6a8a3b7b88f583ee04520a4ce57d6163&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0C35DQQM9",
+            "slug": "beef-gelatin-powder-2lb-32oz-premium-source-from-grass-fed-p",
+            "title": "\udecd️Beef Gelatin Powder, 2lb (32oz) | Premium Source from Grass-Fed & Pasture Raised Beef | Unflavored Thickening Agent fo",
+            "price": "$25.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WV7o8rc1L.jpg",
+            "url": "https://www.amazon.com/dp/B0C35DQQM9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=88ddc02b07d9b2250ff78f152aebbacc&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0CJBKBLKL",
+            "slug": "toilet-paper-holder-free-standingsturdy-metal-toilet-paper-h",
+            "title": "\udecd️Toilet Paper Holder Free Standing,Sturdy Metal Toilet Paper Holders Stand | Stable & Rustproof Toilet Paper Stand with",
+            "price": "$12.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/41SmDLC08CL.jpg",
+            "url": "https://www.amazon.com/dp/B0CJBKBLKL?lv=shuf&psc=1&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ab98f36d9e8daaf03e55584b8b8c6365&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0DNV1PDVT",
+            "slug": "luna-bar-variety-pack-6-flavors-gluten-free-snack-bars-12ct",
+            "title": "LUNA Bar Variety Pack, 6 Flavors, Gluten Free Snack Bars, 12ct | Plant-Based Protein Bars, 7-9g Protein, Non-GMO, Made w",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/811eMTr9GoL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNV1PDVT?lv=shuf&ascsubtag=3d00b8f6913e11f19c25c692e1d4f49f0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2f0e35a20e09fc8a5997e8880aaf9079&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Personal Care": [
+          {
+            "asin": "B0CJBQQB8T",
+            "slug": "dimora-silicone-foam-dressing-without-border-6x-6-highly-abs",
+            "title": "\udecd️Dimora Silicone Foam Dressing Without Border - 6\"x 6\" Highly Absorbent Adhesive Bandages for Wounds Cuttable Pads for ",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61HrA+gyAwL.jpg",
+            "url": "https://www.amazon.com/dp/B0CJBQQB8T?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bddcfa695a5ac3cd480cf016d51938d5&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B081D9XMCY",
             "slug": "pet-standard-rfa-67-batteries-for-petsafe-products-10-pack-c",
@@ -49,85 +137,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71-KmVgsGGL.jpg",
             "url": "https://www.amazon.com/dp/B0GJC312H4?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d302039d35c762172fb9c21345ae8c13&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DCZ26BYC",
-            "slug": "leemone-6-pack-filter-replacement-for-canopy-bedside-nursery",
-            "title": "\udecd️Leemone 6-Pack Filter Replacement for Canopy Bedside & Nursery Humidifier | High-Density Natural Wood Pulp Paper Filte",
-            "price": "$30.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/715lh+BQQRL.jpg",
-            "url": "https://www.amazon.com/dp/B0DCZ26BYC?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c807df6095abe4f2171586ab81aaf162&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B01MYQ6WN4",
-            "slug": "fosmon-wavelink-wireless-driveway-alarm-chime-1-sensor-1-rec",
-            "title": "\udecd️Fosmon WaveLink Wireless Driveway Alarm Chime, 1 Sensor 1 Receiver | 500 Feet Wireless Range, 58 Tunes 5 Volume Levels",
-            "price": "$21.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fzdcNhQjL.jpg",
-            "url": "https://www.amazon.com/dp/B01MYQ6WN4?th=1&linkCode=sl2&tag=noya0b-20&linkId=6a8a3b7b88f583ee04520a4ce57d6163&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0C35DQQM9",
-            "slug": "beef-gelatin-powder-2lb-32oz-premium-source-from-grass-fed-p",
-            "title": "\udecd️Beef Gelatin Powder, 2lb (32oz) | Premium Source from Grass-Fed & Pasture Raised Beef | Unflavored Thickening Agent fo",
-            "price": "$25.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WV7o8rc1L.jpg",
-            "url": "https://www.amazon.com/dp/B0C35DQQM9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=88ddc02b07d9b2250ff78f152aebbacc&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BJF1RPZT",
-            "slug": "windproof-automatic-folding-inverted-umbrella-with-led-auto",
-            "title": "Windproof Automatic Folding Inverted Umbrella with LED, Auto Open Close | Collapsible Reverse Umbrella. Lighted Handle, ",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61BngPRXbwL.jpg",
-            "url": "https://www.amazon.com/dp/B0BJF1RPZT?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0F62QDSBJ",
-            "slug": "wagons-carts-foldable-collapsible-wagon-with-wheels-durable",
-            "title": "\udecd️Wagons Carts Foldable, Collapsible Wagon with Wheels — Durable Folding Utility Pull Wagon Cart for Groceries, Picnic &",
-            "price": "$44.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fWzCAbg1L.jpg",
-            "url": "https://www.amazon.com/dp/B0F62QDSBJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0932c6e0c9e23a87e059066d95936aeb&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D2S5M4DK",
-            "slug": "micro-ingredients-organic-mega-mushrooms-powder-5-oz-filler",
-            "title": "\udecd️Micro Ingredients Organic Mega Mushrooms Powder, 5 oz | Filler Free | 10-in-1 Mushroom Complex with Lion's Mane, Turke",
-            "price": "$19.16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71UmqzeeHpL.jpg",
-            "url": "https://www.amazon.com/dp/B0D2S5M4DK?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=eb8b087bebe03be239ca907e950e9e26&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B000Q5NG9G",
-            "slug": "progresso-rich-hearty-chicken-corn-chowder-canned-soup-185-o",
-            "title": "\udecd️Progresso Rich & Hearty Chicken Corn Chowder Canned Soup, 18.5 oz | Corn, Chicken, Potatoes, Celery & Onion in Creamy ",
-            "price": "$2.29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81m3adg1OJL.jpg",
-            "url": "https://www.amazon.com/dp/B000Q5NG9G?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ec9d0c50607ccda6bb2c518828a9d3ec&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -142,6 +151,61 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/512gqhOlbuL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07P211Q4R",
+          "slug": "arteck-microsoft-surface-go-105-inch-type-cover-ultra-slim-p",
+          "title": "\udecd️Arteck Microsoft Surface Go 10.5-inch Type Cover, Ultra-Slim Portable Bluetooth Wireless Keyboard with Touchpad for La",
+          "price": "$32.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71krmmeJIPL.jpg",
+          "url": "https://www.amazon.com/dp/B07P211Q4R?linkCode=sl2&tag=noya0b-20&linkId=24be50b077c12daee3659b550120f35b&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01LO0P9MS",
+          "slug": "van-heusen-mens-flex-flat-front-straight-fit-pant",
+          "title": "\udecd️Van Heusen Men's Flex Flat Front Straight Fit Pant",
+          "price": "$37.42",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71P7cYq25DL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B01LO0P9MS?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96f0b7a1742758ff665d97a322c97f47&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CJBKBLKL",
+          "slug": "toilet-paper-holder-free-standingsturdy-metal-toilet-paper-h",
+          "title": "\udecd️Toilet Paper Holder Free Standing,Sturdy Metal Toilet Paper Holders Stand | Stable & Rustproof Toilet Paper Stand with",
+          "price": "$12.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/41SmDLC08CL.jpg",
+          "url": "https://www.amazon.com/dp/B0CJBKBLKL?lv=shuf&psc=1&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ab98f36d9e8daaf03e55584b8b8c6365&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DNV1PDVT",
+          "slug": "luna-bar-variety-pack-6-flavors-gluten-free-snack-bars-12ct",
+          "title": "LUNA Bar Variety Pack, 6 Flavors, Gluten Free Snack Bars, 12ct | Plant-Based Protein Bars, 7-9g Protein, Non-GMO, Made w",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/811eMTr9GoL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNV1PDVT?lv=shuf&ascsubtag=3d00b8f6913e11f19c25c692e1d4f49f0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2f0e35a20e09fc8a5997e8880aaf9079&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CJBQQB8T",
+          "slug": "dimora-silicone-foam-dressing-without-border-6x-6-highly-abs",
+          "title": "\udecd️Dimora Silicone Foam Dressing Without Border - 6\"x 6\" Highly Absorbent Adhesive Bandages for Wounds Cuttable Pads for ",
+          "price": "$19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61HrA+gyAwL.jpg",
+          "url": "https://www.amazon.com/dp/B0CJBQQB8T?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bddcfa695a5ac3cd480cf016d51938d5&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B081D9XMCY",
@@ -186,67 +250,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71WV7o8rc1L.jpg",
           "url": "https://www.amazon.com/dp/B0C35DQQM9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=88ddc02b07d9b2250ff78f152aebbacc&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BJF1RPZT",
-          "slug": "windproof-automatic-folding-inverted-umbrella-with-led-auto",
-          "title": "Windproof Automatic Folding Inverted Umbrella with LED, Auto Open Close | Collapsible Reverse Umbrella. Lighted Handle, ",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61BngPRXbwL.jpg",
-          "url": "https://www.amazon.com/dp/B0BJF1RPZT?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DCZ26BYC",
-          "slug": "leemone-6-pack-filter-replacement-for-canopy-bedside-nursery",
-          "title": "\udecd️Leemone 6-Pack Filter Replacement for Canopy Bedside & Nursery Humidifier | High-Density Natural Wood Pulp Paper Filte",
-          "price": "$30.59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/715lh+BQQRL.jpg",
-          "url": "https://www.amazon.com/dp/B0DCZ26BYC?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c807df6095abe4f2171586ab81aaf162&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F62QDSBJ",
-          "slug": "wagons-carts-foldable-collapsible-wagon-with-wheels-durable",
-          "title": "\udecd️Wagons Carts Foldable, Collapsible Wagon with Wheels — Durable Folding Utility Pull Wagon Cart for Groceries, Picnic &",
-          "price": "$44.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fWzCAbg1L.jpg",
-          "url": "https://www.amazon.com/dp/B0F62QDSBJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0932c6e0c9e23a87e059066d95936aeb&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D2S5M4DK",
-          "slug": "micro-ingredients-organic-mega-mushrooms-powder-5-oz-filler",
-          "title": "\udecd️Micro Ingredients Organic Mega Mushrooms Powder, 5 oz | Filler Free | 10-in-1 Mushroom Complex with Lion's Mane, Turke",
-          "price": "$19.16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71UmqzeeHpL.jpg",
-          "url": "https://www.amazon.com/dp/B0D2S5M4DK?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=eb8b087bebe03be239ca907e950e9e26&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B000Q5NG9G",
-          "slug": "progresso-rich-hearty-chicken-corn-chowder-canned-soup-185-o",
-          "title": "\udecd️Progresso Rich & Hearty Chicken Corn Chowder Canned Soup, 18.5 oz | Corn, Chicken, Potatoes, Celery & Onion in Creamy ",
-          "price": "$2.29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81m3adg1OJL.jpg",
-          "url": "https://www.amazon.com/dp/B000Q5NG9G?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ec9d0c50607ccda6bb2c518828a9d3ec&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 6, 2026?",
-          "a": "The best deals today include \"LOW PRICE! Up to 60% off Kendra Scott Elisa Scallop Frame Sh...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Fashion and are updated daily."
+          "a": "The best deals today include \"LOW PRICE! Up to 60% off Kendra Scott Elisa Scallop Frame Sh...\" and 9 other hand-picked discounts. Deals span Other, Personal Care, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-06T20:30:00.611Z",
-      "updatedAt": "2026-08-06T20:30:00.611Z"
+      "generatedAt": "2026-08-06T20:40:01.449Z",
+      "updatedAt": "2026-08-06T20:40:01.449Z"
     },
     {
       "date": "2026-08-05",
@@ -16029,5 +16038,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-06T20:30:00.625Z"
+  "generatedAt": "2026-08-06T20:40:01.464Z"
 }
