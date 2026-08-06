@@ -10,8 +10,8 @@
         "Home & Kitchen",
         "Pet Supplies",
         "Fashion",
-        "Garden & Outdoor",
-        "Health"
+        "Cleaning Supplies",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Fashion": [
@@ -29,6 +29,17 @@
         ],
         "Home & Kitchen": [
           {
+            "asin": "B0DCZ26BYC",
+            "slug": "leemone-6-pack-filter-replacement-for-canopy-bedside-nursery",
+            "title": "\udecd️Leemone 6-Pack Filter Replacement for Canopy Bedside & Nursery Humidifier | High-Density Natural Wood Pulp Paper Filte",
+            "price": "$30.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/715lh+BQQRL.jpg",
+            "url": "https://www.amazon.com/dp/B0DCZ26BYC?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c807df6095abe4f2171586ab81aaf162&language=en_US&gaOptInStatus=true"
+          },
+          {
             "asin": "B09DQ67R92",
             "slug": "broan-nutone-bathroom-exhaust-fan-with-heater-quiet-15-sones",
             "title": "\udecd️Broan-NuTone Bathroom Exhaust Fan with Heater Quiet 1.5 Sones, 80 CFM and 3-Level CCT Lighting, Powerful Ventilation a",
@@ -38,17 +49,54 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51kVuK3ZKuL.jpg",
             "url": "https://www.amazon.com/dp/B09DQ67R92?th=1&linkCode=sl2&tag=noya0b-20&linkId=bcf2aadf832a7a4934eeff40fdaf2300&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B0D5H6GFVJ",
-            "slug": "flairosol-olivia-signature-oil-sprayer-for-cooking-200ml-gla",
-            "title": "\udecd️FLAIROSOL OLIVIA SIGNATURE Oil Sprayer for Cooking, 200ml Glass, Green/Gold | Portion control mist for air fryer, sala",
-            "price": "$23.99",
+            "asin": "B0F62QDSBJ",
+            "slug": "wagons-carts-foldable-collapsible-wagon-with-wheels-durable",
+            "title": "\udecd️Wagons Carts Foldable, Collapsible Wagon with Wheels — Durable Folding Utility Pull Wagon Cart for Groceries, Picnic &",
+            "price": "$44.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JKiIhkzjL.jpg",
-            "url": "https://www.amazon.com/dp/B0D5H6GFVJ?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2bdbedec1644f84758a823208f84169b&language=en_US&gaOptInStatus=true"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fWzCAbg1L.jpg",
+            "url": "https://www.amazon.com/dp/B0F62QDSBJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0932c6e0c9e23a87e059066d95936aeb&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0D2S5M4DK",
+            "slug": "micro-ingredients-organic-mega-mushrooms-powder-5-oz-filler",
+            "title": "\udecd️Micro Ingredients Organic Mega Mushrooms Powder, 5 oz | Filler Free | 10-in-1 Mushroom Complex with Lion's Mane, Turke",
+            "price": "$19.16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UmqzeeHpL.jpg",
+            "url": "https://www.amazon.com/dp/B0D2S5M4DK?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=eb8b087bebe03be239ca907e950e9e26&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B000Q5NG9G",
+            "slug": "progresso-rich-hearty-chicken-corn-chowder-canned-soup-185-o",
+            "title": "\udecd️Progresso Rich & Hearty Chicken Corn Chowder Canned Soup, 18.5 oz | Corn, Chicken, Potatoes, Celery & Onion in Creamy ",
+            "price": "$2.29",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81m3adg1OJL.jpg",
+            "url": "https://www.amazon.com/dp/B000Q5NG9G?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ec9d0c50607ccda6bb2c518828a9d3ec&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B0BM51ZM33",
+            "slug": "seventh-generation-dish-soap-refill-free-clear-50-fl-oz-3-pa",
+            "title": "Seventh Generation Dish Soap Refill, Free & Clear, 50 fl oz, 3 Pack, Plant-Based Dishwashing Liquid for Grease & Tough F",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0BM51ZM33?lv=shuf&ascsubtag=ac95c4a691d211f18b2a3247603e4ae30INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=64e88917e571920baba938d913d03a28&language=en_US&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -87,54 +135,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00B8CG602?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=cf3ca6ba8e5ef47c9d99207d1e96f10f&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0GV226SK6",
-            "slug": "zomfy-living-room-rug-5x7-area-rugs-washable-rugbeige-5x7-ge",
-            "title": "Zomfy Living Room Rug 5x7 Area Rugs Washable Rug(Beige, 5'x7') | Geometric Boho Modern Rugs Neutral Non Slip Soft Carpet",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0GV226SK6?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B07J14W55P",
-            "slug": "sva-rosemary-essential-oil-glass-bottle-with-dropper-4-fl-oz",
-            "title": "\udecd️SVA Rosemary Essential Oil, Glass Bottle with Dropper, 4 Fl Oz (118 ml) | Rosemary Oil for Hair Care, Scalp Care, Diff",
-            "price": "$9.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71j14iyZ9jL.jpg",
-            "url": "https://www.amazon.com/dp/B07J14W55P?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1b5f1be7b075a4e8dbbcd155b4d928ef&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CHVTCL2H",
-            "slug": "moacock-100-count-plastic-silverware-heavy-weight-plastic-fo",
-            "title": "\udecd️MOACOCK 100 Count Plastic Silverware, Heavy Weight Plastic Forks Spoons Disposable Utensils Cutlery Set for Wedding Pa",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61xryg3x+pL.jpg",
-            "url": "https://www.amazon.com/dp/B0CHVTCL2H?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d40d661b1b5e4b7052e2c37a2270ed0c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B07MS8MXF5",
-            "slug": "wholesome-wellness-grass-fed-desiccated-beef-liver-capsules",
-            "title": "\udecd️Wholesome Wellness Grass Fed Desiccated Beef Liver Capsules (180 Pills, 750mg Each) - Natural Iron, Vitamin A, B12 for",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71iz5p+2DlL.jpg",
-            "url": "https://www.amazon.com/dp/B07MS8MXF5?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5ba2639f6a26fc20d14c25941f7f7edb&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,61 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/512gqhOlbuL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DCZ26BYC",
+          "slug": "leemone-6-pack-filter-replacement-for-canopy-bedside-nursery",
+          "title": "\udecd️Leemone 6-Pack Filter Replacement for Canopy Bedside & Nursery Humidifier | High-Density Natural Wood Pulp Paper Filte",
+          "price": "$30.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/715lh+BQQRL.jpg",
+          "url": "https://www.amazon.com/dp/B0DCZ26BYC?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c807df6095abe4f2171586ab81aaf162&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0F62QDSBJ",
+          "slug": "wagons-carts-foldable-collapsible-wagon-with-wheels-durable",
+          "title": "\udecd️Wagons Carts Foldable, Collapsible Wagon with Wheels — Durable Folding Utility Pull Wagon Cart for Groceries, Picnic &",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fWzCAbg1L.jpg",
+          "url": "https://www.amazon.com/dp/B0F62QDSBJ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0932c6e0c9e23a87e059066d95936aeb&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D2S5M4DK",
+          "slug": "micro-ingredients-organic-mega-mushrooms-powder-5-oz-filler",
+          "title": "\udecd️Micro Ingredients Organic Mega Mushrooms Powder, 5 oz | Filler Free | 10-in-1 Mushroom Complex with Lion's Mane, Turke",
+          "price": "$19.16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UmqzeeHpL.jpg",
+          "url": "https://www.amazon.com/dp/B0D2S5M4DK?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=eb8b087bebe03be239ca907e950e9e26&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B000Q5NG9G",
+          "slug": "progresso-rich-hearty-chicken-corn-chowder-canned-soup-185-o",
+          "title": "\udecd️Progresso Rich & Hearty Chicken Corn Chowder Canned Soup, 18.5 oz | Corn, Chicken, Potatoes, Celery & Onion in Creamy ",
+          "price": "$2.29",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81m3adg1OJL.jpg",
+          "url": "https://www.amazon.com/dp/B000Q5NG9G?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ec9d0c50607ccda6bb2c518828a9d3ec&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BM51ZM33",
+          "slug": "seventh-generation-dish-soap-refill-free-clear-50-fl-oz-3-pa",
+          "title": "Seventh Generation Dish Soap Refill, Free & Clear, 50 fl oz, 3 Pack, Plant-Based Dishwashing Liquid for Grease & Tough F",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0BM51ZM33?lv=shuf&ascsubtag=ac95c4a691d211f18b2a3247603e4ae30INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=64e88917e571920baba938d913d03a28&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B09DQ67R92",
@@ -192,61 +247,6 @@
           "category": "Pet Supplies",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00B8CG602?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=cf3ca6ba8e5ef47c9d99207d1e96f10f&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D5H6GFVJ",
-          "slug": "flairosol-olivia-signature-oil-sprayer-for-cooking-200ml-gla",
-          "title": "\udecd️FLAIROSOL OLIVIA SIGNATURE Oil Sprayer for Cooking, 200ml Glass, Green/Gold | Portion control mist for air fryer, sala",
-          "price": "$23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JKiIhkzjL.jpg",
-          "url": "https://www.amazon.com/dp/B0D5H6GFVJ?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2bdbedec1644f84758a823208f84169b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GV226SK6",
-          "slug": "zomfy-living-room-rug-5x7-area-rugs-washable-rugbeige-5x7-ge",
-          "title": "Zomfy Living Room Rug 5x7 Area Rugs Washable Rug(Beige, 5'x7') | Geometric Boho Modern Rugs Neutral Non Slip Soft Carpet",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0GV226SK6?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B07J14W55P",
-          "slug": "sva-rosemary-essential-oil-glass-bottle-with-dropper-4-fl-oz",
-          "title": "\udecd️SVA Rosemary Essential Oil, Glass Bottle with Dropper, 4 Fl Oz (118 ml) | Rosemary Oil for Hair Care, Scalp Care, Diff",
-          "price": "$9.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71j14iyZ9jL.jpg",
-          "url": "https://www.amazon.com/dp/B07J14W55P?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1b5f1be7b075a4e8dbbcd155b4d928ef&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07MS8MXF5",
-          "slug": "wholesome-wellness-grass-fed-desiccated-beef-liver-capsules",
-          "title": "\udecd️Wholesome Wellness Grass Fed Desiccated Beef Liver Capsules (180 Pills, 750mg Each) - Natural Iron, Vitamin A, B12 for",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71iz5p+2DlL.jpg",
-          "url": "https://www.amazon.com/dp/B07MS8MXF5?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5ba2639f6a26fc20d14c25941f7f7edb&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CHVTCL2H",
-          "slug": "moacock-100-count-plastic-silverware-heavy-weight-plastic-fo",
-          "title": "\udecd️MOACOCK 100 Count Plastic Silverware, Heavy Weight Plastic Forks Spoons Disposable Utensils Cutlery Set for Wedding Pa",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61xryg3x+pL.jpg",
-          "url": "https://www.amazon.com/dp/B0CHVTCL2H?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d40d661b1b5e4b7052e2c37a2270ed0c&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-06T20:10:01.421Z",
-      "updatedAt": "2026-08-06T20:10:01.421Z"
+      "generatedAt": "2026-08-06T20:20:01.238Z",
+      "updatedAt": "2026-08-06T20:20:01.239Z"
     },
     {
       "date": "2026-08-05",
@@ -16035,5 +16035,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-06T20:10:01.436Z"
+  "generatedAt": "2026-08-06T20:20:01.253Z"
 }
