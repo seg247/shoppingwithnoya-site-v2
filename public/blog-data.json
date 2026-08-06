@@ -9,9 +9,36 @@
         "Other",
         "Toys & Kids",
         "Garden & Outdoor",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Electronics"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0C77XQP2W",
+            "slug": "spampur-power-tool-organizer-8-drill-holders-wall-mount-3-la",
+            "title": "Spampur Power Tool Organizer, 8 Drill Holders Wall Mount, 3 Layer Heavy Duty Metal Storage for Garage Organization, Tool",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TSew4zvQL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C77XQP2W/ref=cm_sw_r_as_gl_api_gl_i_4XV30GXN3KYRYRCWHDAJ?linkCode=ml1&tag=noya0b-20&linkId=248f38c8f70f7a81365d5318de315620&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B01N6TVPNZ",
+            "slug": "dii-everyday-collection-fringed-solid-tabletop-napkin-set-gr",
+            "title": "DII Everyday Collection, Fringed Solid Tabletop, Napkin Set, Gray, 6 Piece : Baby",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81f-JO0p5AL.jpg",
+            "url": "https://www.amazon.com/dp/B01N6TVPNZ/ref=cm_sw_r_as_gl_api_gl_i_16NZM0B3NMBAA80WGKMJ?linkCode=ml1&tag=noya0b-20&linkId=111fd5bc0248e7edd67753ddb3f647c7&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B09C2NMHFM",
@@ -104,34 +131,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71t2GNcQZ1L.jpg",
             "url": "https://www.amazon.com/dp/B0C5C89QKZ?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B000KOQFCI",
-            "slug": "temporary-oos-but-can-still-order",
-            "title": "Temporary oos but can still order",
-            "price": "$39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/817+z-ioiUL.jpg",
-            "url": "https://www.amazon.com/dp/B000KOQFCI/ref=cm_sw_r_as_gl_apa_gl_i_79KAXPYG6V85QTPW6R9Z?linkCode=ml1&tag=noya0b-20&linkId=2d99c76b211a36152897977c73f32b5b&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FPFHCJYF",
-            "slug": "dumos-ergonomic-gaming-chair-with-footrest-home-office-desk",
-            "title": "DUMOS Ergonomic Gaming Chair with Footrest, Home Office Desk Chair | PU Leather, Headrest, Linkage Armrests, Height Adju",
-            "price": "$85",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61J8mWpF-cL.jpg",
-            "url": "https://www.amazon.com/dp/B0FPFHCJYF/ref=cm_sw_r_as_gl_apa_gl_i_HZKWHM1M1JVDJ3ZCZJNA?linkCode=ml1&tag=noya0b-20&linkId=014a83e08b0742c22b23e0c60d28e089&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0C77XQP2W",
+          "slug": "spampur-power-tool-organizer-8-drill-holders-wall-mount-3-la",
+          "title": "Spampur Power Tool Organizer, 8 Drill Holders Wall Mount, 3 Layer Heavy Duty Metal Storage for Garage Organization, Tool",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TSew4zvQL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C77XQP2W/ref=cm_sw_r_as_gl_api_gl_i_4XV30GXN3KYRYRCWHDAJ?linkCode=ml1&tag=noya0b-20&linkId=248f38c8f70f7a81365d5318de315620&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01N6TVPNZ",
+          "slug": "dii-everyday-collection-fringed-solid-tabletop-napkin-set-gr",
+          "title": "DII Everyday Collection, Fringed Solid Tabletop, Napkin Set, Gray, 6 Piece : Baby",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81f-JO0p5AL.jpg",
+          "url": "https://www.amazon.com/dp/B01N6TVPNZ/ref=cm_sw_r_as_gl_api_gl_i_16NZM0B3NMBAA80WGKMJ?linkCode=ml1&tag=noya0b-20&linkId=111fd5bc0248e7edd67753ddb3f647c7&gaOptInStatus=true"
+        },
         {
           "asin": "B09C2NMHFM",
           "slug": "swimline-68-inch-sprinkler-mat-and-splash-play-mini-pool-out",
@@ -219,34 +244,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/71NpvfUVuGL.jpg",
           "url": "https://www.amazon.com/dp/B09TRM6RZJ/ref=cm_sw_r_as_gl_apa_gl_i_JQ9WRYA4BH2FAX2FQ5JT?linkCode=ml1&tag=noya0b-20&linkId=144a3f867332b9f3d6dfc79988a2355a&gaOptInStatus=true"
-        },
-        {
-          "asin": "B000KOQFCI",
-          "slug": "temporary-oos-but-can-still-order",
-          "title": "Temporary oos but can still order",
-          "price": "$39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/817+z-ioiUL.jpg",
-          "url": "https://www.amazon.com/dp/B000KOQFCI/ref=cm_sw_r_as_gl_apa_gl_i_79KAXPYG6V85QTPW6R9Z?linkCode=ml1&tag=noya0b-20&linkId=2d99c76b211a36152897977c73f32b5b&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FPFHCJYF",
-          "slug": "dumos-ergonomic-gaming-chair-with-footrest-home-office-desk",
-          "title": "DUMOS Ergonomic Gaming Chair with Footrest, Home Office Desk Chair | PU Leather, Headrest, Linkage Armrests, Height Adju",
-          "price": "$85",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61J8mWpF-cL.jpg",
-          "url": "https://www.amazon.com/dp/B0FPFHCJYF/ref=cm_sw_r_as_gl_apa_gl_i_HZKWHM1M1JVDJ3ZCZJNA?linkCode=ml1&tag=noya0b-20&linkId=014a83e08b0742c22b23e0c60d28e089&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 6, 2026?",
-          "a": "The best deals today include \"SWIMLINE 68 Inch Sprinkler Mat and Splash Play Mini Pool Out...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Spampur Power Tool Organizer, 8 Drill Holders Wall Mount, 3 ...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-06T09:00:00.309Z",
-      "updatedAt": "2026-08-06T09:00:00.309Z"
+      "generatedAt": "2026-08-06T09:10:01.930Z",
+      "updatedAt": "2026-08-06T09:10:01.930Z"
     },
     {
       "date": "2026-08-05",
@@ -16029,5 +16032,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-06T09:00:00.315Z"
+  "generatedAt": "2026-08-06T09:10:01.936Z"
 }
