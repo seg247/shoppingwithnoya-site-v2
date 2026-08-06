@@ -10,8 +10,8 @@
         "Grocery & Food",
         "Home & Kitchen",
         "Fashion",
-        "Electronics",
-        "Cleaning Supplies"
+        "Beauty",
+        "Electronics"
       ],
       "byCategory": {
         "Fashion": [
@@ -27,7 +27,42 @@
             "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B07N9HZ11H",
+            "slug": "head-shoulders-anti-dandruff-shampoo-and-conditioner-dry-sca",
+            "title": "\udecd️Head & Shoulders Anti-Dandruff Shampoo and Conditioner, Dry Scalp Care 2-in-1 Twin Pack, 1% Pyrithione Zinc and Almond",
+            "price": "$28.43",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81TYdvgJIQL.jpg",
+            "url": "https://www.amazon.com/dp/B07N9HZ11H?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=fd624be181cf6e45a2ad542d38ceb54e&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0BXW51QVX",
+            "slug": "gaming-chair-with-massageergonomic-pc-gaming-chair-with-foot",
+            "title": "\udecd️Gaming Chair with Massage,Ergonomic PC Gaming Chair with Footrest Comfortable Headrest and Lumbar Support, High Back, ",
+            "price": "$62.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61yowozjTpL.jpg",
+            "url": "https://www.amazon.com/dp/B0BXW51QVX?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a89a3543c2ce193181bcd48306b8d129&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DQ5523B7",
+            "slug": "starlink-mini-case-waterproof-hard-case-fits-star-link-mini",
+            "title": "\udecd️Starlink Mini Case, Waterproof Hard case Fits Star Link Mini Dish, Portable Shoulder Dual Carry Options with Precision",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71giabAmsxL.jpg",
+            "url": "https://www.amazon.com/dp/B0DQ5523B7?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=81debf0f64bcabacaff92bd4012abcb3&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0CGWNG9LG",
             "slug": "bioaum-mens-cotton-cushioned-ankle-athletic-socks-6-pairs-ca",
@@ -38,31 +73,20 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81ZQnE4smWL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0CGWNG9LG?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2488117f5df7d1a28a84250fe147ffe3&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09CQDCH7D",
-            "slug": "hwstar-new-180w-1000-bright-h6054-5x7-7x6-led-headlights-com",
-            "title": "\udecd️HWSTAR New 180W 1000% Bright H6054 5x7 7x6 Led Headlights Compatible with Jeep Cherokee XJ Wrangler YJ Emark DOT Anti-",
-            "price": "$89.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71im3nu7zYL.jpg",
-            "url": "https://www.amazon.com/dp/B09CQDCH7D?th=1&linkCode=sl2&tag=noya0b-20&linkId=644118ed5289d282b4ab76c6aee3ec19&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B01LO0P9MS",
-            "slug": "van-heusen-mens-flex-flat-front-straight-fit-pant",
-            "title": "\udecd️Van Heusen Men's Flex Flat Front Straight Fit Pant",
-            "price": "$37.42",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71P7cYq25DL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B01LO0P9MS?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96f0b7a1742758ff665d97a322c97f47&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
+          {
+            "asin": "B08SRSRN7G",
+            "slug": "premier-protein-30g-high-protein-shake-chocolate-peanut-butt",
+            "title": "\udecd️Premier Protein 30g High Protein Shake, Chocolate Peanut Butter, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Ad",
+            "price": "$26.03",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eOTfnaVHL.jpg",
+            "url": "https://www.amazon.com/dp/B08SRSRN7G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=f3792a2700fd4233d1849c368cf88848&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B07L466GW8",
             "slug": "micro-ingredients-organic-raspberry-juice-powder-8oz-carbohy",
@@ -73,17 +97,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/7147NN9ZAkL.jpg",
             "url": "https://www.amazon.com/dp/B07L466GW8?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fb9a73665454d6e7e00b83229f04b84f&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0DNV1PDVT",
-            "slug": "luna-bar-variety-pack-6-flavors-gluten-free-snack-bars-12ct",
-            "title": "LUNA Bar Variety Pack, 6 Flavors, Gluten Free Snack Bars, 12ct | Plant-Based Protein Bars, 7-9g Protein, Non-GMO, Made w",
-            "price": "$9",
+            "asin": "B0CT2GWGYB",
+            "slug": "magic-john-2-pack-for-samsung-galaxy-s24-ultra-screen-protec",
+            "title": "\udecd️MAGIC JOHN 2 Pack for Samsung Galaxy S24 Ultra Screen Protector HD Clear | Auto Dust-Elimination Installation, Bubble ",
+            "price": "$16.98",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/811eMTr9GoL.jpg",
-            "url": "https://www.amazon.com/dp/B0DNV1PDVT?lv=shuf&ascsubtag=3d00b8f6913e11f19c25c692e1d4f49f0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2f0e35a20e09fc8a5997e8880aaf9079&language=en_US&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61gs3r+HoCL.jpg",
+            "url": "https://www.amazon.com/dp/B0CT2GWGYB?lv=shuf&ascsubtag=srctok-4625c34e3582bad9&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-4625c34e3582bad9&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c406c66ba2c4db76bf45af0bd6ab3b70&language=en_US&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -109,32 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61cMob3n0LL.jpg",
             "url": "https://www.amazon.com/dp/B0BBG2SH1B?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5411dcf20b012691c8137763bfc8e438&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B07P211Q4R",
-            "slug": "arteck-microsoft-surface-go-105-inch-type-cover-ultra-slim-p",
-            "title": "\udecd️Arteck Microsoft Surface Go 10.5-inch Type Cover, Ultra-Slim Portable Bluetooth Wireless Keyboard with Touchpad for La",
-            "price": "$32.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71krmmeJIPL.jpg",
-            "url": "https://www.amazon.com/dp/B07P211Q4R?linkCode=sl2&tag=noya0b-20&linkId=24be50b077c12daee3659b550120f35b&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0CJBKBLKL",
-            "slug": "toilet-paper-holder-free-standingsturdy-metal-toilet-paper-h",
-            "title": "\udecd️Toilet Paper Holder Free Standing,Sturdy Metal Toilet Paper Holders Stand | Stable & Rustproof Toilet Paper Stand with",
-            "price": "$12.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/41SmDLC08CL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJBKBLKL?lv=shuf&psc=1&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ab98f36d9e8daaf03e55584b8b8c6365&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,61 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/512gqhOlbuL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07N9HZ11H",
+          "slug": "head-shoulders-anti-dandruff-shampoo-and-conditioner-dry-sca",
+          "title": "\udecd️Head & Shoulders Anti-Dandruff Shampoo and Conditioner, Dry Scalp Care 2-in-1 Twin Pack, 1% Pyrithione Zinc and Almond",
+          "price": "$28.43",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81TYdvgJIQL.jpg",
+          "url": "https://www.amazon.com/dp/B07N9HZ11H?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=fd624be181cf6e45a2ad542d38ceb54e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BXW51QVX",
+          "slug": "gaming-chair-with-massageergonomic-pc-gaming-chair-with-foot",
+          "title": "\udecd️Gaming Chair with Massage,Ergonomic PC Gaming Chair with Footrest Comfortable Headrest and Lumbar Support, High Back, ",
+          "price": "$62.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61yowozjTpL.jpg",
+          "url": "https://www.amazon.com/dp/B0BXW51QVX?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=a89a3543c2ce193181bcd48306b8d129&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DQ5523B7",
+          "slug": "starlink-mini-case-waterproof-hard-case-fits-star-link-mini",
+          "title": "\udecd️Starlink Mini Case, Waterproof Hard case Fits Star Link Mini Dish, Portable Shoulder Dual Carry Options with Precision",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71giabAmsxL.jpg",
+          "url": "https://www.amazon.com/dp/B0DQ5523B7?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=81debf0f64bcabacaff92bd4012abcb3&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08SRSRN7G",
+          "slug": "premier-protein-30g-high-protein-shake-chocolate-peanut-butt",
+          "title": "\udecd️Premier Protein 30g High Protein Shake, Chocolate Peanut Butter, 12 Pack | 160 Calories, 24 Vitamins & Minerals, No Ad",
+          "price": "$26.03",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eOTfnaVHL.jpg",
+          "url": "https://www.amazon.com/dp/B08SRSRN7G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=f3792a2700fd4233d1849c368cf88848&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CT2GWGYB",
+          "slug": "magic-john-2-pack-for-samsung-galaxy-s24-ultra-screen-protec",
+          "title": "\udecd️MAGIC JOHN 2 Pack for Samsung Galaxy S24 Ultra Screen Protector HD Clear | Auto Dust-Elimination Installation, Bubble ",
+          "price": "$16.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61gs3r+HoCL.jpg",
+          "url": "https://www.amazon.com/dp/B0CT2GWGYB?lv=shuf&ascsubtag=srctok-4625c34e3582bad9&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-4625c34e3582bad9&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c406c66ba2c4db76bf45af0bd6ab3b70&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0CGWNG9LG",
@@ -192,61 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61cMob3n0LL.jpg",
           "url": "https://www.amazon.com/dp/B0BBG2SH1B?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5411dcf20b012691c8137763bfc8e438&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09CQDCH7D",
-          "slug": "hwstar-new-180w-1000-bright-h6054-5x7-7x6-led-headlights-com",
-          "title": "\udecd️HWSTAR New 180W 1000% Bright H6054 5x7 7x6 Led Headlights Compatible with Jeep Cherokee XJ Wrangler YJ Emark DOT Anti-",
-          "price": "$89.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71im3nu7zYL.jpg",
-          "url": "https://www.amazon.com/dp/B09CQDCH7D?th=1&linkCode=sl2&tag=noya0b-20&linkId=644118ed5289d282b4ab76c6aee3ec19&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07P211Q4R",
-          "slug": "arteck-microsoft-surface-go-105-inch-type-cover-ultra-slim-p",
-          "title": "\udecd️Arteck Microsoft Surface Go 10.5-inch Type Cover, Ultra-Slim Portable Bluetooth Wireless Keyboard with Touchpad for La",
-          "price": "$32.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71krmmeJIPL.jpg",
-          "url": "https://www.amazon.com/dp/B07P211Q4R?linkCode=sl2&tag=noya0b-20&linkId=24be50b077c12daee3659b550120f35b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01LO0P9MS",
-          "slug": "van-heusen-mens-flex-flat-front-straight-fit-pant",
-          "title": "\udecd️Van Heusen Men's Flex Flat Front Straight Fit Pant",
-          "price": "$37.42",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71P7cYq25DL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B01LO0P9MS?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96f0b7a1742758ff665d97a322c97f47&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CJBKBLKL",
-          "slug": "toilet-paper-holder-free-standingsturdy-metal-toilet-paper-h",
-          "title": "\udecd️Toilet Paper Holder Free Standing,Sturdy Metal Toilet Paper Holders Stand | Stable & Rustproof Toilet Paper Stand with",
-          "price": "$12.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/41SmDLC08CL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJBKBLKL?lv=shuf&psc=1&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ab98f36d9e8daaf03e55584b8b8c6365&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DNV1PDVT",
-          "slug": "luna-bar-variety-pack-6-flavors-gluten-free-snack-bars-12ct",
-          "title": "LUNA Bar Variety Pack, 6 Flavors, Gluten Free Snack Bars, 12ct | Plant-Based Protein Bars, 7-9g Protein, Non-GMO, Made w",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/811eMTr9GoL.jpg",
-          "url": "https://www.amazon.com/dp/B0DNV1PDVT?lv=shuf&ascsubtag=3d00b8f6913e11f19c25c692e1d4f49f0INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2f0e35a20e09fc8a5997e8880aaf9079&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-06T20:50:02.054Z",
-      "updatedAt": "2026-08-06T20:50:02.054Z"
+      "generatedAt": "2026-08-06T21:00:01.574Z",
+      "updatedAt": "2026-08-06T21:00:01.574Z"
     },
     {
       "date": "2026-08-05",
@@ -16035,5 +16035,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-06T20:50:02.068Z"
+  "generatedAt": "2026-08-06T21:00:01.591Z"
 }
