@@ -9,9 +9,10 @@
         "Other",
         "Grocery & Food",
         "Fashion",
+        "Home & Kitchen",
+        "Beauty",
         "Toys & Kids",
-        "Personal Care",
-        "Electronics"
+        "Personal Care"
       ],
       "byCategory": {
         "Fashion": [
@@ -27,6 +28,91 @@
             "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0D53QF3VC",
+            "slug": "vosser-twin-xl-air-mattress-with-built-in-pump18-raised80-lo",
+            "title": "\udecd️VOSSER Twin XL Air Mattress with Built-in Pump,18\" Raised,80\" Long,500 lb | ISPA Member Brand,Extra Long Inflatable Bl",
+            "price": "$66.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Uc9ToAECL.jpg",
+            "url": "https://www.amazon.com/dp/B0D53QF3VC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=cfc64b46c8f035df872d7d1b07ff8e02&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B08D7JM1X2",
+            "slug": "popcorners-popped-corn-chips-6-flavor-variety-snack-pack-1-o",
+            "title": "\udecd️PopCorners Popped Corn Chips, 6 Flavor Variety Snack Pack, 1 oz Bags, (20 Pack), Gluten Free, No Artificial Colors, No",
+            "price": "$22.43",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81oo+GNOntL.jpg",
+            "url": "https://www.amazon.com/dp/B08D7JM1X2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0eb07460ae5f574f2f0ea159b370330a&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07WG8HCFM",
+            "slug": "liang-baobao-gaiwan-tea-set-with-lid-saucer-porcelain-teacup",
+            "title": "\udecd️Liang baobao Gaiwan Tea Set with Lid & Saucer Porcelain Teacups 10oz | 3-color Flower Handmade Ceramic Teaware Chinese",
+            "price": "$19.90",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51TcuvVyOBL.jpg",
+            "url": "https://www.amazon.com/dp/B07WG8HCFM?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7b6978d9f593afa992a9a11cbc182947&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0BB3DD3FP",
+            "slug": "multi-collagen-burn-multitype-hydrolyzed-protein-peptides-wi",
+            "title": "\udecd️Multi Collagen Burn: MultiType Hydrolyzed Protein Peptides with Hyaluronic Acid, Vitamin C, SOD B Dimpless, Types I, I",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/716FC6UoFfL.jpg",
+            "url": "https://www.amazon.com/dp/B0BB3DD3FP?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=aa14473fc2c5916c46271e75531b11d9&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0FBWCB6SD",
+            "slug": "kingrack-4-tier-slim-rolling-cart-with-drawer-metal-utility",
+            "title": "KINGRACK 4 Tier Slim Rolling Cart with Drawer, Metal Utility Storage Cart | 2 Pull-out Baskets, Lockable Wheels, Narrow ",
+            "price": "$34",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HiZAZD02L.jpg",
+            "url": "https://www.amazon.com/dp/B0FBWCB6SD?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B098GJJ8WZ",
+            "slug": "joyin-65-halloween-decoration-cocoon-corpse-animated-hanging",
+            "title": "\udecd️JOYIN 65\" Halloween Decoration Cocoon Corpse, Animated Hanging Dead Body Prop Indoor Decor, Corpses Skeleton Outdoor D",
+            "price": "$41.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B098GJJ8WZ?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fd22066adf3c9436fd7c24178e8e8a57&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B098GJJ8WZ",
+            "slug": "joyin-65-halloween-decoration-cocoon-corpse-animated-hanging",
+            "title": "\udecd️JOYIN 65\" Halloween Decoration Cocoon Corpse, Animated Hanging Dead Body Prop Indoor Decor, Corpses Skeleton Outdoor D",
+            "price": "$41.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B098GJJ8WZ?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fd22066adf3c9436fd7c24178e8e8a57&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0DK7X8VKG",
@@ -38,41 +124,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/71GrYaM8O3L.jpg",
             "url": "https://www.amazon.com/dp/B0DK7X8VKG?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c92537814a8b664681c4605ebef8d132&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B098GJJ8WZ",
-            "slug": "joyin-65-halloween-decoration-cocoon-corpse-animated-hanging",
-            "title": "\udecd️JOYIN 65\" Halloween Decoration Cocoon Corpse, Animated Hanging Dead Body Prop Indoor Decor, Corpses Skeleton Outdoor D",
-            "price": "$41.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B098GJJ8WZ?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fd22066adf3c9436fd7c24178e8e8a57&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B098GJJ8WZ",
-            "slug": "joyin-65-halloween-decoration-cocoon-corpse-animated-hanging",
-            "title": "\udecd️JOYIN 65\" Halloween Decoration Cocoon Corpse, Animated Hanging Dead Body Prop Indoor Decor, Corpses Skeleton Outdoor D",
-            "price": "$41.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B098GJJ8WZ?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fd22066adf3c9436fd7c24178e8e8a57&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07CXNB571",
-            "slug": "usx-mount-ul-listed-tv-mount-low-profile-for-most-26-60-flat",
-            "title": "\udecd️USX Mount UL Listed TV Mount Low Profile for Most 26-60\" Flat Screen LED, LCD, Curved TVs, TV Wall Mount Bracket Tilt ",
-            "price": "$15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VJ42yDVVL.jpg",
-            "url": "https://www.amazon.com/dp/B07CXNB571?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=81aae97533abbf40899d5d509304cd12&language=en_US&gaOptInStatus=true"
           }
         ],
         "Personal Care": [
@@ -87,54 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61WErYcR5qL.jpg",
             "url": "https://www.amazon.com/dp/B0H2N8KHQ1?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7ff2bf9b3ab5f41b1c25a1dd7d9dd706&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B07TRN4WVY",
-            "slug": "amazon-grocery-quick-cook-oats-18-oz",
-            "title": "\udecd️Amazon Grocery, Quick Cook Oats, 18 Oz",
-            "price": "$2.38",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/719iaY2GpeL.jpg",
-            "url": "https://www.amazon.com/dp/B07TRN4WVY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8798f2ac80411b3fb2236d99b2b5542b&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B000E65OQA",
-            "slug": "celestial-seasonings-sleepytime-extra-herbal-tea-promotes-re",
-            "title": "\udecd️Celestial Seasonings Sleepytime Extra Herbal Tea, Promotes Relaxation, 20 Count (Pack of 6)",
-            "price": "$28.73",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81cgvCXrZEL.jpg",
-            "url": "https://www.amazon.com/dp/B000E65OQA?th=1&linkCode=sl2&tag=noya0b-20&linkId=f9109d04e960858325fd4c73b529d3f3&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09VYQ1TCF",
-            "slug": "gimme-5-ct-sea-salt-grab-go-organic-roasted-seaweed-snacks-4",
-            "title": "\udecd️Gimme 5 CT Sea Salt Grab & Go Organic Roasted Seaweed Snacks, 4g, 0.14oz",
-            "price": "$4.16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81U4nW3L5JL.jpg",
-            "url": "https://www.amazon.com/dp/B09VYQ1TCF?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a7f9311185e1a6ad6164e52435ce8a5c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0D1YLVQYR",
-            "slug": "stylus-pen-for-ipad-2018-2026-usb-c-fast-charging-pencil-pix",
-            "title": "\udecd️Stylus Pen for iPad 2018-2026, USB-C Fast Charging Pencil, Pixel-Perfect Tilt Sensitivity for iPad 11/10/9/8/7/6/A16, ",
-            "price": "$15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/412WXd6Qe1L.jpg",
-            "url": "https://www.amazon.com/dp/B0D1YLVQYR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c6ece2394ff0861fa4cea6a1215724b1&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -148,6 +151,61 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/512gqhOlbuL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G8RXLD2B?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=96735f5ff114e0f14d03a86b6113144e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D53QF3VC",
+          "slug": "vosser-twin-xl-air-mattress-with-built-in-pump18-raised80-lo",
+          "title": "\udecd️VOSSER Twin XL Air Mattress with Built-in Pump,18\" Raised,80\" Long,500 lb | ISPA Member Brand,Extra Long Inflatable Bl",
+          "price": "$66.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Uc9ToAECL.jpg",
+          "url": "https://www.amazon.com/dp/B0D53QF3VC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=cfc64b46c8f035df872d7d1b07ff8e02&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08D7JM1X2",
+          "slug": "popcorners-popped-corn-chips-6-flavor-variety-snack-pack-1-o",
+          "title": "\udecd️PopCorners Popped Corn Chips, 6 Flavor Variety Snack Pack, 1 oz Bags, (20 Pack), Gluten Free, No Artificial Colors, No",
+          "price": "$22.43",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81oo+GNOntL.jpg",
+          "url": "https://www.amazon.com/dp/B08D7JM1X2?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0eb07460ae5f574f2f0ea159b370330a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07WG8HCFM",
+          "slug": "liang-baobao-gaiwan-tea-set-with-lid-saucer-porcelain-teacup",
+          "title": "\udecd️Liang baobao Gaiwan Tea Set with Lid & Saucer Porcelain Teacups 10oz | 3-color Flower Handmade Ceramic Teaware Chinese",
+          "price": "$19.90",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51TcuvVyOBL.jpg",
+          "url": "https://www.amazon.com/dp/B07WG8HCFM?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7b6978d9f593afa992a9a11cbc182947&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BB3DD3FP",
+          "slug": "multi-collagen-burn-multitype-hydrolyzed-protein-peptides-wi",
+          "title": "\udecd️Multi Collagen Burn: MultiType Hydrolyzed Protein Peptides with Hyaluronic Acid, Vitamin C, SOD B Dimpless, Types I, I",
+          "price": "$59.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/716FC6UoFfL.jpg",
+          "url": "https://www.amazon.com/dp/B0BB3DD3FP?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=aa14473fc2c5916c46271e75531b11d9&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FBWCB6SD",
+          "slug": "kingrack-4-tier-slim-rolling-cart-with-drawer-metal-utility",
+          "title": "KINGRACK 4 Tier Slim Rolling Cart with Drawer, Metal Utility Storage Cart | 2 Pull-out Baskets, Lockable Wheels, Narrow ",
+          "price": "$34",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HiZAZD02L.jpg",
+          "url": "https://www.amazon.com/dp/B0FBWCB6SD?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0DK7X8VKG",
@@ -192,61 +250,6 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61WErYcR5qL.jpg",
           "url": "https://www.amazon.com/dp/B0H2N8KHQ1?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7ff2bf9b3ab5f41b1c25a1dd7d9dd706&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07TRN4WVY",
-          "slug": "amazon-grocery-quick-cook-oats-18-oz",
-          "title": "\udecd️Amazon Grocery, Quick Cook Oats, 18 Oz",
-          "price": "$2.38",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/719iaY2GpeL.jpg",
-          "url": "https://www.amazon.com/dp/B07TRN4WVY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8798f2ac80411b3fb2236d99b2b5542b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B000E65OQA",
-          "slug": "celestial-seasonings-sleepytime-extra-herbal-tea-promotes-re",
-          "title": "\udecd️Celestial Seasonings Sleepytime Extra Herbal Tea, Promotes Relaxation, 20 Count (Pack of 6)",
-          "price": "$28.73",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81cgvCXrZEL.jpg",
-          "url": "https://www.amazon.com/dp/B000E65OQA?th=1&linkCode=sl2&tag=noya0b-20&linkId=f9109d04e960858325fd4c73b529d3f3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07CXNB571",
-          "slug": "usx-mount-ul-listed-tv-mount-low-profile-for-most-26-60-flat",
-          "title": "\udecd️USX Mount UL Listed TV Mount Low Profile for Most 26-60\" Flat Screen LED, LCD, Curved TVs, TV Wall Mount Bracket Tilt ",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71VJ42yDVVL.jpg",
-          "url": "https://www.amazon.com/dp/B07CXNB571?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=81aae97533abbf40899d5d509304cd12&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D1YLVQYR",
-          "slug": "stylus-pen-for-ipad-2018-2026-usb-c-fast-charging-pencil-pix",
-          "title": "\udecd️Stylus Pen for iPad 2018-2026, USB-C Fast Charging Pencil, Pixel-Perfect Tilt Sensitivity for iPad 11/10/9/8/7/6/A16, ",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/412WXd6Qe1L.jpg",
-          "url": "https://www.amazon.com/dp/B0D1YLVQYR?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c6ece2394ff0861fa4cea6a1215724b1&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09VYQ1TCF",
-          "slug": "gimme-5-ct-sea-salt-grab-go-organic-roasted-seaweed-snacks-4",
-          "title": "\udecd️Gimme 5 CT Sea Salt Grab & Go Organic Roasted Seaweed Snacks, 4g, 0.14oz",
-          "price": "$4.16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81U4nW3L5JL.jpg",
-          "url": "https://www.amazon.com/dp/B09VYQ1TCF?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a7f9311185e1a6ad6164e52435ce8a5c&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-06T22:20:01.674Z",
-      "updatedAt": "2026-08-06T22:20:01.674Z"
+      "generatedAt": "2026-08-06T22:30:01.049Z",
+      "updatedAt": "2026-08-06T22:30:01.049Z"
     },
     {
       "date": "2026-08-05",
@@ -16035,5 +16038,5 @@
       "generatedAt": "2026-06-05T03:50:01.878Z"
     }
   ],
-  "generatedAt": "2026-08-06T22:20:01.689Z"
+  "generatedAt": "2026-08-06T22:30:01.065Z"
 }
