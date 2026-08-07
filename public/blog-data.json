@@ -9,11 +9,83 @@
         "Other",
         "Electronics",
         "Pet Supplies",
-        "Fashion",
-        "Beauty"
+        "Cleaning Supplies",
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Cleaning Supplies": [
+          {
+            "asin": "B0CM4NY91V",
+            "slug": "cottonelle-ultra-soft-toilet-paper-32-family-mega-rolls144-r",
+            "title": "\udecd️Cottonelle Ultra Soft Toilet Paper, 32 Family Mega Rolls=144 Regular Rolls",
+            "price": "$34.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CM4NY91V?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bc243eed83cf1542d7154ca0fbff90b1&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0CYN2FX62",
+            "slug": "6666-four-sixes-steeldust-hot-honey-seasoning-mix-125-ounce",
+            "title": "\udecd️6666 Four Sixes Steeldust Hot Honey Seasoning Mix, 1.25 Ounce (Pack of 12)",
+            "price": "$18.60",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ZD9Kl-fdL.jpg",
+            "url": "https://www.amazon.com/dp/B0CYN2FX62?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d383cb90c566f4467cc6b98efc5c4ed0&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0D5GTP2Q7",
+            "slug": "usb-c-wall-charger-block-2pack-50w-5-port-c-charger-fast-cha",
+            "title": "\udecd️USB C Wall Charger Block, 2Pack 50W 5-Port C Charger Fast Charging Block PD Power Adapter +QC Multiport Type C Box Bri",
+            "price": "$17.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/611+4-drbQL.jpg",
+            "url": "https://www.amazon.com/dp/B0D5GTP2Q7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1f0ea1ef5931aee975916d1061e3b591&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FDVK77QB",
+            "slug": "sportlink-full-cover-for-iphone-17-pro-waterproof-case-63-bl",
+            "title": "\udecd️SPORTLINK Full Cover for iPhone 17 Pro Waterproof Case 6.3 Black | Built in Screen Protector,Heavy Duty,Military Rugge",
+            "price": "$22.69",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FDVK77QB?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=774b908cc91d27c16bc117a95ae2e90b&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0D9CQJ93L",
+            "slug": "uniball-zento-gel-pens-black-ink-07mm-medium-point-12-count",
+            "title": "uniball™ Zento Gel Pens, Black Ink, 0.7mm Medium Point, 12 Count | Retractable, Smooth Writing, Quick-Drying, No Smear, ",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71vQK96r96L.jpg",
+            "url": "https://www.amazon.com/dp/B0D9CQJ93L/ref=cm_sw_r_as_gl_api_gl_i_dl_2ZQ530XSV96C3DGJKV4K?linkCode=ml1&tag=noya0b-20&linkId=d85d56630e01f374949038da294511f3&gaOptInStatus=true"
+          },
+          {
+            "asin": "B09WFQRS5P",
+            "slug": "nuvadermis-silicone-scar-sheets-for-surgical-scars-120-x-15",
+            "title": "\udecd️NUVADERMIS Silicone Scar Sheets for Surgical Scars - 120\" x 1.5\" Roll - Medical Grade Silicone Scar Tape and Face Tape",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TvScNkPYL.jpg",
+            "url": "https://www.amazon.com/dp/B09WFQRS5P?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1c9b7d7813d71799f5c2261cf86c4ce6&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B08LYBGKZC",
             "slug": "maui-moisture-frizz-free-shea-butter-leave-in-conditioning-m",
@@ -35,41 +107,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71Dp-dXuOBL.jpg",
             "url": "https://www.amazon.com/dp/B0CTGXQJJX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=94115a08fa32c0816be8dcaf7810d454&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B01N76HM3K",
-            "slug": "metu-sheepskin-rug-brush",
-            "title": "\udecd️MetU Sheepskin Rug Brush",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61tvKCldG9L.jpg",
-            "url": "https://www.amazon.com/dp/B01N76HM3K?th=1&linkCode=sl2&tag=noya0b-20&linkId=2903445fd619c2dbf22a7c0993cae2cb&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FDVK77QB",
-            "slug": "sportlink-full-cover-for-iphone-17-pro-waterproof-case-63-bl",
-            "title": "\udecd️SPORTLINK Full Cover for iPhone 17 Pro Waterproof Case 6.3 Black | Built in Screen Protector,Heavy Duty,Military Rugge",
-            "price": "$22.69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FDVK77QB?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=774b908cc91d27c16bc117a95ae2e90b&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DDLCLFFX",
-            "slug": "dji-mic-mini-1-tx-1-rx-ultralight-detail-rich-audio-noise-ca",
-            "title": "\udecd️DJI Mic Mini (1 TX + 1 RX), Ultralight, Detail-Rich Audio | Noise Cancelling, Automatic Limiting, Wireless Microphone ",
-            "price": "$45.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DDLCLFFX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b1af267b696f981b4f6df1bef87a18d9&language=en_US&gaOptInStatus=true"
           }
         ],
         "Pet Supplies": [
@@ -95,46 +132,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81sOoiUSUfL.jpg",
             "url": "https://www.amazon.com/dp/B006HKA6II?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4e4223eb0cb324a2ac5d7e7e854de90d&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0B17NB28N",
-            "slug": "happy-nuts-comfort-powder-spray-anti-chafing-mens-deodorant",
-            "title": "\udecd️HAPPY NUTS Comfort Powder Spray: Anti Chafing & Mens Deodorant, Aluminum-Free, Sweat and Odor Control for Jock Itch, G",
-            "price": "$15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JyCTfszIL.jpg",
-            "url": "https://www.amazon.com/dp/B0B17NB28N?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=30eb485832582341089e59ab89c60247&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B01N1ROCE7",
-            "slug": "pink-miracle-shoe-cleaner-kit-with-bottle-and-brush-for-fabr",
-            "title": "\udecd️Pink Miracle Shoe Cleaner Kit with Bottle and Brush For Fabric Cleaner For Leather, Whites, Suede and Nubuck Sneakers",
-            "price": "$17.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81A-tfxWj6L.jpg",
-            "url": "https://www.amazon.com/dp/B01N1ROCE7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a34e12ecdbe1de039cf75da9689c7174&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09VS3RR3R",
-            "slug": "squish-shoe-covers-disposable-non-slip-thick-extra-disposabl",
-            "title": "\udecd️squish Shoe Covers Disposable Non Slip, Thick Extra Disposable Boot Covers Slip Proof Shoe Cover for Indoors Outdoors ",
-            "price": "$21.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09VS3RR3R?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=79b3664410f07206c1fa8426ec9b1b11&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CM4NY91V",
+          "slug": "cottonelle-ultra-soft-toilet-paper-32-family-mega-rolls144-r",
+          "title": "\udecd️Cottonelle Ultra Soft Toilet Paper, 32 Family Mega Rolls=144 Regular Rolls",
+          "price": "$34.79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CM4NY91V?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bc243eed83cf1542d7154ca0fbff90b1&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CYN2FX62",
+          "slug": "6666-four-sixes-steeldust-hot-honey-seasoning-mix-125-ounce",
+          "title": "\udecd️6666 Four Sixes Steeldust Hot Honey Seasoning Mix, 1.25 Ounce (Pack of 12)",
+          "price": "$18.60",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ZD9Kl-fdL.jpg",
+          "url": "https://www.amazon.com/dp/B0CYN2FX62?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d383cb90c566f4467cc6b98efc5c4ed0&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D5GTP2Q7",
+          "slug": "usb-c-wall-charger-block-2pack-50w-5-port-c-charger-fast-cha",
+          "title": "\udecd️USB C Wall Charger Block, 2Pack 50W 5-Port C Charger Fast Charging Block PD Power Adapter +QC Multiport Type C Box Bri",
+          "price": "$17.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/611+4-drbQL.jpg",
+          "url": "https://www.amazon.com/dp/B0D5GTP2Q7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1f0ea1ef5931aee975916d1061e3b591&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D9CQJ93L",
+          "slug": "uniball-zento-gel-pens-black-ink-07mm-medium-point-12-count",
+          "title": "uniball™ Zento Gel Pens, Black Ink, 0.7mm Medium Point, 12 Count | Retractable, Smooth Writing, Quick-Drying, No Smear, ",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vQK96r96L.jpg",
+          "url": "https://www.amazon.com/dp/B0D9CQJ93L/ref=cm_sw_r_as_gl_api_gl_i_dl_2ZQ530XSV96C3DGJKV4K?linkCode=ml1&tag=noya0b-20&linkId=d85d56630e01f374949038da294511f3&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09WFQRS5P",
+          "slug": "nuvadermis-silicone-scar-sheets-for-surgical-scars-120-x-15",
+          "title": "\udecd️NUVADERMIS Silicone Scar Sheets for Surgical Scars - 120\" x 1.5\" Roll - Medical Grade Silicone Scar Tape and Face Tape",
+          "price": "$24.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TvScNkPYL.jpg",
+          "url": "https://www.amazon.com/dp/B09WFQRS5P?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=1c9b7d7813d71799f5c2261cf86c4ce6&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B08LYBGKZC",
           "slug": "maui-moisture-frizz-free-shea-butter-leave-in-conditioning-m",
@@ -189,67 +244,12 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81sOoiUSUfL.jpg",
           "url": "https://www.amazon.com/dp/B006HKA6II?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4e4223eb0cb324a2ac5d7e7e854de90d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DDLCLFFX",
-          "slug": "dji-mic-mini-1-tx-1-rx-ultralight-detail-rich-audio-noise-ca",
-          "title": "\udecd️DJI Mic Mini (1 TX + 1 RX), Ultralight, Detail-Rich Audio | Noise Cancelling, Automatic Limiting, Wireless Microphone ",
-          "price": "$45.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DDLCLFFX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b1af267b696f981b4f6df1bef87a18d9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0B17NB28N",
-          "slug": "happy-nuts-comfort-powder-spray-anti-chafing-mens-deodorant",
-          "title": "\udecd️HAPPY NUTS Comfort Powder Spray: Anti Chafing & Mens Deodorant, Aluminum-Free, Sweat and Odor Control for Jock Itch, G",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JyCTfszIL.jpg",
-          "url": "https://www.amazon.com/dp/B0B17NB28N?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=30eb485832582341089e59ab89c60247&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01N1ROCE7",
-          "slug": "pink-miracle-shoe-cleaner-kit-with-bottle-and-brush-for-fabr",
-          "title": "\udecd️Pink Miracle Shoe Cleaner Kit with Bottle and Brush For Fabric Cleaner For Leather, Whites, Suede and Nubuck Sneakers",
-          "price": "$17.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/81A-tfxWj6L.jpg",
-          "url": "https://www.amazon.com/dp/B01N1ROCE7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a34e12ecdbe1de039cf75da9689c7174&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01N76HM3K",
-          "slug": "metu-sheepskin-rug-brush",
-          "title": "\udecd️MetU Sheepskin Rug Brush",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61tvKCldG9L.jpg",
-          "url": "https://www.amazon.com/dp/B01N76HM3K?th=1&linkCode=sl2&tag=noya0b-20&linkId=2903445fd619c2dbf22a7c0993cae2cb&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09VS3RR3R",
-          "slug": "squish-shoe-covers-disposable-non-slip-thick-extra-disposabl",
-          "title": "\udecd️squish Shoe Covers Disposable Non Slip, Thick Extra Disposable Boot Covers Slip Proof Shoe Cover for Indoors Outdoors ",
-          "price": "$21.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09VS3RR3R?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=79b3664410f07206c1fa8426ec9b1b11&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 7, 2026?",
-          "a": "The best deals today include \"\udecd️Maui Moisture Frizz-Free + Shea Butter Leave-in Conditioni...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Pet Supplies and are updated daily."
+          "a": "The best deals today include \"\udecd️Cottonelle Ultra Soft Toilet Paper, 32 Family Mega Rolls=1...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-07T08:50:01.958Z",
-      "updatedAt": "2026-08-07T08:50:01.958Z"
+      "generatedAt": "2026-08-07T09:00:02.159Z",
+      "updatedAt": "2026-08-07T09:00:02.159Z"
     },
     {
       "date": "2026-08-06",
@@ -16186,5 +16186,5 @@
       "generatedAt": "2026-06-08T03:50:01.313Z"
     }
   ],
-  "generatedAt": "2026-08-07T08:50:01.973Z"
+  "generatedAt": "2026-08-07T09:00:02.257Z"
 }
