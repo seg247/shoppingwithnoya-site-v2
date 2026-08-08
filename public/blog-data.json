@@ -9,23 +9,60 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
+        "Personal Care",
+        "Grocery & Food",
         "Fashion"
       ],
       "byCategory": {
-        "Fashion": [
+        "Personal Care": [
           {
-            "asin": "B0DBKW5GJR",
-            "slug": "coface-mens-cozy-memory-foam-scuff-slippers-warm-slip-on-hou",
-            "title": "\udecd️COFACE Mens Cozy Memory Foam Scuff Slippers Warm Slip On House Shoes | Casual, Lightweight,Soft Cushion, Indoor/Outdoo",
-            "price": "$19.99",
+            "asin": "B0CFLHC3FB",
+            "slug": "suitshine-replacement-toothbrush-heads-for-philips-sonicare",
+            "title": "\udecd️SuitShine Replacement Toothbrush Heads for Philips Sonicare 8 Pack | Secure Click-On Fit, Soft Rounded Bristles, Wave-",
+            "price": "$9.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81AmDy3KQ8L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DBKW5GJR?lv=shuf&ascsubtag=srctok-0a3bb4abba29a5d0&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-0a3bb4abba29a5d0&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b20c640119c648ddb5c152128fc45e87&language=en_US&gaOptInStatus=true"
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fwluygbfL.jpg",
+            "url": "https://www.amazon.com/dp/B0CFLHC3FB?lv=shuf&ascsubtag=srctok-5e145396155a9bfe&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-5e145396155a9bfe&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=83fd45313eeb18626c74ab54f5502003&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GXX52D5Y",
+            "slug": "belkin-portable-charger-25k-power-bank-with-integrated-usb-c",
+            "title": "\udecd️Belkin Portable Charger 25K, Power Bank with Integrated USB C Cable, 158W - Fast Charging Laptop Portable Battery Pack",
+            "price": "$84.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51uezHtMDJL.jpg",
+            "url": "https://www.amazon.com/dp/B0GXX52D5Y?lv=shuf&ascsubtag=srctok-67d023cc30962062&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-67d023cc30962062&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c0eb83d4c0dc4dec6115f1eaeefb1528&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FHL66FPY",
+            "slug": "hisense-43-e6-cinema-series-hi-qled-4k-uhd-smart-fire-tv-43e",
+            "title": "\udecd️Hisense 43\" E6 Cinema Series Hi-QLED 4K UHD Smart Fire TV (43E6QF) - AI Light Sensor, Dolby Vision · Atmos, Voice Remo",
+            "price": "$199.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71dEzZA0lJL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHL66FPY?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3eeeaed179a50c09b102bccc061fbd1f&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
+          {
+            "asin": "B0FPF28ZXR",
+            "slug": "homfine-cooling-comforter-for-hot-sleepers-kingcal-king-dark",
+            "title": "\udecd️HOMFINE Cooling Comforter for Hot Sleepers King/Cal King, Dark Blue 108\"x90\"",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61d2ikL5gwL.jpg",
+            "url": "https://www.amazon.com/dp/B0FPF28ZXR?lv=shuf&ascsubtag=srctok-6f67d0c4d89a0653&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-6f67d0c4d89a0653&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=74fc238303ccaea63b5060ce0d8b6eff&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0CRB2GW6Q",
             "slug": "reinforced-42-extra-tall-retractable-baby-gates-with-rods-ex",
@@ -47,66 +84,33 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71l3hdx0PlL.jpg",
             "url": "https://www.amazon.com/dp/0062404520?lv=shuf&redirect=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fa0c4c4921a9b1c7dd519e646ab6c777&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B01DPWDVTQ",
-            "slug": "loreal-paris-magic-root-cover-up-gray-hair-spray-100-gray-ha",
-            "title": "\udecd️L'Oreal Paris Magic Root Cover Up Gray Hair Spray, 100% Gray Hair Coverage with Buildable, Lightweight, Transfer-Resis",
-            "price": "$21.82",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B01DPWDVTQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6b2e85e669fdaeaae011854136d77e8&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08PC8JT3J",
-            "slug": "inspire-adult-wet-wipes-wash-cloths-adult-wipes-for-incontin",
-            "title": "\udecd️Inspire Adult Wet Wipes, Wash Cloths | Adult Wipes for Incontinence & Cleansing for Elderly, 8\"x12\" Count 12 packs of ",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81GwFAyvn4L.jpg",
-            "url": "https://www.amazon.com/dp/B08PC8JT3J?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=db7f1ad5252657387ab24d1a85d47503&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B00006B7PY",
-            "slug": "epson-premium-presentation-paper-matte-85x11-inches-double-s",
-            "title": "\udecd️Epson Premium Presentation Paper MATTE (8.5x11 Inches, Double-sided, 50 Sheets) (S041568),Bright White | Heavy weight,",
-            "price": "$8.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00006B7PY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=cb8afc38fe37f97ffd634053a758350a&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Electronics": [
+        "Grocery & Food": [
           {
-            "asin": "B0FHL66FPY",
-            "slug": "hisense-43-e6-cinema-series-hi-qled-4k-uhd-smart-fire-tv-43e",
-            "title": "\udecd️Hisense 43\" E6 Cinema Series Hi-QLED 4K UHD Smart Fire TV (43E6QF) - AI Light Sensor, Dolby Vision · Atmos, Voice Remo",
-            "price": "$199.99",
+            "asin": "B0FSDT4R2F",
+            "slug": "madhava-organic-olive-oil-2l-bottle-100-pure-single-source-6",
+            "title": "\udecd️Madhava Organic Olive Oil, 2L Bottle, 100% Pure & Single Source, 67.8 oz",
+            "price": "$30.80",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dEzZA0lJL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHL66FPY?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=3eeeaed179a50c09b102bccc061fbd1f&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B095VFM4NX",
-            "slug": "suplik-kids-case-for-ipad-9th8th7th-generation-ipad-102-inch",
-            "title": "\udecd️SUPLIK Kids Case for iPad 9th/8th/7th Generation - iPad 10.2 inch 2021/2020/2019 Case with Built-in Screen Protector, ",
-            "price": "$16.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/715HgEly8DL.jpg",
-            "url": "https://www.amazon.com/dp/B095VFM4NX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e01ffbb476c01fdba21bd6f8a9214883&language=en_US&gaOptInStatus=true"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51xjAq5kP6L.jpg",
+            "url": "https://www.amazon.com/dp/B0FSDT4R2F?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=05c7bcfd9f38a9a02aadc69740bf1a66&language=en_US&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
+          {
+            "asin": "B01MUTSU13",
+            "slug": "kitchenaid-ksmvsa-fresh-prep-slicer-and-shredder-attachment",
+            "title": "\udecd️KitchenAid KSMVSA Fresh Prep Slicer and Shredder Attachment | Fits all Kitchenaid Stand Mixers, 3 blades for Slicing a",
+            "price": "$49.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B01MUTSU13?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0c0e32f8f1fb924ff6042d56246bad4c&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0CPHZRV99",
             "slug": "airtight-food-storage-containers-with-lids-24-pcs-kitchen-an",
@@ -117,21 +121,78 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/91-E8Th09GL.jpg",
             "url": "https://www.amazon.com/dp/B0CPHZRV99?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=f81044979b40e33f72811ba5342fb0f5&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0040ZOI1S",
-            "slug": "kleenex-professional-hard-roll-paper-towels-bulk-6-rolls-x-6",
-            "title": "\udecd️Kleenex Professional Hard Roll Paper Towels, Bulk, 6 Rolls x 600' (50606) | Universal 1.75\" Core, Absorbency Pockets, ",
-            "price": "$60.95",
+            "asin": "B0DBKW5GJR",
+            "slug": "coface-mens-cozy-memory-foam-scuff-slippers-warm-slip-on-hou",
+            "title": "\udecd️COFACE Mens Cozy Memory Foam Scuff Slippers Warm Slip On House Shoes | Casual, Lightweight,Soft Cushion, Indoor/Outdoo",
+            "price": "$19.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0040ZOI1S?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c25d59b514adb563b229a209731bddd6&language=en_US&gaOptInStatus=true"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81AmDy3KQ8L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DBKW5GJR?lv=shuf&ascsubtag=srctok-0a3bb4abba29a5d0&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-0a3bb4abba29a5d0&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b20c640119c648ddb5c152128fc45e87&language=en_US&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CFLHC3FB",
+          "slug": "suitshine-replacement-toothbrush-heads-for-philips-sonicare",
+          "title": "\udecd️SuitShine Replacement Toothbrush Heads for Philips Sonicare 8 Pack | Secure Click-On Fit, Soft Rounded Bristles, Wave-",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71fwluygbfL.jpg",
+          "url": "https://www.amazon.com/dp/B0CFLHC3FB?lv=shuf&ascsubtag=srctok-5e145396155a9bfe&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-5e145396155a9bfe&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=83fd45313eeb18626c74ab54f5502003&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GXX52D5Y",
+          "slug": "belkin-portable-charger-25k-power-bank-with-integrated-usb-c",
+          "title": "\udecd️Belkin Portable Charger 25K, Power Bank with Integrated USB C Cable, 158W - Fast Charging Laptop Portable Battery Pack",
+          "price": "$84.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51uezHtMDJL.jpg",
+          "url": "https://www.amazon.com/dp/B0GXX52D5Y?lv=shuf&ascsubtag=srctok-67d023cc30962062&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-67d023cc30962062&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c0eb83d4c0dc4dec6115f1eaeefb1528&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FPF28ZXR",
+          "slug": "homfine-cooling-comforter-for-hot-sleepers-kingcal-king-dark",
+          "title": "\udecd️HOMFINE Cooling Comforter for Hot Sleepers King/Cal King, Dark Blue 108\"x90\"",
+          "price": "$59.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61d2ikL5gwL.jpg",
+          "url": "https://www.amazon.com/dp/B0FPF28ZXR?lv=shuf&ascsubtag=srctok-6f67d0c4d89a0653&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-6f67d0c4d89a0653&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=74fc238303ccaea63b5060ce0d8b6eff&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FSDT4R2F",
+          "slug": "madhava-organic-olive-oil-2l-bottle-100-pure-single-source-6",
+          "title": "\udecd️Madhava Organic Olive Oil, 2L Bottle, 100% Pure & Single Source, 67.8 oz",
+          "price": "$30.80",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51xjAq5kP6L.jpg",
+          "url": "https://www.amazon.com/dp/B0FSDT4R2F?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=05c7bcfd9f38a9a02aadc69740bf1a66&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01MUTSU13",
+          "slug": "kitchenaid-ksmvsa-fresh-prep-slicer-and-shredder-attachment",
+          "title": "\udecd️KitchenAid KSMVSA Fresh Prep Slicer and Shredder Attachment | Fits all Kitchenaid Stand Mixers, 3 blades for Slicing a",
+          "price": "$49.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B01MUTSU13?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0c0e32f8f1fb924ff6042d56246bad4c&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0DBKW5GJR",
           "slug": "coface-mens-cozy-memory-foam-scuff-slippers-warm-slip-on-hou",
@@ -186,67 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/91-E8Th09GL.jpg",
           "url": "https://www.amazon.com/dp/B0CPHZRV99?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=f81044979b40e33f72811ba5342fb0f5&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B095VFM4NX",
-          "slug": "suplik-kids-case-for-ipad-9th8th7th-generation-ipad-102-inch",
-          "title": "\udecd️SUPLIK Kids Case for iPad 9th/8th/7th Generation - iPad 10.2 inch 2021/2020/2019 Case with Built-in Screen Protector, ",
-          "price": "$16.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/715HgEly8DL.jpg",
-          "url": "https://www.amazon.com/dp/B095VFM4NX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=e01ffbb476c01fdba21bd6f8a9214883&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01DPWDVTQ",
-          "slug": "loreal-paris-magic-root-cover-up-gray-hair-spray-100-gray-ha",
-          "title": "\udecd️L'Oreal Paris Magic Root Cover Up Gray Hair Spray, 100% Gray Hair Coverage with Buildable, Lightweight, Transfer-Resis",
-          "price": "$21.82",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B01DPWDVTQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6b2e85e669fdaeaae011854136d77e8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08PC8JT3J",
-          "slug": "inspire-adult-wet-wipes-wash-cloths-adult-wipes-for-incontin",
-          "title": "\udecd️Inspire Adult Wet Wipes, Wash Cloths | Adult Wipes for Incontinence & Cleansing for Elderly, 8\"x12\" Count 12 packs of ",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81GwFAyvn4L.jpg",
-          "url": "https://www.amazon.com/dp/B08PC8JT3J?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=db7f1ad5252657387ab24d1a85d47503&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00006B7PY",
-          "slug": "epson-premium-presentation-paper-matte-85x11-inches-double-s",
-          "title": "\udecd️Epson Premium Presentation Paper MATTE (8.5x11 Inches, Double-sided, 50 Sheets) (S041568),Bright White | Heavy weight,",
-          "price": "$8.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00006B7PY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=cb8afc38fe37f97ffd634053a758350a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0040ZOI1S",
-          "slug": "kleenex-professional-hard-roll-paper-towels-bulk-6-rolls-x-6",
-          "title": "\udecd️Kleenex Professional Hard Roll Paper Towels, Bulk, 6 Rolls x 600' (50606) | Universal 1.75\" Core, Absorbency Pockets, ",
-          "price": "$60.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0040ZOI1S?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c25d59b514adb563b229a209731bddd6&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 8, 2026?",
-          "a": "The best deals today include \"\udecd️COFACE Mens Cozy Memory Foam Scuff Slippers Warm Slip On H...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"\udecd️SuitShine Replacement Toothbrush Heads for Philips Sonicar...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-08T20:20:01.793Z",
-      "updatedAt": "2026-08-08T20:20:01.793Z"
+      "generatedAt": "2026-08-08T20:30:01.927Z",
+      "updatedAt": "2026-08-08T20:30:01.927Z"
     },
     {
       "date": "2026-08-07",
@@ -16339,5 +16345,5 @@
       "updatedAt": "2026-06-09T03:50:01.337Z"
     }
   ],
-  "generatedAt": "2026-08-08T20:20:01.805Z"
+  "generatedAt": "2026-08-08T20:30:01.939Z"
 }
