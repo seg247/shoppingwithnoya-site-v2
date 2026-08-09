@@ -9,8 +9,10 @@
         "Other",
         "Electronics",
         "Cleaning Supplies",
-        "Tools & Hardware",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Beauty",
+        "Fashion",
+        "Tools & Hardware"
       ],
       "byCategory": {
         "Cleaning Supplies": [
@@ -24,6 +26,80 @@
             "category": "Cleaning Supplies",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0BJMV9BXJ?lv=shuf&ascsubtag=422aa65a8f9211f1bddfdec18cdd6f240INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=79e3c005162032eada04b21d47a2657e&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0D6V489N5",
+            "slug": "yedoensis-kyoto-premium-matcha-organic-matcha-powder-14-oz-j",
+            "title": "\udecd️YEDOENSIS KYOTO Premium Matcha - Organic Matcha Powder (1.4 oz) | Japanese Matcha Green Tea Powder, Smooth Umami for M",
+            "price": "$13.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61JwrWtZLEL.jpg",
+            "url": "https://www.amazon.com/dp/B0D6V489N5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ec347c21baff737fc3427f03fea8f3b6&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0GCD6XBJD",
+            "slug": "goongbe-kids-facial-bubble-wash-and-lotion-korean-low-ph-fac",
+            "title": "\udecd️GOONGBE Kids Facial Bubble Wash and Lotion- Korean Low pH Face Cleanser & Moisturizer with Cica & Panthenol - Allergen",
+            "price": "$15.19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61TkPYigSJL.jpg",
+            "url": "https://www.amazon.com/dp/B0GCD6XBJD?lv=shuf&ascsubtag=srctok-7377e15479214d67&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-7377e15479214d67&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=dce01b89fecf4a351bd58e1114bf6619&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0979LQTP5",
+            "slug": "carson-dellosa-yellow-bulletin-board-border-roll-for-classro",
+            "title": "\udecd️Carson Dellosa Yellow Bulletin Board Border Roll for Classroom Decor, 65Ft | 1 Roll of Scalloped Trim for Rolling Whit",
+            "price": "$8.81",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0979LQTP5?th=1&linkCode=sl2&tag=noya0b-20&linkId=ebca366e831c804e6650f9733435280d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0C9JGBTW6",
+            "slug": "amazoncom-zeeyuan-4x6-rotating-picture-frame-rustic-double-s",
+            "title": "Amazon.com - ZEEYUAN 4x6 Rotating Picture Frame Rustic Double Side Family Photo Frame, 4x6 Floating Wooden Picture Frame",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71SEL30u8JL.jpg",
+            "url": "https://www.amazon.com/dp/B0C9JGBTW6?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0CLGPX16G",
+            "slug": "viscoo-12-panels-small-animal-playpen-48-x-24-x-16-guinea-pi",
+            "title": "\udecd️VISCOO 12 Panels Small Animal Playpen, 48\" x 24\" x 16\" Guinea Pigs Cages | C&C Cage for Guinea Pigs with Waterproof Ma",
+            "price": "$27.25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/91tlkMX5MiL.jpg",
+            "url": "https://www.amazon.com/dp/B0CLGPX16G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9f75abc20c1cf7cd6cf895ea13c86f9f&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0F9XTQ89J",
+            "slug": "kids-sunglasses-youth-baseball-softball-sunglasses-for-girls",
+            "title": "\udecd️Kids Sunglasses Youth Baseball Softball Sunglasses for Girls Boys Age 4-14 UV Protection Sports Kids 3 Pack",
+            "price": "$15.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eBio2xg+L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F9XTQ89J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=61f27f802836c8c34e17131efd720fc1&language=en_US&gaOptInStatus=true"
           }
         ],
         "Electronics": [
@@ -48,17 +124,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71eb6HH1+4L.jpg",
             "url": "https://www.amazon.com/dp/B0FJ1ZRB6Z?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c922b8c0a63665adefeef6f75204b5&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0G5NZ7SP4",
-            "slug": "bonsenkitchen-rechargeable-milk-frother-handheld-charging-us",
-            "title": "Bonsenkitchen Rechargeable Milk Frother Handheld, Charging USB-C | Electric Foam Maker with Stainless Steel Whisk, Porta",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61v-SqcKidL.jpg",
-            "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&tag=noya0b-20"
           }
         ],
         "Tools & Hardware": [
@@ -73,65 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81kZL1bIrGL.jpg",
             "url": "https://www.amazon.com/dp/B0CQKXZ8VC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5403c0e3fe6a87179ebeba8f75608226&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0CLGPX16G",
-            "slug": "viscoo-12-panels-small-animal-playpen-48-x-24-x-16-guinea-pi",
-            "title": "\udecd️VISCOO 12 Panels Small Animal Playpen, 48\" x 24\" x 16\" Guinea Pigs Cages | C&C Cage for Guinea Pigs with Waterproof Ma",
-            "price": "$27.25",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91tlkMX5MiL.jpg",
-            "url": "https://www.amazon.com/dp/B0CLGPX16G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9f75abc20c1cf7cd6cf895ea13c86f9f&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07MKK75K8",
-            "slug": "tavr-swivel-floor-tv-stand-base-for-32-75-inch-tvs-up-to-110",
-            "title": "\udecd️TAVR Swivel Floor TV Stand Base for 32-75 Inch TVs up to 110 lbs | Tall TV Stand for Bedroom with Height Adjustment an",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71w9kEi96gL.jpg",
-            "url": "https://www.amazon.com/dp/B07MKK75K8?th=1&linkCode=sl2&tag=noya0b-20&linkId=83c9469e7b56286d0e65063243cbdfc3&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B009VK4IDK",
-            "slug": "kenra-platinum-blow-dry-mist-ultra-lightweight-thermal-prote",
-            "title": "Kenra Platinum Blow-Dry Mist | Ultra-Lightweight Thermal Protectant | Detangles, Smooths, & Softens | Eliminates Frizz &",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B009VK4IDK?th=1&linkCode=sl2&tag=noya0b-20&linkId=34c455e5082586204ca50b15a0f9d6ad&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B087X35JJ8",
-            "slug": "kdg-hand-grip-strengthener-2-pack-adjustable-resistance-10-1",
-            "title": "\udecd️KDG Hand Grip Strengthener 2 Pack Adjustable Resistance 10-130 lbs Forearm Exerciser，Grip Strength Trainer for Muscle ",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Hg2Q7MQ7L.jpg",
-            "url": "https://www.amazon.com/dp/B087X35JJ8?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4d7f4f343174b52e2eeb555eb9c68d36&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00F3SQBVQ",
-            "slug": "sugar-in-the-raw-turbinado-cane-sugar-packets-25-ct-box-12-p",
-            "title": "Sugar In The Raw, Turbinado Cane Sugar Packets, 25 Ct Box, 12 Pack | Pure, All-Natural Turbinado Sugar, Non-GMO Project ",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00F3SQBVQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b757f8a5c6404d78d67ab6c6e316df4&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -145,6 +151,61 @@
           "category": "Cleaning Supplies",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0BJMV9BXJ?lv=shuf&ascsubtag=422aa65a8f9211f1bddfdec18cdd6f240INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=79e3c005162032eada04b21d47a2657e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0D6V489N5",
+          "slug": "yedoensis-kyoto-premium-matcha-organic-matcha-powder-14-oz-j",
+          "title": "\udecd️YEDOENSIS KYOTO Premium Matcha - Organic Matcha Powder (1.4 oz) | Japanese Matcha Green Tea Powder, Smooth Umami for M",
+          "price": "$13.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61JwrWtZLEL.jpg",
+          "url": "https://www.amazon.com/dp/B0D6V489N5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ec347c21baff737fc3427f03fea8f3b6&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GCD6XBJD",
+          "slug": "goongbe-kids-facial-bubble-wash-and-lotion-korean-low-ph-fac",
+          "title": "\udecd️GOONGBE Kids Facial Bubble Wash and Lotion- Korean Low pH Face Cleanser & Moisturizer with Cica & Panthenol - Allergen",
+          "price": "$15.19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61TkPYigSJL.jpg",
+          "url": "https://www.amazon.com/dp/B0GCD6XBJD?lv=shuf&ascsubtag=srctok-7377e15479214d67&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-7377e15479214d67&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=dce01b89fecf4a351bd58e1114bf6619&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0979LQTP5",
+          "slug": "carson-dellosa-yellow-bulletin-board-border-roll-for-classro",
+          "title": "\udecd️Carson Dellosa Yellow Bulletin Board Border Roll for Classroom Decor, 65Ft | 1 Roll of Scalloped Trim for Rolling Whit",
+          "price": "$8.81",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0979LQTP5?th=1&linkCode=sl2&tag=noya0b-20&linkId=ebca366e831c804e6650f9733435280d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0F9XTQ89J",
+          "slug": "kids-sunglasses-youth-baseball-softball-sunglasses-for-girls",
+          "title": "\udecd️Kids Sunglasses Youth Baseball Softball Sunglasses for Girls Boys Age 4-14 UV Protection Sports Kids 3 Pack",
+          "price": "$15.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eBio2xg+L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F9XTQ89J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=61f27f802836c8c34e17131efd720fc1&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0C9JGBTW6",
+          "slug": "amazoncom-zeeyuan-4x6-rotating-picture-frame-rustic-double-s",
+          "title": "Amazon.com - ZEEYUAN 4x6 Rotating Picture Frame Rustic Double Side Family Photo Frame, 4x6 Floating Wooden Picture Frame",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71SEL30u8JL.jpg",
+          "url": "https://www.amazon.com/dp/B0C9JGBTW6?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FVM3YB45",
@@ -189,61 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/91tlkMX5MiL.jpg",
           "url": "https://www.amazon.com/dp/B0CLGPX16G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9f75abc20c1cf7cd6cf895ea13c86f9f&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07MKK75K8",
-          "slug": "tavr-swivel-floor-tv-stand-base-for-32-75-inch-tvs-up-to-110",
-          "title": "\udecd️TAVR Swivel Floor TV Stand Base for 32-75 Inch TVs up to 110 lbs | Tall TV Stand for Bedroom with Height Adjustment an",
-          "price": "$59.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71w9kEi96gL.jpg",
-          "url": "https://www.amazon.com/dp/B07MKK75K8?th=1&linkCode=sl2&tag=noya0b-20&linkId=83c9469e7b56286d0e65063243cbdfc3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00F3SQBVQ",
-          "slug": "sugar-in-the-raw-turbinado-cane-sugar-packets-25-ct-box-12-p",
-          "title": "Sugar In The Raw, Turbinado Cane Sugar Packets, 25 Ct Box, 12 Pack | Pure, All-Natural Turbinado Sugar, Non-GMO Project ",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B00F3SQBVQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b757f8a5c6404d78d67ab6c6e316df4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B009VK4IDK",
-          "slug": "kenra-platinum-blow-dry-mist-ultra-lightweight-thermal-prote",
-          "title": "Kenra Platinum Blow-Dry Mist | Ultra-Lightweight Thermal Protectant | Detangles, Smooths, & Softens | Eliminates Frizz &",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B009VK4IDK?th=1&linkCode=sl2&tag=noya0b-20&linkId=34c455e5082586204ca50b15a0f9d6ad&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B087X35JJ8",
-          "slug": "kdg-hand-grip-strengthener-2-pack-adjustable-resistance-10-1",
-          "title": "\udecd️KDG Hand Grip Strengthener 2 Pack Adjustable Resistance 10-130 lbs Forearm Exerciser，Grip Strength Trainer for Muscle ",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Hg2Q7MQ7L.jpg",
-          "url": "https://www.amazon.com/dp/B087X35JJ8?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4d7f4f343174b52e2eeb555eb9c68d36&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G5NZ7SP4",
-          "slug": "bonsenkitchen-rechargeable-milk-frother-handheld-charging-us",
-          "title": "Bonsenkitchen Rechargeable Milk Frother Handheld, Charging USB-C | Electric Foam Maker with Stainless Steel Whisk, Porta",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61v-SqcKidL.jpg",
-          "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-09T23:40:02.019Z",
-      "updatedAt": "2026-08-09T23:40:02.019Z"
+      "generatedAt": "2026-08-09T23:50:00.723Z",
+      "updatedAt": "2026-08-09T23:50:00.723Z"
     },
     {
       "date": "2026-08-08",
@@ -16339,5 +16345,5 @@
       "updatedAt": "2026-06-10T03:50:00.218Z"
     }
   ],
-  "generatedAt": "2026-08-09T23:40:02.032Z"
+  "generatedAt": "2026-08-09T23:50:00.734Z"
 }
