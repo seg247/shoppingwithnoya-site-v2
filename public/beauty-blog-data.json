@@ -112,7 +112,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/81tpH+n8bIL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B01FA87072?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a43acac90a0b39fd36c78c7fca26c603&language=en_US&gaOptInStatus=true"
           },
           {
@@ -164,16 +164,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/613EkSUD+qL.jpg",
             "url": "https://www.amazon.com/dp/B010FOFSH0?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f74160a166a033ad9fd21aad39ba3e46&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CYT8BT8M",
-            "slug": "sky-and-sol-natural-mineral-sunscreen-spf-30-3-oz-natural-ta",
-            "title": "\udecd️Sky and Sol Natural Mineral Sunscreen SPF 30 3 oz: Natural Tallow & Zinc Oxide, Reef Safe, Water Resistant, Fragrance-",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61yXuqUOTHL.jpg",
-            "url": "https://www.amazon.com/dp/B0CYT8BT8M?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2de5eb01b56c9281840352f2eeb38779&language=en_US&gaOptInStatus=true"
           }
         ],
         "Makeup": [
@@ -186,6 +176,16 @@
             "subcat": "Makeup",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B000UB23YK?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B00ICU1JIC",
+            "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-pr",
+            "title": "NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky Lip Gloss - Praline (Deep Nude) : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/61k4ntkAaoL.jpg",
+            "url": "https://www.amazon.com/dp/B00ICU1JIC?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=289dd28162f20f247060bc7a56442ce3&language=en_US&gaOptInStatus=true"
           },
           {
             "asin": "B07HGZB359",
@@ -209,6 +209,16 @@
           }
         ],
         "Fragrance": [
+          {
+            "asin": "B0DHVWL5S8",
+            "slug": "rabanne-million-gold-for-her-eau-de-parfum-long-lasting-refi",
+            "title": "\udecd️Rabanne Million Gold For Her Eau de Parfum - Long Lasting Refillable Designer Perfume for Women with Sparkling Rose, W",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61S5oB6qfHL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHVWL5S8?th=1&linkCode=sl2&tag=noya0b-20&linkId=dedb0bc05c3a08ff4577a0407a391b87&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0D7NSQX4X",
             "slug": "hanni-the-fatty-fragrance-free-fatty-acid-moisture-stick-25",
@@ -270,16 +280,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/51kihBCyCfL.jpg",
             "url": "https://www.amazon.com/dp/B086SR1KML?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a1fe1fa17ca3fb085a6fc4de2763ee3&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0F9DZXNXV",
-            "slug": "goongbe-kids-wash-duo-set-korean-low-ph-silky-shampoo-mild-b",
-            "title": "\udecd️GOONGBE Kids Wash Duo Set - Korean Low pH Silky Shampoo & Mild Body Wash - Silicone-Free Hair Care & Micellar Body Cle",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71J8QFZkOPL.jpg",
-            "url": "https://www.amazon.com/dp/B0F9DZXNXV?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a0fbaadf78fd3829beabdf518f2debd3&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -357,6 +357,26 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61iGO7ZtfJL.jpg",
           "url": "https://www.amazon.com/dp/B078BXSYTN?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0DHVWL5S8",
+          "slug": "rabanne-million-gold-for-her-eau-de-parfum-long-lasting-refi",
+          "title": "\udecd️Rabanne Million Gold For Her Eau de Parfum - Long Lasting Refillable Designer Perfume for Women with Sparkling Rose, W",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/61S5oB6qfHL.jpg",
+          "url": "https://www.amazon.com/dp/B0DHVWL5S8?th=1&linkCode=sl2&tag=noya0b-20&linkId=dedb0bc05c3a08ff4577a0407a391b87&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B00ICU1JIC",
+          "slug": "nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-pr",
+          "title": "NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky Lip Gloss - Praline (Deep Nude) : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/61k4ntkAaoL.jpg",
+          "url": "https://www.amazon.com/dp/B00ICU1JIC?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=289dd28162f20f247060bc7a56442ce3&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0D3FQWRV4",
@@ -495,7 +515,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/81tpH+n8bIL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B01FA87072?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a43acac90a0b39fd36c78c7fca26c603&language=en_US&gaOptInStatus=true"
         },
         {
@@ -607,26 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/613EkSUD+qL.jpg",
           "url": "https://www.amazon.com/dp/B010FOFSH0?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f74160a166a033ad9fd21aad39ba3e46&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F9DZXNXV",
-          "slug": "goongbe-kids-wash-duo-set-korean-low-ph-silky-shampoo-mild-b",
-          "title": "\udecd️GOONGBE Kids Wash Duo Set - Korean Low pH Silky Shampoo & Mild Body Wash - Silicone-Free Hair Care & Micellar Body Cle",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71J8QFZkOPL.jpg",
-          "url": "https://www.amazon.com/dp/B0F9DZXNXV?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a0fbaadf78fd3829beabdf518f2debd3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CYT8BT8M",
-          "slug": "sky-and-sol-natural-mineral-sunscreen-spf-30-3-oz-natural-ta",
-          "title": "\udecd️Sky and Sol Natural Mineral Sunscreen SPF 30 3 oz: Natural Tallow & Zinc Oxide, Reef Safe, Water Resistant, Fragrance-",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61yXuqUOTHL.jpg",
-          "url": "https://www.amazon.com/dp/B0CYT8BT8M?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=2de5eb01b56c9281840352f2eeb38779&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include Lancôme Définicils - Defining & Lengthening Mascar and \udecd️Charcoal Chimney Starter Kit with Blower and Fir and more."
+          "a": "Yes! Today's makeup deals include Lancôme Définicils - Defining & Lengthening Mascar and NYX PROFESSIONAL MAKEUP Butter Gloss, Non-Sticky L and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-09T11:00:05.030Z",
-      "updatedAt": "2026-08-09T11:00:05.031Z"
+      "generatedAt": "2026-08-09T11:10:04.722Z",
+      "updatedAt": "2026-08-09T11:10:04.722Z"
     },
     {
       "date": "2026-08-08",
@@ -39309,5 +39309,5 @@
       "updatedAt": "2026-06-10T03:50:00.354Z"
     }
   ],
-  "generatedAt": "2026-08-09T11:00:05.042Z"
+  "generatedAt": "2026-08-09T11:10:04.733Z"
 }
