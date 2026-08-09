@@ -9,9 +9,8 @@
         "Other",
         "Electronics",
         "Cleaning Supplies",
-        "Grocery & Food",
-        "Toys & Kids",
-        "Home & Kitchen"
+        "Tools & Hardware",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Cleaning Supplies": [
@@ -27,20 +26,77 @@
             "url": "https://www.amazon.com/dp/B0BJMV9BXJ?lv=shuf&ascsubtag=422aa65a8f9211f1bddfdec18cdd6f240INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=79e3c005162032eada04b21d47a2657e&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Grocery & Food": [
+        "Electronics": [
           {
-            "asin": "B00F3SQBVQ",
-            "slug": "sugar-in-the-raw-turbinado-cane-sugar-packets-25-ct-box-12-p",
-            "title": "Sugar In The Raw, Turbinado Cane Sugar Packets, 25 Ct Box, 12 Pack | Pure, All-Natural Turbinado Sugar, Non-GMO Project ",
-            "price": "$7",
+            "asin": "B0FVM3YB45",
+            "slug": "acer-kids-bluetooth-headphones-8594db-volume-limited-60h-pla",
+            "title": "\udecd️Acer Kids Bluetooth Headphones, 85/94dB Volume Limited, 60H Playtime, Bluetooth 6.0, Lightweight Over-Ear Wireless Hea",
+            "price": "$16.98",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B00F3SQBVQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b757f8a5c6404d78d67ab6c6e316df4&language=en_US&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71P0-PejCWL.jpg",
+            "url": "https://www.amazon.com/dp/B0FVM3YB45?lv=shuf&ascsubtag=srctok-1946911eb0fd5c38&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-1946911eb0fd5c38&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f02449d22ee3ff06c73fe852b1255a89&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FJ1ZRB6Z",
+            "slug": "mobosi-magnetic-for-z-fold-7-case-with-screen-protector-blac",
+            "title": "\udecd️MOBOSI Magnetic for Z Fold 7 Case with Screen Protector, Black | for Samsung Galaxy Z Fold 7 Case,Compatible with MagS",
+            "price": "$35.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eb6HH1+4L.jpg",
+            "url": "https://www.amazon.com/dp/B0FJ1ZRB6Z?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c922b8c0a63665adefeef6f75204b5&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0G5NZ7SP4",
+            "slug": "bonsenkitchen-rechargeable-milk-frother-handheld-charging-us",
+            "title": "Bonsenkitchen Rechargeable Milk Frother Handheld, Charging USB-C | Electric Foam Maker with Stainless Steel Whisk, Porta",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61v-SqcKidL.jpg",
+            "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&tag=noya0b-20"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0CQKXZ8VC",
+            "slug": "workpro-22-piece-ratcheting-wrench-set-flex-head-nickel-plat",
+            "title": "\udecd️WORKPRO 22-Piece Ratcheting Wrench Set, Flex-Head & Nickel Plating | Metric & SAE (6-18 mm & 1/4-3/4''), 72 Teeth Cr-V",
+            "price": "$84.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/81kZL1bIrGL.jpg",
+            "url": "https://www.amazon.com/dp/B0CQKXZ8VC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5403c0e3fe6a87179ebeba8f75608226&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
+          {
+            "asin": "B0CLGPX16G",
+            "slug": "viscoo-12-panels-small-animal-playpen-48-x-24-x-16-guinea-pi",
+            "title": "\udecd️VISCOO 12 Panels Small Animal Playpen, 48\" x 24\" x 16\" Guinea Pigs Cages | C&C Cage for Guinea Pigs with Waterproof Ma",
+            "price": "$27.25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/91tlkMX5MiL.jpg",
+            "url": "https://www.amazon.com/dp/B0CLGPX16G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9f75abc20c1cf7cd6cf895ea13c86f9f&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07MKK75K8",
+            "slug": "tavr-swivel-floor-tv-stand-base-for-32-75-inch-tvs-up-to-110",
+            "title": "\udecd️TAVR Swivel Floor TV Stand Base for 32-75 Inch TVs up to 110 lbs | Tall TV Stand for Bedroom with Height Adjustment an",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71w9kEi96gL.jpg",
+            "url": "https://www.amazon.com/dp/B07MKK75K8?th=1&linkCode=sl2&tag=noya0b-20&linkId=83c9469e7b56286d0e65063243cbdfc3&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B009VK4IDK",
             "slug": "kenra-platinum-blow-dry-mist-ultra-lightweight-thermal-prote",
@@ -62,78 +118,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71Hg2Q7MQ7L.jpg",
             "url": "https://www.amazon.com/dp/B087X35JJ8?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4d7f4f343174b52e2eeb555eb9c68d36&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0BD4PRBVZ",
-            "slug": "cosori-rice-cooker-10-cup-fuzzy-logic-ceramic-coating-inner",
-            "title": "\udecd️Cosori Rice Cooker 10 Cup, Fuzzy Logic, Ceramic Coating Inner Pot,18-in-1 | 24H Keep Warm & Delay Timer, Stainless Ste",
-            "price": "$89.97",
+            "asin": "B00F3SQBVQ",
+            "slug": "sugar-in-the-raw-turbinado-cane-sugar-packets-25-ct-box-12-p",
+            "title": "Sugar In The Raw, Turbinado Cane Sugar Packets, 25 Ct Box, 12 Pack | Pure, All-Natural Turbinado Sugar, Non-GMO Project ",
+            "price": "$7",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71BtCeOGssL.jpg",
-            "url": "https://www.amazon.com/dp/B0BD4PRBVZ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a78e5c96d04d168183152aa4b63960b7&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FW4SDND4",
-            "slug": "pink-rugs-for-bedroom-10x12-area-rugs-for-living-roomblue-re",
-            "title": "\udecd️Pink Rugs for Bedroom-10x12 Area Rugs for Living Room,Blue Red | Washable Rugs for Nursery,Dining Room,Office,Low Pile",
-            "price": "$169.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
+            "category": "Grocery & Food",
             "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0FW4SDND4?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2bbe7f69d3d6f6add908c4d727fb6bfb&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0G5NZ7SP4",
-            "slug": "bonsenkitchen-rechargeable-milk-frother-handheld-charging-us",
-            "title": "Bonsenkitchen Rechargeable Milk Frother Handheld, Charging USB-C | Electric Foam Maker with Stainless Steel Whisk, Porta",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61v-SqcKidL.jpg",
-            "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0D1YLVQYR",
-            "slug": "stylus-pen-for-ipad-2018-2026-usb-c-fast-charging-pencil-pix",
-            "title": "\udecd️Stylus Pen for iPad 2018-2026, USB-C Fast Charging Pencil, Pixel-Perfect Tilt Sensitivity for iPad 11/10/9/8/7/6/A16, ",
-            "price": "$15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/412WXd6Qe1L.jpg",
-            "url": "https://www.amazon.com/dp/B0D1YLVQYR?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=46d3c692d5b4571c1fda05a53fa42ead&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B075TM7V8V",
-            "slug": "jc-toys-doll-high-chair-fits-dolls-up-to-17-easy-to-clean-si",
-            "title": "JC Toys - Doll High Chair | Fits Dolls up to 17\" | Easy to Clean | Simple Assembly | 7 Piece Play Set| Ages 2+, Pink/Blu",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ZbQNx+ooL.jpg",
-            "url": "https://www.amazon.com/dp/B075TM7V8V?th=1&linkCode=sl2&tag=noya0b-20&linkId=79fafad861b20e997d492cdc7bcfb3d3&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0C8HPJW4J",
-            "slug": "carote-21pcs-pots-and-pans-set-nonstick-cookware-sets-with-e",
-            "title": "\udecd️CAROTE 21pcs Pots and Pans Set, Nonstick Cookware Sets, with Egg Pan | Induction Kitchen Cooking Set, Durable, Easy Fo",
-            "price": "$129.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71IW+kWpqNL.jpg",
-            "url": "https://www.amazon.com/dp/B0C8HPJW4J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bf9d66c6a7d5530f17bc7a59e622bbf7&language=en_US&gaOptInStatus=true"
+            "url": "https://www.amazon.com/dp/B00F3SQBVQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=8b757f8a5c6404d78d67ab6c6e316df4&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -148,6 +145,61 @@
           "category": "Cleaning Supplies",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0BJMV9BXJ?lv=shuf&ascsubtag=422aa65a8f9211f1bddfdec18cdd6f240INT&ie=UTF8&m=ATVPDKIKX0DER&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=79e3c005162032eada04b21d47a2657e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FVM3YB45",
+          "slug": "acer-kids-bluetooth-headphones-8594db-volume-limited-60h-pla",
+          "title": "\udecd️Acer Kids Bluetooth Headphones, 85/94dB Volume Limited, 60H Playtime, Bluetooth 6.0, Lightweight Over-Ear Wireless Hea",
+          "price": "$16.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71P0-PejCWL.jpg",
+          "url": "https://www.amazon.com/dp/B0FVM3YB45?lv=shuf&ascsubtag=srctok-1946911eb0fd5c38&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-1946911eb0fd5c38&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=f02449d22ee3ff06c73fe852b1255a89&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FJ1ZRB6Z",
+          "slug": "mobosi-magnetic-for-z-fold-7-case-with-screen-protector-blac",
+          "title": "\udecd️MOBOSI Magnetic for Z Fold 7 Case with Screen Protector, Black | for Samsung Galaxy Z Fold 7 Case,Compatible with MagS",
+          "price": "$35.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eb6HH1+4L.jpg",
+          "url": "https://www.amazon.com/dp/B0FJ1ZRB6Z?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=52c922b8c0a63665adefeef6f75204b5&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CQKXZ8VC",
+          "slug": "workpro-22-piece-ratcheting-wrench-set-flex-head-nickel-plat",
+          "title": "\udecd️WORKPRO 22-Piece Ratcheting Wrench Set, Flex-Head & Nickel Plating | Metric & SAE (6-18 mm & 1/4-3/4''), 72 Teeth Cr-V",
+          "price": "$84.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/81kZL1bIrGL.jpg",
+          "url": "https://www.amazon.com/dp/B0CQKXZ8VC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5403c0e3fe6a87179ebeba8f75608226&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CLGPX16G",
+          "slug": "viscoo-12-panels-small-animal-playpen-48-x-24-x-16-guinea-pi",
+          "title": "\udecd️VISCOO 12 Panels Small Animal Playpen, 48\" x 24\" x 16\" Guinea Pigs Cages | C&C Cage for Guinea Pigs with Waterproof Ma",
+          "price": "$27.25",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/91tlkMX5MiL.jpg",
+          "url": "https://www.amazon.com/dp/B0CLGPX16G?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9f75abc20c1cf7cd6cf895ea13c86f9f&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07MKK75K8",
+          "slug": "tavr-swivel-floor-tv-stand-base-for-32-75-inch-tvs-up-to-110",
+          "title": "\udecd️TAVR Swivel Floor TV Stand Base for 32-75 Inch TVs up to 110 lbs | Tall TV Stand for Bedroom with Height Adjustment an",
+          "price": "$59.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71w9kEi96gL.jpg",
+          "url": "https://www.amazon.com/dp/B07MKK75K8?th=1&linkCode=sl2&tag=noya0b-20&linkId=83c9469e7b56286d0e65063243cbdfc3&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B00F3SQBVQ",
@@ -192,61 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61v-SqcKidL.jpg",
           "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0BD4PRBVZ",
-          "slug": "cosori-rice-cooker-10-cup-fuzzy-logic-ceramic-coating-inner",
-          "title": "\udecd️Cosori Rice Cooker 10 Cup, Fuzzy Logic, Ceramic Coating Inner Pot,18-in-1 | 24H Keep Warm & Delay Timer, Stainless Ste",
-          "price": "$89.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71BtCeOGssL.jpg",
-          "url": "https://www.amazon.com/dp/B0BD4PRBVZ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a78e5c96d04d168183152aa4b63960b7&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B075TM7V8V",
-          "slug": "jc-toys-doll-high-chair-fits-dolls-up-to-17-easy-to-clean-si",
-          "title": "JC Toys - Doll High Chair | Fits Dolls up to 17\" | Easy to Clean | Simple Assembly | 7 Piece Play Set| Ages 2+, Pink/Blu",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ZbQNx+ooL.jpg",
-          "url": "https://www.amazon.com/dp/B075TM7V8V?th=1&linkCode=sl2&tag=noya0b-20&linkId=79fafad861b20e997d492cdc7bcfb3d3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D1YLVQYR",
-          "slug": "stylus-pen-for-ipad-2018-2026-usb-c-fast-charging-pencil-pix",
-          "title": "\udecd️Stylus Pen for iPad 2018-2026, USB-C Fast Charging Pencil, Pixel-Perfect Tilt Sensitivity for iPad 11/10/9/8/7/6/A16, ",
-          "price": "$15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/412WXd6Qe1L.jpg",
-          "url": "https://www.amazon.com/dp/B0D1YLVQYR?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=46d3c692d5b4571c1fda05a53fa42ead&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0C8HPJW4J",
-          "slug": "carote-21pcs-pots-and-pans-set-nonstick-cookware-sets-with-e",
-          "title": "\udecd️CAROTE 21pcs Pots and Pans Set, Nonstick Cookware Sets, with Egg Pan | Induction Kitchen Cooking Set, Durable, Easy Fo",
-          "price": "$129.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71IW+kWpqNL.jpg",
-          "url": "https://www.amazon.com/dp/B0C8HPJW4J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bf9d66c6a7d5530f17bc7a59e622bbf7&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FW4SDND4",
-          "slug": "pink-rugs-for-bedroom-10x12-area-rugs-for-living-roomblue-re",
-          "title": "\udecd️Pink Rugs for Bedroom-10x12 Area Rugs for Living Room,Blue Red | Washable Rugs for Nursery,Dining Room,Office,Low Pile",
-          "price": "$169.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0FW4SDND4?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2bbe7f69d3d6f6add908c4d727fb6bfb&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-09T23:30:01.629Z",
-      "updatedAt": "2026-08-09T23:30:01.629Z"
+      "generatedAt": "2026-08-09T23:40:02.019Z",
+      "updatedAt": "2026-08-09T23:40:02.019Z"
     },
     {
       "date": "2026-08-08",
@@ -16342,5 +16339,5 @@
       "updatedAt": "2026-06-10T03:50:00.218Z"
     }
   ],
-  "generatedAt": "2026-08-09T23:30:01.641Z"
+  "generatedAt": "2026-08-09T23:40:02.032Z"
 }
