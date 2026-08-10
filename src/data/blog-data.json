@@ -4,13 +4,15 @@
       "date": "2026-08-10",
       "slug": "2026-08-10",
       "title": "🔥 Best Deals Today — August 10, 2026",
-      "intro": "Today's best online deals for Monday, August 10, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Other and more. The best discount today is 40% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 10, 2026 — 10 hand-picked discounts across Home & Kitchen, Health, Fashion and more. The best discount today is 40% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
-        "Grocery & Food",
-        "Other",
         "Health",
-        "Beauty"
+        "Fashion",
+        "Electronics",
+        "Pet Supplies",
+        "Beauty",
+        "Other"
       ],
       "byCategory": {
         "Health": [
@@ -26,7 +28,70 @@
             "url": "https://www.amazon.com/dp/B08Y1KG4CL?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B00NG07SO2",
+            "slug": "bazooka-bubble-gum-bulk-225-count-tub-of-chewing-gum-individ",
+            "title": "\udecd️Bazooka Bubble Gum Bulk, 225 Count Tub of Chewing Gum | Individually Wrapped, Old Fashioned 90's Candy for Baseball, P",
+            "price": "$20.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/810sUQyuXNL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+            "url": "https://www.amazon.com/dp/B00NG07SO2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4b0afea5f6dfd8f4035117791c029dab&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DHXZFFWV",
+            "slug": "aosu-2k-qhd-solar-security-cameras-wireless-outdoor-system-4",
+            "title": "\udecd️aosu 2K QHD Solar Security Cameras Wireless Outdoor System, 4-Cam-Kit | 2K Color Night Vision, Solar Powered, Stren&Li",
+            "price": "$199.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+ZHQoQNUL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHXZFFWV?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7e88d8e0f4612c367560b706cf111014&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B07NJLMDNQ",
+            "slug": "pedigree-dentastix-large-breed-dental-dog-treats-fresh-36-co",
+            "title": "\udecd️Pedigree Dentastix Large Breed Dental Dog Treats, Fresh, 36 Count | Triple action dental care, reduces tartar, cleans ",
+            "price": "$13.28",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71OPBDvpTRL.jpg",
+            "url": "https://www.amazon.com/dp/B07NJLMDNQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=293b4cb994e6a154019e10b9e7f91f02&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B08KSLGXFH",
+            "slug": "neutrogena-healthy-scalp-clarify-shine-shampoo-pink-grapefru",
+            "title": "\udecd️Neutrogena Healthy Scalp Clarify & Shine Shampoo, Pink Grapefruit 12 fl oz",
+            "price": "$11.55",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08KSLGXFH?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=370d3cef5b971212d03d5db821e42fb4&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0DJFBDFZK",
+            "slug": "ninja-crispi-glass-air-fryer-4-in-1-stone-fn101st-max-crisp",
+            "title": "\udecd️Ninja Crispi Glass Air Fryer, 4-in-1, Stone, FN101ST | Max crisp, bake, air fry, recrisp, 450F max, 4 Qt and 6 Cup con",
+            "price": "$159.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DJFBDFZK?ie=UTF8&plpRedirect=mhFallback&s=psc&gaOptInStatus=true&ASIN=B0DJFBDFZK&lv=shuf&channelId=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=b4af496e9b8dd0afa3201e7a9c21f05e&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0F9LC7B7T",
             "slug": "hiphop-panda-2-pack-diaper-caddy-organizer-newborn-essential",
@@ -72,65 +137,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81bSG5vVBrL.jpg",
             "url": "https://www.amazon.com/dp/B0FH37FNZ7?lv=shuf&ascsubtag=srctok-1fb69d1a62b8bf5f&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-1fb69d1a62b8bf5f&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6fd60c3f0587ffc5ad0ba3d8404f388c&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B00B1N0R6C",
-            "slug": "perfect-fitness-ab-carver-roller-wheel-with-built-in-spring",
-            "title": "\udecd️Perfect Fitness Ab Carver Roller Wheel With Built In Spring Resistance, At Home Core Workout Equipment",
-            "price": "$39.10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51bsIB5M5SL.jpg",
-            "url": "https://www.amazon.com/dp/B00B1N0R6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=619b48d6710ce238323c71f1a089e1f3&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B007S7OMPW",
-            "slug": "spice-classics-garlic-pepper-seasoning-salt-487-oz-pack-of-1",
-            "title": "\udecd️Spice Classics Garlic & Pepper Seasoning Salt, 4.87 oz (Pack of 12)",
-            "price": "$26.66",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71j+aol+ifL.jpg",
-            "url": "https://www.amazon.com/dp/B007S7OMPW?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e66133b0baa08b926a19bca518082dbd&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DQJ1XY96",
-            "slug": "iced-coffee-sleeve-insulator-sleeves-for-cold-drinks-beverag",
-            "title": "\udecd️Iced Coffee Sleeve Insulator Sleeves for Cold Drinks Beverages, 3 Pack Reusable Neoprene Cup Sleeve with Handle for 16",
-            "price": "$12.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81SQExV7ziL.jpg",
-            "url": "https://www.amazon.com/dp/B0DQJ1XY96?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c3fea2b563de003f7ecbaa70e77420d3&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08FC3RZKZ",
-            "slug": "aloha-organic-plant-based-protein-bars-6-flavor-variety-pack",
-            "title": "\udecd️ALOHA Organic Plant Based Protein Bars - 6 Flavor Variety Pack - 12 Count, 1.9oz Bars - Vegan Snacks, Low Sugar, Glute",
-            "price": "$23.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/91-wdLUvmlL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
-            "url": "https://www.amazon.com/dp/B08FC3RZKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=633e4a640a1d1117275b4586f6f1af4a&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B088C4XFPX",
-            "slug": "brickell-mens-element-defense-spf45-moisturizer-for-men-mine",
-            "title": "\udecd️Brickell Men's Element Defense SPF45 Moisturizer for Men, Mineral Sunscreen, Hydrates and Protects Skin Against UVA/UV",
-            "price": "$22.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61e1fP9MwqL.jpg",
-            "url": "https://www.amazon.com/dp/B088C4XFPX?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4686ccc673273bebed4e140fefe51da9&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -145,6 +151,61 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71Pm5YDrHeL.jpg",
           "url": "https://www.amazon.com/dp/B08Y1KG4CL?tag=noya0b-20"
+        },
+        {
+          "asin": "B00NG07SO2",
+          "slug": "bazooka-bubble-gum-bulk-225-count-tub-of-chewing-gum-individ",
+          "title": "\udecd️Bazooka Bubble Gum Bulk, 225 Count Tub of Chewing Gum | Individually Wrapped, Old Fashioned 90's Candy for Baseball, P",
+          "price": "$20.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/810sUQyuXNL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+          "url": "https://www.amazon.com/dp/B00NG07SO2?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4b0afea5f6dfd8f4035117791c029dab&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DHXZFFWV",
+          "slug": "aosu-2k-qhd-solar-security-cameras-wireless-outdoor-system-4",
+          "title": "\udecd️aosu 2K QHD Solar Security Cameras Wireless Outdoor System, 4-Cam-Kit | 2K Color Night Vision, Solar Powered, Stren&Li",
+          "price": "$199.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+ZHQoQNUL.jpg",
+          "url": "https://www.amazon.com/dp/B0DHXZFFWV?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7e88d8e0f4612c367560b706cf111014&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07NJLMDNQ",
+          "slug": "pedigree-dentastix-large-breed-dental-dog-treats-fresh-36-co",
+          "title": "\udecd️Pedigree Dentastix Large Breed Dental Dog Treats, Fresh, 36 Count | Triple action dental care, reduces tartar, cleans ",
+          "price": "$13.28",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71OPBDvpTRL.jpg",
+          "url": "https://www.amazon.com/dp/B07NJLMDNQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=293b4cb994e6a154019e10b9e7f91f02&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08KSLGXFH",
+          "slug": "neutrogena-healthy-scalp-clarify-shine-shampoo-pink-grapefru",
+          "title": "\udecd️Neutrogena Healthy Scalp Clarify & Shine Shampoo, Pink Grapefruit 12 fl oz",
+          "price": "$11.55",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B08KSLGXFH?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=370d3cef5b971212d03d5db821e42fb4&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DJFBDFZK",
+          "slug": "ninja-crispi-glass-air-fryer-4-in-1-stone-fn101st-max-crisp",
+          "title": "\udecd️Ninja Crispi Glass Air Fryer, 4-in-1, Stone, FN101ST | Max crisp, bake, air fry, recrisp, 450F max, 4 Qt and 6 Cup con",
+          "price": "$159.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DJFBDFZK?ie=UTF8&plpRedirect=mhFallback&s=psc&gaOptInStatus=true&ASIN=B0DJFBDFZK&lv=shuf&channelId=1&th=1&linkCode=sl2&tag=noya0b-20&linkId=b4af496e9b8dd0afa3201e7a9c21f05e&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0F9LC7B7T",
@@ -189,67 +250,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81bSG5vVBrL.jpg",
           "url": "https://www.amazon.com/dp/B0FH37FNZ7?lv=shuf&ascsubtag=srctok-1fb69d1a62b8bf5f&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-1fb69d1a62b8bf5f&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6fd60c3f0587ffc5ad0ba3d8404f388c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B007S7OMPW",
-          "slug": "spice-classics-garlic-pepper-seasoning-salt-487-oz-pack-of-1",
-          "title": "\udecd️Spice Classics Garlic & Pepper Seasoning Salt, 4.87 oz (Pack of 12)",
-          "price": "$26.66",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71j+aol+ifL.jpg",
-          "url": "https://www.amazon.com/dp/B007S7OMPW?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e66133b0baa08b926a19bca518082dbd&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DQJ1XY96",
-          "slug": "iced-coffee-sleeve-insulator-sleeves-for-cold-drinks-beverag",
-          "title": "\udecd️Iced Coffee Sleeve Insulator Sleeves for Cold Drinks Beverages, 3 Pack Reusable Neoprene Cup Sleeve with Handle for 16",
-          "price": "$12.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81SQExV7ziL.jpg",
-          "url": "https://www.amazon.com/dp/B0DQJ1XY96?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c3fea2b563de003f7ecbaa70e77420d3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B088C4XFPX",
-          "slug": "brickell-mens-element-defense-spf45-moisturizer-for-men-mine",
-          "title": "\udecd️Brickell Men's Element Defense SPF45 Moisturizer for Men, Mineral Sunscreen, Hydrates and Protects Skin Against UVA/UV",
-          "price": "$22.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61e1fP9MwqL.jpg",
-          "url": "https://www.amazon.com/dp/B088C4XFPX?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4686ccc673273bebed4e140fefe51da9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00B1N0R6C",
-          "slug": "perfect-fitness-ab-carver-roller-wheel-with-built-in-spring",
-          "title": "\udecd️Perfect Fitness Ab Carver Roller Wheel With Built In Spring Resistance, At Home Core Workout Equipment",
-          "price": "$39.10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51bsIB5M5SL.jpg",
-          "url": "https://www.amazon.com/dp/B00B1N0R6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=619b48d6710ce238323c71f1a089e1f3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08FC3RZKZ",
-          "slug": "aloha-organic-plant-based-protein-bars-6-flavor-variety-pack",
-          "title": "\udecd️ALOHA Organic Plant Based Protein Bars - 6 Flavor Variety Pack - 12 Count, 1.9oz Bars - Vegan Snacks, Low Sugar, Glute",
-          "price": "$23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/91-wdLUvmlL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
-          "url": "https://www.amazon.com/dp/B08FC3RZKZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=633e4a640a1d1117275b4586f6f1af4a&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 10, 2026?",
-          "a": "The best deals today include \"Go claim yours!! save an extra 40% off select vitamins, supp...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"Go claim yours!! save an extra 40% off select vitamins, supp...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Health, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-10T15:50:01.589Z",
-      "updatedAt": "2026-08-10T15:50:01.589Z"
+      "generatedAt": "2026-08-10T16:00:01.671Z",
+      "updatedAt": "2026-08-10T16:00:01.671Z"
     },
     {
       "date": "2026-08-09",
@@ -16345,5 +16351,5 @@
       "updatedAt": "2026-06-11T03:50:01.947Z"
     }
   ],
-  "generatedAt": "2026-08-10T15:50:01.603Z"
+  "generatedAt": "2026-08-10T16:00:01.688Z"
 }
