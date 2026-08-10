@@ -4,14 +4,42 @@
       "date": "2026-08-10",
       "slug": "2026-08-10",
       "title": "🔥 Best Deals Today — August 10, 2026",
-      "intro": "Today's best online deals for Monday, August 10, 2026 — 10 hand-picked discounts across Other, Fashion, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 10, 2026 — 10 hand-picked discounts across Other, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Fashion",
-        "Electronics",
-        "Grocery & Food"
+        "Beauty",
+        "Toys & Kids",
+        "Grocery & Food",
+        "Electronics"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B07LFQ9CXC",
+            "slug": "pampers-swaddlers-diapers-size-4-15-34-lbs-120-count-fragran",
+            "title": "Pampers Swaddlers Diapers, Size 4 (15-34 lbs), 120 Count, Fragrance Free, Hypoallergenic, Absorbent, Pediatrician Recomm",
+            "price": "$54",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81tUS+0fTML.jpg",
+            "url": "https://www.amazon.com/dp/B07LFQ9CXC/ref=cm_sw_r_as_gl_apa_gl_i_MW52X0JAGPZEM3DNAVRX?linkCode=ml1&tag=noya0b-20&linkId=176533ae58eaa56db62f5e98fdaf3930&gaOptInStatus=true"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0DTQ9RNPN",
+            "slug": "kinetic-sand-squishpizza-playset-moldable-play-sand-sensory",
+            "title": "Kinetic Sand SquishPizza Playset, Moldable Play Sand Sensory Toys, Ages 5+ | Squish & Watch Pizza Magically Rise, Includ",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DTQ9RNPN/ref=cm_sw_r_as_gl_apa_gl_i_XZSYCDQTGJR9TN4722EA?linkCode=ml1&tag=noya0b-20&linkId=65fc582ebb709a71fdaf6d31710dc793&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B07C8YDMJJ",
@@ -56,17 +84,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71ULLCGmDLL.jpg",
             "url": "https://www.amazon.com/dp/B08NTW1613?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0H4FY88NV",
-            "slug": "carenice-mens-5-topical-minoxidil-aerosol-foam-unscented-bio",
-            "title": "CARENICE Men's 5% Topical Minoxidil Aerosol Foam Unscented, Biotin Infused Hair Beard Growth Treatment for Thicker Fulle",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Q9FX3OODL.jpg",
-            "url": "https://www.amazon.com/dp/B0H4FY88NV?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -117,21 +134,32 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61FhWh1cn6L.jpg",
             "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&linkCode=sl2&tag=noya0b-20&linkId=e5ba1d80d6267067246c4b8371a8f38e&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0H4H7XZFH",
-            "slug": "daifac-hd-1080p-spy-camera-hidden-camera-smoke-detectorwifi",
-            "title": "DAIFAC HD 1080P Spy Camera Hidden Camera Smoke Detector,WiFi Mini Small Nanny Cam with Motion Detection, Indoor Wireless",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51+Jc-IlwBL.jpg",
-            "url": "https://www.amazon.com/dp/B0H4H7XZFH?th=1&tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B07LFQ9CXC",
+          "slug": "pampers-swaddlers-diapers-size-4-15-34-lbs-120-count-fragran",
+          "title": "Pampers Swaddlers Diapers, Size 4 (15-34 lbs), 120 Count, Fragrance Free, Hypoallergenic, Absorbent, Pediatrician Recomm",
+          "price": "$54",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81tUS+0fTML.jpg",
+          "url": "https://www.amazon.com/dp/B07LFQ9CXC/ref=cm_sw_r_as_gl_apa_gl_i_MW52X0JAGPZEM3DNAVRX?linkCode=ml1&tag=noya0b-20&linkId=176533ae58eaa56db62f5e98fdaf3930&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DTQ9RNPN",
+          "slug": "kinetic-sand-squishpizza-playset-moldable-play-sand-sensory",
+          "title": "Kinetic Sand SquishPizza Playset, Moldable Play Sand Sensory Toys, Ages 5+ | Squish & Watch Pizza Magically Rise, Includ",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0DTQ9RNPN/ref=cm_sw_r_as_gl_apa_gl_i_XZSYCDQTGJR9TN4722EA?linkCode=ml1&tag=noya0b-20&linkId=65fc582ebb709a71fdaf6d31710dc793&gaOptInStatus=true"
+        },
         {
           "asin": "B07C8YDMJJ",
           "slug": "amazon-business-accounts",
@@ -219,34 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61FhWh1cn6L.jpg",
           "url": "https://www.amazon.com/dp/B0G5NZ7SP4?th=1&linkCode=sl2&tag=noya0b-20&linkId=e5ba1d80d6267067246c4b8371a8f38e&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0H4FY88NV",
-          "slug": "carenice-mens-5-topical-minoxidil-aerosol-foam-unscented-bio",
-          "title": "CARENICE Men's 5% Topical Minoxidil Aerosol Foam Unscented, Biotin Infused Hair Beard Growth Treatment for Thicker Fulle",
-          "price": "$16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Q9FX3OODL.jpg",
-          "url": "https://www.amazon.com/dp/B0H4FY88NV?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0H4H7XZFH",
-          "slug": "daifac-hd-1080p-spy-camera-hidden-camera-smoke-detectorwifi",
-          "title": "DAIFAC HD 1080P Spy Camera Hidden Camera Smoke Detector,WiFi Mini Small Nanny Cam with Motion Detection, Indoor Wireless",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51+Jc-IlwBL.jpg",
-          "url": "https://www.amazon.com/dp/B0H4H7XZFH?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 10, 2026?",
-          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Electronics and are updated daily."
+          "a": "The best deals today include \"Pampers Swaddlers Diapers, Size 4 (15-34 lbs), 120 Count, Fr...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-10T06:10:01.355Z",
-      "updatedAt": "2026-08-10T06:10:01.355Z"
+      "generatedAt": "2026-08-10T06:20:01.454Z",
+      "updatedAt": "2026-08-10T06:20:01.454Z"
     },
     {
       "date": "2026-08-09",
@@ -16342,5 +16348,5 @@
       "updatedAt": "2026-06-11T03:50:01.947Z"
     }
   ],
-  "generatedAt": "2026-08-10T06:10:01.369Z"
+  "generatedAt": "2026-08-10T06:20:01.467Z"
 }
