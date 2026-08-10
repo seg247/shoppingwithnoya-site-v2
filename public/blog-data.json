@@ -9,11 +9,32 @@
         "Other",
         "Fashion",
         "Electronics",
-        "Grocery & Food",
-        "Home & Kitchen"
+        "Grocery & Food"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B07C8YDMJJ",
+            "slug": "amazon-business-accounts",
+            "title": "Amazon business accounts",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71sjD10EjdL.jpg",
+            "url": "https://www.amazon.com/dp/B07C8YDMJJ/ref=cm_sw_r_as_gl_apa_gl_i_RF847JVGXTTYYPQFHDBX?linkCode=ml1&tag=noya0b-20&linkId=46b8f8d92cbc3b6acdc60de284c36776&gaOptInStatus=true"
+          },
+          {
+            "asin": "B086LK2H2Y",
+            "slug": "lenox-blue-bay-12-piece-dessert-set-1030-lb-dinnerware-sets",
+            "title": "Lenox Blue Bay 12-Piece Dessert Set, 10.30 LB: Dinnerware Sets",
+            "price": "$59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HQIOszp4L.jpg",
+            "url": "https://www.amazon.com/dp/B086LK2H2Y/ref=cm_sw_r_as_gl_apa_gl_i_PH7BCDFSWH2CSC1P5PZ0?linkCode=ml1&tag=noya0b-20&linkId=f3803eb6bc22b3790f5e1485fd900364&gaOptInStatus=true"
+          },
           {
             "asin": "B000MKDUKU",
             "slug": "klein-tools-5140-canvas-zipper-bag-tool-pouch-bank-deposit-u",
@@ -46,17 +67,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81Q9FX3OODL.jpg",
             "url": "https://www.amazon.com/dp/B0H4FY88NV?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0F9WJQXK6",
-            "slug": "hsmihair-grid-mesh-pencil-case-large-compartment-pen-pouch-w",
-            "title": "Hsmihair Grid Mesh Pencil Case, Large Compartment Pen Pouch with Zipper, Clear Portable Multifunction Pen Bag for School",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vIPBjDvkL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F9WJQXK6?th=1&tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -119,22 +129,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51+Jc-IlwBL.jpg",
             "url": "https://www.amazon.com/dp/B0H4H7XZFH?th=1&tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B078Y5R267",
-            "slug": "travelon-rfid-blocking-clip-stash-pouch-packing-organizers",
-            "title": "Travelon Rfid Blocking Clip Stash Pouch | Packing Organizers",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/811o8RvS9gL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B078Y5R267?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07C8YDMJJ",
+          "slug": "amazon-business-accounts",
+          "title": "Amazon business accounts",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71sjD10EjdL.jpg",
+          "url": "https://www.amazon.com/dp/B07C8YDMJJ/ref=cm_sw_r_as_gl_apa_gl_i_RF847JVGXTTYYPQFHDBX?linkCode=ml1&tag=noya0b-20&linkId=46b8f8d92cbc3b6acdc60de284c36776&gaOptInStatus=true"
+        },
+        {
+          "asin": "B086LK2H2Y",
+          "slug": "lenox-blue-bay-12-piece-dessert-set-1030-lb-dinnerware-sets",
+          "title": "Lenox Blue Bay 12-Piece Dessert Set, 10.30 LB: Dinnerware Sets",
+          "price": "$59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71HQIOszp4L.jpg",
+          "url": "https://www.amazon.com/dp/B086LK2H2Y/ref=cm_sw_r_as_gl_apa_gl_i_PH7BCDFSWH2CSC1P5PZ0?linkCode=ml1&tag=noya0b-20&linkId=f3803eb6bc22b3790f5e1485fd900364&gaOptInStatus=true"
+        },
         {
           "asin": "B000MKDUKU",
           "slug": "klein-tools-5140-canvas-zipper-bag-tool-pouch-bank-deposit-u",
@@ -222,34 +241,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51+Jc-IlwBL.jpg",
           "url": "https://www.amazon.com/dp/B0H4H7XZFH?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B078Y5R267",
-          "slug": "travelon-rfid-blocking-clip-stash-pouch-packing-organizers",
-          "title": "Travelon Rfid Blocking Clip Stash Pouch | Packing Organizers",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/811o8RvS9gL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B078Y5R267?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0F9WJQXK6",
-          "slug": "hsmihair-grid-mesh-pencil-case-large-compartment-pen-pouch-w",
-          "title": "Hsmihair Grid Mesh Pencil Case, Large Compartment Pen Pouch with Zipper, Clear Portable Multifunction Pen Bag for School",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vIPBjDvkL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F9WJQXK6?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 10, 2026?",
-          "a": "The best deals today include \"Klein Tools 5140 Canvas Zipper Bag, Tool Pouch, Bank Deposit...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Electronics and are updated daily."
+          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-10T06:00:01.914Z",
-      "updatedAt": "2026-08-10T06:00:01.914Z"
+      "generatedAt": "2026-08-10T06:10:01.355Z",
+      "updatedAt": "2026-08-10T06:10:01.355Z"
     },
     {
       "date": "2026-08-09",
@@ -16345,5 +16342,5 @@
       "updatedAt": "2026-06-11T03:50:01.947Z"
     }
   ],
-  "generatedAt": "2026-08-10T06:00:01.926Z"
+  "generatedAt": "2026-08-10T06:10:01.369Z"
 }
