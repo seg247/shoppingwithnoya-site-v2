@@ -9,46 +9,21 @@
         "Other",
         "Beauty",
         "Electronics",
-        "Pet Supplies",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
-        "Other": [
-          {
-            "asin": "B005XDIYDE",
-            "slug": "versa-gripps-pro-wrist-straps-choose-size-and-color",
-            "title": "\udecd️VERSA GRIPPS® PRO Wrist Straps, Choose Size and Color",
-            "price": "$79.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51PJs87PesL.jpg",
-            "url": "https://www.amazon.com/dp/B005XDIYDE?th=1&linkCode=sl2&tag=noya0b-20&linkId=d2cdcdfb20676add918400e49fd8cb72&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BVGJHJVN",
-            "slug": "cleancult-liquid-hand-soap-refill-lemon-verbena-moisturizes",
-            "title": "Cleancult Liquid Hand Soap Refill - Lemon Verbena - Moisturizes Dry & Sensitive Skin - Made with Aloe Vera & Essential O",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71iG9UDU3fL.jpg",
-            "url": "https://www.amazon.com/dp/B0BVGJHJVN/ref=cm_sw_r_as_gl_api_gl_i_9FVEX60T2VNY7GQKB4GE?linkCode=ml1&tag=noya0b-20&linkId=7b2345fb0caa9cd440e665190f5417ce&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FHHHTFJT",
-            "slug": "magnetic-dryer-vent-coupling-connector-kit-dv180-airtight-se",
-            "title": "\udecd️Magnetic Dryer Vent Coupling Connector Kit - DV180 Airtight Seal, Quick Connect, Includes 4\"x3.3ft Dryer Vent Hose & 2",
-            "price": "$35.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71bCVgUt+UL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHHHTFJT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=528c2a29a069046c1d37f6179be9ca54&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Beauty": [
+          {
+            "asin": "B09TMPW3KF",
+            "slug": "laura-geller-ideal-fix-eye-concealer-for-mature-skin-light",
+            "title": "\udecd️LAURA GELLER Ideal Fix Eye Concealer for Mature Skin – Light",
+            "price": "$28.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61T0UFkofVL.jpg",
+            "url": "https://www.amazon.com/dp/B09TMPW3KF?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5304cc2028824fa1a782925083284e1e&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0DB8KLTN1",
             "slug": "blue-lizard-mineral-sunscreen-spf-50-tube-zinc-oxide-water-r",
@@ -70,20 +45,79 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61dJ3ERlczL.jpg",
             "url": "https://www.amazon.com/dp/B0FYN9CJKC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c356f3f0df312392894e56a55221119a&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B001UE60E0",
-            "slug": "dhc-deep-cleansing-oil-makeup-remover-gentle-oil-cleanser-67",
-            "title": "\udecd️DHC Deep Cleansing Oil, Makeup Remover, Gentle Oil Cleanser, 6.7 oz | Facial Cleansing Oil, Blackhead Remover, Cleanse",
-            "price": "$17.84",
+            "asin": "B0BPSBX8V9",
+            "slug": "mayena-jaw-exerciser-classic-4-set-silicone-jawline-exercise",
+            "title": "\udecd️Mayena Jaw Exerciser Classic | 4 Set Silicone Jawline Exercisers | Powerful Jaw Trainer & Jawline Shaper | Strengthens",
+            "price": "$16.95",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/615Q9W2wb5L.jpg",
-            "url": "https://www.amazon.com/dp/B001UE60E0?th=1&linkCode=sl2&tag=noya0b-20&linkId=a6df000665bbd019443cdbc4f067eeed&language=en_US&gaOptInStatus=true"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61qgCJVpPkL.jpg",
+            "url": "https://www.amazon.com/dp/B0BPSBX8V9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ff083e6457e520b0d9076b22fdab7830&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0H4K7BD4M",
+            "slug": "dumos-countertop-ice-maker-with-handle-26lbs24h-makes-9-bull",
+            "title": "\udecd️DUMOS Countertop Ice Maker with Handle, 26lbs/24H, Makes 9 Bullet Cubes in 6 Mins, Auto-Cleaning, Portable Ice Machine",
+            "price": "$49.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/612D+5-MyhL.jpg",
+            "url": "https://www.amazon.com/dp/B0H4K7BD4M?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=03e2c195a1937eb73f58035d12586c17&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B005XDIYDE",
+            "slug": "versa-gripps-pro-wrist-straps-choose-size-and-color",
+            "title": "\udecd️VERSA GRIPPS® PRO Wrist Straps, Choose Size and Color",
+            "price": "$79.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51PJs87PesL.jpg",
+            "url": "https://www.amazon.com/dp/B005XDIYDE?th=1&linkCode=sl2&tag=noya0b-20&linkId=d2cdcdfb20676add918400e49fd8cb72&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BVGJHJVN",
+            "slug": "cleancult-liquid-hand-soap-refill-lemon-verbena-moisturizes",
+            "title": "Cleancult Liquid Hand Soap Refill - Lemon Verbena - Moisturizes Dry & Sensitive Skin - Made with Aloe Vera & Essential O",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71iG9UDU3fL.jpg",
+            "url": "https://www.amazon.com/dp/B0BVGJHJVN/ref=cm_sw_r_as_gl_api_gl_i_9FVEX60T2VNY7GQKB4GE?linkCode=ml1&tag=noya0b-20&linkId=7b2345fb0caa9cd440e665190f5417ce&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B018AU4SX6",
+            "slug": "nicetown-grommet-top-thermal-insulated-solid-room-darkening",
+            "title": "\udecd️NICETOWN Grommet Top Thermal Insulated Solid Room Darkening Curtain / Drape for Sliding Door, Patio Door Curtain Panel",
+            "price": "$27.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71lGUMD-3nL.jpg",
+            "url": "https://www.amazon.com/dp/B018AU4SX6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b749fd0959a14d9da09e932530cb5b32&language=en_US&gaOptInStatus=true"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0FM3R3KRM",
+            "slug": "10000mah-portable-charger-magnetic-power-bank-for-magsafe-ch",
+            "title": "\udecd️10000mAh Portable Charger, Magnetic Power Bank for Magsafe Charger, Slim | 20W Wireless Magnetic Battery Pack with iPh",
+            "price": "$21.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/718s7-n4xkL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FM3R3KRM?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=efcd620fd22a9913fe5015aff712e2ef&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0G4SWDH8P",
             "slug": "samsung-galaxy-s26-ultra-unlocked-android-smartphone-256gb-b",
@@ -94,47 +128,65 @@
             "category": "Electronics",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0G4SWDH8P?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=32773323c1e7a844dacb75aca053540c&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D9Q9BFFX",
-            "slug": "symcele-designed-for-iphone-16-pro-max-case-black-compatible",
-            "title": "\udecd️Symcele Designed for iPhone 16 Pro Max Case, Black | Compatible with MagSafe, with Privacy Screen Protectors X2, [Came",
-            "price": "$11.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D9Q9BFFX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8b123e9dd74c866cf83ec0d2565cad7a&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B09ZDY89ZT",
-            "slug": "natural-balance-limited-ingredient-adult-dry-dog-food-with-v",
-            "title": "\udecd️Natural Balance Limited Ingredient Adult Dry Dog Food with Vegan Plant Based Protein and Healthy Grains, Vegetarian Re",
-            "price": "$72.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71+NRRmXINL.jpg",
-            "url": "https://www.amazon.com/dp/B09ZDY89ZT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0527e899b0b352dcdd5accdb6eb12162&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B07RP1XLVS",
-            "slug": "levis-mens-541-athletic-taper-fit-jeans",
-            "title": "\udecd️Levi's Men's 541 Athletic Taper Fit Jeans",
-            "price": "$48.65",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/7198+S7mjAL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07RP1XLVS?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ea603a731d14333441652bdcc77bb460&language=en_US&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B09TMPW3KF",
+          "slug": "laura-geller-ideal-fix-eye-concealer-for-mature-skin-light",
+          "title": "\udecd️LAURA GELLER Ideal Fix Eye Concealer for Mature Skin – Light",
+          "price": "$28.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61T0UFkofVL.jpg",
+          "url": "https://www.amazon.com/dp/B09TMPW3KF?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5304cc2028824fa1a782925083284e1e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BPSBX8V9",
+          "slug": "mayena-jaw-exerciser-classic-4-set-silicone-jawline-exercise",
+          "title": "\udecd️Mayena Jaw Exerciser Classic | 4 Set Silicone Jawline Exercisers | Powerful Jaw Trainer & Jawline Shaper | Strengthens",
+          "price": "$16.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61qgCJVpPkL.jpg",
+          "url": "https://www.amazon.com/dp/B0BPSBX8V9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ff083e6457e520b0d9076b22fdab7830&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H4K7BD4M",
+          "slug": "dumos-countertop-ice-maker-with-handle-26lbs24h-makes-9-bull",
+          "title": "\udecd️DUMOS Countertop Ice Maker with Handle, 26lbs/24H, Makes 9 Bullet Cubes in 6 Mins, Auto-Cleaning, Portable Ice Machine",
+          "price": "$49.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/612D+5-MyhL.jpg",
+          "url": "https://www.amazon.com/dp/B0H4K7BD4M?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=03e2c195a1937eb73f58035d12586c17&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B018AU4SX6",
+          "slug": "nicetown-grommet-top-thermal-insulated-solid-room-darkening",
+          "title": "\udecd️NICETOWN Grommet Top Thermal Insulated Solid Room Darkening Curtain / Drape for Sliding Door, Patio Door Curtain Panel",
+          "price": "$27.89",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71lGUMD-3nL.jpg",
+          "url": "https://www.amazon.com/dp/B018AU4SX6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b749fd0959a14d9da09e932530cb5b32&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FM3R3KRM",
+          "slug": "10000mah-portable-charger-magnetic-power-bank-for-magsafe-ch",
+          "title": "\udecd️10000mAh Portable Charger, Magnetic Power Bank for Magsafe Charger, Slim | 20W Wireless Magnetic Battery Pack with iPh",
+          "price": "$21.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/718s7-n4xkL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FM3R3KRM?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=efcd620fd22a9913fe5015aff712e2ef&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B005XDIYDE",
           "slug": "versa-gripps-pro-wrist-straps-choose-size-and-color",
@@ -189,67 +241,12 @@
           "category": "Electronics",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0G4SWDH8P?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=32773323c1e7a844dacb75aca053540c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09ZDY89ZT",
-          "slug": "natural-balance-limited-ingredient-adult-dry-dog-food-with-v",
-          "title": "\udecd️Natural Balance Limited Ingredient Adult Dry Dog Food with Vegan Plant Based Protein and Healthy Grains, Vegetarian Re",
-          "price": "$72.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+NRRmXINL.jpg",
-          "url": "https://www.amazon.com/dp/B09ZDY89ZT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0527e899b0b352dcdd5accdb6eb12162&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D9Q9BFFX",
-          "slug": "symcele-designed-for-iphone-16-pro-max-case-black-compatible",
-          "title": "\udecd️Symcele Designed for iPhone 16 Pro Max Case, Black | Compatible with MagSafe, with Privacy Screen Protectors X2, [Came",
-          "price": "$11.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D9Q9BFFX?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8b123e9dd74c866cf83ec0d2565cad7a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B001UE60E0",
-          "slug": "dhc-deep-cleansing-oil-makeup-remover-gentle-oil-cleanser-67",
-          "title": "\udecd️DHC Deep Cleansing Oil, Makeup Remover, Gentle Oil Cleanser, 6.7 oz | Facial Cleansing Oil, Blackhead Remover, Cleanse",
-          "price": "$17.84",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/615Q9W2wb5L.jpg",
-          "url": "https://www.amazon.com/dp/B001UE60E0?th=1&linkCode=sl2&tag=noya0b-20&linkId=a6df000665bbd019443cdbc4f067eeed&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07RP1XLVS",
-          "slug": "levis-mens-541-athletic-taper-fit-jeans",
-          "title": "\udecd️Levi's Men's 541 Athletic Taper Fit Jeans",
-          "price": "$48.65",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/7198+S7mjAL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B07RP1XLVS?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=ea603a731d14333441652bdcc77bb460&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FHHHTFJT",
-          "slug": "magnetic-dryer-vent-coupling-connector-kit-dv180-airtight-se",
-          "title": "\udecd️Magnetic Dryer Vent Coupling Connector Kit - DV180 Airtight Seal, Quick Connect, Includes 4\"x3.3ft Dryer Vent Hose & 2",
-          "price": "$35.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71bCVgUt+UL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHHHTFJT?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=528c2a29a069046c1d37f6179be9ca54&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 11, 2026?",
-          "a": "The best deals today include \"\udecd️VERSA GRIPPS® PRO Wrist Straps, Choose Size and Color...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️LAURA GELLER Ideal Fix Eye Concealer for Mature Skin – Lig...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-11T10:20:02.094Z",
-      "updatedAt": "2026-08-11T10:20:02.095Z"
+      "generatedAt": "2026-08-11T10:30:02.143Z",
+      "updatedAt": "2026-08-11T10:30:02.143Z"
     },
     {
       "date": "2026-08-10",
@@ -16351,5 +16348,5 @@
       "updatedAt": "2026-06-12T03:50:01.966Z"
     }
   ],
-  "generatedAt": "2026-08-11T10:20:02.108Z"
+  "generatedAt": "2026-08-11T10:30:02.156Z"
 }
