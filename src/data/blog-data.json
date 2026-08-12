@@ -9,10 +9,10 @@
         "Other",
         "Home & Kitchen",
         "Grocery & Food",
-        "Cleaning Supplies",
         "Fashion",
-        "Beauty",
-        "Electronics"
+        "Garden & Outdoor",
+        "Electronics",
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Grocery & Food": [
@@ -28,7 +28,44 @@
             "url": "https://www.amazon.com/dp/B09Q4GWMZQ?linkCode=sl2&tag=noya0b-20&linkId=b58ed4168a4ec8d3875a74ac37635c2a&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0FQN4LVG6",
+            "slug": "nike-unisex-kids-flex-runner-4-running-shoes-boys-girls-todd",
+            "title": "\udecd️Nike Unisex Kids' Flex Runner 4 Running Shoes - Boys Girls Toddlers & Baby Running Sneakers",
+            "price": "$50.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61X4W6XKYLL._AC.jpg",
+            "url": "https://www.amazon.com/dp/B0FQN4LVG6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b7a8d60f42870a5a81569c2234b3b408&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0168K8VUQ",
+            "slug": "scotts-green-max-lawn-food-1667-lbs-lawn-fertilizer-for-gras",
+            "title": "\udecd️Scotts Green Max Lawn Food, 16.67 lbs. | Lawn Fertilizer for Grass Plus Iron Supplement, Grass Fertilizer, Covers 5,00",
+            "price": "$33.24",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81+cxazwJuL.jpg",
+            "url": "https://www.amazon.com/dp/B0168K8VUQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c585f95788024477630e2f2fedc227fb&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0178GXCHQ",
+            "slug": "luxrite-f32t8841-32w-48-inch-t8-fluorescent-tube-light-bulb",
+            "title": "\udecd️Luxrite F32T8/841 32W 48 Inch T8 Fluorescent Tube Light Bulb, 4100K Cool White, 2800 Lumens, G13 Medium Bi-Pin Base, L",
+            "price": "$62.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61MR657jp8L.jpg",
+            "url": "https://www.amazon.com/dp/B0178GXCHQ?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=631007605a13b04a2d731c67df986105&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B07QQ46VP3",
             "slug": "ensenior-12-pack-6-inch-led-recessed-light-5000k-dimmable-ca",
@@ -50,17 +87,43 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/814eeh71z2L._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B0B6ZWM3WB?lv=shuf&ascsubtag=srctok-7c5eb938c63fb663&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-7c5eb938c63fb663&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=c1295e08238e0c2f8363ad98f20eefe0&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B084T9BH59",
-            "slug": "sicania-premium-pistachio-cream-705-oz-200g-authentic-italia",
-            "title": "\udecd️SICANIA - Premium Pistachio Cream, 7.05 oz (200g) - Authentic Italian, Gluten-Free, Non-GMO - Gourmet Spread for Desse",
-            "price": "$14.99",
+            "asin": "B01LTI08VC",
+            "slug": "mccafe-premium-roast-coffee-keurig-single-serve-k-cup-pods-m",
+            "title": "\udecd️McCafe Premium Roast Coffee, Keurig Single-Serve K-Cup Pods, Medium Roast, 72 Count",
+            "price": "$42.73",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81zx5Sc1P2L.jpg",
-            "url": "https://www.amazon.com/dp/B084T9BH59?lv=shuf&ascsubtag=srctok-7f5a564ddca56db7&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-7f5a564ddca56db7&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cdbaf4b459beca81026c7490d8b42f26&language=en_US&gaOptInStatus=true"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wr-dKCVlL.jpg",
+            "url": "https://www.amazon.com/dp/B01LTI08VC?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=9d44a1f1ee2d0518ffd074422421ad0a&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07GV36BLD",
+            "slug": "comfee-countertop-microwave-oven-07-cuft-700w-black-eco-mode",
+            "title": "\udecd️COMFEE' Countertop Microwave Oven, 0.7 Cu.Ft, 700W, Black, ECO Mode | Sound On/Off, One-Touch Buttons, Child Safety Lo",
+            "price": "$69.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71I1kb2hSlL.jpg",
+            "url": "https://www.amazon.com/dp/B07GV36BLD?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6131379e3895d2c5b36a53addd5ff728&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0CHMBPH7P",
+            "slug": "ihealth-gluco-wireless-smart-glucose-monitor-kit-100-strips",
+            "title": "\udecd️iHealth Gluco+ Wireless Smart Glucose Monitor Kit, 100 Strips & 100 Lancets | Free Smart App, Unlimited Data Storage, ",
+            "price": "$48.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51TPZTXvtWL.jpg",
+            "url": "https://www.amazon.com/dp/B0CHMBPH7P?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1b85ec5e62fad6764913fdd1722475f9&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -75,69 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81w9cFW1CwL.jpg",
             "url": "https://www.amazon.com/dp/B0CN86DV9L?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=eaf2faae634d46a03b150a0cd98b2b88&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07GV36BLD",
-            "slug": "comfee-countertop-microwave-oven-07-cuft-700w-black-eco-mode",
-            "title": "\udecd️COMFEE' Countertop Microwave Oven, 0.7 Cu.Ft, 700W, Black, ECO Mode | Sound On/Off, One-Touch Buttons, Child Safety Lo",
-            "price": "$69.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71I1kb2hSlL.jpg",
-            "url": "https://www.amazon.com/dp/B07GV36BLD?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6131379e3895d2c5b36a53addd5ff728&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DGT91W8Z",
-            "slug": "cheese-grater-with-container-box-grater-stainless-steel-kitc",
-            "title": "Cheese Grater With Container Box Grater Stainless Steel Kitchen Blue | Dishwasher Safe 4 Sided Vegetable Shredder Zester",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61s+fuPEcPL.jpg",
-            "url": "https://www.amazon.com/dp/B0DGT91W8Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=879aebaa74c64dededfc426915695670&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0BZ1796Z4",
-            "slug": "fresh-kicks-foul-ballz-shoe-deodorizer-balls-6-pack-eliminat",
-            "title": "\udecd️Fresh Kicks Foul Ballz Shoe Deodorizer Balls – 6 Pack – Eliminate Smelly Shoes Fast – Strong Sneaker Odor Fighter – Lo",
-            "price": "$11.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/818t+uTfkNL.jpg",
-            "url": "https://www.amazon.com/dp/B0BZ1796Z4?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0e8cfb6c923e5907a926fabecc519453&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0B68796LZ",
-            "slug": "tikfoam-rv-ac-filter-14-x-75-rv-air-conditioner-filters-rv-a",
-            "title": "\udecd️Tikfoam RV AC Filter, 14 X 7.5 RV Air Conditioner Filters, RV Air Filters 3313107.103, 3105012.003, 4 Filters AC Filte",
-            "price": "$28.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81qOLr7Dr1L.jpg",
-            "url": "https://www.amazon.com/dp/B0B68796LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=e44ec0029b80997716d40eb983644fa3&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BS1QCFHX",
-            "slug": "sony-wh-ch720n-wireless-noise-cancelling-over-ear-headphones",
-            "title": "\udecd️Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones, Black | Comfortable Lightweight Design, Dual Noise Senso",
-            "price": "$86.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51rpbVmi9XL.jpg",
-            "url": "https://www.amazon.com/dp/B0BS1QCFHX?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=71fb6ba41cba228b2759cb40140c9c31&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -151,6 +151,61 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B09Q4GWMZQ?linkCode=sl2&tag=noya0b-20&linkId=b58ed4168a4ec8d3875a74ac37635c2a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FQN4LVG6",
+          "slug": "nike-unisex-kids-flex-runner-4-running-shoes-boys-girls-todd",
+          "title": "\udecd️Nike Unisex Kids' Flex Runner 4 Running Shoes - Boys Girls Toddlers & Baby Running Sneakers",
+          "price": "$50.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61X4W6XKYLL._AC.jpg",
+          "url": "https://www.amazon.com/dp/B0FQN4LVG6?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&psc=1&linkCode=sl2&tag=noya0b-20&linkId=b7a8d60f42870a5a81569c2234b3b408&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0168K8VUQ",
+          "slug": "scotts-green-max-lawn-food-1667-lbs-lawn-fertilizer-for-gras",
+          "title": "\udecd️Scotts Green Max Lawn Food, 16.67 lbs. | Lawn Fertilizer for Grass Plus Iron Supplement, Grass Fertilizer, Covers 5,00",
+          "price": "$33.24",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81+cxazwJuL.jpg",
+          "url": "https://www.amazon.com/dp/B0168K8VUQ?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c585f95788024477630e2f2fedc227fb&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0178GXCHQ",
+          "slug": "luxrite-f32t8841-32w-48-inch-t8-fluorescent-tube-light-bulb",
+          "title": "\udecd️Luxrite F32T8/841 32W 48 Inch T8 Fluorescent Tube Light Bulb, 4100K Cool White, 2800 Lumens, G13 Medium Bi-Pin Base, L",
+          "price": "$62.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61MR657jp8L.jpg",
+          "url": "https://www.amazon.com/dp/B0178GXCHQ?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=631007605a13b04a2d731c67df986105&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01LTI08VC",
+          "slug": "mccafe-premium-roast-coffee-keurig-single-serve-k-cup-pods-m",
+          "title": "\udecd️McCafe Premium Roast Coffee, Keurig Single-Serve K-Cup Pods, Medium Roast, 72 Count",
+          "price": "$42.73",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71wr-dKCVlL.jpg",
+          "url": "https://www.amazon.com/dp/B01LTI08VC?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=9d44a1f1ee2d0518ffd074422421ad0a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CHMBPH7P",
+          "slug": "ihealth-gluco-wireless-smart-glucose-monitor-kit-100-strips",
+          "title": "\udecd️iHealth Gluco+ Wireless Smart Glucose Monitor Kit, 100 Strips & 100 Lancets | Free Smart App, Unlimited Data Storage, ",
+          "price": "$48.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51TPZTXvtWL.jpg",
+          "url": "https://www.amazon.com/dp/B0CHMBPH7P?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1b85ec5e62fad6764913fdd1722475f9&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B07QQ46VP3",
@@ -195,61 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71I1kb2hSlL.jpg",
           "url": "https://www.amazon.com/dp/B07GV36BLD?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6131379e3895d2c5b36a53addd5ff728&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BZ1796Z4",
-          "slug": "fresh-kicks-foul-ballz-shoe-deodorizer-balls-6-pack-eliminat",
-          "title": "\udecd️Fresh Kicks Foul Ballz Shoe Deodorizer Balls – 6 Pack – Eliminate Smelly Shoes Fast – Strong Sneaker Odor Fighter – Lo",
-          "price": "$11.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/818t+uTfkNL.jpg",
-          "url": "https://www.amazon.com/dp/B0BZ1796Z4?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0e8cfb6c923e5907a926fabecc519453&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DGT91W8Z",
-          "slug": "cheese-grater-with-container-box-grater-stainless-steel-kitc",
-          "title": "Cheese Grater With Container Box Grater Stainless Steel Kitchen Blue | Dishwasher Safe 4 Sided Vegetable Shredder Zester",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61s+fuPEcPL.jpg",
-          "url": "https://www.amazon.com/dp/B0DGT91W8Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=879aebaa74c64dededfc426915695670&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0B68796LZ",
-          "slug": "tikfoam-rv-ac-filter-14-x-75-rv-air-conditioner-filters-rv-a",
-          "title": "\udecd️Tikfoam RV AC Filter, 14 X 7.5 RV Air Conditioner Filters, RV Air Filters 3313107.103, 3105012.003, 4 Filters AC Filte",
-          "price": "$28.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81qOLr7Dr1L.jpg",
-          "url": "https://www.amazon.com/dp/B0B68796LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=e44ec0029b80997716d40eb983644fa3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BS1QCFHX",
-          "slug": "sony-wh-ch720n-wireless-noise-cancelling-over-ear-headphones",
-          "title": "\udecd️Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones, Black | Comfortable Lightweight Design, Dual Noise Senso",
-          "price": "$86.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51rpbVmi9XL.jpg",
-          "url": "https://www.amazon.com/dp/B0BS1QCFHX?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=71fb6ba41cba228b2759cb40140c9c31&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B084T9BH59",
-          "slug": "sicania-premium-pistachio-cream-705-oz-200g-authentic-italia",
-          "title": "\udecd️SICANIA - Premium Pistachio Cream, 7.05 oz (200g) - Authentic Italian, Gluten-Free, Non-GMO - Gourmet Spread for Desse",
-          "price": "$14.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81zx5Sc1P2L.jpg",
-          "url": "https://www.amazon.com/dp/B084T9BH59?lv=shuf&ascsubtag=srctok-7f5a564ddca56db7&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-7f5a564ddca56db7&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cdbaf4b459beca81026c7490d8b42f26&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-12T20:00:02.603Z",
-      "updatedAt": "2026-08-12T20:00:02.603Z"
+      "generatedAt": "2026-08-12T20:10:03.264Z",
+      "updatedAt": "2026-08-12T20:10:03.264Z"
     },
     {
       "date": "2026-08-11",
@@ -16357,5 +16357,5 @@
       "updatedAt": "2026-06-13T03:50:01.301Z"
     }
   ],
-  "generatedAt": "2026-08-12T20:00:02.615Z"
+  "generatedAt": "2026-08-12T20:10:03.280Z"
 }
