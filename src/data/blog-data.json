@@ -9,7 +9,8 @@
         "Beauty",
         "Other",
         "Home & Kitchen",
-        "Electronics"
+        "Electronics",
+        "Sports & Fitness"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -23,17 +24,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71PoeWY5AUL.jpg",
             "url": "https://www.amazon.com/dp/B0GHYYF7J7?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B0C8TF4VK8",
-            "slug": "idoo-queen-air-mattress-with-built-in-pump-18-raised-blow-up",
-            "title": "\udecd️iDOO Queen Air Mattress with Built in Pump, 18\" Raised Blow up Bed | Inflatable Mattress, Inflates in 3 Min, Advanced ",
-            "price": "$69.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PHuUqYKeL.jpg",
-            "url": "https://www.amazon.com/dp/B0C8TF4VK8?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8bcd24a4d047937f96c0bd3686300cc3&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -128,6 +118,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51XMd-O-SzL.jpg",
             "url": "https://www.amazon.com/dp/B0D1CBDFP3?tag=noya0b-20"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B009PKKCL8",
+            "slug": "columbia-mens-pfg-tamiami-ii-short-sleeve-fishing-shirt",
+            "title": "\udecd️Columbia Men's PFG Tamiami II Short Sleeve Fishing Shirt",
+            "price": "$37.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/81HhYhHw3xL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B009PKKCL8?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=87de5b215c7dbc20d210d2e64655d778&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -232,15 +235,15 @@
           "url": "https://www.amazon.com/dp/B0D1CBDFP3?tag=noya0b-20"
         },
         {
-          "asin": "B0C8TF4VK8",
-          "slug": "idoo-queen-air-mattress-with-built-in-pump-18-raised-blow-up",
-          "title": "\udecd️iDOO Queen Air Mattress with Built in Pump, 18\" Raised Blow up Bed | Inflatable Mattress, Inflates in 3 Min, Advanced ",
-          "price": "$69.99",
+          "asin": "B009PKKCL8",
+          "slug": "columbia-mens-pfg-tamiami-ii-short-sleeve-fishing-shirt",
+          "title": "\udecd️Columbia Men's PFG Tamiami II Short Sleeve Fishing Shirt",
+          "price": "$37.50",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61PHuUqYKeL.jpg",
-          "url": "https://www.amazon.com/dp/B0C8TF4VK8?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8bcd24a4d047937f96c0bd3686300cc3&language=en_US&gaOptInStatus=true"
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/81HhYhHw3xL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B009PKKCL8?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=87de5b215c7dbc20d210d2e64655d778&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-12T03:10:00.955Z",
-      "updatedAt": "2026-08-12T03:10:00.955Z"
+      "generatedAt": "2026-08-12T03:20:00.611Z",
+      "updatedAt": "2026-08-12T03:20:00.611Z"
     },
     {
       "date": "2026-08-10",
@@ -16348,5 +16351,5 @@
       "updatedAt": "2026-06-12T03:50:01.966Z"
     }
   ],
-  "generatedAt": "2026-08-12T03:10:00.966Z"
+  "generatedAt": "2026-08-12T03:20:00.623Z"
 }
