@@ -8,7 +8,9 @@
       "categories": [
         "Other",
         "Grocery & Food",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Beauty",
+        "Electronics"
       ],
       "byCategory": {
         "Grocery & Food": [
@@ -33,20 +35,70 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81X5aKlu-UL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B0FWK2HCGY?lv=shuf&ascsubtag=srctok-5dff610f73ef6580&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-5dff610f73ef6580&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b436d3c91de7df0e962ae39dfa866b3b&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0DQ8ZJQQH",
-            "slug": "linen-decorative-books-for-home-with-wood-beaded-tassel-4-pi",
-            "title": "\udecd️Linen Decorative Books for Home with Wood Beaded Tassel, 4-Piece Sage Set | Coffee Table Books, Neutral Linen Decor, R",
-            "price": "$35.99",
+            "asin": "B0DGT91W8Z",
+            "slug": "cheese-grater-with-container-box-grater-stainless-steel-kitc",
+            "title": "Cheese Grater With Container Box Grater Stainless Steel Kitchen Blue | Dishwasher Safe 4 Sided Vegetable Shredder Zester",
+            "price": "$2",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71zN8S+ba1L.jpg",
-            "url": "https://www.amazon.com/dp/B0DQ8ZJQQH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ffc9eab58544e635fd65191c1e375bf5&language=en_US&gaOptInStatus=true"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61s+fuPEcPL.jpg",
+            "url": "https://www.amazon.com/dp/B0DGT91W8Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=879aebaa74c64dededfc426915695670&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0B68796LZ",
+            "slug": "tikfoam-rv-ac-filter-14-x-75-rv-air-conditioner-filters-rv-a",
+            "title": "\udecd️Tikfoam RV AC Filter, 14 X 7.5 RV Air Conditioner Filters, RV Air Filters 3313107.103, 3105012.003, 4 Filters AC Filte",
+            "price": "$28.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81qOLr7Dr1L.jpg",
+            "url": "https://www.amazon.com/dp/B0B68796LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=e44ec0029b80997716d40eb983644fa3&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0BS1QCFHX",
+            "slug": "sony-wh-ch720n-wireless-noise-cancelling-over-ear-headphones",
+            "title": "\udecd️Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones, Black | Comfortable Lightweight Design, Dual Noise Senso",
+            "price": "$86.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51rpbVmi9XL.jpg",
+            "url": "https://www.amazon.com/dp/B0BS1QCFHX?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=71fb6ba41cba228b2759cb40140c9c31&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
+          {
+            "asin": "B084T9BH59",
+            "slug": "sicania-premium-pistachio-cream-705-oz-200g-authentic-italia",
+            "title": "\udecd️SICANIA - Premium Pistachio Cream, 7.05 oz (200g) - Authentic Italian, Gluten-Free, Non-GMO - Gourmet Spread for Desse",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81zx5Sc1P2L.jpg",
+            "url": "https://www.amazon.com/dp/B084T9BH59?lv=shuf&ascsubtag=srctok-7f5a564ddca56db7&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-7f5a564ddca56db7&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cdbaf4b459beca81026c7490d8b42f26&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07S6LGQC9",
+            "slug": "onforu-75w-flood-lights-outdoor-7000lm-brightness-security-l",
+            "title": "\udecd️Onforu 75W Flood Lights Outdoor, 7000LM Brightness Security Lights Switch Controlled, 3 Adjustable Heads, IP65 Waterpr",
+            "price": "$26.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/614LwsX3u+L.jpg",
+            "url": "https://www.amazon.com/dp/B07S6LGQC9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1aa8817b68622380eb69d856a2816c26&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0DY4BG36W",
             "slug": "simflag-7ft-bean-bag-chair-large-bean-bag-chairs-with-memory",
@@ -79,52 +131,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51vH8kFZ8PL.jpg",
             "url": "https://www.amazon.com/dp/B088GQMX45?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0e8ec7933f60f73eaac6754f5532c686&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07T72QG3K",
-            "slug": "perlesmith-universal-tv-stand-legs-for-37-78-inch-tvs-to-99l",
-            "title": "\udecd️PERLESMITH Universal TV Stand Legs for 37-78 inch TVs to 99lbs with Mount | -/+30° swivel, 9 Height adjustable, Temper",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cq3RvxL1L.jpg",
-            "url": "https://www.amazon.com/dp/B07T72QG3K?lv=shuf&ascsubtag=srctok-4e2b10f23b0142d5&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-4e2b10f23b0142d5&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b2fdf1eeaaa0130c72c7bde66c82ad4a&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GVMQM74J",
-            "slug": "vikio-home-42-inch-range-hood900-cfm-powerful-vent-hoodunder",
-            "title": "\udecd️VIKIO HOME 42 inch Range Hood,900 CFM Powerful Vent Hood,Under Cabinet Range Hood with 1.5 Sones Quiet, Stainless Stee",
-            "price": "$500.01",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51qe-kC30tL.jpg",
-            "url": "https://www.amazon.com/dp/B0GVMQM74J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=dae48ea227eedd8250a32501b64dd8de&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0F49YH6V5",
-            "slug": "paris-hilton-hand-blender-set-3-in-1-immersion-blender-with",
-            "title": "\udecd️Paris Hilton Hand Blender Set, 3-in-1 Immersion Blender with Whisk, Blending & Chopper Attachments, 400W High Speed, P",
-            "price": "$42.75",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oQtAckY0L.jpg",
-            "url": "https://www.amazon.com/dp/B0F49YH6V5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0a57a5d433328ee664bd26ab9060a59d&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CN9QRPKD",
-            "slug": "iris-instant-white-rice-10pk-japanese-short-grain-vegan-micr",
-            "title": "\udecd️IRIS Instant White Rice, 10PK, Japanese Short Grain Vegan, Microwave 80 sec | Non-GMO, Gluten Free, Vegan, Ultra Premi",
-            "price": "$13.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81zsHM0pu6L.jpg",
-            "url": "https://www.amazon.com/dp/B0CN9QRPKD?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a19acb1e0051414286021b500bb14866&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -139,6 +145,61 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B09Q4GWMZQ?linkCode=sl2&tag=noya0b-20&linkId=b58ed4168a4ec8d3875a74ac37635c2a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DGT91W8Z",
+          "slug": "cheese-grater-with-container-box-grater-stainless-steel-kitc",
+          "title": "Cheese Grater With Container Box Grater Stainless Steel Kitchen Blue | Dishwasher Safe 4 Sided Vegetable Shredder Zester",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61s+fuPEcPL.jpg",
+          "url": "https://www.amazon.com/dp/B0DGT91W8Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=879aebaa74c64dededfc426915695670&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0B68796LZ",
+          "slug": "tikfoam-rv-ac-filter-14-x-75-rv-air-conditioner-filters-rv-a",
+          "title": "\udecd️Tikfoam RV AC Filter, 14 X 7.5 RV Air Conditioner Filters, RV Air Filters 3313107.103, 3105012.003, 4 Filters AC Filte",
+          "price": "$28.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81qOLr7Dr1L.jpg",
+          "url": "https://www.amazon.com/dp/B0B68796LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=e44ec0029b80997716d40eb983644fa3&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BS1QCFHX",
+          "slug": "sony-wh-ch720n-wireless-noise-cancelling-over-ear-headphones",
+          "title": "\udecd️Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones, Black | Comfortable Lightweight Design, Dual Noise Senso",
+          "price": "$86.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51rpbVmi9XL.jpg",
+          "url": "https://www.amazon.com/dp/B0BS1QCFHX?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=71fb6ba41cba228b2759cb40140c9c31&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B084T9BH59",
+          "slug": "sicania-premium-pistachio-cream-705-oz-200g-authentic-italia",
+          "title": "\udecd️SICANIA - Premium Pistachio Cream, 7.05 oz (200g) - Authentic Italian, Gluten-Free, Non-GMO - Gourmet Spread for Desse",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81zx5Sc1P2L.jpg",
+          "url": "https://www.amazon.com/dp/B084T9BH59?lv=shuf&ascsubtag=srctok-7f5a564ddca56db7&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-7f5a564ddca56db7&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=cdbaf4b459beca81026c7490d8b42f26&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07S6LGQC9",
+          "slug": "onforu-75w-flood-lights-outdoor-7000lm-brightness-security-l",
+          "title": "\udecd️Onforu 75W Flood Lights Outdoor, 7000LM Brightness Security Lights Switch Controlled, 3 Adjustable Heads, IP65 Waterpr",
+          "price": "$26.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/614LwsX3u+L.jpg",
+          "url": "https://www.amazon.com/dp/B07S6LGQC9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=1aa8817b68622380eb69d856a2816c26&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0DY4BG36W",
@@ -183,61 +244,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81X5aKlu-UL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
           "url": "https://www.amazon.com/dp/B0FWK2HCGY?lv=shuf&ascsubtag=srctok-5dff610f73ef6580&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-5dff610f73ef6580&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b436d3c91de7df0e962ae39dfa866b3b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DQ8ZJQQH",
-          "slug": "linen-decorative-books-for-home-with-wood-beaded-tassel-4-pi",
-          "title": "\udecd️Linen Decorative Books for Home with Wood Beaded Tassel, 4-Piece Sage Set | Coffee Table Books, Neutral Linen Decor, R",
-          "price": "$35.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71zN8S+ba1L.jpg",
-          "url": "https://www.amazon.com/dp/B0DQ8ZJQQH?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ffc9eab58544e635fd65191c1e375bf5&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F49YH6V5",
-          "slug": "paris-hilton-hand-blender-set-3-in-1-immersion-blender-with",
-          "title": "\udecd️Paris Hilton Hand Blender Set, 3-in-1 Immersion Blender with Whisk, Blending & Chopper Attachments, 400W High Speed, P",
-          "price": "$42.75",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61oQtAckY0L.jpg",
-          "url": "https://www.amazon.com/dp/B0F49YH6V5?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0a57a5d433328ee664bd26ab9060a59d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07T72QG3K",
-          "slug": "perlesmith-universal-tv-stand-legs-for-37-78-inch-tvs-to-99l",
-          "title": "\udecd️PERLESMITH Universal TV Stand Legs for 37-78 inch TVs to 99lbs with Mount | -/+30° swivel, 9 Height adjustable, Temper",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cq3RvxL1L.jpg",
-          "url": "https://www.amazon.com/dp/B07T72QG3K?lv=shuf&ascsubtag=srctok-4e2b10f23b0142d5&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-4e2b10f23b0142d5&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=b2fdf1eeaaa0130c72c7bde66c82ad4a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CN9QRPKD",
-          "slug": "iris-instant-white-rice-10pk-japanese-short-grain-vegan-micr",
-          "title": "\udecd️IRIS Instant White Rice, 10PK, Japanese Short Grain Vegan, Microwave 80 sec | Non-GMO, Gluten Free, Vegan, Ultra Premi",
-          "price": "$13.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81zsHM0pu6L.jpg",
-          "url": "https://www.amazon.com/dp/B0CN9QRPKD?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=a19acb1e0051414286021b500bb14866&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GVMQM74J",
-          "slug": "vikio-home-42-inch-range-hood900-cfm-powerful-vent-hoodunder",
-          "title": "\udecd️VIKIO HOME 42 inch Range Hood,900 CFM Powerful Vent Hood,Under Cabinet Range Hood with 1.5 Sones Quiet, Stainless Stee",
-          "price": "$500.01",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51qe-kC30tL.jpg",
-          "url": "https://www.amazon.com/dp/B0GVMQM74J?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=dae48ea227eedd8250a32501b64dd8de&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -262,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-12T19:40:02.797Z",
-      "updatedAt": "2026-08-12T19:40:02.797Z"
+      "generatedAt": "2026-08-12T19:50:02.152Z",
+      "updatedAt": "2026-08-12T19:50:02.152Z"
     },
     {
       "date": "2026-08-11",
@@ -16345,5 +16351,5 @@
       "updatedAt": "2026-06-13T03:50:01.301Z"
     }
   ],
-  "generatedAt": "2026-08-12T19:40:02.812Z"
+  "generatedAt": "2026-08-12T19:50:02.165Z"
 }
