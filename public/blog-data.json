@@ -9,9 +9,9 @@
         "Other",
         "Grocery & Food",
         "Beauty",
-        "Home & Kitchen",
-        "Pet Supplies",
-        "Electronics"
+        "Garden & Outdoor",
+        "Fashion",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Beauty": [
@@ -27,6 +27,19 @@
             "url": "https://www.amazon.com/dp/B0GHBSSQ7Y?th=1&tag=noya0b-20"
           }
         ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0DN5K7H56",
+            "slug": "gardmax-2-pack-galvanized-raised-garden-bed-lightweight-plan",
+            "title": "Gardmax 2 Pack Galvanized Raised Garden Bed, Lightweight Planter Boxes Outdoor with Easy Assembly, Large Garden Bed for ",
+            "price": "$19",
+            "discount": 46,
+            "rating": "HOT",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/71IcXHu2UhL.jpg",
+            "url": "https://www.amazon.com/dp/B0DN5K7H56?th=1&tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0DNW1QBMQ",
@@ -40,6 +53,17 @@
             "url": "https://www.amazon.com/dp/B0DNW1QBMQ?th=1&tag=noya0b-20"
           },
           {
+            "asin": "B08QDKV99N",
+            "slug": "majestic-pure-himalayan-pink-salt-body-scrub-smoothing-buff",
+            "title": "Majestic Pure Himalayan Pink Salt Body Scrub, Smoothing Buff, 10 Oz | Sloughs off dry, flaky skin to reveal a fresh glow",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/8165gfE7LiL.jpg",
+            "url": "https://www.amazon.com/dp/B08QDKV99N?th=1&tag=noya0b-20"
+          },
+          {
             "asin": "B0GB3J8NN9",
             "slug": "lol-surprise-loves-spongebob-squarepants-tots-on-the-go-play",
             "title": "\udecd️LOL Surprise Loves Spongebob Squarepants Tots – On-the-Go Play, 7 Total Surprises – Collect All 6!",
@@ -49,31 +73,20 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61PCMcPTLmL.jpg",
             "url": "https://www.amazon.com/dp/B0GB3J8NN9?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0bb8cfc8be14238662ccc4372a0d3b76&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GJSTDN5L",
-            "slug": "kids-sand-and-water-table-2-in-1-toddler-activity-table-with",
-            "title": "Kids Sand and Water Table, 2 in 1 Toddler Activity Table with Water Wheel & Sand Tools, Outdoor Indoor Sensory Play Sand",
-            "price": "$21",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Qg7rTKlLL.jpg",
-            "url": "https://www.amazon.com/dp/B0GJSTDN5L?lv=shuf&aa_adgroupid=lv_wFM4rYdXZMKg8cK4xP&gaOptInStatus=true&maas=maas_adg_api_590730872995573670_static_9_129&aa_campaignid=lv_t1Dptf7aYl5b0JnaMz&m=A33UVR4OP7TEWD&aa_creativeid=lv_92gHayPQVJ3P5HJdeE&channelId=1&plpRedirect=mhFallback&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=e99058f1edee82fbbe68716eae7dfb93&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0F9FLMR4W",
-            "slug": "medicube-power-soothing-spray-with-hypochlorous-acid-422-flo",
-            "title": "\udecd️medicube Power Soothing Spray with Hypochlorous Acid, 4.22 fl.oz | HOCI Facial Mist for Soothing & Calming - All Skin ",
-            "price": "$19.80",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61CLNQNx1iL.jpg",
-            "url": "https://www.amazon.com/dp/B0F9FLMR4W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0597f246040f78db35ead94b886389ef&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
+          {
+            "asin": "B0H17Z2QS7",
+            "slug": "garvee-4-piece-patio-bistro-furniture-set-outdoor-conversati",
+            "title": "Garvee 4 Piece Patio Bistro Furniture Set, Outdoor Conversation Set with 3 Chairs, Loveseat & Glass Coffee Table, All-We",
+            "price": "$89",
+            "discount": 31,
+            "rating": "HOT",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71qtwtmAiwL.jpg",
+            "url": "https://www.amazon.com/dp/B0H17Z2QS7?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B09Q4GWMZQ",
             "slug": "lego-botanicals-succulents-10309-back-to-school-gift-for-stu",
@@ -97,43 +110,30 @@
             "url": "https://www.amazon.com/dp/B00094H4LU?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=da099d9422232e8dc0f4150e0e80a7aa&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B06XPX8PYS",
+            "slug": "running-vest-hydration-pack-backpack-for-men-women-lightweig",
+            "title": "\udecd️Running Vest Hydration Pack Backpack for Men & Women, Lightweight Trail Marathon Run Race Vest for Cycling Jogging",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VhaATF9dL.jpg",
+            "url": "https://www.amazon.com/dp/B06XPX8PYS?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=195c2e4471bfcb41fca47a4f267ab3a2&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
-            "asin": "B0D8LXRHQ8",
-            "slug": "keurig-k-duo-hot-iced-single-serve-carafe-coffee-maker-multi",
-            "title": "\udecd️Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2) | MultiStre",
-            "price": "$149.99",
+            "asin": "B09KR74FK7",
+            "slug": "blanket-ladder-black-towel-ladder-for-bathroom-metal-blanket",
+            "title": "\udecd️Blanket Ladder Black Towel Ladder for Bathroom Metal Blanket Rack for Living Room",
+            "price": "$17.03",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/717849a6v+L.jpg",
-            "url": "https://www.amazon.com/dp/B0D8LXRHQ8?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6b14bf0936082e2df66b6f3ed5ab506d&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B01LWW5R5Z",
-            "slug": "pet-n-shape-sweet-potato-chews-natural-chicken-wrapped-sweet",
-            "title": "\udecd️Pet 'n Shape Sweet Potato Chews – Natural Chicken Wrapped Sweet Potato Dog Treats - 42 Ounce | Premium chicken breast,",
-            "price": "$19.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81f0z5lwYAL.jpg",
-            "url": "https://www.amazon.com/dp/B01LWW5R5Z?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5863660093c9336949cc0ce119e700d7&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BVLPGS79",
-            "slug": "ef-ecoflow-portable-power-station-river-2-pro-768wh-800w-70",
-            "title": "\udecd️EF ECOFLOW Portable Power Station RIVER 2 Pro, 768Wh 800W | 70 Min Fast Charging, LiFePO4 Battery,4 AC Outlets, X-Boos",
-            "price": "$389.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0BVLPGS79?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b6d020bafb39f6531b110c123b14dd31&language=en_US&gaOptInStatus=true"
+            "imageUrl": "https://m.media-amazon.com/images/I/51f-0Y2QgGL.jpg",
+            "url": "https://www.amazon.com/dp/B09KR74FK7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=64a55dc5ba9d8583399903a5bdb41485&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -150,6 +150,17 @@
           "url": "https://www.amazon.com/dp/B0GHBSSQ7Y?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0DN5K7H56",
+          "slug": "gardmax-2-pack-galvanized-raised-garden-bed-lightweight-plan",
+          "title": "Gardmax 2 Pack Galvanized Raised Garden Bed, Lightweight Planter Boxes Outdoor with Easy Assembly, Large Garden Bed for ",
+          "price": "$19",
+          "discount": 46,
+          "rating": "HOT",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/71IcXHu2UhL.jpg",
+          "url": "https://www.amazon.com/dp/B0DN5K7H56?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DNW1QBMQ",
           "slug": "prunepro-82-pruning-shears-ultra-sharp-lightweight-bypass-pl",
           "title": "PrunePro® 8.2\" Pruning Shears Ultra Sharp Lightweight Bypass Plant Clippers | German Stainless Steel Adjustable Handle W",
@@ -161,6 +172,17 @@
           "url": "https://www.amazon.com/dp/B0DNW1QBMQ?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0H17Z2QS7",
+          "slug": "garvee-4-piece-patio-bistro-furniture-set-outdoor-conversati",
+          "title": "Garvee 4 Piece Patio Bistro Furniture Set, Outdoor Conversation Set with 3 Chairs, Loveseat & Glass Coffee Table, All-We",
+          "price": "$89",
+          "discount": 31,
+          "rating": "HOT",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71qtwtmAiwL.jpg",
+          "url": "https://www.amazon.com/dp/B0H17Z2QS7?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B09Q4GWMZQ",
           "slug": "lego-botanicals-succulents-10309-back-to-school-gift-for-stu",
           "title": "LEGO Botanicals Succulents 10309 | Back to School Gift for Students & Teachers, Building Set for Adults, Ages 18+, 771 P",
@@ -170,6 +192,39 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B09Q4GWMZQ?linkCode=sl2&tag=noya0b-20&linkId=b58ed4168a4ec8d3875a74ac37635c2a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B06XPX8PYS",
+          "slug": "running-vest-hydration-pack-backpack-for-men-women-lightweig",
+          "title": "\udecd️Running Vest Hydration Pack Backpack for Men & Women, Lightweight Trail Marathon Run Race Vest for Cycling Jogging",
+          "price": "$24.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VhaATF9dL.jpg",
+          "url": "https://www.amazon.com/dp/B06XPX8PYS?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=195c2e4471bfcb41fca47a4f267ab3a2&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09KR74FK7",
+          "slug": "blanket-ladder-black-towel-ladder-for-bathroom-metal-blanket",
+          "title": "\udecd️Blanket Ladder Black Towel Ladder for Bathroom Metal Blanket Rack for Living Room",
+          "price": "$17.03",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/51f-0Y2QgGL.jpg",
+          "url": "https://www.amazon.com/dp/B09KR74FK7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=64a55dc5ba9d8583399903a5bdb41485&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08QDKV99N",
+          "slug": "majestic-pure-himalayan-pink-salt-body-scrub-smoothing-buff",
+          "title": "Majestic Pure Himalayan Pink Salt Body Scrub, Smoothing Buff, 10 Oz | Sloughs off dry, flaky skin to reveal a fresh glow",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/8165gfE7LiL.jpg",
+          "url": "https://www.amazon.com/dp/B08QDKV99N?th=1&tag=noya0b-20"
         },
         {
           "asin": "B00094H4LU",
@@ -192,61 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61PCMcPTLmL.jpg",
           "url": "https://www.amazon.com/dp/B0GB3J8NN9?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=0bb8cfc8be14238662ccc4372a0d3b76&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D8LXRHQ8",
-          "slug": "keurig-k-duo-hot-iced-single-serve-carafe-coffee-maker-multi",
-          "title": "\udecd️Keurig K-Duo Hot & Iced Single Serve & Carafe Coffee Maker, MultiStream Technology, 72oz Reservoir (Gen 2) | MultiStre",
-          "price": "$149.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/717849a6v+L.jpg",
-          "url": "https://www.amazon.com/dp/B0D8LXRHQ8?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=6b14bf0936082e2df66b6f3ed5ab506d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GJSTDN5L",
-          "slug": "kids-sand-and-water-table-2-in-1-toddler-activity-table-with",
-          "title": "Kids Sand and Water Table, 2 in 1 Toddler Activity Table with Water Wheel & Sand Tools, Outdoor Indoor Sensory Play Sand",
-          "price": "$21",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Qg7rTKlLL.jpg",
-          "url": "https://www.amazon.com/dp/B0GJSTDN5L?lv=shuf&aa_adgroupid=lv_wFM4rYdXZMKg8cK4xP&gaOptInStatus=true&maas=maas_adg_api_590730872995573670_static_9_129&aa_campaignid=lv_t1Dptf7aYl5b0JnaMz&m=A33UVR4OP7TEWD&aa_creativeid=lv_92gHayPQVJ3P5HJdeE&channelId=1&plpRedirect=mhFallback&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=e99058f1edee82fbbe68716eae7dfb93&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01LWW5R5Z",
-          "slug": "pet-n-shape-sweet-potato-chews-natural-chicken-wrapped-sweet",
-          "title": "\udecd️Pet 'n Shape Sweet Potato Chews – Natural Chicken Wrapped Sweet Potato Dog Treats - 42 Ounce | Premium chicken breast,",
-          "price": "$19.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81f0z5lwYAL.jpg",
-          "url": "https://www.amazon.com/dp/B01LWW5R5Z?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5863660093c9336949cc0ce119e700d7&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BVLPGS79",
-          "slug": "ef-ecoflow-portable-power-station-river-2-pro-768wh-800w-70",
-          "title": "\udecd️EF ECOFLOW Portable Power Station RIVER 2 Pro, 768Wh 800W | 70 Min Fast Charging, LiFePO4 Battery,4 AC Outlets, X-Boos",
-          "price": "$389.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0BVLPGS79?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=b6d020bafb39f6531b110c123b14dd31&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F9FLMR4W",
-          "slug": "medicube-power-soothing-spray-with-hypochlorous-acid-422-flo",
-          "title": "\udecd️medicube Power Soothing Spray with Hypochlorous Acid, 4.22 fl.oz | HOCI Facial Mist for Soothing & Calming - All Skin ",
-          "price": "$19.80",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61CLNQNx1iL.jpg",
-          "url": "https://www.amazon.com/dp/B0F9FLMR4W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0597f246040f78db35ead94b886389ef&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -256,7 +256,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 50% off on \"e.l.f. SKIN Blemish Breakthrough Clarifying Cleanser,Gel Cle...\". There are 3 deals with verified discounts today."
+          "a": "The biggest discount today is 50% off on \"e.l.f. SKIN Blemish Breakthrough Clarifying Cleanser,Gel Cle...\". There are 5 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-12T23:30:02.065Z",
-      "updatedAt": "2026-08-12T23:30:02.065Z"
+      "generatedAt": "2026-08-12T23:40:01.901Z",
+      "updatedAt": "2026-08-12T23:40:01.901Z"
     },
     {
       "date": "2026-08-11",
@@ -16354,5 +16354,5 @@
       "updatedAt": "2026-06-13T03:50:01.301Z"
     }
   ],
-  "generatedAt": "2026-08-12T23:30:02.078Z"
+  "generatedAt": "2026-08-12T23:40:01.913Z"
 }
