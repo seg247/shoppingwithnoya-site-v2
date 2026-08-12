@@ -10,6 +10,8 @@
         "Electronics",
         "Home & Kitchen",
         "Grocery & Food",
+        "Sports & Fitness",
+        "Beauty",
         "Fashion"
       ],
       "byCategory": {
@@ -26,6 +28,80 @@
             "url": "https://www.amazon.com/dp/B09Q4GWMZQ?linkCode=sl2&tag=noya0b-20&linkId=b58ed4168a4ec8d3875a74ac37635c2a&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Other": [
+          {
+            "asin": "B07YBF3C13",
+            "slug": "snuggle-superfresh-dryer-sheets-200-count-spring-burst-long",
+            "title": "\udecd️Snuggle SuperFresh Dryer Sheets, 200 Count, Spring Burst | Long-Lasting Fresh Clean Scent, Odor-Eliminating formula, S",
+            "price": "$8.47",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81xLSd4D6pL.jpg",
+            "url": "https://www.amazon.com/dp/B07YBF3C13?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=36ac1d7a308b352160cc46dba5cb230b&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BMM9F9MH",
+            "slug": "breathe-right-nasal-strips-smmed-snoring-nasal-congestion-cl",
+            "title": "\udecd️Breathe Right Nasal Strips, Sm/Med, Snoring, Nasal Congestion, Clear, 30 ct | Opens nose and increases nasal airflow, ",
+            "price": "$15.88",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/714KELOdiUL.jpg",
+            "url": "https://www.amazon.com/dp/B0BMM9F9MH?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=997bb95b9a5d85ced7965f1fd74a193a&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B07RHZ6782",
+            "slug": "olympic-barbell-clamps-collars-quick-release-pair-of-locking",
+            "title": "\udecd️Olympic Barbell Clamps Collars Quick Release Pair of Locking Weight Clips Fit 2 Inch Barbell for Weightlifting",
+            "price": "$14.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/71jWCk4313L.jpg",
+            "url": "https://www.amazon.com/dp/B07RHZ6782?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3b6500319b654131e245ebcd7c47fb04&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FH97NCTC",
+            "slug": "skintific-brightening-serum-toner-with-377-pro-scattering-te",
+            "title": "SKINTIFIC Brightening Serum Toner with 377 Pro Scattering Technology | Hydrating, Lightens Dark Spots, Evens Skin Tone –",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61iSK9TfX4L.jpg",
+            "url": "https://www.amazon.com/dp/B0FH97NCTC?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GFN9CJ2R",
+            "slug": "6-in-1-retractable-car-charger-100w-usb-c-usb-a-fast-chargin",
+            "title": "\udecd️6 in 1 Retractable Car Charger, 100W USB C + USB A Fast Charging for iPhone 17/16/15/14/13/12/11, iWatch, Android, Tra",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61azucgARHL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFN9CJ2R?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5f0c8c0b24593bc778a2e465aacb847f&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0G2BF2ZJS",
+            "slug": "yojaro-360-rotating-stainless-steel-phone-tether-tab-3-pack",
+            "title": "\udecd️Yojaro 360° Rotating Stainless Steel Phone Tether Tab (3-Pack) - Universal for iPhone & Other Phones (Fits Wristbands/",
+            "price": "$6.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oEp1RJKpL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G2BF2ZJS?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=275abefc23800e76dff5c230e015f74b&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0GKFT3T2Q",
@@ -37,41 +113,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71yFFQeDg2L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GKFT3T2Q?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=eef0d7dcddbf4a26cc9b7f4e29621584&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0BMM9F9MH",
-            "slug": "breathe-right-nasal-strips-smmed-snoring-nasal-congestion-cl",
-            "title": "\udecd️Breathe Right Nasal Strips, Sm/Med, Snoring, Nasal Congestion, Clear, 30 ct | Opens nose and increases nasal airflow, ",
-            "price": "$15.88",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/714KELOdiUL.jpg",
-            "url": "https://www.amazon.com/dp/B0BMM9F9MH?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=997bb95b9a5d85ced7965f1fd74a193a&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B000QSLAAA",
-            "slug": "oregon-chai-slightly-sweet-chai-concentrate-32-fl-oz",
-            "title": "\udecd️Oregon Chai Slightly Sweet Chai Concentrate, 32 fl oz",
-            "price": "$5.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71epkyt4I7L.jpg",
-            "url": "https://www.amazon.com/dp/B000QSLAAA?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=165d85bff296b0f57de233e13c50a9c8&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09TZY6N88",
-            "slug": "12pack-filters-replacement-for-irobot-roomba-e-i-j-series-co",
-            "title": "\udecd️12Pack Filters Replacement for iRobot Roomba E I & J Series Combo E5 E6 E7 i3 i3+ i4 i4+ i5 i5+ i6 i6+ i7 i7+ i8 i8+ J",
-            "price": "$12.34",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-3R248lxL.jpg",
-            "url": "https://www.amazon.com/dp/B09TZY6N88?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5a72fe6151679d8f0526d0b2a8ead855&language=en_US&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -97,41 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81PatROwi4L.jpg",
             "url": "https://www.amazon.com/dp/B0FDRB778Y?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7e263a183016dd5c661475f66f4a0fdc&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BZTTPW1W",
-            "slug": "magsafe-charger-2-pack-magnetic-wireless-charge-iphone-17-12",
-            "title": "\udecd️MagSafe Charger 2 Pack: Magnetic Wireless Charge iPhone 17-12 & AirPods | Strong Magnet Charging Pad, with Dual USB C ",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0BZTTPW1W?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5ff9343ea74c3b6e26333b0f7f2c7704&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CKYZ7MWK",
-            "slug": "iphone-charger-3-pack-10ft-mfi-lightning-cable-grey-white-mf",
-            "title": "\udecd️iPhone Charger 3 Pack 10FT MFi Lightning Cable (Grey White) | MFi Certified Fast Charging & High-Speed Data Sync, Comp",
-            "price": "$7.96",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81V1gkAFiiL.jpg",
-            "url": "https://www.amazon.com/dp/B0CKYZ7MWK?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6797a889e6e3e8ef7a68305b85b8d6d9&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B084CZMYNM",
-            "slug": "tp-link-av1000-powerline-ethernet-adapter-kit-gigabit-port-n",
-            "title": "\udecd️TP-Link AV1000 Powerline Ethernet Adapter KIT - Gigabit Port, Nano Size | Plug Pair &Play, Ethernet Over Power, Power ",
-            "price": "$44.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51LBPwtZtRL.jpg",
-            "url": "https://www.amazon.com/dp/B084CZMYNM?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=37e3ff5d753c96b77d583b1feda49607&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -145,6 +151,61 @@
           "category": "Grocery & Food",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B09Q4GWMZQ?linkCode=sl2&tag=noya0b-20&linkId=b58ed4168a4ec8d3875a74ac37635c2a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07YBF3C13",
+          "slug": "snuggle-superfresh-dryer-sheets-200-count-spring-burst-long",
+          "title": "\udecd️Snuggle SuperFresh Dryer Sheets, 200 Count, Spring Burst | Long-Lasting Fresh Clean Scent, Odor-Eliminating formula, S",
+          "price": "$8.47",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81xLSd4D6pL.jpg",
+          "url": "https://www.amazon.com/dp/B07YBF3C13?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=36ac1d7a308b352160cc46dba5cb230b&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07RHZ6782",
+          "slug": "olympic-barbell-clamps-collars-quick-release-pair-of-locking",
+          "title": "\udecd️Olympic Barbell Clamps Collars Quick Release Pair of Locking Weight Clips Fit 2 Inch Barbell for Weightlifting",
+          "price": "$14.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/71jWCk4313L.jpg",
+          "url": "https://www.amazon.com/dp/B07RHZ6782?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=3b6500319b654131e245ebcd7c47fb04&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FH97NCTC",
+          "slug": "skintific-brightening-serum-toner-with-377-pro-scattering-te",
+          "title": "SKINTIFIC Brightening Serum Toner with 377 Pro Scattering Technology | Hydrating, Lightens Dark Spots, Evens Skin Tone –",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61iSK9TfX4L.jpg",
+          "url": "https://www.amazon.com/dp/B0FH97NCTC?th=1&psc=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GFN9CJ2R",
+          "slug": "6-in-1-retractable-car-charger-100w-usb-c-usb-a-fast-chargin",
+          "title": "\udecd️6 in 1 Retractable Car Charger, 100W USB C + USB A Fast Charging for iPhone 17/16/15/14/13/12/11, iWatch, Android, Tra",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61azucgARHL.jpg",
+          "url": "https://www.amazon.com/dp/B0GFN9CJ2R?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=5f0c8c0b24593bc778a2e465aacb847f&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0G2BF2ZJS",
+          "slug": "yojaro-360-rotating-stainless-steel-phone-tether-tab-3-pack",
+          "title": "\udecd️Yojaro 360° Rotating Stainless Steel Phone Tether Tab (3-Pack) - Universal for iPhone & Other Phones (Fits Wristbands/",
+          "price": "$6.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oEp1RJKpL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G2BF2ZJS?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=275abefc23800e76dff5c230e015f74b&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0GKFT3T2Q",
@@ -189,61 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81PatROwi4L.jpg",
           "url": "https://www.amazon.com/dp/B0FDRB778Y?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=7e263a183016dd5c661475f66f4a0fdc&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B000QSLAAA",
-          "slug": "oregon-chai-slightly-sweet-chai-concentrate-32-fl-oz",
-          "title": "\udecd️Oregon Chai Slightly Sweet Chai Concentrate, 32 fl oz",
-          "price": "$5.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71epkyt4I7L.jpg",
-          "url": "https://www.amazon.com/dp/B000QSLAAA?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=165d85bff296b0f57de233e13c50a9c8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09TZY6N88",
-          "slug": "12pack-filters-replacement-for-irobot-roomba-e-i-j-series-co",
-          "title": "\udecd️12Pack Filters Replacement for iRobot Roomba E I & J Series Combo E5 E6 E7 i3 i3+ i4 i4+ i5 i5+ i6 i6+ i7 i7+ i8 i8+ J",
-          "price": "$12.34",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71-3R248lxL.jpg",
-          "url": "https://www.amazon.com/dp/B09TZY6N88?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5a72fe6151679d8f0526d0b2a8ead855&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BZTTPW1W",
-          "slug": "magsafe-charger-2-pack-magnetic-wireless-charge-iphone-17-12",
-          "title": "\udecd️MagSafe Charger 2 Pack: Magnetic Wireless Charge iPhone 17-12 & AirPods | Strong Magnet Charging Pad, with Dual USB C ",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0BZTTPW1W?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5ff9343ea74c3b6e26333b0f7f2c7704&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CKYZ7MWK",
-          "slug": "iphone-charger-3-pack-10ft-mfi-lightning-cable-grey-white-mf",
-          "title": "\udecd️iPhone Charger 3 Pack 10FT MFi Lightning Cable (Grey White) | MFi Certified Fast Charging & High-Speed Data Sync, Comp",
-          "price": "$7.96",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81V1gkAFiiL.jpg",
-          "url": "https://www.amazon.com/dp/B0CKYZ7MWK?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6797a889e6e3e8ef7a68305b85b8d6d9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B084CZMYNM",
-          "slug": "tp-link-av1000-powerline-ethernet-adapter-kit-gigabit-port-n",
-          "title": "\udecd️TP-Link AV1000 Powerline Ethernet Adapter KIT - Gigabit Port, Nano Size | Plug Pair &Play, Ethernet Over Power, Power ",
-          "price": "$44.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51LBPwtZtRL.jpg",
-          "url": "https://www.amazon.com/dp/B084CZMYNM?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=37e3ff5d753c96b77d583b1feda49607&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-12T18:30:02.187Z",
-      "updatedAt": "2026-08-12T18:30:02.187Z"
+      "generatedAt": "2026-08-12T18:40:01.605Z",
+      "updatedAt": "2026-08-12T18:40:01.605Z"
     },
     {
       "date": "2026-08-11",
@@ -16351,5 +16357,5 @@
       "updatedAt": "2026-06-13T03:50:01.301Z"
     }
   ],
-  "generatedAt": "2026-08-12T18:30:02.199Z"
+  "generatedAt": "2026-08-12T18:40:01.619Z"
 }
