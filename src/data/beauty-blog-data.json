@@ -9,8 +9,8 @@
         "Skincare",
         "Makeup",
         "Fragrance",
-        "Hair Care",
         "Body Care",
+        "Hair Care",
         "Beauty"
       ],
       "bySubcat": {
@@ -174,7 +174,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Makeup",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/617rSMYeTnL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B008HCVFIE?th=1&linkCode=sl2&tag=noya0b-20&linkId=bf24324c2c4819c5b31ea30ea7a3a30a&language=en_US&gaOptInStatus=true"
           }
         ],
@@ -186,7 +186,7 @@
             "discount": 39,
             "rating": "HOT",
             "subcat": "Fragrance",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61wIZZgxL7L._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0G1V43Z15?th=1&tag=noya0b-20"
           },
           {
@@ -196,7 +196,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ygLdP4rUL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0000SW8BG/ref=cm_sw_r_as_gl_api_gl_i_9XJA0VMZJZBXBTFZPK9R?linkCode=ml1&tag=noya0b-20&linkId=785897b43e64403fb214d52b9f708115&gaOptInStatus=true"
           },
           {
@@ -226,8 +226,50 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/81mJWJjygYL._AC_SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B097YRDBGC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0aef89600795f9e9a23c751db67bb8bf&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Body Care": [
+          {
+            "asin": "B07GBY9L1N",
+            "slug": "bic-flex-5-mens-disposable-5-blade-razors-pivoting-head-10-p",
+            "title": "\udecd️BIC Flex 5 Men’s Disposable 5-Blade Razors, Pivoting Head, 10-Pack",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71+ZP10PoeL.jpg",
+            "url": "https://www.amazon.com/dp/B07GBY9L1N?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=869a49fcc6b7317a24d9e4ee7500d3bf&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0039LMTAQ",
+            "slug": "gillette-venus-sensitive-womens-disposable-razors-single-pac",
+            "title": "Gillette Venus Sensitive Women's Disposable Razors - Single Package of 3 Razors : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/8147TWDgS5L.jpg",
+            "url": "https://www.amazon.com/dp/B0039LMTAQ/ref=cm_sw_r_as_gl_api_gl_i_BH1Y74QA8DX2JZH6Q5E5?linkCode=ml1&tag=noya0b-20&linkId=cd245969455df4804765fa4210b9f2fd&gaOptInStatus=true"
+          },
+          {
+            "asin": "B09DSJYB3K",
+            "slug": "gillette-clinical-antiperspirant-and-deodorant-for-men-100hr",
+            "title": "Gillette Clinical Antiperspirant and Deodorant for Men, 100HR Sweat & Odor Protection, Long Lasting Freshness, Anti-Whit",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/91xVEIJ4hVL.jpg",
+            "url": "https://www.amazon.com/dp/B09DSJYB3K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
+          {
+            "asin": "B0CCTLPYP7",
+            "slug": "amazon-basics-hypoallergenic-body-wash-for-sensitive-skin-cr",
+            "title": "\udecd️Amazon Basics Hypoallergenic Body Wash for Sensitive Skin, Creamy Lather, Paraben Free, 22 fl oz (1-Pack)",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51aljONWPnL.jpg",
+            "url": "https://www.amazon.com/dp/B0CCTLPYP7?lv=shuf&ascsubtag=srctok-44c43259296a1c0e&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-44c43259296a1c0e&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=199c92025f0762067deb1965588b69c8&language=en_US&gaOptInStatus=true"
           }
         ],
         "Hair Care": [
@@ -270,48 +312,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71DecpXD-FL.jpg",
             "url": "https://www.amazon.com/dp/B0DQ81ZCJG?channelId=1&gaOptInStatus=true&gaOptInStatus=true&lv=shuf&plpRedirect=mhFallback&ascsubtag=srctok-017f531a53387da0&btn_type=ss&btn_ref=srctok-017f531a53387da0&linkCode=sl2&tag=noya0b-20&linkId=e7c7140e85e4a00fe9d1bdd7ca676a9e&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0C1QDP2R7",
-            "slug": "nioxin-hair-fall-defense-kit-duo-sets-leave-in-hair-treatmen",
-            "title": "\udecd️Nioxin Hair Fall Defense Kit Duo Sets | Leave-In Hair Treatment | Shampoo | The Power of Two: Shampoo for Hair Fall & ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/610TT0prduL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C1QDP2R7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=03098924b85550b0880939272b7cec55&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Body Care": [
-          {
-            "asin": "B0039LMTAQ",
-            "slug": "gillette-venus-sensitive-womens-disposable-razors-single-pac",
-            "title": "Gillette Venus Sensitive Women's Disposable Razors - Single Package of 3 Razors : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/8147TWDgS5L.jpg",
-            "url": "https://www.amazon.com/dp/B0039LMTAQ/ref=cm_sw_r_as_gl_api_gl_i_BH1Y74QA8DX2JZH6Q5E5?linkCode=ml1&tag=noya0b-20&linkId=cd245969455df4804765fa4210b9f2fd&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09DSJYB3K",
-            "slug": "gillette-clinical-antiperspirant-and-deodorant-for-men-100hr",
-            "title": "Gillette Clinical Antiperspirant and Deodorant for Men, 100HR Sweat & Odor Protection, Long Lasting Freshness, Anti-Whit",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/91xVEIJ4hVL.jpg",
-            "url": "https://www.amazon.com/dp/B09DSJYB3K?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
-          },
-          {
-            "asin": "B0CCTLPYP7",
-            "slug": "amazon-basics-hypoallergenic-body-wash-for-sensitive-skin-cr",
-            "title": "\udecd️Amazon Basics Hypoallergenic Body Wash for Sensitive Skin, Creamy Lather, Paraben Free, 22 fl oz (1-Pack)",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51aljONWPnL.jpg",
-            "url": "https://www.amazon.com/dp/B0CCTLPYP7?lv=shuf&ascsubtag=srctok-44c43259296a1c0e&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-44c43259296a1c0e&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=199c92025f0762067deb1965588b69c8&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -355,7 +355,7 @@
           "discount": 39,
           "rating": "HOT",
           "subcat": "Fragrance",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61wIZZgxL7L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G1V43Z15?th=1&tag=noya0b-20"
         },
         {
@@ -367,6 +367,16 @@
           "subcat": "Makeup",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DVBHWS8B?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B07GBY9L1N",
+          "slug": "bic-flex-5-mens-disposable-5-blade-razors-pivoting-head-10-p",
+          "title": "\udecd️BIC Flex 5 Men’s Disposable 5-Blade Razors, Pivoting Head, 10-Pack",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+ZP10PoeL.jpg",
+          "url": "https://www.amazon.com/dp/B07GBY9L1N?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=869a49fcc6b7317a24d9e4ee7500d3bf&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0FN221JNN",
@@ -395,7 +405,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ygLdP4rUL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0000SW8BG/ref=cm_sw_r_as_gl_api_gl_i_9XJA0VMZJZBXBTFZPK9R?linkCode=ml1&tag=noya0b-20&linkId=785897b43e64403fb214d52b9f708115&gaOptInStatus=true"
         },
         {
@@ -565,7 +575,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Makeup",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/617rSMYeTnL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B008HCVFIE?th=1&linkCode=sl2&tag=noya0b-20&linkId=bf24324c2c4819c5b31ea30ea7a3a30a&language=en_US&gaOptInStatus=true"
         },
         {
@@ -615,18 +625,8 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/81mJWJjygYL._AC_SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B097YRDBGC?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=0aef89600795f9e9a23c751db67bb8bf&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0C1QDP2R7",
-          "slug": "nioxin-hair-fall-defense-kit-duo-sets-leave-in-hair-treatmen",
-          "title": "\udecd️Nioxin Hair Fall Defense Kit Duo Sets | Leave-In Hair Treatment | Shampoo | The Power of Two: Shampoo for Hair Fall & ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/610TT0prduL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0C1QDP2R7?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=03098924b85550b0880939272b7cec55&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-13T12:40:04.460Z",
-      "updatedAt": "2026-08-13T12:40:04.460Z"
+      "generatedAt": "2026-08-13T12:50:04.337Z",
+      "updatedAt": "2026-08-13T12:50:04.337Z"
     },
     {
       "date": "2026-08-12",
@@ -40009,5 +40009,5 @@
       "updatedAt": "2026-06-14T01:00:05.187Z"
     }
   ],
-  "generatedAt": "2026-08-13T12:40:04.475Z"
+  "generatedAt": "2026-08-13T12:50:04.350Z"
 }
