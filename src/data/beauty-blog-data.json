@@ -9,9 +9,9 @@
         "Skincare",
         "Beauty",
         "Fragrance",
+        "Makeup",
         "Body Care",
-        "Hair Care",
-        "Makeup"
+        "Hair Care"
       ],
       "bySubcat": {
         "Skincare": [
@@ -114,16 +114,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81ofNgqKRUL.jpg",
             "url": "https://www.amazon.com/dp/B072K1LNNY?lv=shuf&ascsubtag=srctok-71be3f1fa0cd8b7b&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-71be3f1fa0cd8b7b&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=48d34b4abaaae972622ebf7a116d6d8d&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B06VXPSGN8",
-            "slug": "laura-geller-quench-n-tint-tinted-moisturizer-hydrating-ligh",
-            "title": "\udecd️LAURA GELLER Quench-n-Tint Tinted Moisturizer, Hydrating - Light",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61qUxm0K-rL.jpg",
-            "url": "https://www.amazon.com/dp/B06VXPSGN8?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5b372e4d9385c052ea95e8a8fb9a5725&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -168,6 +158,28 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/71oQ0KJ8v4L.jpg",
             "url": "https://www.amazon.com/dp/B0FC469PC7?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
+        "Makeup": [
+          {
+            "asin": "B08SXRSYSL",
+            "slug": "laura-geller-spackle-makeup-primer-hydrate-super-size-2-fl-o",
+            "title": "LAURA GELLER Spackle Makeup Primer - Hydrate - Super-Size 2 Fl Oz : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51az2KJbk6L.jpg",
+            "url": "https://www.amazon.com/dp/B08SXRSYSL/ref=cm_sw_r_as_gl_apa_gl_i_dl_S66PGCMMN3H13Z4N2SQ2?linkCode=ml1&tag=noya0b-20&linkId=b985b662229fbaab3f7bfb8476080bb2&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BDTP6Y82",
+            "slug": "revlon-smoothstay-15-coconut-oil-infused-curling-iron",
+            "title": "\udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curling Iron",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dCat6W9HL.jpg",
+            "url": "https://www.amazon.com/dp/B0BDTP6Y82?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=da6013971f82a3e266fb6fc2fe2257ed&language=en_US&gaOptInStatus=true"
           }
         ],
         "Body Care": [
@@ -228,7 +240,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LcQL3TyZL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FPGF4VDX?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&psc=1&ascsubtag=srctok-54308c9688894efb&btn_type=pt&gaOptInStatus=true&btn_ref=srctok-54308c9688894efb&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ce32778360bb3f4bd1d2231ed44888ee&language=en_US&gaOptInStatus=true"
           },
           {
@@ -313,18 +325,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0FL46VFKH?linkCode=sl2&tag=noya0b-20&linkId=1c1e0acc65f72c9ff5572ae68d5eeb02&language=en_US"
           }
-        ],
-        "Makeup": [
-          {
-            "asin": "B0BDTP6Y82",
-            "slug": "revlon-smoothstay-15-coconut-oil-infused-curling-iron",
-            "title": "\udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curling Iron",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/51dCat6W9HL.jpg",
-            "url": "https://www.amazon.com/dp/B0BDTP6Y82?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=da6013971f82a3e266fb6fc2fe2257ed&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -377,6 +377,16 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/51BJT-425-L.jpg",
           "url": "https://www.amazon.com/dp/B0F4844BF8?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B08SXRSYSL",
+          "slug": "laura-geller-spackle-makeup-primer-hydrate-super-size-2-fl-o",
+          "title": "LAURA GELLER Spackle Makeup Primer - Hydrate - Super-Size 2 Fl Oz : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/51az2KJbk6L.jpg",
+          "url": "https://www.amazon.com/dp/B08SXRSYSL/ref=cm_sw_r_as_gl_apa_gl_i_dl_S66PGCMMN3H13Z4N2SQ2?linkCode=ml1&tag=noya0b-20&linkId=b985b662229fbaab3f7bfb8476080bb2&gaOptInStatus=true"
         },
         {
           "asin": "B092HJLHSK",
@@ -585,7 +595,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LcQL3TyZL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0FPGF4VDX?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&psc=1&ascsubtag=srctok-54308c9688894efb&btn_type=pt&gaOptInStatus=true&btn_ref=srctok-54308c9688894efb&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ce32778360bb3f4bd1d2231ed44888ee&language=en_US&gaOptInStatus=true"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/71oQ0KJ8v4L.jpg",
           "url": "https://www.amazon.com/dp/B0FC469PC7?th=1&psc=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B06VXPSGN8",
-          "slug": "laura-geller-quench-n-tint-tinted-moisturizer-hydrating-ligh",
-          "title": "\udecd️LAURA GELLER Quench-n-Tint Tinted Moisturizer, Hydrating - Light",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61qUxm0K-rL.jpg",
-          "url": "https://www.amazon.com/dp/B06VXPSGN8?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5b372e4d9385c052ea95e8a8fb9a5725&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include \udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curli and more."
+          "a": "Yes! Today's makeup deals include LAURA GELLER Spackle Makeup Primer - Hydrate - Sup and \udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curli and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-14T08:00:04.614Z",
-      "updatedAt": "2026-08-14T08:00:04.614Z"
+      "generatedAt": "2026-08-14T08:10:04.936Z",
+      "updatedAt": "2026-08-14T08:10:04.937Z"
     },
     {
       "date": "2026-08-13",
@@ -40009,5 +40009,5 @@
       "updatedAt": "2026-06-15T07:00:02.348Z"
     }
   ],
-  "generatedAt": "2026-08-14T08:00:04.628Z"
+  "generatedAt": "2026-08-14T08:10:04.954Z"
 }
