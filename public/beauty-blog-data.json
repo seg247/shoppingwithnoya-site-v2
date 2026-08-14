@@ -9,8 +9,8 @@
         "Skincare",
         "Beauty",
         "Fragrance",
-        "Hair Care",
         "Makeup",
+        "Hair Care",
         "Body Care"
       ],
       "bySubcat": {
@@ -148,16 +148,38 @@
             "subcat": "Fragrance",
             "imageUrl": "https://m.media-amazon.com/images/I/51BJT-425-L.jpg",
             "url": "https://www.amazon.com/dp/B0F4844BF8?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Makeup": [
           {
-            "asin": "B0FC469PC7",
-            "slug": "billie-eilish-no-2-perfume-for-women-mini-2-pc-set-eau-de-pa",
-            "title": "Billie Eilish No. 2 Perfume for Women, Mini 2 PC Set | Eau de Parfum Perfume for Women, Mini 2 PC Set, .25 Fl Oz : Beaut",
+            "asin": "B0G598MX39",
+            "slug": "upgrade-48-pieces-disposable-mascara-wands-setdiamond-mascar",
+            "title": "Upgrade 48 Pieces Disposable Mascara Wands Set,Diamond Mascara for Women and Girls- Include 24 Pcs Crystal Lash Spoolies",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oQ0KJ8v4L.jpg",
-            "url": "https://www.amazon.com/dp/B0FC469PC7?th=1&psc=1&tag=noya0b-20"
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71K44KYAbuL.jpg",
+            "url": "https://www.amazon.com/dp/B0G598MX39/ref=cm_sw_r_as_gl_api_gl_i_C0XQF848BTDFEYF38TJW?linkCode=ml1&tag=noya0b-20&linkId=c4d7ff68682dc8189658ce45e21876fd&gaOptInStatus=true"
+          },
+          {
+            "asin": "B08SXRSYSL",
+            "slug": "laura-geller-spackle-makeup-primer-hydrate-super-size-2-fl-o",
+            "title": "LAURA GELLER Spackle Makeup Primer - Hydrate - Super-Size 2 Fl Oz : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51az2KJbk6L.jpg",
+            "url": "https://www.amazon.com/dp/B08SXRSYSL/ref=cm_sw_r_as_gl_apa_gl_i_dl_S66PGCMMN3H13Z4N2SQ2?linkCode=ml1&tag=noya0b-20&linkId=b985b662229fbaab3f7bfb8476080bb2&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BDTP6Y82",
+            "slug": "revlon-smoothstay-15-coconut-oil-infused-curling-iron",
+            "title": "\udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curling Iron",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dCat6W9HL.jpg",
+            "url": "https://www.amazon.com/dp/B0BDTP6Y82?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=da6013971f82a3e266fb6fc2fe2257ed&language=en_US&gaOptInStatus=true"
           }
         ],
         "Hair Care": [
@@ -228,30 +250,8 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71EANPWvn-L.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/71eojGaJSVL.jpg",
             "url": "https://www.amazon.com/dp/B0FL46VFKH?linkCode=sl2&tag=noya0b-20&linkId=1c1e0acc65f72c9ff5572ae68d5eeb02&language=en_US"
-          }
-        ],
-        "Makeup": [
-          {
-            "asin": "B08SXRSYSL",
-            "slug": "laura-geller-spackle-makeup-primer-hydrate-super-size-2-fl-o",
-            "title": "LAURA GELLER Spackle Makeup Primer - Hydrate - Super-Size 2 Fl Oz : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/51az2KJbk6L.jpg",
-            "url": "https://www.amazon.com/dp/B08SXRSYSL/ref=cm_sw_r_as_gl_apa_gl_i_dl_S66PGCMMN3H13Z4N2SQ2?linkCode=ml1&tag=noya0b-20&linkId=b985b662229fbaab3f7bfb8476080bb2&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BDTP6Y82",
-            "slug": "revlon-smoothstay-15-coconut-oil-infused-curling-iron",
-            "title": "\udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curling Iron",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/51dCat6W9HL.jpg",
-            "url": "https://www.amazon.com/dp/B0BDTP6Y82?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=da6013971f82a3e266fb6fc2fe2257ed&language=en_US&gaOptInStatus=true"
           }
         ],
         "Body Care": [
@@ -312,7 +312,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HR59-LGML.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LcQL3TyZL.jpg",
             "url": "https://www.amazon.com/dp/B0FPGF4VDX?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&psc=1&ascsubtag=srctok-54308c9688894efb&btn_type=pt&gaOptInStatus=true&btn_ref=srctok-54308c9688894efb&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ce32778360bb3f4bd1d2231ed44888ee&language=en_US&gaOptInStatus=true"
           },
           {
@@ -377,6 +377,16 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/51BJT-425-L.jpg",
           "url": "https://www.amazon.com/dp/B0F4844BF8?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0G598MX39",
+          "slug": "upgrade-48-pieces-disposable-mascara-wands-setdiamond-mascar",
+          "title": "Upgrade 48 Pieces Disposable Mascara Wands Set,Diamond Mascara for Women and Girls- Include 24 Pcs Crystal Lash Spoolies",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71K44KYAbuL.jpg",
+          "url": "https://www.amazon.com/dp/B0G598MX39/ref=cm_sw_r_as_gl_api_gl_i_C0XQF848BTDFEYF38TJW?linkCode=ml1&tag=noya0b-20&linkId=c4d7ff68682dc8189658ce45e21876fd&gaOptInStatus=true"
         },
         {
           "asin": "B0B3FT3T3D",
@@ -585,7 +595,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71EANPWvn-L.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/71eojGaJSVL.jpg",
           "url": "https://www.amazon.com/dp/B0FL46VFKH?linkCode=sl2&tag=noya0b-20&linkId=1c1e0acc65f72c9ff5572ae68d5eeb02&language=en_US"
         },
         {
@@ -595,7 +605,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71HR59-LGML.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/71LcQL3TyZL.jpg",
           "url": "https://www.amazon.com/dp/B0FPGF4VDX?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&psc=1&ascsubtag=srctok-54308c9688894efb&btn_type=pt&gaOptInStatus=true&btn_ref=srctok-54308c9688894efb&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=ce32778360bb3f4bd1d2231ed44888ee&language=en_US&gaOptInStatus=true"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/81ofNgqKRUL.jpg",
           "url": "https://www.amazon.com/dp/B072K1LNNY?lv=shuf&ascsubtag=srctok-71be3f1fa0cd8b7b&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-71be3f1fa0cd8b7b&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=48d34b4abaaae972622ebf7a116d6d8d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FC469PC7",
-          "slug": "billie-eilish-no-2-perfume-for-women-mini-2-pc-set-eau-de-pa",
-          "title": "Billie Eilish No. 2 Perfume for Women, Mini 2 PC Set | Eau de Parfum Perfume for Women, Mini 2 PC Set, .25 Fl Oz : Beaut",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/71oQ0KJ8v4L.jpg",
-          "url": "https://www.amazon.com/dp/B0FC469PC7?th=1&psc=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include LAURA GELLER Spackle Makeup Primer - Hydrate - Sup and \udecd️REVLON SmoothStay 1.5\" Coconut Oil Infused Curli and more."
+          "a": "Yes! Today's makeup deals include Upgrade 48 Pieces Disposable Mascara Wands Set,Dia and LAURA GELLER Spackle Makeup Primer - Hydrate - Sup and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-14T08:50:03.415Z",
-      "updatedAt": "2026-08-14T08:50:03.415Z"
+      "generatedAt": "2026-08-14T09:00:03.273Z",
+      "updatedAt": "2026-08-14T09:00:03.273Z"
     },
     {
       "date": "2026-08-13",
@@ -40009,5 +40009,5 @@
       "updatedAt": "2026-06-15T07:00:02.348Z"
     }
   ],
-  "generatedAt": "2026-08-14T08:50:03.430Z"
+  "generatedAt": "2026-08-14T09:00:03.286Z"
 }
