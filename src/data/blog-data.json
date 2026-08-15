@@ -9,11 +9,9 @@
         "Electronics",
         "Other",
         "Pet Supplies",
-        "Home & Kitchen",
-        "Beauty",
-        "Grocery & Food",
+        "Toys & Kids",
         "Garden & Outdoor",
-        "Toys & Kids"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Pet Supplies": [
@@ -29,7 +27,31 @@
             "url": "https://www.amazon.com/dp/B0G2XYGPWY?tag=noya0b-20"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0CYJ5X2FM",
+            "slug": "bella-stack-store-mini-waffle-maker-4-inch-ceramic-non-toxic",
+            "title": "bella Stack & Store Mini Waffle Maker, 4-Inch Ceramic Non-Toxic, Oatmilk : Toys & Games",
+            "price": "$9",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71W41DuwKyL.jpg",
+            "url": "https://www.amazon.com/dp/B0CYJ5X2FM?th=1&tag=noya0b-20"
+          }
+        ],
         "Electronics": [
+          {
+            "asin": "B0H4GG4RXV",
+            "slug": "mikkagu-modern-rectangle-coffee-table-189-d-x-3898-w-x-1752",
+            "title": "Mikkagu Modern Rectangle Coffee Table 18.9 D X 38.98 W X 17.52 H, Side Table with 1.8 Inch Thick Tabletop, Coffee Table ",
+            "price": "$27",
+            "discount": 30,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Nr23+gR6L.jpg",
+            "url": "https://www.amazon.com/dp/B0H4GG4RXV?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0GWQZ8JFS",
             "slug": "elysoo-solar-security-cameras-wireless-outdoor-64gb-local-st",
@@ -53,6 +75,54 @@
             "url": "https://www.amazon.com/dp/B0H295QJWD?lv=shuf&ascsubtag=srctok-3a1aefbfaa09ae4d&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-3a1aefbfaa09ae4d&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a98fe26c1b3b76ea1b3df8d65e14dd3&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0CHWJG1M1",
+            "slug": "nuovva-enamelled-cast-iron-dutch-oven-pot-with-lid-64-quart",
+            "title": "\udecd️Nuovva Enamelled Cast Iron Dutch Oven Pot with Lid-6.4 Quart Non Stick Casserole Pot-Heavy Duty & Oven Safe up to 500°",
+            "price": "$49.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-nxyUomML.jpg",
+            "url": "https://www.amazon.com/dp/B0CHWJG1M1?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5ae692c69c342073505f7ccd869a77a6&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0039STM1S",
+            "slug": "onyx-youth-life-jacket-coast-guard-approved-general-purpose",
+            "title": "\udecd️Onyx Youth Life Jacket – Coast Guard Approved, General Purpose Boating Vest for Kids, Safety Flotation Device",
+            "price": "$31.40",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0039STM1S?lv=shuf&ascsubtag=srctok-1a580b9eb878e4b9&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-1a580b9eb878e4b9&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=59dc6b9c531c0550742c28e50eb06312&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07Z5BVVJY",
+            "slug": "re-play-replacement-valve-for-sippy-cups-easy-to-clean-made",
+            "title": "\udecd️Re-Play Replacement Valve for Sippy Cups - Easy to Clean, Made from Food Grade Silicone - Set Of 6",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51R6Buw3fNL.jpg",
+            "url": "https://www.amazon.com/dp/B07Z5BVVJY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4c8190eca3b7bc361209432ca33bbc9f&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0BYYPWNKK",
+            "slug": "oiprtgfj-wooden-wagon-planter-box-garden-planter-with-wheels",
+            "title": "OIPRTGFJ Wooden Wagon Planter Box, Garden Planter with Wheels,Decorative Planter for Flowers Herbs Vegetables for Indoor",
+            "price": "$49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/613NV5rWozL.jpg",
+            "url": "https://www.amazon.com/dp/B0BYYPWNKK?th=1&tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0C8B9V7HR",
@@ -64,82 +134,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51r-kXmr2jL.jpg",
             "url": "https://www.amazon.com/dp/B0C8B9V7HR?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=f0a0ea1de15557e42b483a4435772a80&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B07Z5BVVJY",
-            "slug": "re-play-replacement-valve-for-sippy-cups-easy-to-clean-made",
-            "title": "\udecd️Re-Play Replacement Valve for Sippy Cups - Easy to Clean, Made from Food Grade Silicone - Set Of 6",
-            "price": "$14.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51R6Buw3fNL.jpg",
-            "url": "https://www.amazon.com/dp/B07Z5BVVJY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4c8190eca3b7bc361209432ca33bbc9f&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GYNQ18ZT",
-            "slug": "halloween-decorations-outdoor-2-pack-5ft-large-ghosts-with-t",
-            "title": "Halloween Decorations Outdoor 2 Pack 5FT Large Ghosts with Timer Remote | Wind-Resistant Base, Upgraded Double Layer Fab",
-            "price": "$26",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61T6oaShKIL.jpg",
-            "url": "https://www.amazon.com/dp/B0GYNQ18ZT?th=1&tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B091TX6KJ2",
-            "slug": "yinyin-professional-stainless-steel-cuticle-trimmer-with-pus",
-            "title": "\udecd️YINYIN Professional Stainless Steel Cuticle Trimmer with Pusher and Cutter - Durable Pedicure Manicure Tools for Finge",
-            "price": "$6.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71JW89stv8L.jpg",
-            "url": "https://www.amazon.com/dp/B091TX6KJ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=fa98eb723d036718cc8867868a8e71da&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B09SRT7NBV",
-            "slug": "natures-bounty-10-mg-melatonin-gummy-blueberry-140ct-everyth",
-            "title": "Nature's Bounty 10 mg Melatonin Gummy Blueberry, 140ct : Everything Else",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Rw5wY0qxL.jpg",
-            "url": "https://www.amazon.com/dp/B09SRT7NBV?th=1&tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0GTDRN17R",
-            "slug": "5-pack-personal-water-filter-straw-with-emergency-whistle-po",
-            "title": "5-Pack Personal Water Filter Straw with Emergency Whistle, Portable Reusable Survival Filter for Family Camping, Hiking,",
-            "price": "$39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/81xDaUJnCyL.jpg",
-            "url": "https://www.amazon.com/dp/B0GTDRN17R?th=1&tag=noya0b-20"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0CQ3VG1S8",
-            "slug": "nerf-n-series-party-pack-includes-5-n-series-flex-blasters-1",
-            "title": "\udecd️Nerf N Series Party Pack, Includes 5 N Series Flex Blasters, 15 N1 Darts Compatible Only N Series Blasters, Ages 8+ (A",
-            "price": "$18.83",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81tLPGcncmL.jpg",
-            "url": "https://www.amazon.com/dp/B0CQ3VG1S8?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e2f2b5a2ef0ce9435c3285c1591b7550&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -156,6 +150,28 @@
           "url": "https://www.amazon.com/dp/B0G2XYGPWY?tag=noya0b-20"
         },
         {
+          "asin": "B0CYJ5X2FM",
+          "slug": "bella-stack-store-mini-waffle-maker-4-inch-ceramic-non-toxic",
+          "title": "bella Stack & Store Mini Waffle Maker, 4-Inch Ceramic Non-Toxic, Oatmilk : Toys & Games",
+          "price": "$9",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71W41DuwKyL.jpg",
+          "url": "https://www.amazon.com/dp/B0CYJ5X2FM?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0H4GG4RXV",
+          "slug": "mikkagu-modern-rectangle-coffee-table-189-d-x-3898-w-x-1752",
+          "title": "Mikkagu Modern Rectangle Coffee Table 18.9 D X 38.98 W X 17.52 H, Side Table with 1.8 Inch Thick Tabletop, Coffee Table ",
+          "price": "$27",
+          "discount": 30,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Nr23+gR6L.jpg",
+          "url": "https://www.amazon.com/dp/B0H4GG4RXV?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0GWQZ8JFS",
           "slug": "elysoo-solar-security-cameras-wireless-outdoor-64gb-local-st",
           "title": "ELYSOO Solar Security Cameras Wireless Outdoor, 64GB Local Storage Included, 2K/4MP Home Security Camera System, 4-Cam K",
@@ -165,6 +181,39 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61qPKBHs15L.jpg",
           "url": "https://www.amazon.com/dp/B0GWQZ8JFS?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CHWJG1M1",
+          "slug": "nuovva-enamelled-cast-iron-dutch-oven-pot-with-lid-64-quart",
+          "title": "\udecd️Nuovva Enamelled Cast Iron Dutch Oven Pot with Lid-6.4 Quart Non Stick Casserole Pot-Heavy Duty & Oven Safe up to 500°",
+          "price": "$49.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-nxyUomML.jpg",
+          "url": "https://www.amazon.com/dp/B0CHWJG1M1?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=5ae692c69c342073505f7ccd869a77a6&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0039STM1S",
+          "slug": "onyx-youth-life-jacket-coast-guard-approved-general-purpose",
+          "title": "\udecd️Onyx Youth Life Jacket – Coast Guard Approved, General Purpose Boating Vest for Kids, Safety Flotation Device",
+          "price": "$31.40",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0039STM1S?lv=shuf&ascsubtag=srctok-1a580b9eb878e4b9&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-1a580b9eb878e4b9&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=59dc6b9c531c0550742c28e50eb06312&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BYYPWNKK",
+          "slug": "oiprtgfj-wooden-wagon-planter-box-garden-planter-with-wheels",
+          "title": "OIPRTGFJ Wooden Wagon Planter Box, Garden Planter with Wheels,Decorative Planter for Flowers Herbs Vegetables for Indoor",
+          "price": "$49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/613NV5rWozL.jpg",
+          "url": "https://www.amazon.com/dp/B0BYYPWNKK?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0C8B9V7HR",
@@ -198,61 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51R6Buw3fNL.jpg",
           "url": "https://www.amazon.com/dp/B07Z5BVVJY?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=4c8190eca3b7bc361209432ca33bbc9f&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B091TX6KJ2",
-          "slug": "yinyin-professional-stainless-steel-cuticle-trimmer-with-pus",
-          "title": "\udecd️YINYIN Professional Stainless Steel Cuticle Trimmer with Pusher and Cutter - Durable Pedicure Manicure Tools for Finge",
-          "price": "$6.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71JW89stv8L.jpg",
-          "url": "https://www.amazon.com/dp/B091TX6KJ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=fa98eb723d036718cc8867868a8e71da&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09SRT7NBV",
-          "slug": "natures-bounty-10-mg-melatonin-gummy-blueberry-140ct-everyth",
-          "title": "Nature's Bounty 10 mg Melatonin Gummy Blueberry, 140ct : Everything Else",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Rw5wY0qxL.jpg",
-          "url": "https://www.amazon.com/dp/B09SRT7NBV?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GTDRN17R",
-          "slug": "5-pack-personal-water-filter-straw-with-emergency-whistle-po",
-          "title": "5-Pack Personal Water Filter Straw with Emergency Whistle, Portable Reusable Survival Filter for Family Camping, Hiking,",
-          "price": "$39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xDaUJnCyL.jpg",
-          "url": "https://www.amazon.com/dp/B0GTDRN17R?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GYNQ18ZT",
-          "slug": "halloween-decorations-outdoor-2-pack-5ft-large-ghosts-with-t",
-          "title": "Halloween Decorations Outdoor 2 Pack 5FT Large Ghosts with Timer Remote | Wind-Resistant Base, Upgraded Double Layer Fab",
-          "price": "$26",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61T6oaShKIL.jpg",
-          "url": "https://www.amazon.com/dp/B0GYNQ18ZT?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0CQ3VG1S8",
-          "slug": "nerf-n-series-party-pack-includes-5-n-series-flex-blasters-1",
-          "title": "\udecd️Nerf N Series Party Pack, Includes 5 N Series Flex Blasters, 15 N1 Darts Compatible Only N Series Blasters, Ages 8+ (A",
-          "price": "$18.83",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81tLPGcncmL.jpg",
-          "url": "https://www.amazon.com/dp/B0CQ3VG1S8?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e2f2b5a2ef0ce9435c3285c1591b7550&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -262,7 +256,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 40% off on \"Sweetcrispy 44 Inch Cat Tree Tower for Indoor Cats and Kitte...\". There are 2 deals with verified discounts today."
+          "a": "The biggest discount today is 40% off on \"Sweetcrispy 44 Inch Cat Tree Tower for Indoor Cats and Kitte...\". There are 4 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-15T22:20:01.930Z",
-      "updatedAt": "2026-08-15T22:20:01.930Z"
+      "generatedAt": "2026-08-15T22:30:01.610Z",
+      "updatedAt": "2026-08-15T22:30:01.610Z"
     },
     {
       "date": "2026-08-14",
@@ -16363,5 +16357,5 @@
       "updatedAt": "2026-06-18T03:50:02.033Z"
     }
   ],
-  "generatedAt": "2026-08-15T22:20:01.946Z"
+  "generatedAt": "2026-08-15T22:30:01.625Z"
 }
