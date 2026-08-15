@@ -9,8 +9,8 @@
         "Skincare",
         "Beauty",
         "Fragrance",
-        "Body Care",
         "Makeup",
+        "Body Care",
         "Hair Care"
       ],
       "bySubcat": {
@@ -62,7 +62,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71HLPTfYmWL.jpg",
             "url": "https://www.amazon.com/dp/B0BV3DRVD2?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4005fffcc19635e1830672b05fc2a81e&language=en_US&gaOptInStatus=true"
           },
           {
@@ -200,39 +200,17 @@
             "url": "https://www.amazon.com/dp/B0F4844BF8?th=1&tag=noya0b-20"
           }
         ],
-        "Body Care": [
-          {
-            "asin": "B0FNWJFQFM",
-            "slug": "medicube-kojic-acid-turmeric-brightening-body-wash-1352-floz",
-            "title": "\udecd️medicube Kojic Acid Turmeric Brightening Body Wash, 13.52 fl.oz",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61kVND6tiIL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNWJFQFM?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=862e1a5f6e04bc413ecc3d55e4f2835a&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0080PEM3S",
-            "slug": "degree-advanced-protection-deodorant-white-flowers-lychee-26",
-            "title": "Degree Advanced Protection Deodorant, White Flowers & Lychee, 2.6 oz | For active days, Helps stay fresh & confident, Wi",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61hEqhpKebL.jpg",
-            "url": "https://www.amazon.com/dp/B0080PEM3S?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=4b752bf6977e11f19f70aa93fa35c7aa0INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=435b02652087565f3a36a0f92b078e66&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DZRBNZGP",
-            "slug": "truly-beauty-soft-serve-after-shave-plump-cream-post-shave-b",
-            "title": "\udecd️Truly Beauty Soft Serve After Shave Plump Cream | Post-Shave Body Lotion",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DZRBNZGP?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d5aa827ca42532242cfa63f789e4203c&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Makeup": [
+          {
+            "asin": "B0F1FYBD3B",
+            "slug": "premium-sourdough-starter-jar-50-oz-large-glass-jar-with-bam",
+            "title": "\udecd️Premium Sourdough Starter Jar - 50 oz Large Glass Jar with Bamboo Lid, Cloth Cover, Date Tracker, Thermometer and Scra",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/71SYmZZSBIL.jpg",
+            "url": "https://www.amazon.com/dp/B0F1FYBD3B?lv=shuf&ascsubtag=srctok-58f6883cc36f6680&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-58f6883cc36f6680&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=33e00c448a60b4a644e92987dbe3d978&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0GTDNV5WL",
             "slug": "decadence-141-x-121-in-lighted-makeup-mirror-10x5x-magnifier",
@@ -284,6 +262,38 @@
             "url": "https://www.amazon.com/dp/B0G4V9M3MZ?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=36eb3135121b8cf1dea99042001ac45b&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Body Care": [
+          {
+            "asin": "B0FNWJFQFM",
+            "slug": "medicube-kojic-acid-turmeric-brightening-body-wash-1352-floz",
+            "title": "\udecd️medicube Kojic Acid Turmeric Brightening Body Wash, 13.52 fl.oz",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61kVND6tiIL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNWJFQFM?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=862e1a5f6e04bc413ecc3d55e4f2835a&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0080PEM3S",
+            "slug": "degree-advanced-protection-deodorant-white-flowers-lychee-26",
+            "title": "Degree Advanced Protection Deodorant, White Flowers & Lychee, 2.6 oz | For active days, Helps stay fresh & confident, Wi",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61hEqhpKebL.jpg",
+            "url": "https://www.amazon.com/dp/B0080PEM3S?lv=shuf&redirect=true&smid=ATVPDKIKX0DER&ascsubtag=4b752bf6977e11f19f70aa93fa35c7aa0INT&th=1&ie=UTF8&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=435b02652087565f3a36a0f92b078e66&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DZRBNZGP",
+            "slug": "truly-beauty-soft-serve-after-shave-plump-cream-post-shave-b",
+            "title": "\udecd️Truly Beauty Soft Serve After Shave Plump Cream | Post-Shave Body Lotion",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0DZRBNZGP?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=d5aa827ca42532242cfa63f789e4203c&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Hair Care": [
           {
             "asin": "B07GCS1YP2",
@@ -314,16 +324,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/512W7LEWOtL.jpg",
             "url": "https://www.amazon.com/dp/B0BF8ZPL7S?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=54b2b5cd47400082842052f8ea522a4f&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CLZSF4MQ",
-            "slug": "slopehill-professional-ionic-hair-dryer-powerful-1800w-fast",
-            "title": "\udecd️Slopehill Professional Ionic Hair Dryer, Powerful 1800W Fast Drying Low Noise Blow Dryer with 2 Concentrator Nozzle 1 ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61KNQae0h2L.jpg",
-            "url": "https://www.amazon.com/dp/B0CLZSF4MQ?lv=shuf&ascsubtag=srctok-150f223093c0d6cd&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-150f223093c0d6cd&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e75a41495d85c9db7ea161ccbda08054&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -379,6 +379,16 @@
           "url": "https://www.amazon.com/dp/B0F4844BF8?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B0F1FYBD3B",
+          "slug": "premium-sourdough-starter-jar-50-oz-large-glass-jar-with-bam",
+          "title": "\udecd️Premium Sourdough Starter Jar - 50 oz Large Glass Jar with Bamboo Lid, Cloth Cover, Date Tracker, Thermometer and Scra",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/71SYmZZSBIL.jpg",
+          "url": "https://www.amazon.com/dp/B0F1FYBD3B?lv=shuf&ascsubtag=srctok-58f6883cc36f6680&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-58f6883cc36f6680&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=33e00c448a60b4a644e92987dbe3d978&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0FPQGLYK9",
           "slug": "medicube-sunscreen-no-cast-just-glow-collagen-spf-50",
           "title": "\udecd️medicube Sunscreen No Cast Just Glow Collagen, SPF 50",
@@ -415,7 +425,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71HLPTfYmWL.jpg",
           "url": "https://www.amazon.com/dp/B0BV3DRVD2?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=4005fffcc19635e1830672b05fc2a81e&language=en_US&gaOptInStatus=true"
         },
         {
@@ -617,16 +627,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/71To1Q46KjL.jpg",
           "url": "https://www.amazon.com/dp/B0G4V9M3MZ?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=36eb3135121b8cf1dea99042001ac45b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CLZSF4MQ",
-          "slug": "slopehill-professional-ionic-hair-dryer-powerful-1800w-fast",
-          "title": "\udecd️Slopehill Professional Ionic Hair Dryer, Powerful 1800W Fast Drying Low Noise Blow Dryer with 2 Concentrator Nozzle 1 ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61KNQae0h2L.jpg",
-          "url": "https://www.amazon.com/dp/B0CLZSF4MQ?lv=shuf&ascsubtag=srctok-150f223093c0d6cd&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-150f223093c0d6cd&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e75a41495d85c9db7ea161ccbda08054&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -654,7 +654,7 @@
         },
         {
           "q": "Are there any makeup deals today?",
-          "a": "Yes! Today's makeup deals include \udecd️DECADENCE 14.1 x 12.1 in Lighted Makeup Mirror,  and Jane Iredale Beyond Matte 3-in-1 Liquid Foundation and more."
+          "a": "Yes! Today's makeup deals include \udecd️Premium Sourdough Starter Jar - 50 oz Large Glas and \udecd️DECADENCE 14.1 x 12.1 in Lighted Makeup Mirror,  and more."
         },
         {
           "q": "Where can I find daily beauty deals online?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-15T09:10:04.108Z",
-      "updatedAt": "2026-08-15T09:10:04.108Z"
+      "generatedAt": "2026-08-15T09:20:04.306Z",
+      "updatedAt": "2026-08-15T09:20:04.306Z"
     },
     {
       "date": "2026-08-14",
@@ -40009,5 +40009,5 @@
       "updatedAt": "2026-06-18T03:50:03.985Z"
     }
   ],
-  "generatedAt": "2026-08-15T09:10:04.123Z"
+  "generatedAt": "2026-08-15T09:20:04.321Z"
 }
