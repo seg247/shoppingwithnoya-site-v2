@@ -8,10 +8,60 @@
       "categories": [
         "Other",
         "Home & Kitchen",
-        "Electronics"
+        "Electronics",
+        "Fashion",
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0FX98WFM7",
+            "slug": "cldream-ceiling-fan-cleaner-duster-with-extension-pole-3ft",
+            "title": "\udecd️CLDREAM Ceiling Fan Cleaner Duster with Extension Pole 3Ft",
+            "price": "$14.57",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71O2JyBy7ZL.jpg",
+            "url": "https://www.amazon.com/dp/B0FX98WFM7?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fbaf36353bbf5707085669cd76781063&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BZ4VTS9T",
+            "slug": "yusoki-sherpa-fleece-large-throw-blanket-tan-50x65",
+            "title": "\udecd️YUSOKI Sherpa Fleece Large Throw Blanket, Tan, 50\"x65\"",
+            "price": "$11.11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81isz+q5eiL.jpg",
+            "url": "https://www.amazon.com/dp/B0BZ4VTS9T?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ca56241119160060c0eb55c4a7fa22df&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0BRKXLQ63",
+            "slug": "roadbox-mens-sun-protection-fishing-hoodie-long-sleeve-upf-5",
+            "title": "\udecd️Roadbox Mens Sun Protection Fishing Hoodie, Long Sleeve UPF 50+ UV Shirts",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71z0pDjammL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BRKXLQ63?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e8618a770ff720ef2b6e74f4e906a9a7&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Electronics": [
+          {
+            "asin": "B0G62C66Y5",
+            "slug": "marshall-monitor-iii-anc-wireless-over-ear-bluetooth-headpho",
+            "title": "Marshall Monitor III A.N.C. Wireless Over-Ear Bluetooth Headphones - Active Noise Cancellation | 100+ Hr Playtime | Micr",
+            "price": "$249.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/7189LqJRm2L.jpg",
+            "url": "https://www.amazon.com/dp/B0G62C66Y5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B09XSDMT4F",
             "slug": "sony-wh-1000xm5-premium-noise-cancelling-wireless-headphones",
@@ -22,20 +72,20 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51EqSJkNhmL.jpg",
             "url": "https://www.amazon.com/dp/B09XSDMT4F?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=8f862ebf6c14098fb1d74295227daf77&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D9NVV413",
-            "slug": "for-apple-watch-charger-fast-charging3-in-1-multi-chargers-c",
-            "title": "\udecd️for Apple Watch Charger Fast Charging,3 in 1 Multi Chargers Cable with 20W USB C Charger, iWatch Charger Cord 6FT for ",
-            "price": "$27.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61NwfnX-yHL.jpg",
-            "url": "https://www.amazon.com/dp/B0D9NVV413?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=18c1b8e4bc14733101c69908058ec2fe&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
+          {
+            "asin": "B07GH7T41F",
+            "slug": "jabasic-girls-mary-jane-school-uniform-shoes",
+            "title": "\udecd️JABASIC Girl's Mary Jane School Uniform Shoes",
+            "price": "$31.19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TTB1+TVpL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07GH7T41F?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=f91e43177850cdde85a287f1b84bdd58&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0BRKTLJ1K",
             "slug": "large-waterproof-phone-pouch-with-sealing-strip-white",
@@ -68,67 +118,78 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71jtP615rBL.jpg",
             "url": "https://www.amazon.com/dp/B0H1561715?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bff7181bdadaa0cbd4aebc87ac1fac31&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BPSBX8V9",
-            "slug": "mayena-jaw-exerciser-classic-4-set-silicone-jawline-exercise",
-            "title": "\udecd️Mayena Jaw Exerciser Classic | 4 Set Silicone Jawline Exercisers",
-            "price": "$16.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61qgCJVpPkL.jpg",
-            "url": "https://www.amazon.com/dp/B0BPSBX8V9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=48552f83f10db9217fabfc048ff32aac&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Home & Kitchen": [
+        "Toys & Kids": [
           {
-            "asin": "B0BZ4VTS9T",
-            "slug": "yusoki-sherpa-fleece-large-throw-blanket-tan-50x65",
-            "title": "\udecd️YUSOKI Sherpa Fleece Large Throw Blanket, Tan, 50\"x65\"",
-            "price": "$11.11",
+            "asin": "B07N12KY6K",
+            "slug": "you-cant-scare-me-i-have-kids-funny-dad-daddy-daughters-chil",
+            "title": "\udecd️You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
+            "price": "$14.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81isz+q5eiL.jpg",
-            "url": "https://www.amazon.com/dp/B0BZ4VTS9T?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=ca56241119160060c0eb55c4a7fa22df&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09NVGSSC2",
-            "slug": "automatic-soap-dispenser-17oz-touchless-liquid-dish-soap-dis",
-            "title": "\udecd️Automatic Soap Dispenser, 17oz Touchless Liquid Dish Soap Dispenser Kitchen",
-            "price": "$20.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B09NVGSSC2?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2fc66be23ca4d68658983f71eac58dc7&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0796RL27B",
-            "slug": "kongnai-kitchen-funnel-set-4-pack-small-and-large-kitchen-ga",
-            "title": "\udecd️KongNai Kitchen Funnel Set 4 Pack, Small and Large, Kitchen Gadgets Accessories Foldable Silicone Collapsible Funnels ",
-            "price": "$5.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/6197TF0tXlL.jpg",
-            "url": "https://www.amazon.com/dp/B0796RL27B?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=024ddc0fd11e7c83339f9ebb460ecb85&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07QG2R4PY",
-            "slug": "susteas-whistling-tea-kettle-27qt-food-grade-steel-teapot-bl",
-            "title": "\udecd️SUSTEAS Whistling Tea Kettle, 2.7QT Food-Grade Steel Teapot, BLACK",
-            "price": "$35.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/711AkiyMr3L.jpg",
-            "url": "https://www.amazon.com/dp/B07QG2R4PY?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6f6f0fbb9f673bf3bec0c2f1094a8a4a&language=en_US&gaOptInStatus=true"
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81hX-9ceS7L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07N12KY6K?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c8aac9f177dcbc29b59517b53385b080&language=en_US&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FX98WFM7",
+          "slug": "cldream-ceiling-fan-cleaner-duster-with-extension-pole-3ft",
+          "title": "\udecd️CLDREAM Ceiling Fan Cleaner Duster with Extension Pole 3Ft",
+          "price": "$14.57",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71O2JyBy7ZL.jpg",
+          "url": "https://www.amazon.com/dp/B0FX98WFM7?lv=shuf&th=1&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=fbaf36353bbf5707085669cd76781063&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BRKXLQ63",
+          "slug": "roadbox-mens-sun-protection-fishing-hoodie-long-sleeve-upf-5",
+          "title": "\udecd️Roadbox Mens Sun Protection Fishing Hoodie, Long Sleeve UPF 50+ UV Shirts",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71z0pDjammL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0BRKXLQ63?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e8618a770ff720ef2b6e74f4e906a9a7&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0G62C66Y5",
+          "slug": "marshall-monitor-iii-anc-wireless-over-ear-bluetooth-headpho",
+          "title": "Marshall Monitor III A.N.C. Wireless Over-Ear Bluetooth Headphones - Active Noise Cancellation | 100+ Hr Playtime | Micr",
+          "price": "$249.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/7189LqJRm2L.jpg",
+          "url": "https://www.amazon.com/dp/B0G62C66Y5?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+        },
+        {
+          "asin": "B07GH7T41F",
+          "slug": "jabasic-girls-mary-jane-school-uniform-shoes",
+          "title": "\udecd️JABASIC Girl's Mary Jane School Uniform Shoes",
+          "price": "$31.19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TTB1+TVpL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07GH7T41F?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=f91e43177850cdde85a287f1b84bdd58&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07N12KY6K",
+          "slug": "you-cant-scare-me-i-have-kids-funny-dad-daddy-daughters-chil",
+          "title": "\udecd️You Can't Scare Me, I Have Kids | Funny Dad Daddy Daughters Children Cute Joke Men T-Shirt",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/81hX-9ceS7L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B07N12KY6K?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c8aac9f177dcbc29b59517b53385b080&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B09XSDMT4F",
           "slug": "sony-wh-1000xm5-premium-noise-cancelling-wireless-headphones",
@@ -183,67 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71jtP615rBL.jpg",
           "url": "https://www.amazon.com/dp/B0H1561715?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=bff7181bdadaa0cbd4aebc87ac1fac31&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09NVGSSC2",
-          "slug": "automatic-soap-dispenser-17oz-touchless-liquid-dish-soap-dis",
-          "title": "\udecd️Automatic Soap Dispenser, 17oz Touchless Liquid Dish Soap Dispenser Kitchen",
-          "price": "$20.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B09NVGSSC2?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=2fc66be23ca4d68658983f71eac58dc7&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D9NVV413",
-          "slug": "for-apple-watch-charger-fast-charging3-in-1-multi-chargers-c",
-          "title": "\udecd️for Apple Watch Charger Fast Charging,3 in 1 Multi Chargers Cable with 20W USB C Charger, iWatch Charger Cord 6FT for ",
-          "price": "$27.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61NwfnX-yHL.jpg",
-          "url": "https://www.amazon.com/dp/B0D9NVV413?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=18c1b8e4bc14733101c69908058ec2fe&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0796RL27B",
-          "slug": "kongnai-kitchen-funnel-set-4-pack-small-and-large-kitchen-ga",
-          "title": "\udecd️KongNai Kitchen Funnel Set 4 Pack, Small and Large, Kitchen Gadgets Accessories Foldable Silicone Collapsible Funnels ",
-          "price": "$5.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/6197TF0tXlL.jpg",
-          "url": "https://www.amazon.com/dp/B0796RL27B?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=024ddc0fd11e7c83339f9ebb460ecb85&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BPSBX8V9",
-          "slug": "mayena-jaw-exerciser-classic-4-set-silicone-jawline-exercise",
-          "title": "\udecd️Mayena Jaw Exerciser Classic | 4 Set Silicone Jawline Exercisers",
-          "price": "$16.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61qgCJVpPkL.jpg",
-          "url": "https://www.amazon.com/dp/B0BPSBX8V9?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=48552f83f10db9217fabfc048ff32aac&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07QG2R4PY",
-          "slug": "susteas-whistling-tea-kettle-27qt-food-grade-steel-teapot-bl",
-          "title": "\udecd️SUSTEAS Whistling Tea Kettle, 2.7QT Food-Grade Steel Teapot, BLACK",
-          "price": "$35.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/711AkiyMr3L.jpg",
-          "url": "https://www.amazon.com/dp/B07QG2R4PY?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6f6f0fbb9f673bf3bec0c2f1094a8a4a&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 17, 2026?",
-          "a": "The best deals today include \"\udecd️Sony WH-1000XM5 Premium Noise Cancelling Wireless Headphon...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️CLDREAM Ceiling Fan Cleaner Duster with Extension Pole 3Ft...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -262,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-17T10:00:00.614Z",
-      "updatedAt": "2026-08-17T10:00:00.614Z"
+      "generatedAt": "2026-08-17T10:10:00.338Z",
+      "updatedAt": "2026-08-17T10:10:00.338Z"
     },
     {
       "date": "2026-08-16",
@@ -16357,5 +16363,5 @@
       "updatedAt": "2026-06-20T03:50:00.508Z"
     }
   ],
-  "generatedAt": "2026-08-17T10:00:00.629Z"
+  "generatedAt": "2026-08-17T10:10:00.354Z"
 }
