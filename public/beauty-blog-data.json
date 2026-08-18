@@ -103,7 +103,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lqntq6bYL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0G8TPX5DR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -113,11 +113,21 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/616zuHZjfsL.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/616zuHZjfsL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B095JRJL2Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=102366ba05af3ae9f2c484198209a295&language=en_US&gaOptInStatus=true"
           }
         ],
         "Skincare": [
+          {
+            "asin": "B085K925JW",
+            "slug": "ladibugs-cradle-cap-remedy-kit-2-step-serum-comb-scale-remov",
+            "title": "\udecd️Ladibugs Cradle Cap Remedy Kit - 2-Step Serum & Comb Scale Remover",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71iX3jfjQhL.jpg",
+            "url": "https://www.amazon.com/dp/B085K925JW?linkCode=sl2&tag=noya0b-20&linkId=9c2defb5951daf4949c8e0911e3f7c47&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0FB8W61W1",
             "slug": "gangnam-glow-cica-sun-milk-169-floz-moisturizer-with-spf-50",
@@ -227,16 +237,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81E+yYc1GDL.jpg",
             "url": "https://www.amazon.com/dp/B0G5195LGN/ref=cm_sw_r_as_gl_apa_gl_i_VPQ3NRD9868PR21591WE?linkCode=ml1&tag=noya0b-20&linkId=341c55c8db33c4643dfe16bd32ca2994&gaOptInStatus=true"
-          },
-          {
-            "asin": "B081JHTPKP",
-            "slug": "mise-en-scene-perfect-serum-original-heat-protectant-hair-oi",
-            "title": "\udecd️Mise En Scene Perfect Serum Original - Heat Protectant Hair Oil for Frizzy & Dry | Argan Oil | Visibly Smooths & Softe",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SF6T43rvL.jpg",
-            "url": "https://www.amazon.com/dp/B081JHTPKP?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=23fc50a492f8d53144a3680b8acccea0&language=en_US&gaOptInStatus=true"
           }
         ],
         "Hair Care": [
@@ -354,6 +354,16 @@
           "subcat": "Makeup",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0758VGJGR?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B085K925JW",
+          "slug": "ladibugs-cradle-cap-remedy-kit-2-step-serum-comb-scale-remov",
+          "title": "\udecd️Ladibugs Cradle Cap Remedy Kit - 2-Step Serum & Comb Scale Remover",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71iX3jfjQhL.jpg",
+          "url": "https://www.amazon.com/dp/B085K925JW?linkCode=sl2&tag=noya0b-20&linkId=9c2defb5951daf4949c8e0911e3f7c47&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0FB8W61W1",
@@ -482,7 +492,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Lqntq6bYL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0G8TPX5DR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -562,7 +572,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/616zuHZjfsL.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/616zuHZjfsL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B095JRJL2Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=102366ba05af3ae9f2c484198209a295&language=en_US&gaOptInStatus=true"
         },
         {
@@ -614,16 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/81E+yYc1GDL.jpg",
           "url": "https://www.amazon.com/dp/B0G5195LGN/ref=cm_sw_r_as_gl_apa_gl_i_VPQ3NRD9868PR21591WE?linkCode=ml1&tag=noya0b-20&linkId=341c55c8db33c4643dfe16bd32ca2994&gaOptInStatus=true"
-        },
-        {
-          "asin": "B081JHTPKP",
-          "slug": "mise-en-scene-perfect-serum-original-heat-protectant-hair-oi",
-          "title": "\udecd️Mise En Scene Perfect Serum Original - Heat Protectant Hair Oil for Frizzy & Dry | Argan Oil | Visibly Smooths & Softe",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61SF6T43rvL.jpg",
-          "url": "https://www.amazon.com/dp/B081JHTPKP?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=23fc50a492f8d53144a3680b8acccea0&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -647,7 +647,7 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include GANGNAM GLOW CICA SUN MILK 1.69 floz, Moisturizer  and \udecd️PLANTIFIQUE Gua Sha Facial Tools | Gifts | Massa. Check the full list above for current prices."
+          "a": "Today's skincare deals include \udecd️Ladibugs Cradle Cap Remedy Kit - 2-Step Serum &  and GANGNAM GLOW CICA SUN MILK 1.69 floz, Moisturizer . Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-18T06:00:05.538Z",
-      "updatedAt": "2026-08-18T06:00:05.538Z"
+      "generatedAt": "2026-08-18T06:10:04.470Z",
+      "updatedAt": "2026-08-18T06:10:04.470Z"
     },
     {
       "date": "2026-08-17",
@@ -39994,5 +39994,5 @@
       "updatedAt": "2026-06-21T03:50:03.288Z"
     }
   ],
-  "generatedAt": "2026-08-18T06:00:05.554Z"
+  "generatedAt": "2026-08-18T06:10:04.485Z"
 }
