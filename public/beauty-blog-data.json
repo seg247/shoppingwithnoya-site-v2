@@ -93,7 +93,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lqntq6bYL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0G8TPX5DR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
           },
           {
@@ -118,6 +118,16 @@
           }
         ],
         "Hair Care": [
+          {
+            "asin": "B01MQYUM3N",
+            "slug": "the-honest-company-conditioner-hypoallergenic-lavender-calm",
+            "title": "The Honest Company Conditioner, Hypoallergenic, Lavender Calm, 10 fl oz",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51oXkf2poGL.jpg",
+            "url": "https://www.amazon.com/dp/B01MQYUM3N?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
+          },
           {
             "asin": "B0FRMRVB2T",
             "slug": "ohb-5-in-1-hot-air-hair-styler-110000-rpm-high-speed-hair-dr",
@@ -309,18 +319,8 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71ODnjDKbIL.jpg",
             "url": "https://www.amazon.com/dp/B0FSP5YZ34?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=24602e189356a0adacbaea83b16f06b9&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GYP2TQ9D",
-            "slug": "beauty-of-joseon-double-cleansing-duo-with-glass-skin-moistu",
-            "title": "Beauty of Joseon Double Cleansing Duo With Glass Skin Moisturizer Gift | Daily Korean Skincare Face Cleansers for All Sk",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61t9a+eiSdL.jpg",
-            "url": "https://www.amazon.com/dp/B0GYP2TQ9D/ref=cm_sw_r_as_gl_apa_gl_i_dl_YT5FYA6PP9FGVFCMVGGZ?linkCode=ml1&tag=noya0b-20&linkId=a95628c3ca3d22cc029c4d0d3dbe7b75&gaOptInStatus=true"
           }
         ]
       },
@@ -354,6 +354,16 @@
           "subcat": "Makeup",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0758VGJGR?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B01MQYUM3N",
+          "slug": "the-honest-company-conditioner-hypoallergenic-lavender-calm",
+          "title": "The Honest Company Conditioner, Hypoallergenic, Lavender Calm, 10 fl oz",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51oXkf2poGL.jpg",
+          "url": "https://www.amazon.com/dp/B01MQYUM3N?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
           "asin": "B0DBYW2LTK",
@@ -422,7 +432,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Lqntq6bYL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0G8TPX5DR?tag=noya0b-20&linkCode=ogi&th=1&psc=1&language=en_US"
         },
         {
@@ -592,7 +602,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71ODnjDKbIL.jpg",
           "url": "https://www.amazon.com/dp/B0FSP5YZ34?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=24602e189356a0adacbaea83b16f06b9&language=en_US&gaOptInStatus=true"
         },
         {
@@ -614,16 +624,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81rbiEvXIUL.jpg",
           "url": "https://www.amazon.com/dp/B0F1MQ13TX/ref=cm_sw_r_as_gl_apa_gl_i_dl_E4D3418DME6BPVCHP7QA?linkCode=ml1&tag=noya0b-20&linkId=0547ac4e2482efcf30df7f6683518e85&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GYP2TQ9D",
-          "slug": "beauty-of-joseon-double-cleansing-duo-with-glass-skin-moistu",
-          "title": "Beauty of Joseon Double Cleansing Duo With Glass Skin Moisturizer Gift | Daily Korean Skincare Face Cleansers for All Sk",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61t9a+eiSdL.jpg",
-          "url": "https://www.amazon.com/dp/B0GYP2TQ9D/ref=cm_sw_r_as_gl_apa_gl_i_dl_YT5FYA6PP9FGVFCMVGGZ?linkCode=ml1&tag=noya0b-20&linkId=a95628c3ca3d22cc029c4d0d3dbe7b75&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-18T00:30:06.254Z",
-      "updatedAt": "2026-08-18T00:30:06.254Z"
+      "generatedAt": "2026-08-18T00:40:04.323Z",
+      "updatedAt": "2026-08-18T00:40:04.323Z"
     },
     {
       "date": "2026-08-16",
@@ -39997,5 +39997,5 @@
       "updatedAt": "2026-06-20T03:50:03.047Z"
     }
   ],
-  "generatedAt": "2026-08-18T00:30:06.271Z"
+  "generatedAt": "2026-08-18T00:40:04.341Z"
 }
