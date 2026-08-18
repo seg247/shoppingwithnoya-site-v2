@@ -9,10 +9,8 @@
         "Fashion",
         "Other",
         "Electronics",
-        "Cleaning Supplies",
-        "Beauty",
         "Home & Kitchen",
-        "Toys & Kids"
+        "Cleaning Supplies"
       ],
       "byCategory": {
         "Fashion": [
@@ -26,6 +24,17 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71sVskFYZBL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DSZ6VZF2?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=3004ed4a874a8eef25a0ebe51b91cb71&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B09RVSHKTL",
+            "slug": "the-original-stretchlace-flat-elastic-stretch-shoelaces-for",
+            "title": "\udecd️THE ORIGINAL STRETCHLACE Flat Elastic Stretch Shoelaces for Sneakers",
+            "price": "$12.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/9173nWPZqOL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09RVSHKTL?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=728597bdf75c746a035c1319ee52b3aa&language=en_US&gaOptInStatus=true"
           },
           {
             "asin": "B0979QHY7S",
@@ -52,15 +61,63 @@
             "url": "https://www.amazon.com/dp/B0D53Y3FBG?th=1&linkCode=sl2&tag=noya0b-20&linkId=256b47fa14210cb3da1ebffb3fdf7eee&language=en_US&gaOptInStatus=true"
           },
           {
-            "asin": "B0B3MGJYSK",
-            "slug": "famiware-milkyway-12-piece-stoneware-dinnerware-set-cinnamon",
-            "title": "\udecd️Famiware Milkyway 12-Piece Stoneware Dinnerware Set, Cinnamon Brown",
-            "price": "$159.99",
+            "asin": "B0DRRYM7GL",
+            "slug": "magnetic-dryer-vent-coupling-dv180-magnetic-dryer-vent-conne",
+            "title": "\udecd️Magnetic Dryer Vent Coupling DV180 Magnetic Dryer Vent Connector Kit 4 Inch",
+            "price": "$39.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81VF0B5JHuL.jpg",
-            "url": "https://www.amazon.com/dp/B0B3MGJYSK?lv=shuf&ascsubtag=srctok-53f929a4f0ae6ee7&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-53f929a4f0ae6ee7&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e820af9e1126ddeac6252de446dbdae4&language=en_US&gaOptInStatus=true"
+            "imageUrl": "https://m.media-amazon.com/images/I/71SyloorQ3L.jpg",
+            "url": "https://www.amazon.com/dp/B0DRRYM7GL?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=07a677d02a17feec74d9ca32edf1e658&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0C3L93F2Q",
+            "slug": "nelko-p21-label-maker-machine-with-tape-bluetooth-label-prin",
+            "title": "\udecd️Nelko P21 Label Maker Machine with Tape, Bluetooth Label Printer, White",
+            "price": "$16.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61xFPCvYgQL.jpg",
+            "url": "https://www.amazon.com/dp/B0C3L93F2Q?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=fe2c9227c92fd25a3e0ae2b233aaabbb&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GQSC6V5W",
+            "slug": "android-16-tablet-10-inch-tablet-with-octa-core-24gb-ram-64g",
+            "title": "\udecd️Android 16 Tablet, 10 Inch Tablet with Octa-Core, 24GB RAM 64GB ROM 2TB Expand, Gemini AI, 6000mAh, WiFi, GPS, Dual Ca",
+            "price": "$89.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81uL-YgxEQL.jpg",
+            "url": "https://www.amazon.com/dp/B0GQSC6V5W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a69848228bd75ba6c2cf38c37527bd6&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0CNC2V348",
+            "slug": "yarn-bag-knitting-crochet-tote-bag-yarn-storage-bag-organize",
+            "title": "\udecd️Yarn Bag, Knitting Crochet Tote Bag, Yarn Storage Bag Organizer",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81zdtPLEqDL.jpg",
+            "url": "https://www.amazon.com/dp/B0CNC2V348?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=15763eab22a0a7bc2c29a522c45ba97b&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FN3WBVY1",
+            "slug": "fruit-basket-for-kitchen-counter-extra-large-fruit-bowl-with",
+            "title": "\udecd️Fruit Basket for Kitchen Counter, Extra Large Fruit Bowl with Banana Hangers, 2 Tier Fruit Holder Stand Countertop Org",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81u7dYuhFmL.jpg",
+            "url": "https://www.amazon.com/dp/B0FN3WBVY1?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7fdd15db06aaa41b5ace8bdb8672fdb5&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -74,69 +131,6 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81Yj5MoSCNL.jpg",
             "url": "https://www.amazon.com/dp/B00LM54ZD0?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=84a7da94455c562a67d1468803a3069f&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0GQSC6V5W",
-            "slug": "android-16-tablet-10-inch-tablet-with-octa-core-24gb-ram-64g",
-            "title": "\udecd️Android 16 Tablet, 10 Inch Tablet with Octa-Core, 24GB RAM 64GB ROM 2TB Expand, Gemini AI, 6000mAh, WiFi, GPS, Dual Ca",
-            "price": "$89.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81uL-YgxEQL.jpg",
-            "url": "https://www.amazon.com/dp/B0GQSC6V5W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a69848228bd75ba6c2cf38c37527bd6&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08FCGLYFZ",
-            "slug": "skullcandy-crusher-evo-wireless-multi-sensory-bass-headphone",
-            "title": "\udecd️Skullcandy Crusher Evo Wireless Multi-Sensory Bass Headphones - Chill Grey",
-            "price": "$150.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71AXcd2I4+L.jpg",
-            "url": "https://www.amazon.com/dp/B08FCGLYFZ?lv=shuf&ascsubtag=srctok-1592cad1f8d3d6af&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-1592cad1f8d3d6af&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c2c805dd07fe2ff16535407ea4ec0b8a&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00070QF0W",
-            "slug": "bic-soleil-twilight-disposable-razor-women-4-count-pack-of-6",
-            "title": "BIC Soleil Twilight Disposable Razor, Women, 4-Count (Pack of 6) : Beauty & Personal Care",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81an48+0DcL.jpg",
-            "url": "https://www.amazon.com/dp/B00070QF0W?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=603936446c90470c0e17cbcdce6acfe0&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0764HS4SL",
-            "slug": "fullstar-pro-original-vegetable-chopper-spiralizer-kitchen-p",
-            "title": "\udecd️Fullstar Pro Original Vegetable Chopper & Spiralizer, Kitchen Prep Tool",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81GZZyozv-L.jpg",
-            "url": "https://www.amazon.com/dp/B0764HS4SL?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=acd1330bf1c14343d6b51b9319b5268c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B08BY8BZS4",
-            "slug": "baby-car-mirror-with-43-hd-night-vision-function-display-saf",
-            "title": "\udecd️Baby Car Mirror with 4.3'' HD Night Vision Function Display, Safety Car Seat Camera with Wide Crystal Clear View, Easi",
-            "price": "$24.32",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71K3qTmznzL.jpg",
-            "url": "https://www.amazon.com/dp/B08BY8BZS4?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=44e95f94d06397bfce2194ee75af4666&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -162,6 +156,61 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81w7L5DgyUL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
           "url": "https://www.amazon.com/dp/B0D53Y3FBG?th=1&linkCode=sl2&tag=noya0b-20&linkId=256b47fa14210cb3da1ebffb3fdf7eee&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0C3L93F2Q",
+          "slug": "nelko-p21-label-maker-machine-with-tape-bluetooth-label-prin",
+          "title": "\udecd️Nelko P21 Label Maker Machine with Tape, Bluetooth Label Printer, White",
+          "price": "$16.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61xFPCvYgQL.jpg",
+          "url": "https://www.amazon.com/dp/B0C3L93F2Q?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=fe2c9227c92fd25a3e0ae2b233aaabbb&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09RVSHKTL",
+          "slug": "the-original-stretchlace-flat-elastic-stretch-shoelaces-for",
+          "title": "\udecd️THE ORIGINAL STRETCHLACE Flat Elastic Stretch Shoelaces for Sneakers",
+          "price": "$12.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/9173nWPZqOL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09RVSHKTL?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=728597bdf75c746a035c1319ee52b3aa&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CNC2V348",
+          "slug": "yarn-bag-knitting-crochet-tote-bag-yarn-storage-bag-organize",
+          "title": "\udecd️Yarn Bag, Knitting Crochet Tote Bag, Yarn Storage Bag Organizer",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81zdtPLEqDL.jpg",
+          "url": "https://www.amazon.com/dp/B0CNC2V348?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=15763eab22a0a7bc2c29a522c45ba97b&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FN3WBVY1",
+          "slug": "fruit-basket-for-kitchen-counter-extra-large-fruit-bowl-with",
+          "title": "\udecd️Fruit Basket for Kitchen Counter, Extra Large Fruit Bowl with Banana Hangers, 2 Tier Fruit Holder Stand Countertop Org",
+          "price": "$24.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81u7dYuhFmL.jpg",
+          "url": "https://www.amazon.com/dp/B0FN3WBVY1?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=7fdd15db06aaa41b5ace8bdb8672fdb5&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DRRYM7GL",
+          "slug": "magnetic-dryer-vent-coupling-dv180-magnetic-dryer-vent-conne",
+          "title": "\udecd️Magnetic Dryer Vent Coupling DV180 Magnetic Dryer Vent Connector Kit 4 Inch",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71SyloorQ3L.jpg",
+          "url": "https://www.amazon.com/dp/B0DRRYM7GL?lv=shuf&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=07a677d02a17feec74d9ca32edf1e658&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0979QHY7S",
@@ -195,61 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/81uL-YgxEQL.jpg",
           "url": "https://www.amazon.com/dp/B0GQSC6V5W?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a69848228bd75ba6c2cf38c37527bd6&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00070QF0W",
-          "slug": "bic-soleil-twilight-disposable-razor-women-4-count-pack-of-6",
-          "title": "BIC Soleil Twilight Disposable Razor, Women, 4-Count (Pack of 6) : Beauty & Personal Care",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81an48+0DcL.jpg",
-          "url": "https://www.amazon.com/dp/B00070QF0W?channelId=1&lv=shuf&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=603936446c90470c0e17cbcdce6acfe0&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0764HS4SL",
-          "slug": "fullstar-pro-original-vegetable-chopper-spiralizer-kitchen-p",
-          "title": "\udecd️Fullstar Pro Original Vegetable Chopper & Spiralizer, Kitchen Prep Tool",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81GZZyozv-L.jpg",
-          "url": "https://www.amazon.com/dp/B0764HS4SL?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=acd1330bf1c14343d6b51b9319b5268c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08BY8BZS4",
-          "slug": "baby-car-mirror-with-43-hd-night-vision-function-display-saf",
-          "title": "\udecd️Baby Car Mirror with 4.3'' HD Night Vision Function Display, Safety Car Seat Camera with Wide Crystal Clear View, Easi",
-          "price": "$24.32",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/71K3qTmznzL.jpg",
-          "url": "https://www.amazon.com/dp/B08BY8BZS4?lv=shuf&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=44e95f94d06397bfce2194ee75af4666&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0B3MGJYSK",
-          "slug": "famiware-milkyway-12-piece-stoneware-dinnerware-set-cinnamon",
-          "title": "\udecd️Famiware Milkyway 12-Piece Stoneware Dinnerware Set, Cinnamon Brown",
-          "price": "$159.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81VF0B5JHuL.jpg",
-          "url": "https://www.amazon.com/dp/B0B3MGJYSK?lv=shuf&ascsubtag=srctok-53f929a4f0ae6ee7&btn_type=ss&th=1&gaOptInStatus=true&btn_ref=srctok-53f929a4f0ae6ee7&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e820af9e1126ddeac6252de446dbdae4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08FCGLYFZ",
-          "slug": "skullcandy-crusher-evo-wireless-multi-sensory-bass-headphone",
-          "title": "\udecd️Skullcandy Crusher Evo Wireless Multi-Sensory Bass Headphones - Chill Grey",
-          "price": "$150.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71AXcd2I4+L.jpg",
-          "url": "https://www.amazon.com/dp/B08FCGLYFZ?lv=shuf&ascsubtag=srctok-1592cad1f8d3d6af&btn_type=ss&gaOptInStatus=true&btn_ref=srctok-1592cad1f8d3d6af&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=c2c805dd07fe2ff16535407ea4ec0b8a&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -274,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-18T18:40:02.032Z",
-      "updatedAt": "2026-08-18T18:40:02.032Z"
+      "generatedAt": "2026-08-18T18:50:01.288Z",
+      "updatedAt": "2026-08-18T18:50:01.288Z"
     },
     {
       "date": "2026-08-17",
@@ -16372,5 +16366,5 @@
       "updatedAt": "2026-06-21T03:50:00.852Z"
     }
   ],
-  "generatedAt": "2026-08-18T18:40:02.047Z"
+  "generatedAt": "2026-08-18T18:50:01.303Z"
 }
