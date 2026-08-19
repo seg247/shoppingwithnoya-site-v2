@@ -10,7 +10,8 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Pet Supplies"
       ],
       "byCategory": {
         "Fashion": [
@@ -83,17 +84,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81w7L5DgyUL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B0D53Y3FBG?th=1&linkCode=sl2&tag=noya0b-20&linkId=256b47fa14210cb3da1ebffb3fdf7eee&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CT5C3579",
-            "slug": "toilet-plunge-blaster-high-pressure-toilet-plunger-high-pres",
-            "title": "\udecd️Toilet Plunge Blaster, High Pressure Toilet Plunger, High-Pressure Air Drain Blaster Plunge Blaster Multi-drain Unclog",
-            "price": "$30.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/7171U7OVdSL.jpg",
-            "url": "https://www.amazon.com/dp/B0CT5C3579?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=754e537b35012739168970403d4a3127&language=en_US&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -131,6 +121,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/9122MWm-ezL.jpg",
             "url": "https://www.amazon.com/dp/B0F9XSHF3G?th=1&tag=noya0b-20"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B0B44PJTJZ",
+            "slug": "personalized-dog-collars-with-bowtie-for-female-dogscute-cus",
+            "title": "Personalized Dog Collars with Bowtie for Female Dogs,Cute Custom Dog Collar for Girl Dog Engraved with Name and Phone Nu",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81fSf7bgV3L.jpg",
+            "url": "https://www.amazon.com/dp/B0B44PJTJZ?tag=noya0b-20"
           }
         ]
       },
@@ -235,15 +238,15 @@
           "url": "https://www.amazon.com/dp/B0F9XSHF3G?th=1&tag=noya0b-20"
         },
         {
-          "asin": "B0CT5C3579",
-          "slug": "toilet-plunge-blaster-high-pressure-toilet-plunger-high-pres",
-          "title": "\udecd️Toilet Plunge Blaster, High Pressure Toilet Plunger, High-Pressure Air Drain Blaster Plunge Blaster Multi-drain Unclog",
-          "price": "$30.99",
+          "asin": "B0B44PJTJZ",
+          "slug": "personalized-dog-collars-with-bowtie-for-female-dogscute-cus",
+          "title": "Personalized Dog Collars with Bowtie for Female Dogs,Cute Custom Dog Collar for Girl Dog Engraved with Name and Phone Nu",
+          "price": "$6",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/7171U7OVdSL.jpg",
-          "url": "https://www.amazon.com/dp/B0CT5C3579?lv=shuf&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=754e537b35012739168970403d4a3127&language=en_US&gaOptInStatus=true"
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/81fSf7bgV3L.jpg",
+          "url": "https://www.amazon.com/dp/B0B44PJTJZ?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-19T00:50:01.446Z",
-      "updatedAt": "2026-08-19T00:50:01.446Z"
+      "generatedAt": "2026-08-19T01:00:01.655Z",
+      "updatedAt": "2026-08-19T01:00:01.655Z"
     },
     {
       "date": "2026-08-17",
@@ -16366,5 +16369,5 @@
       "updatedAt": "2026-06-21T03:50:00.852Z"
     }
   ],
-  "generatedAt": "2026-08-19T00:50:01.460Z"
+  "generatedAt": "2026-08-19T01:00:01.670Z"
 }
