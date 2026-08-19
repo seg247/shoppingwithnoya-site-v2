@@ -10,7 +10,8 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Fashion": [
@@ -83,17 +84,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81w7L5DgyUL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B0D53Y3FBG?th=1&linkCode=sl2&tag=noya0b-20&linkId=256b47fa14210cb3da1ebffb3fdf7eee&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08DFTDD1B",
-            "slug": "lifewit-double-laundry-hamper-with-lid-and-removable-laundry",
-            "title": "\udecd️Lifewit Double Laundry Hamper with Lid and Removable Laundry Bags, Large Collapsible 2 Dividers Dirty Clothes Basket w",
-            "price": "$27.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YKV8O+2wL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08DFTDD1B?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e08820e2455ab6a119b84cb1f11a6cb2&language=en_US&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -131,6 +121,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/9122MWm-ezL.jpg",
             "url": "https://www.amazon.com/dp/B0F9XSHF3G?th=1&tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0GT6NCWYV",
+            "slug": "icymi-promo-still-going-score-bogo-12-off-select-protein-pow",
+            "title": "ICYMI promo still going! Score BOGO 1/2 off select protein powder, energy drinks, supplements, & more!! just add any 2 +",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81q-7p+ikoL.jpg",
+            "url": "https://www.amazon.com/dp/B0GT6NCWYV?tag=noya0b-20"
           }
         ]
       },
@@ -235,15 +238,15 @@
           "url": "https://www.amazon.com/dp/B0F9XSHF3G?th=1&tag=noya0b-20"
         },
         {
-          "asin": "B08DFTDD1B",
-          "slug": "lifewit-double-laundry-hamper-with-lid-and-removable-laundry",
-          "title": "\udecd️Lifewit Double Laundry Hamper with Lid and Removable Laundry Bags, Large Collapsible 2 Dividers Dirty Clothes Basket w",
-          "price": "$27.99",
+          "asin": "B0GT6NCWYV",
+          "slug": "icymi-promo-still-going-score-bogo-12-off-select-protein-pow",
+          "title": "ICYMI promo still going! Score BOGO 1/2 off select protein powder, energy drinks, supplements, & more!! just add any 2 +",
+          "price": "$29.99",
           "discount": 0,
           "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71YKV8O+2wL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08DFTDD1B?lv=shuf&th=1&gaOptInStatus=true&channelId=1&plpRedirect=mhFallback&linkCode=sl2&tag=noya0b-20&linkId=e08820e2455ab6a119b84cb1f11a6cb2&language=en_US&gaOptInStatus=true"
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81q-7p+ikoL.jpg",
+          "url": "https://www.amazon.com/dp/B0GT6NCWYV?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-19T01:20:01.438Z",
-      "updatedAt": "2026-08-19T01:20:01.439Z"
+      "generatedAt": "2026-08-19T01:30:01.671Z",
+      "updatedAt": "2026-08-19T01:30:01.671Z"
     },
     {
       "date": "2026-08-17",
@@ -16366,5 +16369,5 @@
       "updatedAt": "2026-06-21T03:50:00.852Z"
     }
   ],
-  "generatedAt": "2026-08-19T01:20:01.453Z"
+  "generatedAt": "2026-08-19T01:30:01.686Z"
 }
