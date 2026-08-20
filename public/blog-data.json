@@ -4,15 +4,92 @@
       "date": "2026-08-20",
       "slug": "2026-08-20",
       "title": "🔥 Best Deals Today — August 20, 2026",
-      "intro": "Today's best online deals for Thursday, August 20, 2026 — 10 hand-picked discounts across Other, Beauty, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, August 20, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Cleaning Supplies and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Beauty",
         "Home & Kitchen",
-        "Electronics",
-        "Sports & Fitness"
+        "Cleaning Supplies",
+        "Toys & Kids",
+        "Fashion",
+        "Electronics"
       ],
       "byCategory": {
+        "Cleaning Supplies": [
+          {
+            "asin": "B010OVNPEW",
+            "slug": "finish-dishwasher-cleaner-liquid-deep-cleans-hidden-grease-l",
+            "title": "\udecd️Finish Dishwasher Cleaner Liquid, Deep Cleans Hidden Grease & Limescale, Fights Odors & Maintains Performance, 3 Month",
+            "price": "$4.88",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71g9sesOorL.jpg",
+            "url": "https://www.amazon.com/dp/B010OVNPEW?th=1&linkCode=sl2&tag=noya0b-20&linkId=2b8ba2c616f5148adfc5ac35508f223d&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B09T8Y126Q",
+            "slug": "equazen-pro-fish-oil-for-kids-clinically-tested-to-improve-f",
+            "title": "\udecd️Equazen PRO Fish Oil for Kids - Clinically Tested to Improve Focus, Learning + Behavior in Children, Teens - DHA/EPA O",
+            "price": "$50.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71k4TiF5uYL.jpg",
+            "url": "https://www.amazon.com/dp/B09T8Y126Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=4bf7a5e4d6b2a9b49691d7baff3b07c4&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0DGQ2S3HX",
+            "slug": "sling-backpack-anti-theft-crossbody-shoulder-bag-for-men-and",
+            "title": "Sling Backpack Anti theft Crossbody Shoulder Bag for Men and Women Travel Work",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Ok5sOTqRL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DGQ2S3HX/ref=cm_sw_r_as_gl_api_gl_i_FJ9889Y2J9RG58D9ENSD?linkCode=ml1&tag=noya0b-20&linkId=3b58f6328233642727fb33d890c46223&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GLV9PML4",
+            "slug": "samsung-27-odyssey-g5-g51f-series-qhd-1440p-gaming-monitor",
+            "title": "\udecd️Samsung 27\" Odyssey G5 (G51F) Series QHD (1440P) Gaming Monitor",
+            "price": "$149.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81cYQ1dO5xL.jpg",
+            "url": "https://www.amazon.com/dp/B0GLV9PML4?gaOptInStatus=true&ascsubtag=srctok-406f4576218f01ec&btn_type=ss&btn_ref=srctok-406f4576218f01ec&linkCode=sl2&tag=noya0b-20&linkId=e70b280695b594e20c9901ed15dcc425&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B08HHKJLK8",
+            "slug": "homidec-closet-organizers-and-storage-9-cube-storage-organiz",
+            "title": "\udecd️HOMIDEC Closet Organizers and Storage, 9 Cube Storage Organizer, Black",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ATH1p6zWL.jpg",
+            "url": "https://www.amazon.com/dp/B08HHKJLK8?th=1&linkCode=sl2&tag=noya0b-20&linkId=2019b5ce1c08a85339a5ed444e068ae3&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DJSJ16XV",
+            "slug": "stainless-steel-stove-gap-covers-2pcsstove-gap-fillerrange-t",
+            "title": "\udecd️Stainless Steel Stove Gap Covers (2PCS),Stove Gap Filler,Range Trim Kit,Stove Guard for Kitchen Oven Gap Between Stove",
+            "price": "$18.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61tU8I8zDcL.jpg",
+            "url": "https://www.amazon.com/dp/B0DJSJ16XV?th=1&linkCode=sl2&tag=noya0b-20&linkId=0c14c091a7b59ea285f3bf2355de792a&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B07179XBP9",
@@ -58,83 +135,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61hGKqkbiDL.jpg",
             "url": "https://www.amazon.com/dp/B07NVFV883?linkCode=sl2&tag=noya0b-20&linkId=a8fa08262b1fd724db2f0804c5c6c2d9&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DJSJ16XV",
-            "slug": "stainless-steel-stove-gap-covers-2pcsstove-gap-fillerrange-t",
-            "title": "\udecd️Stainless Steel Stove Gap Covers (2PCS),Stove Gap Filler,Range Trim Kit,Stove Guard for Kitchen Oven Gap Between Stove",
-            "price": "$18.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61tU8I8zDcL.jpg",
-            "url": "https://www.amazon.com/dp/B0DJSJ16XV?th=1&linkCode=sl2&tag=noya0b-20&linkId=0c14c091a7b59ea285f3bf2355de792a&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B09SGLQNS5",
-            "slug": "harrys-original-razor-blades-for-men-14-count",
-            "title": "\udecd️Harry's Original Razor Blades for Men - 14 Count",
-            "price": "$29.16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81DGBDIL3YL.jpg",
-            "url": "https://www.amazon.com/dp/B09SGLQNS5?th=1&linkCode=sl2&tag=noya0b-20&linkId=06002979998c1046609a6320f517656a&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08ZKTK1QQ",
-            "slug": "rachel-zoe-instinct-eau-de-parfum-spray-floral-fragrance-bod",
-            "title": "Rachel Zoe Instinct Eau De Parfum Spray - Floral Fragrance Body Spray for Women - Bergamot, Jasmine, And Musk - Designer",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mmUWztmaL.jpg",
-            "url": "https://www.amazon.com/dp/B08ZKTK1QQ/ref=cm_sw_r_as_gl_api_gl_i_NJWPW10726X9JQ05FX4W?linkCode=ml1&tag=noya0b-20&linkId=8daaca0fcb530afcb03cd0cea491c012&gaOptInStatus=true"
-          },
-          {
-            "asin": "B078K4PKKR",
-            "slug": "ogx-thick-full-biotin-collagen-shampoo-conditioner-2-x-13-fl",
-            "title": "OGX Thick & Full + Biotin & Collagen Shampoo & Conditioner, 2 x 13 fl. oz | Shampoo & Conditioner Set, For Fine & Thinni",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Et9Z-vqrL.jpg",
-            "url": "https://www.amazon.com/dp/B078K4PKKR/ref=cm_sw_r_as_gl_api_gl_i_8VNZ9WFWRM0VX1B62QSV?linkCode=ml1&tag=noya0b-20&linkId=461d9b9fa2f1d0d99c258cb756e67921&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DYV2CGTK",
-            "slug": "nebula-x1-4k-laser-projector-3500-ansi-lumens-dolby-vision",
-            "title": "\udecd️Nebula X1 4K Laser Projector, 3,500 ANSI Lumens, Dolby Vision",
-            "price": "$2299.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71+i-j-Li2L.jpg",
-            "url": "https://www.amazon.com/dp/B0DYV2CGTK?th=1&linkCode=sl2&tag=noya0b-20&linkId=52969db6d83d1eeb2317815426cd6b6c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B07RHZ6782",
-            "slug": "olympic-barbell-clamps-collars-quick-release-pair-of-locking",
-            "title": "\udecd️Olympic Barbell Clamps Collars Quick Release Pair of Locking Weight Clips Fit 2 Inch Barbell for Weightlifting",
-            "price": "$14.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/61m1FA8CWvL.jpg",
-            "url": "https://www.amazon.com/dp/B07RHZ6782?th=1&linkCode=sl2&tag=noya0b-20&linkId=89c0f5d551961e6b0bc20cc08b7dbac4&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B010OVNPEW",
+          "slug": "finish-dishwasher-cleaner-liquid-deep-cleans-hidden-grease-l",
+          "title": "\udecd️Finish Dishwasher Cleaner Liquid, Deep Cleans Hidden Grease & Limescale, Fights Odors & Maintains Performance, 3 Month",
+          "price": "$4.88",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71g9sesOorL.jpg",
+          "url": "https://www.amazon.com/dp/B010OVNPEW?th=1&linkCode=sl2&tag=noya0b-20&linkId=2b8ba2c616f5148adfc5ac35508f223d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09T8Y126Q",
+          "slug": "equazen-pro-fish-oil-for-kids-clinically-tested-to-improve-f",
+          "title": "\udecd️Equazen PRO Fish Oil for Kids - Clinically Tested to Improve Focus, Learning + Behavior in Children, Teens - DHA/EPA O",
+          "price": "$50.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71k4TiF5uYL.jpg",
+          "url": "https://www.amazon.com/dp/B09T8Y126Q?th=1&linkCode=sl2&tag=noya0b-20&linkId=4bf7a5e4d6b2a9b49691d7baff3b07c4&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DGQ2S3HX",
+          "slug": "sling-backpack-anti-theft-crossbody-shoulder-bag-for-men-and",
+          "title": "Sling Backpack Anti theft Crossbody Shoulder Bag for Men and Women Travel Work",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Ok5sOTqRL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DGQ2S3HX/ref=cm_sw_r_as_gl_api_gl_i_FJ9889Y2J9RG58D9ENSD?linkCode=ml1&tag=noya0b-20&linkId=3b58f6328233642727fb33d890c46223&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GLV9PML4",
+          "slug": "samsung-27-odyssey-g5-g51f-series-qhd-1440p-gaming-monitor",
+          "title": "\udecd️Samsung 27\" Odyssey G5 (G51F) Series QHD (1440P) Gaming Monitor",
+          "price": "$149.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81cYQ1dO5xL.jpg",
+          "url": "https://www.amazon.com/dp/B0GLV9PML4?gaOptInStatus=true&ascsubtag=srctok-406f4576218f01ec&btn_type=ss&btn_ref=srctok-406f4576218f01ec&linkCode=sl2&tag=noya0b-20&linkId=e70b280695b594e20c9901ed15dcc425&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08HHKJLK8",
+          "slug": "homidec-closet-organizers-and-storage-9-cube-storage-organiz",
+          "title": "\udecd️HOMIDEC Closet Organizers and Storage, 9 Cube Storage Organizer, Black",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ATH1p6zWL.jpg",
+          "url": "https://www.amazon.com/dp/B08HHKJLK8?th=1&linkCode=sl2&tag=noya0b-20&linkId=2019b5ce1c08a85339a5ed444e068ae3&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B07179XBP9",
           "slug": "subject-to-change-at-any-time",
@@ -189,67 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61tU8I8zDcL.jpg",
           "url": "https://www.amazon.com/dp/B0DJSJ16XV?th=1&linkCode=sl2&tag=noya0b-20&linkId=0c14c091a7b59ea285f3bf2355de792a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09SGLQNS5",
-          "slug": "harrys-original-razor-blades-for-men-14-count",
-          "title": "\udecd️Harry's Original Razor Blades for Men - 14 Count",
-          "price": "$29.16",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81DGBDIL3YL.jpg",
-          "url": "https://www.amazon.com/dp/B09SGLQNS5?th=1&linkCode=sl2&tag=noya0b-20&linkId=06002979998c1046609a6320f517656a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DYV2CGTK",
-          "slug": "nebula-x1-4k-laser-projector-3500-ansi-lumens-dolby-vision",
-          "title": "\udecd️Nebula X1 4K Laser Projector, 3,500 ANSI Lumens, Dolby Vision",
-          "price": "$2299.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+i-j-Li2L.jpg",
-          "url": "https://www.amazon.com/dp/B0DYV2CGTK?th=1&linkCode=sl2&tag=noya0b-20&linkId=52969db6d83d1eeb2317815426cd6b6c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08ZKTK1QQ",
-          "slug": "rachel-zoe-instinct-eau-de-parfum-spray-floral-fragrance-bod",
-          "title": "Rachel Zoe Instinct Eau De Parfum Spray - Floral Fragrance Body Spray for Women - Bergamot, Jasmine, And Musk - Designer",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61mmUWztmaL.jpg",
-          "url": "https://www.amazon.com/dp/B08ZKTK1QQ/ref=cm_sw_r_as_gl_api_gl_i_NJWPW10726X9JQ05FX4W?linkCode=ml1&tag=noya0b-20&linkId=8daaca0fcb530afcb03cd0cea491c012&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07RHZ6782",
-          "slug": "olympic-barbell-clamps-collars-quick-release-pair-of-locking",
-          "title": "\udecd️Olympic Barbell Clamps Collars Quick Release Pair of Locking Weight Clips Fit 2 Inch Barbell for Weightlifting",
-          "price": "$14.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/61m1FA8CWvL.jpg",
-          "url": "https://www.amazon.com/dp/B07RHZ6782?th=1&linkCode=sl2&tag=noya0b-20&linkId=89c0f5d551961e6b0bc20cc08b7dbac4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B078K4PKKR",
-          "slug": "ogx-thick-full-biotin-collagen-shampoo-conditioner-2-x-13-fl",
-          "title": "OGX Thick & Full + Biotin & Collagen Shampoo & Conditioner, 2 x 13 fl. oz | Shampoo & Conditioner Set, For Fine & Thinni",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Et9Z-vqrL.jpg",
-          "url": "https://www.amazon.com/dp/B078K4PKKR/ref=cm_sw_r_as_gl_api_gl_i_8VNZ9WFWRM0VX1B62QSV?linkCode=ml1&tag=noya0b-20&linkId=461d9b9fa2f1d0d99c258cb756e67921&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 20, 2026?",
-          "a": "The best deals today include \"subject to change at any time....\" and 9 other hand-picked discounts. Deals span Other, Beauty, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"\udecd️Finish Dishwasher Cleaner Liquid, Deep Cleans Hidden Greas...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-20T10:50:00.354Z",
-      "updatedAt": "2026-08-20T10:50:00.355Z"
+      "generatedAt": "2026-08-20T11:00:00.660Z",
+      "updatedAt": "2026-08-20T11:00:00.660Z"
     },
     {
       "date": "2026-08-19",
@@ -16372,5 +16375,5 @@
       "updatedAt": "2026-06-23T03:50:01.795Z"
     }
   ],
-  "generatedAt": "2026-08-20T10:50:00.367Z"
+  "generatedAt": "2026-08-20T11:00:00.674Z"
 }
