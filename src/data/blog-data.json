@@ -9,10 +9,71 @@
         "Other",
         "Home & Kitchen",
         "Grocery & Food",
+        "Electronics",
+        "Fashion",
         "Beauty"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B07QC2W3XN",
+            "slug": "gogirl-budget-planner-paycheck-bill-organizer-book-53x77-bla",
+            "title": "\udecd️GoGirl Budget Planner – Paycheck & Bill Organizer Book 5.3x7.7 Black",
+            "price": "$12.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81LpHCfAiZL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+            "url": "https://www.amazon.com/dp/B07QC2W3XN?th=1&linkCode=sl2&tag=noya0b-20&linkId=5ce77fadde0bcb5753a3ec5d84d92482&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0F7RD2VZQ",
+            "slug": "vintage-floral-living-room-rug-8x10-gold-brown-washable-area",
+            "title": "\udecd️Vintage Floral Living Room Rug 8x10, Gold Brown Washable Area Rugs for Bedroom, Dining Room Under Kitchen Table, Orien",
+            "price": "$170.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/91vI3t4dnLL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+            "url": "https://www.amazon.com/dp/B0F7RD2VZQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=790dc97db659d62744a1ee2c8fc34935&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B002FZFITQ",
+            "slug": "tabasco-brand-habanero-sauce-spicy-fruity-habanero-hot-sauce",
+            "title": "TABASCO® Brand Habanero Sauce, Spicy & Fruity Habanero Hot Sauce, Glass Bottle, Jamaican-Style, Packed with Heat, Great ",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81za7LnLIjL.jpg",
+            "url": "https://www.amazon.com/TABASCO-Brand-Scorpion-Pepper-Sauce/dp/B002FZFITQ?ie=UTF8&ascsubtag=9b8751b89ccf11f1b153da72656e76710INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=e76fffbd69e82614b843b441da301b0b&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B076VW3CX6",
+            "slug": "4x6-clear-cookie-bags-with-seal-200-pack-self-sealing-cellop",
+            "title": "\udecd️4x6 Clear Cookie Bags With Seal (200 Pack) - Self Sealing Cellophane Bags",
+            "price": "$7.63",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71n5xB5CDoL.jpg",
+            "url": "https://www.amazon.com/dp/B076VW3CX6?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=d984ff65e08cc74ecb8323458d7a41f8&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B08T2WP81T",
+            "slug": "pantene-miracle-rescue-10-in-1-multitasking-spray-heat-prote",
+            "title": "Pantene Miracle Rescue 10-in-1 Multitasking Spray, Heat Protection, 5.7 oz | Detangles, Repairs Damaged, Dry Hair, Impro",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61yjcsJO0CL.jpg",
+            "url": "https://www.amazon.com/dp/B08T2WP81T?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0H1QKBJ7S",
             "slug": "besarme-40-pcs-colorful-flower-push-pins-for-cork-board-cute",
@@ -34,87 +95,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71TC3oUAmpL.jpg",
             "url": "https://www.amazon.com/dp/B085WWPNY4?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=338367cbe13674f01e4ab7fd818f6332&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07KQ9FF1J",
-            "slug": "gum-orthodontic-wax-for-braces-aligners-mint-1-count-6-pack",
-            "title": "\udecd️GUM Orthodontic Wax for Braces & Aligners, Mint, 1 Count (6 Pack)",
-            "price": "$7.29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xKh-sxb2L.jpg",
-            "url": "https://www.amazon.com/dp/B07KQ9FF1J?th=1&linkCode=sl2&tag=noya0b-20&linkId=35921725547d39bb8a670466d3ee85a9&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B075F8HZS9",
-            "slug": "kenmore-81414-400-series-pet-friendly-lightweight-bagged-can",
-            "title": "\udecd️Kenmore 81414 400 Series Pet Friendly Lightweight Bagged Canister Vacuum with Extended Telescoping Wand, HEPA, Retract",
-            "price": "$205.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51uRCJieWSL.jpg",
-            "url": "https://www.amazon.com/dp/B075F8HZS9?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=66a80c05cc1240e60325ce9c5cba2975&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0H49PBSJD",
-            "slug": "gooqand-solar-bug-zapper-4500v-updated-electric-mosquito-zap",
-            "title": "Gooqand Solar Bug Zapper 4500V Updated, Electric Mosquito Zapper Outdoor | Smart Modes, Rechargeable Mosquito Killer wit",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81CtMc9nNHL.jpg",
-            "url": "https://www.amazon.com/dp/B0H49PBSJD?th=1&tag=noya0b-20"
           }
         ],
-        "Home & Kitchen": [
+        "Electronics": [
           {
-            "asin": "B0F7RD2VZQ",
-            "slug": "vintage-floral-living-room-rug-8x10-gold-brown-washable-area",
-            "title": "\udecd️Vintage Floral Living Room Rug 8x10, Gold Brown Washable Area Rugs for Bedroom, Dining Room Under Kitchen Table, Orien",
-            "price": "$170.99",
+            "asin": "B095VFM4NX",
+            "slug": "suplik-kids-case-for-ipad-9th8th7th-generation-ipad-102-inch",
+            "title": "\udecd️SUPLIK Kids Case for iPad 9th/8th/7th Generation - iPad 10.2 inch 2021/2020/2019 Case with Built-in Screen Protector, ",
+            "price": "$16.98",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/91vI3t4dnLL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
-            "url": "https://www.amazon.com/dp/B0F7RD2VZQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=790dc97db659d62744a1ee2c8fc34935&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CGDLK8JY",
-            "slug": "bath-matultra-thin-bathroom-rugsrubber-bath-mats-for-bathroo",
-            "title": "\udecd️Bath Mat,Ultra Thin Bathroom Rugs,Rubber Bath Mats for Bathroom,No Slip Bath Rugs,Quick Dry,Machine Washable,Low Pile,",
-            "price": "$9.31",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81+xany8mDL.jpg",
-            "url": "https://www.amazon.com/dp/B0CGDLK8JY?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=42c43669c6955007ed92f3a0d1a4c38f&language=en_US&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/6116gmNUVZL.jpg",
+            "url": "https://www.amazon.com/dp/B095VFM4NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=e254b55d52dbfae9f17aba09a591fd95&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Grocery & Food": [
+        "Fashion": [
           {
-            "asin": "B076VW3CX6",
-            "slug": "4x6-clear-cookie-bags-with-seal-200-pack-self-sealing-cellop",
-            "title": "\udecd️4x6 Clear Cookie Bags With Seal (200 Pack) - Self Sealing Cellophane Bags",
-            "price": "$7.63",
+            "asin": "B0FGDKB4JB",
+            "slug": "50-pcs-shoe-charms-for-clog-diy-shoe-bracelet-wristband-part",
+            "title": "50 Pcs Shoe Charms for Clog, DIY Shoe & Bracelet Wristband Party Gifts Decoration Accessories For Boys Girls Teens Adult",
+            "price": "$3",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71n5xB5CDoL.jpg",
-            "url": "https://www.amazon.com/dp/B076VW3CX6?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=d984ff65e08cc74ecb8323458d7a41f8&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0BNW9NR2W",
-            "slug": "maryruths-toddler-multivitamin-gummies-sugar-free2-month-sup",
-            "title": "MARYRUTH'S Toddler Multivitamin Gummies, Sugar-Free,2 Month Supply, Ages 2+ | 2 Month Supply Multivitamin with Vitamin C",
-            "price": "$14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81wgbnNqGXL.jpg",
-            "url": "https://www.amazon.com/MaryRuths-Toddler-Multivitamin-Gummies-Toddlers/dp/B0BNW9NR2W?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3ea1828402d4ff1c7b0d987fc933964e&language=en_US&gaOptInStatus=true"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71L4h8W1+oL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FGDKB4JB?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=b561bffc731d5540626d50274d418c29&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -132,6 +138,61 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B07QC2W3XN",
+          "slug": "gogirl-budget-planner-paycheck-bill-organizer-book-53x77-bla",
+          "title": "\udecd️GoGirl Budget Planner – Paycheck & Bill Organizer Book 5.3x7.7 Black",
+          "price": "$12.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LpHCfAiZL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
+          "url": "https://www.amazon.com/dp/B07QC2W3XN?th=1&linkCode=sl2&tag=noya0b-20&linkId=5ce77fadde0bcb5753a3ec5d84d92482&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B002FZFITQ",
+          "slug": "tabasco-brand-habanero-sauce-spicy-fruity-habanero-hot-sauce",
+          "title": "TABASCO® Brand Habanero Sauce, Spicy & Fruity Habanero Hot Sauce, Glass Bottle, Jamaican-Style, Packed with Heat, Great ",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81za7LnLIjL.jpg",
+          "url": "https://www.amazon.com/TABASCO-Brand-Scorpion-Pepper-Sauce/dp/B002FZFITQ?ie=UTF8&ascsubtag=9b8751b89ccf11f1b153da72656e76710INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=e76fffbd69e82614b843b441da301b0b&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08T2WP81T",
+          "slug": "pantene-miracle-rescue-10-in-1-multitasking-spray-heat-prote",
+          "title": "Pantene Miracle Rescue 10-in-1 Multitasking Spray, Heat Protection, 5.7 oz | Detangles, Repairs Damaged, Dry Hair, Impro",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61yjcsJO0CL.jpg",
+          "url": "https://www.amazon.com/dp/B08T2WP81T?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B095VFM4NX",
+          "slug": "suplik-kids-case-for-ipad-9th8th7th-generation-ipad-102-inch",
+          "title": "\udecd️SUPLIK Kids Case for iPad 9th/8th/7th Generation - iPad 10.2 inch 2021/2020/2019 Case with Built-in Screen Protector, ",
+          "price": "$16.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/6116gmNUVZL.jpg",
+          "url": "https://www.amazon.com/dp/B095VFM4NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=e254b55d52dbfae9f17aba09a591fd95&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FGDKB4JB",
+          "slug": "50-pcs-shoe-charms-for-clog-diy-shoe-bracelet-wristband-part",
+          "title": "50 Pcs Shoe Charms for Clog, DIY Shoe & Bracelet Wristband Party Gifts Decoration Accessories For Boys Girls Teens Adult",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71L4h8W1+oL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FGDKB4JB?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=b561bffc731d5540626d50274d418c29&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0H1QKBJ7S",
           "slug": "besarme-40-pcs-colorful-flower-push-pins-for-cork-board-cute",
@@ -186,67 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71TC3oUAmpL.jpg",
           "url": "https://www.amazon.com/dp/B085WWPNY4?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=338367cbe13674f01e4ab7fd818f6332&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BNW9NR2W",
-          "slug": "maryruths-toddler-multivitamin-gummies-sugar-free2-month-sup",
-          "title": "MARYRUTH'S Toddler Multivitamin Gummies, Sugar-Free,2 Month Supply, Ages 2+ | 2 Month Supply Multivitamin with Vitamin C",
-          "price": "$14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81wgbnNqGXL.jpg",
-          "url": "https://www.amazon.com/MaryRuths-Toddler-Multivitamin-Gummies-Toddlers/dp/B0BNW9NR2W?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=3ea1828402d4ff1c7b0d987fc933964e&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07KQ9FF1J",
-          "slug": "gum-orthodontic-wax-for-braces-aligners-mint-1-count-6-pack",
-          "title": "\udecd️GUM Orthodontic Wax for Braces & Aligners, Mint, 1 Count (6 Pack)",
-          "price": "$7.29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xKh-sxb2L.jpg",
-          "url": "https://www.amazon.com/dp/B07KQ9FF1J?th=1&linkCode=sl2&tag=noya0b-20&linkId=35921725547d39bb8a670466d3ee85a9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CGDLK8JY",
-          "slug": "bath-matultra-thin-bathroom-rugsrubber-bath-mats-for-bathroo",
-          "title": "\udecd️Bath Mat,Ultra Thin Bathroom Rugs,Rubber Bath Mats for Bathroom,No Slip Bath Rugs,Quick Dry,Machine Washable,Low Pile,",
-          "price": "$9.31",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81+xany8mDL.jpg",
-          "url": "https://www.amazon.com/dp/B0CGDLK8JY?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=42c43669c6955007ed92f3a0d1a4c38f&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B075F8HZS9",
-          "slug": "kenmore-81414-400-series-pet-friendly-lightweight-bagged-can",
-          "title": "\udecd️Kenmore 81414 400 Series Pet Friendly Lightweight Bagged Canister Vacuum with Extended Telescoping Wand, HEPA, Retract",
-          "price": "$205.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51uRCJieWSL.jpg",
-          "url": "https://www.amazon.com/dp/B075F8HZS9?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=66a80c05cc1240e60325ce9c5cba2975&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0H49PBSJD",
-          "slug": "gooqand-solar-bug-zapper-4500v-updated-electric-mosquito-zap",
-          "title": "Gooqand Solar Bug Zapper 4500V Updated, Electric Mosquito Zapper Outdoor | Smart Modes, Rechargeable Mosquito Killer wit",
-          "price": "$15",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81CtMc9nNHL.jpg",
-          "url": "https://www.amazon.com/dp/B0H49PBSJD?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 20, 2026?",
-          "a": "The best deals today include \"BESARME 40 PCS Colorful Flower Push Pins for Cork Board, Cut...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"\udecd️GoGirl Budget Planner – Paycheck & Bill Organizer Book 5.3...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-20T19:40:01.946Z",
-      "updatedAt": "2026-08-20T19:40:01.946Z"
+      "generatedAt": "2026-08-20T19:50:01.970Z",
+      "updatedAt": "2026-08-20T19:50:01.971Z"
     },
     {
       "date": "2026-08-19",
@@ -16369,5 +16375,5 @@
       "updatedAt": "2026-06-23T03:50:01.795Z"
     }
   ],
-  "generatedAt": "2026-08-20T19:40:01.961Z"
+  "generatedAt": "2026-08-20T19:50:01.986Z"
 }
