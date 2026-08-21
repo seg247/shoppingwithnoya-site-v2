@@ -9,10 +9,79 @@
         "Other",
         "Home & Kitchen",
         "Electronics",
-        "Sports & Fitness",
-        "Beauty"
+        "Fashion"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B08YP9JDR9",
+            "slug": "stride-rite-360-boys-ethan-sneakers",
+            "title": "\udecd️Stride Rite 360 Boys' Ethan Sneakers",
+            "price": "$29.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Lq04bMPGL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08YP9JDR9?gaOptInStatus=true&ascsubtag=srctok-1cbc89ec9109d921&btn_type=ss&btn_ref=srctok-1cbc89ec9109d921&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=f45cee53b5272f2dbd05b53be02a8efa&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0H416V3PD",
+            "slug": "magnetic-phone-holder-for-car-2025-upgrade-with-96lbs-ultra",
+            "title": "\udecd️Magnetic Phone Holder for Car, 2025 Upgrade with 96LBS Ultra Suction & 2800gf Strong Magnet, 360° Adjustable Hands-Fre",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71uLfFVERoL.jpg",
+            "url": "https://www.amazon.com/dp/B0H416V3PD?linkCode=sl2&tag=noya0b-20&linkId=99921548d59cd49518101b8cfbb7482c&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07NVR2NTT",
+            "slug": "eureka-nes215a-blaze-3-in-1-swivel-handheld-stick-vacuum-cle",
+            "title": "\udecd️Eureka NES215A Blaze 3-in-1 Swivel Handheld & Stick Vacuum Cleaner, Blue",
+            "price": "$33.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B07NVR2NTT?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=bd4ff81ea71e52efc6978f56cf7d5789&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DQD3GG2R",
+            "slug": "teeth-whitening-strips-for-sensitive-42-strips21-uses-mint",
+            "title": "\udecd️Teeth Whitening Strips for Sensitive, 42 Strips(21 Uses), Mint",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/7102MuLTzRL.jpg",
+            "url": "https://www.amazon.com/dp/B0DQD3GG2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=9f6720fda9a9d9843777d59688bc2f51&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0CR19VXMZ",
+            "slug": "5038-ice-maker-shut-off-arm-fridge-part-wp67004028-ap4077996",
+            "title": "\udecd️5038 Ice Maker Shut Off Arm Fridge Part WP67004028 AP4077996",
+            "price": "$9.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CR19VXMZ?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=6ac5544b8d19c64a3952c91a1203a28b&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DGR99WL5",
+            "slug": "instaseal-upright-vacuum-sealer-for-food-with-12-bags",
+            "title": "\udecd️InstaSeal Upright Vacuum Sealer for Food with 12 Bags",
+            "price": "$79.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71AHbB4lsvL.jpg",
+            "url": "https://www.amazon.com/dp/B0DGR99WL5?th=1&linkCode=sl2&tag=noya0b-20&linkId=325931e42697656ab3c0ddb7055c309d&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B08HPGYTKH",
@@ -35,41 +104,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61bIxton+fL.jpg",
             "url": "https://www.amazon.com/dp/B0CZNQD1SR?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=d688796a4ad6b2b056f52521fb88212c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0DGR99WL5",
-            "slug": "instaseal-upright-vacuum-sealer-for-food-with-12-bags",
-            "title": "\udecd️InstaSeal Upright Vacuum Sealer for Food with 12 Bags",
-            "price": "$79.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71AHbB4lsvL.jpg",
-            "url": "https://www.amazon.com/dp/B0DGR99WL5?th=1&linkCode=sl2&tag=noya0b-20&linkId=325931e42697656ab3c0ddb7055c309d&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B01N6B8SX0",
-            "slug": "lite-brite-classic-just-9xx-reg-20",
-            "title": "⚡️Lite Brite Classic JUST $9.xx! Reg $20",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qRYmxjJOL.jpg",
-            "url": "https://www.amazon.com/Lite-Brite-Classic-Favorite-Retro-Toy/dp/B01N6B8SX0?linkCode=sl2&tag=noya0b-20&linkId=369ba5aae29a162dadf4718e32943a03&language=en_US"
-          },
-          {
-            "asin": "B084DW56BH",
-            "slug": "oxo-tot-bathtub-spout-cover",
-            "title": "\udecd️OXO Tot Bathtub Spout Cover",
-            "price": "$11.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B084DW56BH?linkCode=sl2&tag=noya0b-20&linkId=7296e581575cb8999495aa95fe19b3a4&language=en_US&gaOptInStatus=true"
           }
         ],
         "Electronics": [
@@ -95,46 +129,64 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61evLg4csLL.jpg",
             "url": "https://www.amazon.com/dp/B0D9L9V7PW?gaOptInStatus=true&ascsubtag=srctok-11318267162dbc0d&btn_type=ss&btn_ref=srctok-11318267162dbc0d&th=1&linkCode=sl2&tag=noya0b-20&linkId=d66f26ad2db9af61b3aead61baad78e8&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0D1YG4Y5N",
-            "slug": "cotsoco-massage-gun-deep-tissue-muscle-massage-gun-with-9-at",
-            "title": "\udecd️cotsoco Massage Gun Deep Tissue, Muscle Massage Gun with 9 Attachment Heads 20 Speeds & Silent Brushless Motor for Pai",
-            "price": "$25.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D1YG4Y5N?th=1&linkCode=sl2&tag=noya0b-20&linkId=e4353b9f19fe5b0512acf3d0808e30e4&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DFYFM5G8",
-            "slug": "golf-net-with-practice-matgolf-hitting-aid-nets-10x7ft-for-b",
-            "title": "\udecd️Golf Net with Practice Mat,Golf Hitting Aid Nets 10x7FT for Backyard Driving Chipping Training Swing with Target Mat B",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/91KxXh8gHqL.jpg",
-            "url": "https://www.amazon.com/dp/B0DFYFM5G8?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=7962ff78a62d30dbcb13b87eef93b2c3&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00S2G786S",
-            "slug": "tree-of-life-vitamin-c-serum-for-face-dark-spots-remover-fac",
-            "title": "\udecd️Tree of Life Vitamin C Serum for Face, Dark Spots Remover Face Oil, 1 Fl Oz",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PRNW2Bi0L.jpg",
-            "url": "https://www.amazon.com/dp/B00S2G786S?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=fc8433f1c78578aa563c988d45a88e8c&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08YP9JDR9",
+          "slug": "stride-rite-360-boys-ethan-sneakers",
+          "title": "\udecd️Stride Rite 360 Boys' Ethan Sneakers",
+          "price": "$29.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Lq04bMPGL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08YP9JDR9?gaOptInStatus=true&ascsubtag=srctok-1cbc89ec9109d921&btn_type=ss&btn_ref=srctok-1cbc89ec9109d921&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=f45cee53b5272f2dbd05b53be02a8efa&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H416V3PD",
+          "slug": "magnetic-phone-holder-for-car-2025-upgrade-with-96lbs-ultra",
+          "title": "\udecd️Magnetic Phone Holder for Car, 2025 Upgrade with 96LBS Ultra Suction & 2800gf Strong Magnet, 360° Adjustable Hands-Fre",
+          "price": "$19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71uLfFVERoL.jpg",
+          "url": "https://www.amazon.com/dp/B0H416V3PD?linkCode=sl2&tag=noya0b-20&linkId=99921548d59cd49518101b8cfbb7482c&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B07NVR2NTT",
+          "slug": "eureka-nes215a-blaze-3-in-1-swivel-handheld-stick-vacuum-cle",
+          "title": "\udecd️Eureka NES215A Blaze 3-in-1 Swivel Handheld & Stick Vacuum Cleaner, Blue",
+          "price": "$33.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B07NVR2NTT?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=bd4ff81ea71e52efc6978f56cf7d5789&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DQD3GG2R",
+          "slug": "teeth-whitening-strips-for-sensitive-42-strips21-uses-mint",
+          "title": "\udecd️Teeth Whitening Strips for Sensitive, 42 Strips(21 Uses), Mint",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/7102MuLTzRL.jpg",
+          "url": "https://www.amazon.com/dp/B0DQD3GG2R?th=1&linkCode=sl2&tag=noya0b-20&linkId=9f6720fda9a9d9843777d59688bc2f51&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CR19VXMZ",
+          "slug": "5038-ice-maker-shut-off-arm-fridge-part-wp67004028-ap4077996",
+          "title": "\udecd️5038 Ice Maker Shut Off Arm Fridge Part WP67004028 AP4077996",
+          "price": "$9.39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CR19VXMZ?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=6ac5544b8d19c64a3952c91a1203a28b&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B08HPGYTKH",
           "slug": "4monster-quick-dry-travel-towel-with-case-carabiner-super-ab",
@@ -189,67 +241,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61evLg4csLL.jpg",
           "url": "https://www.amazon.com/dp/B0D9L9V7PW?gaOptInStatus=true&ascsubtag=srctok-11318267162dbc0d&btn_type=ss&btn_ref=srctok-11318267162dbc0d&th=1&linkCode=sl2&tag=noya0b-20&linkId=d66f26ad2db9af61b3aead61baad78e8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01N6B8SX0",
-          "slug": "lite-brite-classic-just-9xx-reg-20",
-          "title": "⚡️Lite Brite Classic JUST $9.xx! Reg $20",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qRYmxjJOL.jpg",
-          "url": "https://www.amazon.com/Lite-Brite-Classic-Favorite-Retro-Toy/dp/B01N6B8SX0?linkCode=sl2&tag=noya0b-20&linkId=369ba5aae29a162dadf4718e32943a03&language=en_US"
-        },
-        {
-          "asin": "B0D1YG4Y5N",
-          "slug": "cotsoco-massage-gun-deep-tissue-muscle-massage-gun-with-9-at",
-          "title": "\udecd️cotsoco Massage Gun Deep Tissue, Muscle Massage Gun with 9 Attachment Heads 20 Speeds & Silent Brushless Motor for Pai",
-          "price": "$25.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0D1YG4Y5N?th=1&linkCode=sl2&tag=noya0b-20&linkId=e4353b9f19fe5b0512acf3d0808e30e4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B084DW56BH",
-          "slug": "oxo-tot-bathtub-spout-cover",
-          "title": "\udecd️OXO Tot Bathtub Spout Cover",
-          "price": "$11.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B084DW56BH?linkCode=sl2&tag=noya0b-20&linkId=7296e581575cb8999495aa95fe19b3a4&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00S2G786S",
-          "slug": "tree-of-life-vitamin-c-serum-for-face-dark-spots-remover-fac",
-          "title": "\udecd️Tree of Life Vitamin C Serum for Face, Dark Spots Remover Face Oil, 1 Fl Oz",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PRNW2Bi0L.jpg",
-          "url": "https://www.amazon.com/dp/B00S2G786S?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=fc8433f1c78578aa563c988d45a88e8c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DFYFM5G8",
-          "slug": "golf-net-with-practice-matgolf-hitting-aid-nets-10x7ft-for-b",
-          "title": "\udecd️Golf Net with Practice Mat,Golf Hitting Aid Nets 10x7FT for Backyard Driving Chipping Training Swing with Target Mat B",
-          "price": "$59.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/91KxXh8gHqL.jpg",
-          "url": "https://www.amazon.com/dp/B0DFYFM5G8?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=7962ff78a62d30dbcb13b87eef93b2c3&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 21, 2026?",
-          "a": "The best deals today include \"\udecd️4Monster Quick Dry Travel Towel with Case & Carabiner – Su...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️Stride Rite 360 Boys' Ethan Sneakers...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-21T15:10:01.362Z",
-      "updatedAt": "2026-08-21T15:10:01.362Z"
+      "generatedAt": "2026-08-21T15:20:01.914Z",
+      "updatedAt": "2026-08-21T15:20:01.915Z"
     },
     {
       "date": "2026-08-20",
@@ -16378,5 +16375,5 @@
       "updatedAt": "2026-06-24T03:50:01.448Z"
     }
   ],
-  "generatedAt": "2026-08-21T15:10:01.382Z"
+  "generatedAt": "2026-08-21T15:20:01.929Z"
 }
