@@ -4,14 +4,14 @@
       "date": "2026-08-21",
       "slug": "2026-08-21",
       "title": "💄 Best Beauty Deals Today — August 21, 2026",
-      "intro": "Today's best beauty deals for Friday, August 21, 2026 — 30 hand-picked discounts on Makeup, Skincare, Body Care and more. The best beauty discount today is 49% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
+      "intro": "Today's best beauty deals for Friday, August 21, 2026 — 30 hand-picked discounts on Makeup, Fragrance, Skincare and more. The best beauty discount today is 49% off. All beauty products are from trusted brands with affiliate links. Shop before they sell out.",
       "subcats": [
         "Makeup",
+        "Fragrance",
         "Skincare",
         "Body Care",
         "Hair Care",
-        "Beauty",
-        "Fragrance"
+        "Beauty"
       ],
       "bySubcat": {
         "Makeup": [
@@ -64,6 +64,28 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/71SBwaUJgAL.jpg",
             "url": "https://www.amazon.com/dp/B0GTDNV5WL?th=1&linkCode=sl2&tag=noya0b-20&linkId=611a956a76f24fd9d5542fd4ba8226da&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fragrance": [
+          {
+            "asin": "B08MRSFDBT",
+            "slug": "juicy-couture-viva-la-juicy-le-bubbly-eau-de-parfum-for-wome",
+            "title": "Juicy Couture Viva La Juicy Le Bubbly Eau de Parfum for Women, 3.4 fl oz | Fruity sweet women's eau de parfum. Perfume w",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08MRSFDBT/ref=cm_sw_r_as_gl_apa_gl_i_VW0MQPGB27YC01GKSKRT?linkCode=ml1&tag=noya0b-20&linkId=544ea84534649e63713f70c260ff8d0c&gaOptInStatus=true"
+          },
+          {
+            "asin": "B08ZKTK1QQ",
+            "slug": "rachel-zoe-instinct-eau-de-parfum-spray-floral-fragrance-bod",
+            "title": "Rachel Zoe Instinct Eau De Parfum Spray - Floral Fragrance Body Spray for Women - Bergamot, Jasmine, And Musk - Designer",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61mmUWztmaL.jpg",
+            "url": "https://www.amazon.com/dp/B08ZKTK1QQ/ref=cm_sw_r_as_gl_api_gl_i_NJWPW10726X9JQ05FX4W?linkCode=ml1&tag=noya0b-20&linkId=8daaca0fcb530afcb03cd0cea491c012&gaOptInStatus=true"
           }
         ],
         "Skincare": [
@@ -196,16 +218,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61YxQHrEIcL.jpg",
             "url": "https://www.amazon.com/dp/B00OZEJ8R8?linkCode=sl2&tag=noya0b-20&linkId=969b95af191fdf9a91c9f3b56641df26&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B078K4PKKR",
-            "slug": "ogx-thick-full-biotin-collagen-shampoo-conditioner-2-x-13-fl",
-            "title": "OGX Thick & Full + Biotin & Collagen Shampoo & Conditioner, 2 x 13 fl. oz | Shampoo & Conditioner Set, For Fine & Thinni",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Et9Z-vqrL.jpg",
-            "url": "https://www.amazon.com/dp/B078K4PKKR/ref=cm_sw_r_as_gl_api_gl_i_8VNZ9WFWRM0VX1B62QSV?linkCode=ml1&tag=noya0b-20&linkId=461d9b9fa2f1d0d99c258cb756e67921&gaOptInStatus=true"
           }
         ],
         "Body Care": [
@@ -313,18 +325,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71xMIZgC-TL.jpg",
             "url": "https://www.amazon.com/dp/B01AXQP6AE?th=1&tag=noya0b-20"
           }
-        ],
-        "Fragrance": [
-          {
-            "asin": "B08ZKTK1QQ",
-            "slug": "rachel-zoe-instinct-eau-de-parfum-spray-floral-fragrance-bod",
-            "title": "Rachel Zoe Instinct Eau De Parfum Spray - Floral Fragrance Body Spray for Women - Bergamot, Jasmine, And Musk - Designer",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mmUWztmaL.jpg",
-            "url": "https://www.amazon.com/dp/B08ZKTK1QQ/ref=cm_sw_r_as_gl_api_gl_i_NJWPW10726X9JQ05FX4W?linkCode=ml1&tag=noya0b-20&linkId=8daaca0fcb530afcb03cd0cea491c012&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -337,6 +337,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/71TnTyU35ZL.jpg",
           "url": "https://www.amazon.com/dp/B0GMWY1T7H?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B08MRSFDBT",
+          "slug": "juicy-couture-viva-la-juicy-le-bubbly-eau-de-parfum-for-wome",
+          "title": "Juicy Couture Viva La Juicy Le Bubbly Eau de Parfum for Women, 3.4 fl oz | Fruity sweet women's eau de parfum. Perfume w",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B08MRSFDBT/ref=cm_sw_r_as_gl_apa_gl_i_VW0MQPGB27YC01GKSKRT?linkCode=ml1&tag=noya0b-20&linkId=544ea84534649e63713f70c260ff8d0c&gaOptInStatus=true"
         },
         {
           "asin": "B0DTQ8FGQX",
@@ -617,16 +627,6 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/61mmUWztmaL.jpg",
           "url": "https://www.amazon.com/dp/B08ZKTK1QQ/ref=cm_sw_r_as_gl_api_gl_i_NJWPW10726X9JQ05FX4W?linkCode=ml1&tag=noya0b-20&linkId=8daaca0fcb530afcb03cd0cea491c012&gaOptInStatus=true"
-        },
-        {
-          "asin": "B078K4PKKR",
-          "slug": "ogx-thick-full-biotin-collagen-shampoo-conditioner-2-x-13-fl",
-          "title": "OGX Thick & Full + Biotin & Collagen Shampoo & Conditioner, 2 x 13 fl. oz | Shampoo & Conditioner Set, For Fine & Thinni",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Et9Z-vqrL.jpg",
-          "url": "https://www.amazon.com/dp/B078K4PKKR/ref=cm_sw_r_as_gl_api_gl_i_8VNZ9WFWRM0VX1B62QSV?linkCode=ml1&tag=noya0b-20&linkId=461d9b9fa2f1d0d99c258cb756e67921&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -646,7 +646,7 @@
       "faq": [
         {
           "q": "What are the best beauty deals today on August 21, 2026?",
-          "a": "The top beauty deals today include \"caktraie 4-Tier Makeup Organizer Bathroom Countertop Storage...\" and 29 other hand-picked discounts across Makeup, Skincare, Body Care."
+          "a": "The top beauty deals today include \"caktraie 4-Tier Makeup Organizer Bathroom Countertop Storage...\" and 29 other hand-picked discounts across Makeup, Fragrance, Skincare."
         },
         {
           "q": "What skincare products are on sale today?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-21T07:00:03.985Z",
-      "updatedAt": "2026-08-21T07:00:03.985Z"
+      "generatedAt": "2026-08-21T07:10:04.096Z",
+      "updatedAt": "2026-08-21T07:10:04.096Z"
     },
     {
       "date": "2026-08-20",
@@ -40000,5 +40000,5 @@
       "updatedAt": "2026-06-24T03:50:04.700Z"
     }
   ],
-  "generatedAt": "2026-08-21T07:00:03.998Z"
+  "generatedAt": "2026-08-21T07:10:04.107Z"
 }
