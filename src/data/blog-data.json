@@ -9,8 +9,10 @@
         "Home & Kitchen",
         "Grocery & Food",
         "Garden & Outdoor",
+        "Other",
+        "Toys & Kids",
         "Fashion",
-        "Other"
+        "Electronics"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -35,28 +37,58 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/614A033BMcL.jpg",
             "url": "https://www.amazon.com/dp/B0000DJUYR?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f25d3e131bfe5e6743a4dd9399fe1d7&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B0GSFBZZ7B",
-            "slug": "hazel-quinn-electric-kettle-1l34oz-small-tea-kettle-jet-blac",
-            "title": "Hazel Quinn Electric Kettle, 1L/34oz Small Tea Kettle - Jet Black | 800W Fast Boil, 304 Stainless Steel Interior, Double",
-            "price": "$22",
+            "asin": "B0FVWXJCP8",
+            "slug": "oversized-king-comforter-sets-all-season-ultra-soft-down-alt",
+            "title": "\udecd️Oversized King Comforter Sets, All Season Ultra Soft Down Alternative Bedding - 3 Piece Lightweight Bed Set Includes 1",
+            "price": "$50.98",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61gBHqLClLL.jpg",
-            "url": "https://www.amazon.com/dp/B0GSFBZZ7B?th=1&tag=noya0b-20"
-          },
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FVWXJCP8?th=1&linkCode=sl2&tag=noya0b-20&linkId=851b4e95b9aaf16cbf78248aee26eca0&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Toys & Kids": [
           {
-            "asin": "B0FX5P2FT2",
-            "slug": "gotham-steel-10-pcs-tri-ply-stainless-steel-cookware-set-pot",
-            "title": "Gotham Steel 10 Pcs Tri Ply Stainless Steel Cookware Set, Pots and Pans Set with Induction Bottom, Made Without PTFE PFO",
-            "price": "$64",
+            "asin": "B00BB1UMEG",
+            "slug": "husky-liners-weatherbeater-floor-mats-fits-2013-2024-toyota",
+            "title": "\udecd️Husky Liners Weatherbeater Floor Mats | Fits 2013 - 2024 Toyota 4Runner; 2014 - 2024 Lexus GX460 | Front & 2nd Row, 3-",
+            "price": "$149.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71w3gDeQn3L.jpg",
-            "url": "https://www.amazon.com/dp/B0FX5P2FT2?gaOptInStatus=true&ascsubtag=srctok-6364cf5dbf293aa0&btn_type=pt&btn_ref=srctok-6364cf5dbf293aa0&linkCode=sl2&tag=noya0b-20&linkId=fe5e31ae8aa41c79c275b906c2a5aa31&language=en_US&gaOptInStatus=true"
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/61lxByrMNrL.jpg",
+            "url": "https://www.amazon.com/dp/B00BB1UMEG?th=1&linkCode=sl2&tag=noya0b-20&linkId=73807b29c01265f0aeef2036157fc659&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0F9PHWPQN",
+            "slug": "tnnzeet-black-long-sleeve-shirts-for-women-fall-fashion-crop",
+            "title": "\udecd️TNNZEET Black Long Sleeve Shirts for Women Fall Fashion Crop Top Y2K 2026",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ooxMwsoIL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F9PHWPQN?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2e50494f901d2e8d434ba83ef786aa72&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0H1KHDJT2",
+            "slug": "laptop-screen-extender-156-ultra-light-thin-dual-monitor-ext",
+            "title": "\udecd️Laptop Screen Extender, 15.6\" Ultra-Light & Thin Dual Monitor Extender with 1080P FHD IPS, Eye Care & Neck-Friendly, U",
+            "price": "$132.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Rt3PdT4PL.jpg",
+            "url": "https://www.amazon.com/dp/B0H1KHDJT2?th=1&linkCode=sl2&tag=noya0b-20&linkId=df9f6e1f6e34efaac2acfdaba0b22439&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -106,32 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/811OfHr7lpL.jpg",
             "url": "https://www.amazon.com/dp/B0932S8852?th=1&linkCode=sl2&tag=noya0b-20&linkId=5f89c882ca6ece8895018e34a9aeb180&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CSMN1X4W",
-            "slug": "odoly-unisex-comfortable-cork-footbed-slide-sandals-with-arc",
-            "title": "\udecd️ODOLY Unisex Comfortable Cork Footbed Slide Sandals with Arch Support",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71XbQmLMMYL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CSMN1X4W?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4bbf38b0ed66f33960fcd9043580a6b3&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B00B1N0R6C",
-            "slug": "perfect-fitness-ab-carver-roller-wheel-with-built-in-spring",
-            "title": "\udecd️Perfect Fitness Ab Carver Roller Wheel With Built In Spring Resistance, At Home Core Workout Equipment",
-            "price": "$39.10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51bsIB5M5SL.jpg",
-            "url": "https://www.amazon.com/dp/B00B1N0R6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=04c3c324f6b3c6568a12c1b2f91975da&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -156,6 +162,50 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/614A033BMcL.jpg",
           "url": "https://www.amazon.com/dp/B0000DJUYR?th=1&linkCode=sl2&tag=noya0b-20&linkId=4f25d3e131bfe5e6743a4dd9399fe1d7&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FVWXJCP8",
+          "slug": "oversized-king-comforter-sets-all-season-ultra-soft-down-alt",
+          "title": "\udecd️Oversized King Comforter Sets, All Season Ultra Soft Down Alternative Bedding - 3 Piece Lightweight Bed Set Includes 1",
+          "price": "$50.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FVWXJCP8?th=1&linkCode=sl2&tag=noya0b-20&linkId=851b4e95b9aaf16cbf78248aee26eca0&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B00BB1UMEG",
+          "slug": "husky-liners-weatherbeater-floor-mats-fits-2013-2024-toyota",
+          "title": "\udecd️Husky Liners Weatherbeater Floor Mats | Fits 2013 - 2024 Toyota 4Runner; 2014 - 2024 Lexus GX460 | Front & 2nd Row, 3-",
+          "price": "$149.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/61lxByrMNrL.jpg",
+          "url": "https://www.amazon.com/dp/B00BB1UMEG?th=1&linkCode=sl2&tag=noya0b-20&linkId=73807b29c01265f0aeef2036157fc659&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0F9PHWPQN",
+          "slug": "tnnzeet-black-long-sleeve-shirts-for-women-fall-fashion-crop",
+          "title": "\udecd️TNNZEET Black Long Sleeve Shirts for Women Fall Fashion Crop Top Y2K 2026",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ooxMwsoIL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F9PHWPQN?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2e50494f901d2e8d434ba83ef786aa72&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H1KHDJT2",
+          "slug": "laptop-screen-extender-156-ultra-light-thin-dual-monitor-ext",
+          "title": "\udecd️Laptop Screen Extender, 15.6\" Ultra-Light & Thin Dual Monitor Extender with 1080P FHD IPS, Eye Care & Neck-Friendly, U",
+          "price": "$132.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Rt3PdT4PL.jpg",
+          "url": "https://www.amazon.com/dp/B0H1KHDJT2?th=1&linkCode=sl2&tag=noya0b-20&linkId=df9f6e1f6e34efaac2acfdaba0b22439&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0H45CHLVV",
@@ -200,50 +250,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71NmMHe0NSL.jpg",
           "url": "https://www.amazon.com/dp/B0CW7D78FB?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=ff54a95ff3a30d0e07bd00f35b01703c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GSFBZZ7B",
-          "slug": "hazel-quinn-electric-kettle-1l34oz-small-tea-kettle-jet-blac",
-          "title": "Hazel Quinn Electric Kettle, 1L/34oz Small Tea Kettle - Jet Black | 800W Fast Boil, 304 Stainless Steel Interior, Double",
-          "price": "$22",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61gBHqLClLL.jpg",
-          "url": "https://www.amazon.com/dp/B0GSFBZZ7B?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0CSMN1X4W",
-          "slug": "odoly-unisex-comfortable-cork-footbed-slide-sandals-with-arc",
-          "title": "\udecd️ODOLY Unisex Comfortable Cork Footbed Slide Sandals with Arch Support",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71XbQmLMMYL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CSMN1X4W?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=4bbf38b0ed66f33960fcd9043580a6b3&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00B1N0R6C",
-          "slug": "perfect-fitness-ab-carver-roller-wheel-with-built-in-spring",
-          "title": "\udecd️Perfect Fitness Ab Carver Roller Wheel With Built In Spring Resistance, At Home Core Workout Equipment",
-          "price": "$39.10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51bsIB5M5SL.jpg",
-          "url": "https://www.amazon.com/dp/B00B1N0R6C?th=1&linkCode=sl2&tag=noya0b-20&linkId=04c3c324f6b3c6568a12c1b2f91975da&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FX5P2FT2",
-          "slug": "gotham-steel-10-pcs-tri-ply-stainless-steel-cookware-set-pot",
-          "title": "Gotham Steel 10 Pcs Tri Ply Stainless Steel Cookware Set, Pots and Pans Set with Induction Bottom, Made Without PTFE PFO",
-          "price": "$64",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71w3gDeQn3L.jpg",
-          "url": "https://www.amazon.com/dp/B0FX5P2FT2?gaOptInStatus=true&ascsubtag=srctok-6364cf5dbf293aa0&btn_type=pt&btn_ref=srctok-6364cf5dbf293aa0&linkCode=sl2&tag=noya0b-20&linkId=fe5e31ae8aa41c79c275b906c2a5aa31&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-21T18:20:01.923Z",
-      "updatedAt": "2026-08-21T18:20:01.924Z"
+      "generatedAt": "2026-08-21T18:30:01.585Z",
+      "updatedAt": "2026-08-21T18:30:01.586Z"
     },
     {
       "date": "2026-08-20",
@@ -16378,5 +16384,5 @@
       "updatedAt": "2026-06-24T03:50:01.448Z"
     }
   ],
-  "generatedAt": "2026-08-21T18:20:01.943Z"
+  "generatedAt": "2026-08-21T18:30:01.602Z"
 }
