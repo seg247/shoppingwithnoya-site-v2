@@ -11,8 +11,7 @@
         "Garden & Outdoor",
         "Grocery & Food",
         "Fashion",
-        "Toys & Kids",
-        "Beauty"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -51,6 +50,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B0GYRM3YGC",
+            "slug": "aeitto-ice-maker-countertop-26lbs24h-ice-makers-ready-in-6-m",
+            "title": "Aeitto Ice Maker Countertop 26lbs/24H Ice Makers Ready in 6-Min 8 Ice Cubes | 2 Sizes of Bullet Ice Portable Ice Machine",
+            "price": "$89",
+            "discount": 55,
+            "rating": "FIRE",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/7192TkXGeaL.jpg",
+            "url": "https://www.amazon.com/dp/B0GYRM3YGC?th=1&tag=noya0b-20"
+          },
           {
             "asin": "B0BYJ6RFFR",
             "slug": "qimh-68-gold-floor-lamp-for-living-room-industrial-tree-tall",
@@ -125,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81gn2ucrauL.jpg",
             "url": "https://www.amazon.com/dp/B0F9L78966?psc=1&tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DTKRZR6Q",
-            "slug": "tarte-lights-camera-lashes-platinum-volumizing-mascara-black",
-            "title": "tarte lights, camera, lashes platinum volumizing mascara – Black Tinted Peptide Lash Serum mascara for Volume & Length, ",
-            "price": "$19",
-            "discount": 30,
-            "rating": "HOT",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61jWlwr8WrL.jpg",
-            "url": "https://amazon.com/dp/B0DTKRZR6Q?th=1&tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -151,6 +148,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/9171x+V8P8L.jpg",
           "url": "https://www.amazon.com/dp/B0D9118S9G?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0GYRM3YGC",
+          "slug": "aeitto-ice-maker-countertop-26lbs24h-ice-makers-ready-in-6-m",
+          "title": "Aeitto Ice Maker Countertop 26lbs/24H Ice Makers Ready in 6-Min 8 Ice Cubes | 2 Sizes of Bullet Ice Portable Ice Machine",
+          "price": "$89",
+          "discount": 55,
+          "rating": "FIRE",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/7192TkXGeaL.jpg",
+          "url": "https://www.amazon.com/dp/B0GYRM3YGC?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0BYJ6RFFR",
@@ -239,17 +247,6 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81gn2ucrauL.jpg",
           "url": "https://www.amazon.com/dp/B0F9L78966?psc=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0DTKRZR6Q",
-          "slug": "tarte-lights-camera-lashes-platinum-volumizing-mascara-black",
-          "title": "tarte lights, camera, lashes platinum volumizing mascara – Black Tinted Peptide Lash Serum mascara for Volume & Length, ",
-          "price": "$19",
-          "discount": 30,
-          "rating": "HOT",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61jWlwr8WrL.jpg",
-          "url": "https://amazon.com/dp/B0DTKRZR6Q?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-21T23:20:01.681Z",
-      "updatedAt": "2026-08-21T23:20:01.681Z"
+      "generatedAt": "2026-08-21T23:30:01.624Z",
+      "updatedAt": "2026-08-21T23:30:01.624Z"
     },
     {
       "date": "2026-08-20",
@@ -16384,5 +16381,5 @@
       "updatedAt": "2026-06-24T03:50:01.448Z"
     }
   ],
-  "generatedAt": "2026-08-21T23:20:01.696Z"
+  "generatedAt": "2026-08-21T23:30:01.638Z"
 }
