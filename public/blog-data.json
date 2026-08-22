@@ -10,8 +10,8 @@
         "Electronics",
         "Sports & Fitness",
         "Health",
-        "Beauty",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -110,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B07BWCTBBQ/ref=cm_sw_r_as_gl_api_gl_i_61MZ098MX31RJ3VSEYJG?linkCode=ml1&tag=noya0b-20&linkId=1ea48b0733a4c438646bb9268b0a3b2e&gaOptInStatus=true"
           }
         ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B004C0R90S",
+            "slug": "-kijaro-dual-lock-portable-camping-chairs-versatile-folding",
+            "title": "\udecd️ Kijaro Dual Lock Portable Camping Chairs - Versatile Folding Chair, Sports Chair, Outdoor Chair & Lawn Chair - Dual L",
+            "price": "$45.00",
+            "discount": 18,
+            "rating": "GOOD",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81AdEtQYvlL.jpg",
+            "url": "https://www.amazon.com/dp/B004C0R90S?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B07CJPNGT3",
@@ -121,19 +134,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71rK13zuEIL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B07CJPNGT3/ref=cm_sw_r_as_gl_api_gl_i_KBFKVHMAXG384PGHX4YH?linkCode=ml1&tag=noya0b-20&linkId=ea48d464fea8e74bf98d804a43888f96&gaOptInStatus=true"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B000OR5PHW",
-            "slug": "-gear-aid-seam-grip-wp-waterproof-sealant-and-adhesive-for-j",
-            "title": "\udecd️ GEAR AID Seam Grip WP Waterproof Sealant and Adhesive for Jackets, Tents, Sleeping Pads and Outdoor Fabric | Repairs ",
-            "price": "$9.95",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61m2eUlQjBL.jpg",
-            "url": "https://www.amazon.com/dp/B000OR5PHW?tag=noya0b-20"
           }
         ]
       },
@@ -205,6 +205,17 @@
           "url": "https://www.amazon.com/dp/B00GL2HMES/ref=cm_sw_r_as_gl_api_gl_i_TZYR3D82FAX3C6V9XPW5?linkCode=ml1&tag=noya0b-20&linkId=23ec500980d6e32556a021e772129f37&gaOptInStatus=true"
         },
         {
+          "asin": "B004C0R90S",
+          "slug": "-kijaro-dual-lock-portable-camping-chairs-versatile-folding",
+          "title": "\udecd️ Kijaro Dual Lock Portable Camping Chairs - Versatile Folding Chair, Sports Chair, Outdoor Chair & Lawn Chair - Dual L",
+          "price": "$45.00",
+          "discount": 18,
+          "rating": "GOOD",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81AdEtQYvlL.jpg",
+          "url": "https://www.amazon.com/dp/B004C0R90S?tag=noya0b-20"
+        },
+        {
           "asin": "B0CW3PQZSL",
           "slug": "horbach-ashwagandha-supplement-max-strength-120-capsules",
           "title": "Horbäach Ashwagandha Supplement | Max Strength | 120 Capsules",
@@ -236,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/81rVNKN2e8L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G2LD65BZ/ref=cm_sw_r_as_gl_api_gl_i_CDB64PTME0ZXD5853JFN?linkCode=ml1&tag=noya0b-20&linkId=22440ad09dc83791a270cb3a3bf253a7&gaOptInStatus=true"
-        },
-        {
-          "asin": "B000OR5PHW",
-          "slug": "-gear-aid-seam-grip-wp-waterproof-sealant-and-adhesive-for-j",
-          "title": "\udecd️ GEAR AID Seam Grip WP Waterproof Sealant and Adhesive for Jackets, Tents, Sleeping Pads and Outdoor Fabric | Repairs ",
-          "price": "$9.95",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61m2eUlQjBL.jpg",
-          "url": "https://www.amazon.com/dp/B000OR5PHW?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-22T17:20:01.560Z",
-      "updatedAt": "2026-08-22T17:20:01.560Z"
+      "generatedAt": "2026-08-22T17:30:02.178Z",
+      "updatedAt": "2026-08-22T17:30:02.178Z"
     },
     {
       "date": "2026-08-21",
@@ -16375,5 +16375,5 @@
       "updatedAt": "2026-06-25T03:50:02.042Z"
     }
   ],
-  "generatedAt": "2026-08-22T17:20:01.577Z"
+  "generatedAt": "2026-08-22T17:30:02.193Z"
 }
