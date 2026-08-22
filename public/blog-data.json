@@ -4,16 +4,26 @@
       "date": "2026-08-22",
       "slug": "2026-08-22",
       "title": "🔥 Best Deals Today — August 22, 2026",
-      "intro": "Today's best online deals for Saturday, August 22, 2026 — 10 hand-picked discounts across Other, Sports & Fitness, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, August 22, 2026 — 10 hand-picked discounts across Other, Sports & Fitness, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Sports & Fitness",
-        "Beauty",
-        "Tools & Hardware",
-        "Cleaning Supplies"
+        "Grocery & Food",
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
+          {
+            "asin": "B000TCZ8QU",
+            "slug": "amazon-business-accounts",
+            "title": "Amazon business accounts",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51HmTCudRDL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B000TCZ8QU/ref=cm_sw_r_as_gl_apa_gl_i_R893S05HZX025BQ9WAA7?linkCode=ml1&tag=noya0b-20&linkId=f5d6b51405db028ffeca5427a9ec0684&gaOptInStatus=true"
+          },
           {
             "asin": "B082VK8TQ1",
             "slug": "amazon-business-accounts",
@@ -70,6 +80,19 @@
             "url": "https://www.amazon.com/dp/B0H1M5GMWG/ref=cm_sw_r_as_gl_apa_gl_i_T1NWMAR3MQGG1X7XJ4PP?linkCode=ml1&tag=noya0b-20&linkId=df6f2736c01e7b0e09de08c1ad303d6c&gaOptInStatus=true"
           }
         ],
+        "Grocery & Food": [
+          {
+            "asin": "B003Z6XG52",
+            "slug": "dole-fruit-bowls-pineapple-tidbits-in-100-juice-snacks-4oz-2",
+            "title": "Dole Fruit Bowls Pineapple Tidbits in 100% Juice Snacks, 4oz 24 Total Cups, Gluten & Dairy Free, Bulk Lunch Snacks for K",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ktpOj9cgL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B003Z6XG52/ref=cm_sw_r_as_gl_apa_gl_i_JE1AQ6JKT64PR5KC3SHD?linkCode=ml1&tag=noya0b-20&linkId=fd5b36bb313f8d875b1c7507fbd67dea&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B078YB11V4",
@@ -106,35 +129,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/813Stkv57XL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0HBWXLRWN/ref=cm_sw_r_as_gl_apa_gl_i_dl_X16ZGA7X4Y45D6ZQ6GQG?linkCode=ml1&tag=noya0b-20&linkId=ed8e6713d32a0befbe7d0dfeb0e738b4&gaOptInStatus=true"
           }
-        ],
-        "Tools & Hardware": [
-          {
-            "asin": "B0DJXHDX1M",
-            "slug": "leaf-blower-electric-cordless-leaf-blower-with-2-batteries-a",
-            "title": "Leaf Blower, Electric Cordless Leaf Blower with 2 Batteries and Charger, 2 Speed Mode, Lightweight Leaf Blowers for Blow",
-            "price": "$38",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/71U42DJQLIL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DJXHDX1M/ref=cm_sw_r_as_gl_apa_gl_i_dl_7TNVTEQ9MQA42WJ78EFR?linkCode=ml1&tag=noya0b-20&linkId=70d0d1e1a21873b7553ae804b372300d&gaOptInStatus=true"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0CM4NXMV2",
-            "slug": "cottonelle-ultra-clean-toilet-paper-24-family-mega-rolls132",
-            "title": "Cottonelle Ultra Clean Toilet Paper, 24 Family Mega Rolls=132 Regular Rolls : Everything Else",
-            "price": "$35",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81IhLsnayPL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CM4NXMV2/ref=cm_sw_r_as_gl_apa_gl_i_DEE6B08HJ39ZWNJGQT41?linkCode=ml1&tag=noya0b-20&linkId=8339059ff7b2a2d0c603362c36e3a89f&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B000TCZ8QU",
+          "slug": "amazon-business-accounts",
+          "title": "Amazon business accounts",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51HmTCudRDL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B000TCZ8QU/ref=cm_sw_r_as_gl_apa_gl_i_R893S05HZX025BQ9WAA7?linkCode=ml1&tag=noya0b-20&linkId=f5d6b51405db028ffeca5427a9ec0684&gaOptInStatus=true"
+        },
+        {
+          "asin": "B003Z6XG52",
+          "slug": "dole-fruit-bowls-pineapple-tidbits-in-100-juice-snacks-4oz-2",
+          "title": "Dole Fruit Bowls Pineapple Tidbits in 100% Juice Snacks, 4oz 24 Total Cups, Gluten & Dairy Free, Bulk Lunch Snacks for K",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ktpOj9cgL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B003Z6XG52/ref=cm_sw_r_as_gl_apa_gl_i_JE1AQ6JKT64PR5KC3SHD?linkCode=ml1&tag=noya0b-20&linkId=fd5b36bb313f8d875b1c7507fbd67dea&gaOptInStatus=true"
+        },
         {
           "asin": "B082VK8TQ1",
           "slug": "amazon-business-accounts",
@@ -222,34 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71D66r7cBqL.jpg",
           "url": "https://www.amazon.com/dp/B0H1M5GMWG/ref=cm_sw_r_as_gl_apa_gl_i_T1NWMAR3MQGG1X7XJ4PP?linkCode=ml1&tag=noya0b-20&linkId=df6f2736c01e7b0e09de08c1ad303d6c&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DJXHDX1M",
-          "slug": "leaf-blower-electric-cordless-leaf-blower-with-2-batteries-a",
-          "title": "Leaf Blower, Electric Cordless Leaf Blower with 2 Batteries and Charger, 2 Speed Mode, Lightweight Leaf Blowers for Blow",
-          "price": "$38",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools & Hardware",
-          "imageUrl": "https://m.media-amazon.com/images/I/71U42DJQLIL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DJXHDX1M/ref=cm_sw_r_as_gl_apa_gl_i_dl_7TNVTEQ9MQA42WJ78EFR?linkCode=ml1&tag=noya0b-20&linkId=70d0d1e1a21873b7553ae804b372300d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CM4NXMV2",
-          "slug": "cottonelle-ultra-clean-toilet-paper-24-family-mega-rolls132",
-          "title": "Cottonelle Ultra Clean Toilet Paper, 24 Family Mega Rolls=132 Regular Rolls : Everything Else",
-          "price": "$35",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81IhLsnayPL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CM4NXMV2/ref=cm_sw_r_as_gl_apa_gl_i_DEE6B08HJ39ZWNJGQT41?linkCode=ml1&tag=noya0b-20&linkId=8339059ff7b2a2d0c603362c36e3a89f&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 22, 2026?",
-          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Sports & Fitness, Beauty and are updated daily."
+          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Sports & Fitness, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-22T06:00:01.318Z",
-      "updatedAt": "2026-08-22T06:00:01.318Z"
+      "generatedAt": "2026-08-22T06:10:02.251Z",
+      "updatedAt": "2026-08-22T06:10:02.251Z"
     },
     {
       "date": "2026-08-21",
@@ -16372,5 +16369,5 @@
       "updatedAt": "2026-06-25T03:50:02.042Z"
     }
   ],
-  "generatedAt": "2026-08-22T06:00:01.334Z"
+  "generatedAt": "2026-08-22T06:10:02.268Z"
 }
