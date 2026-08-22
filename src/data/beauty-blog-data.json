@@ -9,8 +9,8 @@
         "Makeup",
         "Skincare",
         "Fragrance",
-        "Body Care",
         "Hair Care",
+        "Body Care",
         "Beauty"
       ],
       "bySubcat": {
@@ -176,16 +176,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/610J2aPTqBL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00NR1YIKM?th=1&linkCode=sl2&tag=noya0b-20&linkId=feae81f348bfd0356d1e13079b2f9e7e&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FKSM8L9H",
-            "slug": "biodance-pore-perfecting-collagen-peptide-serum-skin-firming",
-            "title": "BIODANCE Pore Perfecting Collagen Peptide Serum, Skin Firming & Radiance, Plumping, Pore Care, Makeup Prep Serum for All",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ecx8c1VTL.jpg",
-            "url": "https://www.amazon.com/dp/B0FKSM8L9H/ref=cm_sw_r_as_gl_api_gl_i_EKR3A97A2ZHHZ1E8Y641?linkCode=ml1&tag=noya0b-20&linkId=d6ae740de00a8a7ad2c1293a92a1920f&gaOptInStatus=true"
           }
         ],
         "Fragrance": [
@@ -230,19 +220,17 @@
             "url": "https://www.amazon.com/dp/B08ZKTK1QQ/ref=cm_sw_r_as_gl_api_gl_i_NJWPW10726X9JQ05FX4W?linkCode=ml1&tag=noya0b-20&linkId=8daaca0fcb530afcb03cd0cea491c012&gaOptInStatus=true"
           }
         ],
-        "Body Care": [
+        "Hair Care": [
           {
-            "asin": "B098QFXVK5",
-            "slug": "dr-teals-body-wash-with-pure-epsom-salt-relax-relief-with-eu",
-            "title": "\udecd️Dr Teal's Body Wash with Pure Epsom Salt, Relax & Relief with Eucalyptus & Spearmint, 24 fl oz (Pack of 4)",
+            "asin": "B0BY3C3Y1G",
+            "slug": "igk-good-behavior-ultra-smooth-anti-frizz-shampoo-for-dry-ha",
+            "title": "IGK Good Behavior Ultra Smooth Anti-Frizz Shampoo for Dry Hair, 8 Oz | Controls Frizz + Hydrates for Smooth, Manageable ",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/819MJfPrB6L.jpg",
-            "url": "https://www.amazon.com/dp/B098QFXVK5?th=1&linkCode=sl2&tag=noya0b-20&linkId=0bddd9ea929ad55d947d0791de7ce664&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Hair Care": [
+            "subcat": "Hair Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Vc+jg8gAL.jpg",
+            "url": "https://www.amazon.com/dp/B0BY3C3Y1G/ref=cm_sw_r_as_gl_apa_gl_i_SCF7S8496F3ABANHVP10?linkCode=ml1&tag=noya0b-20&linkId=e980040778ea24f345de6a21d14de102&gaOptInStatus=true"
+          },
           {
             "asin": "B0DRF96SMM",
             "slug": "babonir-1875w-hair-dryer-with-diffuser-for-curly-hair-foldab",
@@ -304,6 +292,18 @@
             "url": "https://www.amazon.com/dp/B0BNF9WFPY?th=1&linkCode=sl2&tag=noya0b-20&linkId=a5f29b6c2f2e1341bfb2aaba0f8bbbb4&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Body Care": [
+          {
+            "asin": "B098QFXVK5",
+            "slug": "dr-teals-body-wash-with-pure-epsom-salt-relax-relief-with-eu",
+            "title": "\udecd️Dr Teal's Body Wash with Pure Epsom Salt, Relax & Relief with Eucalyptus & Spearmint, 24 fl oz (Pack of 4)",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/819MJfPrB6L.jpg",
+            "url": "https://www.amazon.com/dp/B098QFXVK5?th=1&linkCode=sl2&tag=noya0b-20&linkId=0bddd9ea929ad55d947d0791de7ce664&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0DQ2JZNKF",
@@ -357,6 +357,16 @@
           "subcat": "Fragrance",
           "imageUrl": "https://m.media-amazon.com/images/I/61oHouS5HlL._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B09GBZYLPF?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0BY3C3Y1G",
+          "slug": "igk-good-behavior-ultra-smooth-anti-frizz-shampoo-for-dry-ha",
+          "title": "IGK Good Behavior Ultra Smooth Anti-Frizz Shampoo for Dry Hair, 8 Oz | Controls Frizz + Hydrates for Smooth, Manageable ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Vc+jg8gAL.jpg",
+          "url": "https://www.amazon.com/dp/B0BY3C3Y1G/ref=cm_sw_r_as_gl_apa_gl_i_SCF7S8496F3ABANHVP10?linkCode=ml1&tag=noya0b-20&linkId=e980040778ea24f345de6a21d14de102&gaOptInStatus=true"
         },
         {
           "asin": "B0CKLWPK3K",
@@ -617,16 +627,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/71PPOaTCFwL.jpg",
           "url": "https://www.amazon.com/dp/B09GW5FM7T/ref=cm_sw_r_as_gl_api_gl_i_2T3G62FJT6EGY0WR3F5B?linkCode=ml1&tag=noya0b-20&linkId=980a30723e39bf67226cb72d0a43270e&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FKSM8L9H",
-          "slug": "biodance-pore-perfecting-collagen-peptide-serum-skin-firming",
-          "title": "BIODANCE Pore Perfecting Collagen Peptide Serum, Skin Firming & Radiance, Plumping, Pore Care, Makeup Prep Serum for All",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ecx8c1VTL.jpg",
-          "url": "https://www.amazon.com/dp/B0FKSM8L9H/ref=cm_sw_r_as_gl_api_gl_i_EKR3A97A2ZHHZ1E8Y641?linkCode=ml1&tag=noya0b-20&linkId=d6ae740de00a8a7ad2c1293a92a1920f&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-22T04:20:03.595Z",
-      "updatedAt": "2026-08-22T04:20:03.595Z"
+      "generatedAt": "2026-08-22T04:30:03.339Z",
+      "updatedAt": "2026-08-22T04:30:03.339Z"
     },
     {
       "date": "2026-08-21",
@@ -40003,5 +40003,5 @@
       "updatedAt": "2026-06-25T03:50:04.911Z"
     }
   ],
-  "generatedAt": "2026-08-22T04:20:03.607Z"
+  "generatedAt": "2026-08-22T04:30:03.355Z"
 }
