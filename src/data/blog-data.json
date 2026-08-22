@@ -14,6 +14,41 @@
         "Beauty"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0CKTVB1VL",
+            "slug": "amazon-business-accounts",
+            "title": "Amazon business accounts",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81L-V4aFLfL.jpg",
+            "url": "https://www.amazon.com/dp/B0CKTVB1VL/ref=cm_sw_r_as_gl_apa_gl_i_YDW43TQ74P5A3WFEQW06?linkCode=ml1&tag=noya0b-20&linkId=8f3a14013aa4c98c0c815ee6f892f14c&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0H1M5GMWG",
+            "slug": "halloween-decorations-outdoor-12-ft-animated-hovering-witch",
+            "title": "Halloween Decorations Outdoor - 12 Ft Animated Hovering Witch Animatronics | Halloween Animatronics Prop with Sound & To",
+            "price": "$114",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71D66r7cBqL.jpg",
+            "url": "https://www.amazon.com/dp/B0H1M5GMWG/ref=cm_sw_r_as_gl_apa_gl_i_T1NWMAR3MQGG1X7XJ4PP?linkCode=ml1&tag=noya0b-20&linkId=df6f2736c01e7b0e09de08c1ad303d6c&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07XTN5RYP",
+            "slug": "bobs-red-mill-gluten-free-corn-gritspolenta-24oz-pack-of-4-g",
+            "title": "Bob's Red Mill Gluten Free Corn Grits/Polenta, 24oz (Pack of 4) - Gluten Free, Vegan, Kosher",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81lQiHjhjlL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B07XTN5RYP/ref=cm_sw_r_as_gl_apa_gl_i_2GNT9HW2J3T5C7ZXRNKS?linkCode=ml1&tag=noya0b-20&linkId=4f245ab04bd410a46e6884b0639091e4&gaOptInStatus=true"
+          }
+        ],
         "Sports & Fitness": [
           {
             "asin": "B0FTJXDHPL",
@@ -36,41 +71,6 @@
             "category": "Sports & Fitness",
             "imageUrl": "https://m.media-amazon.com/images/I/813Stkv57XL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0HBWXLRWN/ref=cm_sw_r_as_gl_apa_gl_i_dl_X16ZGA7X4Y45D6ZQ6GQG?linkCode=ml1&tag=noya0b-20&linkId=ed8e6713d32a0befbe7d0dfeb0e738b4&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0H1M5GMWG",
-            "slug": "halloween-decorations-outdoor-12-ft-animated-hovering-witch",
-            "title": "Halloween Decorations Outdoor - 12 Ft Animated Hovering Witch Animatronics | Halloween Animatronics Prop with Sound & To",
-            "price": "$114",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71D66r7cBqL.jpg",
-            "url": "https://www.amazon.com/dp/B0H1M5GMWG/ref=cm_sw_r_as_gl_apa_gl_i_T1NWMAR3MQGG1X7XJ4PP?linkCode=ml1&tag=noya0b-20&linkId=df6f2736c01e7b0e09de08c1ad303d6c&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07XTN5RYP",
-            "slug": "bobs-red-mill-gluten-free-corn-gritspolenta-24oz-pack-of-4-g",
-            "title": "Bob's Red Mill Gluten Free Corn Grits/Polenta, 24oz (Pack of 4) - Gluten Free, Vegan, Kosher",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81lQiHjhjlL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B07XTN5RYP/ref=cm_sw_r_as_gl_apa_gl_i_2GNT9HW2J3T5C7ZXRNKS?linkCode=ml1&tag=noya0b-20&linkId=4f245ab04bd410a46e6884b0639091e4&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GZWRHSG4",
-            "slug": "ninja-creami-xl-11-in-1-ice-cream-maker-with-xl-capacity-nc6",
-            "title": "Ninja Creami XL 11-in-1 Ice Cream Maker with XL Capacity, NC601 | Ninja Creami XL turns almost anything into ice cream, ",
-            "price": "$186",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71yq63ExodL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0GZWRHSG4/ref=cm_sw_r_as_gl_apa_gl_i_dl_1DMZM9V1YAXEFZS66H9A?linkCode=ml1&tag=noya0b-20&linkId=646f41e4ace1816d21b69f49b4f11b12&gaOptInStatus=true"
           }
         ],
         "Tools & Hardware": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0CKTVB1VL",
+          "slug": "amazon-business-accounts",
+          "title": "Amazon business accounts",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81L-V4aFLfL.jpg",
+          "url": "https://www.amazon.com/dp/B0CKTVB1VL/ref=cm_sw_r_as_gl_apa_gl_i_YDW43TQ74P5A3WFEQW06?linkCode=ml1&tag=noya0b-20&linkId=8f3a14013aa4c98c0c815ee6f892f14c&gaOptInStatus=true"
+        },
         {
           "asin": "B0FTJXDHPL",
           "slug": "crayola-official-soccer-ball-unisex-kids-multiplication-size",
@@ -236,23 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61Vc+jg8gAL.jpg",
           "url": "https://www.amazon.com/dp/B0BY3C3Y1G/ref=cm_sw_r_as_gl_apa_gl_i_SCF7S8496F3ABANHVP10?linkCode=ml1&tag=noya0b-20&linkId=e980040778ea24f345de6a21d14de102&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GZWRHSG4",
-          "slug": "ninja-creami-xl-11-in-1-ice-cream-maker-with-xl-capacity-nc6",
-          "title": "Ninja Creami XL 11-in-1 Ice Cream Maker with XL Capacity, NC601 | Ninja Creami XL turns almost anything into ice cream, ",
-          "price": "$186",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71yq63ExodL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0GZWRHSG4/ref=cm_sw_r_as_gl_apa_gl_i_dl_1DMZM9V1YAXEFZS66H9A?linkCode=ml1&tag=noya0b-20&linkId=646f41e4ace1816d21b69f49b4f11b12&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 22, 2026?",
-          "a": "The best deals today include \"Crayola Official Soccer Ball - Unisex Kids - Multiplication ...\" and 9 other hand-picked discounts. Deals span Other, Sports & Fitness, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Amazon business accounts...\" and 9 other hand-picked discounts. Deals span Other, Sports & Fitness, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-22T05:30:02.023Z",
-      "updatedAt": "2026-08-22T05:30:02.023Z"
+      "generatedAt": "2026-08-22T05:40:01.264Z",
+      "updatedAt": "2026-08-22T05:40:01.264Z"
     },
     {
       "date": "2026-08-21",
@@ -16375,5 +16375,5 @@
       "updatedAt": "2026-06-25T03:50:02.042Z"
     }
   ],
-  "generatedAt": "2026-08-22T05:30:02.039Z"
+  "generatedAt": "2026-08-22T05:40:01.282Z"
 }
