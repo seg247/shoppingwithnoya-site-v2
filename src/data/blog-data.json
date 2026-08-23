@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Toys & Kids",
-        "Electronics",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -57,6 +57,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61A8a2+3aNL.jpg",
             "url": "https://www.amazon.com/dp/B08BR8R3T2?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0H6BFF51L",
+            "slug": "-50ft-solar-string-lights-outdoor-dimmable-patio-lights-sola",
+            "title": "\udecd️ 50FT Solar String Lights Outdoor, Dimmable Patio Lights Solar Powered with Remote & USB Port 18+1 LED Shatterproof Bu",
+            "price": "$17.99",
+            "discount": 40,
+            "rating": "HOT",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/81LltA0AIPL.jpg",
+            "url": "https://www.amazon.com/dp/B0H6BFF51L?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/812Ciwl5KnL._AC_UF350,350_QL50_AIweblab1381794,T1_.jpg",
             "url": "https://www.amazon.com/dp/B0GT4L41VN?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B08B46JZ7T",
-            "slug": "-uco-4-piece-camping-mess-kit-with-bowl-plate-and-3-in-1-spo",
-            "title": "\udecd️ UCO 4-Piece Camping Mess Kit with Bowl, Plate and 3-in-1 Spork Utensil Set",
-            "price": "$17.85",
-            "discount": 26,
-            "rating": "WARM",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71hZ0+WzfTL.jpg",
-            "url": "https://www.amazon.com/dp/B08B46JZ7T?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +145,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/194563183X?tag=noya0b-20"
+        },
+        {
+          "asin": "B0H6BFF51L",
+          "slug": "-50ft-solar-string-lights-outdoor-dimmable-patio-lights-sola",
+          "title": "\udecd️ 50FT Solar String Lights Outdoor, Dimmable Patio Lights Solar Powered with Remote & USB Port 18+1 LED Shatterproof Bu",
+          "price": "$17.99",
+          "discount": 40,
+          "rating": "HOT",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/81LltA0AIPL.jpg",
+          "url": "https://www.amazon.com/dp/B0H6BFF51L?tag=noya0b-20"
         },
         {
           "asin": "B07JJKQZDW",
@@ -233,17 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61A8a2+3aNL.jpg",
           "url": "https://www.amazon.com/dp/B08BR8R3T2?tag=noya0b-20"
-        },
-        {
-          "asin": "B08B46JZ7T",
-          "slug": "-uco-4-piece-camping-mess-kit-with-bowl-plate-and-3-in-1-spo",
-          "title": "\udecd️ UCO 4-Piece Camping Mess Kit with Bowl, Plate and 3-in-1 Spork Utensil Set",
-          "price": "$17.85",
-          "discount": 26,
-          "rating": "WARM",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71hZ0+WzfTL.jpg",
-          "url": "https://www.amazon.com/dp/B08B46JZ7T?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-23T07:50:00.883Z",
-      "updatedAt": "2026-08-23T07:50:00.883Z"
+      "generatedAt": "2026-08-23T08:00:00.562Z",
+      "updatedAt": "2026-08-23T08:00:00.562Z"
     },
     {
       "date": "2026-08-22",
@@ -16369,5 +16369,5 @@
       "updatedAt": "2026-06-26T03:50:01.863Z"
     }
   ],
-  "generatedAt": "2026-08-23T07:50:00.889Z"
+  "generatedAt": "2026-08-23T08:00:00.570Z"
 }
