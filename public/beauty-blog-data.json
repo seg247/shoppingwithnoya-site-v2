@@ -10,8 +10,8 @@
         "Fragrance",
         "Hair Care",
         "Makeup",
-        "Beauty",
-        "Body Care"
+        "Body Care",
+        "Beauty"
       ],
       "bySubcat": {
         "Skincare": [
@@ -292,18 +292,6 @@
             "url": "https://www.amazon.com/dp/B0CKLWPK3K?th=1&linkCode=sl2&tag=noya0b-20&linkId=a271ae032bfa441e1a977453eccfcaa1&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "979077320X",
-            "slug": "versace-eros-flame-for-men-67-oz-eau-de-parfum-spray-beauty",
-            "title": "Versace Eros Flame for Men 6.7 oz Eau de Parfum Spray | : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/516pPBqljUS.jpg",
-            "url": "https://www.amazon.com/dp/979077320X?th=1&linkCode=sl2&tag=noya0b-20&linkId=1caa6a0b43a7795869b6f82885f71f84&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Body Care": [
           {
             "asin": "B08P8S4JRR",
@@ -324,6 +312,18 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71lV+LEsZBL.jpg",
             "url": "https://www.amazon.com/dp/B0G54BRDGD?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f80a6e7c0dc89a3794f2bbe333918bc&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "979077320X",
+            "slug": "versace-eros-flame-for-men-67-oz-eau-de-parfum-spray-beauty",
+            "title": "Versace Eros Flame for Men 6.7 oz Eau de Parfum Spray | : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/516pPBqljUS.jpg",
+            "url": "https://www.amazon.com/dp/979077320X?th=1&linkCode=sl2&tag=noya0b-20&linkId=1caa6a0b43a7795869b6f82885f71f84&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -419,6 +419,16 @@
           "url": "https://www.amazon.com/dp/B07QVKBBRZ?tag=noya0b-20"
         },
         {
+          "asin": "B08P8S4JRR",
+          "slug": "-asdirne-scissors-set-of-4-premium-stainless-steel-razor-bla",
+          "title": "\udecd️ Asdirne Scissors Set of 4, Premium Stainless Steel Razor Blades, Ergonomic Semi-Soft Rubber Grip, Suitable for School",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZlJ+0e1FL.jpg",
+          "url": "https://www.amazon.com/dp/B08P8S4JRR?tag=noya0b-20"
+        },
+        {
           "asin": "979077320X",
           "slug": "versace-eros-flame-for-men-67-oz-eau-de-parfum-spray-beauty",
           "title": "Versace Eros Flame for Men 6.7 oz Eau de Parfum Spray | : Beauty & Personal Care",
@@ -447,16 +457,6 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/81jAhmtIssL.jpg",
           "url": "https://www.amazon.com/dp/B08MQBBXW9?tag=noya0b-20"
-        },
-        {
-          "asin": "B08P8S4JRR",
-          "slug": "-asdirne-scissors-set-of-4-premium-stainless-steel-razor-bla",
-          "title": "\udecd️ Asdirne Scissors Set of 4, Premium Stainless Steel Razor Blades, Ergonomic Semi-Soft Rubber Grip, Suitable for School",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ZlJ+0e1FL.jpg",
-          "url": "https://www.amazon.com/dp/B08P8S4JRR?tag=noya0b-20"
         },
         {
           "asin": "B0F1GVN7L2",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-23T06:40:02.939Z",
-      "updatedAt": "2026-08-23T06:40:02.939Z"
+      "generatedAt": "2026-08-23T06:50:03.435Z",
+      "updatedAt": "2026-08-23T06:50:03.436Z"
     },
     {
       "date": "2026-08-22",
@@ -40006,5 +40006,5 @@
       "updatedAt": "2026-06-26T03:50:04.674Z"
     }
   ],
-  "generatedAt": "2026-08-23T06:40:02.957Z"
+  "generatedAt": "2026-08-23T06:50:03.451Z"
 }
