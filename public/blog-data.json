@@ -9,8 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Personal Care",
-        "Fashion"
+        "Grocery & Food",
+        "Personal Care"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B00658PGKU?tag=noya0b-20"
           }
         ],
+        "Grocery & Food": [
+          {
+            "asin": "B07792STT5",
+            "slug": "-kars-nuts-sweet-n-salty-trail-mix-34-oz-resealable-pouch-pa",
+            "title": "\udecd️ Kar’s Nuts Sweet ‘N Salty Trail Mix, 34 oz Resealable Pouch (Pack of 1), Gluten-Free Trail Mix Snack | Resealable Pou",
+            "price": "$6.97",
+            "discount": 12,
+            "rating": "GOOD",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81VC5sxUt9L.jpg",
+            "url": "https://www.amazon.com/dp/B07792STT5?tag=noya0b-20"
+          }
+        ],
         "Personal Care": [
           {
             "asin": "B01H50RG8G",
@@ -118,19 +131,6 @@
             "category": "Personal Care",
             "imageUrl": "https://m.media-amazon.com/images/I/61iS3sh6buL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01H50RG8G?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B010D2ORCG",
-            "slug": "-sponeed-mens-cycling-jerseys-tops-biking-shirts-short-sleev",
-            "title": "\udecd️ sponeed Men's Cycling Jerseys Tops Biking Shirts Short Sleeve Bike Clothing Full Zipper Bicycle Jacket with Pockets",
-            "price": "$34.99",
-            "discount": 11,
-            "rating": "GOOD",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LfPJCU5kL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B010D2ORCG?tag=noya0b-20"
           }
         ]
       },
@@ -224,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B00658PGKU?tag=noya0b-20"
         },
         {
+          "asin": "B07792STT5",
+          "slug": "-kars-nuts-sweet-n-salty-trail-mix-34-oz-resealable-pouch-pa",
+          "title": "\udecd️ Kar’s Nuts Sweet ‘N Salty Trail Mix, 34 oz Resealable Pouch (Pack of 1), Gluten-Free Trail Mix Snack | Resealable Pou",
+          "price": "$6.97",
+          "discount": 12,
+          "rating": "GOOD",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81VC5sxUt9L.jpg",
+          "url": "https://www.amazon.com/dp/B07792STT5?tag=noya0b-20"
+        },
+        {
           "asin": "B01H50RG8G",
           "slug": "-ororo-mens-heated-vest-lightweight-4-zone-usb-c-battery-hea",
           "title": "\udecd️ ORORO Men's Heated Vest Lightweight 4-Zone USB-C Battery Heated Puffer Vest",
@@ -233,17 +244,6 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61iS3sh6buL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01H50RG8G?tag=noya0b-20"
-        },
-        {
-          "asin": "B010D2ORCG",
-          "slug": "-sponeed-mens-cycling-jerseys-tops-biking-shirts-short-sleev",
-          "title": "\udecd️ sponeed Men's Cycling Jerseys Tops Biking Shirts Short Sleeve Bike Clothing Full Zipper Bicycle Jacket with Pockets",
-          "price": "$34.99",
-          "discount": 11,
-          "rating": "GOOD",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LfPJCU5kL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B010D2ORCG?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-23T05:20:00.560Z",
-      "updatedAt": "2026-08-23T05:20:00.560Z"
+      "generatedAt": "2026-08-23T05:30:01.649Z",
+      "updatedAt": "2026-08-23T05:30:01.649Z"
     },
     {
       "date": "2026-08-22",
@@ -16369,5 +16369,5 @@
       "updatedAt": "2026-06-26T03:50:01.863Z"
     }
   ],
-  "generatedAt": "2026-08-23T05:20:00.568Z"
+  "generatedAt": "2026-08-23T05:30:01.655Z"
 }
