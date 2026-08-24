@@ -4,10 +4,12 @@
       "date": "2026-08-24",
       "slug": "2026-08-24",
       "title": "🔥 Best Deals Today — August 24, 2026",
-      "intro": "Today's best online deals for Monday, August 24, 2026 — 5 hand-picked discounts across Other, Electronics, Grocery & Food and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, August 24, 2026 — 10 hand-picked discounts across Other, Electronics, Beauty and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
         "Electronics",
+        "Beauty",
+        "Fashion",
         "Grocery & Food"
       ],
       "byCategory": {
@@ -44,9 +46,55 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71bU9vMLQPL.jpg",
             "url": "https://www.amazon.com/dp/B0H22HSRBL?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G1MNJN4D",
+            "slug": "-bovine-colostrum-powder-grass-fed-pasture-raised-freeze-dri",
+            "title": "\udecd️ Bovine Colostrum Powder, Grass-Fed & Pasture-Raised, Freeze-Dried, High IgG, Unflavored, Mixes Easily, Gut & Immune S",
+            "price": "$32.99",
+            "discount": 10,
+            "rating": "GOOD",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71uF0PGYr6L.jpg",
+            "url": "https://www.amazon.com/dp/B0G1MNJN4D?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0033ZL5YY",
+            "slug": "-banana-boat-sport-spf-50-sunscreen-lotion-8-fl-oz",
+            "title": "\udecd️ Banana Boat Sport SPF 50 Sunscreen Lotion, 8 Fl Oz",
+            "price": "$8.97",
+            "discount": 40,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61IuHkLWtIL.jpg",
+            "url": "https://www.amazon.com/dp/B0033ZL5YY?tag=noya0b-20"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0FWRMS5KX",
+            "slug": "-clibfeng-queen-size-bed-frame-with-headboard-and-footboards",
+            "title": "\udecd️ CLIBFENG Queen Size Bed Frame with Headboard and Footboard,Steel Slats Support-LED Bed Frame with USB Charging Statio",
+            "price": "$84.99",
+            "discount": 39,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/91dXwf46F0L.jpg",
+            "url": "https://www.amazon.com/dp/B0FWRMS5KX?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GXZYQ3MG",
+            "slug": "-portable-bluetooth-speaker-10w-hd-sound9-adjustable-rgb-mod",
+            "title": "\udecd️ Portable Bluetooth Speaker, 10W HD Sound，9 Adjustable RGB Modes",
+            "price": "$33.99",
+            "discount": 32,
+            "rating": "HOT",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71NU2oNVHIL.jpg",
+            "url": "https://www.amazon.com/dp/B0GXZYQ3MG?tag=noya0b-20"
+          },
           {
             "asin": "B0CVDNM64T",
             "slug": "-amazon-fire-hd-8-kids-pro-tablet-newest-model-ages-6-12-bri",
@@ -57,6 +105,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71sGLwU0AiL.jpg",
             "url": "https://www.amazon.com/dp/B0CVDNM64T?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0FGDKB4JB",
+            "slug": "-50-pcs-shoe-charms-for-clog-diy-shoe-bracelet-wristband-par",
+            "title": "\udecd️ 50 Pcs Shoe Charms for Clog, DIY Shoe & Bracelet Wristband Party Gifts Decoration Accessories For Boys Girls Teens Ad",
+            "price": "$5.98",
+            "discount": 14,
+            "rating": "GOOD",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71L4h8W1+oL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FGDKB4JB?tag=noya0b-20"
           }
         ],
         "Grocery & Food": [
@@ -108,6 +169,39 @@
           "url": "https://www.amazon.com/dp/B0H22HSRBL?tag=noya0b-20"
         },
         {
+          "asin": "B0033ZL5YY",
+          "slug": "-banana-boat-sport-spf-50-sunscreen-lotion-8-fl-oz",
+          "title": "\udecd️ Banana Boat Sport SPF 50 Sunscreen Lotion, 8 Fl Oz",
+          "price": "$8.97",
+          "discount": 40,
+          "rating": "HOT",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61IuHkLWtIL.jpg",
+          "url": "https://www.amazon.com/dp/B0033ZL5YY?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FWRMS5KX",
+          "slug": "-clibfeng-queen-size-bed-frame-with-headboard-and-footboards",
+          "title": "\udecd️ CLIBFENG Queen Size Bed Frame with Headboard and Footboard,Steel Slats Support-LED Bed Frame with USB Charging Statio",
+          "price": "$84.99",
+          "discount": 39,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/91dXwf46F0L.jpg",
+          "url": "https://www.amazon.com/dp/B0FWRMS5KX?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GXZYQ3MG",
+          "slug": "-portable-bluetooth-speaker-10w-hd-sound9-adjustable-rgb-mod",
+          "title": "\udecd️ Portable Bluetooth Speaker, 10W HD Sound，9 Adjustable RGB Modes",
+          "price": "$33.99",
+          "discount": 32,
+          "rating": "HOT",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NU2oNVHIL.jpg",
+          "url": "https://www.amazon.com/dp/B0GXZYQ3MG?tag=noya0b-20"
+        },
+        {
           "asin": "B0CVDNM64T",
           "slug": "-amazon-fire-hd-8-kids-pro-tablet-newest-model-ages-6-12-bri",
           "title": "\udecd️ Amazon Fire HD 8 Kids Pro tablet (newest model), ages 6-12. Bright 8\" HD screen, includes ad-free content, parental c",
@@ -117,6 +211,28 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71sGLwU0AiL.jpg",
           "url": "https://www.amazon.com/dp/B0CVDNM64T?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FGDKB4JB",
+          "slug": "-50-pcs-shoe-charms-for-clog-diy-shoe-bracelet-wristband-par",
+          "title": "\udecd️ 50 Pcs Shoe Charms for Clog, DIY Shoe & Bracelet Wristband Party Gifts Decoration Accessories For Boys Girls Teens Ad",
+          "price": "$5.98",
+          "discount": 14,
+          "rating": "GOOD",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71L4h8W1+oL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FGDKB4JB?tag=noya0b-20"
+        },
+        {
+          "asin": "B0G1MNJN4D",
+          "slug": "-bovine-colostrum-powder-grass-fed-pasture-raised-freeze-dri",
+          "title": "\udecd️ Bovine Colostrum Powder, Grass-Fed & Pasture-Raised, Freeze-Dried, High IgG, Unflavored, Mixes Easily, Gut & Immune S",
+          "price": "$32.99",
+          "discount": 10,
+          "rating": "GOOD",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71uF0PGYr6L.jpg",
+          "url": "https://www.amazon.com/dp/B0G1MNJN4D?tag=noya0b-20"
         },
         {
           "asin": "B08VRW15RL",
@@ -133,11 +249,11 @@
       "faq": [
         {
           "q": "What are the best deals today on August 24, 2026?",
-          "a": "The best deals today include \"\udecd️ 2 Pack 12 Cups Silicone Muffin Pan with Metal Reinforced ...\" and 4 other hand-picked discounts. Deals span Other, Electronics, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"\udecd️ 2 Pack 12 Cups Silicone Muffin Pan with Metal Reinforced ...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 50% off on \"\udecd️ 2 Pack 12 Cups Silicone Muffin Pan with Metal Reinforced ...\". There are 5 deals with verified discounts today."
+          "a": "The biggest discount today is 50% off on \"\udecd️ 2 Pack 12 Cups Silicone Muffin Pan with Metal Reinforced ...\". There are 10 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -152,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-24T04:10:01.658Z",
-      "updatedAt": "2026-08-24T04:10:01.658Z"
+      "generatedAt": "2026-08-24T04:20:01.725Z",
+      "updatedAt": "2026-08-24T04:20:01.725Z"
     },
     {
       "date": "2026-08-23",
@@ -16250,5 +16366,5 @@
       "updatedAt": "2026-06-27T03:50:00.610Z"
     }
   ],
-  "generatedAt": "2026-08-24T04:10:01.665Z"
+  "generatedAt": "2026-08-24T04:20:01.731Z"
 }
