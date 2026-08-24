@@ -9,8 +9,8 @@
         "Other",
         "Beauty",
         "Toys & Kids",
-        "Electronics",
-        "Home & Kitchen"
+        "Fashion",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0033ZL5YY?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0FLF1QKKH",
+            "slug": "-jansport-26l-cross-town-plus-backpack-electric-azul",
+            "title": "\udecd️ JanSport 26L Cross Town Plus Backpack, Electric Azul",
+            "price": "$19.95",
+            "discount": 43,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/91xDOcanZhL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FLF1QKKH?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0FWRMS5KX",
@@ -118,19 +131,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/91dXwf46F0L.jpg",
             "url": "https://www.amazon.com/dp/B0FWRMS5KX?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DMZS4Q72",
-            "slug": "-malacasa-plates-and-bowls-sets-12-pieces-modern-stoneware-d",
-            "title": "\udecd️ MALACASA Plates and Bowls Sets, 12 Pieces Modern Stoneware Dinnerware Set for 4 Kitchen Dinner Set Ceramic Dishware D",
-            "price": "$49.92",
-            "discount": 38,
-            "rating": "HOT",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ApgP2cD2L.jpg",
-            "url": "https://www.amazon.com/dp/B0DMZS4Q72?tag=noya0b-20"
           }
         ]
       },
@@ -202,6 +202,17 @@
           "url": "https://www.amazon.com/dp/B0FC8GXR3N?tag=noya0b-20"
         },
         {
+          "asin": "B0FLF1QKKH",
+          "slug": "-jansport-26l-cross-town-plus-backpack-electric-azul",
+          "title": "\udecd️ JanSport 26L Cross Town Plus Backpack, Electric Azul",
+          "price": "$19.95",
+          "discount": 43,
+          "rating": "HOT",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/91xDOcanZhL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FLF1QKKH?tag=noya0b-20"
+        },
+        {
           "asin": "B0H22HSRBL",
           "slug": "-solar-floating-pool-lights-2026-upgrade-solar-pool-lights-f",
           "title": "\udecd️ Solar Floating Pool Lights, 2026 Upgrade Solar Pool Lights for Above Ground & Inground Pools, 57 Lighting Modes, IP67",
@@ -233,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/91dXwf46F0L.jpg",
           "url": "https://www.amazon.com/dp/B0FWRMS5KX?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DMZS4Q72",
-          "slug": "-malacasa-plates-and-bowls-sets-12-pieces-modern-stoneware-d",
-          "title": "\udecd️ MALACASA Plates and Bowls Sets, 12 Pieces Modern Stoneware Dinnerware Set for 4 Kitchen Dinner Set Ceramic Dishware D",
-          "price": "$49.92",
-          "discount": 38,
-          "rating": "HOT",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ApgP2cD2L.jpg",
-          "url": "https://www.amazon.com/dp/B0DMZS4Q72?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-24T04:40:01.945Z",
-      "updatedAt": "2026-08-24T04:40:01.945Z"
+      "generatedAt": "2026-08-24T04:50:02.042Z",
+      "updatedAt": "2026-08-24T04:50:02.042Z"
     },
     {
       "date": "2026-08-23",
@@ -16366,5 +16366,5 @@
       "updatedAt": "2026-06-27T03:50:00.610Z"
     }
   ],
-  "generatedAt": "2026-08-24T04:40:01.952Z"
+  "generatedAt": "2026-08-24T04:50:02.049Z"
 }
