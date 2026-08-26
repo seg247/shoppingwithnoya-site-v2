@@ -4,13 +4,14 @@
       "date": "2026-08-26",
       "slug": "2026-08-26",
       "title": "🔥 Best Deals Today — August 26, 2026",
-      "intro": "Today's best online deals for Wednesday, August 26, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Beauty and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, August 26, 2026 — 10 hand-picked discounts across Beauty, Other, Garden & Outdoor and more. The best discount today is 80% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Beauty",
         "Other",
         "Garden & Outdoor",
-        "Beauty",
-        "Home & Kitchen",
-        "Cleaning Supplies"
+        "Fashion",
+        "Tools & Hardware",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
@@ -35,28 +36,67 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61uDWxyphHL.jpg",
             "url": "https://www.amazon.com/dp/B0DNP5NQZG/ref=cm_sw_r_as_gl_apa_gl_i_dl_W5JGEA8ASP6F40XC2PMB?linkCode=ml1&tag=noya0b-20&linkId=c36d92056ccd1a1bbce832c507aa478d&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0DMYQDX8W",
-            "slug": "chezmoi-collection-gayle-2-piece-cotton-patchwork-quilt-set",
-            "title": "Chezmoi Collection Gayle 2-Piece Cotton Patchwork Quilt Set - Vintage Washed Floral, Soft Breathable Reversible Quilt fo",
-            "price": "$27",
+            "asin": "B0C9P2J249",
+            "slug": "honestbaby-girls-3-pack-flare-legging-pants-black-ombre-9-mo",
+            "title": "HonestBaby Girls 3-Pack Flare Legging Pants, Black Ombre, 9 Months : Clothing, Shoes & Jewelry",
+            "price": "$6",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81h7+uD20BL.jpg",
-            "url": "https://www.amazon.com/dp/B0DMYQDX8W/ref=cm_sw_r_as_gl_apa_gl_i_dl_BN6PT9NX7QDGC7KA1993?linkCode=ml1&tag=noya0b-20&linkId=32b8444c91c635850e29154e9d7fb14d&gaOptInStatus=true"
-          },
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81rTMxQCbQL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C9P2J249/ref=cm_sw_r_as_gl_apa_gl_i_dl_4500DNA7TJFBV78VB0GM?linkCode=ml1&tag=noya0b-20&linkId=6ec06047d0676061aea80bf175322ce9&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B0G23LSQHB",
-            "slug": "cottonelle-fresh-feel-flushable-wipes-16-packs-42-wipes-per",
-            "title": "Cottonelle Fresh Feel Flushable Wipes, 16 Packs, 42 Wipes per Pack : Health & Household",
-            "price": "$32",
+            "asin": "B0CTVK6SVQ",
+            "slug": "panama-jack-sunscreen-lip-balm-spf-45-broad-spectrum-non-wax",
+            "title": "Panama Jack Sunscreen Lip Balm SPF 45 Broad Spectrum, Non-Waxy, 5 Pack | Moisturizing, UVA-UVB Water Resistant Sticks, S",
+            "price": "$9",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81rGD-IbwRL.jpg",
+            "url": "https://www.amazon.com/dp/B0CTVK6SVQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PMJMYD9MRE5B7SACRMN7?linkCode=ml1&tag=noya0b-20&linkId=6d285d8df5bb819029045d5619dddfe5&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DK639ZH9",
+            "slug": "ge-6000-btu-electronic-window-air-conditioner-cools-rooms-up",
+            "title": "GE 6,000 BTU Electronic Window Air Conditioner, Cools Rooms up to 250 sq ft, Digital Controls with Remote, Energy Saver ",
+            "price": "$134",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ef9WeeJCL.jpg",
+            "url": "https://www.amazon.com/dp/B0DK639ZH9/ref=cm_sw_r_as_gl_apa_gl_i_G46YBDGVTNDVAJ1FQNVV?linkCode=ml1&tag=noya0b-20&linkId=2614325b8486ef81d96a2f3ab5aac291&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0CF2RYY1G",
+            "slug": "continuous-spray-sunscreen-spf-30-broad-spectrum-uvauvb-prot",
+            "title": "Continuous Spray Sunscreen - SPF 30, Broad Spectrum UVA/UVB Protection, PABA, Paraben, Gluten & Cruelty Free, Water Resi",
+            "price": "$30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81gFKEImj3L.jpg",
+            "url": "https://www.amazon.com/dp/B0CF2RYY1G/ref=cm_sw_r_as_gl_apa_gl_i_G536W9275TY8BGMA4DEY?linkCode=ml1&tag=noya0b-20&linkId=f224fd01d61b31aa3382eb60b150056c&gaOptInStatus=true"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0CV7VTJM2",
+            "slug": "flex-24v-brushless-cordless-4-tool-combo-kit-circular-saw-re",
+            "title": "FLEX 24V Brushless Cordless 4-Tool Combo Kit: Circular Saw, Reciprocating Saw, Fixed Speed Angle Grinder, Drill Driver w",
+            "price": "$296",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
             "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0G23LSQHB/ref=cm_sw_r_as_gl_apa_gl_i_8XBHNTHYS8BCVYZF2VAN?linkCode=ml1&tag=noya0b-20&linkId=2b35a6d1bd7b7a6dfca3db56aef5bb28&gaOptInStatus=true"
+            "url": "https://www.amazon.com/dp/B0CV7VTJM2/ref=cm_sw_r_as_gl_apa_gl_i_W6K97FZRV57WBGNB34H9?linkCode=ml1&tag=noya0b-20&linkId=7c714f9b4734f1c3341c0819cf75776f&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -95,43 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/819jYbiDApL.jpg",
             "url": "https://www.amazon.com/dp/B0F7LQJJD4/ref=cm_sw_r_as_gl_apa_gl_i_dl_P8XX41QTPSBX97GAJ5WR?linkCode=ml1&tag=noya0b-20&linkId=174ea85faeb2481e03638f33b3cc8f16&gaOptInStatus=true"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0DS1QNN6F",
-            "slug": "sweese-12-piece-dinnerware-sets-for-4-porcelain-plates-and-b",
-            "title": "Sweese 12 Piece Dinnerware Sets for 4 - Porcelain Plates and Bowls Set - Scratch Resistant, Dishwasher and Oven Safe Rou",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Nkw9KdZyL.jpg",
-            "url": "https://www.amazon.com/dp/B0DS1QNN6F/ref=cm_sw_r_as_gl_apa_gl_i_AWR5SZ8NA4VNH7JN6MKQ?linkCode=ml1&tag=noya0b-20&linkId=206a801693c9507b257dd99f3d97c1a3&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0F4M38PCT",
-            "slug": "starlabs-beauty-star-butter-body-creme-body-lotion-for-women",
-            "title": "StarLabs Beauty Star Butter Body Creme - Body Lotion for Women with Tangerine Peel Oil and Shea Butter - Nourishing Loti",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61r7WR+P58L.jpg",
-            "url": "https://www.amazon.com/dp/B0F4M38PCT/ref=cm_sw_r_as_gl_apa_gl_i_XA1C4TP0WBYW6BA92RCR?linkCode=ml1&tag=noya0b-20&linkId=3ee3e2780a8d87107af58b5fe0f7562e&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D2788PVH",
-            "slug": "fresh-kidz-body-wash-169-floz-and-2-roll-on-deodorants-186-f",
-            "title": "Fresh Kidz Body Wash 16.9 fl.oz. and 2 Roll-On Deodorants 1.86 fl.oz. for Kids and Teens - Girls Coral Set : Beauty & Pe",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51J+H3S+t8L.jpg",
-            "url": "https://www.amazon.com/dp/B0D2788PVH/ref=cm_sw_r_as_gl_apa_gl_i_792ZA5WFPYXSTNJXGES0?linkCode=ml1&tag=noya0b-20&linkId=ae25110d32bf108c29832877b40b6223&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -145,6 +148,61 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71b9io9ktKL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GQ3TJ6TN?gaOptInStatus=true&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=40674db6ef88ca33164a8fb96011fd6a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0C9P2J249",
+          "slug": "honestbaby-girls-3-pack-flare-legging-pants-black-ombre-9-mo",
+          "title": "HonestBaby Girls 3-Pack Flare Legging Pants, Black Ombre, 9 Months : Clothing, Shoes & Jewelry",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/81rTMxQCbQL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C9P2J249/ref=cm_sw_r_as_gl_apa_gl_i_dl_4500DNA7TJFBV78VB0GM?linkCode=ml1&tag=noya0b-20&linkId=6ec06047d0676061aea80bf175322ce9&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CTVK6SVQ",
+          "slug": "panama-jack-sunscreen-lip-balm-spf-45-broad-spectrum-non-wax",
+          "title": "Panama Jack Sunscreen Lip Balm SPF 45 Broad Spectrum, Non-Waxy, 5 Pack | Moisturizing, UVA-UVB Water Resistant Sticks, S",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81rGD-IbwRL.jpg",
+          "url": "https://www.amazon.com/dp/B0CTVK6SVQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_PMJMYD9MRE5B7SACRMN7?linkCode=ml1&tag=noya0b-20&linkId=6d285d8df5bb819029045d5619dddfe5&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DK639ZH9",
+          "slug": "ge-6000-btu-electronic-window-air-conditioner-cools-rooms-up",
+          "title": "GE 6,000 BTU Electronic Window Air Conditioner, Cools Rooms up to 250 sq ft, Digital Controls with Remote, Energy Saver ",
+          "price": "$134",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ef9WeeJCL.jpg",
+          "url": "https://www.amazon.com/dp/B0DK639ZH9/ref=cm_sw_r_as_gl_apa_gl_i_G46YBDGVTNDVAJ1FQNVV?linkCode=ml1&tag=noya0b-20&linkId=2614325b8486ef81d96a2f3ab5aac291&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CV7VTJM2",
+          "slug": "flex-24v-brushless-cordless-4-tool-combo-kit-circular-saw-re",
+          "title": "FLEX 24V Brushless Cordless 4-Tool Combo Kit: Circular Saw, Reciprocating Saw, Fixed Speed Angle Grinder, Drill Driver w",
+          "price": "$296",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CV7VTJM2/ref=cm_sw_r_as_gl_apa_gl_i_W6K97FZRV57WBGNB34H9?linkCode=ml1&tag=noya0b-20&linkId=7c714f9b4734f1c3341c0819cf75776f&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CF2RYY1G",
+          "slug": "continuous-spray-sunscreen-spf-30-broad-spectrum-uvauvb-prot",
+          "title": "Continuous Spray Sunscreen - SPF 30, Broad Spectrum UVA/UVB Protection, PABA, Paraben, Gluten & Cruelty Free, Water Resi",
+          "price": "$30",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81gFKEImj3L.jpg",
+          "url": "https://www.amazon.com/dp/B0CF2RYY1G/ref=cm_sw_r_as_gl_apa_gl_i_G536W9275TY8BGMA4DEY?linkCode=ml1&tag=noya0b-20&linkId=f224fd01d61b31aa3382eb60b150056c&gaOptInStatus=true"
         },
         {
           "asin": "B0GWCZQJZF",
@@ -189,67 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61uDWxyphHL.jpg",
           "url": "https://www.amazon.com/dp/B0DNP5NQZG/ref=cm_sw_r_as_gl_apa_gl_i_dl_W5JGEA8ASP6F40XC2PMB?linkCode=ml1&tag=noya0b-20&linkId=c36d92056ccd1a1bbce832c507aa478d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DMYQDX8W",
-          "slug": "chezmoi-collection-gayle-2-piece-cotton-patchwork-quilt-set",
-          "title": "Chezmoi Collection Gayle 2-Piece Cotton Patchwork Quilt Set - Vintage Washed Floral, Soft Breathable Reversible Quilt fo",
-          "price": "$27",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81h7+uD20BL.jpg",
-          "url": "https://www.amazon.com/dp/B0DMYQDX8W/ref=cm_sw_r_as_gl_apa_gl_i_dl_BN6PT9NX7QDGC7KA1993?linkCode=ml1&tag=noya0b-20&linkId=32b8444c91c635850e29154e9d7fb14d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G23LSQHB",
-          "slug": "cottonelle-fresh-feel-flushable-wipes-16-packs-42-wipes-per",
-          "title": "Cottonelle Fresh Feel Flushable Wipes, 16 Packs, 42 Wipes per Pack : Health & Household",
-          "price": "$32",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0G23LSQHB/ref=cm_sw_r_as_gl_apa_gl_i_8XBHNTHYS8BCVYZF2VAN?linkCode=ml1&tag=noya0b-20&linkId=2b35a6d1bd7b7a6dfca3db56aef5bb28&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DS1QNN6F",
-          "slug": "sweese-12-piece-dinnerware-sets-for-4-porcelain-plates-and-b",
-          "title": "Sweese 12 Piece Dinnerware Sets for 4 - Porcelain Plates and Bowls Set - Scratch Resistant, Dishwasher and Oven Safe Rou",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/51Nkw9KdZyL.jpg",
-          "url": "https://www.amazon.com/dp/B0DS1QNN6F/ref=cm_sw_r_as_gl_apa_gl_i_AWR5SZ8NA4VNH7JN6MKQ?linkCode=ml1&tag=noya0b-20&linkId=206a801693c9507b257dd99f3d97c1a3&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F4M38PCT",
-          "slug": "starlabs-beauty-star-butter-body-creme-body-lotion-for-women",
-          "title": "StarLabs Beauty Star Butter Body Creme - Body Lotion for Women with Tangerine Peel Oil and Shea Butter - Nourishing Loti",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61r7WR+P58L.jpg",
-          "url": "https://www.amazon.com/dp/B0F4M38PCT/ref=cm_sw_r_as_gl_apa_gl_i_XA1C4TP0WBYW6BA92RCR?linkCode=ml1&tag=noya0b-20&linkId=3ee3e2780a8d87107af58b5fe0f7562e&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D2788PVH",
-          "slug": "fresh-kidz-body-wash-169-floz-and-2-roll-on-deodorants-186-f",
-          "title": "Fresh Kidz Body Wash 16.9 fl.oz. and 2 Roll-On Deodorants 1.86 fl.oz. for Kids and Teens - Girls Coral Set : Beauty & Pe",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51J+H3S+t8L.jpg",
-          "url": "https://www.amazon.com/dp/B0D2788PVH/ref=cm_sw_r_as_gl_apa_gl_i_792ZA5WFPYXSTNJXGES0?linkCode=ml1&tag=noya0b-20&linkId=ae25110d32bf108c29832877b40b6223&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 26, 2026?",
-          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Beauty and are updated daily."
+          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-26T08:30:00.523Z",
-      "updatedAt": "2026-08-26T08:30:00.523Z"
+      "generatedAt": "2026-08-26T08:40:02.130Z",
+      "updatedAt": "2026-08-26T08:40:02.130Z"
     },
     {
       "date": "2026-08-25",
@@ -16354,5 +16357,5 @@
       "updatedAt": "2026-06-29T03:50:01.595Z"
     }
   ],
-  "generatedAt": "2026-08-26T08:30:00.532Z"
+  "generatedAt": "2026-08-26T08:40:02.135Z"
 }
