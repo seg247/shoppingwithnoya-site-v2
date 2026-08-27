@@ -9,8 +9,7 @@
         "Other",
         "Fashion",
         "Grocery & Food",
-        "Garden & Outdoor",
-        "Toys & Kids"
+        "Health"
       ],
       "byCategory": {
         "Fashion": [
@@ -35,6 +34,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/61fr37ad61L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DSBZ9546?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B01HI7WP6E",
+            "slug": "-tylenol-pm-extra-strength-caplets-500-mg-acetaminophen-150",
+            "title": "\udecd️ Tylenol PM Extra Strength Caplets, 500 mg Acetaminophen, 150 ct",
+            "price": "$8.10",
+            "discount": 70,
+            "rating": "FIRE",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71O4mRXrlzL.jpg",
+            "url": "https://www.amazon.com/dp/B01HI7WP6E?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -81,6 +93,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81QYGvdCc5L.jpg",
             "url": "https://www.amazon.com/dp/B0GBVYP557?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F3244W6K",
+            "slug": "-oedema-3-pcs-resin-flower-shaped-decorative-wall-hooks",
+            "title": "\udecd️ Oedema 3 Pcs Resin Flower Shaped Decorative Wall Hooks",
+            "price": "$8.99",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61CyL5fi1YL.jpg",
+            "url": "https://www.amazon.com/dp/B0F3244W6K?tag=noya0b-20"
           }
         ],
         "Grocery & Food": [
@@ -106,32 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71GOOjDeqrL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0FD9FY894?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0FH4BLBXT",
-            "slug": "-mens-hiking-pants-lightweight-water-resistant-quick-dry-ath",
-            "title": "\udecd️ Mens Hiking Pants Lightweight Water Resistant Quick Dry Athletic Fit with Zipper Pockets for Outdoor Workout Travel",
-            "price": "$9.99",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61w9Krw19tL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FH4BLBXT?tag=noya0b-20"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B08RNVGYZY",
-            "slug": "-learning-toys-for-3-4-5-6-years-old-boys-and-girls-see-spel",
-            "title": "\udecd️ Learning Toys for 3 4 5 6 Years Old Boys and Girls, See & Spell CVC Word Builders with Alphabet Cards for Kids Ages 3",
-            "price": "$9.99",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81OmmdJOLSL.jpg",
-            "url": "https://www.amazon.com/dp/B08RNVGYZY?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +142,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71xinMq31dL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F99GCNMD?tag=noya0b-20"
+        },
+        {
+          "asin": "B01HI7WP6E",
+          "slug": "-tylenol-pm-extra-strength-caplets-500-mg-acetaminophen-150",
+          "title": "\udecd️ Tylenol PM Extra Strength Caplets, 500 mg Acetaminophen, 150 ct",
+          "price": "$8.10",
+          "discount": 70,
+          "rating": "FIRE",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71O4mRXrlzL.jpg",
+          "url": "https://www.amazon.com/dp/B01HI7WP6E?tag=noya0b-20"
         },
         {
           "asin": "B09WTTPWVN",
@@ -224,26 +232,15 @@
           "url": "https://www.amazon.com/dp/B0FD9FY894?tag=noya0b-20"
         },
         {
-          "asin": "B0FH4BLBXT",
-          "slug": "-mens-hiking-pants-lightweight-water-resistant-quick-dry-ath",
-          "title": "\udecd️ Mens Hiking Pants Lightweight Water Resistant Quick Dry Athletic Fit with Zipper Pockets for Outdoor Workout Travel",
-          "price": "$9.99",
+          "asin": "B0F3244W6K",
+          "slug": "-oedema-3-pcs-resin-flower-shaped-decorative-wall-hooks",
+          "title": "\udecd️ Oedema 3 Pcs Resin Flower Shaped Decorative Wall Hooks",
+          "price": "$8.99",
           "discount": 50,
           "rating": "FIRE",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61w9Krw19tL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FH4BLBXT?tag=noya0b-20"
-        },
-        {
-          "asin": "B08RNVGYZY",
-          "slug": "-learning-toys-for-3-4-5-6-years-old-boys-and-girls-see-spel",
-          "title": "\udecd️ Learning Toys for 3 4 5 6 Years Old Boys and Girls, See & Spell CVC Word Builders with Alphabet Cards for Kids Ages 3",
-          "price": "$9.99",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/81OmmdJOLSL.jpg",
-          "url": "https://www.amazon.com/dp/B08RNVGYZY?tag=noya0b-20"
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61CyL5fi1YL.jpg",
+          "url": "https://www.amazon.com/dp/B0F3244W6K?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-27T06:20:00.534Z",
-      "updatedAt": "2026-08-27T06:20:00.534Z"
+      "generatedAt": "2026-08-27T06:30:01.308Z",
+      "updatedAt": "2026-08-27T06:30:01.308Z"
     },
     {
       "date": "2026-08-26",
@@ -16342,5 +16339,5 @@
       "updatedAt": "2026-06-30T03:50:00.805Z"
     }
   ],
-  "generatedAt": "2026-08-27T06:20:00.538Z"
+  "generatedAt": "2026-08-27T06:30:01.313Z"
 }
