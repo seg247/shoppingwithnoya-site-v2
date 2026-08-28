@@ -9,6 +9,7 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
+        "Electronics",
         "Sports & Fitness"
       ],
       "byCategory": {
@@ -58,6 +59,19 @@
             "url": "https://www.amazon.com/dp/B09WTTPWVN?tag=noya0b-20"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0F6CZSC84",
+            "slug": "-neewer-579-selfie-stick-tripod-compatible-with-iphone-samsu",
+            "title": "\udecd️ NEEWER 57.9\" Selfie Stick Tripod Compatible with iPhone Samsung Android, Metal Portable Lightweight Travel Cell Phone",
+            "price": "$7.14",
+            "discount": 78,
+            "rating": "FIRE",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51L--MRQBEL.jpg",
+            "url": "https://www.amazon.com/dp/B0F6CZSC84?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0GZKHC6MF",
@@ -80,17 +94,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/61fr37ad61L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DSBZ9546?tag=noya0b-20"
-          },
-          {
-            "asin": "B0D3BFT87J",
-            "slug": "-bioworld-boys-pokmon-pikachu-3-piece-16-backpack-set-with-p",
-            "title": "\udecd️ Bioworld Boys Pokémon Pikachu 3-Piece 16\" Backpack Set with Padded Utility Case & Carabiner",
-            "price": "$15.00",
-            "discount": 62,
-            "rating": "FIRE",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Y7SK1llcL._AC_UY1000_AIweblab1381794,T1_.jpg",
-            "url": "https://www.amazon.com/dp/B0D3BFT87J?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -142,6 +145,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GYC7FN2X?tag=noya0b-20"
+        },
+        {
+          "asin": "B0F6CZSC84",
+          "slug": "-neewer-579-selfie-stick-tripod-compatible-with-iphone-samsu",
+          "title": "\udecd️ NEEWER 57.9\" Selfie Stick Tripod Compatible with iPhone Samsung Android, Metal Portable Lightweight Travel Cell Phone",
+          "price": "$7.14",
+          "discount": 78,
+          "rating": "FIRE",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51L--MRQBEL.jpg",
+          "url": "https://www.amazon.com/dp/B0F6CZSC84?tag=noya0b-20"
         },
         {
           "asin": "B0H47ZRB6J",
@@ -230,17 +244,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61fr37ad61L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DSBZ9546?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D3BFT87J",
-          "slug": "-bioworld-boys-pokmon-pikachu-3-piece-16-backpack-set-with-p",
-          "title": "\udecd️ Bioworld Boys Pokémon Pikachu 3-Piece 16\" Backpack Set with Padded Utility Case & Carabiner",
-          "price": "$15.00",
-          "discount": 62,
-          "rating": "FIRE",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Y7SK1llcL._AC_UY1000_AIweblab1381794,T1_.jpg",
-          "url": "https://www.amazon.com/dp/B0D3BFT87J?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-28T18:10:01.892Z",
-      "updatedAt": "2026-08-28T18:10:01.892Z"
+      "generatedAt": "2026-08-28T18:20:01.507Z",
+      "updatedAt": "2026-08-28T18:20:01.507Z"
     },
     {
       "date": "2026-08-27",
@@ -16336,5 +16339,5 @@
       "updatedAt": "2026-07-01T03:50:02.241Z"
     }
   ],
-  "generatedAt": "2026-08-28T18:10:01.896Z"
+  "generatedAt": "2026-08-28T18:20:01.515Z"
 }
