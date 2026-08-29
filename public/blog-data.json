@@ -10,10 +10,34 @@
         "Garden & Outdoor",
         "Fashion",
         "Toys & Kids",
-        "Beauty"
+        "Electronics"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B071F1F9DW",
+            "slug": "airborne-immune-support-effervescent-tablets-very-berry-flav",
+            "title": "Airborne Immune Support Effervescent Tablets, Very Berry Flavor - 30ct with 1000mg Vitamin C + Vitamins A, D, E, Zinc, S",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/812N8y1AO0L.jpg",
+            "url": "https://www.amazon.com/dp/B071F1F9DW/ref=cm_sw_r_as_gl_apa_gl_i_Q7SXSMJS9EA2TYV3WFC4?linkCode=ml1&tag=noya0b-20&linkId=6e191aba16d1afdc746d8ebfc1246ed8&gaOptInStatus=true"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0GT8W28HP",
+            "slug": "merax-geometric-carved-55-entryway-console-table-with-3-stor",
+            "title": "Merax Geometric Carved 55\" Entryway Console Table with 3 Storage Drawers, Soft-Closing, Behind Couch Sofa Table with Flu",
+            "price": "$49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/91JMEGu0dyL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GT8W28HP/ref=cm_sw_r_as_gl_apa_gl_i_G2KE2AC189X53ETW344H?linkCode=ml1&tag=noya0b-20&linkId=3820efbf6415d9afda0a9d53b070b9aa&gaOptInStatus=true"
+          },
           {
             "asin": "B0GXBZMYK4",
             "slug": "baby-trend-comet-one-hand-quick-fold-playard-with-hanging-ba",
@@ -35,17 +59,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81iYN6USKJL.jpg",
             "url": "https://www.amazon.com/dp/B0H8PL1YKF/ref=cm_sw_r_as_gl_apa_gl_i_K0A6CFXPY6KZSFTR7HEQ?linkCode=ml1&tag=noya0b-20&linkId=19e0891bfe9f7a11dd50926f1e600ae5&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FQCR48FT",
-            "slug": "v8-michelada-non-alcoholic-drink-mix-8-fl-oz-24-pack",
-            "title": "V8 Michelada Non-Alcoholic Drink Mix, 8 fl oz (24 Pack)",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Yefs2P7ZL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FQCR48FT/ref=cm_sw_r_as_gl_apa_gl_i_EPA4RT20XNWDJC2MQSB0?linkCode=ml1&tag=noya0b-20&linkId=12891d62b7373b068b3c12c9755c8b95&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -119,22 +132,31 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CMBMHN9F/ref=cm_sw_r_as_gl_apa_gl_i_9V7A5S3G43P4JQF6NWF9?linkCode=ml1&tag=noya0b-20&linkId=b147caec442f87814bc7293b28d6e01f&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0FH7CKKPS",
-            "slug": "suave-antiperspirant-deodorant-for-women-invisible-underarm",
-            "title": "Suave Antiperspirant Deodorant For Women, Invisible, Underarm Deodorant, 48hr Odor & Wetness Protection, Long Lasting Tr",
-            "price": "$11",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81QqLMvWtFL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FH7CKKPS/ref=cm_sw_r_as_gl_apa_gl_i_dl_ARQRKZ2ZFYY8Y34R6GSW?linkCode=ml1&tag=noya0b-20&linkId=0b1b9306747f068989cd780ce69e5ddc&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B071F1F9DW",
+          "slug": "airborne-immune-support-effervescent-tablets-very-berry-flav",
+          "title": "Airborne Immune Support Effervescent Tablets, Very Berry Flavor - 30ct with 1000mg Vitamin C + Vitamins A, D, E, Zinc, S",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/812N8y1AO0L.jpg",
+          "url": "https://www.amazon.com/dp/B071F1F9DW/ref=cm_sw_r_as_gl_apa_gl_i_Q7SXSMJS9EA2TYV3WFC4?linkCode=ml1&tag=noya0b-20&linkId=6e191aba16d1afdc746d8ebfc1246ed8&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GT8W28HP",
+          "slug": "merax-geometric-carved-55-entryway-console-table-with-3-stor",
+          "title": "Merax Geometric Carved 55\" Entryway Console Table with 3 Storage Drawers, Soft-Closing, Behind Couch Sofa Table with Flu",
+          "price": "$49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/91JMEGu0dyL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GT8W28HP/ref=cm_sw_r_as_gl_apa_gl_i_G2KE2AC189X53ETW344H?linkCode=ml1&tag=noya0b-20&linkId=3820efbf6415d9afda0a9d53b070b9aa&gaOptInStatus=true"
+        },
         {
           "asin": "B0GXBZMYK4",
           "slug": "baby-trend-comet-one-hand-quick-fold-playard-with-hanging-ba",
@@ -222,34 +244,12 @@
           "category": "Toys & Kids",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CMBMHN9F/ref=cm_sw_r_as_gl_apa_gl_i_9V7A5S3G43P4JQF6NWF9?linkCode=ml1&tag=noya0b-20&linkId=b147caec442f87814bc7293b28d6e01f&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FH7CKKPS",
-          "slug": "suave-antiperspirant-deodorant-for-women-invisible-underarm",
-          "title": "Suave Antiperspirant Deodorant For Women, Invisible, Underarm Deodorant, 48hr Odor & Wetness Protection, Long Lasting Tr",
-          "price": "$11",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81QqLMvWtFL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FH7CKKPS/ref=cm_sw_r_as_gl_apa_gl_i_dl_ARQRKZ2ZFYY8Y34R6GSW?linkCode=ml1&tag=noya0b-20&linkId=0b1b9306747f068989cd780ce69e5ddc&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FQCR48FT",
-          "slug": "v8-michelada-non-alcoholic-drink-mix-8-fl-oz-24-pack",
-          "title": "V8 Michelada Non-Alcoholic Drink Mix, 8 fl oz (24 Pack)",
-          "price": "$13",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Yefs2P7ZL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FQCR48FT/ref=cm_sw_r_as_gl_apa_gl_i_EPA4RT20XNWDJC2MQSB0?linkCode=ml1&tag=noya0b-20&linkId=12891d62b7373b068b3c12c9755c8b95&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 29, 2026?",
-          "a": "The best deals today include \"Baby Trend Comet One Hand Quick-Fold Playard with Hanging Ba...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Fashion and are updated daily."
+          "a": "The best deals today include \"Airborne Immune Support Effervescent Tablets, Very Berry Fla...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-29T08:00:00.754Z",
-      "updatedAt": "2026-08-29T08:00:00.754Z"
+      "generatedAt": "2026-08-29T08:10:01.592Z",
+      "updatedAt": "2026-08-29T08:10:01.592Z"
     },
     {
       "date": "2026-08-28",
@@ -16339,5 +16339,5 @@
       "updatedAt": "2026-07-02T03:50:01.688Z"
     }
   ],
-  "generatedAt": "2026-08-29T08:00:00.760Z"
+  "generatedAt": "2026-08-29T08:10:01.597Z"
 }
