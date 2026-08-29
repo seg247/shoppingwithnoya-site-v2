@@ -9,6 +9,7 @@
         "Other",
         "Garden & Outdoor",
         "Cleaning Supplies",
+        "Home & Kitchen",
         "Electronics"
       ],
       "byCategory": {
@@ -25,20 +26,29 @@
             "url": "https://www.amazon.com/dp/B0H6BFF51L?tag=noya0b-20"
           }
         ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B0747ZC625",
-            "slug": "tide-pods-laundry-detergent-pacs-3-in-1-stain-remover-odor-f",
-            "title": "Tide PODS laundry detergent pacs, 3-in-1 Stain Remover, Odor Fighter, Color Protector, 42 Count, HE compatible, Original",
-            "price": "$27",
-            "discount": 33,
-            "rating": "HOT",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81QHIJncJ9L._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0747ZC625?lv=shuf&ascsubtag=528ded0e941f11f189504e49fc8d92ba0INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6be7a729c392630a3b7d272061be3f30&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B00H9UT1OU",
+            "slug": "-ipa-heavy-ranger-mutt-7-way-round-heavy-duty-commericial-tr",
+            "title": "\udecd️ IPA® Heavy Ranger® MUTT® 7-Way Round Heavy-Duty Commericial Trailer Tester",
+            "price": "$119.99",
+            "discount": 35,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/714C-OyJrQL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00H9UT1OU?tag=noya0b-20"
+          },
+          {
+            "asin": "B007OWP4CG",
+            "slug": "-neogen-000550-rodent-bait-station-black",
+            "title": "\udecd️ Neogen 000550 Rodent Bait Station, Black",
+            "price": "$14.99",
+            "discount": 25,
+            "rating": "WARM",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61xppj0sjaL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B007OWP4CG?tag=noya0b-20"
+          },
           {
             "asin": "B00004R9RW",
             "slug": "-wells-lamont-work-gloves-men-and-women-cowhide-leather-work",
@@ -49,6 +59,17 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81yv1vGzbaL.jpg",
             "url": "https://www.amazon.com/dp/B00004R9RW?tag=noya0b-20"
+          },
+          {
+            "asin": "B00PFW5N8W",
+            "slug": "-ppd-100-sheets-85x11-iron-on-heat-transfer-paper-dark-fabri",
+            "title": "\udecd️ PPD 100 Sheets 8.5x11\" Iron-on Heat Transfer Paper Dark Fabrics Inkjet",
+            "price": "$61.64",
+            "discount": 5,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/711am3QoyrL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00PFW5N8W?tag=noya0b-20"
           },
           {
             "asin": "B004GCUWAQ",
@@ -71,50 +92,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51bhcTW2A7L.jpg",
             "url": "https://www.amazon.com/dp/B003TXBE4Q?tag=noya0b-20"
-          },
+          }
+        ],
+        "Cleaning Supplies": [
           {
-            "asin": "B003TXBE4Q",
-            "slug": "-poolrx-pool-unit-101001-6-month-algaecide-blue-treats-75k-2",
-            "title": "\udecd️ PoolRx Pool Unit #101001 6 Month Algaecide Blue Treats 7.5k-20k gallons, Single",
-            "price": "$57.02",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51bhcTW2A7L.jpg",
-            "url": "https://www.amazon.com/dp/B003TXBE4Q?tag=noya0b-20"
-          },
+            "asin": "B0747ZC625",
+            "slug": "tide-pods-laundry-detergent-pacs-3-in-1-stain-remover-odor-f",
+            "title": "Tide PODS laundry detergent pacs, 3-in-1 Stain Remover, Odor Fighter, Color Protector, 42 Count, HE compatible, Original",
+            "price": "$27",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/81QHIJncJ9L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0747ZC625?lv=shuf&ascsubtag=528ded0e941f11f189504e49fc8d92ba0INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6be7a729c392630a3b7d272061be3f30&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0010YUVYA",
-            "slug": "-minute-white-rice-instant-white-rice-42-ounce-box-pack-of-1",
-            "title": "\udecd️ Minute White Rice, Instant White Rice, 42-Ounce Box, Pack of 1",
-            "price": "$5.67",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/817pXoV-DIL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0010YUVYA?tag=noya0b-20"
-          },
-          {
-            "asin": "B000QSLAAA",
-            "slug": "-oregon-chai-slightly-sweet-chai-concentrate-32-fl-oz",
-            "title": "\udecd️ Oregon Chai Slightly Sweet Chai Concentrate, 32 fl oz",
-            "price": "$6.49",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71epkyt4I7L.jpg",
-            "url": "https://www.amazon.com/dp/B000QSLAAA?tag=noya0b-20"
-          },
-          {
-            "asin": "B00002N5LO",
-            "slug": "-weller-d550-dual-heat-professional-soldering-gun",
-            "title": "\udecd️ Weller D550 Dual Heat Professional Soldering Gun",
-            "price": "$58.99",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71c+MXPp8vS.jpg",
-            "url": "https://www.amazon.com/dp/B00002N5LO?tag=noya0b-20"
+            "asin": "B00658PGKU",
+            "slug": "-smead-desk-filesorter-daily-1-31-31-dividers-letter-size-bl",
+            "title": "\udecd️ Smead Desk File/Sorter, Daily (1-31), 31 Dividers, Letter Size, Blue (89294)",
+            "price": "$19.03",
+            "discount": 14,
+            "rating": "GOOD",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71dJzGEfztL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00658PGKU?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -144,6 +147,17 @@
           "url": "https://www.amazon.com/dp/B0H6BFF51L?tag=noya0b-20"
         },
         {
+          "asin": "B00H9UT1OU",
+          "slug": "-ipa-heavy-ranger-mutt-7-way-round-heavy-duty-commericial-tr",
+          "title": "\udecd️ IPA® Heavy Ranger® MUTT® 7-Way Round Heavy-Duty Commericial Trailer Tester",
+          "price": "$119.99",
+          "discount": 35,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/714C-OyJrQL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00H9UT1OU?tag=noya0b-20"
+        },
+        {
           "asin": "B0747ZC625",
           "slug": "tide-pods-laundry-detergent-pacs-3-in-1-stain-remover-odor-f",
           "title": "Tide PODS laundry detergent pacs, 3-in-1 Stain Remover, Odor Fighter, Color Protector, 42 Count, HE compatible, Original",
@@ -153,6 +167,17 @@
           "category": "Cleaning Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/81QHIJncJ9L._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0747ZC625?lv=shuf&ascsubtag=528ded0e941f11f189504e49fc8d92ba0INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6be7a729c392630a3b7d272061be3f30&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B007OWP4CG",
+          "slug": "-neogen-000550-rodent-bait-station-black",
+          "title": "\udecd️ Neogen 000550 Rodent Bait Station, Black",
+          "price": "$14.99",
+          "discount": 25,
+          "rating": "WARM",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61xppj0sjaL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B007OWP4CG?tag=noya0b-20"
         },
         {
           "asin": "B00004R9RW",
@@ -166,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B00004R9RW?tag=noya0b-20"
         },
         {
+          "asin": "B00658PGKU",
+          "slug": "-smead-desk-filesorter-daily-1-31-31-dividers-letter-size-bl",
+          "title": "\udecd️ Smead Desk File/Sorter, Daily (1-31), 31 Dividers, Letter Size, Blue (89294)",
+          "price": "$19.03",
+          "discount": 14,
+          "rating": "GOOD",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71dJzGEfztL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00658PGKU?tag=noya0b-20"
+        },
+        {
           "asin": "B0GT4L41VN",
           "slug": "-4k-dash-cam-front-and-rear-night-vision-wdr-free-card-inclu",
           "title": "\udecd️ 4K Dash Cam Front and Rear, Night Vision, WDR, Free Card Included",
@@ -175,6 +211,17 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/812Ciwl5KnL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GT4L41VN?tag=noya0b-20"
+        },
+        {
+          "asin": "B00PFW5N8W",
+          "slug": "-ppd-100-sheets-85x11-iron-on-heat-transfer-paper-dark-fabri",
+          "title": "\udecd️ PPD 100 Sheets 8.5x11\" Iron-on Heat Transfer Paper Dark Fabrics Inkjet",
+          "price": "$61.64",
+          "discount": 5,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/711am3QoyrL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00PFW5N8W?tag=noya0b-20"
         },
         {
           "asin": "B004GCUWAQ",
@@ -197,50 +244,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51bhcTW2A7L.jpg",
           "url": "https://www.amazon.com/dp/B003TXBE4Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B003TXBE4Q",
-          "slug": "-poolrx-pool-unit-101001-6-month-algaecide-blue-treats-75k-2",
-          "title": "\udecd️ PoolRx Pool Unit #101001 6 Month Algaecide Blue Treats 7.5k-20k gallons, Single",
-          "price": "$57.02",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51bhcTW2A7L.jpg",
-          "url": "https://www.amazon.com/dp/B003TXBE4Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B0010YUVYA",
-          "slug": "-minute-white-rice-instant-white-rice-42-ounce-box-pack-of-1",
-          "title": "\udecd️ Minute White Rice, Instant White Rice, 42-Ounce Box, Pack of 1",
-          "price": "$5.67",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/817pXoV-DIL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0010YUVYA?tag=noya0b-20"
-        },
-        {
-          "asin": "B000QSLAAA",
-          "slug": "-oregon-chai-slightly-sweet-chai-concentrate-32-fl-oz",
-          "title": "\udecd️ Oregon Chai Slightly Sweet Chai Concentrate, 32 fl oz",
-          "price": "$6.49",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71epkyt4I7L.jpg",
-          "url": "https://www.amazon.com/dp/B000QSLAAA?tag=noya0b-20"
-        },
-        {
-          "asin": "B00002N5LO",
-          "slug": "-weller-d550-dual-heat-professional-soldering-gun",
-          "title": "\udecd️ Weller D550 Dual Heat Professional Soldering Gun",
-          "price": "$58.99",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71c+MXPp8vS.jpg",
-          "url": "https://www.amazon.com/dp/B00002N5LO?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-29T15:10:02.134Z",
-      "updatedAt": "2026-08-29T15:10:02.134Z"
+      "generatedAt": "2026-08-29T15:20:00.599Z",
+      "updatedAt": "2026-08-29T15:20:00.599Z"
     },
     {
       "date": "2026-08-28",
@@ -16336,5 +16339,5 @@
       "updatedAt": "2026-07-02T03:50:01.688Z"
     }
   ],
-  "generatedAt": "2026-08-29T15:10:02.139Z"
+  "generatedAt": "2026-08-29T15:20:00.604Z"
 }
