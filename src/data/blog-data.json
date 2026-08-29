@@ -9,10 +9,10 @@
         "Other",
         "Garden & Outdoor",
         "Cleaning Supplies",
+        "Sports & Fitness",
         "Home & Kitchen",
         "Electronics",
-        "Personal Care",
-        "Beauty"
+        "Personal Care"
       ],
       "byCategory": {
         "Garden & Outdoor": [
@@ -63,15 +63,15 @@
             "url": "https://www.amazon.com/dp/B00004R9RW?tag=noya0b-20"
           },
           {
-            "asin": "B017876W3Q",
-            "slug": "-4-large-rolls-of-bubble-wrap-total-700-feet-small-bubbles-3",
-            "title": "\udecd️ 4 large rolls of Bubble Wrap total 700 feet, small bubbles 3/16 cushioning, 700 ft, heavy duty, perforated Every 12\" ",
-            "price": "$45.90",
-            "discount": 10,
+            "asin": "B06XC9BVVC",
+            "slug": "-membrane-solutions-nsfansi-58-certified-50-gpd-reverse-osmo",
+            "title": "\udecd️ Membrane Solutions NSF/ANSI 58 Certified 50 GPD Reverse Osmosis Membrane",
+            "price": "$16.19",
+            "discount": 19,
             "rating": "GOOD",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Px5eBNyuL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B017876W3Q?tag=noya0b-20"
+            "imageUrl": "https://m.media-amazon.com/images/I/51Cgmv1-fzL.jpg",
+            "url": "https://www.amazon.com/dp/B06XC9BVVC?tag=noya0b-20"
           }
         ],
         "Cleaning Supplies": [
@@ -85,6 +85,19 @@
             "category": "Cleaning Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81QHIJncJ9L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0747ZC625?lv=shuf&ascsubtag=528ded0e941f11f189504e49fc8d92ba0INT&ie=UTF8&channelId=1&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=6be7a729c392630a3b7d272061be3f30&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Sports & Fitness": [
+          {
+            "asin": "B075MDJ87H",
+            "slug": "-golf-umbrella-windproof-large-626872-inch-double-canopy-for",
+            "title": "\udecd️ Golf Umbrella Windproof Large 62/68/72 Inch Double Canopy for Rain",
+            "price": "$23.99",
+            "discount": 20,
+            "rating": "WARM",
+            "category": "Sports & Fitness",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vlQm5f9fL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B075MDJ87H?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -124,19 +137,6 @@
             "category": "Personal Care",
             "imageUrl": "https://m.media-amazon.com/images/I/61iS3sh6buL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01H50RG8G?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B01LB7MC4M",
-            "slug": "-nsf-certified-food-grade-mineral-oil-gallon-128oz-certified",
-            "title": "\udecd️ NSF Certified Food Grade Mineral Oil - Gallon (128oz), Certified Food Safe Conditioner for Wood Cutting Boards, Butch",
-            "price": "$25.49",
-            "discount": 10,
-            "rating": "GOOD",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/7152Fb9FhfL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B01LB7MC4M?tag=noya0b-20"
           }
         ]
       },
@@ -186,6 +186,17 @@
           "url": "https://www.amazon.com/dp/B007OWP4CG?tag=noya0b-20"
         },
         {
+          "asin": "B075MDJ87H",
+          "slug": "-golf-umbrella-windproof-large-626872-inch-double-canopy-for",
+          "title": "\udecd️ Golf Umbrella Windproof Large 62/68/72 Inch Double Canopy for Rain",
+          "price": "$23.99",
+          "discount": 20,
+          "rating": "WARM",
+          "category": "Sports & Fitness",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vlQm5f9fL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B075MDJ87H?tag=noya0b-20"
+        },
+        {
           "asin": "B00004R9RW",
           "slug": "-wells-lamont-work-gloves-men-and-women-cowhide-leather-work",
           "title": "\udecd️ Wells Lamont Work Gloves Men and Women, Cowhide Leather Work Gloves, Adjustable Wrist",
@@ -195,6 +206,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81yv1vGzbaL.jpg",
           "url": "https://www.amazon.com/dp/B00004R9RW?tag=noya0b-20"
+        },
+        {
+          "asin": "B06XC9BVVC",
+          "slug": "-membrane-solutions-nsfansi-58-certified-50-gpd-reverse-osmo",
+          "title": "\udecd️ Membrane Solutions NSF/ANSI 58 Certified 50 GPD Reverse Osmosis Membrane",
+          "price": "$16.19",
+          "discount": 19,
+          "rating": "GOOD",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51Cgmv1-fzL.jpg",
+          "url": "https://www.amazon.com/dp/B06XC9BVVC?tag=noya0b-20"
         },
         {
           "asin": "B00658PGKU",
@@ -228,28 +250,6 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61iS3sh6buL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01H50RG8G?tag=noya0b-20"
-        },
-        {
-          "asin": "B01LB7MC4M",
-          "slug": "-nsf-certified-food-grade-mineral-oil-gallon-128oz-certified",
-          "title": "\udecd️ NSF Certified Food Grade Mineral Oil - Gallon (128oz), Certified Food Safe Conditioner for Wood Cutting Boards, Butch",
-          "price": "$25.49",
-          "discount": 10,
-          "rating": "GOOD",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/7152Fb9FhfL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B01LB7MC4M?tag=noya0b-20"
-        },
-        {
-          "asin": "B017876W3Q",
-          "slug": "-4-large-rolls-of-bubble-wrap-total-700-feet-small-bubbles-3",
-          "title": "\udecd️ 4 large rolls of Bubble Wrap total 700 feet, small bubbles 3/16 cushioning, 700 ft, heavy duty, perforated Every 12\" ",
-          "price": "$45.90",
-          "discount": 10,
-          "rating": "GOOD",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Px5eBNyuL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B017876W3Q?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-29T15:30:00.359Z",
-      "updatedAt": "2026-08-29T15:30:00.359Z"
+      "generatedAt": "2026-08-29T15:40:01.943Z",
+      "updatedAt": "2026-08-29T15:40:01.943Z"
     },
     {
       "date": "2026-08-28",
@@ -16345,5 +16345,5 @@
       "updatedAt": "2026-07-02T03:50:01.688Z"
     }
   ],
-  "generatedAt": "2026-08-29T15:30:00.364Z"
+  "generatedAt": "2026-08-29T15:40:01.948Z"
 }
