@@ -9,9 +9,37 @@
         "Toys & Kids",
         "Home & Kitchen",
         "Other",
+        "Beauty",
+        "Grocery & Food",
         "Fashion"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0DWC1RDS6",
+            "slug": "touchland-body-hair-rich-pistachio-hydrating-fragrance-mist",
+            "title": "Touchland Body & Hair Rich Pistachio Hydrating Fragrance Mist Travel Size | TSA ready spray. Warm woods scent of pistach",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61yCKNqBRlL.jpg",
+            "url": "https://www.amazon.com/dp/B0DWC1RDS6/ref=cm_sw_r_as_gl_api_gl_i_6XQTW2QMWY7WD8DE1EHD?linkCode=ml1&tag=noya0b-20&linkId=52d08a75dbaa0e6a48c6dc79d899b1f0&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B09GSBQ8P7",
+            "slug": "kicking-horse-coffee-grizzly-claw-dark-roast-whole-bean-10-o",
+            "title": "Kicking Horse Coffee, Grizzly Claw, Dark Roast, Whole Bean, 10 oz - Certified Organic, Fairtrade, Kosher Coffee (Pack of",
+            "price": "$23",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71vytHHLIsL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09GSBQ8P7/ref=cm_sw_r_as_gl_api_gl_i_dl_WDTP0YFT8PCGC84KEARK?linkCode=ml1&tag=noya0b-20&linkId=db1e3693f4e77a6be516f2d9a10f4bbd&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B001GK6W0U",
@@ -69,17 +97,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81p-xfXu1bL.jpg",
             "url": "https://www.amazon.com/dp/B0GV3YYVJZ/ref=cm_sw_r_as_gl_api_gl_i_2HT94TDJTVB8666SSENP?linkCode=ml1&tag=noya0b-20&linkId=176b0fb92ee330413f661708b2556c35&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0G3YFCXTK",
-            "slug": "100-waterproof-noiseless-breathable-queen-size-mattress-prot",
-            "title": "100% Waterproof Noiseless & Breathable Queen Size Mattress Protector - Gray",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81BNpesIRyL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G3YFCXTK/ref=cm_sw_r_as_gl_api_gl_i_dl_1GS22059VT4J2B87VG81?linkCode=ml1&tag=noya0b-20&linkId=05a6bbbf0e754490536f1db30cbd2eb2&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -117,21 +134,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61N7dmji8aL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0D61CQX7C?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=d8fa15a7df96838549ba992c49f2f7df&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GQLD1PCL",
-            "slug": "upgraded-cherry-pitter-tool-press-type-cherry-pit-remover-la",
-            "title": "Upgraded Cherry Pitter Tool, Press-Type Cherry Pit Remover, Large 33mm Cherry Seed Remover, Food-Grade Stainless Steel &",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71mWKmKjY-L.jpg",
-            "url": "https://www.amazon.com/dp/B0GQLD1PCL/ref=cm_sw_r_as_gl_api_gl_i_RVRXDGKB1YVWNV2E44NX?linkCode=ml1&tag=noya0b-20&linkId=d38e2a64a03144cd8606c4f325d538af&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DWC1RDS6",
+          "slug": "touchland-body-hair-rich-pistachio-hydrating-fragrance-mist",
+          "title": "Touchland Body & Hair Rich Pistachio Hydrating Fragrance Mist Travel Size | TSA ready spray. Warm woods scent of pistach",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61yCKNqBRlL.jpg",
+          "url": "https://www.amazon.com/dp/B0DWC1RDS6/ref=cm_sw_r_as_gl_api_gl_i_6XQTW2QMWY7WD8DE1EHD?linkCode=ml1&tag=noya0b-20&linkId=52d08a75dbaa0e6a48c6dc79d899b1f0&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09GSBQ8P7",
+          "slug": "kicking-horse-coffee-grizzly-claw-dark-roast-whole-bean-10-o",
+          "title": "Kicking Horse Coffee, Grizzly Claw, Dark Roast, Whole Bean, 10 oz - Certified Organic, Fairtrade, Kosher Coffee (Pack of",
+          "price": "$23",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vytHHLIsL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09GSBQ8P7/ref=cm_sw_r_as_gl_api_gl_i_dl_WDTP0YFT8PCGC84KEARK?linkCode=ml1&tag=noya0b-20&linkId=db1e3693f4e77a6be516f2d9a10f4bbd&gaOptInStatus=true"
+        },
         {
           "asin": "B001GK6W0U",
           "slug": "baby-alive-bunny-sleepover-baby-doll-bedtime-themed-12-inch",
@@ -219,34 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61N7dmji8aL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0D61CQX7C?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=d8fa15a7df96838549ba992c49f2f7df&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GQLD1PCL",
-          "slug": "upgraded-cherry-pitter-tool-press-type-cherry-pit-remover-la",
-          "title": "Upgraded Cherry Pitter Tool, Press-Type Cherry Pit Remover, Large 33mm Cherry Seed Remover, Food-Grade Stainless Steel &",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71mWKmKjY-L.jpg",
-          "url": "https://www.amazon.com/dp/B0GQLD1PCL/ref=cm_sw_r_as_gl_api_gl_i_RVRXDGKB1YVWNV2E44NX?linkCode=ml1&tag=noya0b-20&linkId=d38e2a64a03144cd8606c4f325d538af&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G3YFCXTK",
-          "slug": "100-waterproof-noiseless-breathable-queen-size-mattress-prot",
-          "title": "100% Waterproof Noiseless & Breathable Queen Size Mattress Protector - Gray",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81BNpesIRyL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G3YFCXTK/ref=cm_sw_r_as_gl_api_gl_i_dl_1GS22059VT4J2B87VG81?linkCode=ml1&tag=noya0b-20&linkId=05a6bbbf0e754490536f1db30cbd2eb2&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on August 29, 2026?",
-          "a": "The best deals today include \"Baby Alive Bunny Sleepover Baby Doll, Bedtime-Themed 12-Inch...\" and 9 other hand-picked discounts. Deals span Toys & Kids, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"Touchland Body & Hair Rich Pistachio Hydrating Fragrance Mis...\" and 9 other hand-picked discounts. Deals span Toys & Kids, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-29T12:50:02.098Z",
-      "updatedAt": "2026-08-29T12:50:02.098Z"
+      "generatedAt": "2026-08-29T13:00:00.786Z",
+      "updatedAt": "2026-08-29T13:00:00.786Z"
     },
     {
       "date": "2026-08-28",
@@ -16336,5 +16342,5 @@
       "updatedAt": "2026-07-02T03:50:01.688Z"
     }
   ],
-  "generatedAt": "2026-08-29T12:50:02.104Z"
+  "generatedAt": "2026-08-29T13:00:00.791Z"
 }
