@@ -9,8 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Sports & Fitness",
-        "Fashion",
-        "Electronics"
+        "Fashion"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -27,6 +26,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "194563183X",
+            "slug": "-things-we-never-got-over-knockemout",
+            "title": "\udecd️ Things We Never Got Over (Knockemout)",
+            "price": "$10.09",
+            "discount": 47,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/194563183X?tag=noya0b-20"
+          },
           {
             "asin": "B0915M316F",
             "slug": "-eddie-bauer-womens-rainier-pant",
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51FcNgXdoML._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0GR2XRCDV?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0F7QV34PS",
-            "slug": "-3-pack-apple-17-pro-max-charger-fast-chargingpd-60w-5-in-1",
-            "title": "\udecd️ 3 Pack Apple 17 Pro Max Charger Fast Charging,PD 60W 5 in 1 Multiport USB C Wall Charger Block Fast Charging, iPhone ",
-            "price": "$26.99",
-            "discount": 27,
-            "rating": "WARM",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51isZ3AKE+L.jpg",
-            "url": "https://www.amazon.com/dp/B0F7QV34PS?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +142,17 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/61UzNQNbeOL.jpg",
           "url": "https://www.amazon.com/dp/B07GYW2C1H?tag=noya0b-20"
+        },
+        {
+          "asin": "194563183X",
+          "slug": "-things-we-never-got-over-knockemout",
+          "title": "\udecd️ Things We Never Got Over (Knockemout)",
+          "price": "$10.09",
+          "discount": 47,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/194563183X?tag=noya0b-20"
         },
         {
           "asin": "B0915M316F",
@@ -233,17 +241,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51FcNgXdoML._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0GR2XRCDV?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F7QV34PS",
-          "slug": "-3-pack-apple-17-pro-max-charger-fast-chargingpd-60w-5-in-1",
-          "title": "\udecd️ 3 Pack Apple 17 Pro Max Charger Fast Charging,PD 60W 5 in 1 Multiport USB C Wall Charger Block Fast Charging, iPhone ",
-          "price": "$26.99",
-          "discount": 27,
-          "rating": "WARM",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51isZ3AKE+L.jpg",
-          "url": "https://www.amazon.com/dp/B0F7QV34PS?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-30T05:40:01.946Z",
-      "updatedAt": "2026-08-30T05:40:01.946Z"
+      "generatedAt": "2026-08-30T05:50:01.664Z",
+      "updatedAt": "2026-08-30T05:50:01.664Z"
     },
     {
       "date": "2026-08-29",
@@ -16333,5 +16330,5 @@
       "updatedAt": "2026-07-03T03:50:01.148Z"
     }
   ],
-  "generatedAt": "2026-08-30T05:40:01.953Z"
+  "generatedAt": "2026-08-30T05:50:01.670Z"
 }
