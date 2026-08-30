@@ -9,8 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Sports & Fitness",
-        "Electronics",
-        "Beauty"
+        "Electronics"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -27,6 +26,17 @@
           }
         ],
         "Other": [
+          {
+            "asin": "B0915M316F",
+            "slug": "-eddie-bauer-womens-rainier-pant",
+            "title": "\udecd️ Eddie Bauer Womens Rainier Pant",
+            "price": "$37.13",
+            "discount": 47,
+            "rating": "HOT",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Qmm6b-LNL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0915M316F?tag=noya0b-20"
+          },
           {
             "asin": "194563183X",
             "slug": "-things-we-never-got-over-knockemout",
@@ -119,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51isZ3AKE+L.jpg",
             "url": "https://www.amazon.com/dp/B0F7QV34PS?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DX2KG8WB",
-            "slug": "-naturium-urea-5-body-serum-lightweight-hydrating-serum-with",
-            "title": "\udecd️ Naturium Urea 5% Body Serum, Lightweight, Hydrating Serum with Nourishing & Soothing Benefits for Barrier Support, Ve",
-            "price": "$16.29",
-            "discount": 26,
-            "rating": "WARM",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51S3lqDgW8L._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DX2KG8WB?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +142,17 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/61UzNQNbeOL.jpg",
           "url": "https://www.amazon.com/dp/B07GYW2C1H?tag=noya0b-20"
+        },
+        {
+          "asin": "B0915M316F",
+          "slug": "-eddie-bauer-womens-rainier-pant",
+          "title": "\udecd️ Eddie Bauer Womens Rainier Pant",
+          "price": "$37.13",
+          "discount": 47,
+          "rating": "HOT",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Qmm6b-LNL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0915M316F?tag=noya0b-20"
         },
         {
           "asin": "194563183X",
@@ -233,17 +241,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61CGyOXqT-L.jpg",
           "url": "https://www.amazon.com/dp/B08BR8R3T2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DX2KG8WB",
-          "slug": "-naturium-urea-5-body-serum-lightweight-hydrating-serum-with",
-          "title": "\udecd️ Naturium Urea 5% Body Serum, Lightweight, Hydrating Serum with Nourishing & Soothing Benefits for Barrier Support, Ve",
-          "price": "$16.29",
-          "discount": 26,
-          "rating": "WARM",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51S3lqDgW8L._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DX2KG8WB?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-30T05:10:00.561Z",
-      "updatedAt": "2026-08-30T05:10:00.561Z"
+      "generatedAt": "2026-08-30T05:20:01.634Z",
+      "updatedAt": "2026-08-30T05:20:01.635Z"
     },
     {
       "date": "2026-08-29",
@@ -16333,5 +16330,5 @@
       "updatedAt": "2026-07-03T03:50:01.148Z"
     }
   ],
-  "generatedAt": "2026-08-30T05:10:00.567Z"
+  "generatedAt": "2026-08-30T05:20:01.642Z"
 }
