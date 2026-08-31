@@ -10,6 +10,7 @@
         "Beauty",
         "Skincare",
         "Makeup",
+        "Fragrance",
         "Body Care"
       ],
       "bySubcat": {
@@ -21,7 +22,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71R+ca5-rcL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0GT24KDRM?th=1&tag=noya0b-20"
           },
           {
@@ -113,7 +114,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Beauty",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL.jpg",
             "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
           },
           {
@@ -175,18 +176,8 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B084GM32Q9/ref=cm_sw_r_as_gl_apa_gl_i_AM0CJ4GCH2YXRR5C6T2B?linkCode=ml1&tag=noya0b-20&linkId=afcf2547ebd62c9a7a0190dcad2998b7&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GPKR8D1F",
-            "slug": "rodial-dragons-blood-little-luxuries-kit-travel-size-hydrati",
-            "title": "Rodial Dragon’s Blood Little Luxuries Kit - Travel Size Hydrating Skincare Set with Cleansing Water, Sculpting Gel, Eye ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/81vWpYHEEAL.jpg",
-            "url": "https://www.amazon.com/dp/B0GPKR8D1F/ref=cm_sw_r_as_gl_apa_gl_i_PGVQPYN2188QT22BZR9X?linkCode=ml1&tag=noya0b-20&linkId=3a6c8064c2432a1aca1569923e9c5487&gaOptInStatus=true"
           }
         ],
         "Makeup": [
@@ -249,6 +240,18 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/61MgSMetqEL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B07G7L2GDV?th=1&linkCode=sl2&tag=noya0b-20&linkId=aee82c944b21ab1cbab33d5d44fe638d&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fragrance": [
+          {
+            "asin": "B000273PEO",
+            "slug": "clinique-happy-eau-de-parfum-spray-notes-of-grapefruit-berga",
+            "title": "Clinique Happy Eau de Parfum Spray | Notes of Grapefruit, Bergamot, Hawaiian Wedding Flower + Spring Mimosa | Perfumes f",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Fragrance",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-YGqG1ezL.jpg",
+            "url": "https://www.amazon.com/dp/B000273PEO?th=1&linkCode=sl2&tag=noya0b-20&linkId=5f43369470140f0891117501e6afc953&language=en_US&gaOptInStatus=true"
           }
         ],
         "Body Care": [
@@ -332,7 +335,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71R+ca5-rcL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0GT24KDRM?th=1&tag=noya0b-20"
         },
         {
@@ -342,7 +345,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Beauty",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL.jpg",
           "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
         },
         {
@@ -434,6 +437,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61SVyaWAagL.jpg",
           "url": "https://www.amazon.com/dp/B07QVKBBRZ?tag=noya0b-20"
+        },
+        {
+          "asin": "B000273PEO",
+          "slug": "clinique-happy-eau-de-parfum-spray-notes-of-grapefruit-berga",
+          "title": "Clinique Happy Eau de Parfum Spray | Notes of Grapefruit, Bergamot, Hawaiian Wedding Flower + Spring Mimosa | Perfumes f",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Fragrance",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-YGqG1ezL.jpg",
+          "url": "https://www.amazon.com/dp/B000273PEO?th=1&linkCode=sl2&tag=noya0b-20&linkId=5f43369470140f0891117501e6afc953&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0C3M9WBQF",
@@ -602,7 +615,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B084GM32Q9/ref=cm_sw_r_as_gl_apa_gl_i_AM0CJ4GCH2YXRR5C6T2B?linkCode=ml1&tag=noya0b-20&linkId=afcf2547ebd62c9a7a0190dcad2998b7&gaOptInStatus=true"
         },
         {
@@ -614,16 +627,6 @@
           "subcat": "Body Care",
           "imageUrl": "https://m.media-amazon.com/images/I/81QqLMvWtFL.jpg",
           "url": "https://www.amazon.com/dp/B0FH7CKKPS/ref=cm_sw_r_as_gl_apa_gl_i_dl_ARQRKZ2ZFYY8Y34R6GSW?linkCode=ml1&tag=noya0b-20&linkId=0b1b9306747f068989cd780ce69e5ddc&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GPKR8D1F",
-          "slug": "rodial-dragons-blood-little-luxuries-kit-travel-size-hydrati",
-          "title": "Rodial Dragon’s Blood Little Luxuries Kit - Travel Size Hydrating Skincare Set with Cleansing Water, Sculpting Gel, Eye ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/81vWpYHEEAL.jpg",
-          "url": "https://www.amazon.com/dp/B0GPKR8D1F/ref=cm_sw_r_as_gl_apa_gl_i_PGVQPYN2188QT22BZR9X?linkCode=ml1&tag=noya0b-20&linkId=3a6c8064c2432a1aca1569923e9c5487&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -662,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-31T18:30:05.492Z",
-      "updatedAt": "2026-08-31T18:30:05.493Z"
+      "generatedAt": "2026-08-31T18:40:05.634Z",
+      "updatedAt": "2026-08-31T18:40:05.634Z"
     },
     {
       "date": "2026-08-30",
@@ -39988,5 +39991,5 @@
       "updatedAt": "2026-07-04T03:50:03.605Z"
     }
   ],
-  "generatedAt": "2026-08-31T18:30:05.515Z"
+  "generatedAt": "2026-08-31T18:40:05.647Z"
 }
