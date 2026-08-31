@@ -75,16 +75,6 @@
             "url": "https://www.amazon.com/dp/B01M4IM7Y5?tag=noya0b-20"
           },
           {
-            "asin": "B0D35XYVZR",
-            "slug": "moroccanoil-treatment-purple-hair-oil-for-blonde-hair-085-fl",
-            "title": "Moroccanoil Treatment Purple Hair Oil for Blonde Hair, 0.85 Fl. Oz. : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0D35XYVZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=337f2682fac13fa31f3a489e2929c4d8&language=en_US&gaOptInStatus=true"
-          },
-          {
             "asin": "B0GYMYKY1R",
             "slug": "avenho-5-in-1-blow-dryer-brush-set-wrap-air-curler-upgrade-h",
             "title": "AVENHO 5 in 1 Blow Dryer Brush Set, Wrap Air Curler, Upgrade Hair Styler | Air Multi-Styler & Drying System | Hair Dryer",
@@ -93,6 +83,16 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71+4smlDL0L.jpg",
             "url": "https://amazon.com/dp/B0GYMYKY1R?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0D35XYVZR",
+            "slug": "moroccanoil-treatment-purple-hair-oil-for-blonde-hair-085-fl",
+            "title": "Moroccanoil Treatment Purple Hair Oil for Blonde Hair, 0.85 Fl. Oz. : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Hair Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0D35XYVZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=337f2682fac13fa31f3a489e2929c4d8&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -103,7 +103,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
           },
           {
@@ -123,7 +123,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/811BGmECkML.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DBYW2LTK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=feb9fbddabe76666634ba676eb2af3ff&language=en_US&gaOptInStatus=true"
           }
         ],
@@ -342,7 +342,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
         },
         {
@@ -466,6 +466,16 @@
           "url": "https://www.amazon.com/dp/B01M4IM7Y5?tag=noya0b-20"
         },
         {
+          "asin": "B0GYMYKY1R",
+          "slug": "avenho-5-in-1-blow-dryer-brush-set-wrap-air-curler-upgrade-h",
+          "title": "AVENHO 5 in 1 Blow Dryer Brush Set, Wrap Air Curler, Upgrade Hair Styler | Air Multi-Styler & Drying System | Hair Dryer",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71+4smlDL0L.jpg",
+          "url": "https://amazon.com/dp/B0GYMYKY1R?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B00OMFRV42",
           "slug": "medline-msc0924002uns-remedy-phytoplex-nourishing-skin-cream",
           "title": "Medline MSC0924002UNS Remedy Phytoplex Nourishing Skin Cream, 2oz. (Case of 24) : Beauty & Personal Care",
@@ -562,7 +572,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/811BGmECkML.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DBYW2LTK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=feb9fbddabe76666634ba676eb2af3ff&language=en_US&gaOptInStatus=true"
         },
         {
@@ -604,16 +614,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71tp+mjwLgL.jpg",
           "url": "https://amazon.com/dp/B009SDCY5Y?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B0GYMYKY1R",
-          "slug": "avenho-5-in-1-blow-dryer-brush-set-wrap-air-curler-upgrade-h",
-          "title": "AVENHO 5 in 1 Blow Dryer Brush Set, Wrap Air Curler, Upgrade Hair Styler | Air Multi-Styler & Drying System | Hair Dryer",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71+4smlDL0L.jpg",
-          "url": "https://amazon.com/dp/B0GYMYKY1R?th=1&tag=noya0b-20"
         },
         {
           "asin": "B09GN1YRVP",
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-31T09:30:06.435Z",
-      "updatedAt": "2026-08-31T09:30:06.435Z"
+      "generatedAt": "2026-08-31T09:40:05.488Z",
+      "updatedAt": "2026-08-31T09:40:05.489Z"
     },
     {
       "date": "2026-08-30",
@@ -39988,5 +39988,5 @@
       "updatedAt": "2026-07-04T03:50:03.605Z"
     }
   ],
-  "generatedAt": "2026-08-31T09:30:06.450Z"
+  "generatedAt": "2026-08-31T09:40:05.507Z"
 }
