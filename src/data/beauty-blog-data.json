@@ -91,7 +91,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL._SL1000_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0D35XYVZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=337f2682fac13fa31f3a489e2929c4d8&language=en_US&gaOptInStatus=true"
           }
         ],
@@ -123,7 +123,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/811BGmECkML._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DBYW2LTK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=feb9fbddabe76666634ba676eb2af3ff&language=en_US&gaOptInStatus=true"
           }
         ],
@@ -185,7 +185,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B084GM32Q9/ref=cm_sw_r_as_gl_apa_gl_i_AM0CJ4GCH2YXRR5C6T2B?linkCode=ml1&tag=noya0b-20&linkId=afcf2547ebd62c9a7a0190dcad2998b7&gaOptInStatus=true"
           },
           {
@@ -227,16 +227,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/71KsaIMGD7L.jpg",
             "url": "https://www.amazon.com/Banana-Boat-Sunscreen-Performance-Spectrum/dp/B01MQXX9US?crid=32NBT87XCZC5I&dib=eyJ2IjoiMSJ9.qRctSgWBI76OP74BhiJyVq2jhOeLe7EUUrWFN9IleYHC1MjXNfqbl1LKsEgIdklRLs1AE8A5hsq60e6cPZeWd9rEpT2BNkNLAGG301mhdMyluF2kcY5txllYUr3MwbwQi-6tMtYRcXuHnvFfcxU5YD7ztE02YF_WQCggFVxR6u1sVMMl2x-PK7UdTTu7dEcGj6-l7PFM0LFnrjxTohwfHIOtTo-TgfAGcox28BEaOBikpn42RE6Xk8CYSVqLRZ_8e0_B6SXMbClidyNFc0xwR94ovKgtdH0nfobRd7d5gtM.0pWQam7ZtzTxL07TSWOORqIoAB7YJeyI3EHLlsnvX0Q&dib_tag=se&keywords=Banana%2BBoat%2BSport%2BSPF%2B50%2BSunscreen%2BSpray%2C%2B6%2Boz%2B%282%2BPack%29&nsdOptOutParam=true&qid=1788129566&rdc=1&sprefix=banana%2Bboat%2Bsport%2Bspf%2B50%2Bsunscreen%2Bspray%2C%2B6%2Boz%2B2%2Bpack%2B%2Caps%2C345&th=1&linkCode=sl2&tag=noya0b-20&linkId=99ab22e33b1b605a77e6fabae042b77a&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B009SDCY5Y",
-            "slug": "neutrogena-mineral-loose-face-powder-foundation-natural-ivor",
-            "title": "Neutrogena Mineral Loose Face Powder Foundation, Natural Ivory 20, 0.19 oz | Lightweight Face Makeup, Buildable Coverage",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71tp+mjwLgL.jpg",
-            "url": "https://amazon.com/dp/B009SDCY5Y?th=1&tag=noya0b-20"
           }
         ],
         "Makeup": [
@@ -272,6 +262,16 @@
           }
         ],
         "Body Care": [
+          {
+            "asin": "B0FC8GXR3N",
+            "slug": "old-spice-mens-deodorant-pumpking-aluminum-free-3oz-scent-of",
+            "title": "Old Spice Men's Deodorant, Pumpking, Aluminum Free, 3oz, Scent of Pumpkin Spice, Smooth Glide, 24/7 Odor Protection, Lim",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-gRHxVH2L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FC8GXR3N/ref=cm_sw_r_as_gl_api_gl_i_A9T2YC03XMPHYJAB4VE2?linkCode=ml1&tag=noya0b-20&linkId=05ba7e593398039e8feb2b4e627df149&gaOptInStatus=true"
+          },
           {
             "asin": "B09GN1YRVP",
             "slug": "irish-spring-body-wash-for-men-original-scent-887-ml-face-an",
@@ -466,6 +466,16 @@
           "url": "https://www.amazon.com/dp/B01M4IM7Y5?tag=noya0b-20"
         },
         {
+          "asin": "B0FC8GXR3N",
+          "slug": "old-spice-mens-deodorant-pumpking-aluminum-free-3oz-scent-of",
+          "title": "Old Spice Men's Deodorant, Pumpking, Aluminum Free, 3oz, Scent of Pumpkin Spice, Smooth Glide, 24/7 Odor Protection, Lim",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-gRHxVH2L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FC8GXR3N/ref=cm_sw_r_as_gl_api_gl_i_A9T2YC03XMPHYJAB4VE2?linkCode=ml1&tag=noya0b-20&linkId=05ba7e593398039e8feb2b4e627df149&gaOptInStatus=true"
+        },
+        {
           "asin": "B09GN1YRVP",
           "slug": "irish-spring-body-wash-for-men-original-scent-887-ml-face-an",
           "title": "Irish Spring Body Wash for Men, Original Scent, 887 mL | Face and Body Wash, Men’s Body Wash, Paraben-Free, Moisturizing",
@@ -542,7 +552,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B084GM32Q9/ref=cm_sw_r_as_gl_apa_gl_i_AM0CJ4GCH2YXRR5C6T2B?linkCode=ml1&tag=noya0b-20&linkId=afcf2547ebd62c9a7a0190dcad2998b7&gaOptInStatus=true"
         },
         {
@@ -572,7 +582,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL._SL1000_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0D35XYVZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=337f2682fac13fa31f3a489e2929c4d8&language=en_US&gaOptInStatus=true"
         },
         {
@@ -582,7 +592,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/811BGmECkML._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DBYW2LTK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=feb9fbddabe76666634ba676eb2af3ff&language=en_US&gaOptInStatus=true"
         },
         {
@@ -614,16 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71KsaIMGD7L.jpg",
           "url": "https://www.amazon.com/Banana-Boat-Sunscreen-Performance-Spectrum/dp/B01MQXX9US?crid=32NBT87XCZC5I&dib=eyJ2IjoiMSJ9.qRctSgWBI76OP74BhiJyVq2jhOeLe7EUUrWFN9IleYHC1MjXNfqbl1LKsEgIdklRLs1AE8A5hsq60e6cPZeWd9rEpT2BNkNLAGG301mhdMyluF2kcY5txllYUr3MwbwQi-6tMtYRcXuHnvFfcxU5YD7ztE02YF_WQCggFVxR6u1sVMMl2x-PK7UdTTu7dEcGj6-l7PFM0LFnrjxTohwfHIOtTo-TgfAGcox28BEaOBikpn42RE6Xk8CYSVqLRZ_8e0_B6SXMbClidyNFc0xwR94ovKgtdH0nfobRd7d5gtM.0pWQam7ZtzTxL07TSWOORqIoAB7YJeyI3EHLlsnvX0Q&dib_tag=se&keywords=Banana%2BBoat%2BSport%2BSPF%2B50%2BSunscreen%2BSpray%2C%2B6%2Boz%2B%282%2BPack%29&nsdOptOutParam=true&qid=1788129566&rdc=1&sprefix=banana%2Bboat%2Bsport%2Bspf%2B50%2Bsunscreen%2Bspray%2C%2B6%2Boz%2B2%2Bpack%2B%2Caps%2C345&th=1&linkCode=sl2&tag=noya0b-20&linkId=99ab22e33b1b605a77e6fabae042b77a&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B009SDCY5Y",
-          "slug": "neutrogena-mineral-loose-face-powder-foundation-natural-ivor",
-          "title": "Neutrogena Mineral Loose Face Powder Foundation, Natural Ivory 20, 0.19 oz | Lightweight Face Makeup, Buildable Coverage",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71tp+mjwLgL.jpg",
-          "url": "https://amazon.com/dp/B009SDCY5Y?th=1&tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-31T11:50:04.673Z",
-      "updatedAt": "2026-08-31T11:50:04.673Z"
+      "generatedAt": "2026-08-31T12:00:04.158Z",
+      "updatedAt": "2026-08-31T12:00:04.158Z"
     },
     {
       "date": "2026-08-30",
@@ -39988,5 +39988,5 @@
       "updatedAt": "2026-07-04T03:50:03.605Z"
     }
   ],
-  "generatedAt": "2026-08-31T11:50:04.687Z"
+  "generatedAt": "2026-08-31T12:00:04.181Z"
 }
