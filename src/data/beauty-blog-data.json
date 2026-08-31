@@ -21,7 +21,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71R+ca5-rcL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0GT24KDRM?th=1&tag=noya0b-20"
           },
           {
@@ -103,16 +103,6 @@
             "subcat": "Hair Care",
             "imageUrl": "https://m.media-amazon.com/images/I/61JhaerQiJL.jpg",
             "url": "https://www.amazon.com/dp/B089SLN2DC?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=2ff1258a78eafb5c39389b1e25cd00cb&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08LMBY347",
-            "slug": "keratin-complex-keratin-volume-amplifying-shampoo-338-fl-oz",
-            "title": "Keratin Complex - Keratin Volume Amplifying Shampoo - 33.8 fl oz : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Cj-KNq-dL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B08LMBY347/ref=cm_sw_r_as_gl_apa_gl_i_Z7WFPJTDWDAM5AW70X07?linkCode=ml1&tag=noya0b-20&linkId=522c94ea3ce8af1c0165646ac7a091c7&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -133,7 +123,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/811BGmECkML.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DBYW2LTK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=feb9fbddabe76666634ba676eb2af3ff&language=en_US&gaOptInStatus=true"
           }
         ],
@@ -195,7 +185,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B084GM32Q9/ref=cm_sw_r_as_gl_apa_gl_i_AM0CJ4GCH2YXRR5C6T2B?linkCode=ml1&tag=noya0b-20&linkId=afcf2547ebd62c9a7a0190dcad2998b7&gaOptInStatus=true"
           },
           {
@@ -293,6 +283,16 @@
         ],
         "Body Care": [
           {
+            "asin": "B0FTZVX18H",
+            "slug": "dove-men-whole-body-deo-aluminum-free-deodorant-spray-bamboo",
+            "title": "Dove Men Whole Body Deo Aluminum-Free Deodorant Spray, Bamboo + Aloe, 4 oz",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71UC9kGNSRL.jpg",
+            "url": "https://www.amazon.com/dp/B0FTZVX18H/ref=cm_sw_r_as_gl_apa_gl_i_dl_N1EVB2Z7VR98BY33G2RP?linkCode=ml1&tag=noya0b-20&linkId=c4bf1d34c90953b53371b8049ce99de4&gaOptInStatus=true"
+          },
+          {
             "asin": "B0CVCVZQJG",
             "slug": "dial-body-wash-calm-soothe-lavender-jasmine-scent-16-fl-oz-4",
             "title": "Dial Body Wash, Calm & Soothe Lavender & Jasmine Scent, 16 fl oz, 4-Pack | Deeply cleansing yet gentle, Leaves skin repl",
@@ -332,7 +332,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71R+ca5-rcL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0GT24KDRM?th=1&tag=noya0b-20"
         },
         {
@@ -466,6 +466,16 @@
           "url": "https://www.amazon.com/dp/B01M4IM7Y5?tag=noya0b-20"
         },
         {
+          "asin": "B0FTZVX18H",
+          "slug": "dove-men-whole-body-deo-aluminum-free-deodorant-spray-bamboo",
+          "title": "Dove Men Whole Body Deo Aluminum-Free Deodorant Spray, Bamboo + Aloe, 4 oz",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71UC9kGNSRL.jpg",
+          "url": "https://www.amazon.com/dp/B0FTZVX18H/ref=cm_sw_r_as_gl_apa_gl_i_dl_N1EVB2Z7VR98BY33G2RP?linkCode=ml1&tag=noya0b-20&linkId=c4bf1d34c90953b53371b8049ce99de4&gaOptInStatus=true"
+        },
+        {
           "asin": "B0G6GQH4XV",
           "slug": "dove-men-body-face-wash-mixed-pack-micromoisture-hydration-s",
           "title": "Dove Men Body & Face Wash Mixed Pack, MicroMoisture Hydration & Skin",
@@ -492,7 +502,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B084GM32Q9/ref=cm_sw_r_as_gl_apa_gl_i_AM0CJ4GCH2YXRR5C6T2B?linkCode=ml1&tag=noya0b-20&linkId=afcf2547ebd62c9a7a0190dcad2998b7&gaOptInStatus=true"
         },
         {
@@ -532,7 +542,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/811BGmECkML.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DBYW2LTK?m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=feb9fbddabe76666634ba676eb2af3ff&language=en_US&gaOptInStatus=true"
         },
         {
@@ -614,16 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/81JaOxfhPWL.jpg",
           "url": "https://www.amazon.com/dp/B0886JDYNG/ref=cm_sw_r_as_gl_api_gl_i_QHT96NZSKA5QKXEWH4QM?linkCode=ml1&tag=noya0b-20&linkId=c9b14cde36a7359688187e0372ca3bd7&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08LMBY347",
-          "slug": "keratin-complex-keratin-volume-amplifying-shampoo-338-fl-oz",
-          "title": "Keratin Complex - Keratin Volume Amplifying Shampoo - 33.8 fl oz : Beauty & Personal Care",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61Cj-KNq-dL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B08LMBY347/ref=cm_sw_r_as_gl_apa_gl_i_Z7WFPJTDWDAM5AW70X07?linkCode=ml1&tag=noya0b-20&linkId=522c94ea3ce8af1c0165646ac7a091c7&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-31T07:20:05.329Z",
-      "updatedAt": "2026-08-31T07:20:05.330Z"
+      "generatedAt": "2026-08-31T07:30:04.563Z",
+      "updatedAt": "2026-08-31T07:30:04.563Z"
     },
     {
       "date": "2026-08-30",
@@ -39988,5 +39988,5 @@
       "updatedAt": "2026-07-04T03:50:03.605Z"
     }
   ],
-  "generatedAt": "2026-08-31T07:20:05.353Z"
+  "generatedAt": "2026-08-31T07:30:04.580Z"
 }
