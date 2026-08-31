@@ -9,6 +9,7 @@
         "Other",
         "Home & Kitchen",
         "Fashion",
+        "Grocery & Food",
         "Electronics"
       ],
       "byCategory": {
@@ -104,17 +105,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/51TgxBtiewL._AC_SL1080_.jpg",
             "url": "https://www.amazon.com/dp/B0051NGGBS?tag=noya0b-20"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B00DZTU6KW",
-            "slug": "-lugz-mens-convoy-classic-6-inch-chukka-boot",
-            "title": "\udecd️ Lugz mens Convoy Classic 6-inch Chukka Boot",
-            "price": "$32.50",
-            "discount": 32,
+            "asin": "B0951VPNCL",
+            "slug": "-fivona-sitz-bath-for-toilet-seat-postpartum-and-hemorrhoids",
+            "title": "\udecd️ Fivona Sitz Bath for Toilet Seat Postpartum and Hemorrhoids Care - Yoni Steam Seat - Foldable Basin for Epsom Salt So",
+            "price": "$9.99",
+            "discount": 33,
             "rating": "HOT",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51qcC2wU4mL._AC_SL1250_.jpg",
-            "url": "https://www.amazon.com/dp/B00DZTU6KW?tag=noya0b-20"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61dsjst7N0L.jpg",
+            "url": "https://www.amazon.com/dp/B0951VPNCL?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -221,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B0051NGGBS?tag=noya0b-20"
         },
         {
+          "asin": "B0951VPNCL",
+          "slug": "-fivona-sitz-bath-for-toilet-seat-postpartum-and-hemorrhoids",
+          "title": "\udecd️ Fivona Sitz Bath for Toilet Seat Postpartum and Hemorrhoids Care - Yoni Steam Seat - Foldable Basin for Epsom Salt So",
+          "price": "$9.99",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61dsjst7N0L.jpg",
+          "url": "https://www.amazon.com/dp/B0951VPNCL?tag=noya0b-20"
+        },
+        {
           "asin": "B0GMZ92XDD",
           "slug": "-morento-smart-tower-fan-with-remote-wifiappvoice-control-25",
           "title": "\udecd️ MORENTO Smart Tower Fan with Remote, WiFi/App/Voice Control, 25dB, Black",
@@ -230,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61TuBwuFBOL.jpg",
           "url": "https://www.amazon.com/dp/B0GMZ92XDD?tag=noya0b-20"
-        },
-        {
-          "asin": "B00DZTU6KW",
-          "slug": "-lugz-mens-convoy-classic-6-inch-chukka-boot",
-          "title": "\udecd️ Lugz mens Convoy Classic 6-inch Chukka Boot",
-          "price": "$32.50",
-          "discount": 32,
-          "rating": "HOT",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51qcC2wU4mL._AC_SL1250_.jpg",
-          "url": "https://www.amazon.com/dp/B00DZTU6KW?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-31T07:50:01.422Z",
-      "updatedAt": "2026-08-31T07:50:01.422Z"
+      "generatedAt": "2026-08-31T08:00:01.779Z",
+      "updatedAt": "2026-08-31T08:00:01.779Z"
     },
     {
       "date": "2026-08-30",
@@ -16324,5 +16327,5 @@
       "updatedAt": "2026-07-04T03:50:01.364Z"
     }
   ],
-  "generatedAt": "2026-08-31T07:50:01.428Z"
+  "generatedAt": "2026-08-31T08:00:01.786Z"
 }
