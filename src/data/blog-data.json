@@ -9,8 +9,8 @@
         "Other",
         "Fashion",
         "Electronics",
-        "Books & Media",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Books & Media"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0GMZ92XDD?tag=noya0b-20"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B06XNTVLN8",
+            "slug": "-california-design-den-soft-100-cotton-queen-size-bed-sheet",
+            "title": "\udecd️ California Design Den Soft 100% Cotton Queen Size Bed Sheet Set, Light Grey",
+            "price": "$42.49",
+            "discount": 30,
+            "rating": "HOT",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61FF2jMGcXL.jpg",
+            "url": "https://www.amazon.com/dp/B06XNTVLN8?tag=noya0b-20"
+          }
+        ],
         "Books & Media": [
           {
             "asin": "1524744433",
@@ -118,19 +131,6 @@
             "category": "Books & Media",
             "imageUrl": "https://m.media-amazon.com/images/I/71-gzAcw67L.jpg",
             "url": "https://www.amazon.com/dp/1524744433?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DJSJ16XV",
-            "slug": "-stainless-steel-stove-gap-covers-2pcsstove-gap-fillerrange",
-            "title": "\udecd️ Stainless Steel Stove Gap Covers (2PCS),Stove Gap Filler,Range Trim Kit,Stove Guard for Kitchen Oven Gap Between Stov",
-            "price": "$17.98",
-            "discount": 28,
-            "rating": "WARM",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vuw2jMe-L.jpg",
-            "url": "https://www.amazon.com/dp/B0DJSJ16XV?tag=noya0b-20"
           }
         ]
       },
@@ -202,6 +202,17 @@
           "url": "https://www.amazon.com/dp/B0C2HC2V8L?tag=noya0b-20"
         },
         {
+          "asin": "B06XNTVLN8",
+          "slug": "-california-design-den-soft-100-cotton-queen-size-bed-sheet",
+          "title": "\udecd️ California Design Den Soft 100% Cotton Queen Size Bed Sheet Set, Light Grey",
+          "price": "$42.49",
+          "discount": 30,
+          "rating": "HOT",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61FF2jMGcXL.jpg",
+          "url": "https://www.amazon.com/dp/B06XNTVLN8?tag=noya0b-20"
+        },
+        {
           "asin": "B013M38P94",
           "slug": "-bago-travel-duffle-bag-for-women-men-large-duffel-bag-for-t",
           "title": "\udecd️ Bago Travel Duffle Bag for Women & Men. Large Duffel Bag for Traveling",
@@ -233,17 +244,6 @@
           "category": "Books & Media",
           "imageUrl": "https://m.media-amazon.com/images/I/71-gzAcw67L.jpg",
           "url": "https://www.amazon.com/dp/1524744433?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DJSJ16XV",
-          "slug": "-stainless-steel-stove-gap-covers-2pcsstove-gap-fillerrange",
-          "title": "\udecd️ Stainless Steel Stove Gap Covers (2PCS),Stove Gap Filler,Range Trim Kit,Stove Guard for Kitchen Oven Gap Between Stov",
-          "price": "$17.98",
-          "discount": 28,
-          "rating": "WARM",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vuw2jMe-L.jpg",
-          "url": "https://www.amazon.com/dp/B0DJSJ16XV?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-31T05:50:02.125Z",
-      "updatedAt": "2026-08-31T05:50:02.125Z"
+      "generatedAt": "2026-08-31T06:00:01.363Z",
+      "updatedAt": "2026-08-31T06:00:01.364Z"
     },
     {
       "date": "2026-08-30",
@@ -16327,5 +16327,5 @@
       "updatedAt": "2026-07-04T03:50:01.364Z"
     }
   ],
-  "generatedAt": "2026-08-31T05:50:02.131Z"
+  "generatedAt": "2026-08-31T06:00:01.371Z"
 }
