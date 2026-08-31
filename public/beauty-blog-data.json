@@ -21,7 +21,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/71R+ca5-rcL._SL1500_.jpg",
             "url": "https://amazon.com/dp/B0GT24KDRM?th=1&tag=noya0b-20"
           },
           {
@@ -217,16 +217,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/818983CRmbL.jpg",
             "url": "https://amazon.com/dp/B0F5QS4B8H?tag=noya0b-20"
-          },
-          {
-            "asin": "B01MQXX9US",
-            "slug": "banana-boat-sport-spf-50-sunscreen-spray-6-oz-2-pack-sweat-a",
-            "title": "Banana Boat Sport SPF 50 Sunscreen Spray, 6 oz (2 Pack) | Sweat and water resistant sunblock spray, UVA/UVB broad spectr",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/71KsaIMGD7L.jpg",
-            "url": "https://www.amazon.com/Banana-Boat-Sunscreen-Performance-Spectrum/dp/B01MQXX9US?crid=32NBT87XCZC5I&dib=eyJ2IjoiMSJ9.qRctSgWBI76OP74BhiJyVq2jhOeLe7EUUrWFN9IleYHC1MjXNfqbl1LKsEgIdklRLs1AE8A5hsq60e6cPZeWd9rEpT2BNkNLAGG301mhdMyluF2kcY5txllYUr3MwbwQi-6tMtYRcXuHnvFfcxU5YD7ztE02YF_WQCggFVxR6u1sVMMl2x-PK7UdTTu7dEcGj6-l7PFM0LFnrjxTohwfHIOtTo-TgfAGcox28BEaOBikpn42RE6Xk8CYSVqLRZ_8e0_B6SXMbClidyNFc0xwR94ovKgtdH0nfobRd7d5gtM.0pWQam7ZtzTxL07TSWOORqIoAB7YJeyI3EHLlsnvX0Q&dib_tag=se&keywords=Banana%2BBoat%2BSport%2BSPF%2B50%2BSunscreen%2BSpray%2C%2B6%2Boz%2B%282%2BPack%29&nsdOptOutParam=true&qid=1788129566&rdc=1&sprefix=banana%2Bboat%2Bsport%2Bspf%2B50%2Bsunscreen%2Bspray%2C%2B6%2Boz%2B2%2Bpack%2B%2Caps%2C345&th=1&linkCode=sl2&tag=noya0b-20&linkId=99ab22e33b1b605a77e6fabae042b77a&language=en_US&gaOptInStatus=true"
           }
         ],
         "Makeup": [
@@ -262,6 +252,16 @@
           }
         ],
         "Body Care": [
+          {
+            "asin": "B0FWTMMFWT",
+            "slug": "go-dove-mens-deodorant-from-1xx",
+            "title": "GO! Dove Men's Deodorant from $1.xx!!",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71SxYA0FanL.jpg",
+            "url": "https://www.amazon.com/Dove-Comfort-Antiperspirant-Stick-Odor%E2%80%91Neutralizing/dp/B0FWTMMFWT?th=1&linkCode=sl2&tag=noya0b-20&linkId=6fa462edeeb96609878b2575719e2d97&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0FC8GXR3N",
             "slug": "old-spice-mens-deodorant-pumpking-aluminum-free-3oz-scent-of",
@@ -332,7 +332,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/71R+ca5-rcL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B0GT24KDRM?th=1&tag=noya0b-20"
         },
         {
@@ -464,6 +464,16 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61PHT4hT0FL.jpg",
           "url": "https://www.amazon.com/dp/B01M4IM7Y5?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FWTMMFWT",
+          "slug": "go-dove-mens-deodorant-from-1xx",
+          "title": "GO! Dove Men's Deodorant from $1.xx!!",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71SxYA0FanL.jpg",
+          "url": "https://www.amazon.com/Dove-Comfort-Antiperspirant-Stick-Odor%E2%80%91Neutralizing/dp/B0FWTMMFWT?th=1&linkCode=sl2&tag=noya0b-20&linkId=6fa462edeeb96609878b2575719e2d97&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0FC8GXR3N",
@@ -614,16 +624,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/818983CRmbL.jpg",
           "url": "https://amazon.com/dp/B0F5QS4B8H?tag=noya0b-20"
-        },
-        {
-          "asin": "B01MQXX9US",
-          "slug": "banana-boat-sport-spf-50-sunscreen-spray-6-oz-2-pack-sweat-a",
-          "title": "Banana Boat Sport SPF 50 Sunscreen Spray, 6 oz (2 Pack) | Sweat and water resistant sunblock spray, UVA/UVB broad spectr",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/71KsaIMGD7L.jpg",
-          "url": "https://www.amazon.com/Banana-Boat-Sunscreen-Performance-Spectrum/dp/B01MQXX9US?crid=32NBT87XCZC5I&dib=eyJ2IjoiMSJ9.qRctSgWBI76OP74BhiJyVq2jhOeLe7EUUrWFN9IleYHC1MjXNfqbl1LKsEgIdklRLs1AE8A5hsq60e6cPZeWd9rEpT2BNkNLAGG301mhdMyluF2kcY5txllYUr3MwbwQi-6tMtYRcXuHnvFfcxU5YD7ztE02YF_WQCggFVxR6u1sVMMl2x-PK7UdTTu7dEcGj6-l7PFM0LFnrjxTohwfHIOtTo-TgfAGcox28BEaOBikpn42RE6Xk8CYSVqLRZ_8e0_B6SXMbClidyNFc0xwR94ovKgtdH0nfobRd7d5gtM.0pWQam7ZtzTxL07TSWOORqIoAB7YJeyI3EHLlsnvX0Q&dib_tag=se&keywords=Banana%2BBoat%2BSport%2BSPF%2B50%2BSunscreen%2BSpray%2C%2B6%2Boz%2B%282%2BPack%29&nsdOptOutParam=true&qid=1788129566&rdc=1&sprefix=banana%2Bboat%2Bsport%2Bspf%2B50%2Bsunscreen%2Bspray%2C%2B6%2Boz%2B2%2Bpack%2B%2Caps%2C345&th=1&linkCode=sl2&tag=noya0b-20&linkId=99ab22e33b1b605a77e6fabae042b77a&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -662,8 +662,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-08-31T12:00:04.158Z",
-      "updatedAt": "2026-08-31T12:00:04.158Z"
+      "generatedAt": "2026-08-31T12:10:05.593Z",
+      "updatedAt": "2026-08-31T12:10:05.593Z"
     },
     {
       "date": "2026-08-30",
@@ -39988,5 +39988,5 @@
       "updatedAt": "2026-07-04T03:50:03.605Z"
     }
   ],
-  "generatedAt": "2026-08-31T12:00:04.181Z"
+  "generatedAt": "2026-08-31T12:10:05.608Z"
 }
