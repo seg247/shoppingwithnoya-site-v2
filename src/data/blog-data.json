@@ -9,9 +9,10 @@
         "Other",
         "Beauty",
         "Electronics",
-        "Fashion",
-        "Tools",
-        "Sports"
+        "Home & Kitchen",
+        "Cleaning Supplies",
+        "Grocery",
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -36,17 +37,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61sBgZbJh8L._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F6T1BWG5?th=1&linkCode=sl2&tag=noya0b-20&linkId=f8d3eac2c834c332c2701288da96ccfa&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B0FS5LTZX7",
-            "slug": "yes-45xx-smart-digital-touchscreen-calendar",
-            "title": "YES! $45.xx Smart Digital Touchscreen Calendar!",
-            "price": "$45",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71zzZ4-CCLL.jpg",
-            "url": "https://www.amazon.com/dp/B0FS5LTZX7?th=1&linkCode=sl2&tag=noya0b-20&linkId=288b711bdfe445364f0a670c5b8fa8e4&language=en_US&gaOptInStatus=true"
+            "asin": "B01IHHLB3W",
+            "slug": "temppro-tempswift-digital-meat-thermometer-for-cooking-insta",
+            "title": "TempPro TempSwift Digital Meat Thermometer for Cooking | Instant Read Thermometer with Backlight, Kitchen Food Thermomet",
+            "price": "$8",
+            "discount": 55,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61CHaEhw9ML.jpg",
+            "url": "https://www.amazon.com/dp/B01IHHLB3W?th=1&linkCode=sl2&tag=noya0b-20&linkId=dfb36e829ae63d175313f3dfd94bc480&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -71,20 +74,46 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71dx6LQLiTL.jpg",
             "url": "https://www.amazon.com/ME-FAN-Pack-Travel-Bottles-Conditioner/dp/B0FJFLCGRK?th=1&linkCode=sl2&tag=noya0b-20&linkId=070c0193ef26d74860bab14596346ba9&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Cleaning Supplies": [
           {
-            "asin": "B00YGJXSX2",
-            "slug": "old-spice-antiperspirant-deodorant-for-men-247-sweat-odor-pr",
-            "title": "Old Spice Antiperspirant Deodorant for Men, 24/7 Sweat & Odor Protection, 24/7 Lasting Freshness, Invisible Solid, Swagg",
-            "price": "$2",
+            "asin": "B083FVSKMF",
+            "slug": "little-trees-car-air-freshener-vent-wrap-provides-long-lasti",
+            "title": "LITTLE TREES Car Air Freshener | Vent Wrap Provides Long Lasting Scent, Invisibly Fresh | Caribbean Colada, 16 Air Fresh",
+            "price": "$4",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LsGTr+2xL.jpg",
-            "url": "https://www.amazon.com/dp/B00YGJXSX2?th=1&linkCode=sl2&tag=noya0b-20&linkId=fbc2a062e134b82a47d06b7df9f8099e&language=en_US&gaOptInStatus=true"
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/91frDH8d3BL.jpg",
+            "url": "https://www.amazon.com/dp/B083FVSKMF?th=1&linkCode=sl2&tag=noya0b-20&linkId=e09ee7d7f909cea6dd3966d746d784bc&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery": [
+          {
+            "asin": "B01M97YEVN",
+            "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
+            "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
+            "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
           }
         ],
         "Electronics": [
+          {
+            "asin": "B07JZ124FK",
+            "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
+            "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compa",
+            "price": "$22.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
+            "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
+          },
           {
             "asin": "B0GFNYWK11",
             "slug": "joicim-2026-one-minute-with-god-for-men-365-days-of-daily-pr",
@@ -108,32 +137,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00JUM4YGK?tag=noya0b-20"
-          }
-        ],
-        "Tools": [
-          {
-            "asin": "B0D66T6WQ4",
-            "slug": "21-piece-25-allen-wrench-hex-drill-bit-set-durable-impact-al",
-            "title": "21-Piece 2.5\" Allen-Wrench Hex Drill Bit Set, Durable Impact Allen Key Set, Long-Lasting Strong Magnetic Hex Screwdriver",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools",
-            "imageUrl": "https://m.media-amazon.com/images/I/81MNZc6g4eL.jpg",
-            "url": "https://www.amazon.com/dp/B0D66T6WQ4?tag=noya0b-20"
-          }
-        ],
-        "Sports": [
-          {
-            "asin": "B00LSRU162",
-            "slug": "hanes-mens-cotton-moisture-wicking-v-neck-tee-undershirts-mu",
-            "title": "Hanes Mens Cotton, Moisture-wicking V-neck Tee Undershirts, Multiple Packs And Colors, White - 6 Pack, Medium US : Cloth",
-            "price": "$13.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/81mk8AKj5AL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00LSRU162?tag=noya0b-20"
           }
         ]
       },
@@ -161,6 +164,17 @@
           "url": "https://www.amazon.com/dp/B0F6T1BWG5?th=1&linkCode=sl2&tag=noya0b-20&linkId=f8d3eac2c834c332c2701288da96ccfa&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B01IHHLB3W",
+          "slug": "temppro-tempswift-digital-meat-thermometer-for-cooking-insta",
+          "title": "TempPro TempSwift Digital Meat Thermometer for Cooking | Instant Read Thermometer with Backlight, Kitchen Food Thermomet",
+          "price": "$8",
+          "discount": 55,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61CHaEhw9ML.jpg",
+          "url": "https://www.amazon.com/dp/B01IHHLB3W?th=1&linkCode=sl2&tag=noya0b-20&linkId=dfb36e829ae63d175313f3dfd94bc480&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B08KX7BDVR",
           "slug": "dove-beauty-bar-soap-original-24-count-for-soft-smooth-skin",
           "title": "Dove Beauty Bar Soap Original 24 Count for Soft, Smooth Skin, with 1/4 Moisturizing Cream 3.75 oz : Beauty & Personal Ca",
@@ -170,6 +184,39 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81oWgxqSJmL.jpg",
           "url": "https://www.amazon.com/dp/B08KX7BDVR/ref=cm_sw_r_as_gl_api_gl_i_69JPZCB28W54HSY73MBP?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=f8537036f21a13008fcce66267c0f683&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B083FVSKMF",
+          "slug": "little-trees-car-air-freshener-vent-wrap-provides-long-lasti",
+          "title": "LITTLE TREES Car Air Freshener | Vent Wrap Provides Long Lasting Scent, Invisibly Fresh | Caribbean Colada, 16 Air Fresh",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/91frDH8d3BL.jpg",
+          "url": "https://www.amazon.com/dp/B083FVSKMF?th=1&linkCode=sl2&tag=noya0b-20&linkId=e09ee7d7f909cea6dd3966d746d784bc&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01M97YEVN",
+          "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
+          "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
+          "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
+        },
+        {
+          "asin": "B07JZ124FK",
+          "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
+          "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compa",
+          "price": "$22.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
+          "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
         },
         {
           "asin": "B0GFNYWK11",
@@ -203,50 +250,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71dx6LQLiTL.jpg",
           "url": "https://www.amazon.com/ME-FAN-Pack-Travel-Bottles-Conditioner/dp/B0FJFLCGRK?th=1&linkCode=sl2&tag=noya0b-20&linkId=070c0193ef26d74860bab14596346ba9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D66T6WQ4",
-          "slug": "21-piece-25-allen-wrench-hex-drill-bit-set-durable-impact-al",
-          "title": "21-Piece 2.5\" Allen-Wrench Hex Drill Bit Set, Durable Impact Allen Key Set, Long-Lasting Strong Magnetic Hex Screwdriver",
-          "price": "$7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools",
-          "imageUrl": "https://m.media-amazon.com/images/I/81MNZc6g4eL.jpg",
-          "url": "https://www.amazon.com/dp/B0D66T6WQ4?tag=noya0b-20"
-        },
-        {
-          "asin": "B00YGJXSX2",
-          "slug": "old-spice-antiperspirant-deodorant-for-men-247-sweat-odor-pr",
-          "title": "Old Spice Antiperspirant Deodorant for Men, 24/7 Sweat & Odor Protection, 24/7 Lasting Freshness, Invisible Solid, Swagg",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LsGTr+2xL.jpg",
-          "url": "https://www.amazon.com/dp/B00YGJXSX2?th=1&linkCode=sl2&tag=noya0b-20&linkId=fbc2a062e134b82a47d06b7df9f8099e&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00LSRU162",
-          "slug": "hanes-mens-cotton-moisture-wicking-v-neck-tee-undershirts-mu",
-          "title": "Hanes Mens Cotton, Moisture-wicking V-neck Tee Undershirts, Multiple Packs And Colors, White - 6 Pack, Medium US : Cloth",
-          "price": "$13.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/81mk8AKj5AL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00LSRU162?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FS5LTZX7",
-          "slug": "yes-45xx-smart-digital-touchscreen-calendar",
-          "title": "YES! $45.xx Smart Digital Touchscreen Calendar!",
-          "price": "$45",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71zzZ4-CCLL.jpg",
-          "url": "https://www.amazon.com/dp/B0FS5LTZX7?th=1&linkCode=sl2&tag=noya0b-20&linkId=288b711bdfe445364f0a670c5b8fa8e4&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -256,7 +259,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 70% off on \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\". There are 3 deals with verified discounts today."
+          "a": "The biggest discount today is 70% off on \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\". There are 4 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-01T14:20:02.455Z",
-      "updatedAt": "2026-09-01T14:20:02.456Z"
+      "generatedAt": "2026-09-01T14:30:02.327Z",
+      "updatedAt": "2026-09-01T14:30:02.327Z"
     },
     {
       "date": "2026-08-31",
@@ -16336,5 +16339,5 @@
       "updatedAt": "2026-07-05T03:50:02.127Z"
     }
   ],
-  "generatedAt": "2026-09-01T14:20:02.466Z"
+  "generatedAt": "2026-09-01T14:30:02.334Z"
 }
