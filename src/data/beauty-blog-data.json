@@ -32,7 +32,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL._SL1500_.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL.jpg",
             "url": "https://amazon.com/dp/B00G40FJH4?tag=noya0b-20"
           },
           {
@@ -44,6 +44,16 @@
             "subcat": "Makeup",
             "imageUrl": "https://m.media-amazon.com/images/I/61-YGKqv32L.jpg",
             "url": "https://www.amazon.com/dp/B0BFR2D9ZX?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G1VDB22X",
+            "slug": "luxe-color-changing-foundation-light",
+            "title": "Luxe Color Changing Foundation – Light",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Makeup",
+            "imageUrl": "https://m.media-amazon.com/images/I/61q6pYkaN1L._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G1VDB22X?tag=noya0b-20"
           },
           {
             "asin": "B01AKTZFZU",
@@ -120,6 +130,16 @@
             "url": "https://www.amazon.com/dp/B085K925JW?tag=noya0b-20"
           },
           {
+            "asin": "B0DQQ94KDQ",
+            "slug": "exfoliating-glove-korean-skin-care-body-wash-loofah-face-lip",
+            "title": "Exfoliating Glove Korean Skin Care Body wash loofah face Lip Body Scrub Dry Brushing Body Brush Foot Back Scrubber scrub",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/81pus3PX53L.jpg",
+            "url": "https://www.amazon.com/dp/B0DQQ94KDQ/ref=cm_sw_r_as_gl_apa_gl_i_EVTM4JQMDVDY35EMEEKE?linkCode=ml1&tag=noya0b-20&linkId=45b5cffb67350822e2e0bdd51f87936e&gaOptInStatus=true"
+          },
+          {
             "asin": "B087V7SGTX",
             "slug": "dermalogica-discover-healthy-skin-kit-4-piece-travel-skincar",
             "title": "Dermalogica Discover Healthy Skin Kit, 4 Piece Travel Skincare Set",
@@ -148,7 +168,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL._SL1000_.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL.jpg",
             "url": "https://amazon.com/dp/B0D35XYVZR?th=1&tag=noya0b-20"
           },
           {
@@ -240,7 +260,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL._SL1500_.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL.jpg",
             "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
           },
           {
@@ -292,26 +312,6 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81u6W-oVEiL._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/140025616X?tag=noya0b-20"
-          },
-          {
-            "asin": "0593956478",
-            "slug": "every-summer-after-deluxe-edition",
-            "title": "Every Summer After: Deluxe Edition",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81LZd3IpuyL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/0593956478?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FPF22Y2M",
-            "slug": "fluffy-lash-clusters-with-spikes-200d260d300d-cluster-eyelas",
-            "title": "Fluffy Lash Clusters with Spikes 200D+260D+300D Cluster Eyelash Extensions Thick Eyelash Clusters Faux Mink Individual L",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/91ge3YH7QKL._SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FPF22Y2M?tag=noya0b-20"
           }
         ],
         "Fragrance": [
@@ -322,7 +322,7 @@
             "discount": 25,
             "rating": "WARM",
             "subcat": "Fragrance",
-            "imageUrl": "https://m.media-amazon.com/images/I/71S+5pnW+XL._SL1500_.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/I/71S+5pnW+XL.jpg",
             "url": "https://amazon.com/dp/B0BF2CLRG2?th=1&tag=noya0b-20"
           }
         ]
@@ -365,7 +365,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL._SL1000_.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL.jpg",
           "url": "https://amazon.com/dp/B0D35XYVZR?th=1&tag=noya0b-20"
         },
         {
@@ -375,7 +375,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL._SL1500_.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL.jpg",
           "url": "https://amazon.com/dp/B00G40FJH4?tag=noya0b-20"
         },
         {
@@ -395,7 +395,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL._SL1500_.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL.jpg",
           "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
         },
         {
@@ -415,7 +415,7 @@
           "discount": 25,
           "rating": "WARM",
           "subcat": "Fragrance",
-          "imageUrl": "https://m.media-amazon.com/images/I/71S+5pnW+XL._SL1500_.jpg",
+          "imageUrl": "https://m.media-amazon.com/images/I/71S+5pnW+XL.jpg",
           "url": "https://amazon.com/dp/B0BF2CLRG2?th=1&tag=noya0b-20"
         },
         {
@@ -467,6 +467,26 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71rxmlz5LGL.jpg",
           "url": "https://www.amazon.com/dp/B094FLX3ZM?tag=noya0b-20"
+        },
+        {
+          "asin": "B0G1VDB22X",
+          "slug": "luxe-color-changing-foundation-light",
+          "title": "Luxe Color Changing Foundation – Light",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Makeup",
+          "imageUrl": "https://m.media-amazon.com/images/I/61q6pYkaN1L._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G1VDB22X?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DQQ94KDQ",
+          "slug": "exfoliating-glove-korean-skin-care-body-wash-loofah-face-lip",
+          "title": "Exfoliating Glove Korean Skin Care Body wash loofah face Lip Body Scrub Dry Brushing Body Brush Foot Back Scrubber scrub",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/81pus3PX53L.jpg",
+          "url": "https://www.amazon.com/dp/B0DQQ94KDQ/ref=cm_sw_r_as_gl_apa_gl_i_EVTM4JQMDVDY35EMEEKE?linkCode=ml1&tag=noya0b-20&linkId=45b5cffb67350822e2e0bdd51f87936e&gaOptInStatus=true"
         },
         {
           "asin": "B0DW4CCSNY",
@@ -607,26 +627,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/71q1UK9G12L._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01AKTZFZU?tag=noya0b-20"
-        },
-        {
-          "asin": "0593956478",
-          "slug": "every-summer-after-deluxe-edition",
-          "title": "Every Summer After: Deluxe Edition",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81LZd3IpuyL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/0593956478?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FPF22Y2M",
-          "slug": "fluffy-lash-clusters-with-spikes-200d260d300d-cluster-eyelas",
-          "title": "Fluffy Lash Clusters with Spikes 200D+260D+300D Cluster Eyelash Extensions Thick Eyelash Clusters Faux Mink Individual L",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/91ge3YH7QKL._SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FPF22Y2M?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-01T07:50:02.008Z",
-      "updatedAt": "2026-09-01T07:50:02.009Z"
+      "generatedAt": "2026-09-01T08:00:04.808Z",
+      "updatedAt": "2026-09-01T08:00:04.808Z"
     },
     {
       "date": "2026-08-31",
@@ -39991,5 +39991,5 @@
       "updatedAt": "2026-07-05T03:50:04.842Z"
     }
   ],
-  "generatedAt": "2026-09-01T07:50:02.024Z"
+  "generatedAt": "2026-09-01T08:00:04.831Z"
 }
