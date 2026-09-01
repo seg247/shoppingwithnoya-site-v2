@@ -4,15 +4,16 @@
       "date": "2026-09-01",
       "slug": "2026-09-01",
       "title": "🔥 Best Deals Today — September 1, 2026",
-      "intro": "Today's best online deals for Tuesday, September 1, 2026 — 10 hand-picked discounts across Other, Beauty, Electronics and more. The best discount today is 70% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, September 1, 2026 — 10 hand-picked discounts across Other, Electronics, Home & Kitchen and more. The best discount today is 70% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Beauty",
         "Electronics",
         "Home & Kitchen",
+        "Beauty",
+        "Luxury Beauty",
+        "Fashion",
         "Cleaning Supplies",
-        "Grocery",
-        "Fashion"
+        "Grocery"
       ],
       "byCategory": {
         "Other": [
@@ -63,17 +64,32 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81oWgxqSJmL.jpg",
             "url": "https://www.amazon.com/dp/B08KX7BDVR/ref=cm_sw_r_as_gl_api_gl_i_69JPZCB28W54HSY73MBP?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=f8537036f21a13008fcce66267c0f683&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Luxury Beauty": [
           {
-            "asin": "B0FJFLCGRK",
-            "slug": "mefan-travel-bottles-for-toiletries18-pack-silicone-portable",
-            "title": "ME.FAN Travel Bottles for Toiletries,18 Pack Silicone Portable Size Bottle, TSA Approved Refillable Cosmetic Container K",
-            "price": "$4",
+            "asin": "B0DNJRTM35",
+            "slug": "veyesbeauty-manga-lash-clusters-eyelash-extensions-thin-invi",
+            "title": "VEYESBEAUTY Manga Lash Clusters Eyelash Extensions Thin & Invisible Band | DIY Individual False Eyelashes Newbie's Five-",
+            "price": "$19.54",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dx6LQLiTL.jpg",
-            "url": "https://www.amazon.com/ME-FAN-Pack-Travel-Bottles-Conditioner/dp/B0FJFLCGRK?th=1&linkCode=sl2&tag=noya0b-20&linkId=070c0193ef26d74860bab14596346ba9&language=en_US&gaOptInStatus=true"
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81F7NJ+T9gL.jpg",
+            "url": "https://www.amazon.com/dp/B0DNJRTM35?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B00JUM4CT4",
+            "slug": "hanes-mens-full-zip-eco-smart-hoodie-athletic-sweatshirts-bl",
+            "title": "Hanes mens Full-zip Eco-smart Hoodie athletic sweatshirts, Black, Large US at Amazon Men’s Clothing store",
+            "price": "$10.96",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B00JUM4CT4?tag=noya0b-20"
           }
         ],
         "Cleaning Supplies": [
@@ -125,19 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51PSNzG4XcL.jpg",
             "url": "https://www.amazon.com/dp/B0GFNYWK11?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B00JUM4YGK",
-            "slug": "hanes-mens-full-zip-eco-smart-hoodie-deep-red-large-at-amazo",
-            "title": "Hanes Men's Full-Zip Eco-Smart Hoodie, Deep Red, Large at Amazon Men’s Clothing store",
-            "price": "$9.09",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B00JUM4YGK?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -186,6 +189,28 @@
           "url": "https://www.amazon.com/dp/B08KX7BDVR/ref=cm_sw_r_as_gl_api_gl_i_69JPZCB28W54HSY73MBP?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=f8537036f21a13008fcce66267c0f683&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0DNJRTM35",
+          "slug": "veyesbeauty-manga-lash-clusters-eyelash-extensions-thin-invi",
+          "title": "VEYESBEAUTY Manga Lash Clusters Eyelash Extensions Thin & Invisible Band | DIY Individual False Eyelashes Newbie's Five-",
+          "price": "$19.54",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81F7NJ+T9gL.jpg",
+          "url": "https://www.amazon.com/dp/B0DNJRTM35?tag=noya0b-20"
+        },
+        {
+          "asin": "B00JUM4CT4",
+          "slug": "hanes-mens-full-zip-eco-smart-hoodie-athletic-sweatshirts-bl",
+          "title": "Hanes mens Full-zip Eco-smart Hoodie athletic sweatshirts, Black, Large US at Amazon Men’s Clothing store",
+          "price": "$10.96",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B00JUM4CT4?tag=noya0b-20"
+        },
+        {
           "asin": "B083FVSKMF",
           "slug": "little-trees-car-air-freshener-vent-wrap-provides-long-lasti",
           "title": "LITTLE TREES Car Air Freshener | Vent Wrap Provides Long Lasting Scent, Invisibly Fresh | Caribbean Colada, 16 Air Fresh",
@@ -228,34 +253,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51PSNzG4XcL.jpg",
           "url": "https://www.amazon.com/dp/B0GFNYWK11?tag=noya0b-20"
-        },
-        {
-          "asin": "B00JUM4YGK",
-          "slug": "hanes-mens-full-zip-eco-smart-hoodie-deep-red-large-at-amazo",
-          "title": "Hanes Men's Full-Zip Eco-Smart Hoodie, Deep Red, Large at Amazon Men’s Clothing store",
-          "price": "$9.09",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71N4WsBj0rL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B00JUM4YGK?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FJFLCGRK",
-          "slug": "mefan-travel-bottles-for-toiletries18-pack-silicone-portable",
-          "title": "ME.FAN Travel Bottles for Toiletries,18 Pack Silicone Portable Size Bottle, TSA Approved Refillable Cosmetic Container K",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71dx6LQLiTL.jpg",
-          "url": "https://www.amazon.com/ME-FAN-Pack-Travel-Bottles-Conditioner/dp/B0FJFLCGRK?th=1&linkCode=sl2&tag=noya0b-20&linkId=070c0193ef26d74860bab14596346ba9&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 1, 2026?",
-          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Electronics and are updated daily."
+          "a": "The best deals today include \"\ude31\ude31 omg \ude31\ude31\udfc3‍♀️\udca8‼️𝐑𝐔𝐍𝐍 \ude31\ude31...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-01T14:30:02.327Z",
-      "updatedAt": "2026-09-01T14:30:02.327Z"
+      "generatedAt": "2026-09-01T14:40:02.850Z",
+      "updatedAt": "2026-09-01T14:40:02.850Z"
     },
     {
       "date": "2026-08-31",
@@ -16339,5 +16342,5 @@
       "updatedAt": "2026-07-05T03:50:02.127Z"
     }
   ],
-  "generatedAt": "2026-09-01T14:30:02.334Z"
+  "generatedAt": "2026-09-01T14:40:02.875Z"
 }
