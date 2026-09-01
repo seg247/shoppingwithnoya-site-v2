@@ -10,7 +10,8 @@
         "Sports & Fitness",
         "Fashion",
         "Automotive",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Beauty"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -70,17 +71,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51dkfL+ahoL._AC_SL1001_.jpg",
             "url": "https://www.amazon.com/dp/B08Z4HDNBM?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DDPF2BGK",
-            "slug": "reacher-extra-loud-alarm-clock-for-heavy-sleepers-adults-kid",
-            "title": "REACHER Extra Loud Alarm Clock for Heavy Sleepers Adults, Kids and Teens | 5 Extremely Loud Wake-Up Sounds, LED Digital ",
-            "price": "$11",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/618htWPWMPL.jpg",
-            "url": "https://amazon.com/dp/B0DDPF2BGK?tag=noya0b-20"
           }
         ],
         "Automotive": [
@@ -131,6 +121,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/613qatISJjL.jpg",
             "url": "https://www.amazon.com/dp/B0FD39P134?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c4e7972075c88a4c54e87d8433329d7&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B07DYC6T8G",
+            "slug": "tarte-maracuja-creaseless-full-coverage-concealer-waterproof",
+            "title": "tarte maracuja creaseless full-coverage concealer – Waterproof Longwear with Vitamin C to Hydrate look of Dark Circles, ",
+            "price": "$16",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Xl9gfbftL.jpg",
+            "url": "https://amazon.com/dp/B07DYC6T8G?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -235,15 +238,15 @@
           "url": "https://www.amazon.com/dp/B08Z4HDNBM?tag=noya0b-20"
         },
         {
-          "asin": "B0DDPF2BGK",
-          "slug": "reacher-extra-loud-alarm-clock-for-heavy-sleepers-adults-kid",
-          "title": "REACHER Extra Loud Alarm Clock for Heavy Sleepers Adults, Kids and Teens | 5 Extremely Loud Wake-Up Sounds, LED Digital ",
-          "price": "$11",
+          "asin": "B07DYC6T8G",
+          "slug": "tarte-maracuja-creaseless-full-coverage-concealer-waterproof",
+          "title": "tarte maracuja creaseless full-coverage concealer – Waterproof Longwear with Vitamin C to Hydrate look of Dark Circles, ",
+          "price": "$16",
           "discount": 50,
           "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/618htWPWMPL.jpg",
-          "url": "https://amazon.com/dp/B0DDPF2BGK?tag=noya0b-20"
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Xl9gfbftL.jpg",
+          "url": "https://amazon.com/dp/B07DYC6T8G?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-01T00:00:02.859Z",
-      "updatedAt": "2026-09-01T00:00:02.859Z"
+      "generatedAt": "2026-09-01T00:10:02.201Z",
+      "updatedAt": "2026-09-01T00:10:02.202Z"
     },
     {
       "date": "2026-08-30",
@@ -16327,5 +16330,5 @@
       "updatedAt": "2026-07-04T03:50:01.364Z"
     }
   ],
-  "generatedAt": "2026-09-01T00:00:02.871Z"
+  "generatedAt": "2026-09-01T00:10:02.211Z"
 }
