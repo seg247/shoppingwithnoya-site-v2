@@ -9,8 +9,8 @@
         "Other",
         "Sports & Fitness",
         "Fashion",
-        "Home & Kitchen",
-        "Beauty"
+        "Automotive",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -72,15 +72,28 @@
             "url": "https://www.amazon.com/dp/B08Z4HDNBM?tag=noya0b-20"
           },
           {
-            "asin": "B0FB7PR5PS",
-            "slug": "stanley-iceflow-20-flip-straw-tumbler-30-oz-pistachio",
-            "title": "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Pistachio",
-            "price": "$17.50",
+            "asin": "B0DDPF2BGK",
+            "slug": "reacher-extra-loud-alarm-clock-for-heavy-sleepers-adults-kid",
+            "title": "REACHER Extra Loud Alarm Clock for Heavy Sleepers Adults, Kids and Teens | 5 Extremely Loud Wake-Up Sounds, LED Digital ",
+            "price": "$11",
             "discount": 50,
             "rating": "FIRE",
             "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41YVWyH9BUL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FB7PR5PS/ref=cm_sw_r_as_gl_api_gl_i_dl_QWS025SRKPNCG490NTVF?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=ed688892ccd33f428da424d851154df2&language=en_US&gaOptInStatus=true"
+            "imageUrl": "https://m.media-amazon.com/images/I/618htWPWMPL.jpg",
+            "url": "https://amazon.com/dp/B0DDPF2BGK?tag=noya0b-20"
+          }
+        ],
+        "Automotive": [
+          {
+            "asin": "B0F62NSFXH",
+            "slug": "s-zevzo-et05-jump-starter-5000a-portable-car-jump-starter-ba",
+            "title": "S ZEVZO ET05 Jump Starter 5000A Portable Car Jump Starter Battery Pack (7.2L Gas/ 5.5L Diesel), 51.8Wh 12V Jump Box with",
+            "price": "$49.99",
+            "discount": 70,
+            "rating": "FIRE",
+            "category": "Automotive",
+            "imageUrl": "https://m.media-amazon.com/images/I/71hJgp07X1L.jpg",
+            "url": "https://www.amazon.com/dp/B0F62NSFXH/ref=cm_sw_r_as_gl_api_gl_i_GRR41G76CR3ZM1EBH6TM?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=32bfac065cf011904c5ac7c9cfc94e52&language=en_US&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -118,19 +131,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/613qatISJjL.jpg",
             "url": "https://www.amazon.com/dp/B0FD39P134?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c4e7972075c88a4c54e87d8433329d7&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0D1ZBPB9T",
-            "slug": "method-body-wash-gift-set-pure-peace-simply-nourish-sea-surf",
-            "title": "method Body Wash Gift Set, Pure Peace, Simply Nourish, Sea + Surf, 3.4 oz | Travel Size Bottles, Gift Set, Soothing Form",
-            "price": "$7",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/41z7k5tpggL.jpg",
-            "url": "https://amazon.com/dp/B0D1ZBPB9T?tag=noya0b-20"
           }
         ]
       },
@@ -180,6 +180,17 @@
           "url": "https://www.amazon.com/Walking-Pad-Treadmill-Home-Lightweight/dp/B0HGWXGP3F?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=a19a4075f46f111a4a65e2e1d47eca5b&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0F62NSFXH",
+          "slug": "s-zevzo-et05-jump-starter-5000a-portable-car-jump-starter-ba",
+          "title": "S ZEVZO ET05 Jump Starter 5000A Portable Car Jump Starter Battery Pack (7.2L Gas/ 5.5L Diesel), 51.8Wh 12V Jump Box with",
+          "price": "$49.99",
+          "discount": 70,
+          "rating": "FIRE",
+          "category": "Automotive",
+          "imageUrl": "https://m.media-amazon.com/images/I/71hJgp07X1L.jpg",
+          "url": "https://www.amazon.com/dp/B0F62NSFXH/ref=cm_sw_r_as_gl_api_gl_i_GRR41G76CR3ZM1EBH6TM?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=32bfac065cf011904c5ac7c9cfc94e52&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0FHTQCQFH",
           "slug": "wiholl-womens-2-piece-lounge-sets-fall-outfits-fashion-cloth",
           "title": "WIHOLL Womens 2 Piece Lounge Sets Fall Outfits Fashion Clothing Clothes | Business Dressy Casual 2026 Winter Essentials ",
@@ -224,26 +235,15 @@
           "url": "https://www.amazon.com/dp/B08Z4HDNBM?tag=noya0b-20"
         },
         {
-          "asin": "B0D1ZBPB9T",
-          "slug": "method-body-wash-gift-set-pure-peace-simply-nourish-sea-surf",
-          "title": "method Body Wash Gift Set, Pure Peace, Simply Nourish, Sea + Surf, 3.4 oz | Travel Size Bottles, Gift Set, Soothing Form",
-          "price": "$7",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/41z7k5tpggL.jpg",
-          "url": "https://amazon.com/dp/B0D1ZBPB9T?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FB7PR5PS",
-          "slug": "stanley-iceflow-20-flip-straw-tumbler-30-oz-pistachio",
-          "title": "STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Pistachio",
-          "price": "$17.50",
+          "asin": "B0DDPF2BGK",
+          "slug": "reacher-extra-loud-alarm-clock-for-heavy-sleepers-adults-kid",
+          "title": "REACHER Extra Loud Alarm Clock for Heavy Sleepers Adults, Kids and Teens | 5 Extremely Loud Wake-Up Sounds, LED Digital ",
+          "price": "$11",
           "discount": 50,
           "rating": "FIRE",
           "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41YVWyH9BUL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FB7PR5PS/ref=cm_sw_r_as_gl_api_gl_i_dl_QWS025SRKPNCG490NTVF?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=ed688892ccd33f428da424d851154df2&language=en_US&gaOptInStatus=true"
+          "imageUrl": "https://m.media-amazon.com/images/I/618htWPWMPL.jpg",
+          "url": "https://amazon.com/dp/B0DDPF2BGK?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-08-31T23:50:02.106Z",
-      "updatedAt": "2026-08-31T23:50:02.106Z"
+      "generatedAt": "2026-09-01T00:00:02.859Z",
+      "updatedAt": "2026-09-01T00:00:02.859Z"
     },
     {
       "date": "2026-08-30",
@@ -16327,5 +16327,5 @@
       "updatedAt": "2026-07-04T03:50:01.364Z"
     }
   ],
-  "generatedAt": "2026-08-31T23:50:02.114Z"
+  "generatedAt": "2026-09-01T00:00:02.871Z"
 }
