@@ -32,7 +32,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
           },
           {
@@ -124,7 +124,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B00G40FJH4?tag=noya0b-20"
           },
           {
@@ -160,6 +160,16 @@
             "url": "https://amazon.com/dp/B0D1ZBPB9T?tag=noya0b-20"
           },
           {
+            "asin": "B0FSZHDPX8",
+            "slug": "naitesen-3pcs-serrated-bread-knife-and-butter-knife-set-razo",
+            "title": "Naitesen 3PCS Serrated Bread Knife and Butter Knife Set | Razor Sharp, Homemade Bread Cutting with Butter Cheese Peanut ",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71aSQd5yBwL.jpg",
+            "url": "https://www.amazon.com/dp/B0FSZHDPX8?th=1&tag=noya0b-20"
+          },
+          {
             "asin": "B00YGJXSX2",
             "slug": "old-spice-antiperspirant-deodorant-for-men-247-sweat-odor-pr",
             "title": "Old Spice Antiperspirant Deodorant for Men, 24/7 Sweat & Odor Protection, 24/7 Lasting Freshness, Invisible Solid, Swagg",
@@ -168,16 +178,6 @@
             "subcat": "Body Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71LsGTr+2xL.jpg",
             "url": "https://www.amazon.com/dp/B00YGJXSX2?th=1&linkCode=sl2&tag=noya0b-20&linkId=fbc2a062e134b82a47d06b7df9f8099e&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B001JQLNGY",
-            "slug": "gillette-sensor3-comfort-disposable-razors-for-men-8-count-l",
-            "title": "Gillette Sensor3 Comfort Disposable Razors for Men, 8 Count, Lubrastrip Glides Easily Over Your Skin : Health & Househol",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/713DBjZEyvL.jpg",
-            "url": "https://www.amazon.com/dp/B001JQLNGY?tag=noya0b-20"
           }
         ],
         "Skincare": [
@@ -260,7 +260,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL.jpg",
             "url": "https://amazon.com/dp/B0D35XYVZR?th=1&tag=noya0b-20"
           },
           {
@@ -304,14 +304,14 @@
             "url": "https://www.amazon.com/dp/B094FLX3ZM?tag=noya0b-20"
           },
           {
-            "asin": "B0DSPZT5S7",
-            "slug": "prastiny-ionic-hair-dryer-with-diffuser-fast-drying-low-nois",
-            "title": "Prastiny Ionic Hair Dryer with Diffuser, Fast Drying Low-Noise Blow | Travel Hair Dryer Diffuser, LCD Display & Auto-Cle",
+            "asin": "B0B391WHXV",
+            "slug": "portable-air-conditioner-fan-4-in-1-portable-ac-humidifier-a",
+            "title": "Portable Air Conditioner Fan, 4-In-1 Portable AC & Humidifier, AC Unit with 3-Speed 360° Rotation Mini Air Conditioner P",
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61wnJ5QS7jL.jpg",
-            "url": "https://www.amazon.com/dp/B0DSPZT5S7?tag=noya0b-20"
+            "imageUrl": "https://m.media-amazon.com/images/I/61eSEz5H2nL.jpg",
+            "url": "https://www.amazon.com/dp/B0B391WHXV?tag=noya0b-20"
           }
         ],
         "Fragrance": [
@@ -375,7 +375,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL.jpg",
           "url": "https://amazon.com/dp/B0D35XYVZR?th=1&tag=noya0b-20"
         },
         {
@@ -385,7 +385,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B00G40FJH4?tag=noya0b-20"
         },
         {
@@ -405,7 +405,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
         },
         {
@@ -477,6 +477,26 @@
           "subcat": "Hair Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71rxmlz5LGL.jpg",
           "url": "https://www.amazon.com/dp/B094FLX3ZM?tag=noya0b-20"
+        },
+        {
+          "asin": "B0B391WHXV",
+          "slug": "portable-air-conditioner-fan-4-in-1-portable-ac-humidifier-a",
+          "title": "Portable Air Conditioner Fan, 4-In-1 Portable AC & Humidifier, AC Unit with 3-Speed 360° Rotation Mini Air Conditioner P",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Hair Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61eSEz5H2nL.jpg",
+          "url": "https://www.amazon.com/dp/B0B391WHXV?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FSZHDPX8",
+          "slug": "naitesen-3pcs-serrated-bread-knife-and-butter-knife-set-razo",
+          "title": "Naitesen 3PCS Serrated Bread Knife and Butter Knife Set | Razor Sharp, Homemade Bread Cutting with Butter Cheese Peanut ",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Body Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71aSQd5yBwL.jpg",
+          "url": "https://www.amazon.com/dp/B0FSZHDPX8?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FLJQ8WV6",
@@ -607,26 +627,6 @@
           "subcat": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61cxAMIqmBL.jpg",
           "url": "https://www.amazon.com/dp/B0CG51ZLX5/ref=cm_sw_r_as_gl_api_gl_i_7DTTTDDZRPNG35K4RWJM?linkCode=ml1&tag=noya0b-20&linkId=7e2fade602b3fe7b3903bc0b1a78dde8&gaOptInStatus=true"
-        },
-        {
-          "asin": "B001JQLNGY",
-          "slug": "gillette-sensor3-comfort-disposable-razors-for-men-8-count-l",
-          "title": "Gillette Sensor3 Comfort Disposable Razors for Men, 8 Count, Lubrastrip Glides Easily Over Your Skin : Health & Househol",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/713DBjZEyvL.jpg",
-          "url": "https://www.amazon.com/dp/B001JQLNGY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DSPZT5S7",
-          "slug": "prastiny-ionic-hair-dryer-with-diffuser-fast-drying-low-nois",
-          "title": "Prastiny Ionic Hair Dryer with Diffuser, Fast Drying Low-Noise Blow | Travel Hair Dryer Diffuser, LCD Display & Auto-Cle",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61wnJ5QS7jL.jpg",
-          "url": "https://www.amazon.com/dp/B0DSPZT5S7?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-01T19:20:03.828Z",
-      "updatedAt": "2026-09-01T19:20:03.828Z"
+      "generatedAt": "2026-09-01T19:30:05.500Z",
+      "updatedAt": "2026-09-01T19:30:05.500Z"
     },
     {
       "date": "2026-08-31",
@@ -39991,5 +39991,5 @@
       "updatedAt": "2026-07-05T03:50:04.842Z"
     }
   ],
-  "generatedAt": "2026-09-01T19:20:03.840Z"
+  "generatedAt": "2026-09-01T19:30:05.512Z"
 }
