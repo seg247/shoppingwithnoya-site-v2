@@ -4,17 +4,58 @@
       "date": "2026-09-01",
       "slug": "2026-09-01",
       "title": "🔥 Best Deals Today — September 1, 2026",
-      "intro": "Today's best online deals for Tuesday, September 1, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, September 1, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Grocery",
+        "Fashion",
+        "Smart Home",
         "Electronics",
         "Garden & Outdoor",
         "Sports",
         "Baby Care",
-        "Baby Products",
-        "Fashion"
+        "Baby Products"
       ],
       "byCategory": {
+        "Grocery": [
+          {
+            "asin": "B0B7Z9YPSH",
+            "slug": "jimmy-dean-applewood-smoked-bacon-12-oz-prop-12-compliant",
+            "title": "Jimmy Dean, Applewood Smoked Bacon, 12 oz (Prop 12 Compliant)",
+            "price": "$4.88",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/61LdRbihkgL._SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B0B7Z9YPSH?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0H6QL1TMP",
+            "slug": "bloomer-pants-women-cotton-linen-barrel-cropped-pants-womens",
+            "title": "Bloomer Pants Women Cotton Linen Barrel Cropped Pants Womens Relaxed Fit High Waist Wide Leg Trousers Palazzo Drawstring",
+            "price": "$12.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61bBg+TxIGL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0H6QL1TMP?tag=noya0b-20"
+          }
+        ],
+        "Smart Home": [
+          {
+            "asin": "B086KYKR6Q",
+            "slug": "hanes-mens-underwear-boxer-briefs-pack-cool-breathable-cotto",
+            "title": "Hanes mens Underwear Boxer Briefs Pack, Cool & Breathable Cotton Moisture-wicking Underwear for Men, No Ride Up",
+            "price": "$20.48",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Smart Home",
+            "imageUrl": "https://m.media-amazon.com/images/I/81ZBOce1WwL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B086KYKR6Q?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CMDHXZF8",
@@ -26,17 +67,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/815h+HlZe7L.jpg",
             "url": "https://www.amazon.com/dp/B0CMDHXZF8?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BP9SNVH9",
-            "slug": "amazon-fire-tv-stick-4k-max-newest-model-streaming-device-wi",
-            "title": "Amazon Fire TV Stick 4K Max (newest model), streaming device, with AI-powered Fire TV Search, supports Wi-Fi 6E, free &",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/616r+TN+VRL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BP9SNVH9?tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
@@ -113,34 +143,43 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/41sFJURzSNL.jpg",
             "url": "https://www.amazon.com/dp/B07WWH3QXV?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GX2HB62N",
-            "slug": "house-hushing-the-simple-method-to-declutter-and-decorate-fo",
-            "title": "House Hushing: The Simple Method to Declutter and Decorate for a More Peaceful Home (Cozy Minimalist Design Inspiration",
-            "price": "$22.78",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Sj3nFQt6L.jpg",
-            "url": "https://www.amazon.com/dp/B0GX2HB62N?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0899TYS99",
-            "slug": "large-crossbody-bags-hobo-purse-and-wallet-set-for-women-sho",
-            "title": "Large Crossbody Bags Hobo Purse and Wallet Set for Women Shoulder Handbags",
-            "price": "$40.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/717Yoc6p-vL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0899TYS99?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0B7Z9YPSH",
+          "slug": "jimmy-dean-applewood-smoked-bacon-12-oz-prop-12-compliant",
+          "title": "Jimmy Dean, Applewood Smoked Bacon, 12 oz (Prop 12 Compliant)",
+          "price": "$4.88",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/61LdRbihkgL._SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B0B7Z9YPSH?tag=noya0b-20"
+        },
+        {
+          "asin": "B0H6QL1TMP",
+          "slug": "bloomer-pants-women-cotton-linen-barrel-cropped-pants-womens",
+          "title": "Bloomer Pants Women Cotton Linen Barrel Cropped Pants Womens Relaxed Fit High Waist Wide Leg Trousers Palazzo Drawstring",
+          "price": "$12.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61bBg+TxIGL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0H6QL1TMP?tag=noya0b-20"
+        },
+        {
+          "asin": "B086KYKR6Q",
+          "slug": "hanes-mens-underwear-boxer-briefs-pack-cool-breathable-cotto",
+          "title": "Hanes mens Underwear Boxer Briefs Pack, Cool & Breathable Cotton Moisture-wicking Underwear for Men, No Ride Up",
+          "price": "$20.48",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Smart Home",
+          "imageUrl": "https://m.media-amazon.com/images/I/81ZBOce1WwL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B086KYKR6Q?tag=noya0b-20"
+        },
         {
           "asin": "B0CMDHXZF8",
           "slug": "insignia-fire-tv-58-class-f30-series-4k-smart-tv",
@@ -217,45 +256,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/41sFJURzSNL.jpg",
           "url": "https://www.amazon.com/dp/B07WWH3QXV?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BP9SNVH9",
-          "slug": "amazon-fire-tv-stick-4k-max-newest-model-streaming-device-wi",
-          "title": "Amazon Fire TV Stick 4K Max (newest model), streaming device, with AI-powered Fire TV Search, supports Wi-Fi 6E, free &",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/616r+TN+VRL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0BP9SNVH9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GX2HB62N",
-          "slug": "house-hushing-the-simple-method-to-declutter-and-decorate-fo",
-          "title": "House Hushing: The Simple Method to Declutter and Decorate for a More Peaceful Home (Cozy Minimalist Design Inspiration",
-          "price": "$22.78",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Sj3nFQt6L.jpg",
-          "url": "https://www.amazon.com/dp/B0GX2HB62N?tag=noya0b-20"
-        },
-        {
-          "asin": "B0899TYS99",
-          "slug": "large-crossbody-bags-hobo-purse-and-wallet-set-for-women-sho",
-          "title": "Large Crossbody Bags Hobo Purse and Wallet Set for Women Shoulder Handbags",
-          "price": "$40.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/717Yoc6p-vL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0899TYS99?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 1, 2026?",
-          "a": "The best deals today include \"Insignia Fire TV 58\" Class F30 Series 4K smart TV...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Jimmy Dean, Applewood Smoked Bacon, 12 oz (Prop 12 Compliant...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +280,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-01T05:40:00.326Z",
-      "updatedAt": "2026-09-01T05:40:00.326Z"
+      "generatedAt": "2026-09-01T05:50:00.587Z",
+      "updatedAt": "2026-09-01T05:50:00.587Z"
     },
     {
       "date": "2026-08-31",
@@ -16339,5 +16345,5 @@
       "updatedAt": "2026-07-05T03:50:02.127Z"
     }
   ],
-  "generatedAt": "2026-09-01T05:40:00.332Z"
+  "generatedAt": "2026-09-01T05:50:00.594Z"
 }
