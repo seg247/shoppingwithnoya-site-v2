@@ -32,7 +32,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Makeup",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL._SL1500_.jpg",
             "url": "https://amazon.com/dp/B00G40FJH4?tag=noya0b-20"
           },
           {
@@ -158,16 +158,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/61ZjrzY0pML.jpg",
             "url": "https://amazon.com/dp/B0CGX5SNY9?th=1&tag=noya0b-20"
-          },
-          {
-            "asin": "B084GM32Q9",
-            "slug": "hampton-sun-age-defying-spf-50-mineral-for-face-17-fl-oz-bea",
-            "title": "Hampton Sun Age Defying SPF 50 Mineral for Face, 1.7 Fl Oz : Beauty & Personal Care",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL._SL1500_.jpg",
-            "url": "https://amazon.com/dp/B084GM32Q9?tag=noya0b-20"
           }
         ],
         "Hair Care": [
@@ -178,7 +168,7 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Hair Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL._SL1000_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0D35XYVZR?th=1&tag=noya0b-20"
           },
           {
@@ -270,8 +260,18 @@
             "discount": 30,
             "rating": "HOT",
             "subcat": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL._SL1500_.jpg",
+            "imageUrl": null,
             "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0FPF22Y2M",
+            "slug": "fluffy-lash-clusters-with-spikes-200d260d300d-cluster-eyelas",
+            "title": "Fluffy Lash Clusters with Spikes 200D+260D+300D Cluster Eyelash Extensions Thick Eyelash Clusters Faux Mink Individual L",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/91ge3YH7QKL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FPF22Y2M?tag=noya0b-20"
           },
           {
             "asin": "B0FLZQZ9R7",
@@ -365,7 +365,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Hair Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/41q9kquzicL._SL1000_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0D35XYVZR?th=1&tag=noya0b-20"
         },
         {
@@ -375,7 +375,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Makeup",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61If2-qWJgL._SL1500_.jpg",
           "url": "https://amazon.com/dp/B00G40FJH4?tag=noya0b-20"
         },
         {
@@ -395,7 +395,7 @@
           "discount": 30,
           "rating": "HOT",
           "subcat": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ss9poV4EL._SL1500_.jpg",
+          "imageUrl": null,
           "url": "https://amazon.com/dp/B0CCK2FP88?th=1&tag=noya0b-20"
         },
         {
@@ -477,6 +477,16 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61SVyaWAagL.jpg",
           "url": "https://www.amazon.com/dp/B07QVKBBRZ?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FPF22Y2M",
+          "slug": "fluffy-lash-clusters-with-spikes-200d260d300d-cluster-eyelas",
+          "title": "Fluffy Lash Clusters with Spikes 200D+260D+300D Cluster Eyelash Extensions Thick Eyelash Clusters Faux Mink Individual L",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/91ge3YH7QKL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FPF22Y2M?tag=noya0b-20"
         },
         {
           "asin": "B09HSGD74T",
@@ -617,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/61ZjrzY0pML.jpg",
           "url": "https://amazon.com/dp/B0CGX5SNY9?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B084GM32Q9",
-          "slug": "hampton-sun-age-defying-spf-50-mineral-for-face-17-fl-oz-bea",
-          "title": "Hampton Sun Age Defying SPF 50 Mineral for Face, 1.7 Fl Oz : Beauty & Personal Care",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61duzu59mDL._SL1500_.jpg",
-          "url": "https://amazon.com/dp/B084GM32Q9?tag=noya0b-20"
         }
       ],
       "featuredDeal": {
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-01T04:00:03.572Z",
-      "updatedAt": "2026-09-01T04:00:03.573Z"
+      "generatedAt": "2026-09-01T04:10:04.121Z",
+      "updatedAt": "2026-09-01T04:10:04.121Z"
     },
     {
       "date": "2026-08-31",
@@ -39991,5 +39991,5 @@
       "updatedAt": "2026-07-05T03:50:04.842Z"
     }
   ],
-  "generatedAt": "2026-09-01T04:00:03.591Z"
+  "generatedAt": "2026-09-01T04:10:04.136Z"
 }
