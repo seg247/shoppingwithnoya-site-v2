@@ -4,16 +4,15 @@
       "date": "2026-09-02",
       "slug": "2026-09-02",
       "title": "🔥 Best Deals Today — September 2, 2026",
-      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Garden & Outdoor, Electronics, Pet Supplies and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Electronics, Garden & Outdoor, Grocery and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Garden & Outdoor",
         "Electronics",
+        "Garden & Outdoor",
+        "Grocery",
+        "Health",
+        "Smart Home",
         "Pet Supplies",
-        "Fashion",
-        "Other",
-        "Cleaning Supplies",
-        "Grocery & Food",
-        "Sports"
+        "Fashion"
       ],
       "byCategory": {
         "Garden & Outdoor": [
@@ -40,7 +39,57 @@
             "url": "https://www.amazon.com/dp/B0GJ2YQH2F/ref=cm_sw_r_as_gl_api_gl_i_dl_5MMYZRK3ZB4VZAW36NXT?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=8493b5e5e70715aa40e065a49cf1f62a&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Grocery": [
+          {
+            "asin": "B01M97YEVN",
+            "slug": "coffee-peanut-snacks-300g-3-pack",
+            "title": "Coffee Peanut Snacks 300g (3 Pack)",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL._SL1000_.jpg",
+            "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0C2WJHQLT",
+            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
+          }
+        ],
+        "Smart Home": [
+          {
+            "asin": "B07RCNB2L3",
+            "slug": "deal-kasa-smart-plug-hs103p4-smart-wi-fi-outlet-touch-actuat",
+            "title": "Deal: Kasa Smart Plug HS103P4, Smart Wi-Fi Outlet, Touch Actuator, Works with Alexa, Echo, Google Home, No Hub Required,",
+            "price": "$25.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Smart Home",
+            "imageUrl": "https://m.media-amazon.com/images/I/51zoLDBO0wL.jpg",
+            "url": "https://www.amazon.com/dp/B07RCNB2L3?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
+          {
+            "asin": "B08TX1N211",
+            "slug": "wireless-earbuds-active-noise-cancelling",
+            "title": "Wireless Earbuds Active Noise Cancelling",
+            "price": "$25.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
+          },
           {
             "asin": "B09BF64J55",
             "slug": "kvidio-bluetooth-headphones-wireless-over-ear-headsets-65h-p",
@@ -89,58 +138,6 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07D45W364/ref=cm_sw_r_as_gl_api_gl_i_V8BT006NAEYBT0SFFPBP?linkCode=ml1&tag=noya0b-20&linkId=8d406fbf1c2511b4637314ba22f589ba&gaOptInStatus=true"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0CZCP7D5V",
-            "slug": "koogel-60-sheets-colored-craft-paper-827-x-117-a4-size",
-            "title": "Koogel 60 Sheets Colored Craft Paper, 8.27\" x 11.7\" (A4 Size)",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ZFBjHFDoL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZCP7D5V/ref=cm_sw_r_as_gl_api_gl_i_EYBB0NQQ6WFHWREPY7GK?linkCode=ml1&tag=noya0b-20&linkId=6070ad4f7b5cdaa7fb2c7af0b8de66fd&gaOptInStatus=true"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B00WSWGVZQ",
-            "slug": "o-cedar-easywring-microfiber-spin-mop-bucket-floor-cleaning",
-            "title": "O-Cedar EasyWring Microfiber Spin Mop, Bucket Floor Cleaning System, Red, Gray, Standard : Health & Household",
-            "price": "$34",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/7110homOloL.jpg",
-            "url": "https://www.amazon.com/dp/B00WSWGVZQ/ref=cm_sw_r_as_gl_api_gl_i_N34RX6MA4CW4SK5QGVQV?linkCode=ml1&tag=noya0b-20&linkId=ee361ec59ebea2f52a09a8db60233f2d&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0BWSKYV63",
-            "slug": "welchs-fruit-snacks-mixed-fruit-box-kids-snacks-08-oz-40-pac",
-            "title": "Welch's Fruit Snacks - Mixed Fruit Box - Kids Snacks - 0.8 Oz - 40 Pack | Bulk Box, Made with Whole Fruit, Gluten-Free S",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71XqV34K+jL.jpg",
-            "url": "https://www.amazon.com/dp/B0BWSKYV63/ref=cm_sw_r_as_gl_api_gl_i_7C2T8H6RMDBMWPXE50AJ?linkCode=ml1&tag=noya0b-20&linkId=dd113ab93c5ee5bfca6447e057d743d2&gaOptInStatus=true"
-          }
-        ],
-        "Sports": [
-          {
-            "asin": "B0DB7LP889",
-            "slug": "resistance-bands-professional-exercise-bands-physical-therap",
-            "title": "Resistance Bands, Professional Exercise Bands, Physical Therapy Bands for Strength Training, Yoga, Pilates, Stretching,",
-            "price": "$6.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/71aXzocSNKL.jpg",
-            "url": "https://www.amazon.com/dp/B0DB7LP889?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -165,6 +162,50 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/817ucPatCHL.jpg",
           "url": "https://www.amazon.com/dp/B0GJ2YQH2F/ref=cm_sw_r_as_gl_api_gl_i_dl_5MMYZRK3ZB4VZAW36NXT?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=8493b5e5e70715aa40e065a49cf1f62a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01M97YEVN",
+          "slug": "coffee-peanut-snacks-300g-3-pack",
+          "title": "Coffee Peanut Snacks 300g (3 Pack)",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL._SL1000_.jpg",
+          "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C2WJHQLT",
+          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
+        },
+        {
+          "asin": "B07RCNB2L3",
+          "slug": "deal-kasa-smart-plug-hs103p4-smart-wi-fi-outlet-touch-actuat",
+          "title": "Deal: Kasa Smart Plug HS103P4, Smart Wi-Fi Outlet, Touch Actuator, Works with Alexa, Echo, Google Home, No Hub Required,",
+          "price": "$25.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Smart Home",
+          "imageUrl": "https://m.media-amazon.com/images/I/51zoLDBO0wL.jpg",
+          "url": "https://www.amazon.com/dp/B07RCNB2L3?tag=noya0b-20"
+        },
+        {
+          "asin": "B08TX1N211",
+          "slug": "wireless-earbuds-active-noise-cancelling",
+          "title": "Wireless Earbuds Active Noise Cancelling",
+          "price": "$25.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
         },
         {
           "asin": "B09BF64J55",
@@ -209,56 +250,12 @@
           "category": "Fashion",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B07D45W364/ref=cm_sw_r_as_gl_api_gl_i_V8BT006NAEYBT0SFFPBP?linkCode=ml1&tag=noya0b-20&linkId=8d406fbf1c2511b4637314ba22f589ba&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CZCP7D5V",
-          "slug": "koogel-60-sheets-colored-craft-paper-827-x-117-a4-size",
-          "title": "Koogel 60 Sheets Colored Craft Paper, 8.27\" x 11.7\" (A4 Size)",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ZFBjHFDoL.jpg",
-          "url": "https://www.amazon.com/dp/B0CZCP7D5V/ref=cm_sw_r_as_gl_api_gl_i_EYBB0NQQ6WFHWREPY7GK?linkCode=ml1&tag=noya0b-20&linkId=6070ad4f7b5cdaa7fb2c7af0b8de66fd&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00WSWGVZQ",
-          "slug": "o-cedar-easywring-microfiber-spin-mop-bucket-floor-cleaning",
-          "title": "O-Cedar EasyWring Microfiber Spin Mop, Bucket Floor Cleaning System, Red, Gray, Standard : Health & Household",
-          "price": "$34",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/7110homOloL.jpg",
-          "url": "https://www.amazon.com/dp/B00WSWGVZQ/ref=cm_sw_r_as_gl_api_gl_i_N34RX6MA4CW4SK5QGVQV?linkCode=ml1&tag=noya0b-20&linkId=ee361ec59ebea2f52a09a8db60233f2d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0BWSKYV63",
-          "slug": "welchs-fruit-snacks-mixed-fruit-box-kids-snacks-08-oz-40-pac",
-          "title": "Welch's Fruit Snacks - Mixed Fruit Box - Kids Snacks - 0.8 Oz - 40 Pack | Bulk Box, Made with Whole Fruit, Gluten-Free S",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71XqV34K+jL.jpg",
-          "url": "https://www.amazon.com/dp/B0BWSKYV63/ref=cm_sw_r_as_gl_api_gl_i_7C2T8H6RMDBMWPXE50AJ?linkCode=ml1&tag=noya0b-20&linkId=dd113ab93c5ee5bfca6447e057d743d2&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DB7LP889",
-          "slug": "resistance-bands-professional-exercise-bands-physical-therap",
-          "title": "Resistance Bands, Professional Exercise Bands, Physical Therapy Bands for Strength Training, Yoga, Pilates, Stretching,",
-          "price": "$6.59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/71aXzocSNKL.jpg",
-          "url": "https://www.amazon.com/dp/B0DB7LP889?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 2, 2026?",
-          "a": "The best deals today include \"TuyLuxe Solar Flood Lights, 3600LM 270° Motion Sensor Outdoo...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Electronics, Pet Supplies and are updated daily."
+          "a": "The best deals today include \"TuyLuxe Solar Flood Lights, 3600LM 270° Motion Sensor Outdoo...\" and 9 other hand-picked discounts. Deals span Electronics, Garden & Outdoor, Grocery and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-02T11:40:02.058Z",
-      "updatedAt": "2026-09-02T11:40:02.059Z"
+      "generatedAt": "2026-09-02T11:50:01.961Z",
+      "updatedAt": "2026-09-02T11:50:01.961Z"
     },
     {
       "date": "2026-09-01",
@@ -16333,5 +16330,5 @@
       "updatedAt": "2026-07-06T03:50:01.083Z"
     }
   ],
-  "generatedAt": "2026-09-02T11:40:02.063Z"
+  "generatedAt": "2026-09-02T11:50:01.966Z"
 }
