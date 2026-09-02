@@ -4,15 +4,15 @@
       "date": "2026-09-02",
       "slug": "2026-09-02",
       "title": "🔥 Best Deals Today — September 2, 2026",
-      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Beauty, Garden & Outdoor, Luxury Beauty and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Beauty, Garden & Outdoor, Home & Kitchen and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
         "Garden & Outdoor",
+        "Home & Kitchen",
+        "Other",
         "Luxury Beauty",
         "Toys & Kids",
-        "Grocery",
-        "Health",
-        "Smart Home"
+        "Grocery"
       ],
       "byCategory": {
         "Garden & Outdoor": [
@@ -37,6 +37,32 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/817ucPatCHL.jpg",
             "url": "https://www.amazon.com/dp/B0GJ2YQH2F/ref=cm_sw_r_as_gl_api_gl_i_dl_5MMYZRK3ZB4VZAW36NXT?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=8493b5e5e70715aa40e065a49cf1f62a&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B08PQ2KWHS",
+            "slug": "instant-pot-pro-6-qt-10-in-1-electric-pressure-cooker-black",
+            "title": "Instant Pot Pro 6 Qt 10-in-1 Electric Pressure Cooker, Black | multicooker, 6 quart, slow cook, rice, steam, sauté, yogu",
+            "price": "$129.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71crmdgrhpL.jpg",
+            "url": "https://www.amazon.com/dp/B08PQ2KWHS?tag=noya0b-20"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0CP9DJ8GC",
+            "slug": "joyin-432-count-colored-pencils-bulk-colored-pencils-for-kid",
+            "title": "JOYIN 432 Count Colored Pencils Bulk, Colored Pencils for Kids 3+, 12 Colors, 36 Packs, Pre-sharpened Coloring Art Suppl",
+            "price": "$24",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81UQ9MBWzJL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CP9DJ8GC/ref=cm_sw_r_as_gl_api_gl_i_C0W0W591Z26F5S65JFNE?linkCode=ml1&tag=noya0b-20&linkId=c46ed9c5ab7865a64d958a24c9d3ed74&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -112,32 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL._SL1000_.jpg",
             "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
           }
-        ],
-        "Health": [
-          {
-            "asin": "B0C2WJHQLT",
-            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-          }
-        ],
-        "Smart Home": [
-          {
-            "asin": "B07RCNB2L3",
-            "slug": "deal-kasa-smart-plug-hs103p4-smart-wi-fi-outlet-touch-actuat",
-            "title": "Deal: Kasa Smart Plug HS103P4, Smart Wi-Fi Outlet, Touch Actuator, Works with Alexa, Echo, Google Home, No Hub Required,",
-            "price": "$25.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Smart Home",
-            "imageUrl": "https://m.media-amazon.com/images/I/51zoLDBO0wL.jpg",
-            "url": "https://www.amazon.com/dp/B07RCNB2L3?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,28 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/817ucPatCHL.jpg",
           "url": "https://www.amazon.com/dp/B0GJ2YQH2F/ref=cm_sw_r_as_gl_api_gl_i_dl_5MMYZRK3ZB4VZAW36NXT?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=8493b5e5e70715aa40e065a49cf1f62a&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08PQ2KWHS",
+          "slug": "instant-pot-pro-6-qt-10-in-1-electric-pressure-cooker-black",
+          "title": "Instant Pot Pro 6 Qt 10-in-1 Electric Pressure Cooker, Black | multicooker, 6 quart, slow cook, rice, steam, sauté, yogu",
+          "price": "$129.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71crmdgrhpL.jpg",
+          "url": "https://www.amazon.com/dp/B08PQ2KWHS?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CP9DJ8GC",
+          "slug": "joyin-432-count-colored-pencils-bulk-colored-pencils-for-kid",
+          "title": "JOYIN 432 Count Colored Pencils Bulk, Colored Pencils for Kids 3+, 12 Colors, 36 Packs, Pre-sharpened Coloring Art Suppl",
+          "price": "$24",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81UQ9MBWzJL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0CP9DJ8GC/ref=cm_sw_r_as_gl_api_gl_i_C0W0W591Z26F5S65JFNE?linkCode=ml1&tag=noya0b-20&linkId=c46ed9c5ab7865a64d958a24c9d3ed74&gaOptInStatus=true"
         },
         {
           "asin": "B07HWPH1MP",
@@ -228,34 +250,12 @@
           "category": "Grocery",
           "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL._SL1000_.jpg",
           "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C2WJHQLT",
-          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B07RCNB2L3",
-          "slug": "deal-kasa-smart-plug-hs103p4-smart-wi-fi-outlet-touch-actuat",
-          "title": "Deal: Kasa Smart Plug HS103P4, Smart Wi-Fi Outlet, Touch Actuator, Works with Alexa, Echo, Google Home, No Hub Required,",
-          "price": "$25.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Smart Home",
-          "imageUrl": "https://m.media-amazon.com/images/I/51zoLDBO0wL.jpg",
-          "url": "https://www.amazon.com/dp/B07RCNB2L3?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 2, 2026?",
-          "a": "The best deals today include \"TuyLuxe Solar Flood Lights, 3600LM 270° Motion Sensor Outdoo...\" and 9 other hand-picked discounts. Deals span Beauty, Garden & Outdoor, Luxury Beauty and are updated daily."
+          "a": "The best deals today include \"TuyLuxe Solar Flood Lights, 3600LM 270° Motion Sensor Outdoo...\" and 9 other hand-picked discounts. Deals span Beauty, Garden & Outdoor, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-02T12:10:01.681Z",
-      "updatedAt": "2026-09-02T12:10:01.681Z"
+      "generatedAt": "2026-09-02T12:20:02.111Z",
+      "updatedAt": "2026-09-02T12:20:02.112Z"
     },
     {
       "date": "2026-09-01",
@@ -16330,5 +16330,5 @@
       "updatedAt": "2026-07-06T03:50:01.083Z"
     }
   ],
-  "generatedAt": "2026-09-02T12:10:01.686Z"
+  "generatedAt": "2026-09-02T12:20:02.117Z"
 }
