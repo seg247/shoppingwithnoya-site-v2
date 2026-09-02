@@ -4,14 +4,14 @@
       "date": "2026-09-02",
       "slug": "2026-09-02",
       "title": "🔥 Best Deals Today — September 2, 2026",
-      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Grocery & Food and more. The best discount today is 81% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Garden & Outdoor, Beauty and more. The best discount today is 81% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Garden & Outdoor",
-        "Grocery & Food",
-        "Cleaning Supplies",
         "Home & Kitchen",
-        "Fashion"
+        "Garden & Outdoor",
+        "Beauty",
+        "Electronics",
+        "Other",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -25,6 +25,17 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71qFG0SD7nL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01NCJCOZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=066470acf4d9a0f9ba5836cfc16b473d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B00FLYWNYQ",
+            "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+            "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | multicooker, 6 quart, slow cook, rice, steam, sa",
+            "price": "$89.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71M9vfXEMSL.jpg",
+            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -38,17 +49,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81mm2pp8ANL.jpg",
             "url": "https://www.amazon.com/Bedroom-Circle-Nursery-Fluffy-Carpet/dp/B089YBDFX3?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b48f930c212bc919ca9eafdf77efa57&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B075FB4BR6",
-            "slug": "skip-hop-portable-baby-sound-machine-stroll-go-owl",
-            "title": "\udecd️Skip Hop Portable Baby Sound Machine, Stroll & Go, Owl",
-            "price": "$16.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B075FB4BR6/ref=cm_sw_r_as_gl_api_gl_i_3HKVZRHSGRZS9ABYQ1Y4?linkCode=ml1&tag=noya0b-20&linkId=26d6ff1d2311ac6166d488c2641ab952&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -75,6 +75,54 @@
             "url": "https://www.amazon.com/dp/B0GJ2YQH2F/ref=cm_sw_r_as_gl_api_gl_i_dl_5MMYZRK3ZB4VZAW36NXT?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=8493b5e5e70715aa40e065a49cf1f62a&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+          },
+          {
+            "asin": "B0BZGRCBY4",
+            "slug": "got-mine-4xx-eos-body-lotion-is-back",
+            "title": "GOT MINE! $4.xx eos Body Lotion is back!!",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61xMQh4nCsL.jpg",
+            "url": "https://www.amazon.com/dp/B0BZGRCBY4?th=1&linkCode=sl2&tag=noya0b-20&linkId=52ed9f979ec069356e78342dad01faf8&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0GGNMB41J",
+            "slug": "champion-kids-mode-backpack-and-lunch-box-set-rosenavy-one-s",
+            "title": "Champion Kids' Mode Backpack and Lunch Box Set, Rose/Navy, One Size | Laptop Compartment, Padded Straps, Water Bottle Po",
+            "price": "$19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71GLSqwoaJL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/Champion-2-Piece-Backpack-Insulated-Compartment/dp/B0GGNMB41J/ref=sr_1_438?dib=eyJ2IjoiMSJ9.aa8TY7my5SuMRZ_8KLjinNc5zEzYy9oaNCSgxW_RkLqOLVl0ZrZ8mOaJU_1UQ_42je5hQF7HUtvYX74L4FZEjUxsE7l0kAmDpg6Fu08L4PomR2L_-9LGxix4EJdpUOuD3OsIPHj_aaskDLQqnp0dNgbBn9q7VuCd6J7tyIiQudj8GhajtHaP3rbseEYexr6bwMrWmIiOjdktmpMVC9vzZkBRQLDA0ufYfOYJX9b8g_qt8AIx-tsHKcDENVFVz2Fz.9R_W1X5r-l2W5trb1NoZM_KljHAg-3xwv7U71GOMrO8&dib_tag=se&qid=1788374685&refinements=p_75%3A30-%2Cp_85%3A2470955011%2Cp_72%3A1248915011&rnid=1248913011&rps=1&s=home-garden&th=1&xpid=tyJIxjEd5be_L&linkCode=sl2&tag=noya0b-20&linkId=a42ba00e9d265b38cc0b4182ee535fcc&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0H2YDC3NM",
+            "slug": "olixis-end-table-with-charging-station-modern-curved-nightst",
+            "title": "OLIXIS End Table with Charging Station, Modern Curved Nightstand Set of 2 | 3-Tier Side Table Storage Shelf, USB Type-C ",
+            "price": "$74",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0H2YDC3NM?th=1&tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0GHTLDQDR",
@@ -86,54 +134,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71mIDWwc+PL.jpg",
             "url": "https://www.amazon.com/dp/B0GHTLDQDR/ref=cm_sw_r_as_gl_api_gl_i_dl_V0T6TKSCBQA393DQEZ97?linkCode=ml1&tag=noya0b-20&linkId=0ef00b2a782f0f97b998cb1e634e1a58&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FCBF2X4H",
-            "slug": "carote-3-piece-baking-sheet-nonstick-cookie-sheets-olive-gre",
-            "title": "CAROTE 3-Piece Baking Sheet, Nonstick Cookie Sheets, Olive Green | 13, 15 & 17-Inch, Carbon Steel Baking Pans Set, Easy-",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81KRAgJzkVL.jpg",
-            "url": "https://www.amazon.com/dp/B0FCBF2X4H?th=1&tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0DQ54X5XM",
-            "slug": "swarovski-ariana-grande-heart-all-around-tennis-style-crysta",
-            "title": "\udecd️Swarovski Ariana Grande Heart All-Around Tennis Style Crystal Necklace in Rhodium Finish - Part of the Ariana Grande x",
-            "price": "$350.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51PvYGN72GL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DQ54X5XM/ref=cm_sw_r_as_gl_api_gl_i_dl_CSMKS7ZECNVK5M37J40P?linkCode=ml1&tag=noya0b-20&linkId=33d35afa7523ca6f558cd71b7cf4758d&gaOptInStatus=true"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B00371VM0Q",
-            "slug": "lysol-toilet-bowl-cleaner-clinging-gel-power-24-oz-2-pack",
-            "title": "\udecd️Lysol Toilet Bowl Cleaner Clinging Gel, Power, 24 oz, 2 Pack",
-            "price": "$5.40",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81UAl6wUXrL.jpg",
-            "url": "https://www.amazon.com/dp/B00371VM0Q/ref=cm_sw_r_as_gl_api_gl_i_5B8Q3017KV5XE8BPVQ25?linkCode=ml1&tag=noya0b-20&linkId=e9c82101b6f28aa09a7924b318dbb18f&gaOptInStatus=true"
-          },
-          {
-            "asin": "B00371VM0Q",
-            "slug": "lysol-toilet-bowl-cleaner-clinging-gel-power-24-oz-2-pack",
-            "title": "\udecd️Lysol Toilet Bowl Cleaner Clinging Gel, Power, 24 oz, 2 Pack",
-            "price": "$5.40",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/81UAl6wUXrL.jpg",
-            "url": "https://www.amazon.com/dp/B00371VM0Q/ref=cm_sw_r_as_gl_api_gl_i_5B8Q3017KV5XE8BPVQ25?linkCode=ml1&tag=noya0b-20&linkId=e9c82101b6f28aa09a7924b318dbb18f&gaOptInStatus=true"
           }
         ]
       },
@@ -183,6 +183,61 @@
           "url": "https://www.amazon.com/dp/B0GJ2YQH2F/ref=cm_sw_r_as_gl_api_gl_i_dl_5MMYZRK3ZB4VZAW36NXT?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=8493b5e5e70715aa40e065a49cf1f62a&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B00FLYWNYQ",
+          "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+          "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | multicooker, 6 quart, slow cook, rice, steam, sa",
+          "price": "$89.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71M9vfXEMSL.jpg",
+          "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+        },
+        {
+          "asin": "B08SL72G3P",
+          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GGNMB41J",
+          "slug": "champion-kids-mode-backpack-and-lunch-box-set-rosenavy-one-s",
+          "title": "Champion Kids' Mode Backpack and Lunch Box Set, Rose/Navy, One Size | Laptop Compartment, Padded Straps, Water Bottle Po",
+          "price": "$19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71GLSqwoaJL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/Champion-2-Piece-Backpack-Insulated-Compartment/dp/B0GGNMB41J/ref=sr_1_438?dib=eyJ2IjoiMSJ9.aa8TY7my5SuMRZ_8KLjinNc5zEzYy9oaNCSgxW_RkLqOLVl0ZrZ8mOaJU_1UQ_42je5hQF7HUtvYX74L4FZEjUxsE7l0kAmDpg6Fu08L4PomR2L_-9LGxix4EJdpUOuD3OsIPHj_aaskDLQqnp0dNgbBn9q7VuCd6J7tyIiQudj8GhajtHaP3rbseEYexr6bwMrWmIiOjdktmpMVC9vzZkBRQLDA0ufYfOYJX9b8g_qt8AIx-tsHKcDENVFVz2Fz.9R_W1X5r-l2W5trb1NoZM_KljHAg-3xwv7U71GOMrO8&dib_tag=se&qid=1788374685&refinements=p_75%3A30-%2Cp_85%3A2470955011%2Cp_72%3A1248915011&rnid=1248913011&rps=1&s=home-garden&th=1&xpid=tyJIxjEd5be_L&linkCode=sl2&tag=noya0b-20&linkId=a42ba00e9d265b38cc0b4182ee535fcc&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H2YDC3NM",
+          "slug": "olixis-end-table-with-charging-station-modern-curved-nightst",
+          "title": "OLIXIS End Table with Charging Station, Modern Curved Nightstand Set of 2 | 3-Tier Side Table Storage Shelf, USB Type-C ",
+          "price": "$74",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0H2YDC3NM?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0BZGRCBY4",
+          "slug": "got-mine-4xx-eos-body-lotion-is-back",
+          "title": "GOT MINE! $4.xx eos Body Lotion is back!!",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61xMQh4nCsL.jpg",
+          "url": "https://www.amazon.com/dp/B0BZGRCBY4?th=1&linkCode=sl2&tag=noya0b-20&linkId=52ed9f979ec069356e78342dad01faf8&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0GHTLDQDR",
           "slug": "dinjoy-patchwork-quilts-king-sizereversible-teal-floral-quil",
           "title": "\udecd️Dinjoy Patchwork Quilts King Size，Reversible Teal Floral Quilt Bedding Set",
@@ -192,67 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71mIDWwc+PL.jpg",
           "url": "https://www.amazon.com/dp/B0GHTLDQDR/ref=cm_sw_r_as_gl_api_gl_i_dl_V0T6TKSCBQA393DQEZ97?linkCode=ml1&tag=noya0b-20&linkId=0ef00b2a782f0f97b998cb1e634e1a58&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DQ54X5XM",
-          "slug": "swarovski-ariana-grande-heart-all-around-tennis-style-crysta",
-          "title": "\udecd️Swarovski Ariana Grande Heart All-Around Tennis Style Crystal Necklace in Rhodium Finish - Part of the Ariana Grande x",
-          "price": "$350.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51PvYGN72GL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DQ54X5XM/ref=cm_sw_r_as_gl_api_gl_i_dl_CSMKS7ZECNVK5M37J40P?linkCode=ml1&tag=noya0b-20&linkId=33d35afa7523ca6f558cd71b7cf4758d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B075FB4BR6",
-          "slug": "skip-hop-portable-baby-sound-machine-stroll-go-owl",
-          "title": "\udecd️Skip Hop Portable Baby Sound Machine, Stroll & Go, Owl",
-          "price": "$16.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B075FB4BR6/ref=cm_sw_r_as_gl_api_gl_i_3HKVZRHSGRZS9ABYQ1Y4?linkCode=ml1&tag=noya0b-20&linkId=26d6ff1d2311ac6166d488c2641ab952&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00371VM0Q",
-          "slug": "lysol-toilet-bowl-cleaner-clinging-gel-power-24-oz-2-pack",
-          "title": "\udecd️Lysol Toilet Bowl Cleaner Clinging Gel, Power, 24 oz, 2 Pack",
-          "price": "$5.40",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81UAl6wUXrL.jpg",
-          "url": "https://www.amazon.com/dp/B00371VM0Q/ref=cm_sw_r_as_gl_api_gl_i_5B8Q3017KV5XE8BPVQ25?linkCode=ml1&tag=noya0b-20&linkId=e9c82101b6f28aa09a7924b318dbb18f&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00371VM0Q",
-          "slug": "lysol-toilet-bowl-cleaner-clinging-gel-power-24-oz-2-pack",
-          "title": "\udecd️Lysol Toilet Bowl Cleaner Clinging Gel, Power, 24 oz, 2 Pack",
-          "price": "$5.40",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/81UAl6wUXrL.jpg",
-          "url": "https://www.amazon.com/dp/B00371VM0Q/ref=cm_sw_r_as_gl_api_gl_i_5B8Q3017KV5XE8BPVQ25?linkCode=ml1&tag=noya0b-20&linkId=e9c82101b6f28aa09a7924b318dbb18f&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FCBF2X4H",
-          "slug": "carote-3-piece-baking-sheet-nonstick-cookie-sheets-olive-gre",
-          "title": "CAROTE 3-Piece Baking Sheet, Nonstick Cookie Sheets, Olive Green | 13, 15 & 17-Inch, Carbon Steel Baking Pans Set, Easy-",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81KRAgJzkVL.jpg",
-          "url": "https://www.amazon.com/dp/B0FCBF2X4H?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 2, 2026?",
-          "a": "The best deals today include \"⚡️$4.xx SwimSchool Infant Baby Pool Floats...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"⚡️$4.xx SwimSchool Infant Baby Pool Floats...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Garden & Outdoor, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-02T19:10:01.637Z",
-      "updatedAt": "2026-09-02T19:10:01.638Z"
+      "generatedAt": "2026-09-02T19:20:01.536Z",
+      "updatedAt": "2026-09-02T19:20:01.536Z"
     },
     {
       "date": "2026-09-01",
@@ -16327,5 +16327,5 @@
       "updatedAt": "2026-07-06T03:50:01.083Z"
     }
   ],
-  "generatedAt": "2026-09-02T19:10:01.642Z"
+  "generatedAt": "2026-09-02T19:20:01.540Z"
 }
