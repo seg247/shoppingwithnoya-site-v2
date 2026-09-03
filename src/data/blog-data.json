@@ -4,10 +4,11 @@
       "date": "2026-09-02",
       "slug": "2026-09-02",
       "title": "🔥 Best Deals Today — September 2, 2026",
-      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Fashion and more. The best discount today is 81% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, September 2, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Beauty and more. The best discount today is 81% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
         "Other",
+        "Beauty",
         "Fashion"
       ],
       "byCategory": {
@@ -57,6 +58,17 @@
             "url": "https://www.amazon.com/dp/B0FN3N5989?th=1&tag=noya0b-20"
           },
           {
+            "asin": "B07PMRDBYW",
+            "slug": "grand-patio-round-steel-patio-coffee-table-weather-resistant",
+            "title": "Grand Patio Round Steel Patio Coffee Table, Weather Resistant Outdoor Large Side Table, Mint Green… : Patio, Lawn & Gard",
+            "price": "$16",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/514B-FAUmOL.jpg",
+            "url": "https://www.amazon.com/dp/B07PMRDBYW?th=1&tag=noya0b-20"
+          },
+          {
             "asin": "B0DPNJ816G",
             "slug": "bella-fits-anywhere-saute-make-take-skillet-non-toxic-cerami",
             "title": "bella Fits-Anywhere SAUTE Make & Take Skillet, Non-Toxic, Ceramic, Oatmilk: Home & Kitchen",
@@ -66,17 +78,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71zXlQVy2CL.jpg",
             "url": "https://www.amazon.com/dp/B0DPNJ816G?th=1&tag=noya0b-20"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B075QRWRYP",
-            "slug": "lego-classic-creative-suitcase-10713-includes-sorting-storag",
-            "title": "LEGO Classic Creative Suitcase 10713 - Includes Sorting Storage Organizer Case with Fun Colorful Building Bricks, Presch",
-            "price": "$11",
-            "discount": 50,
+            "asin": "B000273PEO",
+            "slug": "clinique-happy-eau-de-parfum-spray-notes-of-grapefruit-berga",
+            "title": "Clinique Happy Eau de Parfum Spray | Notes of Grapefruit, Bergamot, Hawaiian Wedding Flower + Spring Mimosa | Perfumes f",
+            "price": "$26",
+            "discount": 69,
             "rating": "FIRE",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/810suM5sWFL.jpg",
-            "url": "https://www.amazon.com/dp/B075QRWRYP?th=1&tag=noya0b-20"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61-YGqG1ezL.jpg",
+            "url": "https://www.amazon.com/dp/B000273PEO?th=1&tag=noya0b-20"
           }
         ],
         "Other": [
@@ -101,17 +115,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71UOS1ohIDL.jpg",
             "url": "https://www.amazon.com/dp/B0B4BSKXR6?tag=noya0b-20"
-          },
-          {
-            "asin": "B089YBDFX3",
-            "slug": "onasar-tie-dyed-light-grey-round-area-rugs-6ft-ultra-soft-be",
-            "title": "ONASAR Tie-Dyed Light Grey Round Area Rugs 6ft, Ultra Soft Bedroom Circle Rug for Kids Girls Boys Teen Room, Fluffy Plus",
-            "price": "$22",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81mm2pp8ANL.jpg",
-            "url": "https://www.amazon.com/Bedroom-Circle-Nursery-Fluffy-Carpet/dp/B089YBDFX3?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b48f930c212bc919ca9eafdf77efa57&language=en_US&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -139,6 +142,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71qFG0SD7nL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01NCJCOZR?th=1&linkCode=sl2&tag=noya0b-20&linkId=066470acf4d9a0f9ba5836cfc16b473d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B000273PEO",
+          "slug": "clinique-happy-eau-de-parfum-spray-notes-of-grapefruit-berga",
+          "title": "Clinique Happy Eau de Parfum Spray | Notes of Grapefruit, Bergamot, Hawaiian Wedding Flower + Spring Mimosa | Perfumes f",
+          "price": "$26",
+          "discount": 69,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61-YGqG1ezL.jpg",
+          "url": "https://www.amazon.com/dp/B000273PEO?th=1&tag=noya0b-20"
         },
         {
           "asin": "B07H8PYVRX",
@@ -207,6 +221,17 @@
           "url": "https://www.amazon.com/dp/B0F3RJ4942?th=1&tag=noya0b-20"
         },
         {
+          "asin": "B07PMRDBYW",
+          "slug": "grand-patio-round-steel-patio-coffee-table-weather-resistant",
+          "title": "Grand Patio Round Steel Patio Coffee Table, Weather Resistant Outdoor Large Side Table, Mint Green… : Patio, Lawn & Gard",
+          "price": "$16",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/514B-FAUmOL.jpg",
+          "url": "https://www.amazon.com/dp/B07PMRDBYW?th=1&tag=noya0b-20"
+        },
+        {
           "asin": "B0DPNJ816G",
           "slug": "bella-fits-anywhere-saute-make-take-skillet-non-toxic-cerami",
           "title": "bella Fits-Anywhere SAUTE Make & Take Skillet, Non-Toxic, Ceramic, Oatmilk: Home & Kitchen",
@@ -216,34 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71zXlQVy2CL.jpg",
           "url": "https://www.amazon.com/dp/B0DPNJ816G?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B075QRWRYP",
-          "slug": "lego-classic-creative-suitcase-10713-includes-sorting-storag",
-          "title": "LEGO Classic Creative Suitcase 10713 - Includes Sorting Storage Organizer Case with Fun Colorful Building Bricks, Presch",
-          "price": "$11",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/810suM5sWFL.jpg",
-          "url": "https://www.amazon.com/dp/B075QRWRYP?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B089YBDFX3",
-          "slug": "onasar-tie-dyed-light-grey-round-area-rugs-6ft-ultra-soft-be",
-          "title": "ONASAR Tie-Dyed Light Grey Round Area Rugs 6ft, Ultra Soft Bedroom Circle Rug for Kids Girls Boys Teen Room, Fluffy Plus",
-          "price": "$22",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81mm2pp8ANL.jpg",
-          "url": "https://www.amazon.com/Bedroom-Circle-Nursery-Fluffy-Carpet/dp/B089YBDFX3?th=1&linkCode=sl2&tag=noya0b-20&linkId=9b48f930c212bc919ca9eafdf77efa57&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 2, 2026?",
-          "a": "The best deals today include \"⚡️$4.xx SwimSchool Infant Baby Pool Floats...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Fashion and are updated daily."
+          "a": "The best deals today include \"⚡️$4.xx SwimSchool Infant Baby Pool Floats...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -262,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-02T23:50:01.911Z",
-      "updatedAt": "2026-09-02T23:50:01.911Z"
+      "generatedAt": "2026-09-03T00:00:00.407Z",
+      "updatedAt": "2026-09-03T00:00:00.407Z"
     },
     {
       "date": "2026-09-01",
@@ -16318,5 +16321,5 @@
       "updatedAt": "2026-07-06T03:50:01.083Z"
     }
   ],
-  "generatedAt": "2026-09-02T23:50:01.922Z"
+  "generatedAt": "2026-09-03T00:00:00.414Z"
 }
