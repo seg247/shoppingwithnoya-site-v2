@@ -9,12 +9,11 @@
         "Other",
         "Pet Supplies",
         "Grocery & Food",
+        "Fashion",
+        "Personal Care",
+        "Luxury Beauty",
         "Home & Kitchen",
-        "Toys & Kids",
-        "Beauty",
-        "Grocery",
-        "Health",
-        "Electronics"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Pet Supplies": [
@@ -56,6 +55,17 @@
             "url": "https://www.amazon.com/dp/B09MVCQ2VG?linkCode=sl2&tag=noya0b-20&linkId=ee19487caae380da21b42d9c1388c13e&language=en_US&gaOptInStatus=true"
           },
           {
+            "asin": "B0GV3H5ZH8",
+            "slug": "8x10-area-rugs-for-living-room-washable-rug-vintage-floral-l",
+            "title": "8x10 Area Rugs for Living Room: Washable Rug Vintage Floral Large Rugs for Bedroom Non Slip Soft Low Pile Carpet for Din",
+            "price": "$39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/915DoHJ4cuL.jpg",
+            "url": "https://www.amazon.com/dp/B0GV3H5ZH8?lv=shuf&rsd=jM%2F2vuDtsIWeqE7NqY2HJaCoM7B%2FwG3wuU8fypO7uFqc%2FR0sOhg0Ux4LDU9d5lBOKhewzif89ad8RKw0bhZs22YMgYuDO%2B5JP%2BHPGI77HBXXv5s%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQEUCyIIZSrv3%2FIU5JIhpEM9AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDJ%2BoJbENpBGn7Db2AgEQgDv%2BI7mrGqu9jwjUf0uJXR91H682JIA31ZVVNDl4NbIvAU4DDs0CqCxEBJuRvx9blDNhjEYXNULQVb8qdg%3D%3D&social_share=cm_sw_r_apan_dp_AM6PQ532J3PCVJ2MVX37&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d2a4e4d24a0eda4989a123b2a11a1eb1&language=en_US&gaOptInStatus=true"
+          },
+          {
             "asin": "B0DR9P851F",
             "slug": "stanley-quencher-protour-flipstraw-tumbler-30-oz-hot-coral-f",
             "title": "STANLEY Quencher ProTour Flipstraw Tumbler, 30 oz, Hot Coral Fade | Built-In Straw & Handle | Cupholder Compatible for T",
@@ -65,6 +75,45 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0DR9P851F?th=1&linkCode=sl2&tag=noya0b-20&linkId=478506e0e1847f02a1edee56f645d7de&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0GXVZ3SGG",
+            "slug": "striped-shirt-women-long-sleeve-mock-neck-fall-y2k-tops-ther",
+            "title": "Striped Shirt Women Long Sleeve Mock Neck Fall Y2K Tops Thermal Underwear M | Underscrub Long Sleeve Women, Ribbed Slim ",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71o3A0SPe8L._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GXVZ3SGG?th=1&psc=1&tag=noya0b-20"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0FK9WT96Q",
+            "slug": "coslus-c30-electric-toothbrush-for-adults-effective-yet-gent",
+            "title": "COSLUS C30 Electric Toothbrush for Adults, Effective Yet Gentle Ultra-Clean | 3 Intensities & 5 Modes, 2 Types Soft or M",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Z6k6arVpL.jpg",
+            "url": "https://www.amazon.com/dp/B0FK9WT96Q?th=1&tag=noya0b-20"
+          }
+        ],
+        "Luxury Beauty": [
+          {
+            "asin": "B01BZV7MG2",
+            "slug": "luxury-skin-care-sample-box-beauty-personal-care",
+            "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
+            "price": "$31.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
+            "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -91,58 +140,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/81rgdjgSMhL.jpg",
             "url": "https://www.amazon.com/dp/B0DQY1XC5B?lv=shuf&rsd=0NOnmBmQjEL5nEBAHEp75u8aRaUqGUhKK2FpzZ0NA2wwMTq261UPRxPual5X78AhJQFfwHZsu5eYkHTT6lyP9qiR2m%2B3x%2BFhtUVBGhF2QQzGAEYDn5jygVY%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQH0zHZqA6d6Fb8QRYNVlzL4AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMOlIHYM2S%2FaeTRbvQAgEQgDvx%2BSSs%2F43YG6xl0qsIZiewDt0Bi%2B24Wch0QaaxAEDO0Gy6Ii9K%2FOwRw%2FBkB1RIwqG02ZKcDSTcoIrinQ%3D%3D&social_share=cm_sw_r_apan_dp_D20R185ZC9R23DYJ5V4X_2&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=44ae18eaef5c9f69771f981d490ce5c9&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DKFYC47P",
-            "slug": "maryaj-green-wood-long-lasting-perfume-for-men-and-women-col",
-            "title": "Maryaj Green Wood - Long Lasting Perfume for Men and Women - Cologne for Men and Women - Spicy, Floral, Amber Fragrances",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61qH01HPBHL.jpg",
-            "url": "https://www.amazon.com/dp/B0DKFYC47P?psc=1&linkCode=sl2&tag=noya0b-20&linkId=fe703f7edaf011d34e23babfcda3ecab&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery": [
-          {
-            "asin": "B01M97YEVN",
-            "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
-            "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
-            "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B0C2WJHQLT",
-            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FY31S9FM",
-            "slug": "tall-skinny-beside-lamps-set-of-2-modern-buffet-table-lamps",
-            "title": "Tall Skinny Beside Lamps Set of 2, Modern Buffet Table Lamps for Bedroom | USB A+C Charging Ports, 3-Way Dimmable Touch ",
-            "price": "$48",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ER4EE3NsL.jpg",
-            "url": "https://www.amazon.com/dp/B0FY31S9FM?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -181,6 +178,50 @@
           "url": "https://www.amazon.com/dp/B09MVCQ2VG?linkCode=sl2&tag=noya0b-20&linkId=ee19487caae380da21b42d9c1388c13e&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0GXVZ3SGG",
+          "slug": "striped-shirt-women-long-sleeve-mock-neck-fall-y2k-tops-ther",
+          "title": "Striped Shirt Women Long Sleeve Mock Neck Fall Y2K Tops Thermal Underwear M | Underscrub Long Sleeve Women, Ribbed Slim ",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71o3A0SPe8L._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GXVZ3SGG?th=1&psc=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B0FK9WT96Q",
+          "slug": "coslus-c30-electric-toothbrush-for-adults-effective-yet-gent",
+          "title": "COSLUS C30 Electric Toothbrush for Adults, Effective Yet Gentle Ultra-Clean | 3 Intensities & 5 Modes, 2 Types Soft or M",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Z6k6arVpL.jpg",
+          "url": "https://www.amazon.com/dp/B0FK9WT96Q?th=1&tag=noya0b-20"
+        },
+        {
+          "asin": "B01BZV7MG2",
+          "slug": "luxury-skin-care-sample-box-beauty-personal-care",
+          "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
+          "price": "$31.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
+          "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GV3H5ZH8",
+          "slug": "8x10-area-rugs-for-living-room-washable-rug-vintage-floral-l",
+          "title": "8x10 Area Rugs for Living Room: Washable Rug Vintage Floral Large Rugs for Bedroom Non Slip Soft Low Pile Carpet for Din",
+          "price": "$39",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/915DoHJ4cuL.jpg",
+          "url": "https://www.amazon.com/dp/B0GV3H5ZH8?lv=shuf&rsd=jM%2F2vuDtsIWeqE7NqY2HJaCoM7B%2FwG3wuU8fypO7uFqc%2FR0sOhg0Ux4LDU9d5lBOKhewzif89ad8RKw0bhZs22YMgYuDO%2B5JP%2BHPGI77HBXXv5s%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQEUCyIIZSrv3%2FIU5JIhpEM9AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMDJ%2BoJbENpBGn7Db2AgEQgDv%2BI7mrGqu9jwjUf0uJXR91H682JIA31ZVVNDl4NbIvAU4DDs0CqCxEBJuRvx9blDNhjEYXNULQVb8qdg%3D%3D&social_share=cm_sw_r_apan_dp_AM6PQ532J3PCVJ2MVX37&channelId=704&plpRedirect=mhFallback&th=1&linkCode=sl2&tag=noya0b-20&linkId=d2a4e4d24a0eda4989a123b2a11a1eb1&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0H5YZ1MGJ",
           "slug": "fancy-feast-purina-the-paige-edit-gourmet-wet-cat-food-varie",
           "title": "Fancy Feast Purina The Paige Edit Gourmet Wet Cat Food Variety Pack | 4 Entrees and a Lickable Cat Food Topper Collectio",
@@ -212,50 +253,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DR9P851F?th=1&linkCode=sl2&tag=noya0b-20&linkId=478506e0e1847f02a1edee56f645d7de&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DKFYC47P",
-          "slug": "maryaj-green-wood-long-lasting-perfume-for-men-and-women-col",
-          "title": "Maryaj Green Wood - Long Lasting Perfume for Men and Women - Cologne for Men and Women - Spicy, Floral, Amber Fragrances",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61qH01HPBHL.jpg",
-          "url": "https://www.amazon.com/dp/B0DKFYC47P?psc=1&linkCode=sl2&tag=noya0b-20&linkId=fe703f7edaf011d34e23babfcda3ecab&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01M97YEVN",
-          "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
-          "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery",
-          "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
-          "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C2WJHQLT",
-          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FY31S9FM",
-          "slug": "tall-skinny-beside-lamps-set-of-2-modern-buffet-table-lamps",
-          "title": "Tall Skinny Beside Lamps Set of 2, Modern Buffet Table Lamps for Bedroom | USB A+C Charging Ports, 3-Way Dimmable Touch ",
-          "price": "$48",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ER4EE3NsL.jpg",
-          "url": "https://www.amazon.com/dp/B0FY31S9FM?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -280,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-03T20:30:02.759Z",
-      "updatedAt": "2026-09-03T20:30:02.759Z"
+      "generatedAt": "2026-09-03T20:40:03.632Z",
+      "updatedAt": "2026-09-03T20:40:03.632Z"
     },
     {
       "date": "2026-09-02",
@@ -16333,5 +16330,5 @@
       "updatedAt": "2026-07-07T03:50:02.215Z"
     }
   ],
-  "generatedAt": "2026-09-03T20:30:02.765Z"
+  "generatedAt": "2026-09-03T20:40:03.639Z"
 }
