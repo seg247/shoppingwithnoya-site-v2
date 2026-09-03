@@ -4,12 +4,13 @@
       "date": "2026-09-03",
       "slug": "2026-09-03",
       "title": "🔥 Best Deals Today — September 3, 2026",
-      "intro": "Today's best online deals for Thursday, September 3, 2026 — 10 hand-picked discounts across Health, Other, Electronics and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, September 3, 2026 — 10 hand-picked discounts across Beauty, Other, Pet Supplies and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Health",
+        "Beauty",
         "Other",
-        "Electronics",
         "Pet Supplies",
+        "Electronics",
+        "Health",
         "Luxury Beauty",
         "Fashion"
       ],
@@ -51,6 +52,54 @@
             "url": "https://www.amazon.com/dp/B00202A4PW?th=1&linkCode=sl2&tag=noya0b-20&linkId=b9b8fc439658d67f02775e7c4b3e1377&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+          },
+          {
+            "asin": "B07HWPH1MP",
+            "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
+            "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL.jpg",
+            "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
+          },
+          {
+            "asin": "B0C7ZM9VB8",
+            "slug": "all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss",
+            "title": "All in One Makeup Kit for Women Eyeshadow Eyeliner lipgloss, Lipstick Makeup brushes Mascara Eyebrow pencil Concealer Fa",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
+            "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B08724XVJ1",
+            "slug": "electric-razor-for-men6-in-1-usb-rechargeable-waterproof-5d",
+            "title": "Electric Razor for Men,6 in 1 USB Rechargeable Waterproof 5D Rotary Shaver Beard Trimmer Nose Hair Trimmer Wet and Dry E",
+            "price": "$36.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-q9iNA3gL.jpg",
+            "url": "https://www.amazon.com/dp/B08724XVJ1?tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B07FLX6KPY",
@@ -62,28 +111,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/81uFtuTrQEL.jpg",
             "url": "https://www.amazon.com/dp/B07FLX6KPY?tag=noya0b-20"
-          },
-          {
-            "asin": "B08146763Z",
-            "slug": "ripple-protein-shake-coffee-12-oz-grocery-gourmet-food",
-            "title": "Ripple Protein Shake, Coffee, 12 oz : Grocery & Gourmet Food",
-            "price": "$3.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL.jpg",
-            "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
-          },
-          {
-            "asin": "B0C2WJHQLT",
-            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
           }
         ],
         "Luxury Beauty": [
@@ -111,30 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71M37p-SuzL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0F59SZ1ZW?lv=shuf&rsd=6M0E8KYYcLUVE2RKegry70x1lFaYfBpH6RJSsPMO2jNVH9xd%2FkMUPfl5nsMtaCFQEeoZpQbZOYxpPm9NnuzacflggLGbdLu45XiA77P5yXsS3w%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFod1zANRs6OUVseibMhjJmAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMEGOaqpYwPFKLklewAgEQgDtqezDG%2FATkCFygoiN8copJ%2FhpqeUvo5pKKsy4qxeYHqFiKguk%2FJ4FfEUjdIRJTwfbvvE95Tey%2F7ZnxDw%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_FCRRWH8E97H3D33DG5AJ&channelId=704&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=3e1634eef894bed61343e94627e61294&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B07JZ124FK",
-            "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-            "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compa",
-            "price": "$22.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
-            "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
-          },
-          {
-            "asin": "B08TX1N211",
-            "slug": "wireless-earbuds-active-noise-cancelling",
-            "title": "Wireless Earbuds Active Noise Cancelling",
-            "price": "$25.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS.jpg",
-            "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -159,6 +162,50 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81UfocgtsmL.jpg",
           "url": "https://www.amazon.com/dp/B09MVCQ2VG?linkCode=sl2&tag=noya0b-20&linkId=ee19487caae380da21b42d9c1388c13e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08SL72G3P",
+          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Ha",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+        },
+        {
+          "asin": "B07HWPH1MP",
+          "slug": "gel-nail-polish-starter-kit-6-colors-gel-polish-set-base-top",
+          "title": "Gel Nail Polish Starter Kit - 6 Colors Gel Polish Set Base Top Coat, 36W LED Nail Dryer Lamp with Full DIY Gel Manicure",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61WJw+6tdNL.jpg",
+          "url": "https://www.amazon.com/dp/B07HWPH1MP?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C7ZM9VB8",
+          "slug": "all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss",
+          "title": "All in One Makeup Kit for Women Eyeshadow Eyeliner lipgloss, Lipstick Makeup brushes Mascara Eyebrow pencil Concealer Fa",
+          "price": "$24.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
+          "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
+        },
+        {
+          "asin": "B08724XVJ1",
+          "slug": "electric-razor-for-men6-in-1-usb-rechargeable-waterproof-5d",
+          "title": "Electric Razor for Men,6 in 1 USB Rechargeable Waterproof 5D Rotary Shaver Beard Trimmer Nose Hair Trimmer Wet and Dry E",
+          "price": "$36.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-q9iNA3gL.jpg",
+          "url": "https://www.amazon.com/dp/B08724XVJ1?tag=noya0b-20"
         },
         {
           "asin": "B07FLX6KPY",
@@ -203,56 +250,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71M37p-SuzL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0F59SZ1ZW?lv=shuf&rsd=6M0E8KYYcLUVE2RKegry70x1lFaYfBpH6RJSsPMO2jNVH9xd%2FkMUPfl5nsMtaCFQEeoZpQbZOYxpPm9NnuzacflggLGbdLu45XiA77P5yXsS3w%3D%3D&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFod1zANRs6OUVseibMhjJmAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMEGOaqpYwPFKLklewAgEQgDtqezDG%2FATkCFygoiN8copJ%2FhpqeUvo5pKKsy4qxeYHqFiKguk%2FJ4FfEUjdIRJTwfbvvE95Tey%2F7ZnxDw%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_FCRRWH8E97H3D33DG5AJ&channelId=704&plpRedirect=mhFallback&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=3e1634eef894bed61343e94627e61294&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08146763Z",
-          "slug": "ripple-protein-shake-coffee-12-oz-grocery-gourmet-food",
-          "title": "Ripple Protein Shake, Coffee, 12 oz : Grocery & Gourmet Food",
-          "price": "$3.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL.jpg",
-          "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C2WJHQLT",
-          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form –",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B07JZ124FK",
-          "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-          "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compa",
-          "price": "$22.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
-          "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
-        },
-        {
-          "asin": "B08TX1N211",
-          "slug": "wireless-earbuds-active-noise-cancelling",
-          "title": "Wireless Earbuds Active Noise Cancelling",
-          "price": "$25.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51dlibfR1uS.jpg",
-          "url": "https://www.amazon.com/dp/B08TX1N211?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 3, 2026?",
-          "a": "The best deals today include \"Blue Buffalo Wilderness Salmon Adult Dry Cat Food, Grain-Fre...\" and 9 other hand-picked discounts. Deals span Health, Other, Electronics and are updated daily."
+          "a": "The best deals today include \"Blue Buffalo Wilderness Salmon Adult Dry Cat Food, Grain-Fre...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Pet Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-03T16:30:03.760Z",
-      "updatedAt": "2026-09-03T16:30:03.760Z"
+      "generatedAt": "2026-09-03T16:40:03.596Z",
+      "updatedAt": "2026-09-03T16:40:03.597Z"
     },
     {
       "date": "2026-09-02",
@@ -16324,5 +16327,5 @@
       "updatedAt": "2026-07-07T03:50:02.215Z"
     }
   ],
-  "generatedAt": "2026-09-03T16:30:03.766Z"
+  "generatedAt": "2026-09-03T16:40:03.603Z"
 }
