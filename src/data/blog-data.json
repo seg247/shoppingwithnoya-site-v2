@@ -9,7 +9,9 @@
         "Other",
         "Pet Supplies",
         "Grocery & Food",
-        "Books & Media"
+        "Appliances",
+        "Garden & Outdoor",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Pet Supplies": [
@@ -23,17 +25,6 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/81RpOEKQwyL.jpg",
             "url": "https://www.amazon.com/Buffalo-Wilderness-Protein-Grain-Salmon/dp/B003J1RRV2?crid=11DMDGBS9CLIK&dib=eyJ2IjoiMSJ9.cnQ7382Ot9d4XwmWqSS3aS_mty1kbuXhXcu1Dpxu5BVEesHhmd7HJKbtOWzvvOf6DbXyeooKuw4DZt1dESdAGaaUIx0NRIRIqJdWb4gczNH-h9rSy1cGfPDJWnmfGpHyD-cefrqXdo6b8nK3O_X40Fx-bOeC4UPtItUzwA-hE2jhIHsIJ9YarkprcLMvI69PBjXT_5MOC0rSeXCoSimUBr_eGei_M2Mlmod5L492Vbh0hFi5viIA_8WHOKsg1jv_oizEz84ccJUxJ6prpvAJvlw5q1THPOy-86hEWpYACP4.98X9CyOK8gH4UnEuIWbE_nILJYHLkpMb3BS7-P800Ko&dib_tag=se&keywords=Blue%2Bbuffalo%2Bsalmon&qid=1788451376&rdc=1&sprefix=blue%2Bbuffalo%2Bsalmo%2Caps%2C258&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=sl2&tag=noya0b-20&linkId=3c91d3ccaca0e4e2e3acc987d0fceab5&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B009B87QOU",
-            "slug": "hills-science-diet-adult-6-large-breed-dry-dog-food-1-veteri",
-            "title": "Hill's Science Diet Adult 6+ Large Breed Dry Dog Food | #1 Veterinarian Recommended, Chicken Recipe, 33 lb. Bag : Pet Su",
-            "price": "$60",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B009B87QOU?ie=UTF8&ascsubtag=607001e0a7c111f18299fe8fffe0ab1b0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b34ed5328a2c537b186c89af65653bc&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -104,30 +95,45 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71KTLgyAplL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B0DXQ2F57R?tag=noya0b-20"
-          },
-          {
-            "asin": "B00NHM746Q",
-            "slug": "nuby-no-spill-soft-straw-easy-grip-sippy-cup-10-oz-3-pack-fo",
-            "title": "Nuby No-Spill Soft Straw Easy Grip Sippy Cup, 10 Oz - 3 Pack | for Girls - 12+ Months : Baby",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81MdYiYBE9L.jpg",
-            "url": "https://www.amazon.com/dp/B00NHM746Q?th=1&tag=noya0b-20"
           }
         ],
-        "Books & Media": [
+        "Appliances": [
           {
-            "asin": "B0FPF69K3D",
-            "slug": "gothic-birthday-card-funny-birthday-cupcake-card-happy-birth",
-            "title": "Gothic Birthday Card, Funny Birthday Cupcake Card, Happy Birthday Card for Men Women, Black Unique Bday Greeting Card Bi",
-            "price": "$2",
+            "asin": "B0CBP3VV3V",
+            "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+            "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heat",
+            "price": "$34.91",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Books & Media",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fJXMF+cvL.jpg",
-            "url": "https://www.amazon.com/dp/B0FPF69K3D?tag=noya0b-20"
+            "category": "Appliances",
+            "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
+            "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B09Z2FRNTK",
+            "slug": "navaris-desk-organizer-shelf-unit-desktop-shelves-for-table",
+            "title": "Navaris Desk Organizer Shelf Unit - Desktop Shelves for Table or Countertop - Free-Standing Adjustable Bamboo Shelving f",
+            "price": "$25.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Fh8f5FtVL.jpg",
+            "url": "https://www.amazon.com/dp/B09Z2FRNTK?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0D7PT6PZD",
+            "slug": "mattel-disney-and-pixar-cars-color-changers-car-wash-playset",
+            "title": "​Mattel Disney and Pixar Cars Color Changers Car Wash Playset | Includes Color Changing Lightning McQueen Toy Vehicle, 2",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81xBUOVlaHL.jpg",
+            "url": "https://www.amazon.com/dp/B0D7PT6PZD?tag=noya0b-20"
           }
         ]
       },
@@ -164,6 +170,39 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81UfocgtsmL.jpg",
           "url": "https://www.amazon.com/dp/B09MVCQ2VG?linkCode=sl2&tag=noya0b-20&linkId=ee19487caae380da21b42d9c1388c13e&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CBP3VV3V",
+          "slug": "space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+          "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heat",
+          "price": "$34.91",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Appliances",
+          "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
+          "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20"
+        },
+        {
+          "asin": "B09Z2FRNTK",
+          "slug": "navaris-desk-organizer-shelf-unit-desktop-shelves-for-table",
+          "title": "Navaris Desk Organizer Shelf Unit - Desktop Shelves for Table or Countertop - Free-Standing Adjustable Bamboo Shelving f",
+          "price": "$25.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Fh8f5FtVL.jpg",
+          "url": "https://www.amazon.com/dp/B09Z2FRNTK?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D7PT6PZD",
+          "slug": "mattel-disney-and-pixar-cars-color-changers-car-wash-playset",
+          "title": "​Mattel Disney and Pixar Cars Color Changers Car Wash Playset | Includes Color Changing Lightning McQueen Toy Vehicle, 2",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81xBUOVlaHL.jpg",
+          "url": "https://www.amazon.com/dp/B0D7PT6PZD?tag=noya0b-20"
         },
         {
           "asin": "B0HCDHVJC1",
@@ -208,39 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71KTLgyAplL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0DXQ2F57R?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FPF69K3D",
-          "slug": "gothic-birthday-card-funny-birthday-cupcake-card-happy-birth",
-          "title": "Gothic Birthday Card, Funny Birthday Cupcake Card, Happy Birthday Card for Men Women, Black Unique Bday Greeting Card Bi",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Books & Media",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fJXMF+cvL.jpg",
-          "url": "https://www.amazon.com/dp/B0FPF69K3D?tag=noya0b-20"
-        },
-        {
-          "asin": "B009B87QOU",
-          "slug": "hills-science-diet-adult-6-large-breed-dry-dog-food-1-veteri",
-          "title": "Hill's Science Diet Adult 6+ Large Breed Dry Dog Food | #1 Veterinarian Recommended, Chicken Recipe, 33 lb. Bag : Pet Su",
-          "price": "$60",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B009B87QOU?ie=UTF8&ascsubtag=607001e0a7c111f18299fe8fffe0ab1b0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b34ed5328a2c537b186c89af65653bc&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00NHM746Q",
-          "slug": "nuby-no-spill-soft-straw-easy-grip-sippy-cup-10-oz-3-pack-fo",
-          "title": "Nuby No-Spill Soft Straw Easy Grip Sippy Cup, 10 Oz - 3 Pack | for Girls - 12+ Months : Baby",
-          "price": "$7",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81MdYiYBE9L.jpg",
-          "url": "https://www.amazon.com/dp/B00NHM746Q?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-03T18:20:02.839Z",
-      "updatedAt": "2026-09-03T18:20:02.839Z"
+      "generatedAt": "2026-09-03T18:30:02.855Z",
+      "updatedAt": "2026-09-03T18:30:02.855Z"
     },
     {
       "date": "2026-09-02",
@@ -16318,5 +16324,5 @@
       "updatedAt": "2026-07-07T03:50:02.215Z"
     }
   ],
-  "generatedAt": "2026-09-03T18:20:02.844Z"
+  "generatedAt": "2026-09-03T18:30:02.862Z"
 }
