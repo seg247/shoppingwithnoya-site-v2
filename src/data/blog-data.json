@@ -9,8 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Fashion",
-        "Beauty"
+        "Beauty",
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -72,6 +72,19 @@
             "url": "https://www.amazon.com/dp/B00BT17YVC?th=1&linkCode=sl2&tag=noya0b-20&linkId=64e1daf8ffca90821c24b57064e8f423&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0GXSZC8RJ",
+            "slug": "-big-bold-lashes-mascara-black-smudge-proof-instant-volume-r",
+            "title": "\udecd️ Big, Bold Lashes Mascara, Black, Smudge Proof, Instant Volume, Rich Color",
+            "price": "$6.00",
+            "discount": 53,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Inl+UI1WL.jpg",
+            "url": "https://www.amazon.com/dp/B0GXSZC8RJ?linkCode=sl2&tag=noya0b-20&linkId=02a10386ee8c3436fb5c538c6a0af015&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B010A5J5FU",
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61TLZf875ML.jpg",
             "url": "https://www.amazon.com/dp/B000EWZXFQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=a5775977b570b6627d7b34f7fdec7a4e&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DMXJPM4T",
-            "slug": "-dyson-supersonic-nural-hair-dryer",
-            "title": "\udecd️ Dyson Supersonic Nural™ Hair Dryer",
-            "price": "$349.99",
-            "discount": 22,
-            "rating": "WARM",
-            "category": "Beauty",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DMXJPM4T?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6f95e763b8d35e880c246901cea64c6&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/716-pN13kmL.jpg",
           "url": "https://www.amazon.com/dp/B00BT17YVC?th=1&linkCode=sl2&tag=noya0b-20&linkId=64e1daf8ffca90821c24b57064e8f423&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0GXSZC8RJ",
+          "slug": "-big-bold-lashes-mascara-black-smudge-proof-instant-volume-r",
+          "title": "\udecd️ Big, Bold Lashes Mascara, Black, Smudge Proof, Instant Volume, Rich Color",
+          "price": "$6.00",
+          "discount": 53,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Inl+UI1WL.jpg",
+          "url": "https://www.amazon.com/dp/B0GXSZC8RJ?linkCode=sl2&tag=noya0b-20&linkId=02a10386ee8c3436fb5c538c6a0af015&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0BX5D3525",
@@ -233,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61TLZf875ML.jpg",
           "url": "https://www.amazon.com/dp/B000EWZXFQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=a5775977b570b6627d7b34f7fdec7a4e&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DMXJPM4T",
-          "slug": "-dyson-supersonic-nural-hair-dryer",
-          "title": "\udecd️ Dyson Supersonic Nural™ Hair Dryer",
-          "price": "$349.99",
-          "discount": 22,
-          "rating": "WARM",
-          "category": "Beauty",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DMXJPM4T?th=1&linkCode=sl2&tag=noya0b-20&linkId=d6f95e763b8d35e880c246901cea64c6&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-04T05:50:02.971Z",
-      "updatedAt": "2026-09-04T05:50:02.972Z"
+      "generatedAt": "2026-09-04T06:00:02.477Z",
+      "updatedAt": "2026-09-04T06:00:02.477Z"
     },
     {
       "date": "2026-09-03",
@@ -16315,5 +16315,5 @@
       "updatedAt": "2026-07-08T03:50:01.992Z"
     }
   ],
-  "generatedAt": "2026-09-04T05:50:02.978Z"
+  "generatedAt": "2026-09-04T06:00:02.486Z"
 }
