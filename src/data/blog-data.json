@@ -9,8 +9,9 @@
         "Other",
         "Home & Kitchen",
         "Beauty",
-        "Electronics",
-        "Sports & Fitness"
+        "Fashion",
+        "Sports & Fitness",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -46,6 +47,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71GHjxlhARL.jpg",
             "url": "https://www.amazon.com/dp/B0C5WSMD71?th=1&linkCode=sl2&tag=noya0b-20&linkId=3bae4325e2373a252d1883a16da60994&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0814Y1G6Z",
+            "slug": "-swarovski-infinity-heart-jewelry-collection-necklaces-and-b",
+            "title": "\udecd️ Swarovski Infinity Heart Jewelry Collection, Necklaces and Bracelets, Rose Gold & Rhodium Tone Finish, Clear Crystals",
+            "price": "$67.00",
+            "discount": 63,
+            "rating": "FIRE",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61TUdstYQgL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B0814Y1G6Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=94187d0d1d6baaa8a2da8df280a6953c&language=en_US&gaOptInStatus=true"
           }
         ],
         "Sports & Fitness": [
@@ -85,6 +99,19 @@
             "url": "https://www.amazon.com/dp/B0BT87J2JH?linkCode=sl2&tag=noya0b-20&linkId=89d1daa704e208d1f59cb6a9d4b7af48&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0CTMXFXNK",
+            "slug": "-gund-disney-winnie-the-pooh-and-piglet-10-inch-knit-plush-t",
+            "title": "\udecd️ GUND Disney Winnie the Pooh and Piglet 10-Inch Knit Plush Toy for Ages 1+",
+            "price": "$17.49",
+            "discount": 55,
+            "rating": "FIRE",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/812Zb57-fqL.jpg",
+            "url": "https://www.amazon.com/dp/B0CTMXFXNK?th=1&linkCode=sl2&tag=noya0b-20&linkId=0057c342541dde3c6cb6a344b0d3dd16&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0DHJ4R739",
@@ -108,30 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81Inl+UI1WL.jpg",
             "url": "https://www.amazon.com/dp/B0GXSZC8RJ?linkCode=sl2&tag=noya0b-20&linkId=02a10386ee8c3436fb5c538c6a0af015&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B073G2GXCZ",
-            "slug": "-puma-unisex-adult-contender-backpack-with-laptop-sleeve-ite",
-            "title": "\udecd️ PUMA unisex-adult Contender Backpack with Laptop Sleeve, Item Organizer & Media Pocket",
-            "price": "$19.26",
-            "discount": 52,
-            "rating": "FIRE",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WfV6ekykL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B073G2GXCZ?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e31d061a0c4d9acb43601764ac92e243&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09F6DZBX2",
-            "slug": "-dexnor-for-iphone-14-case-for-iphone-13-case-61-inch-built",
-            "title": "\udecd️ Dexnor for iPhone 14 Case for iPhone 13 Case 6.1 inch, [Built in Screen Protector and Kickstand] Heavy Duty Military ",
-            "price": "$17.97",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/716BmiwcSdL.jpg",
-            "url": "https://www.amazon.com/dp/B09F6DZBX2?th=1&linkCode=sl2&tag=noya0b-20&linkId=93903cd67591fa2bc2be4608ed88dc46&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -145,6 +148,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81pdkoyfOjL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B0G3WRT3JH?th=1&linkCode=sl2&tag=noya0b-20&linkId=b2c1fd9ad5bac863a7edeb61affd41d5&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0814Y1G6Z",
+          "slug": "-swarovski-infinity-heart-jewelry-collection-necklaces-and-b",
+          "title": "\udecd️ Swarovski Infinity Heart Jewelry Collection, Necklaces and Bracelets, Rose Gold & Rhodium Tone Finish, Clear Crystals",
+          "price": "$67.00",
+          "discount": 63,
+          "rating": "FIRE",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61TUdstYQgL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B0814Y1G6Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=94187d0d1d6baaa8a2da8df280a6953c&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0HFKB1Q4K",
@@ -167,6 +181,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/716-pN13kmL.jpg",
           "url": "https://www.amazon.com/dp/B00BT17YVC?th=1&linkCode=sl2&tag=noya0b-20&linkId=64e1daf8ffca90821c24b57064e8f423&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CTMXFXNK",
+          "slug": "-gund-disney-winnie-the-pooh-and-piglet-10-inch-knit-plush-t",
+          "title": "\udecd️ GUND Disney Winnie the Pooh and Piglet 10-Inch Knit Plush Toy for Ages 1+",
+          "price": "$17.49",
+          "discount": 55,
+          "rating": "FIRE",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/812Zb57-fqL.jpg",
+          "url": "https://www.amazon.com/dp/B0CTMXFXNK?th=1&linkCode=sl2&tag=noya0b-20&linkId=0057c342541dde3c6cb6a344b0d3dd16&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0DHJ4R739",
@@ -222,28 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71GHjxlhARL.jpg",
           "url": "https://www.amazon.com/dp/B0C5WSMD71?th=1&linkCode=sl2&tag=noya0b-20&linkId=3bae4325e2373a252d1883a16da60994&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B073G2GXCZ",
-          "slug": "-puma-unisex-adult-contender-backpack-with-laptop-sleeve-ite",
-          "title": "\udecd️ PUMA unisex-adult Contender Backpack with Laptop Sleeve, Item Organizer & Media Pocket",
-          "price": "$19.26",
-          "discount": 52,
-          "rating": "FIRE",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WfV6ekykL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B073G2GXCZ?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=e31d061a0c4d9acb43601764ac92e243&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09F6DZBX2",
-          "slug": "-dexnor-for-iphone-14-case-for-iphone-13-case-61-inch-built",
-          "title": "\udecd️ Dexnor for iPhone 14 Case for iPhone 13 Case 6.1 inch, [Built in Screen Protector and Kickstand] Heavy Duty Military ",
-          "price": "$17.97",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/716BmiwcSdL.jpg",
-          "url": "https://www.amazon.com/dp/B09F6DZBX2?th=1&linkCode=sl2&tag=noya0b-20&linkId=93903cd67591fa2bc2be4608ed88dc46&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-04T19:40:02.453Z",
-      "updatedAt": "2026-09-04T19:40:02.453Z"
+      "generatedAt": "2026-09-04T19:50:03.162Z",
+      "updatedAt": "2026-09-04T19:50:03.162Z"
     },
     {
       "date": "2026-09-03",
@@ -16315,5 +16318,5 @@
       "updatedAt": "2026-07-08T03:50:01.992Z"
     }
   ],
-  "generatedAt": "2026-09-04T19:40:02.459Z"
+  "generatedAt": "2026-09-04T19:50:03.168Z"
 }
