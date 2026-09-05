@@ -10,7 +10,7 @@
         "Home & Kitchen",
         "Fashion",
         "Beauty",
-        "Grocery & Food"
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Fashion": [
@@ -96,6 +96,19 @@
             "url": "https://www.amazon.com/dp/B0DQQ94KDQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=0b7f17e6350f5953b229f8992ff529c1&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0F2LZ1KRP",
+            "slug": "-carbon-steel-griddle-nonstick-grill-pan-for-gas-grill",
+            "title": "\udecd️ Carbon Steel Griddle, NonStick Grill Pan for Gas Grill",
+            "price": "$29.99",
+            "discount": 53,
+            "rating": "FIRE",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/41Tqcrrpn8L.jpg",
+            "url": "https://www.amazon.com/dp/B0F2LZ1KRP?linkCode=sl2&tag=noya0b-20&linkId=5ba4bb69de1e0ed8b9b0c3b2895ca4a1&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B08M9HPJD2",
@@ -118,19 +131,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71ALuytELEL.jpg",
             "url": "https://www.amazon.com/dp/B0BT87J2JH?linkCode=sl2&tag=noya0b-20&linkId=e97833899a0d44e2c743dcbb6012fc46&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0D14WDMSZ",
-            "slug": "-post-grape-nuts-original-breakfast-cereal-crunchy-whole-gra",
-            "title": "\udecd️ Post Grape Nuts Original Breakfast Cereal, Crunchy Whole Grain Wheat and Barley Cereal, Non-GMO Project Verified, 20.",
-            "price": "$10.22",
-            "discount": 52,
-            "rating": "FIRE",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81gwn9UjnWL.jpg",
-            "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -213,6 +213,17 @@
           "url": "https://www.amazon.com/dp/B01IHHLB3W?th=1&linkCode=sl2&tag=noya0b-20&linkId=0e1dc394ba53e813ff3b41cd622a8eff&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0F2LZ1KRP",
+          "slug": "-carbon-steel-griddle-nonstick-grill-pan-for-gas-grill",
+          "title": "\udecd️ Carbon Steel Griddle, NonStick Grill Pan for Gas Grill",
+          "price": "$29.99",
+          "discount": 53,
+          "rating": "FIRE",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Tqcrrpn8L.jpg",
+          "url": "https://www.amazon.com/dp/B0F2LZ1KRP?linkCode=sl2&tag=noya0b-20&linkId=5ba4bb69de1e0ed8b9b0c3b2895ca4a1&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B08M9HPJD2",
           "slug": "-feelyou-cat-unicorn-bed-sheet-set-cute-kitten-caticorn-cat",
           "title": "\udecd️ Feelyou Cat Unicorn Bed Sheet Set Cute Kitten Caticorn Cat Bed Sheets for Kids Boys Girls Cartoon Bedding Set Cute Fi",
@@ -233,17 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71ALuytELEL.jpg",
           "url": "https://www.amazon.com/dp/B0BT87J2JH?linkCode=sl2&tag=noya0b-20&linkId=e97833899a0d44e2c743dcbb6012fc46&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D14WDMSZ",
-          "slug": "-post-grape-nuts-original-breakfast-cereal-crunchy-whole-gra",
-          "title": "\udecd️ Post Grape Nuts Original Breakfast Cereal, Crunchy Whole Grain Wheat and Barley Cereal, Non-GMO Project Verified, 20.",
-          "price": "$10.22",
-          "discount": 52,
-          "rating": "FIRE",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81gwn9UjnWL.jpg",
-          "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-05T12:40:01.878Z",
-      "updatedAt": "2026-09-05T12:40:01.878Z"
+      "generatedAt": "2026-09-05T12:50:01.701Z",
+      "updatedAt": "2026-09-05T12:50:01.701Z"
     },
     {
       "date": "2026-09-04",
@@ -16318,5 +16318,5 @@
       "updatedAt": "2026-07-09T03:50:00.389Z"
     }
   ],
-  "generatedAt": "2026-09-05T12:40:01.884Z"
+  "generatedAt": "2026-09-05T12:50:01.706Z"
 }
