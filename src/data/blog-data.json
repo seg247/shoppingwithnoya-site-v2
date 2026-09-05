@@ -10,8 +10,7 @@
         "Other",
         "Toys & Kids",
         "Grocery & Food",
-        "Beauty",
-        "Fashion"
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -38,20 +37,18 @@
             "url": "https://www.amazon.com/dp/B0BVKGTYTG?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=523b94d5e29ecf8ac4fff73dfa6614f6&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Grocery & Food": [
-          {
-            "asin": "B0D14WDMSZ",
-            "slug": "-post-grape-nuts-original-breakfast-cereal-crunchy-whole-gra",
-            "title": "\udecd️ Post Grape Nuts Original Breakfast Cereal, Crunchy Whole Grain Wheat and Barley Cereal, Non-GMO Project Verified, 20.",
-            "price": "$10.22",
-            "discount": 52,
-            "rating": "FIRE",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81gwn9UjnWL.jpg",
-            "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0BT87J2JH",
+            "slug": "-genuine-fred-nesting-mushroom-measuring-cups-set-of-fun-and",
+            "title": "\udecd️ Genuine Fred Nesting Mushroom Measuring Cups, Set of Fun and Functional Kitchen Measuring Tools, Space-Saving Design ",
+            "price": "$7.47",
+            "discount": 53,
+            "rating": "FIRE",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ALuytELEL.jpg",
+            "url": "https://www.amazon.com/dp/B0BT87J2JH?linkCode=sl2&tag=noya0b-20&linkId=e97833899a0d44e2c743dcbb6012fc46&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0GR19VKXN",
             "slug": "-h98-510-s-tankless-water-heater-filter-kit-for-tankless-wat",
@@ -84,6 +81,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61dUp9hJuxL.jpg",
             "url": "https://www.amazon.com/dp/B07QJ37JFP?linkCode=sl2&tag=noya0b-20&linkId=de93675ee374367a35effc0813bdafa9&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0D14WDMSZ",
+            "slug": "-post-grape-nuts-original-breakfast-cereal-crunchy-whole-gra",
+            "title": "\udecd️ Post Grape Nuts Original Breakfast Cereal, Crunchy Whole Grain Wheat and Barley Cereal, Non-GMO Project Verified, 20.",
+            "price": "$10.22",
+            "discount": 52,
+            "rating": "FIRE",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81gwn9UjnWL.jpg",
+            "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
           }
         ],
         "Toys & Kids": [
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81Dm7+P5XqL.jpg",
             "url": "https://www.amazon.com/dp/B0D17L9LZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=685d037435c6355f3452f96f054a2bbb&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0DSLTRLFV",
-            "slug": "-champion-kids-fresh-insulated-lunch-tote-with-carry-handle",
-            "title": "\udecd️ Champion Kids' Fresh Insulated Lunch Tote with Carry Handle, No Leak Cooler Bag for Daily Use, Pink/Blue, One Size",
-            "price": "$10.78",
-            "discount": 46,
-            "rating": "HOT",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qDo+fesAL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DSLTRLFV?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a92a1df1ceb4204747ff778035eadff&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -148,6 +145,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71mokaB9KmL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B07WP86MJ2?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c5c9ff289ee5cb4669d71b9d0c19fa6b&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BT87J2JH",
+          "slug": "-genuine-fred-nesting-mushroom-measuring-cups-set-of-fun-and",
+          "title": "\udecd️ Genuine Fred Nesting Mushroom Measuring Cups, Set of Fun and Functional Kitchen Measuring Tools, Space-Saving Design ",
+          "price": "$7.47",
+          "discount": 53,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ALuytELEL.jpg",
+          "url": "https://www.amazon.com/dp/B0BT87J2JH?linkCode=sl2&tag=noya0b-20&linkId=e97833899a0d44e2c743dcbb6012fc46&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0D14WDMSZ",
@@ -236,17 +244,6 @@
           "category": "Toys & Kids",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00KCIZ5SM?th=1&linkCode=sl2&tag=noya0b-20&linkId=ab2ee18486567c7cdc1e2e6e0631df6f&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DSLTRLFV",
-          "slug": "-champion-kids-fresh-insulated-lunch-tote-with-carry-handle",
-          "title": "\udecd️ Champion Kids' Fresh Insulated Lunch Tote with Carry Handle, No Leak Cooler Bag for Daily Use, Pink/Blue, One Size",
-          "price": "$10.78",
-          "discount": 46,
-          "rating": "HOT",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qDo+fesAL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DSLTRLFV?th=1&linkCode=sl2&tag=noya0b-20&linkId=5a92a1df1ceb4204747ff778035eadff&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-05T07:00:01.461Z",
-      "updatedAt": "2026-09-05T07:00:01.461Z"
+      "generatedAt": "2026-09-05T07:10:01.931Z",
+      "updatedAt": "2026-09-05T07:10:01.931Z"
     },
     {
       "date": "2026-09-04",
@@ -16321,5 +16318,5 @@
       "updatedAt": "2026-07-09T03:50:00.389Z"
     }
   ],
-  "generatedAt": "2026-09-05T07:00:01.467Z"
+  "generatedAt": "2026-09-05T07:10:01.937Z"
 }
