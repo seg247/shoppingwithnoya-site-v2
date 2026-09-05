@@ -9,9 +9,9 @@
         "Home & Kitchen",
         "Other",
         "Grocery & Food",
+        "Automotive",
         "Garden & Outdoor",
-        "Electronics",
-        "Toys & Kids"
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -97,6 +97,19 @@
             "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Automotive": [
+          {
+            "asin": "B0D5F1HFY4",
+            "slug": "-premium-ceramic-coating-for-cars-with-uv-protection-16-oz-e",
+            "title": "\udecd️ Premium Ceramic Coating for Cars with UV Protection (16 oz) – Extremely Hydrophobic & Slick Car Wax Spray, Long-Lasti",
+            "price": "$9.99",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Automotive",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TomTj0acL.jpg",
+            "url": "https://www.amazon.com/dp/B0D5F1HFY4?th=1&linkCode=sl2&tag=noya0b-20&linkId=3411d2313b2710050d710bd18a4ce2c9&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0DPPQK26T",
@@ -121,19 +134,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/512LIabwwXL.jpg",
             "url": "https://www.amazon.com/dp/B09YM3V7NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=d4501845d4635381c74166dbab4384ab&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0GJ2Q8SCQ",
-            "slug": "-tsyan-montessori-silicone-ocean-animal-stacking-toy",
-            "title": "\udecd️ TSYAN Montessori Silicone Ocean Animal Stacking Toy",
-            "price": "$7.49",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71FRfuKLp-L.jpg",
-            "url": "https://www.amazon.com/dp/B0GJ2Q8SCQ?linkCode=sl2&tag=noya0b-20&linkId=86653b3d6f0157d5396c5a80207bfb1d&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0D5F1HFY4",
+          "slug": "-premium-ceramic-coating-for-cars-with-uv-protection-16-oz-e",
+          "title": "\udecd️ Premium Ceramic Coating for Cars with UV Protection (16 oz) – Extremely Hydrophobic & Slick Car Wax Spray, Long-Lasti",
+          "price": "$9.99",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Automotive",
+          "imageUrl": "https://m.media-amazon.com/images/I/71TomTj0acL.jpg",
+          "url": "https://www.amazon.com/dp/B0D5F1HFY4?th=1&linkCode=sl2&tag=noya0b-20&linkId=3411d2313b2710050d710bd18a4ce2c9&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0DPPQK26T",
           "slug": "-48-round-fire-pit-mat-for-solo-stove-under-grill-mat-for-ou",
           "title": "\udecd️ 48\" Round Fire Pit Mat for Solo Stove & Under Grill Mat for Outdoor Grill",
@@ -236,17 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/718lymAADYL.jpg",
           "url": "https://www.amazon.com/dp/B0GF1DDYSD?th=1&linkCode=sl2&tag=noya0b-20&linkId=2483b5c545dc45ca483bcf74848ee911&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GJ2Q8SCQ",
-          "slug": "-tsyan-montessori-silicone-ocean-animal-stacking-toy",
-          "title": "\udecd️ TSYAN Montessori Silicone Ocean Animal Stacking Toy",
-          "price": "$7.49",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/71FRfuKLp-L.jpg",
-          "url": "https://www.amazon.com/dp/B0GJ2Q8SCQ?linkCode=sl2&tag=noya0b-20&linkId=86653b3d6f0157d5396c5a80207bfb1d&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-05T10:30:01.830Z",
-      "updatedAt": "2026-09-05T10:30:01.830Z"
+      "generatedAt": "2026-09-05T10:40:02.154Z",
+      "updatedAt": "2026-09-05T10:40:02.154Z"
     },
     {
       "date": "2026-09-04",
@@ -16321,5 +16321,5 @@
       "updatedAt": "2026-07-09T03:50:00.389Z"
     }
   ],
-  "generatedAt": "2026-09-05T10:30:01.835Z"
+  "generatedAt": "2026-09-05T10:40:02.165Z"
 }
