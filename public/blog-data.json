@@ -9,8 +9,8 @@
         "Home & Kitchen",
         "Other",
         "Grocery & Food",
-        "Toys & Kids",
-        "Beauty"
+        "Electronics",
+        "Toys & Kids"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B09YM3V7NX",
+            "slug": "-anker-usb-c-cable-40-gbps-usb-4-data-cable-thunderbolt-43-8",
+            "title": "\udecd️ Anker USB C Cable, 40 Gbps USB 4 Data Cable, Thunderbolt 4/3, 8K HD Display",
+            "price": "$29.99",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/512LIabwwXL.jpg",
+            "url": "https://www.amazon.com/dp/B09YM3V7NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=d4501845d4635381c74166dbab4384ab&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0GJ2Q8SCQ",
@@ -118,19 +131,6 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/71FRfuKLp-L.jpg",
             "url": "https://www.amazon.com/dp/B0GJ2Q8SCQ?linkCode=sl2&tag=noya0b-20&linkId=86653b3d6f0157d5396c5a80207bfb1d&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0D17L9LZ9",
-            "slug": "-360-rotating-makeup-organizer-cosmetics-lazy-susan-spinning",
-            "title": "\udecd️ 360 Rotating Makeup Organizer, Cosmetics Lazy Susan Spinning Skincare Storage for Vanity, Turntable Perfume Trays for",
-            "price": "$9.99",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Dm7+P5XqL.jpg",
-            "url": "https://www.amazon.com/dp/B0D17L9LZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=685d037435c6355f3452f96f054a2bbb&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -178,6 +178,17 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81gwn9UjnWL.jpg",
           "url": "https://www.amazon.com/dp/B0D14WDMSZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=2f6a48c1634e66e5c06285c953c6b22d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09YM3V7NX",
+          "slug": "-anker-usb-c-cable-40-gbps-usb-4-data-cable-thunderbolt-43-8",
+          "title": "\udecd️ Anker USB C Cable, 40 Gbps USB 4 Data Cable, Thunderbolt 4/3, 8K HD Display",
+          "price": "$29.99",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/512LIabwwXL.jpg",
+          "url": "https://www.amazon.com/dp/B09YM3V7NX?th=1&linkCode=sl2&tag=noya0b-20&linkId=d4501845d4635381c74166dbab4384ab&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0GR19VKXN",
@@ -233,17 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61dUp9hJuxL.jpg",
           "url": "https://www.amazon.com/dp/B07QJ37JFP?linkCode=sl2&tag=noya0b-20&linkId=de93675ee374367a35effc0813bdafa9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D17L9LZ9",
-          "slug": "-360-rotating-makeup-organizer-cosmetics-lazy-susan-spinning",
-          "title": "\udecd️ 360 Rotating Makeup Organizer, Cosmetics Lazy Susan Spinning Skincare Storage for Vanity, Turntable Perfume Trays for",
-          "price": "$9.99",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81Dm7+P5XqL.jpg",
-          "url": "https://www.amazon.com/dp/B0D17L9LZ9?th=1&linkCode=sl2&tag=noya0b-20&linkId=685d037435c6355f3452f96f054a2bbb&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-05T07:50:01.860Z",
-      "updatedAt": "2026-09-05T07:50:01.860Z"
+      "generatedAt": "2026-09-05T08:00:01.625Z",
+      "updatedAt": "2026-09-05T08:00:01.625Z"
     },
     {
       "date": "2026-09-04",
@@ -16318,5 +16318,5 @@
       "updatedAt": "2026-07-09T03:50:00.389Z"
     }
   ],
-  "generatedAt": "2026-09-05T07:50:01.866Z"
+  "generatedAt": "2026-09-05T08:00:01.631Z"
 }
