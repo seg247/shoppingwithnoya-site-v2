@@ -9,9 +9,9 @@
         "Makeup",
         "Skincare",
         "Beauty",
+        "Body Care",
         "Fragrance",
-        "Hair Care",
-        "Body Care"
+        "Hair Care"
       ],
       "bySubcat": {
         "Makeup": [
@@ -57,16 +57,6 @@
           }
         ],
         "Skincare": [
-          {
-            "asin": "B091D648LZ",
-            "slug": "-loreal-paris-infallible-pro-gloss-plump-lip-gloss-with-hyal",
-            "title": "\udecd️ L'Oreal Paris Infallible Pro Gloss Plump Lip Gloss with Hyaluronic Acid, Long Lasting Plumping Shine, Lips Look Insta",
-            "discount": 46,
-            "rating": "HOT",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/618cfMBfUDS.jpg",
-            "url": "https://www.amazon.com/dp/B091D648LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=bac74031fdfd0fd46bb5491ac867986d&language=en_US&gaOptInStatus=true"
-          },
           {
             "asin": "B0044B4HSM",
             "slug": "-blistex-medicated-lip-balm-spf-15-24-hr-moisture-015-oz-3-c",
@@ -270,6 +260,28 @@
             "url": "https://www.amazon.com/dp/B07N2HRKRV?th=1&tag=noya0b-20"
           }
         ],
+        "Body Care": [
+          {
+            "asin": "B0FYDLNJ1B",
+            "slug": "moroccanoil-lip-balm-trio-kit-everything-else",
+            "title": "Moroccanoil Lip Balm Trio Kit : Everything Else",
+            "discount": 30,
+            "rating": "HOT",
+            "subcat": "Body Care",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FYDLNJ1B?th=1&tag=noya0b-20"
+          },
+          {
+            "asin": "B0BWBTF7FV",
+            "slug": "-cordless-electric-razor-head-shaver-for-men-bald-head-shave",
+            "title": "\udecd️ Cordless Electric Razor & Head Shaver for Men, Bald Head Shavers, 3D Rotary",
+            "discount": 16,
+            "rating": "GOOD",
+            "subcat": "Body Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/81TFwKaO8zL.jpg",
+            "url": "https://www.amazon.com/dp/B0BWBTF7FV?linkCode=sl2&tag=noya0b-20&linkId=ad0c18f1f4ac8c360aaee2eae2f6f11f&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fragrance": [
           {
             "asin": "B0GKPLFC7S",
@@ -313,18 +325,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41-YmIvAY4L.jpg",
             "url": "https://www.amazon.com/dp/B0DF3Y5133?linkCode=sl2&tag=noya0b-20&linkId=8d05415fdba089f1e640b3a3699bc6b8&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Body Care": [
-          {
-            "asin": "B0BWBTF7FV",
-            "slug": "-cordless-electric-razor-head-shaver-for-men-bald-head-shave",
-            "title": "\udecd️ Cordless Electric Razor & Head Shaver for Men, Bald Head Shavers, 3D Rotary",
-            "discount": 16,
-            "rating": "GOOD",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/81TFwKaO8zL.jpg",
-            "url": "https://www.amazon.com/dp/B0BWBTF7FV?linkCode=sl2&tag=noya0b-20&linkId=ad0c18f1f4ac8c360aaee2eae2f6f11f&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -347,16 +347,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61zybOdPsSL.jpg",
           "url": "https://www.amazon.com/dp/B0FCFL632X?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B091D648LZ",
-          "slug": "-loreal-paris-infallible-pro-gloss-plump-lip-gloss-with-hyal",
-          "title": "\udecd️ L'Oreal Paris Infallible Pro Gloss Plump Lip Gloss with Hyaluronic Acid, Long Lasting Plumping Shine, Lips Look Insta",
-          "discount": 46,
-          "rating": "HOT",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/618cfMBfUDS.jpg",
-          "url": "https://www.amazon.com/dp/B091D648LZ?th=1&linkCode=sl2&tag=noya0b-20&linkId=bac74031fdfd0fd46bb5491ac867986d&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0044B4HSM",
@@ -417,6 +407,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/71qxJZOJd-L.jpg",
           "url": "https://www.amazon.com/dp/B078S8GM25?th=1&linkCode=sl2&tag=noya0b-20&linkId=cec2ab787b401f64340267122c5d7b59&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0FYDLNJ1B",
+          "slug": "moroccanoil-lip-balm-trio-kit-everything-else",
+          "title": "Moroccanoil Lip Balm Trio Kit : Everything Else",
+          "discount": 30,
+          "rating": "HOT",
+          "subcat": "Body Care",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FYDLNJ1B?th=1&tag=noya0b-20"
         },
         {
           "asin": "B01NALN8Q9",
@@ -650,7 +650,7 @@
         },
         {
           "q": "What skincare products are on sale today?",
-          "a": "Today's skincare deals include \udecd️ L'Oreal Paris Infallible Pro Gloss Plump Lip Gl and \udecd️ Blistex Medicated Lip Balm SPF 15, 24 Hr Moistu. Check the full list above for current prices."
+          "a": "Today's skincare deals include \udecd️ Blistex Medicated Lip Balm SPF 15, 24 Hr Moistu and \udecd️ Attitude Unscented Face Sunscreen SPF 30, 20 GR. Check the full list above for current prices."
         },
         {
           "q": "Are there any makeup deals today?",
@@ -665,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-08T23:20:04.550Z",
-      "updatedAt": "2026-09-08T23:20:04.551Z"
+      "generatedAt": "2026-09-08T23:30:04.363Z",
+      "updatedAt": "2026-09-08T23:30:04.363Z"
     },
     {
       "date": "2026-09-07",
@@ -40006,5 +40006,5 @@
       "updatedAt": "2026-07-12T03:50:04.020Z"
     }
   ],
-  "generatedAt": "2026-09-08T23:20:04.573Z"
+  "generatedAt": "2026-09-08T23:30:04.379Z"
 }
