@@ -1,5 +1,44 @@
 ---
-// /blog — dynamic blog index, loads blog-data.json at runtime
+// /blog — deal roundup index. PRERENDERED.
+// Previously this fetched blog-data.json client-side, so crawlers received only
+// "Loading posts..." and all 60 roundups were invisible to search and to social
+// unfurlers. Data is now imported at build time and the list is real HTML.
+import blogData from '../../data/blog-data.json';
+
+const posts = (blogData.posts || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+
+const fmtLong = (d: string) =>
+  new Date(d + 'T12:00:00').toLocaleDateString('en-US', {
+    weekday: 'long', month: 'long', day: 'numeric', year: 'numeric',
+  });
+
+const latest = posts[0];
+
+const metaDesc =
+  'Daily deal roundups from Shopping With Noya — ' +
+  posts.length +
+  ' archived days of hand-picked discounts' +
+  (latest ? ', updated ' + fmtLong(latest.date) : '') +
+  '. Never pay full price again.';
+
+// ItemList so Google can see this is a real archive of dated roundups.
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Deal Blog — Shopping With Noya',
+  description: 'Daily deal roundups — hand-picked savings updated every day.',
+  url: 'https://deals.shoppingwithnoya.com/blog/',
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: posts.length,
+    itemListElement: posts.slice(0, 30).map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `https://deals.shoppingwithnoya.com/blog/${p.slug}/`,
+      name: p.title,
+    })),
+  },
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +46,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Deal Blog — Shopping With Noya</title>
-  <meta name="description" content="Daily deal roundups, top savings, and hand-picked discounts updated every day. Never miss a deal from Shopping With Noya." />
+  <meta name="description" content={metaDesc} />
   <meta name="keywords" content="daily deals, deal roundup, best deals today, shopping deals, affiliate deals, discount roundup" />
   <link rel="canonical" href="https://deals.shoppingwithnoya.com/blog/" />
   <meta property="og:title" content="Deal Blog — Shopping With Noya" />
@@ -73,6 +112,7 @@
     .disclaimer { font-size: 0.72rem; opacity: 0.5; margin-top: 6px; }
     a { color: var(--cyan); text-decoration: none; }
   </style>
+  <script type="application/ld+json" set:html={jsonLd} />
 </head>
 <body>
 
@@ -87,7 +127,19 @@
     <h1>📝 Deal Blog</h1>
     <p class="subtitle">Daily deal roundups — hand-picked savings updated every day.</p>
     <div class="post-list" id="post-list">
-      <div class="loading">Loading posts...</div>
+      {posts.length === 0 && <div class="loading">No posts yet — check back soon!</div>}
+      {posts.map((p) => (
+        <a href={`/blog/${p.slug}/`} class="post-card">
+          <div>
+            <div class="post-title">{p.title}</div>
+            <div class="post-meta">{(p.deals || []).length} deals · {fmtLong(p.date)}</div>
+            <div class="post-cats">
+              {(p.categories || []).slice(0, 4).map((c) => <span class="cat-tag">{c}</span>)}
+            </div>
+          </div>
+          <div class="post-arrow">›</div>
+        </a>
+      ))}
     </div>
   </div>
 
@@ -99,33 +151,6 @@
     </div>
   </footer>
 
-  <script>
-    async function loadBlog() {
-      const list = document.getElementById('post-list');
-      try {
-        const res = await fetch('/blog-data.json?t=' + Date.now());
-        if (!res.ok) throw new Error('Not found');
-        const data = await res.json();
-        const posts = data.posts || [];
-        if (posts.length === 0) {
-          list.innerHTML = '<div class="loading">No posts yet — check back soon!</div>';
-          return;
-        }
-        list.innerHTML = posts.map(p => `
-          <a href="/blog/${p.slug}/" class="post-card">
-            <div>
-              <div class="post-title">${p.title}</div>
-              <div class="post-meta">${p.deals.length} deals · ${new Date(p.date + 'T12:00:00').toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' })}</div>
-              <div class="post-cats">${(p.categories || []).slice(0,4).map(c => `<span class="cat-tag">${c}</span>`).join('')}</div>
-            </div>
-            <div class="post-arrow">›</div>
-          </a>`).join('');
-      } catch (e) {
-        list.innerHTML = '<div class="loading">Could not load posts. Try refreshing.</div>';
-      }
-    }
-    loadBlog();
-  </script>
 
 </body>
 </html>
