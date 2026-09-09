@@ -13,9 +13,15 @@ const { deal } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const canonicalUrl = `https://deals.shoppingwithnoya.com/deals/${deal.slug}`;
 
-const imgUrl = deal.asin
-  ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`
-  : null;
+// Prefer the real CDN URL the scraper captured. The legacy
+// images-na.ssl-images-amazon.com/images/P/{ASIN} endpoint is unofficial and
+// answers HTTP 200 with a 43-byte blank pixel when it has no image for an ASIN
+// -- measured 8/12 blank on a live sample, so the page silently showed nothing
+// and the og:image/JSON-LD advertised an empty picture.
+const imgUrl = deal.imageUrl
+  || (deal.asin
+    ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`
+    : null);
 
 const pageTitle = `${deal.title} — ${deal.discount > 0 ? deal.discount + '% Off ' : ''}Deal | Shopping With Noya`;
 const pageDesc = deal.discount > 0
