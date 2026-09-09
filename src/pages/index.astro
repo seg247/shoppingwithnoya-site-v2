@@ -1020,7 +1020,7 @@ const timeAgoSSR = (ts) => {
 
   <script define:vars={{ base }}>
     // Round to nearest 10 minutes to match push frequency, busts CDN cache on each push
-    const cacheBust = Math.floor(Date.now() / 600000);
+    const cacheBust = Date.now();
     const DATA_URL = `${base}/site-data.json?v=${cacheBust}`;
 
     let allDeals = [];
@@ -1187,7 +1187,7 @@ const timeAgoSSR = (ts) => {
     // Fetch. Do NOT call renderSkeletons() here — the grid already holds
     // server-rendered cards, and replacing them with skeletons would flash
     // empty boxes over real content on every load.
-    fetch(DATA_URL)
+    fetch(DATA_URL, { cache: 'no-store' })
       .then(r => r.json())
       .then(data => {
         allDeals = data.posts || [];
