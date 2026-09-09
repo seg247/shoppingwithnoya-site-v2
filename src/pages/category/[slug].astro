@@ -144,36 +144,38 @@ const breadcrumbLd = JSON.stringify({
   ],
 });
 
+// FAQ content, rendered BOTH as schema and as visible markup below.
+// Previously this existed only as JSON-LD, describing Q&A that appeared nowhere
+// on the page — Google expects FAQPage markup to reflect visible content.
+const faqs = [
+  {
+    q: `Where can I find the best ${category.toLowerCase()} deals today?`,
+    a: `Shopping With Noya tracks ${category.toLowerCase()} deals daily. There are currently ${deals.length} live discounts on this page, sorted by how deep the discount is.`,
+  },
+  {
+    q: `How often are ${category.toLowerCase()} deals updated?`,
+    a: 'Deals are sourced continuously and this page refreshes every 10 minutes. Prices move fast, so anything listed here was checked recently.',
+  },
+  {
+    q: 'Do these deals cost extra to use?',
+    a: 'No. Links on this page are affiliate links, which means we may earn a commission if you buy — at no additional cost to you. The price you pay is the same either way.',
+  },
+  {
+    q: `What kinds of ${category.toLowerCase()} products get posted?`,
+    a: `${meta.blurb} Every deal is checked for a real discount against its usual price before it appears here.`,
+  },
+];
+
 const faqLd = JSON.stringify({
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: [
-    {
-      '@type': 'Question',
-      name: `Where can I find the best ${category.toLowerCase()} deals today?`,
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: `Shopping With Noya tracks ${category.toLowerCase()} deals daily at ${canonicalUrl}. There are currently ${deals.length} live discounts on this page, sorted by how deep the discount is.`,
-      },
-    },
-    {
-      '@type': 'Question',
-      name: `How often are ${category.toLowerCase()} deals updated?`,
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Deals are sourced continuously and this page refreshes hourly. Prices move fast, so anything listed here was verified within the last hour.',
-      },
-    },
-    {
-      '@type': 'Question',
-      name: 'Do these deals cost extra to use?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'No. Links on this page are affiliate links, which means we may earn a commission if you buy — at no additional cost to you. The price you pay is the same either way.',
-      },
-    },
-  ],
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
 });
+
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -222,6 +224,14 @@ const faqLd = JSON.stringify({
     .crumb a:hover{color:var(--cyan)}
     .hero{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:2rem;margin-bottom:1.5rem}
     .hero h1{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.2;margin-bottom:.75rem}
+    .sec-h{font-size:1.15rem;margin:2.5rem 0 .4rem;color:var(--cyan,#00d4ff)}
+    .sec-sub{color:var(--muted);max-width:70ch;margin-bottom:1.1rem;font-size:.9rem}
+    .faq{margin-top:1rem}
+    .faq-item{background:var(--surface,#13131a);border:1px solid var(--border,rgba(255,255,255,.08));border-radius:12px;padding:.9rem 1.1rem;margin-bottom:.6rem}
+    .faq-item h3{font-size:.95rem;margin-bottom:.35rem}
+    .faq-item p{color:var(--muted);font-size:.88rem;line-height:1.6}
+    .more-links a{color:var(--cyan,#00d4ff);text-decoration:none;font-size:.9rem}
+    .more-links a:hover{text-decoration:underline}
     .hero-intro{color:var(--muted);max-width:70ch}
     .stats{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:1.25rem;font-size:.85rem}
     .stat b{display:block;font-size:1.4rem;color:var(--cyan)}
@@ -264,7 +274,7 @@ const faqLd = JSON.stringify({
       <div class="stats">
         <div class="stat"><b>{deals.length}</b><span>live deals</span></div>
         {topDiscount > 0 && <div class="stat"><b>{topDiscount}%</b><span>biggest discount</span></div>}
-        <div class="stat"><b>Hourly</b><span>refresh</span></div>
+        <div class="stat"><b>10 min</b><span>refresh</span></div>
       </div>
     </div>
 
@@ -276,6 +286,12 @@ const faqLd = JSON.stringify({
         ))}
       </nav>
     )}
+
+    <h2 class="sec-h">Today's best {category.toLowerCase()} deals</h2>
+    <p class="sec-sub">
+      {deals.length} live {category.toLowerCase()} discounts, sorted by how deep the
+      saving is. Tap any deal for full details.
+    </p>
 
     <div class="grid">
       {deals.map((d) => (
@@ -295,6 +311,29 @@ const faqLd = JSON.stringify({
         </a>
       ))}
     </div>
+
+    <section class="faq" aria-labelledby="faq-h">
+      <h2 class="sec-h" id="faq-h">{category} deals: common questions</h2>
+      {faqs.map((f) => (
+        <div class="faq-item">
+          <h3>{f.q}</h3>
+          <p>{f.a}</p>
+        </div>
+      ))}
+    </section>
+
+    <section class="more" aria-labelledby="more-h">
+      <h2 class="sec-h" id="more-h">Browse more deals</h2>
+      <p class="sec-sub">
+        Not finding it here? The full feed carries every live deal across all
+        categories, and the daily roundup collects the best of each day.
+      </p>
+      <p class="more-links">
+        <a href="/">All live deals</a> &nbsp;·&nbsp;
+        <a href="/blog/">Daily deal roundups</a> &nbsp;·&nbsp;
+        <a href="/about/">How deals are chosen</a>
+      </p>
+    </section>
   </main>
 
   <footer>
