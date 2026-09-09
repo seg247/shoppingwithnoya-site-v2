@@ -176,9 +176,10 @@ const shopCategories = CATEGORY_LINKS
     /* SEARCH BAR — standalone below hero */
     .search-wrap {
       max-width: 640px;
-      margin: 1.5rem auto 1.25rem;
+      margin: 1.5rem auto 1rem;
       padding: 0 1rem;
       position: relative;
+      z-index: 2;
     }
     .search-icon {
       position: absolute;
@@ -781,12 +782,17 @@ const shopCategories = CATEGORY_LINKS
     footer a { color: var(--text-sec); text-decoration: none; }
     footer a:hover { color: var(--pink); }
   
-    .shop-cats{display:flex;align-items:center;gap:8px;flex-wrap:wrap;max-width:1200px;margin:0 auto 14px;padding:0 24px}
-    .shop-cats-label{font-size:.8rem;color:var(--text-muted,#8888a0);margin-right:2px}
-    .shop-cat{display:inline-flex;align-items:center;gap:6px;padding:7px 13px;border-radius:999px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.09);font-size:.83rem;color:inherit;text-decoration:none;transition:border-color .15s,background .15s}
-    .shop-cat:hover{background:rgba(255,255,255,.08);border-color:#ff3cac}
+    /* Shop-by-category strip. One horizontally scrollable row rather than a
+       wrapping block — wrapping produced three stacked rows on mobile that
+       collided with the search field above it. */
+    .shop-cats{position:relative;z-index:1;max-width:1200px;margin:0 auto 18px;padding:0 24px;clear:both}
+    .shop-cats-label{display:block;font-size:.78rem;color:var(--text-muted,#8888a0);margin-bottom:8px}
+    .shop-cats-scroll{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch}
+    .shop-cats-scroll::-webkit-scrollbar{display:none}
+    .shop-cat{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;white-space:nowrap;padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);font-size:.83rem;color:inherit;text-decoration:none;transition:border-color .15s,background .15s}
+    .shop-cat:hover{background:rgba(255,255,255,.09);border-color:#ff3cac}
     .shop-cat em{font-style:normal;font-size:.72rem;opacity:.55}
-    @media(max-width:560px){.shop-cats{padding:0 16px}.shop-cats-label{width:100%;margin-bottom:2px}}
+    @media(max-width:560px){.shop-cats{padding:0 16px;margin-bottom:14px}}
 </style>
 </head>
 <body>
@@ -820,23 +826,27 @@ const shopCategories = CATEGORY_LINKS
   </div>
 
   <!-- SEARCH BAR -->
-  <!-- Shop by category — static links so the /category/* pages are crawlable.
-       The filter pills below are client-side only and invisible to search. -->
-  {shopCategories.length > 0 && (
-    <nav class="shop-cats" aria-label="Shop by category">
-      <span class="shop-cats-label">Shop by category:</span>
-      {shopCategories.map((c) => (
-        <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
-      ))}
-    </nav>
-  )}
-
-
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
     <input type="text" id="search-input" placeholder="Search deals... (e.g. headphones, coffee maker)" autocomplete="off" />
     <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
   </div>
+
+  <!-- Shop by category — static links so the /category/* pages are crawlable.
+       The filter pills below are client-side only and invisible to search.
+       Sits BELOW the search box: above it, the three wrapped rows collided with
+       the search field on narrow screens. -->
+  {shopCategories.length > 0 && (
+    <nav class="shop-cats" aria-label="Shop by category">
+      <span class="shop-cats-label">Shop by category:</span>
+      <div class="shop-cats-scroll">
+        {shopCategories.map((c) => (
+          <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
+        ))}
+      </div>
+    </nav>
+  )}
+
 
   <!-- FILTER CHIPS -->
   <div class="chips-wrap">
