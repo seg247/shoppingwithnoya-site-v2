@@ -47,6 +47,26 @@ export async function getStaticPaths() {
       blurb: 'Patio, plants, grilling and yard gear. Outdoor prices are seasonal — these are the moments to buy.',
       keywords: 'garden deals, outdoor deals, patio deals, grill deals, lawn deals',
     },
+    'Health': {
+      emoji: '💊',
+      blurb: 'Vitamins, supplements, first aid and the things you only shop for when you need them. Worth stocking up while the price is right.',
+      keywords: 'health deals, vitamin deals, supplement deals, wellness deals, first aid deals',
+    },
+    'Toys & Kids': {
+      emoji: '🧸',
+      blurb: 'Toys, games, baby gear and everything kids outgrow too fast. Birthday and holiday shopping is cheaper when you plan ahead.',
+      keywords: 'toy deals, kids deals, baby deals, game deals, childrens deals',
+    },
+    'Cleaning Supplies': {
+      emoji: '🧹',
+      blurb: 'Laundry, paper goods, wipes and cleaners. Boring to buy, expensive at full price — these are the bulk moments worth catching.',
+      keywords: 'cleaning deals, laundry deals, paper towel deals, household supply deals',
+    },
+    'Pet Supplies': {
+      emoji: '🐾',
+      blurb: 'Food, treats, beds and toys for dogs and cats. The recurring costs of a pet add up — these are the ones worth stockpiling.',
+      keywords: 'pet deals, dog deals, cat deals, pet food deals, pet supply deals',
+    },
   };
 
   const slugify = (c) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
