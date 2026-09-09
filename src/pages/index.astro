@@ -32,6 +32,42 @@ const catCounts = (() => {
 const shopCategories = CATEGORY_LINKS
   .map((c) => ({ ...c, count: catCounts[c.name] || 0 }))
   .filter((c) => c.count >= 12);
+
+// Server-rendered deal cards.
+//
+// The grid is populated client-side from site-data.json, so before this the
+// homepage shipped ZERO href="/deals/..." links: no internal link equity
+// reached the 500 deal pages, and AI answer engines (which do not run JS) saw
+// a page claiming "500 deals live" and listing none.
+//
+// These cards render in static HTML and link to the internal deal page rather
+// than straight out to Amazon, so the homepage actually feeds its own site.
+// The client script replaces the grid once site-data.json loads, so filtering
+// and search behave exactly as before.
+const SSR_COUNT = 60;
+
+const ssrDeals = (siteData.posts || [])
+  .filter((d) => {
+    if (!d.expiresAt) return true;
+    const days = (Date.now() - new Date(d.expiresAt + 'T23:59:59').getTime()) / 864e5;
+    return days <= 3;
+  })
+  .slice(0, SSR_COUNT);
+
+const cleanTitleSSR = (t) =>
+  (t || '')
+    .replace(/^[^\w$]+/, '')
+    .replace(/\s+/g, ' ')
+    .trim() || 'Amazon Deal';
+
+const timeAgoSSR = (ts) => {
+  const mins = Math.floor((Date.now() - new Date(ts).getTime()) / 60000);
+  if (mins < 60) return mins + 'm ago';
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return hrs + 'h ago';
+  return Math.floor(hrs / 24) + 'd ago';
+};
+
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -821,7 +857,7 @@ const shopCategories = CATEGORY_LINKS
     <h1 class="visually-hidden">Shopping With Noya — Best Deals Updated Daily</h1>
     <div class="hero-strip-left">
       <span class="hero-strip-title">Best Deals, Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></span>
-      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">—</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
+      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">{(siteData.posts || []).length}</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
     </div>
   </div>
 
@@ -881,20 +917,31 @@ const shopCategories = CATEGORY_LINKS
   <section class="deals-section">
     <div class="section-header">
       <h2 class="section-title">Latest Deals</h2>
-      <span class="deal-count" id="deal-count">Loading...</span>
+      <span class="deal-count" id="deal-count">{(siteData.posts || []).length} deals</span>
     </div>
     <div class="deals-grid" id="deals-grid">
-      <!-- skeletons injected by JS -->
-    </div>
-  </section>
-
-  <!-- TG BANNER -->
-  <div class="tg-banner">
-    <h2>Never Miss a Deal 🔥</h2>
-    <p>Join 1000s of smart shoppers getting the best deals delivered instantly to their Telegram.</p>
-    <a href="https://t.me/shoppingwithnoya" class="tg-banner-btn" target="_blank" rel="noopener">
-      📲 Join @shoppingwithnoya — It's Free
-    </a>
+    {ssrDeals.map((d) => (
+      <a href={`/deals/${d.slug}/`} class={`deal-card${d.imageUrl ? '' : ' no-img'}`}>
+        {d.imageUrl && (
+          <div class="card-image-wrap">
+            <img src={d.imageUrl} alt={cleanTitleSSR(d.title)} loading="lazy" width="300" height="300" />
+            {d.discount > 0 && (
+              <div class={`discount-badge ${d.discount >= 60 ? 'fire' : d.discount >= 40 ? 'hot' : ''}`}>-{d.discount}%</div>
+            )}
+          </div>
+        )}
+        <div class="card-body">
+          {d.category && <span class="cat-chip">{d.category.substring(0, 20)}</span>}
+          <p class="card-title">{cleanTitleSSR(d.title)}</p>
+          {d.discount > 0 && (
+            <div class="card-price-row"><span class="price-savings">-{d.discount}% off</span></div>
+          )}
+          <div class="card-footer">
+            <span class="card-meta">{timeAgoSSR(d.ts)}</span>
+          </div>
+        </div>
+      </a>
+    ))}
   </div>
 
   <!-- BOUTIQUE BANNER -->
@@ -1093,8 +1140,9 @@ const shopCategories = CATEGORY_LINKS
       grid.innerHTML = filtered.map((d, i) => renderCard(d, i)).join('');
     }
 
-    // Fetch
-    renderSkeletons();
+    // Fetch. Do NOT call renderSkeletons() here — the grid already holds
+    // server-rendered cards, and replacing them with skeletons would flash
+    // empty boxes over real content on every load.
     fetch(DATA_URL)
       .then(r => r.json())
       .then(data => {
