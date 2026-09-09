@@ -825,6 +825,8 @@ const timeAgoSSR = (ts) => {
     .shop-cats-label{display:block;font-size:.78rem;color:var(--text-muted,#8888a0);margin-bottom:8px}
     .shop-cats-scroll{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch}
     .shop-cats-scroll::-webkit-scrollbar{display:none}
+    button.shop-cat{font:inherit;cursor:pointer;white-space:nowrap}
+    button.shop-cat.active{background:linear-gradient(135deg,var(--pink,#ff3cac),var(--purple,#7b2fff));border-color:transparent;color:#fff;font-weight:600}
     .shop-cat{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;white-space:nowrap;padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);font-size:.83rem;color:inherit;text-decoration:none;transition:border-color .15s,background .15s}
     .shop-cat:hover{background:rgba(255,255,255,.09);border-color:#ff3cac}
     .shop-cat em{font-style:normal;font-size:.72rem;opacity:.55}
@@ -917,7 +919,9 @@ const timeAgoSSR = (ts) => {
   {shopCategories.length > 0 && (
     <nav class="shop-cats" aria-label="Shop by category">
       <span class="shop-cats-label">Shop by category:</span>
-      <div class="shop-cats-scroll">
+      <div class="shop-cats-scroll" id="chips">
+        <button class="shop-cat chip active" data-cat="all" type="button">🛍️ All</button>
+        <button class="shop-cat chip" data-cat="__promo__" type="button">🏷️ Promo Codes</button>
         {shopCategories.map((c) => (
           <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
         ))}
@@ -926,33 +930,7 @@ const timeAgoSSR = (ts) => {
   )}
 
 
-  <!-- FILTER CHIPS -->
-  <div class="chips-wrap">
-    <div class="chips-scroll" id="chips">
-      <button class="chip active" data-cat="all">All</button>
-      <button class="chip" data-cat="__promo__">🏷️ Promo Codes</button>
-      <button class="chip" data-cat="Electronics">Electronics</button>
-      <button class="chip" data-cat="Home & Kitchen">Home & Kitchen</button>
-      <button class="chip" data-cat="Beauty">Beauty</button>
-      <button class="chip" data-cat="Fashion">Fashion</button>
-      <button class="chip" data-cat="Toys & Kids">Toys & Kids</button>
-      <button class="chip" data-cat="Sports & Fitness">Sports & Fitness</button>
-      <button class="chip" data-cat="Pet Supplies">Pet Supplies</button>
-      <button class="chip" data-cat="Health">Health</button>
-      <button class="chip" data-cat="Books & Media">Books & Media</button>
-      <button class="chip" data-cat="Garden & Outdoor">Garden & Outdoor</button>
-      <button class="chip" data-cat="Grocery & Food">Grocery & Food</button>
-      <button class="chip" data-cat="Gaming">Gaming</button>
-      <button class="chip" data-cat="Tools & Hardware">Tools & Hardware</button>
-      <button class="chip" data-cat="Automotive">Automotive</button>
-      <button class="chip" data-cat="Office & Stationery">Office & Stationery</button>
-      <button class="chip" data-cat="Personal Care">Personal Care</button>
-      <button class="chip" data-cat="Cleaning Supplies">Cleaning Supplies</button>
-    </div>
-    <div class="chips-fade-left hidden" id="chips-fade-left"></div>
-    <div class="chips-fade-right" id="chips-fade-right"></div>
-    <button class="chips-arrow chips-arrow-left hidden" id="chips-arrow-left" aria-label="Scroll left">‹</button>
-    <button class="chips-arrow chips-arrow-right" id="chips-arrow-right" aria-label="Scroll right">›</button>
+
   </div>
 
   <!-- DEALS -->
@@ -1202,25 +1180,29 @@ const timeAgoSSR = (ts) => {
 
     // Chips scroll arrows + fades
     const chipsEl = document.getElementById('chips');
-    const fadeRight = document.getElementById('chips-fade-right');
-    const fadeLeft  = document.getElementById('chips-fade-left');
+    // Scroll affordances were removed with the old filter-chip row. The single
+    // category strip scrolls natively; keep this defensive in case the elements
+    // are reintroduced, since a null here would throw and kill the scripts
+    // registered after it.
+    const fadeRight  = document.getElementById('chips-fade-right');
+    const fadeLeft   = document.getElementById('chips-fade-left');
     const arrowRight = document.getElementById('chips-arrow-right');
     const arrowLeft  = document.getElementById('chips-arrow-left');
-
-    function updateChipsScroll() {
-      const atEnd   = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 8;
-      const atStart = chipsEl.scrollLeft <= 8;
-      fadeRight.classList.toggle('hidden', atEnd);
-      arrowRight.classList.toggle('hidden', atEnd);
-      fadeLeft.classList.toggle('hidden', atStart);
-      arrowLeft.classList.toggle('hidden', atStart);
+    if (fadeRight && fadeLeft && arrowRight && arrowLeft && chipsEl) {
+      const updateChipAffordance = () => {
+        const atEnd   = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 4;
+        const atStart = chipsEl.scrollLeft <= 4;
+        fadeRight.classList.toggle('hidden', atEnd);
+        arrowRight.classList.toggle('hidden', atEnd);
+        fadeLeft.classList.toggle('hidden', atStart);
+        arrowLeft.classList.toggle('hidden', atStart);
+      };
+      chipsEl.addEventListener('scroll', updateChipAffordance);
+      window.addEventListener('resize', updateChipAffordance);
+      updateChipAffordance();
+      arrowRight.addEventListener('click', () => chipsEl.scrollBy({ left: 200, behavior: 'smooth' }));
+      arrowLeft.addEventListener('click',  () => chipsEl.scrollBy({ left: -200, behavior: 'smooth' }));
     }
-    chipsEl.addEventListener('scroll', updateChipsScroll);
-    window.addEventListener('resize', updateChipsScroll);
-    updateChipsScroll();
-
-    arrowRight.addEventListener('click', () => chipsEl.scrollBy({ left: 200, behavior: 'smooth' }));
-    arrowLeft.addEventListener('click',  () => chipsEl.scrollBy({ left: -200, behavior: 'smooth' }));
 
     // Filter chips
     document.getElementById('chips').addEventListener('click', e => {
