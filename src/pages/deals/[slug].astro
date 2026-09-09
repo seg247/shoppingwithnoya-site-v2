@@ -46,6 +46,13 @@ const jsonLd = {
     '@type': 'Offer',
     url: deal.url,
     priceCurrency: 'USD',
+    // Google warns on an Offer without priceValidUntil and suppresses rich
+    // results. Deals are short-lived: honour the feed's expiry when present,
+    // else 30 days from the post timestamp.
+    priceValidUntil: (deal.expiresAt
+      ? new Date(deal.expiresAt)
+      : new Date(new Date(deal.ts).getTime() + 30 * 864e5)
+    ).toISOString().slice(0, 10),
     ...(deal.price && { price: deal.price.replace(/[^0-9.]/g, '') }),
     availability: 'https://schema.org/InStock',
     seller: { '@type': 'Organization', name: 'Shopping With Noya' },
