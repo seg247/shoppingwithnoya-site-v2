@@ -825,7 +825,7 @@ const timeAgoSSR = (ts) => {
     .shop-cats-label{display:block;font-size:.78rem;color:var(--text-muted,#8888a0);margin-bottom:8px}
     .shop-cats-scroll{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch}
     .shop-cats-scroll::-webkit-scrollbar{display:none}
-    button.shop-cat{font:inherit;cursor:pointer;white-space:nowrap}
+    button.shop-cat{font-family:inherit;font-size:.83rem;line-height:inherit;cursor:pointer;white-space:nowrap}
     button.shop-cat.active{background:linear-gradient(135deg,var(--pink,#ff3cac),var(--purple,#7b2fff));border-color:transparent;color:#fff;font-weight:600}
     .shop-cat{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;white-space:nowrap;padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);font-size:.83rem;color:inherit;text-decoration:none;transition:border-color .15s,background .15s}
     .shop-cat:hover{background:rgba(255,255,255,.09);border-color:#ff3cac}
@@ -921,10 +921,10 @@ const timeAgoSSR = (ts) => {
       <span class="shop-cats-label">Shop by category:</span>
       <div class="shop-cats-scroll" id="chips">
         <button class="shop-cat chip active" data-cat="all" type="button">🛍️ All</button>
-        <button class="shop-cat chip" data-cat="__promo__" type="button">🏷️ Promo Codes</button>
         {shopCategories.map((c) => (
           <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
         ))}
+        <button class="shop-cat chip" data-cat="__promo__" type="button">🏷️ Promo Codes</button>
       </div>
     </nav>
   )}
