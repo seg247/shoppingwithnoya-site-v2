@@ -1,5 +1,33 @@
 ---
+import siteData from '../data/site-data.json';
+
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Static links to the category landing pages. The on-page filter bar is
+// client-side JS, so without these there is no crawlable path from the
+// homepage to /category/* and the new pages would be orphaned.
+// Must stay in sync with the MIN_DEALS + META list in category/[slug].astro.
+const CATEGORY_LINKS = [
+  { name: 'Grocery & Food',  emoji: '🛒', slug: 'grocery-food' },
+  { name: 'Home & Kitchen',  emoji: '🏠', slug: 'home-kitchen' },
+  { name: 'Beauty',          emoji: '💄', slug: 'beauty' },
+  { name: 'Electronics',     emoji: '📱', slug: 'electronics' },
+  { name: 'Fashion',         emoji: '👗', slug: 'fashion' },
+  { name: 'Garden & Outdoor',emoji: '🌿', slug: 'garden-outdoor' },
+];
+
+const catCounts = (() => {
+  const c = {};
+  for (const p of (siteData.posts || [])) {
+    if (!p.category) continue;
+    c[p.category] = (c[p.category] || 0) + 1;
+  }
+  return c;
+})();
+
+const shopCategories = CATEGORY_LINKS
+  .map((c) => ({ ...c, count: catCounts[c.name] || 0 }))
+  .filter((c) => c.count >= 12);
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -748,7 +776,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     }
     footer a { color: var(--text-sec); text-decoration: none; }
     footer a:hover { color: var(--pink); }
-  </style>
+  
+    .shop-cats{display:flex;align-items:center;gap:8px;flex-wrap:wrap;max-width:1200px;margin:0 auto 14px;padding:0 24px}
+    .shop-cats-label{font-size:.8rem;color:var(--text-muted,#8888a0);margin-right:2px}
+    .shop-cat{display:inline-flex;align-items:center;gap:6px;padding:7px 13px;border-radius:999px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.09);font-size:.83rem;color:inherit;text-decoration:none;transition:border-color .15s,background .15s}
+    .shop-cat:hover{background:rgba(255,255,255,.08);border-color:#ff3cac}
+    .shop-cat em{font-style:normal;font-size:.72rem;opacity:.55}
+    @media(max-width:560px){.shop-cats{padding:0 16px}.shop-cats-label{width:100%;margin-bottom:2px}}
+</style>
 </head>
 <body>
 
@@ -758,6 +793,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <div class="nav-spacer"></div>
     <a href="/blog/" class="nav-blog-link">📝 Deal Blog</a>
     <a href="/beauty/" class="nav-blog-link">💄 Beauty Blog</a>
+    <a href="/category/grocery-food/" class="nav-blog-link">🛒 Grocery</a>
+    <a href="/category/home-kitchen/" class="nav-blog-link">🏠 Home</a>
     <span class="nav-follow">Follow us on:</span>
     <a href="https://www.facebook.com/groups/1224964507605101" class="nav-tg nav-fb" target="_blank" rel="noopener" aria-label="Facebook Group">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.413c0-3.018 1.791-4.69 4.533-4.69 1.313 0 2.686.236 2.686.236v2.963h-1.513c-1.491 0-1.956.93-1.956 1.874v2.257h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/></svg>
@@ -779,6 +816,18 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   </div>
 
   <!-- SEARCH BAR -->
+  <!-- Shop by category — static links so the /category/* pages are crawlable.
+       The filter pills below are client-side only and invisible to search. -->
+  {shopCategories.length > 0 && (
+    <nav class="shop-cats" aria-label="Shop by category">
+      <span class="shop-cats-label">Shop by category:</span>
+      {shopCategories.map((c) => (
+        <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
+      ))}
+    </nav>
+  )}
+
+
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
     <input type="text" id="search-input" placeholder="Search deals... (e.g. headphones, coffee maker)" autocomplete="off" />

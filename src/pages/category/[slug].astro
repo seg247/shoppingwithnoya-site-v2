@@ -1,0 +1,286 @@
+---
+// /category/[slug] — indexable landing page per deal category.
+//
+// The homepage filters categories client-side, so there was no crawlable URL
+// for "beauty deals" or "kitchen deals" — the exact queries this site should
+// rank for. These pages give each category a real, static, linkable surface.
+//
+// NOTE: Astro hoists getStaticPaths() into an isolated module scope. It cannot
+// close over ANYTHING declared in the component body — not consts, not
+// functions. So the category config lives inside getStaticPaths and everything
+// the page body needs is handed back through props.
+import siteData from '../../data/site-data.json';
+
+export async function getStaticPaths() {
+  // A landing page with three items is a thin-content liability, not a
+  // ranking asset. Only categories with real volume earn a page.
+  const MIN_DEALS = 12;
+
+  const META = {
+    'Grocery & Food': {
+      emoji: '🛒',
+      blurb: 'Stock the pantry for less. Snacks, coffee, protein, baby food and household staples — every deal checked against its usual price before it goes up.',
+      keywords: 'grocery deals, food deals, snack deals, pantry deals, coffee deals',
+    },
+    'Home & Kitchen': {
+      emoji: '🏠',
+      blurb: 'Cookware, storage, small appliances and the everyday things that quietly cost too much. Hand-picked discounts on the pieces people actually use.',
+      keywords: 'home deals, kitchen deals, cookware deals, appliance deals, home decor deals',
+    },
+    'Beauty': {
+      emoji: '💄',
+      blurb: 'Skincare, makeup, hair and fragrance from brands worth buying. Drugstore bargains and prestige markdowns, updated daily.',
+      keywords: 'beauty deals, makeup deals, skincare deals, hair care deals, fragrance deals',
+    },
+    'Electronics': {
+      emoji: '📱',
+      blurb: 'Headphones, chargers, smart home, tablets and TVs. Tech moves fast and prices swing hard — these are the drops worth catching.',
+      keywords: 'electronics deals, tech deals, headphone deals, gadget deals, smart home deals',
+    },
+    'Fashion': {
+      emoji: '👗',
+      blurb: 'Clothing, shoes and accessories for the whole family. Everyday basics and seasonal finds, priced to actually buy.',
+      keywords: 'fashion deals, clothing deals, shoe deals, apparel deals, accessory deals',
+    },
+    'Garden & Outdoor': {
+      emoji: '🌿',
+      blurb: 'Patio, plants, grilling and yard gear. Outdoor prices are seasonal — these are the moments to buy.',
+      keywords: 'garden deals, outdoor deals, patio deals, grill deals, lawn deals',
+    },
+  };
+
+  const slugify = (c) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+  const posts = siteData.posts || [];
+  const counts = {};
+  for (const p of posts) {
+    if (!p.category || p.category === 'Other') continue;
+    counts[p.category] = (counts[p.category] || 0) + 1;
+  }
+
+  const eligible = Object.keys(META).filter((c) => (counts[c] || 0) >= MIN_DEALS);
+
+  return eligible.map((category) => ({
+    params: { slug: slugify(category) },
+    props: {
+      category,
+      meta: META[category],
+      deals: posts
+        .filter((p) => p.category === category)
+        .sort((a, b) => (b.discount || 0) - (a.discount || 0) || b.ts.localeCompare(a.ts)),
+      siblings: eligible
+        .filter((c) => c !== category)
+        .map((c) => ({
+          name: c,
+          emoji: META[c].emoji,
+          count: counts[c],
+          href: `/category/${slugify(c)}/`,
+        })),
+    },
+  }));
+}
+
+const { category, meta, deals, siblings } = Astro.props;
+const { slug } = Astro.params;
+
+const topDiscount = deals.reduce((m, d) => Math.max(m, d.discount || 0), 0);
+
+const canonicalUrl = `https://deals.shoppingwithnoya.com/category/${slug}/`;
+const pageTitle = `Best ${category} Deals Today — ${deals.length} Live Discounts | Shopping With Noya`;
+const pageDesc =
+  `${deals.length} hand-picked ${category.toLowerCase()} deals, updated daily` +
+  (topDiscount > 0 ? ` — up to ${topDiscount}% off` : '') +
+  '. ' + meta.blurb;
+
+const ogImage = (deals.find((d) => d.imageUrl) || {}).imageUrl
+  || 'https://deals.shoppingwithnoya.com/og-image.png';
+
+const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+
+const itemListLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: pageTitle,
+  description: pageDesc,
+  url: canonicalUrl,
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: deals.length,
+    itemListElement: deals.slice(0, 30).map((d, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `https://deals.shoppingwithnoya.com/deals/${d.slug}/`,
+      name: d.title,
+    })),
+  },
+});
+
+const breadcrumbLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://deals.shoppingwithnoya.com/' },
+    { '@type': 'ListItem', position: 2, name: `${category} Deals`, item: canonicalUrl },
+  ],
+});
+
+const faqLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: `Where can I find the best ${category.toLowerCase()} deals today?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: `Shopping With Noya tracks ${category.toLowerCase()} deals daily at ${canonicalUrl}. There are currently ${deals.length} live discounts on this page, sorted by how deep the discount is.`,
+      },
+    },
+    {
+      '@type': 'Question',
+      name: `How often are ${category.toLowerCase()} deals updated?`,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Deals are sourced continuously and this page refreshes hourly. Prices move fast, so anything listed here was verified within the last hour.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Do these deals cost extra to use?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'No. Links on this page are affiliate links, which means we may earn a commission if you buy — at no additional cost to you. The price you pay is the same either way.',
+      },
+    },
+  ],
+});
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc} />
+  <meta name="keywords" content={meta.keywords} />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href={canonicalUrl} />
+  <link rel="preconnect" href="https://m.media-amazon.com" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={pageDesc} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:site_name" content="Shopping With Noya" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={pageTitle} />
+  <meta name="twitter:description" content={pageDesc} />
+  <meta name="twitter:image" content={ogImage} />
+
+  <script type="application/ld+json" set:html={itemListLd} />
+  <script type="application/ld+json" set:html={breadcrumbLd} />
+  <script type="application/ld+json" set:html={faqLd} />
+
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-T75YM7DVKJ');</script>
+
+  <style is:inline>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{--bg:#0a0a0f;--surface:#13131a;--surface2:#1a1a24;--text:#f0f0f5;--muted:#8888a0;--accent:#ff3cac;--purple:#7b2fff;--cyan:#00d4ff;--border:rgba(255,255,255,0.08)}
+    html{background:var(--bg);color:var(--text);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;line-height:1.6}
+    a{color:inherit;text-decoration:none}
+    .site-nav{position:sticky;top:0;z-index:100;display:flex;align-items:center;gap:8px;padding:0 1.5rem;height:56px;background:rgba(10,10,15,.85);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
+    .nav-brand{font-weight:700}
+    .nav-gap{flex:1}
+    .nav-pill{padding:6px 12px;border-radius:999px;font-size:.85rem;color:var(--muted)}
+    .nav-pill:hover{background:var(--surface2);color:var(--text)}
+    .nav-cta{padding:6px 14px;border-radius:999px;font-size:.85rem;font-weight:600;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff}
+    .wrap{max-width:1100px;margin:0 auto;padding:1.5rem 1.25rem 4rem}
+    .crumb{font-size:.8rem;color:var(--muted);margin-bottom:1rem}
+    .crumb a:hover{color:var(--cyan)}
+    .hero{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:2rem;margin-bottom:1.5rem}
+    .hero h1{font-size:clamp(1.5rem,4vw,2.2rem);line-height:1.2;margin-bottom:.75rem}
+    .hero-intro{color:var(--muted);max-width:70ch}
+    .stats{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:1.25rem;font-size:.85rem}
+    .stat b{display:block;font-size:1.4rem;color:var(--cyan)}
+    .stat span{color:var(--muted)}
+    .cat-pills{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.75rem}
+    .cat-pill{padding:8px 14px;border-radius:999px;background:var(--surface);border:1px solid var(--border);font-size:.85rem;color:var(--muted)}
+    .cat-pill:hover{background:var(--surface2);color:var(--text);border-color:var(--accent)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem}
+    .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:transform .12s,border-color .12s}
+    .card:hover{transform:translateY(-3px);border-color:var(--accent)}
+    .card-img{width:100%;aspect-ratio:1;object-fit:contain;background:#fff}
+    .card-body{padding:.85rem;display:flex;flex-direction:column;gap:.45rem;flex:1}
+    .card-title{font-size:.85rem;line-height:1.35;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+    .card-foot{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:.5rem}
+    .badge{font-size:.7rem;font-weight:700;padding:3px 8px;border-radius:999px;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff}
+    .date{font-size:.7rem;color:var(--muted)}
+    footer{border-top:1px solid var(--border);margin-top:3rem;padding:2rem 1.25rem;text-align:center;color:var(--muted);font-size:.85rem}
+    .disclaimer{font-size:.72rem;color:#475569;margin-top:.75rem}
+    @media(max-width:560px){.hero{padding:1.25rem}.grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}}
+  </style>
+</head>
+<body>
+  <nav class="site-nav">
+    <a href="/" class="nav-brand">🛍️ Shopping With Noya</a>
+    <div class="nav-gap"></div>
+    <a href="/" class="nav-pill">All Deals</a>
+    <a href="/blog/" class="nav-pill">Blog</a>
+    <a href="/beauty/" class="nav-pill">💄 Beauty</a>
+    <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Telegram</a>
+  </nav>
+
+  <main class="wrap">
+    <nav class="crumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> › {category} Deals
+    </nav>
+
+    <div class="hero">
+      <h1>{meta.emoji} Best {category} Deals Today</h1>
+      <p class="hero-intro">{meta.blurb}</p>
+      <div class="stats">
+        <div class="stat"><b>{deals.length}</b><span>live deals</span></div>
+        {topDiscount > 0 && <div class="stat"><b>{topDiscount}%</b><span>biggest discount</span></div>}
+        <div class="stat"><b>Hourly</b><span>refresh</span></div>
+      </div>
+    </div>
+
+    {siblings.length > 0 && (
+      <nav class="cat-pills" aria-label="Other categories">
+        <a href="/" class="cat-pill">🛍️ All Deals</a>
+        {siblings.map((s) => (
+          <a href={s.href} class="cat-pill">{s.emoji} {s.name} ({s.count})</a>
+        ))}
+      </nav>
+    )}
+
+    <div class="grid">
+      {deals.map((d) => (
+        <a href={`/deals/${d.slug}/`} class="card">
+          {d.imageUrl && (
+            <img class="card-img" src={d.imageUrl} alt={`${d.title} — ${category.toLowerCase()} deal`} loading="lazy" width="230" height="230" />
+          )}
+          <div class="card-body">
+            <div class="card-title">{d.title}</div>
+            <div class="card-foot">
+              {d.discount > 0
+                ? <span class="badge">{d.discount}% OFF</span>
+                : <span class="date">{d.rating}</span>}
+              <span class="date">{fmt(d.ts)}</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </main>
+
+  <footer>
+    <a href="/">← All deals</a> &nbsp;·&nbsp;
+    <a href="https://t.me/shoppingwithnoya" target="_blank" rel="noopener">📲 Telegram</a>
+    <p class="disclaimer">#ad — As an affiliate partner I earn from qualifying purchases.</p>
+  </footer>
+</body>
+</html>
