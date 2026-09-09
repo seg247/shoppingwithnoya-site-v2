@@ -1,0 +1,228 @@
+---
+// /about — E-E-A-T page.
+//
+// Google weights Experience/Expertise/Authoritativeness/Trust heavily for
+// affiliate and shopping content, and answer engines cite pages that name a
+// real person with a stated method. The site had no author identity at all.
+//
+// SARAH: review and edit the prose below. It is deliberately factual and
+// unembellished — nothing here claims anything I could not verify. Add your
+// own voice, the real origin story, and a photo (public/sarah-about.jpg
+// already exists in this repo).
+const canonicalUrl = 'https://deals.shoppingwithnoya.com/about/';
+const pageTitle = 'About Shopping With Noya — Who Picks These Deals';
+const pageDesc =
+  'Shopping With Noya is run by Sarah, a mom who got tired of paying full price. How deals are found, how they are checked, and how the site makes money.';
+
+const personLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: pageTitle,
+  description: pageDesc,
+  url: canonicalUrl,
+  mainEntity: {
+    '@type': 'Person',
+    name: 'Sarah',
+    description: 'Founder of Shopping With Noya, a daily deal site.',
+    url: 'https://deals.shoppingwithnoya.com',
+    sameAs: [
+      'https://t.me/shoppingwithnoya',
+      'https://www.facebook.com/groups/1224964507605101',
+    ],
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Shopping With Noya',
+    url: 'https://deals.shoppingwithnoya.com',
+  },
+});
+
+const faqLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Who runs Shopping With Noya?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Shopping With Noya is run by Sarah, a mom of two who started sharing deals with friends and family and turned it into a public deal feed.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'How are deals chosen?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Deals are sourced from retailer feeds and community deal channels, then checked for a genuine discount against the usual price before publishing. Items with no real saving are not posted.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Does Shopping With Noya make money from these links?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Yes. Links are affiliate links, so a purchase may earn a commission at no additional cost to you. The price you pay is identical either way. All affiliate content is marked #ad.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Why are prices shown as $5.xx instead of the exact price?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Retailer prices change frequently, sometimes hourly. Rounded prices signal the ballpark without implying a guarantee — the retailer page is always the authoritative price.',
+      },
+    },
+  ],
+});
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc} />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href={canonicalUrl} />
+  <meta property="og:type" content="profile" />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={pageDesc} />
+  <meta property="og:site_name" content="Shopping With Noya" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content={pageTitle} />
+  <meta name="twitter:description" content={pageDesc} />
+  <script type="application/ld+json" set:html={personLd} />
+  <script type="application/ld+json" set:html={faqLd} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="alternate" type="application/rss+xml" title="Shopping With Noya" href="/rss.xml" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-T75YM7DVKJ');</script>
+  <style is:inline>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{--bg:#0a0a0f;--surface:#13131a;--surface2:#1a1a24;--text:#f0f0f5;--muted:#9494a8;--accent:#ff3cac;--purple:#7b2fff;--cyan:#00d4ff;--border:rgba(255,255,255,0.08)}
+    html{background:var(--bg);color:var(--text);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:16px;line-height:1.7}
+    a{color:inherit}
+    .site-nav{position:sticky;top:0;z-index:100;display:flex;align-items:center;gap:8px;padding:0 1.25rem;height:56px;background:rgba(10,10,15,.85);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
+    .nav-brand{font-weight:700;text-decoration:none}
+    .nav-gap{flex:1}
+    .nav-pill{padding:6px 12px;border-radius:999px;font-size:.85rem;color:var(--muted);text-decoration:none}
+    .nav-pill:hover{background:var(--surface2);color:var(--text)}
+    .nav-cta{padding:6px 14px;border-radius:999px;font-size:.85rem;font-weight:600;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff;text-decoration:none}
+    .wrap{max-width:720px;margin:0 auto;padding:2rem 1.25rem 4rem}
+    .crumb{font-size:.8rem;color:var(--muted);margin-bottom:1.5rem}
+    h1{font-size:clamp(1.6rem,5vw,2.3rem);line-height:1.2;margin-bottom:1rem}
+    h2{font-size:1.15rem;margin:2.25rem 0 .75rem;color:var(--cyan)}
+    p{margin-bottom:1rem;color:#dcdce8}
+    .lede{font-size:1.05rem;color:var(--text)}
+    ul{margin:0 0 1rem 1.1rem;color:#dcdce8}
+    li{margin-bottom:.4rem}
+    .card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:1.25rem 1.4rem;margin:1.5rem 0}
+    .card p:last-child{margin-bottom:0}
+    .cta{display:inline-block;margin-top:.5rem;padding:10px 18px;border-radius:999px;font-weight:600;background:linear-gradient(135deg,var(--accent),var(--purple));color:#fff;text-decoration:none}
+    footer{border-top:1px solid var(--border);margin-top:3rem;padding:2rem 1.25rem;text-align:center;color:var(--muted);font-size:.85rem}
+    .disclaimer{font-size:.72rem;color:#4a4a5e;margin-top:.75rem}
+  </style>
+</head>
+<body>
+  <nav class="site-nav">
+    <a href="/" class="nav-brand">🛍️ Shopping With Noya</a>
+    <div class="nav-gap"></div>
+    <a href="/" class="nav-pill">All Deals</a>
+    <a href="/blog/" class="nav-pill">Blog</a>
+    <a href="/beauty/" class="nav-pill">💄 Beauty</a>
+    <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Telegram</a>
+  </nav>
+
+  <main class="wrap">
+    <nav class="crumb" aria-label="Breadcrumb"><a href="/">Home</a> › About</nav>
+
+    <h1>About Shopping With Noya</h1>
+
+    <p class="lede">
+      Shopping With Noya is a daily deal site run by Sarah — a mom of two who got
+      tired of finding out she'd paid full price for something that went on sale
+      the next week.
+    </p>
+
+    <p>
+      It started as deals shared with friends and family. Enough people asked to
+      be added that it became a public feed, and then a website. Everything on it
+      is free, there is no signup, and there is no email list to join before you
+      can see a price.
+    </p>
+
+    <h2>How deals get here</h2>
+
+    <p>
+      Deals are pulled continuously from retailer feeds and community deal
+      channels, then filtered before anything is published:
+    </p>
+
+    <ul>
+      <li>The discount is checked against the item's usual price — a "sale" that isn't one doesn't get posted.</li>
+      <li>Every deal needs a real product image. No image, no post.</li>
+      <li>Duplicates and size or colour variants of something already posted are filtered out.</li>
+      <li>Categories people asked not to see — and anything that doesn't fit the audience — are excluded.</li>
+    </ul>
+
+    <p>
+      The site refreshes hourly. Deals move fast, and some expire before you get
+      to them; that's the nature of it. The retailer's page is always the
+      authoritative price.
+    </p>
+
+    <h2>Why prices show as $5.xx</h2>
+
+    <p>
+      Retailer prices change constantly, sometimes within the same hour. Showing
+      a rounded price signals the ballpark without implying a guarantee that
+      might be wrong by the time you click.
+    </p>
+
+    <h2>How the site makes money</h2>
+
+    <div class="card">
+      <p>
+        Links on this site are affiliate links. If you buy something through one,
+        Shopping With Noya may earn a commission — <strong>at no additional cost
+        to you</strong>. The price you pay is identical whether you use the link
+        or not.
+      </p>
+      <p>
+        That's the whole business model. There are no sponsored placements sold
+        to brands, and a deal is never posted because someone paid for it to be.
+        All affiliate content is marked <strong>#ad</strong> in line with FTC
+        guidance.
+      </p>
+    </div>
+
+    <h2>Where else to find the deals</h2>
+
+    <p>
+      Deals are posted to Telegram as they're found, which is usually faster than
+      checking the site.
+    </p>
+
+    <a class="cta" href="https://t.me/shoppingwithnoya" target="_blank" rel="noopener">📲 Join the Telegram channel</a>
+
+    <h2>Questions or a deal to share?</h2>
+
+    <p>
+      Head to the <a href="/contact/">contact page</a>. Reader tips are genuinely
+      welcome — a lot of the best finds come from people who spotted something
+      first.
+    </p>
+  </main>
+
+  <footer>
+    <a href="/">← All deals</a> &nbsp;·&nbsp;
+    <a href="/blog/">Blog</a> &nbsp;·&nbsp;
+    <a href="/contact/">Contact</a> &nbsp;·&nbsp;
+    <a href="/privacy/">Privacy</a> &nbsp;·&nbsp;
+    <a href="/terms/">Terms</a>
+    <p class="disclaimer">#ad — As an affiliate partner I earn from qualifying purchases.</p>
+  </footer>
+</body>
+</html>

@@ -9,6 +9,9 @@ Disallow: /api/
 Disallow: /dashboard
 
 Sitemap: https://deals.shoppingwithnoya.com/sitemap-index.xml
+
+# LLM/answer-engine description: https://llmstxt.org
+# https://deals.shoppingwithnoya.com/llms.txt
 `;
 
 export const GET: APIRoute = () =>

@@ -830,6 +830,48 @@ const timeAgoSSR = (ts) => {
     .shop-cat em{font-style:normal;font-size:.72rem;opacity:.55}
     @media(max-width:560px){.shop-cats{padding:0 16px;margin-bottom:14px}}
 </style>
+
+  <!-- FAQPage schema. Answer engines (ChatGPT, Perplexity, Gemini) quote Q&A
+       pairs directly, and this is the page they land on. -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is Shopping With Noya?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Shopping With Noya is a free daily deal site run by Sarah, a mom of two. It publishes hand-picked discounts on Amazon and partner retailers across groceries, home and kitchen, beauty, electronics, fashion, toys and health. There is no signup and no email required."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How often are the deals updated?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Deals are sourced continuously and the site refreshes hourly. New deals are also pushed to the Telegram channel as they are found, which is usually faster than checking the site."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do the deals cost extra to use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Links are affiliate links, which means Shopping With Noya may earn a commission if you buy — at no additional cost to you. The price you pay is identical either way, and all affiliate content is marked #ad."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How are the deals chosen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Deals come from retailer feeds and community deal channels, then get checked for a genuine discount against the item's usual price. Anything without a real saving or a real product image is not posted."
+        }
+      }
+    ]
+  })} />
+  <link rel="alternate" type="application/rss+xml" title="Shopping With Noya — Daily Deals" href="/rss.xml" />
 </head>
 <body>
 
@@ -964,6 +1006,8 @@ const timeAgoSSR = (ts) => {
       &nbsp;·&nbsp;
       <a href="/contact">📬 Contact</a>
       &nbsp;·&nbsp;
+      <a href="/about/">About</a>
+      &nbsp;&middot;&nbsp;
       <a href="/privacy">Privacy Policy</a>
       &nbsp;·&nbsp;
       <a href="/terms">Terms of Service</a>
