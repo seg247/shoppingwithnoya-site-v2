@@ -363,67 +363,7 @@ const timeAgoSSR = (ts) => {
     }
 
     /* FILTER CHIPS */
-    .chips-wrap {
-      max-width: 900px;
-      margin: 0 auto 2rem;
-      padding: 0 1.5rem;
-      position: relative;
-    }
-    .chips-scroll {
-      display: flex;
-      gap: 0.5rem;
-      overflow-x: auto;
-      padding-bottom: 0.5rem;
-      scroll-behavior: smooth;
-      scrollbar-width: none;
-      -webkit-overflow-scrolling: touch;
-    }
-    .chips-scroll::-webkit-scrollbar { display: none; }
     /* Fade hints on both edges */
-    .chips-fade-right {
-      position: absolute;
-      right: 0;
-      top: 0;
-      height: calc(100% - 0.5rem);
-      width: 60px;
-      background: linear-gradient(to right, transparent, var(--bg));
-      pointer-events: none;
-      transition: opacity 0.2s;
-    }
-    .chips-fade-left {
-      position: absolute;
-      left: 0;
-      top: 0;
-      height: calc(100% - 0.5rem);
-      width: 60px;
-      background: linear-gradient(to left, transparent, var(--bg));
-      pointer-events: none;
-      transition: opacity 0.2s;
-    }
-    .chips-fade-right.hidden, .chips-fade-left.hidden { opacity: 0; }
-    /* Scroll arrows */
-    .chips-arrow {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-60%);
-      width: 28px;
-      height: 28px;
-      border-radius: 50%;
-      background: var(--elevated);
-      border: 1px solid var(--border);
-      color: var(--text-sec);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      font-size: 0.8rem;
-      transition: all 0.15s;
-      z-index: 2;
-    }
-    .chips-arrow-right { right: 4px; }
-    .chips-arrow-left  { left: 4px; }
-    .chips-arrow:hover { background: var(--pink); border-color: var(--pink); color: white; }
-    .chips-arrow.hidden { display: none; }
     .chip {
       flex-shrink: 0;
       padding: 0.45rem 1.1rem;
@@ -823,8 +763,24 @@ const timeAgoSSR = (ts) => {
        collided with the search field above it. */
     .shop-cats{position:relative;z-index:1;max-width:1200px;margin:0 auto 18px;padding:0 24px;clear:both}
     .shop-cats-label{display:block;font-size:.78rem;color:var(--text-muted,#8888a0);margin-bottom:8px}
-    .shop-cats-scroll{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch}
+    .shop-cats-scroll{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;scroll-behavior:smooth}
     .shop-cats-scroll::-webkit-scrollbar{display:none}
+    /* Desktop (mouse/trackpad) cannot swipe, so give the row a real scrollbar
+       plus arrow buttons. Touch devices keep the clean hidden-scrollbar look. */
+    @media(hover:hover) and (pointer:fine){
+      .shop-cats-scroll{scrollbar-width:thin;scrollbar-color:rgba(255,255,255,.25) transparent}
+      .shop-cats-scroll::-webkit-scrollbar{display:block;height:6px}
+      .shop-cats-scroll::-webkit-scrollbar-track{background:transparent}
+      .shop-cats-scroll::-webkit-scrollbar-thumb{background:rgba(255,255,255,.18);border-radius:999px}
+      .shop-cats-scroll:hover::-webkit-scrollbar-thumb{background:rgba(255,255,255,.3)}
+      .shop-cats{padding:0 44px}
+      .cat-arrow{display:flex}
+    }
+    .cat-arrow{position:absolute;top:50%;transform:translateY(-25%);z-index:3;display:none;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;cursor:pointer;background:rgba(20,20,28,.92);border:1px solid rgba(255,255,255,.16);color:var(--text,#f0f0f5);font-size:1rem;line-height:1;padding:0;transition:background .15s,border-color .15s,opacity .15s}
+    .cat-arrow:hover{background:var(--pink,#ff3cac);border-color:var(--pink,#ff3cac);color:#fff}
+    .cat-arrow-left{left:8px}
+    .cat-arrow-right{right:8px}
+    .cat-arrow[hidden]{display:none!important}
     button.shop-cat{font-family:inherit;font-size:.83rem;line-height:inherit;cursor:pointer;white-space:nowrap}
     button.shop-cat.active{background:linear-gradient(135deg,var(--pink,#ff3cac),var(--purple,#7b2fff));border-color:transparent;color:#fff;font-weight:600}
     .shop-cat{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;white-space:nowrap;padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);font-size:.83rem;color:inherit;text-decoration:none;transition:border-color .15s,background .15s}
@@ -919,6 +875,7 @@ const timeAgoSSR = (ts) => {
   {shopCategories.length > 0 && (
     <nav class="shop-cats" aria-label="Shop by category">
       <span class="shop-cats-label">Shop by category:</span>
+      <button class="cat-arrow cat-arrow-left" id="cat-arrow-left" type="button" aria-label="Scroll categories left" hidden>&#8249;</button>
       <div class="shop-cats-scroll" id="chips">
         <button class="shop-cat chip active" data-cat="all" type="button">🛍️ All</button>
         {shopCategories.map((c) => (
@@ -926,10 +883,9 @@ const timeAgoSSR = (ts) => {
         ))}
         <button class="shop-cat chip" data-cat="__promo__" type="button">🏷️ Promo Codes</button>
       </div>
+      <button class="cat-arrow cat-arrow-right" id="cat-arrow-right" type="button" aria-label="Scroll categories right">&#8250;</button>
     </nav>
   )}
-
-
 
   </div>
 
@@ -1180,28 +1136,42 @@ const timeAgoSSR = (ts) => {
 
     // Chips scroll arrows + fades
     const chipsEl = document.getElementById('chips');
-    // Scroll affordances were removed with the old filter-chip row. The single
-    // category strip scrolls natively; keep this defensive in case the elements
-    // are reintroduced, since a null here would throw and kill the scripts
-    // registered after it.
-    const fadeRight  = document.getElementById('chips-fade-right');
-    const fadeLeft   = document.getElementById('chips-fade-left');
-    const arrowRight = document.getElementById('chips-arrow-right');
-    const arrowLeft  = document.getElementById('chips-arrow-left');
-    if (fadeRight && fadeLeft && arrowRight && arrowLeft && chipsEl) {
-      const updateChipAffordance = () => {
-        const atEnd   = chipsEl.scrollLeft + chipsEl.clientWidth >= chipsEl.scrollWidth - 4;
-        const atStart = chipsEl.scrollLeft <= 4;
-        fadeRight.classList.toggle('hidden', atEnd);
-        arrowRight.classList.toggle('hidden', atEnd);
-        fadeLeft.classList.toggle('hidden', atStart);
-        arrowLeft.classList.toggle('hidden', atStart);
+    // Category row scroll affordances.
+    //
+    // The row hides its scrollbar, which is right on touch (you swipe) but left
+    // desktop users with no way to reach categories past the fold. Arrows are
+    // shown only on fine-pointer devices via CSS, and also support shift+wheel
+    // and horizontal trackpad scroll.
+    const catArrowL = document.getElementById('cat-arrow-left');
+    const catArrowR = document.getElementById('cat-arrow-right');
+    if (chipsEl && catArrowL && catArrowR) {
+      const updateCatArrows = () => {
+        const scrollable = chipsEl.scrollWidth - chipsEl.clientWidth;
+        if (scrollable <= 4) {           // everything fits: no arrows at all
+          catArrowL.hidden = true;
+          catArrowR.hidden = true;
+          return;
+        }
+        catArrowL.hidden = chipsEl.scrollLeft <= 4;
+        catArrowR.hidden = chipsEl.scrollLeft >= scrollable - 4;
       };
-      chipsEl.addEventListener('scroll', updateChipAffordance);
-      window.addEventListener('resize', updateChipAffordance);
-      updateChipAffordance();
-      arrowRight.addEventListener('click', () => chipsEl.scrollBy({ left: 200, behavior: 'smooth' }));
-      arrowLeft.addEventListener('click',  () => chipsEl.scrollBy({ left: -200, behavior: 'smooth' }));
+      const step = () => Math.max(160, Math.round(chipsEl.clientWidth * 0.7));
+      catArrowR.addEventListener('click', () => chipsEl.scrollBy({ left: step(), behavior: 'smooth' }));
+      catArrowL.addEventListener('click', () => chipsEl.scrollBy({ left: -step(), behavior: 'smooth' }));
+      chipsEl.addEventListener('scroll', updateCatArrows, { passive: true });
+      window.addEventListener('resize', updateCatArrows);
+      // Vertical wheel over the row scrolls it horizontally — expected on
+      // desktop, and the only affordance for a plain mouse with no h-scroll.
+      chipsEl.addEventListener('wheel', (e) => {
+        if (Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
+        const scrollable = chipsEl.scrollWidth - chipsEl.clientWidth;
+        if (scrollable <= 4) return;
+        e.preventDefault();
+        chipsEl.scrollLeft += e.deltaY;
+      }, { passive: false });
+      updateCatArrows();
+      // Fonts/images can change widths after first paint.
+      setTimeout(updateCatArrows, 400);
     }
 
     // Filter chips
