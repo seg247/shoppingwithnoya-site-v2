@@ -3,6 +3,7 @@
 // Previously this fetched blog-data.json client-side, so crawlers received only
 // "Loading posts..." and all 60 roundups were invisible to search and to social
 // unfurlers. Data is now imported at build time and the list is real HTML.
+import SkipLink from '../../components/SkipLink.astro';
 import blogData from '../../data/blog-data.json';
 
 const posts = (blogData.posts || []).slice().sort((a, b) => b.date.localeCompare(a.date));
@@ -109,21 +110,22 @@ const jsonLd = JSON.stringify({
 
     footer { margin-top: 60px; border-top: 1px solid var(--border); }
     .footer-inner { max-width: 1200px; margin: 0 auto; padding: 24px; text-align: center; font-size: 0.8rem; color: var(--text-sec); }
-    .disclaimer { font-size: 0.72rem; opacity: 0.5; margin-top: 6px; }
+    .disclaimer { font-size: 0.72rem; opacity: 1; margin-top: 6px; }
     a { color: var(--cyan); text-decoration: none; }
   </style>
   <script type="application/ld+json" set:html={jsonLd} />
 </head>
 <body>
+  <SkipLink />
 
-  <nav>
+  <nav aria-label="Primary navigation">
     <a href="/" class="nav-logo">🛍️ Shopping With Noya</a>
     <div class="nav-spacer"></div>
     <a href="/" class="nav-link">🏷️ All Deals</a>
     <a href="https://t.me/shoppingwithnoya" class="nav-tg" target="_blank" rel="noopener">📲 Join Telegram</a>
   </nav>
 
-  <div class="page-body">
+  <main id="main-content" tabindex="-1" class="page-body">
     <h1>📝 Deal Blog</h1>
     <p class="subtitle">Daily deal roundups — hand-picked savings updated every day.</p>
     <div class="post-list" id="post-list">
@@ -141,7 +143,7 @@ const jsonLd = JSON.stringify({
         </a>
       ))}
     </div>
-  </div>
+  </main>
 
   <footer>
     <div class="footer-inner">

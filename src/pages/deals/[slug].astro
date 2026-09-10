@@ -1,6 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
 import siteData from '../../data/site-data.json';
+import { cleanText, dealMetadata } from '../../lib/deal-metadata.mjs';
+import { serializeStructuredData } from '../../lib/structured-data.mjs';
 
 export async function getStaticPaths() {
   return siteData.posts.map(deal => ({
@@ -23,10 +25,11 @@ const imgUrl = deal.imageUrl
     ? `https://images-na.ssl-images-amazon.com/images/P/${deal.asin}.01._SCLZZZZZZZ_.jpg`
     : null);
 
-const pageTitle = `${deal.title} — ${deal.discount > 0 ? deal.discount + '% Off ' : ''}Deal | Shopping With Noya`;
-const pageDesc = deal.discount > 0
-  ? `Get ${deal.discount}% off ${deal.title}. ${deal.price ? `Now only ${deal.price}.` : ''} Grab this deal before it's gone. Follow @shoppingwithnoya for more daily deals.`
-  : `${deal.title}${deal.price ? ` — ${deal.price}` : ''}. Find this and more daily deals at Shopping With Noya.`;
+const { title: pageTitle, description: pageDesc } = dealMetadata(deal);
+const productName = cleanText(deal.title) || 'Product deal';
+// No manufacturer description is supplied yet; a short, honest checking note
+// is preferable to inventing specifications or repeating the entire heading.
+const productDescription = 'Check current price, availability and any coupon conditions at the retailer.';
 
 const dateFormatted = new Date(deal.ts).toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/New_York'
@@ -41,34 +44,29 @@ function ratingColor(r: string) {
 }
 const color = ratingColor(deal.rating);
 
-// JSON-LD structured data
+// Informational affiliate page, not a merchant offer. The current feed has
+// no approved exact-price/brand provenance. Do not infer a price from "$X.xx",
+// assert stock, invent an expiry, or name this affiliate site as the seller.
+// Price-rich results remain blocked until an approved data source is available.
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'Product',
-  name: deal.title,
-  ...(imgUrl && { image: imgUrl }),
-  ...(deal.asin && { sku: deal.asin }),
-  offers: {
-    '@type': 'Offer',
-    url: deal.url,
-    priceCurrency: 'USD',
-    // Google warns on an Offer without priceValidUntil and suppresses rich
-    // results. Deals are short-lived: honour the feed's expiry when present,
-    // else 30 days from the post timestamp.
-    priceValidUntil: (deal.expiresAt
-      ? new Date(deal.expiresAt)
-      : new Date(new Date(deal.ts).getTime() + 30 * 864e5)
-    ).toISOString().slice(0, 10),
-    ...(deal.price && { price: deal.price.replace(/[^0-9.]/g, '') }),
-    availability: 'https://schema.org/InStock',
-    seller: { '@type': 'Organization', name: 'Shopping With Noya' },
+  '@type': 'WebPage',
+  url: canonicalUrl,
+  name: pageTitle,
+  description: pageDesc,
+  about: {
+    '@type': 'Product',
+    name: productName,
+    description: productDescription,
+    ...(imgUrl && { image: imgUrl }),
+    ...(deal.asin && { sku: deal.asin }),
   },
 };
 ---
 
 <Base title={pageTitle} description={pageDesc} image={imgUrl || undefined} url={canonicalUrl} type="product">
 
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <script type="application/ld+json" set:html={serializeStructuredData(jsonLd)} />
 
   <article class="deal-page">
 
@@ -90,7 +88,8 @@ const jsonLd = {
       <!-- Info -->
       <div class="deal-info">
         <p class="deal-category">{deal.category}</p>
-        <h1 class="deal-title">{deal.title}</h1>
+        <h1 class="deal-title">{productName}</h1>
+        <p class="deal-summary">{productDescription}</p>
 
         <div class="deal-badges">
           {deal.discount > 0 && (
@@ -138,8 +137,8 @@ const jsonLd = {
 
 <style>
   .deal-page { max-width: 900px; margin: 0 auto; }
-  .breadcrumb { font-size: 0.8rem; color: #64748b; margin-bottom: 24px; }
-  .breadcrumb a { color: #64748b; }
+  .breadcrumb { font-size: 0.8rem; color: #94a3b8; margin-bottom: 24px; }
+  .breadcrumb a { color: #94a3b8; }
   .breadcrumb a:hover { color: #94a3b8; }
 
   .deal-layout {
@@ -158,16 +157,17 @@ const jsonLd = {
   .deal-img-wrap img { width: 100%; height: auto; border-radius: 8px; object-fit: contain; max-height: 280px; }
   .img-placeholder { font-size: 5rem; }
 
-  .deal-category { font-size: 0.8rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
-  .deal-title { font-size: 1.5rem; font-weight: 700; line-height: 1.3; margin-bottom: 16px; }
+  .deal-category { font-size: 0.8rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+  .deal-summary { color: #cbd5e1; line-height: 1.6; margin-bottom: 16px; overflow-wrap: anywhere; }
+  .deal-title { font-size: 1.5rem; font-weight: 700; line-height: 1.3; margin-bottom: 16px; overflow-wrap: anywhere; }
 
   .deal-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
   .badge-discount { font-size: 0.85rem; padding: 5px 12px; border-radius: 20px; color: #fff; font-weight: 600; }
   .badge-price { font-size: 0.85rem; padding: 5px 12px; border-radius: 20px; background: #14532d; color: #86efac; font-weight: 600; }
   .badge-rating { font-size: 0.85rem; padding: 5px 12px; border-radius: 20px; border: 1px solid; background: transparent; font-weight: 600; }
 
-  .deal-asin { font-size: 0.78rem; color: #475569; margin-bottom: 4px; font-family: monospace; }
-  .deal-date { font-size: 0.8rem; color: #64748b; margin-bottom: 24px; }
+  .deal-asin { font-size: 0.78rem; color: #94a3b8; margin-bottom: 4px; font-family: monospace; }
+  .deal-date { font-size: 0.8rem; color: #94a3b8; margin-bottom: 24px; }
 
   .deal-btn {
     display: inline-block; background: #f59e0b; color: #0f172a;
@@ -176,13 +176,13 @@ const jsonLd = {
   }
   .deal-btn:hover { background: #d97706; text-decoration: none; }
 
-  .deal-disclosure { font-size: 0.72rem; color: #475569; }
+  .deal-disclosure { font-size: 0.72rem; color: #94a3b8; }
 
   .share-row {
     display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
     margin-bottom: 16px;
   }
-  .share-label { font-size: 0.8rem; color: #64748b; }
+  .share-label { font-size: 0.8rem; color: #94a3b8; }
   .share-btn {
     font-size: 0.78rem; padding: 6px 12px; border-radius: 20px;
     background: #1e293b; color: #e2e8f0; border: 1px solid #334155;
@@ -202,6 +202,6 @@ const jsonLd = {
   }
   .tg-cta a { color: #60a5fa; font-weight: 600; }
 
-  .back-link { font-size: 0.85rem; color: #64748b; }
+  .back-link { font-size: 0.85rem; color: #94a3b8; }
   .back-link:hover { color: #94a3b8; }
 </style>

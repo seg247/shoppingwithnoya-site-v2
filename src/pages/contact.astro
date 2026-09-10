@@ -1,4 +1,5 @@
 ---
+import SkipLink from '../components/SkipLink.astro';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 <!DOCTYPE html>
@@ -7,7 +8,15 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Contact Us — Shopping With Noya</title>
-  <meta name="description" content="Get in touch with Shopping With Noya. Questions, partnerships, or just want to say hi — we'd love to hear from you!" />
+  <meta name="description" content="Contact Shopping With Noya using the contact form for questions, partnership inquiries, deal suggestions, or technical issues." />
+  <meta property="og:title" content="Contact Us — Shopping With Noya" />
+  <meta property="og:description" content="Contact Shopping With Noya using the contact form for questions, partnership inquiries, deal suggestions, or technical issues." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://deals.shoppingwithnoya.com/contact/" />
+  <meta property="og:site_name" content="Shopping With Noya" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Contact Us — Shopping With Noya" />
+  <meta name="twitter:description" content="Contact Shopping With Noya using the contact form for questions, partnership inquiries, deal suggestions, or technical issues." />
   <link rel="canonical" href="https://deals.shoppingwithnoya.com/contact" />
   <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -35,7 +44,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       --cyan: #00D4FF;
       --text: #F0F0FF;
       --text-sec: #9999BB;
-      --text-muted: #55556A;
+      --text-muted: #9999BB;
     }
     html { scroll-behavior: smooth; }
     body {
@@ -159,8 +168,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     .submit-btn {
       width: 100%;
       padding: 0.9rem 2rem;
-      background: linear-gradient(135deg, var(--pink), var(--purple));
-      color: white;
+      background: #7B2FBE;
+            color: white;
       border: none;
       border-radius: 12px;
       font-family: 'Space Grotesk', sans-serif;
@@ -218,14 +227,15 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   </style>
 </head>
 <body>
+  <SkipLink />
 
-  <nav>
+  <nav aria-label="Primary navigation">
     <a href={`${base}/`} class="nav-logo">🛍️ Noya</a>
     <div class="nav-spacer"></div>
     <a href={`${base}/`} class="nav-back">← Back to Deals</a>
   </nav>
 
-  <div class="page">
+  <main id="main-content" tabindex="-1" class="page">
     <div class="page-header">
       <h1>Get in Touch 👋</h1>
       <p>Questions, partnership inquiries, or just want to say hi? We'd love to hear from you!</p>
@@ -262,7 +272,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       <button type="submit" class="submit-btn" id="submit-btn">Send Message →</button>
     </form>
 
-    <div class="success-msg" id="success-msg">
+    <div class="success-msg" id="success-msg" role="status" aria-live="polite" tabindex="-1">
       <h2>✅ Message Sent!</h2>
       <p>Thanks for reaching out! We'll get back to you within 24-48 hours.</p>
     </div>
@@ -273,7 +283,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       <a href="https://amazon.com/shop/noya0b" class="social-link" target="_blank" rel="noopener">🛍️ Amazon Storefront</a>
       <a href="https://linktr.ee/shoppingwithnoya" class="social-link" target="_blank" rel="noopener">🌳 All Links</a>
     </div>
-  </div>
+  </main>
 
   <footer>© 2026 Shopping With Noya</footer>
 
@@ -297,6 +307,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         if (res.ok) {
           form.style.display = 'none';
           success.classList.add('visible');
+          success.focus();
         } else {
           btn.disabled = false;
           btn.textContent = 'Send Message →';

@@ -1,13 +1,16 @@
 ---
+import SkipLink from '../components/SkipLink.astro';
+
 export interface Props {
   title: string;
   description: string;
   image?: string;
   url?: string;
   type?: string;
+  noindex?: boolean;
 }
 
-const { title, description, image, url, type = 'website' } = Astro.props;
+const { title, description, image, url, type = 'website', noindex = false } = Astro.props;
 const canonicalUrl = url || `https://deals.shoppingwithnoya.com${Astro.url.pathname}`;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
 ---
@@ -18,6 +21,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <meta name="description" content={description} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
   <meta name="keywords" content="Amazon deals, best deals, daily deals, online shopping deals, discount shopping, coupon deals, shopping with noya, deal alerts" />
   <link rel="canonical" href={canonicalUrl} />
   <link rel="preconnect" href="https://m.media-amazon.com" />
@@ -69,13 +73,13 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
     .nav-brand span { color: var(--accent); }
     .nav-brand:hover { text-decoration: none; }
     .nav-cta {
-      background: #0088cc; color: #fff !important; padding: 8px 18px;
+      background: #006a9e; color: #fff !important; padding: 8px 18px;
       border-radius: 20px; font-size: 0.85rem; font-weight: 600;
       display: inline-flex; align-items: center; gap: 6px;
       text-decoration: none;
     }
     .nav-cta:hover { background: #0077b5; text-decoration: none; }
-    .nav-cta.fb { background: #1877f2; }
+    .nav-cta.fb { background: #145db2; }
     .nav-cta.fb:hover { background: #145db2; }
     .nav-links { display: flex; align-items: center; gap: 10px; }
 
@@ -105,7 +109,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
     footer a { color: var(--muted); }
     .footer-links { display: flex; justify-content: center; gap: 20px; margin-bottom: 12px; flex-wrap: wrap; }
     .footer-links a { color: var(--accent); font-size: 0.85rem; }
-    .disclaimer { font-size: 0.75rem; opacity: 0.65; margin-top: 8px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5; }
+    .disclaimer { font-size: 0.75rem; opacity: 1; margin-top: 8px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5; }
   </style>
   <!-- Google Analytics (GA4).
        Every other page carried this tag inline, but Base.astro did not — so the
@@ -121,9 +125,10 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
   </script>
 </head>
 <body>
+  <SkipLink />
 
   <div class="nav-stripe">
-    <div class="nav-inner">
+    <nav class="nav-inner" aria-label="Primary navigation">
       <a href={`${base}/`} class="nav-brand">🛍️ Shopping With <span>Noya</span></a>
       <div class="nav-links">
         <a href="https://www.facebook.com/groups/1224964507605101" class="nav-cta fb" target="_blank" rel="noopener">
@@ -133,15 +138,14 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '';
           📲 Join Telegram
         </a>
       </div>
-    </div>
+    </nav>
   </div>
 
-  <div class="page-body">
-    <slot />
-  </div>
+  <main id="main-content" tabindex="-1" class="page-body">
+      <slot />
+    </main>
 
   <footer>
-    <div class="footer-inner">
     <div class="footer-inner">
       <div class="footer-links">
         <a href="https://t.me/shoppingwithnoya" target="_blank" rel="noopener">📲 Telegram</a>

@@ -1,5 +1,6 @@
 ---
 import siteData from '../data/site-data.json';
+import SkipLink from '../components/SkipLink.astro';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
@@ -46,13 +47,23 @@ const shopCategories = CATEGORY_LINKS
 // and search behave exactly as before.
 const SSR_COUNT = 60;
 
+const seenSSR = new Set();
+const todaySSR = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
 const ssrDeals = (siteData.posts || [])
+  .filter((d) => {
+    if (d.category === 'Other' || (d.asin && seenSSR.has(d.asin))) return false;
+    if (d.asin) seenSSR.add(d.asin);
+    return true;
+  })
   .filter((d) => {
     if (!d.expiresAt) return true;
     const days = (Date.now() - new Date(d.expiresAt + 'T23:59:59').getTime()) / 864e5;
     return days <= 3;
   })
+  .sort((a, b) => Number(b.ts?.slice(0, 10) === todaySSR) - Number(a.ts?.slice(0, 10) === todaySSR))
   .slice(0, SSR_COUNT);
+const firstSSRImage = ssrDeals.findIndex(d => d.imageUrl);
+const thumbnailSSR = (url) => url.replace(/_AC_SR\d+,\d+_/, '_AC_SR300,300_').replace(/_AC_SL\d+_/, '_AC_SR300,300_');
 
 const cleanTitleSSR = (t) =>
   (t || '')
@@ -166,7 +177,7 @@ const timeAgoSSR = (ts) => {
       --green: #39FF14;
       --text: #F0F0FF;
       --text-sec: #9999BB;
-      --text-muted: #55556A;
+      --text-muted: #9999BB;
     }
 
     html { scroll-behavior: smooth; }
@@ -829,12 +840,29 @@ const timeAgoSSR = (ts) => {
       }
     ]
   })} />
+  <style is:global>
+    article.deal-card { position: relative; }
+    .card-link { display: block; text-decoration: none; }
+    .card-cta, .nav-tg { background: #7B2FBE; color: #fff; }
+    .nav-fb { background: #145db2; }
+    .card-link:hover { transform: none; }
+    @media (max-width: 539px) { .card-link { font-size: .78rem; padding: .4rem .6rem; border-radius: 6px; } }
+    .card-link::after { content: ''; position: absolute; inset: 0; }
+    .share-btn { position: relative; z-index: 1; }
+    article.deal-card:focus-within { outline: 3px solid var(--cyan); outline-offset: 3px; }
+    button.shop-cat.active { background: #7B2FBE; color: #fff; }
+    @media (hover: hover) and (pointer: fine) {
+      .cat-arrow { display: flex; }
+      .shop-cats { padding-right: 44px; padding-left: 44px; }
+    }
+  </style>
   <link rel="alternate" type="application/rss+xml" title="Shopping With Noya — Daily Deals" href="/rss.xml" />
 </head>
 <body>
+  <SkipLink />
 
   <!-- NAV -->
-  <nav>
+  <nav aria-label="Primary navigation">
     <a href="#" class="nav-logo">🛍️ Noya</a>
     <div class="nav-spacer"></div>
     <a href="/blog/" class="nav-blog-link">📝 Deal Blog</a>
@@ -852,6 +880,7 @@ const timeAgoSSR = (ts) => {
     </a>
   </nav>
 
+  <main id="main-content" tabindex="-1">
   <!-- HERO STRIP -->
   <div class="hero-strip">
     <h1 class="visually-hidden">Shopping With Noya — Best Deals Updated Daily</h1>
@@ -864,7 +893,8 @@ const timeAgoSSR = (ts) => {
   <!-- SEARCH BAR -->
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
-    <input type="text" id="search-input" placeholder="Search deals... (e.g. headphones, coffee maker)" autocomplete="off" />
+    <label for="search-input" class="visually-hidden">Search deals</label>
+    <input type="search" id="search-input" name="q" placeholder="Search deals... (e.g. headphones, coffee maker)" autocomplete="off" />
     <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
   </div>
 
@@ -877,30 +907,28 @@ const timeAgoSSR = (ts) => {
       <span class="shop-cats-label">Shop by category:</span>
       <button class="cat-arrow cat-arrow-left" id="cat-arrow-left" type="button" aria-label="Scroll categories left" hidden>&#8249;</button>
       <div class="shop-cats-scroll" id="chips">
-        <button class="shop-cat chip active" data-cat="all" type="button">🛍️ All</button>
+        <button class="shop-cat chip active" data-cat="all" type="button" aria-pressed="true">🛍️ All</button>
         {shopCategories.map((c) => (
           <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
         ))}
-        <button class="shop-cat chip" data-cat="__promo__" type="button">🏷️ Promo Codes</button>
+        <button class="shop-cat chip" data-cat="__promo__" type="button" aria-pressed="false">🏷️ Promo Codes</button>
       </div>
       <button class="cat-arrow cat-arrow-right" id="cat-arrow-right" type="button" aria-label="Scroll categories right">&#8250;</button>
     </nav>
   )}
 
-  </div>
-
   <!-- DEALS -->
   <section class="deals-section">
     <div class="section-header">
       <h2 class="section-title">Latest Deals</h2>
-      <span class="deal-count" id="deal-count">{(siteData.posts || []).length} deals</span>
+      <span class="deal-count" id="deal-count" role="status" aria-live="polite">{ssrDeals.length} deals</span>
     </div>
     <div class="deals-grid" id="deals-grid">
-    {ssrDeals.map((d) => (
+    {ssrDeals.map((d, i) => (
       <a href={`/deals/${d.slug}/`} class={`deal-card${d.imageUrl ? '' : ' no-img'}`}>
         {d.imageUrl && (
           <div class="card-image-wrap">
-            <img src={d.imageUrl} alt={cleanTitleSSR(d.title)} loading="lazy" width="300" height="300" />
+            <img src={thumbnailSSR(d.imageUrl)} alt={cleanTitleSSR(d.title)} loading={i === firstSSRImage ? "eager" : "lazy"} fetchpriority={i === firstSSRImage ? "high" : undefined} width="300" height="300" />
             {d.discount > 0 && (
               <div class={`discount-badge ${d.discount >= 60 ? 'fire' : d.discount >= 40 ? 'hot' : ''}`}>-{d.discount}%</div>
             )}
@@ -920,6 +948,8 @@ const timeAgoSSR = (ts) => {
     ))}
   </div>
 
+  </section>
+
   <!-- BOUTIQUE BANNER -->
   <div class="tg-banner" style="background: linear-gradient(135deg, #7B2FBE, #FF3CAC); margin-top: 0;">
     <h2>👗 Shop My Clothing Boutique</h2>
@@ -928,6 +958,8 @@ const timeAgoSSR = (ts) => {
       🛒 Shop Now → shoppingwithnoya.com
     </a>
   </div>
+
+  </main>
 
   <!-- FOOTER -->
   <footer>
@@ -959,7 +991,7 @@ const timeAgoSSR = (ts) => {
 
     let allDeals = [];
     let activeFilters = new Set();
-    let searchQuery = '';
+    let searchQuery = new URLSearchParams(window.location.search).get('q')?.trim() || '';
 
     // Skeletons
     function renderSkeletons(n = 8) {
@@ -986,8 +1018,20 @@ const timeAgoSSR = (ts) => {
       return `${Math.floor(diff/86400)}d ago`;
     }
 
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
+    }
+
+    function safeHttpUrl(value) {
+      if (typeof value !== 'string') return '';
+      try {
+        const url = new URL(value);
+        return ['http:', 'https:'].includes(url.protocol) ? value : '';
+      } catch { return ''; }
+    }
+
     function getImageUrl(deal) {
-      if (deal.imageUrl) {
+      if (safeHttpUrl(deal.imageUrl)) {
         // Rewrite to 300x300 thumbnail for feed cards
         return deal.imageUrl
           .replace(/_AC_SR\d+,\d+_/, '_AC_SR300,300_')
@@ -997,7 +1041,7 @@ const timeAgoSSR = (ts) => {
       return '';
     }
 
-    function renderCard(deal, index) {
+    function renderCard(deal, index, priority = false) {
       // Expiry logic
       let expiryHtml = '';
       let cardExpiredClass = '';
@@ -1019,8 +1063,9 @@ const timeAgoSSR = (ts) => {
         ? `` // code shown in promo image
         : '';
 
-      const img = getImageUrl(deal);
-      const discount = deal.discount || 0;
+      const img = escapeHtml(getImageUrl(deal));
+      const url = escapeHtml(safeHttpUrl(deal.url));
+      const discount = Number.isFinite(Number(deal.discount)) ? Number(deal.discount) : 0;
       const delay = Math.min(index * 55, 550);
 
       // Discount badge class
@@ -1034,12 +1079,12 @@ const timeAgoSSR = (ts) => {
         priceHtml = `<div class="card-price-row"><span class="price-savings">-${discount}% off</span></div>`;
       }
 
-      const cat = (deal.category || '').substring(0, 20);
-      const displayTitle = cleanTitle(deal.title) || 'Amazon Deal';
+      const cat = escapeHtml(String(deal.category || '').substring(0, 20));
+      const displayTitle = escapeHtml(cleanTitle(deal.title) || 'Amazon Deal');
 
-      return `<a href="${deal.url}" class="deal-card${img ? '' : ' no-img'}${cardExpiredClass}" target="_blank" rel="noopener sponsored" style="animation-delay:${delay}ms">
+      return `<article class="deal-card${img ? '' : ' no-img'}${cardExpiredClass}" style="animation-delay:${delay}ms">
         ${img ? `<div class="card-image-wrap">
-          <img src="${img}" alt="" loading="lazy" onerror="this.parentElement.style.display='none';this.closest('.deal-card').classList.add('no-img')" />
+          <img src="${img}" alt="" loading="${priority ? 'eager' : 'lazy'}" ${priority ? 'fetchpriority="high"' : ''} width="300" height="300" onerror="this.parentElement.style.display='none';this.closest('.deal-card').classList.add('no-img')" />
           ${discount > 0 ? `<div class="discount-badge ${badgeClass}">-${discount}%</div>` : ''}
         </div>` : ''}
         <div class="card-body">
@@ -1050,17 +1095,17 @@ const timeAgoSSR = (ts) => {
           ${promoHtml}
           <div class="card-footer">
             <span class="card-meta">${timeAgo(deal.ts)}</span>
-            <button class="share-btn" data-url="${deal.url}" data-title="${displayTitle.replace(/"/g, '&quot;')}" aria-label="Share deal">
+            <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
             </button>
           </div>
-          <span class="card-cta">🛍️ Shop Deal →</span>
+          <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${displayTitle}">🛍️ Shop Deal →</a>
         </div>
-      </a>`;
+      </article>`;
     }
 
     function cleanTitle(title) {
-      if (!title) return '';
+      if (typeof title !== 'string') return '';
       // Strip broken surrogate/garbage unicode characters that corrupt some titles
       return title.replace(/[\uD800-\uDFFF]/g, '').trim();
     }
@@ -1069,8 +1114,10 @@ const timeAgoSSR = (ts) => {
       // Dedup by ASIN — keep only the first occurrence (highest score / most recent)
       const seenAsins = new Set();
       const deduped = allDeals.filter(d => {
+        if (!safeHttpUrl(d.url)) return false;
         if (d.asin && seenAsins.has(d.asin)) return false;
         if (d.asin) seenAsins.add(d.asin);
+        if (d.expiresAt && (Date.now() - new Date(d.expiresAt + 'T23:59:59').getTime()) / 864e5 > 3) return false;
         // Never show "Other" category unless explicitly selected
         if (d.category === 'Other' && activeFilters.size === 0 && !searchQuery) return false;
         // Category filter
@@ -1115,7 +1162,8 @@ const timeAgoSSR = (ts) => {
         grid.innerHTML = `<div class="no-results"><h3>😢 No deals found</h3><p>Try a different search or filter</p></div>`;
         return;
       }
-      grid.innerHTML = filtered.map((d, i) => renderCard(d, i)).join('');
+      const firstImage = filtered.findIndex(d => getImageUrl(d));
+      grid.innerHTML = filtered.map((d, i) => renderCard(d, i, i === firstImage)).join('');
     }
 
     // Fetch. Do NOT call renderSkeletons() here — the grid already holds
@@ -1203,6 +1251,7 @@ const timeAgoSSR = (ts) => {
           allChip.classList.add('active');
         }
       }
+      document.querySelectorAll('.chip').forEach(c => c.setAttribute('aria-pressed', String(c.classList.contains('active'))));
       renderDeals();
     });
 
@@ -1235,6 +1284,8 @@ const timeAgoSSR = (ts) => {
     // Search
     const searchInput = document.getElementById('search-input');
     const searchClear = document.getElementById('search-clear');
+    searchInput.value = searchQuery;
+    searchClear.classList.toggle('visible', searchQuery.length > 0);
 
     function applySearch(val) {
       searchQuery = val.trim();

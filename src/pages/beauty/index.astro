@@ -1,4 +1,5 @@
 ---
+import SkipLink from '../../components/SkipLink.astro';
 import beautyData from '../../data/beauty-blog-data.json';
 
 const posts        = beautyData.posts || [];
@@ -108,7 +109,8 @@ const faqLd = JSON.stringify({
   </style>
 </head>
 <body>
-  <nav class="site-nav">
+  <SkipLink />
+  <nav class="site-nav" aria-label="Primary navigation">
     <a href="/" class="nav-brand">🛍️ Shopping With Noya</a>
     <div class="nav-gap"></div>
     <a href="/" class="nav-pill">All Deals</a>
@@ -117,7 +119,7 @@ const faqLd = JSON.stringify({
     <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Telegram</a>
   </nav>
 
-  <main class="wrap">
+  <main id="main-content" tabindex="-1" class="wrap">
     <nav class="crumb" aria-label="Breadcrumb">
       <a href="/">Home</a> › Beauty Deals
     </nav>

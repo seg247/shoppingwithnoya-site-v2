@@ -1,0 +1,24 @@
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<style is:global>
+  .skip-link {
+    position: fixed; top: .5rem; left: .5rem; z-index: 1000;
+    padding: .75rem 1rem; border-radius: .4rem;
+    background: #f0f0ff; color: #0a0a0f; font: 600 1rem/1.4 sans-serif;
+    transform: translateY(-200%); text-decoration: underline;
+  }
+  .skip-link:focus { transform: translateY(0); }
+  :where(a, button, input, select, textarea):focus-visible {
+    outline: 3px solid #00d4ff; outline-offset: 3px;
+  }
+  #main-content { scroll-margin-top: 8rem; }
+  @media (max-width: 760px) {
+    nav[aria-label="Primary navigation"] {
+      height: auto; min-height: 56px; flex-wrap: wrap;
+      padding-top: .65rem; padding-bottom: .65rem;
+    }
+    nav[aria-label="Primary navigation"] .nav-links { flex-wrap: wrap; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto !important; }
+  }
+</style>

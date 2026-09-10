@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import siteData from '../data/site-data.json';
+
+// Same allowed names and minimum volume as category/[slug].astro.
+// Never offer a category link unless that category has a generated page.
+const allowedCategories = [
+  'Grocery & Food', 'Home & Kitchen', 'Beauty', 'Electronics', 'Fashion',
+  'Garden & Outdoor', 'Health', 'Toys & Kids', 'Cleaning Supplies', 'Pet Supplies',
+];
+const counts = new Map<string, number>();
+for (const post of siteData.posts || []) {
+  counts.set(post.category, (counts.get(post.category) || 0) + 1);
+}
+const categories = allowedCategories.filter(name => (counts.get(name) || 0) >= 12);
+const slugify = (name: string) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Base title="Page Not Found — Shopping With Noya" description="This page could not be found. Search Shopping With Noya deals or browse available deal categories." noindex>
+  <section class="not-found" aria-labelledby="not-found-title">
+    <p class="error-code">404</p>
+    <h1 id="not-found-title">Page not found</h1>
+    <p>This link may be out of date, or the page may have moved. Find your way back to the deals below.</p>
+    <p><a class="home-link" href={`${base}/`}>← Back to all deals</a></p>
+    <form role="search" action={`${base}/`} method="get">
+      <label for="not-found-search">Search deals</label>
+      <div class="search-row">
+        <input id="not-found-search" type="search" name="q" placeholder="Try headphones or coffee" />
+        <button type="submit">Search</button>
+      </div>
+    </form>
+    {categories.length > 0 && <nav aria-label="Browse deal categories">
+      <h2>Browse categories</h2>
+      <ul>{categories.map(name => <li><a href={`${base}/category/${slugify(name)}/`}>{name}</a></li>)}</ul>
+    </nav>}
+    <p class="more-links"><a href={`${base}/blog/`}>Deal Blog</a> · <a href={`${base}/contact/`}>Contact</a></p>
+  </section>
+</Base>
+<style>
+  .not-found { max-width: 720px; margin: 2rem auto; line-height: 1.6; }
+  .error-code { color: #60a5fa; font-size: 3rem; font-weight: 700; }
+  h1 { font-size: clamp(1.8rem, 6vw, 2.5rem); margin-bottom: 1rem; }
+  p { margin-bottom: 1rem; }
+  a { color: #93c5fd; }
+  form { margin: 2rem 0; }
+  label { display: block; font-weight: 600; margin-bottom: .5rem; }
+  .search-row { display: flex; flex-wrap: wrap; gap: .75rem; }
+  input { flex: 1 1 200px; min-width: 0; width: 100%; padding: .8rem; border: 1px solid #94a3b8; border-radius: .5rem; background: #1e293b; color: #f1f5f9; font: inherit; }
+  input::placeholder { color: #cbd5e1; }
+  button { padding: .8rem 1.25rem; border: 0; border-radius: .5rem; background: #93c5fd; color: #0f172a; font: inherit; font-weight: 700; cursor: pointer; }
+  h2 { font-size: 1.25rem; margin-bottom: .75rem; }
+  ul { display: flex; flex-wrap: wrap; gap: .75rem 1.5rem; list-style: none; padding: 0; }
+  .more-links { margin-top: 2rem; }
+</style>
