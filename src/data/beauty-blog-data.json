@@ -105,7 +105,7 @@
             "discount": 20,
             "rating": "WARM",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61v4-pzUPeL.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B00VGTL896?th=1&linkCode=sl2&tag=noya0b-20&linkId=dbb1615b9bb8b703bc72d6ce0d3dfedd&language=en_US&gaOptInStatus=true"
           },
           {
@@ -185,7 +185,7 @@
             "discount": 5,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/41fCyNkYNvL._SL1200_.jpg",
+            "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GSRF1YMK?th=1&linkCode=sl2&tag=noya0b-20&linkId=1c26ecd7500e941ecc7e9a20c7125744&language=en_US&gaOptInStatus=true"
           },
           {
@@ -209,6 +209,16 @@
             "url": "https://www.amazon.com/dp/B0GGGCV238?th=1&linkCode=sl2&tag=noya0b-20&linkId=e295fa5692a0e1633b807595aeff0667&language=en_US&gaOptInStatus=true"
           },
           {
+            "asin": "B01BZV7MG2",
+            "slug": "luxury-skin-care-sample-box-beauty-personal-care",
+            "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
+            "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
+          },
+          {
             "asin": "B01HTJTS52",
             "slug": "vaseline-nourishing-moisture-body-lotion-dry-skin-oat-extrac",
             "title": "Vaseline Nourishing Moisture Body Lotion Dry Skin + Oat Extract 20.3oz 3ct | Body moisturizer provides 72HR moisture wit",
@@ -217,16 +227,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81l1M49o2zL.jpg",
             "url": "https://www.amazon.com/dp/B01HTJTS52?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=16f99954483588d3f21c84632a7ff1a2&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B082QC2MCX",
-            "slug": "nivea-nourishing-shea-butter-body-wash-nourishing-serum-20-f",
-            "title": "NIVEA Nourishing Shea Butter Body Wash, Nourishing Serum, 20 FL OZ",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "subcat": "Skincare",
-            "imageUrl": "https://m.media-amazon.com/images/I/61AjZoS91oL.jpg",
-            "url": "https://www.amazon.com/dp/B082QC2MCX?gaOptInStatus=true&ascsubtag=srctok-6d5ebd77d179e75b&btn_type=pt&btn_ref=srctok-6d5ebd77d179e75b&th=1&linkCode=sl2&tag=noya0b-20&linkId=5216946405270ad80d7ddb367c2046ef&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -301,7 +301,7 @@
             "discount": 5,
             "rating": "WORTH A LOOK",
             "subcat": "Hair Care",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/719PNliZDML._SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B01J6FD696?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c9363d2e2cd2e4184fcc9ac267e2ff1&language=en_US&gaOptInStatus=true"
           }
         ],
@@ -408,7 +408,7 @@
           "discount": 20,
           "rating": "WARM",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61v4-pzUPeL.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B00VGTL896?th=1&linkCode=sl2&tag=noya0b-20&linkId=dbb1615b9bb8b703bc72d6ce0d3dfedd&language=en_US&gaOptInStatus=true"
         },
         {
@@ -538,7 +538,7 @@
           "discount": 5,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/41fCyNkYNvL._SL1200_.jpg",
+          "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GSRF1YMK?th=1&linkCode=sl2&tag=noya0b-20&linkId=1c26ecd7500e941ecc7e9a20c7125744&language=en_US&gaOptInStatus=true"
         },
         {
@@ -598,8 +598,18 @@
           "discount": 5,
           "rating": "WORTH A LOOK",
           "subcat": "Hair Care",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/719PNliZDML._SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B01J6FD696?th=1&linkCode=sl2&tag=noya0b-20&linkId=4c9363d2e2cd2e4184fcc9ac267e2ff1&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B01BZV7MG2",
+          "slug": "luxury-skin-care-sample-box-beauty-personal-care",
+          "title": "Luxury Skin Care Sample Box : Beauty & Personal Care",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/81fkHRfppKL.jpg",
+          "url": "https://www.amazon.com/dp/B01BZV7MG2?tag=noya0b-20"
         },
         {
           "asin": "B01HTJTS52",
@@ -620,16 +630,6 @@
           "subcat": "Makeup",
           "imageUrl": "https://m.media-amazon.com/images/I/61cmax5eU9L.jpg",
           "url": "https://www.amazon.com/dp/B0F95CCTMY?th=1&tag=noya0b-20"
-        },
-        {
-          "asin": "B082QC2MCX",
-          "slug": "nivea-nourishing-shea-butter-body-wash-nourishing-serum-20-f",
-          "title": "NIVEA Nourishing Shea Butter Body Wash, Nourishing Serum, 20 FL OZ",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "subcat": "Skincare",
-          "imageUrl": "https://m.media-amazon.com/images/I/61AjZoS91oL.jpg",
-          "url": "https://www.amazon.com/dp/B082QC2MCX?gaOptInStatus=true&ascsubtag=srctok-6d5ebd77d179e75b&btn_type=pt&btn_ref=srctok-6d5ebd77d179e75b&th=1&linkCode=sl2&tag=noya0b-20&linkId=5216946405270ad80d7ddb367c2046ef&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -668,8 +668,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-10T02:00:07.738Z",
-      "updatedAt": "2026-09-10T02:00:07.738Z"
+      "generatedAt": "2026-09-10T02:10:05.745Z",
+      "updatedAt": "2026-09-10T02:10:05.746Z"
     },
     {
       "date": "2026-09-08",
@@ -40012,5 +40012,5 @@
       "updatedAt": "2026-07-13T03:50:04.110Z"
     }
   ],
-  "generatedAt": "2026-09-10T02:00:07.749Z"
+  "generatedAt": "2026-09-10T02:10:05.764Z"
 }
