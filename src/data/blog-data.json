@@ -10,7 +10,8 @@
         "Fashion",
         "Toys & Kids",
         "Electronics",
-        "Sports & Fitness"
+        "Sports & Fitness",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Toys & Kids": [
@@ -120,17 +121,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71RbS7DInfL.jpg",
             "url": "https://www.amazon.com/dp/B08HRLX97K?linkCode=sl2&tag=noya0b-20&linkId=e05efef06a99c16c76446eac79e8b570&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Home & Kitchen": [
           {
-            "asin": "B084BL146C",
-            "slug": "-morndew-24-pcs-glittery-angel-wing-cupcake-toppers-for-cupi",
-            "title": "\udecd️ Morndew 24 PCS Glittery Angel Wing Cupcake Toppers for Cupid's Arrow Themed Baby Girl Birthday Party Wedding Party De",
-            "price": "$14.29",
-            "discount": 50,
+            "asin": "B0BPTH5H7H",
+            "slug": "-simpli-magic-heavy-duty-padded-moving-blankets-72-x-40-12-p",
+            "title": "\udecd️ Simpli-Magic Heavy Duty Padded Moving Blankets 72\" x 40\" – 12 Pack – Packing Blankets, Furniture Covers for Moving",
+            "price": "$64.99",
+            "discount": 51,
             "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71qyBBn+MSL.jpg",
-            "url": "https://www.amazon.com/dp/B084BL146C?th=1&linkCode=sl2&tag=noya0b-20&linkId=651ce4ef2a8516a46836973b07dad98f&language=en_US&gaOptInStatus=true"
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81w+6wd8IeL.jpg",
+            "url": "https://www.amazon.com/dp/B0BPTH5H7H?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e3e95c5429dba2f6a1ad00667fdb319&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -213,6 +216,17 @@
           "url": "https://www.amazon.com/dp/B0011TWVWE?th=1&linkCode=sl2&tag=noya0b-20&linkId=d83ba79db5d15b89997e0fa5810571a2&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0BPTH5H7H",
+          "slug": "-simpli-magic-heavy-duty-padded-moving-blankets-72-x-40-12-p",
+          "title": "\udecd️ Simpli-Magic Heavy Duty Padded Moving Blankets 72\" x 40\" – 12 Pack – Packing Blankets, Furniture Covers for Moving",
+          "price": "$64.99",
+          "discount": 51,
+          "rating": "FIRE",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81w+6wd8IeL.jpg",
+          "url": "https://www.amazon.com/dp/B0BPTH5H7H?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e3e95c5429dba2f6a1ad00667fdb319&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0FH2FWL6L",
           "slug": "-fall-in-love-cake-topper-fall-themed-wedding-cake-decoratio",
           "title": "\udecd️ Fall in Love Cake Topper, Fall Themed Wedding Cake Decorations, Autumn Thanksgiving Baby Shower Bridal Shower Wedding",
@@ -233,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71RbS7DInfL.jpg",
           "url": "https://www.amazon.com/dp/B08HRLX97K?linkCode=sl2&tag=noya0b-20&linkId=e05efef06a99c16c76446eac79e8b570&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B084BL146C",
-          "slug": "-morndew-24-pcs-glittery-angel-wing-cupcake-toppers-for-cupi",
-          "title": "\udecd️ Morndew 24 PCS Glittery Angel Wing Cupcake Toppers for Cupid's Arrow Themed Baby Girl Birthday Party Wedding Party De",
-          "price": "$14.29",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71qyBBn+MSL.jpg",
-          "url": "https://www.amazon.com/dp/B084BL146C?th=1&linkCode=sl2&tag=noya0b-20&linkId=651ce4ef2a8516a46836973b07dad98f&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-11T19:50:01.400Z",
-      "updatedAt": "2026-09-11T19:50:01.400Z"
+      "generatedAt": "2026-09-11T20:00:00.566Z",
+      "updatedAt": "2026-09-11T20:00:00.566Z"
     },
     {
       "date": "2026-09-10",
@@ -16309,5 +16312,5 @@
       "updatedAt": "2026-07-15T03:50:02.099Z"
     }
   ],
-  "generatedAt": "2026-09-11T19:50:01.415Z"
+  "generatedAt": "2026-09-11T20:00:00.581Z"
 }
