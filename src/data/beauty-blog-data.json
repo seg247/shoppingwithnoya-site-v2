@@ -10,6 +10,7 @@
         "Beauty",
         "Hair Care",
         "Makeup",
+        "Nails",
         "Body Care"
       ],
       "bySubcat": {
@@ -51,7 +52,7 @@
             "discount": 40,
             "rating": "HOT",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/711x+1Zq6bL.jpg",
             "url": "https://www.amazon.com/dp/B0C1KPXPM9?linkCode=sl2&tag=noya0b-20&linkId=98c11afc9ed40ab89002627677b7130f&language=en_US&gaOptInStatus=true"
           },
           {
@@ -163,16 +164,6 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/51jXM4644LL.jpg",
             "url": "https://www.amazon.com/dp/B0BS4CZWTS?th=1&linkCode=sl2&tag=noya0b-20&linkId=807e786bb0809f449d1397ee3c96be9f&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DYQBQ8W8",
-            "slug": "-it-cosmetics-do-it-all-radiant-concealer-with-hydrating-mul",
-            "title": "\udecd️ IT Cosmetics Do It All Radiant Concealer with Hydrating Multivitamin Serum",
-            "discount": 10,
-            "rating": "GOOD",
-            "subcat": "Skincare",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B0DYQBQ8W8?th=1&linkCode=sl2&tag=noya0b-20&linkId=92f089b0e3e4e05e18453476dda698a2&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -301,6 +292,18 @@
             "url": "https://www.amazon.com/dp/B091T894VK?th=1&linkCode=sl2&tag=noya0b-20&linkId=c87023be1a05eba41bb8f3e79c19a4ef&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Nails": [
+          {
+            "asin": "B09HSMRGZ7",
+            "slug": "-uross-nail-polish-organizer-bag-holds-84-bottles-nail-polis",
+            "title": "\udecd️ Uross Nail Polish Organizer Bag Holds 84 Bottles Nail Polish & Nail Lamp,Large Gel Nail Polish Organizers and Storage",
+            "discount": 32,
+            "rating": "HOT",
+            "subcat": "Nails",
+            "imageUrl": "https://m.media-amazon.com/images/I/71mokaB9KmL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B09HSMRGZ7?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c6dfd1908d55fd7e562d4070dd2b08e0&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Body Care": [
           {
             "asin": "B0CVN4NWDW",
@@ -372,7 +375,7 @@
           "discount": 40,
           "rating": "HOT",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/711x+1Zq6bL.jpg",
           "url": "https://www.amazon.com/dp/B0C1KPXPM9?linkCode=sl2&tag=noya0b-20&linkId=98c11afc9ed40ab89002627677b7130f&language=en_US&gaOptInStatus=true"
         },
         {
@@ -404,6 +407,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/7101U8hA+qL.jpg",
           "url": "https://www.amazon.com/dp/B07Q4TD8RS?linkCode=sl2&tag=noya0b-20&linkId=43c23654ded8bb906446affdcb81ad30&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B09HSMRGZ7",
+          "slug": "-uross-nail-polish-organizer-bag-holds-84-bottles-nail-polis",
+          "title": "\udecd️ Uross Nail Polish Organizer Bag Holds 84 Bottles Nail Polish & Nail Lamp,Large Gel Nail Polish Organizers and Storage",
+          "discount": 32,
+          "rating": "HOT",
+          "subcat": "Nails",
+          "imageUrl": "https://m.media-amazon.com/images/I/71mokaB9KmL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B09HSMRGZ7?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c6dfd1908d55fd7e562d4070dd2b08e0&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0FMNZTXT7",
@@ -614,16 +627,6 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/51jXM4644LL.jpg",
           "url": "https://www.amazon.com/dp/B0BS4CZWTS?th=1&linkCode=sl2&tag=noya0b-20&linkId=807e786bb0809f449d1397ee3c96be9f&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DYQBQ8W8",
-          "slug": "-it-cosmetics-do-it-all-radiant-concealer-with-hydrating-mul",
-          "title": "\udecd️ IT Cosmetics Do It All Radiant Concealer with Hydrating Multivitamin Serum",
-          "discount": 10,
-          "rating": "GOOD",
-          "subcat": "Skincare",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B0DYQBQ8W8?th=1&linkCode=sl2&tag=noya0b-20&linkId=92f089b0e3e4e05e18453476dda698a2&language=en_US&gaOptInStatus=true"
         }
       ],
       "featuredDeal": {
@@ -662,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-11T12:40:04.427Z",
-      "updatedAt": "2026-09-11T12:40:04.427Z"
+      "generatedAt": "2026-09-11T12:50:04.434Z",
+      "updatedAt": "2026-09-11T12:50:04.434Z"
     },
     {
       "date": "2026-09-10",
@@ -40009,5 +40012,5 @@
       "updatedAt": "2026-07-15T03:50:04.477Z"
     }
   ],
-  "generatedAt": "2026-09-11T12:40:04.441Z"
+  "generatedAt": "2026-09-11T12:50:04.466Z"
 }
