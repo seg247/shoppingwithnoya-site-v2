@@ -11,8 +11,8 @@
         "Toys & Kids",
         "Electronics",
         "Sports & Fitness",
-        "Home & Kitchen",
-        "Grocery & Food"
+        "Health",
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Toys & Kids": [
@@ -113,6 +113,19 @@
             "url": "https://www.amazon.com/dp/B0FKB52R52?th=1&linkCode=sl2&tag=noya0b-20&linkId=37778111dc3c13988c4d416016d9b81b&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Health": [
+          {
+            "asin": "B0F23MQK6S",
+            "slug": "-oasismile-l5-cordless-water-flosserdiy-adjustable-pressure",
+            "title": "\udecd️ OasiSmile L5 Cordless Water Flosser,DIY Adjustable Pressure for Dental Care",
+            "price": "$25.98",
+            "discount": 53,
+            "rating": "FIRE",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/617e+NkhpNL.jpg",
+            "url": "https://www.amazon.com/dp/B0F23MQK6S?th=1&linkCode=sl2&tag=noya0b-20&linkId=baf2327f2f73a81974f1b365b534ba14&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0BPTH5H7H",
@@ -124,19 +137,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81w+6wd8IeL.jpg",
             "url": "https://www.amazon.com/dp/B0BPTH5H7H?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e3e95c5429dba2f6a1ad00667fdb319&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FNRZCPFM",
-            "slug": "go-score-select-candy-treats-cricut-items-more-random-things",
-            "title": "Go score select Candy, treats, cricut items, & more random things for BOGO 50% off!",
-            "price": "$3.97",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-3zKvjdVL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNRZCPFM?tag=noya0b-20"
           }
         ]
       },
@@ -219,6 +219,17 @@
           "url": "https://www.amazon.com/dp/B0011TWVWE?th=1&linkCode=sl2&tag=noya0b-20&linkId=d83ba79db5d15b89997e0fa5810571a2&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0F23MQK6S",
+          "slug": "-oasismile-l5-cordless-water-flosserdiy-adjustable-pressure",
+          "title": "\udecd️ OasiSmile L5 Cordless Water Flosser,DIY Adjustable Pressure for Dental Care",
+          "price": "$25.98",
+          "discount": 53,
+          "rating": "FIRE",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/617e+NkhpNL.jpg",
+          "url": "https://www.amazon.com/dp/B0F23MQK6S?th=1&linkCode=sl2&tag=noya0b-20&linkId=baf2327f2f73a81974f1b365b534ba14&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B0FKB52R52",
           "slug": "-ekouaer-womens-satin-tank-tops-summer-sleeveless-tops-v-nec",
           "title": "\udecd️ Ekouaer Womens Satin Tank Tops Summer Sleeveless Tops V Neck Casual Shirts",
@@ -239,17 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81w+6wd8IeL.jpg",
           "url": "https://www.amazon.com/dp/B0BPTH5H7H?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e3e95c5429dba2f6a1ad00667fdb319&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FNRZCPFM",
-          "slug": "go-score-select-candy-treats-cricut-items-more-random-things",
-          "title": "Go score select Candy, treats, cricut items, & more random things for BOGO 50% off!",
-          "price": "$3.97",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71-3zKvjdVL.jpg",
-          "url": "https://www.amazon.com/dp/B0FNRZCPFM?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-11T20:50:01.266Z",
-      "updatedAt": "2026-09-11T20:50:01.266Z"
+      "generatedAt": "2026-09-11T21:00:00.664Z",
+      "updatedAt": "2026-09-11T21:00:00.664Z"
     },
     {
       "date": "2026-09-10",
@@ -16315,5 +16315,5 @@
       "updatedAt": "2026-07-15T03:50:02.099Z"
     }
   ],
-  "generatedAt": "2026-09-11T20:50:01.280Z"
+  "generatedAt": "2026-09-11T21:00:00.679Z"
 }
