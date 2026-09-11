@@ -11,7 +11,8 @@
         "Toys & Kids",
         "Electronics",
         "Sports & Fitness",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Toys & Kids": [
@@ -110,17 +111,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71aVS+w2OXL.jpg",
             "url": "https://www.amazon.com/dp/B0FH2FWL6L?linkCode=sl2&tag=noya0b-20&linkId=87695c72bedf0a83369cc1d74c77acda&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08HRLX97K",
-            "slug": "-black-glitter-29-and-feeling-fine-cake-topper-cheers-to-29",
-            "title": "\udecd️ Black Glitter 29 and Feeling Fine Cake Topper -Cheers to 29 Years Cake Topper - 29th Birthday Anniversary Party Decor",
-            "price": "$15.99",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RbS7DInfL.jpg",
-            "url": "https://www.amazon.com/dp/B08HRLX97K?linkCode=sl2&tag=noya0b-20&linkId=e05efef06a99c16c76446eac79e8b570&language=en_US&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -134,6 +124,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81w+6wd8IeL.jpg",
             "url": "https://www.amazon.com/dp/B0BPTH5H7H?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e3e95c5429dba2f6a1ad00667fdb319&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0FNRZCPFM",
+            "slug": "go-score-select-candy-treats-cricut-items-more-random-things",
+            "title": "Go score select Candy, treats, cricut items, & more random things for BOGO 50% off!",
+            "price": "$3.97",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-3zKvjdVL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNRZCPFM?tag=noya0b-20"
           }
         ]
       },
@@ -227,6 +230,17 @@
           "url": "https://www.amazon.com/dp/B0BPTH5H7H?th=1&linkCode=sl2&tag=noya0b-20&linkId=4e3e95c5429dba2f6a1ad00667fdb319&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B0FNRZCPFM",
+          "slug": "go-score-select-candy-treats-cricut-items-more-random-things",
+          "title": "Go score select Candy, treats, cricut items, & more random things for BOGO 50% off!",
+          "price": "$3.97",
+          "discount": 50,
+          "rating": "FIRE",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-3zKvjdVL.jpg",
+          "url": "https://www.amazon.com/dp/B0FNRZCPFM?tag=noya0b-20"
+        },
+        {
           "asin": "B0FH2FWL6L",
           "slug": "-fall-in-love-cake-topper-fall-themed-wedding-cake-decoratio",
           "title": "\udecd️ Fall in Love Cake Topper, Fall Themed Wedding Cake Decorations, Autumn Thanksgiving Baby Shower Bridal Shower Wedding",
@@ -236,17 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71aVS+w2OXL.jpg",
           "url": "https://www.amazon.com/dp/B0FH2FWL6L?linkCode=sl2&tag=noya0b-20&linkId=87695c72bedf0a83369cc1d74c77acda&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08HRLX97K",
-          "slug": "-black-glitter-29-and-feeling-fine-cake-topper-cheers-to-29",
-          "title": "\udecd️ Black Glitter 29 and Feeling Fine Cake Topper -Cheers to 29 Years Cake Topper - 29th Birthday Anniversary Party Decor",
-          "price": "$15.99",
-          "discount": 50,
-          "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RbS7DInfL.jpg",
-          "url": "https://www.amazon.com/dp/B08HRLX97K?linkCode=sl2&tag=noya0b-20&linkId=e05efef06a99c16c76446eac79e8b570&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-11T20:00:00.566Z",
-      "updatedAt": "2026-09-11T20:00:00.566Z"
+      "generatedAt": "2026-09-11T20:10:00.988Z",
+      "updatedAt": "2026-09-11T20:10:00.988Z"
     },
     {
       "date": "2026-09-10",
@@ -16312,5 +16315,5 @@
       "updatedAt": "2026-07-15T03:50:02.099Z"
     }
   ],
-  "generatedAt": "2026-09-11T20:00:00.581Z"
+  "generatedAt": "2026-09-11T20:10:01.003Z"
 }
