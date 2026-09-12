@@ -9,7 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Beauty"
       ],
       "byCategory": {
         "Electronics": [
@@ -80,17 +81,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B07TFC6M2H?th=1&linkCode=sl2&tag=noya0b-20&linkId=a1c1b8f5c63dcb480b52ce3682bae95e&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B00F542DQU",
-            "slug": "-xprite-multi-color-emergency-strobe-dash-lights-interior-wi",
-            "title": "\udecd️ Xprite Multi Color Emergency Strobe Dash Lights, Interior Windshield Safety Warning Traffic Lights w/Suction Cups, Vi",
-            "price": "$11.49",
-            "discount": 50,
-            "rating": "FIRE",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xCAOSQUcL.jpg",
-            "url": "https://www.amazon.com/dp/B00F542DQU?th=1&linkCode=sl2&tag=noya0b-20&linkId=b562439681d180227b3743ce9d12c829&language=en_US&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -128,6 +118,19 @@
             "category": "Grocery & Food",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B09RGFV5C5?th=1&linkCode=sl2&tag=noya0b-20&linkId=c88454149de9803916fa8a1d05cfdd7e&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0FYJXVWTH",
+            "slug": "first-aid-beauty-ultra-repair-hydrating-pillow-pads-60-ct-so",
+            "title": "First Aid Beauty Ultra Repair Hydrating Pillow Pads, 60 ct | Soothing Face Pads with Colloidal Oatmeal & Ceramides for D",
+            "price": "$19",
+            "discount": 50,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0FYJXVWTH?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -232,15 +235,15 @@
           "url": "https://www.amazon.com/dp/B09RGFV5C5?th=1&linkCode=sl2&tag=noya0b-20&linkId=c88454149de9803916fa8a1d05cfdd7e&language=en_US&gaOptInStatus=true"
         },
         {
-          "asin": "B00F542DQU",
-          "slug": "-xprite-multi-color-emergency-strobe-dash-lights-interior-wi",
-          "title": "\udecd️ Xprite Multi Color Emergency Strobe Dash Lights, Interior Windshield Safety Warning Traffic Lights w/Suction Cups, Vi",
-          "price": "$11.49",
+          "asin": "B0FYJXVWTH",
+          "slug": "first-aid-beauty-ultra-repair-hydrating-pillow-pads-60-ct-so",
+          "title": "First Aid Beauty Ultra Repair Hydrating Pillow Pads, 60 ct | Soothing Face Pads with Colloidal Oatmeal & Ceramides for D",
+          "price": "$19",
           "discount": 50,
           "rating": "FIRE",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xCAOSQUcL.jpg",
-          "url": "https://www.amazon.com/dp/B00F542DQU?th=1&linkCode=sl2&tag=noya0b-20&linkId=b562439681d180227b3743ce9d12c829&language=en_US&gaOptInStatus=true"
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0FYJXVWTH?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-12T12:30:02.288Z",
-      "updatedAt": "2026-09-12T12:30:02.288Z"
+      "generatedAt": "2026-09-12T12:40:01.688Z",
+      "updatedAt": "2026-09-12T12:40:01.688Z"
     },
     {
       "date": "2026-09-11",
@@ -16309,5 +16312,5 @@
       "updatedAt": "2026-07-16T03:50:02.065Z"
     }
   ],
-  "generatedAt": "2026-09-12T12:30:02.302Z"
+  "generatedAt": "2026-09-12T12:40:01.703Z"
 }
