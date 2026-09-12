@@ -9,7 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Fashion",
-        "Electronics"
+        "Electronics",
+        "Grocery & Food"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -34,17 +35,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71mFbJO7HDL.jpg",
             "url": "https://www.amazon.com/dp/B0G6XW5LGW?th=1&linkCode=sl2&tag=noya0b-20&linkId=6ccc286c6e0e6d832372e206d4d62315&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CGZZ4MQM",
-            "slug": "-aidea-microfiber-cleaning-cloth-100pk-soft-absorbent-rags-m",
-            "title": "\udecd️ AIDEA Microfiber Cleaning Cloth 100PK, Soft Absorbent Rags, Microfiber Towels for Cars, Kitchen Towels, Dusting Cloth",
-            "price": "$7.19",
-            "discount": 10,
-            "rating": "GOOD",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lwqAY1c7L.jpg",
-            "url": "https://www.amazon.com/dp/B0CGZZ4MQM?th=1&linkCode=sl2&tag=noya0b-20&linkId=4b95af0fd439261188b01a39b20cd5f9&language=en_US&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -97,6 +87,17 @@
             "url": "https://www.amazon.com/dp/B079G9T23W?th=1&linkCode=sl2&tag=noya0b-20&linkId=b0a4642da1dae9cf8591b0fdbae50ab8&language=en_US&gaOptInStatus=true"
           },
           {
+            "asin": "B0CS9B35YC",
+            "slug": "-saw-palmetto-for-men-prostate-support-500mg-per-serving-100",
+            "title": "\udecd️ Saw Palmetto for Men Prostate Support - 500mg per Serving - 100 Capsules",
+            "price": "$14.99",
+            "discount": 10,
+            "rating": "GOOD",
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0CS9B35YC?th=1&linkCode=sl2&tag=noya0b-20&linkId=04c7fb2b5620638a222196d81b924851&language=en_US&gaOptInStatus=true"
+          },
+          {
             "asin": "B0CR6YH5DY",
             "slug": "-mojo-compression-socks-20-30mmhg-graduated-support-thigh-hi",
             "title": "\udecd️ Mojo Compression Socks - 20-30mmHg Graduated Support Thigh-Hi Leg Sleeves with Grip Top - Reduces Swelling, Ideal for",
@@ -117,17 +118,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0CVBJYQ3D?th=1&linkCode=sl2&tag=noya0b-20&linkId=cde01198ee7f135c797c631b23c5d876&language=en_US&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0FYPHTQQW",
-            "slug": "-neomag-sentry-strap-rifle-sling-retainer-band-rapid-deploym",
-            "title": "\udecd️ NEOMAG Sentry Strap Rifle Sling Retainer Band | Rapid Deployment Staging Device | Minimalist Modular Adjustable Strap",
-            "price": "$2.78",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71M0r2rvd6L.jpg",
-            "url": "https://www.amazon.com/dp/B0FYPHTQQW?th=1&linkCode=sl2&tag=noya0b-20&linkId=998465f1282d350730638232b515de5b&language=en_US&gaOptInStatus=true"
+            "asin": "B09TG369MG",
+            "slug": "-the-only-bean-high-protein-snacks-healthy-office-snack-heal",
+            "title": "\udecd️ The Only Bean High Protein Snacks, Healthy Office Snack, Healthy Snacks for Adults and Kids for Lunch, Vegan, Low Car",
+            "price": "$26.95",
+            "discount": 15,
+            "rating": "GOOD",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71W8D66Q5cL.jpg",
+            "url": "https://www.amazon.com/dp/B09TG369MG?th=1&linkCode=sl2&tag=noya0b-20&linkId=e77bcbbcfb5156dcc0f6709fd1efefd5&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -188,6 +191,17 @@
           "url": "https://www.amazon.com/dp/B0C89QVYBJ?th=1&linkCode=sl2&tag=noya0b-20&linkId=38afbe1ced58351a5d3ec2e654191c8d&language=en_US&gaOptInStatus=true"
         },
         {
+          "asin": "B09TG369MG",
+          "slug": "-the-only-bean-high-protein-snacks-healthy-office-snack-heal",
+          "title": "\udecd️ The Only Bean High Protein Snacks, Healthy Office Snack, Healthy Snacks for Adults and Kids for Lunch, Vegan, Low Car",
+          "price": "$26.95",
+          "discount": 15,
+          "rating": "GOOD",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71W8D66Q5cL.jpg",
+          "url": "https://www.amazon.com/dp/B09TG369MG?th=1&linkCode=sl2&tag=noya0b-20&linkId=e77bcbbcfb5156dcc0f6709fd1efefd5&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B079G9T23W",
           "slug": "-medvance-silicone-adhesive-foam-dressing-without-border-4x4",
           "title": "\udecd️ MedVance Silicone Adhesive Foam Dressing Without Border, 4\"x4\", Box of 5",
@@ -197,6 +211,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/711xOyyM7xL.jpg",
           "url": "https://www.amazon.com/dp/B079G9T23W?th=1&linkCode=sl2&tag=noya0b-20&linkId=b0a4642da1dae9cf8591b0fdbae50ab8&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0CS9B35YC",
+          "slug": "-saw-palmetto-for-men-prostate-support-500mg-per-serving-100",
+          "title": "\udecd️ Saw Palmetto for Men Prostate Support - 500mg per Serving - 100 Capsules",
+          "price": "$14.99",
+          "discount": 10,
+          "rating": "GOOD",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0CS9B35YC?th=1&linkCode=sl2&tag=noya0b-20&linkId=04c7fb2b5620638a222196d81b924851&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0CR6YH5DY",
@@ -219,28 +244,6 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0CVBJYQ3D?th=1&linkCode=sl2&tag=noya0b-20&linkId=cde01198ee7f135c797c631b23c5d876&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CGZZ4MQM",
-          "slug": "-aidea-microfiber-cleaning-cloth-100pk-soft-absorbent-rags-m",
-          "title": "\udecd️ AIDEA Microfiber Cleaning Cloth 100PK, Soft Absorbent Rags, Microfiber Towels for Cars, Kitchen Towels, Dusting Cloth",
-          "price": "$7.19",
-          "discount": 10,
-          "rating": "GOOD",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lwqAY1c7L.jpg",
-          "url": "https://www.amazon.com/dp/B0CGZZ4MQM?th=1&linkCode=sl2&tag=noya0b-20&linkId=4b95af0fd439261188b01a39b20cd5f9&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FYPHTQQW",
-          "slug": "-neomag-sentry-strap-rifle-sling-retainer-band-rapid-deploym",
-          "title": "\udecd️ NEOMAG Sentry Strap Rifle Sling Retainer Band | Rapid Deployment Staging Device | Minimalist Modular Adjustable Strap",
-          "price": "$2.78",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71M0r2rvd6L.jpg",
-          "url": "https://www.amazon.com/dp/B0FYPHTQQW?th=1&linkCode=sl2&tag=noya0b-20&linkId=998465f1282d350730638232b515de5b&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -250,7 +253,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 57% off on \"\udecd️ Cook N Home Professional Pots and Pans Nonstick Hard Anod...\". There are 9 deals with verified discounts today."
+          "a": "The biggest discount today is 57% off on \"\udecd️ Cook N Home Professional Pots and Pans Nonstick Hard Anod...\". There are 10 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-12T04:20:00.877Z",
-      "updatedAt": "2026-09-12T04:20:00.878Z"
+      "generatedAt": "2026-09-12T04:30:02.075Z",
+      "updatedAt": "2026-09-12T04:30:02.075Z"
     },
     {
       "date": "2026-09-11",
@@ -16309,5 +16312,5 @@
       "updatedAt": "2026-07-16T03:50:02.065Z"
     }
   ],
-  "generatedAt": "2026-09-12T04:20:00.885Z"
+  "generatedAt": "2026-09-12T04:30:02.090Z"
 }
