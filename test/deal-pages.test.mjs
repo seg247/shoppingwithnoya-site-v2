@@ -54,14 +54,23 @@ test('deal schema does not manufacture offers, sellers, stock or expiry from fee
   }
 });
 
-test('descriptive schema matches visible copy, without claiming merchant rich-result eligibility', () => {
-  for (const { deal, h1, summary, schemas } of documents) {
+test('deal pages retain WebPage metadata without unsupported Product rich-result entities', () => {
+  for (const { deal, title, description, schemas } of documents) {
     const schema = schemas.find(s => s['@type'] === 'WebPage');
-    assert.ok(schema, `No WebPage description for ${deal.slug}`);
-    assert.equal(schema.about['@type'], 'Product');
-    assert.equal(schema.about.name, h1);
-    assert.equal(schema.about.description, summary);
-    assert.ok(schema.about.description.length > 0);
-    assert.equal(schema.about.brand, undefined, 'No verified brand is present in this captured feed');
+    assert.ok(schema, `No WebPage metadata for ${deal.slug}`);
+    assert.equal(schema.name, title);
+    assert.equal(schema.description, description);
+    assert.equal(schema.url, `https://deals.shoppingwithnoya.com/deals/${deal.slug}`);
+    // Google detects Product even when nested under WebPage.about or @graph.
+    // Until an approved offer/review source exists, do not emit that entity.
+    const inspect = (node) => {
+      if (!node || typeof node !== 'object') return;
+      const types = [].concat(node['@type'] || []);
+      for (const type of types) {
+        assert.doesNotMatch(type, /(?:^|[/#:])Product(?:Group|Model)?$/, `Unsupported product entity on ${deal.slug}`);
+      }
+      for (const value of Object.values(node)) inspect(value);
+    };
+    for (const item of schemas) inspect(item);
   }
 });

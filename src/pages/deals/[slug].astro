@@ -47,20 +47,16 @@ const color = ratingColor(deal.rating);
 // Informational affiliate page, not a merchant offer. The current feed has
 // no approved exact-price/brand provenance. Do not infer a price from "$X.xx",
 // assert stock, invent an expiry, or name this affiliate site as the seller.
-// Price-rich results remain blocked until an approved data source is available.
+// Keep ordinary WebPage metadata only. Even a Product nested under "about"
+// is detected by Google and cannot qualify for Product rich results without
+// an approved offer or review.
+// Restore Product markup only when truthful, visible qualifying data is available.
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   url: canonicalUrl,
   name: pageTitle,
   description: pageDesc,
-  about: {
-    '@type': 'Product',
-    name: productName,
-    description: productDescription,
-    ...(imgUrl && { image: imgUrl }),
-    ...(deal.asin && { sku: deal.asin }),
-  },
 };
 ---
 
