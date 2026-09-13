@@ -11,8 +11,7 @@
         "Hair Care",
         "Nails",
         "Fragrance",
-        "Beauty",
-        "Body Care"
+        "Beauty"
       ],
       "bySubcat": {
         "Skincare": [
@@ -113,7 +112,7 @@
             "discount": 0,
             "rating": "WORTH A LOOK",
             "subcat": "Skincare",
-            "imageUrl": null,
+            "imageUrl": "https://m.media-amazon.com/images/I/61stV3m5fzL.jpg",
             "url": "https://www.amazon.com/dp/B0D6SL82YY?th=1&linkCode=sl2&tag=noya0b-20&linkId=b886e73e6faad194dff261f70ff50a01&language=en_US&gaOptInStatus=true"
           },
           {
@@ -145,6 +144,16 @@
             "subcat": "Skincare",
             "imageUrl": "https://m.media-amazon.com/images/I/81u5WCnBZgL.jpg",
             "url": "https://www.amazon.com/dp/B0FSCD86D3?tag=noya0b-20"
+          },
+          {
+            "asin": "B00AEN4QZ8",
+            "slug": "neutrogena-beach-defense-sunscreen-lotion-spf-70-only-3xx-on",
+            "title": "Neutrogena Beach Defense Sunscreen Lotion SPF 70 Only $3.xx on Amazon (Reg $10)",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "subcat": "Skincare",
+            "imageUrl": "https://m.media-amazon.com/images/I/71rXqMjR9JL.jpg",
+            "url": "https://www.amazon.com/Neutrogena-Resistant-Sunscreen-Spectrum-Fast-Absorbing/dp/B00AEN4QZ8?th=1&linkCode=sl2&tag=noya0b-20&linkId=89c2a842e442991c9de35c5ea2a96092&language=en_US"
           }
         ],
         "Makeup": [
@@ -315,18 +324,6 @@
             "subcat": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/611l7iT4LVL.jpg",
             "url": "https://www.amazon.com/dp/B09F2PX6C3?linkCode=sl2&tag=noya0b-20&linkId=a84ea37536729dc18322fdb10ba29cef&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Body Care": [
-          {
-            "asin": "B07Q9RYX5Z",
-            "slug": "-palmers-raw-shea-body-lotion-for-dry-skin-338-oz",
-            "title": "\udecd️ Palmer's Raw Shea Body Lotion for Dry Skin (33.8 Oz)",
-            "discount": 5,
-            "rating": "WORTH A LOOK",
-            "subcat": "Body Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ME96Pci6L.jpg",
-            "url": "https://www.amazon.com/dp/B07Q9RYX5Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=101532e63bf9edaf4c7eb689d578a040&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -542,16 +539,6 @@
           "url": "https://www.amazon.com/dp/B0D6BMGP8Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=558a120158d0d51ca2ebc3d886c59985&language=en_US&gaOptInStatus=true"
         },
         {
-          "asin": "B07Q9RYX5Z",
-          "slug": "-palmers-raw-shea-body-lotion-for-dry-skin-338-oz",
-          "title": "\udecd️ Palmer's Raw Shea Body Lotion for Dry Skin (33.8 Oz)",
-          "discount": 5,
-          "rating": "WORTH A LOOK",
-          "subcat": "Body Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ME96Pci6L.jpg",
-          "url": "https://www.amazon.com/dp/B07Q9RYX5Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=101532e63bf9edaf4c7eb689d578a040&language=en_US&gaOptInStatus=true"
-        },
-        {
           "asin": "B07GHS37LC",
           "slug": "collagen-anti-aging-moisturizing-and-firming-day-cream-hydra",
           "title": "Collagen ++Anti-Aging Moisturizing and Firming Day Cream, Hydrating Cream, Anti Wrinkle Face & Neck Peptide : Beauty & Personal Care",
@@ -588,7 +575,7 @@
           "discount": 0,
           "rating": "WORTH A LOOK",
           "subcat": "Skincare",
-          "imageUrl": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/61stV3m5fzL.jpg",
           "url": "https://www.amazon.com/dp/B0D6SL82YY?th=1&linkCode=sl2&tag=noya0b-20&linkId=b886e73e6faad194dff261f70ff50a01&language=en_US&gaOptInStatus=true"
         },
         {
@@ -630,6 +617,16 @@
           "subcat": "Skincare",
           "imageUrl": "https://m.media-amazon.com/images/I/81u5WCnBZgL.jpg",
           "url": "https://www.amazon.com/dp/B0FSCD86D3?tag=noya0b-20"
+        },
+        {
+          "asin": "B00AEN4QZ8",
+          "slug": "neutrogena-beach-defense-sunscreen-lotion-spf-70-only-3xx-on",
+          "title": "Neutrogena Beach Defense Sunscreen Lotion SPF 70 Only $3.xx on Amazon (Reg $10)",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "subcat": "Skincare",
+          "imageUrl": "https://m.media-amazon.com/images/I/71rXqMjR9JL.jpg",
+          "url": "https://www.amazon.com/Neutrogena-Resistant-Sunscreen-Spectrum-Fast-Absorbing/dp/B00AEN4QZ8?th=1&linkCode=sl2&tag=noya0b-20&linkId=89c2a842e442991c9de35c5ea2a96092&language=en_US"
         }
       ],
       "featuredDeal": {
@@ -668,8 +665,8 @@
           "a": "All beauty deals on Shopping With Noya are hand-picked from trusted brands and top-rated products. Links go directly to the retailer — check reviews and ratings on the product page before buying."
         }
       ],
-      "generatedAt": "2026-09-13T05:20:02.904Z",
-      "updatedAt": "2026-09-13T05:20:02.904Z"
+      "generatedAt": "2026-09-13T05:30:03.566Z",
+      "updatedAt": "2026-09-13T05:30:03.566Z"
     },
     {
       "date": "2026-09-12",
@@ -39721,5 +39718,5 @@
       "updatedAt": "2026-07-17T03:50:02.844Z"
     }
   ],
-  "generatedAt": "2026-09-13T05:20:02.917Z"
+  "generatedAt": "2026-09-13T05:30:03.582Z"
 }
