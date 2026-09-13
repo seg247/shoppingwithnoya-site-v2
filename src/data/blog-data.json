@@ -13,6 +13,30 @@
         "Fashion"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0B9J6F56H",
+            "slug": "goodcook-4-piece-nonstick-steel-toaster-oven-set-with-sheet",
+            "title": "GoodCook 4-Piece Nonstick Steel Toaster Oven Set with Sheet Pan, Rack, Cake Pan, and Muffin Pan, Gray, 4-Piece Set Distr",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71lCQICMOOL.jpg",
+            "url": "https://www.amazon.com/dp/B0B9J6F56H?th=1&linkCode=sl2&tag=noya0b-20&linkId=d13f0cf9a23dd789bfc8b543a2209f4c&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FN7VY5LY",
+            "slug": "mqupin-sourdough-starter-warmer-even-heating-water-bath-sour",
+            "title": "MQUPIN Sourdough Starter Warmer, Even Heating Water Bath Sourdough Warmer, 1°F Precise Thermostat (70-104°F),198H Timer,",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ggAI1-GiL.jpg",
+            "url": "https://www.amazon.com/dp/B0FN7VY5LY/ref=cm_sw_r_as_gl_api_gl_i_dl_01KQVJ5G9FN8WV05KNVA?linkCode=ml1&tag=noya0b-20&linkId=62f2ac8bd88852b24a57f9b89720061e&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0H5QL54NQ",
@@ -68,30 +92,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51hm8-fJJkL.jpg",
             "url": "https://www.amazon.com/dp/B0CHGFG64S/ref=cm_sw_r_as_gl_api_gl_i_SG8JGR88Y6TNGXPTB2BS?linkCode=ml1&tag=noya0b-20&linkId=770ca6a7764ce1b2b2e11f04c5d347f5&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DLH9WL8V",
-            "slug": "fisher-price-wood-montessori-dressing-board-busy-activity",
-            "title": "Fisher-Price Wood Montessori Dressing Board Busy Activity",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ljOqVf-cL.jpg",
-            "url": "https://www.amazon.com/dp/B0DLH9WL8V/ref=cm_sw_r_as_gl_api_gl_i_MVHSFWQJDBKE3APR8A7B?linkCode=ml1&tag=noya0b-20&linkId=fd53fcc15a0f3ef7befd9b9d28ed09c5&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FN7VY5LY",
-            "slug": "mqupin-sourdough-starter-warmer-even-heating-water-bath-sour",
-            "title": "MQUPIN Sourdough Starter Warmer, Even Heating Water Bath Sourdough Warmer, 1°F Precise Thermostat (70-104°F),198H Timer,",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ggAI1-GiL.jpg",
-            "url": "https://www.amazon.com/dp/B0FN7VY5LY/ref=cm_sw_r_as_gl_api_gl_i_dl_01KQVJ5G9FN8WV05KNVA?linkCode=ml1&tag=noya0b-20&linkId=62f2ac8bd88852b24a57f9b89720061e&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0B9J6F56H",
+          "slug": "goodcook-4-piece-nonstick-steel-toaster-oven-set-with-sheet",
+          "title": "GoodCook 4-Piece Nonstick Steel Toaster Oven Set with Sheet Pan, Rack, Cake Pan, and Muffin Pan, Gray, 4-Piece Set Distr",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71lCQICMOOL.jpg",
+          "url": "https://www.amazon.com/dp/B0B9J6F56H?th=1&linkCode=sl2&tag=noya0b-20&linkId=d13f0cf9a23dd789bfc8b543a2209f4c&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0H5QL54NQ",
           "slug": "maxpeedingrods-mini-chainsaw-cordless-6-inch-small-chainsaw",
@@ -233,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51hm8-fJJkL.jpg",
           "url": "https://www.amazon.com/dp/B0CHGFG64S/ref=cm_sw_r_as_gl_api_gl_i_SG8JGR88Y6TNGXPTB2BS?linkCode=ml1&tag=noya0b-20&linkId=770ca6a7764ce1b2b2e11f04c5d347f5&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DLH9WL8V",
-          "slug": "fisher-price-wood-montessori-dressing-board-busy-activity",
-          "title": "Fisher-Price Wood Montessori Dressing Board Busy Activity",
-          "price": "$12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ljOqVf-cL.jpg",
-          "url": "https://www.amazon.com/dp/B0DLH9WL8V/ref=cm_sw_r_as_gl_api_gl_i_MVHSFWQJDBKE3APR8A7B?linkCode=ml1&tag=noya0b-20&linkId=fd53fcc15a0f3ef7befd9b9d28ed09c5&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 13, 2026?",
-          "a": "The best deals today include \"maXpeedingrods Mini Chainsaw Cordless, 6 inch Small Chainsaw...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
+          "a": "The best deals today include \"GoodCook 4-Piece Nonstick Steel Toaster Oven Set with Sheet ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-13T14:40:01.761Z",
-      "updatedAt": "2026-09-13T14:40:01.761Z"
+      "generatedAt": "2026-09-13T14:50:02.226Z",
+      "updatedAt": "2026-09-13T14:50:02.226Z"
     },
     {
       "date": "2026-09-12",
@@ -16262,5 +16262,5 @@
       "updatedAt": "2026-07-17T03:50:00.495Z"
     }
   ],
-  "generatedAt": "2026-09-13T14:40:01.770Z"
+  "generatedAt": "2026-09-13T14:50:02.233Z"
 }
