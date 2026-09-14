@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Shopping Guides | Shopping With Noya" description="Practical shopping guides to help you understand coupons, subscriptions and the terms behind an offer before you buy.">
+  <section class="guide-hub">
+    <h1>Shopping Guides</h1>
+    <p class="intro">Understand the offer before you buy. Start with a practical checklist for Amazon coupons and repeat deliveries.</p>
+    <a class="guide-card" href="/guides/amazon-coupons-subscribe-save/">
+      <span class="label">AMAZON SHOPPING</span>
+      <h2>Amazon Coupons &amp; Subscribe &amp; Save: Check What You’ll Actually Pay</h2>
+      <p>Compare one-time and subscription orders, check coupon conditions, and avoid surprises on later deliveries.</p>
+      <span class="read">Read the guide →</span>
+    </a>
+    <a class="back" href="/">Browse current deals →</a>
+  </section>
+</Base>
+<style>
+  .guide-hub { max-width: 860px; margin: auto; line-height: 1.65; }
+  h1 { font-size: clamp(2rem, 6vw, 3rem); line-height: 1.2; margin-bottom: 20px; }
+  .intro { color: #cbd5e1; margin-bottom: 28px; max-width: 650px; }
+  .guide-card { display: block; padding: clamp(18px, 4vw, 32px); border: 1px solid #475569; border-radius: 16px; background: #1e293b; color: #e2e8f0; }
+  .guide-card:hover { border-color: #93c5fd; text-decoration: none; }
+  .guide-card:focus-visible { outline: 3px solid #93c5fd; outline-offset: 4px; }
+  .label { color: #93c5fd; font-size: .8rem; letter-spacing: .08em; font-weight: 700; }
+  h2 { font-size: clamp(1.35rem, 4vw, 1.8rem); line-height: 1.35; margin: 12px 0; }
+  .read { display: block; color: #93c5fd; margin-top: 20px; text-decoration: underline; }
+  .back { display: inline-block; margin-top: 28px; text-decoration: underline; }
+</style>

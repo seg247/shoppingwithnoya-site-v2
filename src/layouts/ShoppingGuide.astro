@@ -1,0 +1,25 @@
+---
+import Base from './Base.astro';
+const { frontmatter } = Astro.props;
+---
+<Base title={frontmatter.seo_title} description={frontmatter.meta_description} type="article">
+  <article class="shopping-guide">
+    <a class="back-link" href="/guides/">← Shopping Guides</a>
+    <p class="review-date">Published September 14, 2026 · Sources checked September 14, 2026</p>
+    <slot />
+  </article>
+</Base>
+<style>
+  .shopping-guide { max-width: 760px; margin: 0 auto; padding-bottom: 24px; font-size: 1.05rem; line-height: 1.8; overflow-wrap: anywhere; }
+  .back-link { display: inline-block; margin-bottom: 12px; }
+  .review-date { color: #cbd5e1; font-size: .85rem; }
+  .shopping-guide :global(h1) { font-size: clamp(1.85rem, 5vw, 2.6rem); line-height: 1.2; margin: 20px 0; color: #f8fafc; }
+  .shopping-guide :global(h2) { font-size: 1.45rem; line-height: 1.35; margin: 36px 0 14px; color: #f8fafc; }
+  .shopping-guide :global(h3) { font-size: 1.15rem; line-height: 1.4; margin: 24px 0 10px; }
+  .shopping-guide :global(p) { margin-bottom: 18px; }
+  .shopping-guide :global(ul) { padding-left: 24px; margin: 12px 0 22px; }
+  .shopping-guide :global(li) { padding-left: 3px; margin-bottom: 10px; }
+  .shopping-guide :global(a) { color: #93c5fd; text-decoration: underline; text-underline-offset: 3px; }
+  .shopping-guide :global(a:focus-visible) { outline: 2px solid #93c5fd; outline-offset: 3px; }
+  .shopping-guide :global(.sources) { border-top: 1px solid #334155; margin-top: 36px; padding-top: 10px; font-size: .9rem; }
+</style>

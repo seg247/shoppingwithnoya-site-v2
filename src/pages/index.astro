@@ -1,6 +1,7 @@
 ---
 import siteData from '../data/site-data.json';
 import SkipLink from '../components/SkipLink.astro';
+import GuideNavigation from '../components/GuideNavigation.astro';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
@@ -879,6 +880,7 @@ const timeAgoSSR = (ts) => {
       Telegram
     </a>
   </nav>
+  <GuideNavigation />
 
   <main id="main-content" tabindex="-1">
   <!-- HERO STRIP -->
