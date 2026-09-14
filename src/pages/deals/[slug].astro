@@ -1,17 +1,20 @@
 ---
 import Base from '../../layouts/Base.astro';
+import ArchivedDeal from '../../components/ArchivedDeal.astro';
+import { archiveEntries } from '../../lib/deal-archive.mjs';
 import siteData from '../../data/site-data.json';
 import { cleanText, dealMetadata } from '../../lib/deal-metadata.mjs';
 import { serializeStructuredData } from '../../lib/structured-data.mjs';
 
 export async function getStaticPaths() {
-  return siteData.posts.map(deal => ({
+  return [...siteData.posts, ...archiveEntries(siteData)].map(deal => ({
     params: { slug: deal.slug },
     props: { deal },
   }));
 }
 
 const { deal } = Astro.props;
+const archived=deal.status==='archived';
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const canonicalUrl = `https://deals.shoppingwithnoya.com/deals/${deal.slug}`;
 
@@ -60,10 +63,11 @@ const jsonLd = {
 };
 ---
 
-<Base title={pageTitle} description={pageDesc} image={imgUrl || undefined} url={canonicalUrl} type="product">
+<Base title={pageTitle} description={pageDesc} image={(!archived && imgUrl) || undefined} url={canonicalUrl} type={archived ? "website" : "product"} noindex={archived}>
 
   <script type="application/ld+json" set:html={serializeStructuredData(jsonLd)} />
 
+  {archived ? <ArchivedDeal deal={deal} posts={siteData.posts} /> : (
   <article class="deal-page">
 
     <!-- Breadcrumb -->
@@ -128,6 +132,7 @@ const jsonLd = {
     <a href={base || '/'} class="back-link">← Back to all deals</a>
 
   </article>
+  )}
 
 </Base>
 

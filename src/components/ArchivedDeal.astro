@@ -1,0 +1,45 @@
+---
+import { archiveCategoryLink, amazonProductAsin } from '../lib/deal-archive.mjs';
+const { deal, posts } = Astro.props;
+const categoryLink=archiveCategoryLink(deal.category,posts);
+const current=posts.find(p=>p.asin===deal.asin && amazonProductAsin(p.url)===deal.asin);
+const posted=new Date(deal.ts).toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'America/New_York'});
+---
+<article class="archived-deal">
+  <p class="archive-label">Older listing</p>
+  <h1>{deal.title}</h1>
+  <div class="archive-notice">
+    <strong>Older listing — this offer has not been rechecked.</strong>
+    <p>The original discount may no longer be available. Check the current price, seller, availability and any conditions at Amazon before buying.</p>
+  </div>
+  <p class="posted">Originally posted {posted}. This is the posting date, not a price-check date.</p>
+  <p>Product ID (ASIN): <code>{deal.asin}</code></p>
+  <a class="archive-retailer" href={deal.url} target="_blank" rel="sponsored nofollow noopener">Check current price at Amazon</a>
+  <p class="disclosure">#ad — As an Amazon Associate, I earn from qualifying purchases.</p>
+  <section class="alternatives" aria-labelledby="archive-options">
+    <h2 id="archive-options">Looking for current offers?</h2>
+    <ul>
+      {current && <li><a href={`/deals/${current.slug}/`}>View the latest listing for this product</a></li>}
+      {categoryLink && <li><a href={categoryLink}>Browse current {deal.category} listings</a></li>}
+      <li><a href="/">Browse all current deals</a></li>
+      <li><a href="/guides/">Read the shopping guides</a></li>
+    </ul>
+  </section>
+</article>
+<style>
+  .archived-deal { max-width: 760px; margin: auto; line-height: 1.7; overflow-wrap: anywhere; }
+  h1 { font-size: clamp(1.7rem,5vw,2.3rem); line-height: 1.25; margin: 12px 0 24px; }
+  .archive-label { color: #fcd34d; font-weight: 700; }
+  .archive-notice { padding: 20px; border: 1px solid #64748b; border-radius: 12px; background: #1e293b; margin-bottom: 20px; }
+  .archive-notice p { margin-top: 10px; }
+  .posted,.disclosure { color: #cbd5e1; }
+  .archive-retailer { display: inline-block; margin: 22px 0 14px; padding: 12px 20px; border-radius: 8px; background: #f59e0b; color: #0f172a; font-weight: 700; }
+  .archive-retailer:hover { background: #fbbf24; text-decoration: none; }
+  a:focus-visible { outline: 3px solid #93c5fd; outline-offset: 4px; }
+  .disclosure { font-size: .85rem; }
+  .alternatives { margin-top: 32px; border-top: 1px solid #334155; padding-top: 22px; }
+  h2 { font-size: 1.3rem; margin-bottom: 12px; }
+  ul { padding-left: 24px; }
+  li { margin: 10px 0; }
+  li a { text-decoration: underline; text-underline-offset: 3px; }
+</style>
