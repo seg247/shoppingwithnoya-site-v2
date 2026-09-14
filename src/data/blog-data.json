@@ -10,24 +10,21 @@
         "Pet Supplies",
         "Toys & Kids",
         "Electronics",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
-        "Pet Supplies": [
+        "Other": [
           {
-            "asin": "B0CY21FD65",
-            "slug": "e-clover-girl-dog-collars-heart-dog-collar-matching-scrunchi",
-            "title": "\udecd️E-Clover Girl Dog Collars-Heart Dog Collar & Matching Scrunchie Adjustable Girl Boy Dog Collars for XS Small Dogs Owne",
-            "price": "$6.99",
+            "asin": "B0GXPMJWN8",
+            "slug": "yanpls-fake-cactus-large-artificial-saguaro-potted-floor-pla",
+            "title": "\udecd️YANPLS Fake Cactus Large Artificial Saguaro Potted Floor Plant for Desert",
+            "price": "$55.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71tJw3HAFmL.jpg",
-            "url": "https://www.amazon.com/dp/B0CY21FD65/ref=cm_sw_r_as_gl_api_gl_i_dl_EF4WVZC815V371WCKKFG?linkCode=ml1&tag=noya0b-20&linkId=30437e897028cfabcba25179bca0391e&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WtHe5DuxL.jpg",
+            "url": "https://www.amazon.com/dp/B0GXPMJWN8/ref=cm_sw_r_as_gl_api_gl_i_R4E18DNBP0ZTNKRDGQWT?linkCode=ml1&tag=noya0b-20&linkId=b3eb3e609868e524e9c74e5eeb3f05b9&gaOptInStatus=true"
+          },
           {
             "asin": "B08QW4NHYN",
             "slug": "simple-joys-by-carters-girls-3-pack-bike-shorts",
@@ -84,6 +81,19 @@
             "url": "https://www.amazon.com/dp/B0DLH9WL8V/ref=cm_sw_r_as_gl_api_gl_i_W6532RZZBK2MZZ0YBZXM?linkCode=ml1&tag=noya0b-20&linkId=f472cae9ab6ca7d43ea4642c9e4c8e59&gaOptInStatus=true"
           }
         ],
+        "Pet Supplies": [
+          {
+            "asin": "B0CY21FD65",
+            "slug": "e-clover-girl-dog-collars-heart-dog-collar-matching-scrunchi",
+            "title": "\udecd️E-Clover Girl Dog Collars-Heart Dog Collar & Matching Scrunchie Adjustable Girl Boy Dog Collars for XS Small Dogs Owne",
+            "price": "$6.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71tJw3HAFmL.jpg",
+            "url": "https://www.amazon.com/dp/B0CY21FD65/ref=cm_sw_r_as_gl_api_gl_i_dl_EF4WVZC815V371WCKKFG?linkCode=ml1&tag=noya0b-20&linkId=30437e897028cfabcba25179bca0391e&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0F6XVFX5V",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71wEbuBaTuL.jpg",
             "url": "https://www.amazon.com/dp/B08JPQFPKG/ref=cm_sw_r_as_gl_api_gl_i_5CMXZKT8XS3S029MVH5H?linkCode=ml1&tag=noya0b-20&linkId=b7b402c098aa4d01054de3a3dd9a3fb8&gaOptInStatus=true"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00094H4LU",
-            "slug": "paper-mate-erasers-pink-pearl-12-count-latex-free-and-smudge",
-            "title": "Paper Mate Erasers, Pink Pearl, 12 Count - Latex Free and Smudge Resistant, Back to School, Teacher Supplies",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wp25RpGdL.jpg",
-            "url": "https://www.amazon.com/dp/B00094H4LU/ref=cm_sw_r_as_gl_api_gl_i_MEBS8QQQ3FG9EZAJS5PV?linkCode=ml1&tag=noya0b-20&linkId=a60baca7a74ecf4b43b6bd257b89c389&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GXPMJWN8",
+          "slug": "yanpls-fake-cactus-large-artificial-saguaro-potted-floor-pla",
+          "title": "\udecd️YANPLS Fake Cactus Large Artificial Saguaro Potted Floor Plant for Desert",
+          "price": "$55.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61WtHe5DuxL.jpg",
+          "url": "https://www.amazon.com/dp/B0GXPMJWN8/ref=cm_sw_r_as_gl_api_gl_i_R4E18DNBP0ZTNKRDGQWT?linkCode=ml1&tag=noya0b-20&linkId=b3eb3e609868e524e9c74e5eeb3f05b9&gaOptInStatus=true"
+        },
         {
           "asin": "B0CY21FD65",
           "slug": "e-clover-girl-dog-collars-heart-dog-collar-matching-scrunchi",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0DLH9WL8V/ref=cm_sw_r_as_gl_api_gl_i_W6532RZZBK2MZZ0YBZXM?linkCode=ml1&tag=noya0b-20&linkId=f472cae9ab6ca7d43ea4642c9e4c8e59&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00094H4LU",
-          "slug": "paper-mate-erasers-pink-pearl-12-count-latex-free-and-smudge",
-          "title": "Paper Mate Erasers, Pink Pearl, 12 Count - Latex Free and Smudge Resistant, Back to School, Teacher Supplies",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71wp25RpGdL.jpg",
-          "url": "https://www.amazon.com/dp/B00094H4LU/ref=cm_sw_r_as_gl_api_gl_i_MEBS8QQQ3FG9EZAJS5PV?linkCode=ml1&tag=noya0b-20&linkId=a60baca7a74ecf4b43b6bd257b89c389&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 14, 2026?",
-          "a": "The best deals today include \"\udecd️E-Clover Girl Dog Collars-Heart Dog Collar & Matching Scru...\" and 9 other hand-picked discounts. Deals span Other, Pet Supplies, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"\udecd️YANPLS Fake Cactus Large Artificial Saguaro Potted Floor P...\" and 9 other hand-picked discounts. Deals span Other, Pet Supplies, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-14T14:10:02.485Z",
-      "updatedAt": "2026-09-14T14:10:02.485Z"
+      "generatedAt": "2026-09-14T14:20:02.099Z",
+      "updatedAt": "2026-09-14T14:20:02.099Z"
     },
     {
       "date": "2026-09-13",
@@ -16268,5 +16265,5 @@
       "updatedAt": "2026-07-18T03:50:01.979Z"
     }
   ],
-  "generatedAt": "2026-09-14T14:10:02.491Z"
+  "generatedAt": "2026-09-14T14:20:02.105Z"
 }
