@@ -11,50 +11,21 @@
         "Electronics",
         "Beauty",
         "Grocery & Food",
-        "Fashion",
-        "Home & Kitchen"
+        "Fashion"
       ],
       "byCategory": {
-        "Toys & Kids": [
-          {
-            "asin": "B0F6XVFX5V",
-            "slug": "mochi-squishy-toys-27-mini-kawaii-squishies-party-favors-for",
-            "title": "Mochi Squishy Toys, 27 Mini Kawaii Squishies Party Favors for Kids 4-8 8-12",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xJJTdtvjL.jpg",
-            "url": "https://www.amazon.com/dp/B0F6XVFX5V/ref=cm_sw_r_as_gl_api_gl_i_GRK2DAD2MYRHESHMHVE2?linkCode=ml1&tag=noya0b-20&linkId=765ad22d5c2c53c245118eb5045994c4&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DS8Y6748",
-            "slug": "jakks-pacific-kids-mickey-mouse-wiggle-stool-wobble-stools-f",
-            "title": "JAKKS Pacific Kid's Mickey Mouse Wiggle Stool Wobble Stools for Seating - Active Learning Stool for Kids, Sitting Balanc",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61k62bMBdKL.jpg",
-            "url": "https://www.amazon.com/dp/B0DS8Y6748/ref=cm_sw_r_as_gl_api_gl_i_DE4SG94V0SP24CCQG0SH?linkCode=ml1&tag=noya0b-20&linkId=52252517dc2d03114f39f210d028aaf2&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B08JPQFPKG",
-            "slug": "nishel-travel-toiletry-bag-for-women-portable-hanging-makeup",
-            "title": "NISHEL Travel Toiletry Bag for women, Portable Hanging makeup Organizer",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wEbuBaTuL.jpg",
-            "url": "https://www.amazon.com/dp/B08JPQFPKG/ref=cm_sw_r_as_gl_api_gl_i_5CMXZKT8XS3S029MVH5H?linkCode=ml1&tag=noya0b-20&linkId=b7b402c098aa4d01054de3a3dd9a3fb8&gaOptInStatus=true"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B08QW4NHYN",
+            "slug": "simple-joys-by-carters-girls-3-pack-bike-shorts",
+            "title": "\udecd️Simple Joys by Carter's Girls' 3-Pack Bike Shorts",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81doNU8WiUL.jpg",
+            "url": "https://www.amazon.com/dp/B08QW4NHYN/ref=cm_sw_r_as_gl_api_gl_i_EA3NWD0JJGY6Z1GPN3WJ?linkCode=ml1&tag=noya0b-20&linkId=a2a3e09666b5205c1ffa621dfeb9343a&gaOptInStatus=true"
+          },
           {
             "asin": "B0CQBYVGPF",
             "slug": "blisstrends-magnetic-screen-door-mesh-screen-doors3883",
@@ -100,6 +71,45 @@
             "url": "https://www.amazon.com/dp/B0DLH9WL8V/ref=cm_sw_r_as_gl_api_gl_i_W6532RZZBK2MZZ0YBZXM?linkCode=ml1&tag=noya0b-20&linkId=f472cae9ab6ca7d43ea4642c9e4c8e59&gaOptInStatus=true"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0F6XVFX5V",
+            "slug": "mochi-squishy-toys-27-mini-kawaii-squishies-party-favors-for",
+            "title": "Mochi Squishy Toys, 27 Mini Kawaii Squishies Party Favors for Kids 4-8 8-12",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71xJJTdtvjL.jpg",
+            "url": "https://www.amazon.com/dp/B0F6XVFX5V/ref=cm_sw_r_as_gl_api_gl_i_GRK2DAD2MYRHESHMHVE2?linkCode=ml1&tag=noya0b-20&linkId=765ad22d5c2c53c245118eb5045994c4&gaOptInStatus=true"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0DS8Y6748",
+            "slug": "jakks-pacific-kids-mickey-mouse-wiggle-stool-wobble-stools-f",
+            "title": "JAKKS Pacific Kid's Mickey Mouse Wiggle Stool Wobble Stools for Seating - Active Learning Stool for Kids, Sitting Balanc",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61k62bMBdKL.jpg",
+            "url": "https://www.amazon.com/dp/B0DS8Y6748/ref=cm_sw_r_as_gl_api_gl_i_DE4SG94V0SP24CCQG0SH?linkCode=ml1&tag=noya0b-20&linkId=52252517dc2d03114f39f210d028aaf2&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B08JPQFPKG",
+            "slug": "nishel-travel-toiletry-bag-for-women-portable-hanging-makeup",
+            "title": "NISHEL Travel Toiletry Bag for women, Portable Hanging makeup Organizer",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wEbuBaTuL.jpg",
+            "url": "https://www.amazon.com/dp/B08JPQFPKG/ref=cm_sw_r_as_gl_api_gl_i_5CMXZKT8XS3S029MVH5H?linkCode=ml1&tag=noya0b-20&linkId=b7b402c098aa4d01054de3a3dd9a3fb8&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B00094H4LU",
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61mREKxzhIL.jpg",
             "url": "https://www.amazon.com/dp/B0FM7DSZPQ/ref=cm_sw_r_as_gl_api_gl_i_dl_AN0JM222MWH4NP0Q8X44?linkCode=ml1&tag=noya0b-20&linkId=edd2e2489bc4660704967a187c2e0e8b&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FP28Y6W5",
-            "slug": "tivoli-2025-knife-set-15-pcs-high-carbon-stainless-steel-kit",
-            "title": "TIVOLI 2025 Knife Set 15 PCS High Carbon Stainless Steel Kitchen Knife Sets",
-            "price": "$29",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61h-Hf8mwiL.jpg",
-            "url": "https://www.amazon.com/dp/B0FP28Y6W5/ref=cm_sw_r_as_gl_api_gl_i_dl_EEQH39DNVG9JJMH2ZXS4?linkCode=ml1&tag=noya0b-20&linkId=2c3e97077d251ee1238f8cacae004821&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08QW4NHYN",
+          "slug": "simple-joys-by-carters-girls-3-pack-bike-shorts",
+          "title": "\udecd️Simple Joys by Carter's Girls' 3-Pack Bike Shorts",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81doNU8WiUL.jpg",
+          "url": "https://www.amazon.com/dp/B08QW4NHYN/ref=cm_sw_r_as_gl_api_gl_i_EA3NWD0JJGY6Z1GPN3WJ?linkCode=ml1&tag=noya0b-20&linkId=a2a3e09666b5205c1ffa621dfeb9343a&gaOptInStatus=true"
+        },
         {
           "asin": "B0F6XVFX5V",
           "slug": "mochi-squishy-toys-27-mini-kawaii-squishies-party-favors-for",
@@ -239,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61mREKxzhIL.jpg",
           "url": "https://www.amazon.com/dp/B0FM7DSZPQ/ref=cm_sw_r_as_gl_api_gl_i_dl_AN0JM222MWH4NP0Q8X44?linkCode=ml1&tag=noya0b-20&linkId=edd2e2489bc4660704967a187c2e0e8b&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FP28Y6W5",
-          "slug": "tivoli-2025-knife-set-15-pcs-high-carbon-stainless-steel-kit",
-          "title": "TIVOLI 2025 Knife Set 15 PCS High Carbon Stainless Steel Kitchen Knife Sets",
-          "price": "$29",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61h-Hf8mwiL.jpg",
-          "url": "https://www.amazon.com/dp/B0FP28Y6W5/ref=cm_sw_r_as_gl_api_gl_i_dl_EEQH39DNVG9JJMH2ZXS4?linkCode=ml1&tag=noya0b-20&linkId=2c3e97077d251ee1238f8cacae004821&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 14, 2026?",
-          "a": "The best deals today include \"Mochi Squishy Toys, 27 Mini Kawaii Squishies Party Favors fo...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️Simple Joys by Carter's Girls' 3-Pack Bike Shorts...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-14T13:40:01.875Z",
-      "updatedAt": "2026-09-14T13:40:01.875Z"
+      "generatedAt": "2026-09-14T13:50:01.678Z",
+      "updatedAt": "2026-09-14T13:50:01.678Z"
     },
     {
       "date": "2026-09-13",
@@ -16271,5 +16268,5 @@
       "updatedAt": "2026-07-18T03:50:01.979Z"
     }
   ],
-  "generatedAt": "2026-09-14T13:40:01.882Z"
+  "generatedAt": "2026-09-14T13:50:01.687Z"
 }
