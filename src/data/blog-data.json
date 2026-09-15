@@ -4,15 +4,39 @@
       "date": "2026-09-15",
       "slug": "2026-09-15",
       "title": "🔥 Best Deals Today — September 15, 2026",
-      "intro": "Today's best online deals for Tuesday, September 15, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, September 15, 2026 — 10 hand-picked discounts across Home & Kitchen, Toys & Kids, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
         "Home & Kitchen",
-        "Grocery & Food",
         "Toys & Kids",
+        "Grocery & Food",
+        "Other",
         "Electronics"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0H6BB22MW",
+            "slug": "2-pcs-slow-rising-squishy-squeeze-toy-non-toxic-pu",
+            "title": "2 Pcs Slow Rising Squishy Squeeze Toy Non-Toxic PU",
+            "price": "$3.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71YNtXmCtuL.jpg",
+            "url": "https://www.amazon.com/dp/B0H6BB22MW?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=a398bd392eef72bfaeb01f0b376d33ad&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B076DPSZ8L",
+            "slug": "super-mario-world-of-nintendo-bowser-vs-mario-diorama-set-in",
+            "title": "\udecd️Super Mario World of Nintendo Bowser Vs Mario Diorama Set Includes Mario, Bowser, and Bob-Omb Action Figures",
+            "price": "$59.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vFg+YuXPL.jpg",
+            "url": "https://amazon.com/dp/B076DPSZ8L?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B09CTSSV6P",
@@ -59,30 +83,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81djJ70oV6L.jpg",
             "url": "https://www.amazon.com/Bittesnew-Halloween-Decorations-Fireplace-Supplies/dp/B0DF7VJ85Y/ref=sr_1_62_sspa?crid=2STAT4YF3UKNG&dib=eyJ2IjoiMSJ9.j7I2_8ngULi5iPbb2w7qUNP9mOjSnN9bNSJSE3g0blp_Mm0yXJG6lR_u4hViRxsN9w8Rq8vx6f9Bv_pYab7puE5VSCu-lrMCxzC6E8Zhjwi6h6TySUV_izY5HYMedhSmmf1lXdD1XkWPOesb-V2CyyFyWSA5oWmMmeQ4U4bGwKRn9rZm1qss0r39hTZcO71DLpM6wJqDhyMGCKmT85XgFadvkBkJ_261MdSDf73q-YcvicMdhIu_c6gOQ4gRwd1n4T6PIqk20Q4I2rZUrBnhTMpKNbXP6RK9JpJPjNAASsA.O1m_7PhkTUeBFNAICIPaG-MmXSlZcTNh6CeJezzlMeI&dib_tag=se&keywords=goth+decor&psc=1&qid=1789494486&refinements=p_n_deal_type%3A23566064011&rnid=23566063011&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&sprefix=goth+decor%2Caps%2C173&xpid=Ebhbkyon-53cJ&linkCode=sl2&tag=noya0b-20&linkId=5ac4de1fe6c8295544a20cd4e563eb05&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FLXPD6GJ",
-            "slug": "jekaoyi-womens-drawstring-sweatpants-straight-leg-with-pocke",
-            "title": "\udecd️JEKAOYI Womens Drawstring Sweatpants Straight Leg with Pockets Light Grey",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ay0EIcYGL.jpg",
-            "url": "https://www.amazon.com/dp/B0FLXPD6GJ/ref=cm_sw_r_as_gl_api_gl_i_dl_CPZ46NN0PCRN7XVRSCWD?linkCode=ml1&tag=noya0b-20&linkId=7acea847d9e2a180bfb829cf3b7b53ed&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B076DPSZ8L",
-            "slug": "super-mario-world-of-nintendo-bowser-vs-mario-diorama-set-in",
-            "title": "\udecd️Super Mario World of Nintendo Bowser Vs Mario Diorama Set Includes Mario, Bowser, and Bob-Omb Action Figures",
-            "price": "$59.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vFg+YuXPL.jpg",
-            "url": "https://amazon.com/dp/B076DPSZ8L?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0H6BB22MW",
+          "slug": "2-pcs-slow-rising-squishy-squeeze-toy-non-toxic-pu",
+          "title": "2 Pcs Slow Rising Squishy Squeeze Toy Non-Toxic PU",
+          "price": "$3.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/71YNtXmCtuL.jpg",
+          "url": "https://www.amazon.com/dp/B0H6BB22MW?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=a398bd392eef72bfaeb01f0b376d33ad&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B09CTSSV6P",
           "slug": "spicy-world-cinnamon-sticks-7-ounce-bag-36-44-sticks-perfect",
@@ -233,27 +244,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71WaiJJqEWL.jpg",
           "url": "https://www.amazon.com/dp/B00HVQ1P0U?th=1&linkCode=sl2&tag=noya0b-20&linkId=db409a68308ffdc2cb3db391c66a0c57&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FLXPD6GJ",
-          "slug": "jekaoyi-womens-drawstring-sweatpants-straight-leg-with-pocke",
-          "title": "\udecd️JEKAOYI Womens Drawstring Sweatpants Straight Leg with Pockets Light Grey",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ay0EIcYGL.jpg",
-          "url": "https://www.amazon.com/dp/B0FLXPD6GJ/ref=cm_sw_r_as_gl_api_gl_i_dl_CPZ46NN0PCRN7XVRSCWD?linkCode=ml1&tag=noya0b-20&linkId=7acea847d9e2a180bfb829cf3b7b53ed&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 15, 2026?",
-          "a": "The best deals today include \"Spicy World Cinnamon Sticks 7 Ounce Bag - 36-44 Sticks - Per...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"2 Pcs Slow Rising Squishy Squeeze Toy Non-Toxic PU...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Toys & Kids, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-15T22:00:02.421Z",
-      "updatedAt": "2026-09-15T22:00:02.421Z"
+      "generatedAt": "2026-09-15T22:10:01.674Z",
+      "updatedAt": "2026-09-15T22:10:01.674Z"
     },
     {
       "date": "2026-09-14",
@@ -16259,5 +16259,5 @@
       "updatedAt": "2026-07-19T03:50:02.166Z"
     }
   ],
-  "generatedAt": "2026-09-15T22:00:02.429Z"
+  "generatedAt": "2026-09-15T22:10:01.683Z"
 }
