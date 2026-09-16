@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-09-16T10:20:01.539Z",
+  "generatedAt": "2026-09-16T10:30:02.272Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dd5kh275-pepperidge-farm-milano-white-chocolate-strawberry-flavored-c",
+      "asin": "B0DD5KH275",
+      "title": "Pepperidge Farm Milano White Chocolate Strawberry Flavored Cookies, 7 Oz",
+      "url": "https://www.amazon.com/dp/B0DD5KH275/ref=cm_sw_r_as_gl_api_gl_i_Y8XJMK1BXP6ABZP7ZFZ4?linkCode=ml1&tag=noya0b-20&linkId=bb10e31cbd7330e3445e4f42f5cef710&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-09-16T10:24:21.909Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71gxkGSg6-L.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0chcjgplz-adidas-750-ml-28-oz-stadium-refillable-plastic-sport-water-b",
       "asin": "B0CHCJGPLZ",
@@ -6987,20 +7001,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81JCSwYOn0L.jpg",
       "expiresAt": null,
       "promoCode": null
-    },
-    {
-      "slug": "b0gmfdqrn7-bluey-bubble-lawn-mower-for-toddlers-bubble-blowing-machine-",
-      "asin": "B0GMFDQRN7",
-      "title": "BLUEY Bubble Lawn Mower for Toddlers, Bubble Blowing Machine with Sound for Indoor and Outdoor Gardening Toy, Plays Blue",
-      "url": "https://www.amazon.com/dp/B0GMFDQRN7/ref=cm_sw_r_as_gl_api_gl_i_2QK4R052SQZM99TN16XT?linkCode=ml1&tag=noya0b-20&linkId=653318a9637ddaa34b3c38fa357a8be9&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-09-12T13:42:31.802Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/812RhnkhyPL.jpg",
-      "expiresAt": null,
-      "promoCode": null
     }
   ],
   "archivedPosts": [
@@ -7562,6 +7562,16 @@
       "category": "Health",
       "ts": "2026-09-12T13:38:32.588Z",
       "archivedAt": "2026-09-16T10:00:02.023Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gmfdqrn7-bluey-bubble-lawn-mower-for-toddlers-bubble-blowing-machine-",
+      "asin": "B0GMFDQRN7",
+      "title": "BLUEY Bubble Lawn Mower for Toddlers, Bubble Blowing Machine with Sound for Indoor and Outdoor Gardening Toy, Plays Blue",
+      "url": "https://www.amazon.com/dp/B0GMFDQRN7/ref=cm_sw_r_as_gl_api_gl_i_2QK4R052SQZM99TN16XT?linkCode=ml1&tag=noya0b-20&linkId=653318a9637ddaa34b3c38fa357a8be9&gaOptInStatus=true",
+      "category": "Garden & Outdoor",
+      "ts": "2026-09-12T13:42:31.802Z",
+      "archivedAt": "2026-09-16T10:30:02.272Z",
       "status": "archived"
     }
   ]
