@@ -12,7 +12,42 @@
         "Home & Kitchen"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0G77J2XCN",
+            "slug": "fioralie-cowboy-boots-for-women-knee-high-cowgirl-boots",
+            "title": "\udecd️Fioralie Cowboy Boots for Women Knee High Cowgirl Boots",
+            "price": "$42.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61HIervpVSL.jpg",
+            "url": "https://amazon.com/dp/B0G77J2XCN?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GZMLYKVV",
+            "slug": "18-24-months-girl-clothes-fall-toddler-girl-clothe-flare-leg",
+            "title": "\udecd️18 24 Months Girl Clothes Fall Toddler Girl Clothe Flare Leggings Pants Set",
+            "price": "$24.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71B4JiO8UNL.jpg",
+            "url": "https://amazon.com/dp/B0GZMLYKVV?tag=noya0b-20"
+          }
+        ],
         "Other": [
+          {
+            "asin": "B0G3WRTP9J",
+            "slug": "wdmiya-montessori-busy-board-for-toddlers-2-4-fire-truck-act",
+            "title": "\udecd️Wdmiya Montessori Busy Board for Toddlers 2-4, Fire Truck Activity Board",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81mZLN73zJL.jpg",
+            "url": "https://amazon.com/dp/B0G3WRTP9J?tag=noya0b-20"
+          },
           {
             "asin": "B0DPGBC7PT",
             "slug": "womens-button-down-shirts-for-women-long-sleeve-linen-cotton",
@@ -56,41 +91,6 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://amazon.com/dp/B00XHK8RJG?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F9FHKGQL",
-            "slug": "yoratee-artificial-plants-set-of-4-fake-comosum-potted-plant",
-            "title": "\udecd️Yoratee Artificial Plants Set of 4 Fake Comosum Potted Plant with Black Pot Greenery Decor for Indoor Home Porch Garde",
-            "price": "$14.86",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Er9omeCcL.jpg",
-            "url": "https://amazon.com/dp/B0F9FHKGQL?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GZMLYKVV",
-            "slug": "18-24-months-girl-clothes-fall-toddler-girl-clothe-flare-leg",
-            "title": "\udecd️18 24 Months Girl Clothes Fall Toddler Girl Clothe Flare Leggings Pants Set",
-            "price": "$24.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71B4JiO8UNL.jpg",
-            "url": "https://amazon.com/dp/B0GZMLYKVV?tag=noya0b-20"
-          },
-          {
-            "asin": "B0D15X2WBT",
-            "slug": "under-armour-unisex-essential-low-socks-6-pack-101-white-md",
-            "title": "\udecd️Under Armour Unisex Essential Low Socks 6 Pack, 101 WHITE, MD",
-            "price": "$22.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61wOD+QbuGL.jpg",
-            "url": "https://amazon.com/dp/B0D15X2WBT?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -132,6 +132,28 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0G77J2XCN",
+          "slug": "fioralie-cowboy-boots-for-women-knee-high-cowgirl-boots",
+          "title": "\udecd️Fioralie Cowboy Boots for Women Knee High Cowgirl Boots",
+          "price": "$42.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61HIervpVSL.jpg",
+          "url": "https://amazon.com/dp/B0G77J2XCN?tag=noya0b-20"
+        },
+        {
+          "asin": "B0G3WRTP9J",
+          "slug": "wdmiya-montessori-busy-board-for-toddlers-2-4-fire-truck-act",
+          "title": "\udecd️Wdmiya Montessori Busy Board for Toddlers 2-4, Fire Truck Activity Board",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81mZLN73zJL.jpg",
+          "url": "https://amazon.com/dp/B0G3WRTP9J?tag=noya0b-20"
+        },
         {
           "asin": "B0DPGBC7PT",
           "slug": "womens-button-down-shirts-for-women-long-sleeve-linen-cotton",
@@ -219,34 +241,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71aV4qQsWBL.jpg",
           "url": "https://www.amazon.com/dp/B0B58F9NYG?psc=1&linkCode=sl2&tag=noya0b-20&linkId=6909e9c689394fa59f989e1593253cf1&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F9FHKGQL",
-          "slug": "yoratee-artificial-plants-set-of-4-fake-comosum-potted-plant",
-          "title": "\udecd️Yoratee Artificial Plants Set of 4 Fake Comosum Potted Plant with Black Pot Greenery Decor for Indoor Home Porch Garde",
-          "price": "$14.86",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Er9omeCcL.jpg",
-          "url": "https://amazon.com/dp/B0F9FHKGQL?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D15X2WBT",
-          "slug": "under-armour-unisex-essential-low-socks-6-pack-101-white-md",
-          "title": "\udecd️Under Armour Unisex Essential Low Socks 6 Pack, 101 WHITE, MD",
-          "price": "$22.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61wOD+QbuGL.jpg",
-          "url": "https://amazon.com/dp/B0D15X2WBT?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 16, 2026?",
-          "a": "The best deals today include \"\udecd️Womens Button Down Shirts for Women Long Sleeve Linen Cott...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Electronics and are updated daily."
+          "a": "The best deals today include \"\udecd️Fioralie Cowboy Boots for Women Knee High Cowgirl Boots...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-16T17:10:02.302Z",
-      "updatedAt": "2026-09-16T17:10:02.302Z"
+      "generatedAt": "2026-09-16T17:20:02.141Z",
+      "updatedAt": "2026-09-16T17:20:02.141Z"
     },
     {
       "date": "2026-09-15",
@@ -16250,5 +16250,5 @@
       "updatedAt": "2026-07-20T03:50:00.947Z"
     }
   ],
-  "generatedAt": "2026-09-16T17:10:02.311Z"
+  "generatedAt": "2026-09-16T17:20:02.150Z"
 }
