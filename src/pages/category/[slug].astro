@@ -1,5 +1,8 @@
 ---
 import SkipLink from '../../components/SkipLink.astro';
+import CompactHeader from '../../components/CompactHeader.astro';
+import CompactDealsStyles from '../../components/CompactDealsStyles.astro';
+import DealViewToggle from '../../components/DealViewToggle.astro';
 // /category/[slug] — indexable landing page per deal category.
 //
 // The homepage filters categories client-side, so there was no crawlable URL
@@ -253,17 +256,11 @@ const faqLd = JSON.stringify({
     .disclaimer{font-size:.72rem;color:#475569;margin-top:.75rem}
     @media(max-width:560px){.hero{padding:1.25rem}.grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}}
   </style>
+<CompactDealsStyles />
 </head>
-<body>
+<body class="compact-deals category-page">
   <SkipLink />
-  <nav class="site-nav" aria-label="Primary navigation">
-    <a href="/" class="nav-brand">🛍️ Shopping With Noya</a>
-    <div class="nav-gap"></div>
-    <a href="/" class="nav-pill">All Deals</a>
-    <a href="/blog/" class="nav-pill">Blog</a>
-    <a href="/beauty/" class="nav-pill">💄 Beauty</a>
-    <a href="https://t.me/shoppingwithnoya" class="nav-cta" target="_blank" rel="noopener">📲 Telegram</a>
-  </nav>
+  <CompactHeader />
 
   <main id="main-content" tabindex="-1" class="wrap">
     <nav class="crumb" aria-label="Breadcrumb">
@@ -272,37 +269,37 @@ const faqLd = JSON.stringify({
 
     <div class="hero">
       <h1>{meta.emoji} Best {category} Deals Today</h1>
-      <p class="hero-intro">{meta.blurb}</p>
-      <div class="stats">
-        <div class="stat"><b>{deals.length}</b><span>live deals</span></div>
-        {topDiscount > 0 && <div class="stat"><b>{topDiscount}%</b><span>biggest discount</span></div>}
-        <div class="stat"><b>10 min</b><span>refresh</span></div>
-      </div>
     </div>
 
-    {siblings.length > 0 && (
-      <nav class="cat-pills" aria-label="Other categories">
-        <a href="/" class="cat-pill">🛍️ All Deals</a>
-        {siblings.map((s) => (
-          <a href={s.href} class="cat-pill">{s.emoji} {s.name} ({s.count})</a>
-        ))}
-      </nav>
-    )}
+    <div class="browse-controls">
+      <details class="category-picker compact-disclosure">
+        <summary>Browse categories</summary>
+        <div class="category-panel">
+          <nav class="cat-pills" aria-label="Other categories">
+            <a href="/" class="cat-pill">🛍️ All Deals</a>
+            {siblings.map((s) => (
+              <a href={s.href} class="cat-pill">{s.emoji} {s.name} ({s.count})</a>
+            ))}
+          </nav>
+        </div>
+      </details>
+    </div>
+    <div class="section-header">
+      <span class="deal-count">{deals.length} deals · Biggest discount first</span>
+      <DealViewToggle />
+    </div>
 
-    <h2 class="sec-h">Today's best {category.toLowerCase()} deals</h2>
-    <p class="sec-sub">
-      {deals.length} live {category.toLowerCase()} discounts, sorted by how deep the
-      saving is. Tap any deal for full details.
-    </p>
-
-    <div class="grid">
+    <div class="grid" id="deals-grid" data-view="grid">
       {deals.map((d) => (
-        <a href={`/deals/${d.slug}/`} class="card">
+        <a href={`/deals/${d.slug}/`} class={`card${d.imageUrl ? '' : ' no-img'}${d.promoCode || /coupon|code|subscri|clip|checkout|minimum|qualif|with purchase|when you|buy .+get/i.test(d.title || '') ? ' has-conditions' : ''}`}>
           {d.imageUrl && (
-            <img class="card-img" src={d.imageUrl} alt={`${d.title} — ${category.toLowerCase()} deal`} loading="lazy" width="230" height="230" />
+            <img class="card-img" src={d.imageUrl} alt={`${d.title} — ${category.toLowerCase()} deal`} loading="lazy" width="230" height="230" onerror="this.style.display='none';this.closest('.card').classList.add('no-img')" />
           )}
+          <div class="image-placeholder" role="img" aria-label="Product image unavailable">Image unavailable</div>
           <div class="card-body">
-            <div class="card-title">{d.title}</div>
+            <div class="card-title" title={d.title}>{d.title}</div>
+            {d.promoCode && <span class="promo-code-badge">Code: {d.promoCode}</span>}
+            <p class="price-note">Check current price · View details →</p>
             <div class="card-foot">
               {d.discount > 0
                 ? <span class="badge">{d.discount}% OFF</span>
@@ -313,6 +310,21 @@ const faqLd = JSON.stringify({
         </a>
       ))}
     </div>
+
+    <details class="site-info"><summary>About these {category.toLowerCase()} deals</summary>
+      <p class="hero-intro">{meta.blurb}</p>
+      <div class="stats">
+        <div class="stat"><b>{deals.length}</b><span>live deals</span></div>
+        {topDiscount > 0 && <div class="stat"><b>{topDiscount}%</b><span>biggest discount</span></div>}
+        <div class="stat"><b>10 min</b><span>refresh</span></div>
+      </div>
+    <h2 class="sec-h">Today's best {category.toLowerCase()} deals</h2>
+    <p class="sec-sub">
+      {deals.length} live {category.toLowerCase()} discounts, sorted by how deep the
+      saving is. Tap any deal for full details.
+    </p>
+
+    </details>
 
     <section class="faq" aria-labelledby="faq-h">
       <h2 class="sec-h" id="faq-h">{category} deals: common questions</h2>

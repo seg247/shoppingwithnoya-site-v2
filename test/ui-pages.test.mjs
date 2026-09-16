@@ -226,11 +226,11 @@ test('browser: real HTTP 404, responsive geometry, computed button contrast, key
     await page.keyboard.press('Enter');
     assert.equal(await page.evaluate(() => document.activeElement.id), 'main-content');
     });
-    await t.test('desktop category arrow is visible and scrolls', async () => {
-    const arrow = page.locator('#cat-arrow-right');
-    assert.equal(await arrow.evaluate(el => getComputedStyle(el).display), 'flex');
-    await arrow.click();
-    await page.waitForFunction(() => document.querySelector('#chips').scrollLeft > 0);
+    await t.test('category disclosure exposes on-page filters and crawlable category destinations', async () => {
+      await page.locator('.category-picker > summary').click();
+      assert.ok(await page.locator('.category-panel').isVisible());
+      assert.ok(await page.locator('.chip[data-cat="Home & Kitchen"]').isVisible());
+      assert.ok(await page.locator('.category-links a').count() > 0);
     });
     const contrast = async selector => page.locator(selector).first().evaluate(el => {
       const s = getComputedStyle(el);
@@ -261,14 +261,17 @@ test('browser: real HTTP 404, responsive geometry, computed button contrast, key
       assert.equal(result.position, 'absolute');
       assert.equal(result.inset, '0px');
     });
-    await t.test('narrow fine-pointer category arrow does not cover category text', async () => {
+    await t.test('narrow category disclosure stays within viewport without covering the sort control', async () => {
       await page.setViewportSize({ width: 390, height: 900 });
-      await page.evaluate(() => { document.querySelector('#chips').scrollLeft = 0; });
+      await page.locator('.category-picker').evaluate(el => { el.open = true; });
       const geometry = await page.evaluate(() => ({
-        arrow: document.querySelector('#cat-arrow-right').getBoundingClientRect().left,
-        strip: document.querySelector('#chips').getBoundingClientRect().right,
+        panel: document.querySelector('.category-panel').getBoundingClientRect().toJSON(),
+        summary: document.querySelector('.category-picker > summary').getBoundingClientRect().toJSON(),
+        sort: document.querySelector('#sort-order').getBoundingClientRect().toJSON(),
       }));
-      assert.ok(geometry.arrow >= geometry.strip, JSON.stringify(geometry));
+      assert.ok(geometry.panel.left >= 0 && geometry.panel.right <= 390, JSON.stringify(geometry));
+      assert.ok(geometry.summary.right <= geometry.sort.left, JSON.stringify(geometry));
+      assert.ok(geometry.panel.top >= geometry.sort.bottom, JSON.stringify(geometry));
     });
     await page.goto('http://127.0.0.1:4408/contact/');
     await t.test('contact submit computed contrast', async () => {

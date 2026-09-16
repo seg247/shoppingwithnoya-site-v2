@@ -1,0 +1,44 @@
+---
+import GuideNavigation from './GuideNavigation.astro';
+---
+<nav class="compact-header" aria-label="Primary navigation">
+  <a href="/" class="compact-brand">Shopping With <span>Noya</span></a>
+  <details class="compact-menu compact-disclosure">
+    <summary aria-label="Menu"><span aria-hidden="true">☰</span><span class="menu-label">Menu</span></summary>
+    <div class="compact-menu-panel">
+      <a href="/">All Deals</a>
+      <a href="/blog/">📝 Deal Blog</a>
+      <a href="/beauty/">💄 Beauty Blog</a>
+      <a href="/category/grocery-food/">🛒 Grocery</a>
+      <a href="/category/home-kitchen/">🏠 Home</a>
+      <GuideNavigation />
+      <a href="https://www.facebook.com/groups/1224964507605101" class="nav-tg nav-fb" target="_blank" rel="noopener">Facebook Group</a>
+      <a href="https://t.me/shoppingwithnoya" class="nav-tg" target="_blank" rel="noopener">Telegram</a>
+      <a href="https://shoppingwithnoya.com" target="_blank" rel="noopener">Clothing Boutique ↗</a>
+      <a href="/about/">About</a>
+      <a href="/contact">Contact</a>
+    </div>
+  </details>
+</nav>
+<script is:inline data-compact-controls>
+  // Native disclosures work without JS. Escape/outside-click are enhancements;
+  // this is non-modal navigation, so Tab follows the normal document order.
+  (() => {
+    const disclosures = () => [...document.querySelectorAll('.compact-disclosure')];
+    document.addEventListener('keydown', event => {
+      if (event.key !== 'Escape') return;
+      const open = disclosures().filter(el => el.open);
+      const current = open.find(el => el.contains(document.activeElement)) || open.at(-1);
+      if (!current) return;
+      current.open = false;
+      current.querySelector('summary').focus();
+      event.preventDefault();
+    });
+    document.addEventListener('click', event => {
+      for (const el of disclosures()) if (el.open && !el.contains(event.target)) el.open = false;
+    });
+    document.addEventListener('focusin', event => {
+      for (const el of disclosures()) if (el.open && !el.contains(event.target)) el.open = false;
+    });
+  })();
+</script>

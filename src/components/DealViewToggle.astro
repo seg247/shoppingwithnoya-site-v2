@@ -1,0 +1,13 @@
+<button id="view-toggle" type="button" aria-controls="deals-grid" aria-pressed="false">☷ List view</button>
+<script is:inline data-compact-controls>
+  (() => {
+    const toggle = document.getElementById('view-toggle');
+    toggle.addEventListener('click', () => {
+      const grid = document.getElementById('deals-grid');
+      const list = grid.dataset.view !== 'list';
+      grid.dataset.view = list ? 'list' : 'grid';
+      toggle.setAttribute('aria-pressed', String(list));
+      toggle.textContent = list ? '▦ Grid view' : '☷ List view';
+    });
+  })();
+</script>

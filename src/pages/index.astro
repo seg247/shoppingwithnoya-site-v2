@@ -1,7 +1,9 @@
 ---
 import siteData from '../data/site-data.json';
 import SkipLink from '../components/SkipLink.astro';
-import GuideNavigation from '../components/GuideNavigation.astro';
+import CompactHeader from '../components/CompactHeader.astro';
+import CompactDealsStyles from '../components/CompactDealsStyles.astro';
+import DealViewToggle from '../components/DealViewToggle.astro';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
@@ -49,7 +51,6 @@ const shopCategories = CATEGORY_LINKS
 const SSR_COUNT = 60;
 
 const seenSSR = new Set();
-const todaySSR = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
 const ssrDeals = (siteData.posts || [])
   .filter((d) => {
     if (d.category === 'Other' || (d.asin && seenSSR.has(d.asin))) return false;
@@ -61,7 +62,7 @@ const ssrDeals = (siteData.posts || [])
     const days = (Date.now() - new Date(d.expiresAt + 'T23:59:59').getTime()) / 864e5;
     return days <= 3;
   })
-  .sort((a, b) => Number(b.ts?.slice(0, 10) === todaySSR) - Number(a.ts?.slice(0, 10) === todaySSR))
+  .sort((a, b) => (b.ts || '').localeCompare(a.ts || ''))
   .slice(0, SSR_COUNT);
 const firstSSRImage = ssrDeals.findIndex(d => d.imageUrl);
 const thumbnailSSR = (url) => url.replace(/_AC_SR\d+,\d+_/, '_AC_SR300,300_').replace(/_AC_SL\d+_/, '_AC_SR300,300_');
@@ -858,76 +859,62 @@ const timeAgoSSR = (ts) => {
     }
   </style>
   <link rel="alternate" type="application/rss+xml" title="Shopping With Noya — Daily Deals" href="/rss.xml" />
+<CompactDealsStyles />
 </head>
-<body>
+<body class="compact-deals">
   <SkipLink />
 
-  <!-- NAV -->
-  <nav aria-label="Primary navigation">
-    <a href="#" class="nav-logo">🛍️ Noya</a>
-    <div class="nav-spacer"></div>
-    <a href="/blog/" class="nav-blog-link">📝 Deal Blog</a>
-    <a href="/beauty/" class="nav-blog-link">💄 Beauty Blog</a>
-    <a href="/category/grocery-food/" class="nav-blog-link">🛒 Grocery</a>
-    <a href="/category/home-kitchen/" class="nav-blog-link">🏠 Home</a>
-    <span class="nav-follow">Follow us on:</span>
-    <a href="https://www.facebook.com/groups/1224964507605101" class="nav-tg nav-fb" target="_blank" rel="noopener" aria-label="Facebook Group">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.413c0-3.018 1.791-4.69 4.533-4.69 1.313 0 2.686.236 2.686.236v2.963h-1.513c-1.491 0-1.956.93-1.956 1.874v2.257h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/></svg>
-      <span class="nav-btn-label">Group</span>
-    </a>
-    <a href="https://t.me/shoppingwithnoya" class="nav-tg" target="_blank" rel="noopener" aria-label="Telegram">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>
-      Telegram
-    </a>
-  </nav>
-  <GuideNavigation />
+  <CompactHeader />
 
   <main id="main-content" tabindex="-1">
-  <!-- HERO STRIP -->
-  <div class="hero-strip">
-    <h1 class="visually-hidden">Shopping With Noya — Best Deals Updated Daily</h1>
-    <div class="hero-strip-left">
-      <span class="hero-strip-title">Best Deals, Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></span>
-      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">{(siteData.posts || []).length}</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
-    </div>
-  </div>
+  <h1 class="visually-hidden">Shopping With Noya — Best Deals Updated Daily</h1>
 
   <!-- SEARCH BAR -->
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
     <label for="search-input" class="visually-hidden">Search deals</label>
-    <input type="search" id="search-input" name="q" placeholder="Search deals... (e.g. headphones, coffee maker)" autocomplete="off" />
+    <input type="search" id="search-input" name="q" placeholder="Search deals" autocomplete="off" />
     <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
   </div>
 
-  <!-- Shop by category — static links so the /category/* pages are crawlable.
-       The filter pills below are client-side only and invisible to search.
-       Sits BELOW the search box: above it, the three wrapped rows collided with
-       the search field on narrow screens. -->
-  {shopCategories.length > 0 && (
-    <nav class="shop-cats" aria-label="Shop by category">
-      <span class="shop-cats-label">Shop by category:</span>
-      <button class="cat-arrow cat-arrow-left" id="cat-arrow-left" type="button" aria-label="Scroll categories left" hidden>&#8249;</button>
-      <div class="shop-cats-scroll" id="chips">
-        <button class="shop-cat chip active" data-cat="all" type="button" aria-pressed="true">🛍️ All</button>
-        {shopCategories.map((c) => (
-          <a href={`/category/${c.slug}/`} class="shop-cat">{c.emoji} {c.name}<em>{c.count}</em></a>
-        ))}
-        <button class="shop-cat chip" data-cat="__promo__" type="button" aria-pressed="false">🏷️ Promo Codes</button>
+  <div class="browse-controls">
+    <details class="category-picker compact-disclosure">
+      <summary>Categories</summary>
+      <div class="category-panel">
+        <nav class="shop-cats" aria-label="Filter deals">
+          <div class="shop-cats-scroll" id="chips">
+            <button class="shop-cat chip active" data-cat="all" type="button" aria-pressed="true">All deals</button>
+            {Object.keys(catCounts).sort().map((category) => (
+              <button class="shop-cat chip" data-cat={category} type="button" aria-pressed="false">{category}</button>
+            ))}
+            <button class="shop-cat chip" data-cat="__promo__" type="button" aria-pressed="false">🏷️ Promo Codes</button>
+          </div>
+        </nav>
+        <div class="category-links">
+          <p>Category pages &amp; shopping advice</p>
+          {shopCategories.map((c) => (
+            <a href={`/category/${c.slug}/`}>{c.emoji} {c.name} ({c.count}) →</a>
+          ))}
+        </div>
       </div>
-      <button class="cat-arrow cat-arrow-right" id="cat-arrow-right" type="button" aria-label="Scroll categories right">&#8250;</button>
-    </nav>
-  )}
+    </details>
+    <label for="sort-order" class="visually-hidden">Sort deals</label>
+    <select id="sort-order" aria-label="Sort deals">
+      <option value="newest">Newest first</option>
+      <option value="discount">Biggest discount</option>
+    </select>
+  </div>
 
   <!-- DEALS -->
   <section class="deals-section">
     <div class="section-header">
       <h2 class="section-title">Latest Deals</h2>
       <span class="deal-count" id="deal-count" role="status" aria-live="polite">{ssrDeals.length} deals</span>
+      <DealViewToggle />
     </div>
-    <div class="deals-grid" id="deals-grid">
+    <div class="deals-grid" id="deals-grid" data-view="grid">
     {ssrDeals.map((d, i) => (
-      <a href={`/deals/${d.slug}/`} class={`deal-card${d.imageUrl ? '' : ' no-img'}`}>
+      <a href={`/deals/${d.slug}/`} class={`deal-card${d.imageUrl ? '' : ' no-img'}${d.promoCode || /coupon|code|subscri|clip|checkout|minimum|qualif|with purchase|when you|buy .+get/i.test(d.title || '') ? ' has-conditions' : ''}`}>
         {d.imageUrl && (
           <div class="card-image-wrap">
             <img src={thumbnailSSR(d.imageUrl)} alt={cleanTitleSSR(d.title)} loading={i === firstSSRImage ? "eager" : "lazy"} fetchpriority={i === firstSSRImage ? "high" : undefined} width="300" height="300" />
@@ -936,9 +923,12 @@ const timeAgoSSR = (ts) => {
             )}
           </div>
         )}
+        <div class="image-placeholder" role="img" aria-label="Product image unavailable">Image unavailable</div>
         <div class="card-body">
           {d.category && <span class="cat-chip">{d.category.substring(0, 20)}</span>}
-          <p class="card-title">{cleanTitleSSR(d.title)}</p>
+          <p class="card-title" title={d.title}>{cleanTitleSSR(d.title)}</p>
+          {d.promoCode && <span class="promo-code-badge">Code: {d.promoCode}</span>}
+          <p class="price-note">Check current price ↗</p>
           {d.discount > 0 && (
             <div class="card-price-row"><span class="price-savings">-{d.discount}% off</span></div>
           )}
@@ -949,8 +939,20 @@ const timeAgoSSR = (ts) => {
       </a>
     ))}
   </div>
+  <p class="feed-note">#ad · Affiliate links may earn a commission at no extra cost to you. Check retailer for current price and offer conditions.</p>
 
   </section>
+
+  <details class="site-info"><summary>About these deals &amp; updates</summary>
+  <!-- HERO STRIP -->
+  <div class="hero-strip">
+    <div class="hero-strip-left">
+      <span class="hero-strip-title">Best Deals, Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></span>
+      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">{(siteData.posts || []).length}</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
+    </div>
+  </div>
+
+  </details>
 
   <!-- BOUTIQUE BANNER -->
   <div class="tg-banner" style="background: linear-gradient(135deg, #7B2FBE, #FF3CAC); margin-top: 0;">
@@ -993,6 +995,7 @@ const timeAgoSSR = (ts) => {
 
     let allDeals = [];
     let activeFilters = new Set();
+    let sortOrder = 'newest';
     let searchQuery = new URLSearchParams(window.location.search).get('q')?.trim() || '';
 
     // Skeletons
@@ -1062,8 +1065,9 @@ const timeAgoSSR = (ts) => {
       }
       // Promo code badge
       const promoHtml = deal.promoCode
-        ? `` // code shown in promo image
+        ? `<button class="promo-copy" type="button" data-code="${escapeHtml(deal.promoCode)}">Copy code: ${escapeHtml(deal.promoCode)}</button>`
         : '';
+      const hasConditions = deal.promoCode || /coupon|code|subscri|clip|checkout|minimum|qualif|with purchase|when you|buy .+get/i.test(deal.title || '');
 
       const img = escapeHtml(getImageUrl(deal));
       const url = escapeHtml(safeHttpUrl(deal.url));
@@ -1084,24 +1088,25 @@ const timeAgoSSR = (ts) => {
       const cat = escapeHtml(String(deal.category || '').substring(0, 20));
       const displayTitle = escapeHtml(cleanTitle(deal.title) || 'Amazon Deal');
 
-      return `<article class="deal-card${img ? '' : ' no-img'}${cardExpiredClass}" style="animation-delay:${delay}ms">
+      return `<article class="deal-card${img ? '' : ' no-img'}${cardExpiredClass}${hasConditions ? ' has-conditions' : ''}" style="animation-delay:${delay}ms">
         ${img ? `<div class="card-image-wrap">
           <img src="${img}" alt="" loading="${priority ? 'eager' : 'lazy'}" ${priority ? 'fetchpriority="high"' : ''} width="300" height="300" onerror="this.parentElement.style.display='none';this.closest('.deal-card').classList.add('no-img')" />
           ${discount > 0 ? `<div class="discount-badge ${badgeClass}">-${discount}%</div>` : ''}
         </div>` : ''}
+        <div class="image-placeholder" role="img" aria-label="Product image unavailable">Image unavailable</div>
         <div class="card-body">
-          ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
           ${expiryHtml}
-          ${deal.promoCode ? '' : `<p class="card-title">${displayTitle}</p>`}
+          <p class="card-title" title="${escapeHtml(deal.title)}">${displayTitle}</p>
           ${priceHtml}
           ${promoHtml}
-          <div class="card-footer">
+          <div class="card-meta-row">
+            ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
             <span class="card-meta">${timeAgo(deal.ts)}</span>
-            <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
-            </button>
           </div>
-          <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${displayTitle}">🛍️ Shop Deal →</a>
+          <div class="card-actions">
+            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${displayTitle}">${discount > 0 ? 'Shop Deal' : 'Check price'} ↗</a>
+            <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">Share</button>
+          </div>
         </div>
       </article>`;
     }
@@ -1141,17 +1146,10 @@ const timeAgoSSR = (ts) => {
         return catMatch;
       });
 
-      // Limit to today's best 30 when no search/filter active
-      if (activeFilters.size === 0 && !searchQuery) {
-        const todayStr = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
-        const today = deduped.filter(d => d.ts && d.ts.slice(0,10) === todayStr);
-        const older = deduped.filter(d => !d.ts || d.ts.slice(0,10) !== todayStr);
-        const todaySlice = today.slice(0, 30);
-        const fill = older.slice(0, Math.max(0, 30 - todaySlice.length));
-        return [...todaySlice, ...fill];
-      }
-
-      return deduped;
+      // Sort a derived array only; the source snapshot is never mutated.
+      const sorted = deduped.sort((a, b) => (sortOrder === 'discount' ? (Number(b.discount) || 0) - (Number(a.discount) || 0) : 0) || (b.ts || '').localeCompare(a.ts || ''));
+      // Preserve the original 30-deal default; filtered/search views show all matches.
+      return activeFilters.size === 0 && !searchQuery ? sorted.slice(0, 30) : sorted;
     }
 
     function renderDeals() {
@@ -1184,45 +1182,10 @@ const timeAgoSSR = (ts) => {
         document.getElementById('deal-count').textContent = 'error';
       });
 
-    // Chips scroll arrows + fades
-    const chipsEl = document.getElementById('chips');
-    // Category row scroll affordances.
-    //
-    // The row hides its scrollbar, which is right on touch (you swipe) but left
-    // desktop users with no way to reach categories past the fold. Arrows are
-    // shown only on fine-pointer devices via CSS, and also support shift+wheel
-    // and horizontal trackpad scroll.
-    const catArrowL = document.getElementById('cat-arrow-left');
-    const catArrowR = document.getElementById('cat-arrow-right');
-    if (chipsEl && catArrowL && catArrowR) {
-      const updateCatArrows = () => {
-        const scrollable = chipsEl.scrollWidth - chipsEl.clientWidth;
-        if (scrollable <= 4) {           // everything fits: no arrows at all
-          catArrowL.hidden = true;
-          catArrowR.hidden = true;
-          return;
-        }
-        catArrowL.hidden = chipsEl.scrollLeft <= 4;
-        catArrowR.hidden = chipsEl.scrollLeft >= scrollable - 4;
-      };
-      const step = () => Math.max(160, Math.round(chipsEl.clientWidth * 0.7));
-      catArrowR.addEventListener('click', () => chipsEl.scrollBy({ left: step(), behavior: 'smooth' }));
-      catArrowL.addEventListener('click', () => chipsEl.scrollBy({ left: -step(), behavior: 'smooth' }));
-      chipsEl.addEventListener('scroll', updateCatArrows, { passive: true });
-      window.addEventListener('resize', updateCatArrows);
-      // Vertical wheel over the row scrolls it horizontally — expected on
-      // desktop, and the only affordance for a plain mouse with no h-scroll.
-      chipsEl.addEventListener('wheel', (e) => {
-        if (Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
-        const scrollable = chipsEl.scrollWidth - chipsEl.clientWidth;
-        if (scrollable <= 4) return;
-        e.preventDefault();
-        chipsEl.scrollLeft += e.deltaY;
-      }, { passive: false });
-      updateCatArrows();
-      // Fonts/images can change widths after first paint.
-      setTimeout(updateCatArrows, 400);
-    }
+    document.getElementById('sort-order').addEventListener('change', event => {
+      sortOrder = event.target.value;
+      renderDeals();
+    });
 
     // Filter chips
     document.getElementById('chips').addEventListener('click', e => {
@@ -1255,6 +1218,19 @@ const timeAgoSSR = (ts) => {
       }
       document.querySelectorAll('.chip').forEach(c => c.setAttribute('aria-pressed', String(c.classList.contains('active'))));
       renderDeals();
+    });
+
+    // Coupon codes remain text (including punctuation), never HTML.
+    document.getElementById('deals-grid').addEventListener('click', async event => {
+      const button = event.target.closest('.promo-copy');
+      if (!button) return;
+      event.preventDefault();
+      try {
+        await navigator.clipboard.writeText(button.dataset.code);
+        button.textContent = `Copied: ${button.dataset.code}`;
+      } catch {
+        button.textContent = `Select/copy code: ${button.dataset.code}`;
+      }
     });
 
     // Share buttons — delegate from grid

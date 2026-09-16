@@ -23,6 +23,7 @@ test('guide discovery, reading and navigation work at phone and desktop widths',
       await page.setViewportSize({ width, height: 900 });
       for (const path of ['/', '/guides/', '/guides/amazon-coupons-subscribe-save/']) {
         assert.equal((await page.goto(`http://127.0.0.1:4418${path}`)).status(), 200);
+        if (path === '/') await page.locator('.compact-menu > summary').click();
         const geometry = await page.evaluate(() => ({
           width: innerWidth, scroll: document.documentElement.scrollWidth,
           offscreen: [...document.querySelectorAll('[aria-label="Primary navigation"] a, .guide-navigation a')].filter(a => {
@@ -34,6 +35,7 @@ test('guide discovery, reading and navigation work at phone and desktop widths',
         assert.ok(await page.locator('.guide-navigation a').isVisible());
       }
       await page.goto('http://127.0.0.1:4418/');
+      await page.locator('.compact-menu > summary').click();
       await page.locator('.guide-navigation a').click();
       assert.ok(page.url().endsWith('/guides/'));
       await page.locator('.guide-card').click();
