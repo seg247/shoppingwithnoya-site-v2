@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-09-16T12:40:01.957Z",
+  "generatedAt": "2026-09-16T12:50:01.855Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00pz2aanu-pepperidge-farm-nantucket-double-dark-chocolate-chunk-cookie",
+      "asin": "B00PZ2AANU",
+      "title": "Pepperidge Farm Nantucket Double Dark Chocolate Chunk Cookies, 7.75 Oz Bag",
+      "url": "https://www.amazon.com/dp/B00PZ2AANU/ref=cm_sw_r_as_gl_api_gl_i_M8MRN6437DER78JV1AS0?linkCode=ml1&tag=noya0b-20&linkId=1fb19ea79ca5e17a5c94405965b0b5b2&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-09-16T12:44:15.948Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81DWv4iD6YL.jpg",
+      "expiresAt": null,
+      "promoCode": null
+    },
     {
       "slug": "b0bjscfs3j-mott-s-assorted-fruit-flavored-snacks-made-with-real-fruit-p",
       "asin": "B0BJSCFS3J",
@@ -6987,20 +7001,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
       "expiresAt": null,
       "promoCode": null
-    },
-    {
-      "slug": "b06xhwp6z2-jaxjox-yoga-set-includes-yoga-mat-exercise-ball-and-2-resist",
-      "asin": "B06XHWP6Z2",
-      "title": "JAXJOX Yoga Set - Includes: Yoga Mat, Exercise Ball and 2 Resistance Bands : Sports & Outdoors",
-      "url": "https://www.amazon.com/dp/B06XHWP6Z2?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports",
-      "ts": "2026-09-12T14:14:30.901Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41Iu7+T7PlL.jpg",
-      "expiresAt": null,
-      "promoCode": null
     }
   ],
   "archivedPosts": [
@@ -7652,6 +7652,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-12T14:12:28.855Z",
       "archivedAt": "2026-09-16T12:40:01.957Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b06xhwp6z2-jaxjox-yoga-set-includes-yoga-mat-exercise-ball-and-2-resist",
+      "asin": "B06XHWP6Z2",
+      "title": "JAXJOX Yoga Set - Includes: Yoga Mat, Exercise Ball and 2 Resistance Bands : Sports & Outdoors",
+      "url": "https://www.amazon.com/dp/B06XHWP6Z2?tag=noya0b-20",
+      "category": "Sports",
+      "ts": "2026-09-12T14:14:30.901Z",
+      "archivedAt": "2026-09-16T12:50:01.855Z",
       "status": "archived"
     }
   ]
