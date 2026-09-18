@@ -720,6 +720,25 @@ const timeAgoSSR = (ts) => {
     }
 
     /* NO RESULTS */
+    .load-more-wrap { display: flex; justify-content: center; margin: 20px 0 8px; }
+    .load-more-btn {
+      appearance: none;
+      border: 1px solid var(--border, rgba(255,255,255,0.14));
+      background: var(--card, #1e293b);
+      color: var(--text, #f8fafc);
+      font-size: 0.95rem;
+      font-weight: 600;
+      padding: 13px 26px;
+      border-radius: 12px;
+      cursor: pointer;
+      min-height: 44px; /* touch target */
+      transition: transform 0.12s ease, background 0.12s ease;
+    }
+    .load-more-btn:hover { background: var(--card-hover, #273449); }
+    .load-more-btn:active { transform: translateY(1px); }
+    .load-more-btn:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
+    .load-more-done { text-align: center; font-size: 0.85rem; opacity: 0.65; margin: 18px 0 4px; }
+
     .no-results {
       grid-column: 1 / -1;
       text-align: center;
@@ -923,8 +942,9 @@ const timeAgoSSR = (ts) => {
             )}
           </div>
         )}
-        <div class="image-placeholder" role="img" aria-label="Product image unavailable">Image unavailable</div>
+        <div class="image-placeholder" role="img" aria-label="No product photo available"><span class="placeholder-mark" aria-hidden="true">🛍️</span><span class="placeholder-word" aria-hidden="true">Shopping With Noya</span></div>
         <div class="card-body">
+          {d.badge && <span class={`deal-badge tone-${d.badge.tone}`}>{d.badge.label}</span>}
           {d.category && <span class="cat-chip">{d.category.substring(0, 20)}</span>}
           <p class="card-title" title={d.title}>{cleanTitleSSR(d.title)}</p>
           {d.promoCode && <span class="promo-code-badge">Code: {d.promoCode}</span>}
@@ -939,6 +959,7 @@ const timeAgoSSR = (ts) => {
       </a>
     ))}
   </div>
+  <div id="load-more-wrap" class="load-more-wrap"></div>
   <p class="feed-note">#ad · Affiliate links may earn a commission at no extra cost to you. Check retailer for current price and offer conditions.</p>
 
   </section>
@@ -996,6 +1017,13 @@ const timeAgoSSR = (ts) => {
     let allDeals = [];
     let activeFilters = new Set();
     let sortOrder = 'newest';
+    // Feed paging. The default view used to hard-slice to 30 with no way to
+    // see more, while the hero advertised the full catalogue ("N deals live")
+    // — the page promised hundreds and showed 30. Worse, the server renders
+    // SSR_COUNT (60) cards, so the first client render visibly DELETED 30 of
+    // them. Start at 60 to match SSR, then reveal a batch at a time.
+    const PAGE_SIZE = 60;
+    let visibleCount = PAGE_SIZE;
     let searchQuery = new URLSearchParams(window.location.search).get('q')?.trim() || '';
 
     // Skeletons
@@ -1088,14 +1116,22 @@ const timeAgoSSR = (ts) => {
       const cat = escapeHtml(String(deal.category || '').substring(0, 20));
       const displayTitle = escapeHtml(cleanTitle(deal.title) || 'Amazon Deal');
 
+      // Earned badge, computed at export time. Escaped because it is injected
+      // as raw HTML; tone is whitelisted so a bad value cannot inject a class.
+      const TONES = ['fire', 'hot', 'warm', 'coupon', 'ending', 'new', 'price'];
+      const badgeHtml = (deal.badge && deal.badge.label && TONES.includes(deal.badge.tone))
+        ? `<span class="deal-badge tone-${deal.badge.tone}">${escapeHtml(deal.badge.label)}</span>`
+        : '';
+
       return `<article class="deal-card${img ? '' : ' no-img'}${cardExpiredClass}${hasConditions ? ' has-conditions' : ''}" style="animation-delay:${delay}ms">
         ${img ? `<div class="card-image-wrap">
           <img src="${img}" alt="" loading="${priority ? 'eager' : 'lazy'}" ${priority ? 'fetchpriority="high"' : ''} width="300" height="300" onerror="this.parentElement.style.display='none';this.closest('.deal-card').classList.add('no-img')" />
           ${discount > 0 ? `<div class="discount-badge ${badgeClass}">-${discount}%</div>` : ''}
         </div>` : ''}
-        <div class="image-placeholder" role="img" aria-label="Product image unavailable">Image unavailable</div>
+        <div class="image-placeholder" role="img" aria-label="No product photo available"><span class="placeholder-mark" aria-hidden="true">🛍️</span><span class="placeholder-word" aria-hidden="true">Shopping With Noya</span></div>
         <div class="card-body">
           ${expiryHtml}
+          ${badgeHtml}
           <p class="card-title" title="${escapeHtml(deal.title)}">${displayTitle}</p>
           ${priceHtml}
           ${promoHtml}
@@ -1104,7 +1140,7 @@ const timeAgoSSR = (ts) => {
             <span class="card-meta">${timeAgo(deal.ts)}</span>
           </div>
           <div class="card-actions">
-            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${displayTitle}">${discount > 0 ? 'Shop Deal' : 'Check price'} ↗</a>
+            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal on Amazon' : 'Check price on Amazon'}: ${displayTitle}">${discount > 0 ? 'Shop Deal on Amazon' : 'Check Price on Amazon'} ↗</a>
             <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">Share</button>
           </div>
         </div>
@@ -1148,22 +1184,47 @@ const timeAgoSSR = (ts) => {
 
       // Sort a derived array only; the source snapshot is never mutated.
       const sorted = deduped.sort((a, b) => (sortOrder === 'discount' ? (Number(b.discount) || 0) - (Number(a.discount) || 0) : 0) || (b.ts || '').localeCompare(a.ts || ''));
-      // Preserve the original 30-deal default; filtered/search views show all matches.
-      return activeFilters.size === 0 && !searchQuery ? sorted.slice(0, 30) : sorted;
+      // Return the FULL match set. Paging is applied at render time so the
+      // deal counter can report real totals rather than the visible slice.
+      return sorted;
     }
 
     function renderDeals() {
       const filtered = getFilteredDeals();
       const grid = document.getElementById('deals-grid');
       const count = document.getElementById('deal-count');
+      // Report the true match total, not the paged slice, so this never
+      // contradicts the "N deals live" figure in the hero strip.
       count.textContent = `${filtered.length} deals`;
 
       if (filtered.length === 0) {
         grid.innerHTML = `<div class="no-results"><h3>😢 No deals found</h3><p>Try a different search or filter</p></div>`;
+        renderLoadMore(0, 0);
         return;
       }
-      const firstImage = filtered.findIndex(d => getImageUrl(d));
-      grid.innerHTML = filtered.map((d, i) => renderCard(d, i, i === firstImage)).join('');
+      const visible = filtered.slice(0, visibleCount);
+      const firstImage = visible.findIndex(d => getImageUrl(d));
+      grid.innerHTML = visible.map((d, i) => renderCard(d, i, i === firstImage)).join('');
+      renderLoadMore(visible.length, filtered.length);
+    }
+
+    // "Load More" control. Kept as a button rather than infinite scroll so the
+    // footer — which carries the affiliate disclosure — stays reachable.
+    function renderLoadMore(shown, total) {
+      const wrap = document.getElementById('load-more-wrap');
+      if (!wrap) return;
+      const remaining = total - shown;
+      if (remaining <= 0) {
+        wrap.innerHTML = total > 0
+          ? `<p class="load-more-done">That's all ${total} deals · check back soon 🛍️</p>`
+          : '';
+        return;
+      }
+      wrap.innerHTML = `<button type="button" class="load-more-btn" id="load-more-btn">Load More Deals (${remaining} remaining)</button>`;
+      document.getElementById('load-more-btn').addEventListener('click', () => {
+        visibleCount += PAGE_SIZE;
+        renderDeals();
+      });
     }
 
     // Fetch. Do NOT call renderSkeletons() here — the grid already holds
@@ -1184,6 +1245,7 @@ const timeAgoSSR = (ts) => {
 
     document.getElementById('sort-order').addEventListener('change', event => {
       sortOrder = event.target.value;
+      visibleCount = PAGE_SIZE;
       renderDeals();
     });
 
@@ -1217,6 +1279,7 @@ const timeAgoSSR = (ts) => {
         }
       }
       document.querySelectorAll('.chip').forEach(c => c.setAttribute('aria-pressed', String(c.classList.contains('active'))));
+      visibleCount = PAGE_SIZE;
       renderDeals();
     });
 
@@ -1268,6 +1331,7 @@ const timeAgoSSR = (ts) => {
     function applySearch(val) {
       searchQuery = val.trim();
       searchClear.classList.toggle('visible', searchQuery.length > 0);
+      visibleCount = PAGE_SIZE;
       renderDeals();
     }
 

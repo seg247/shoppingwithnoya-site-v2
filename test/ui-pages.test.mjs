@@ -126,7 +126,13 @@ test('feed text stays text and unsafe link schemes cannot create interactive car
     assert.equal(d.querySelector('.card-title')?.textContent, title);
     assert.equal(d.querySelectorAll('.card-link').length, 1);
     assert.equal(d.querySelector('.card-link').getAttribute('href'), url);
-    assert.equal(d.querySelector('.card-link').getAttribute('aria-label'), title);
+    // The CTA names its destination ("Check price on Amazon: <title>") so the
+    // label is prefixed rather than bare. The security property under test is
+    // that the title travels as TEXT: assert it is carried verbatim and that
+    // the injected tag never becomes a node (checked above via #feed-injection).
+    const ctaLabel = d.querySelector('.card-link').getAttribute('aria-label');
+    assert.ok(ctaLabel.endsWith(title), 'aria-label carries the raw title as text');
+    assert.match(ctaLabel, /on Amazon/, 'CTA states its destination');
     assert.equal(d.querySelector('#deals-grid img'), null, 'unsafe image URL');
     assert.equal(d.querySelector('#deal-count').textContent, '1 deals');
   } finally { dom.window.close(); }

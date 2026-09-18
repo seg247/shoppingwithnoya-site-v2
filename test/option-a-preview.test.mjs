@@ -83,17 +83,28 @@ test('view toggle changes layout and pressed label without losing rendered links
   } finally { dom.window.close(); }
 });
 
-test('default remains 30 deals while category and search results are not newly paginated', async () => {
-  const fixture = { posts: Array.from({ length: 45 }, (_, i) => ({ title: `QA item ${i}`, url: `https://example.com/test-only/${i}`, category: 'Home & Kitchen', ts: '2026-09-16T12:00:00Z' })) };
+test('default view pages at 60 with a Load More control, and filters reset paging', async () => {
+  const fixture = { posts: Array.from({ length: 145 }, (_, i) => ({ title: `QA item ${i}`, url: `https://example.com/test-only/${i}`, category: 'Home & Kitchen', ts: '2026-09-16T12:00:00Z' })) };
   const dom = await hydrate(fixture);
   try {
     const d = dom.window.document;
-    assert.equal(d.querySelectorAll('.card-link').length, 30);
-    assert.equal(d.querySelector('#deal-count').textContent, '30 deals');
-    assert.equal(d.querySelector('#load-more'), null, 'no unrequested pagination UI');
+    // The default view used to hard-stop at 30 with no way forward while the
+    // hero advertised the full catalogue. Now it pages, and the counter
+    // reports the true match total rather than the visible slice.
+    assert.equal(d.querySelectorAll('.card-link').length, 60);
+    assert.equal(d.querySelector('#deal-count').textContent, '145 deals');
+    const btn = d.querySelector('#load-more-btn');
+    assert.ok(btn, 'Load More control is present when deals remain');
+    assert.match(btn.textContent, /85 remaining/);
+    btn.click();
+    assert.equal(d.querySelectorAll('.card-link').length, 120);
+    d.querySelector('#load-more-btn').click();
+    assert.equal(d.querySelectorAll('.card-link').length, 145);
+    assert.equal(d.querySelector('#load-more-btn'), null, 'control disappears at the end');
+    // Filtering resets paging so the user is never left deep in a stale page.
     d.querySelector('.chip[data-cat="Home & Kitchen"]').click();
-    assert.equal(d.querySelectorAll('.card-link').length, 45);
-    assert.equal(d.querySelector('#deal-count').textContent, '45 deals');
+    assert.equal(d.querySelectorAll('.card-link').length, 60);
+    assert.equal(d.querySelector('#deal-count').textContent, '145 deals');
   } finally { dom.window.close(); }
 });
 
@@ -143,7 +154,7 @@ test('coupon conditions and full titles survive compact rendering; copy and shar
     d.querySelector('.share-btn').click();
     await new Promise(r => setTimeout(r, 10));
     assert.equal(copies[1], url);
-    assert.match(d.querySelector('.card-link')?.textContent || '', /Check price|Shop Deal/);
+    assert.match(d.querySelector('.card-link')?.textContent || '', /Check Price on Amazon|Shop Deal on Amazon/);
     assert.equal(d.querySelector('.price-current'), null);
   } finally { dom.window.close(); }
 });
