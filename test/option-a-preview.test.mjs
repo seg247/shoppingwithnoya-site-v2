@@ -161,7 +161,12 @@ test('coupon conditions and full titles survive compact rendering; copy and shar
     d.querySelector('.share-btn').click();
     await new Promise(r => setTimeout(r, 10));
     assert.equal(copies[1], url);
-    assert.match(d.querySelector('.card-link')?.textContent || '', /Check Price|Shop Deal/);
+    // The outbound link names its destination rather than a generic action.
+    // It is a text line now, not a button — Slickdeals-style — but it must
+    // still state where the tap goes, which is also the FTC disclosure.
+    const outLink = d.querySelector('.card-link');
+    assert.match(outLink?.textContent || '', /Amazon/);
+    assert.match(outLink?.getAttribute('rel') || '', /sponsored/);
     // The destination stays in the accessible name rather than the visible
     // label, which wrapped to two lines in the compact card.
     assert.match(d.querySelector('.card-link')?.getAttribute('aria-label') || '', /on Amazon/);

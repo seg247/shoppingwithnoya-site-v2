@@ -635,29 +635,33 @@ const timeAgoSSR = (ts) => {
       color: var(--text-muted);
     }
 
-    /* CTA button — only on desktop (mobile: whole card is tap target) */
+    /* Destination line, not a button. Slickdeals shows no CTA button at all:
+       the row is the tap target and a grey "at Amazon" line states where the
+       tap goes. Hidden entirely on mobile (whole card is the target); on
+       wider screens it is a quiet text line rather than a gradient block that
+       repeated ~60 times down the page. */
     .card-cta {
       display: none;
     }
     @media (min-width: 540px) {
       .card-cta {
-        display: block;
-        width: 100%;
-        text-align: center;
-        background: linear-gradient(135deg, var(--pink), var(--purple));
-        color: #ffffff;
-        font-family: 'Space Grotesk', sans-serif;
-        font-size: 0.82rem;
-        font-weight: 700;
-        padding: 8px 12px;
-        border-radius: 8px;
+        display: inline;
+        width: auto;
+        text-align: left;
+        background: none;
+        color: var(--muted, #9aa);
+        font-family: inherit;
+        font-size: 0.72rem;
+        font-weight: 500;
+        padding: 0;
+        border-radius: 0;
         text-decoration: none;
-        margin-top: 6px;
-        transition: opacity 0.15s, transform 0.15s;
-        text-shadow: 0 1px 3px rgba(0,0,0,0.3);
-        letter-spacing: 0.02em;
+        margin-top: 0;
+        transition: color 0.15s;
+        text-shadow: none;
+        letter-spacing: 0;
       }
-      .card-cta:hover { opacity: 0.88; transform: scale(1.01); }
+      .card-cta:hover { opacity: 1; transform: none; text-decoration: underline; }
     }
 
     /* Share button — small, inline in card footer */
@@ -873,7 +877,9 @@ const timeAgoSSR = (ts) => {
   <style is:global>
     article.deal-card { position: relative; }
     .card-link { display: block; text-decoration: none; }
-    .card-cta, .nav-tg { background: #7B2FBE; color: #fff; }
+    /* .card-cta deliberately omitted here — it is a text link now, not a
+       filled button, and this global rule would repaint it purple. */
+    .nav-tg { background: #7B2FBE; color: #fff; }
     .nav-fb { background: #145db2; }
     .card-link:hover { transform: none; }
     @media (max-width: 539px) { .card-link { font-size: .78rem; padding: .4rem .6rem; border-radius: 6px; } }
@@ -1164,7 +1170,7 @@ const timeAgoSSR = (ts) => {
             <span class="card-meta">${timeAgo(deal.ts)}</span>
           </div>
           <div class="card-actions">
-            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal on Amazon' : 'Check price on Amazon'}: ${displayTitle}">${discount > 0 ? 'Shop Deal' : 'Check Price'} ↗</a>
+            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal on Amazon' : 'Check price on Amazon'}: ${displayTitle}">at Amazon ↗</a>
             <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">Share</button>
           </div>
         </div>

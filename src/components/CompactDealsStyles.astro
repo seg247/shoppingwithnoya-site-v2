@@ -165,9 +165,19 @@
   .compact-deals .card-meta-row { display: flex; align-items: center; justify-content: space-between; gap: 4px; min-height: 14px; }
   .compact-deals .card-meta-row .cat-chip { margin: 0; line-height: 1.3; }
   .compact-deals .card-meta-row .card-meta { white-space: nowrap; line-height: 1.3; }
-  .compact-deals .card-actions { display: flex; gap: 6px; align-items: center; margin-top: auto; min-height: 44px; }
-  .compact-deals .card-actions .card-link { display: flex; align-items: center; flex: 1; width: auto; min-width: 0; min-height: 44px; padding: 0; font-size: 11.5px; line-height: 1.25; }
-  .compact-deals .card-actions .share-btn { flex: 0 0 44px; width: 44px; height: 44px; padding: 0; font-size: 11px; display: flex; align-items: center; justify-content: center; }
+  /* Was min-height:44px to host a button row. With the button gone this is
+     just a meta line, and Share carries its own 44px target. */
+  .compact-deals .card-actions { display: flex; gap: 6px; align-items: center; justify-content: space-between; margin-top: auto; min-height: 0; }
+  /* The destination link is a text line now, so it no longer reserves a 44px
+     touch target of its own — the whole card is the tap target via
+     .card-link::after. Share keeps its own 44px since it sits above that
+     overlay on z-index. */
+  .compact-deals .card-actions .card-link { display: inline; align-items: baseline; flex: 0 1 auto; width: auto; min-width: 0; min-height: 0; padding: 0; font-size: 11.5px; line-height: 1.25; }
+  /* Share shrinks with the row. 44px was sized to match a full-width CTA
+     button that no longer exists; at 32px it still clears the ~24px minimum
+     for a secondary control and it is no longer the tallest thing in the
+     card. Keep z-index above .card-link::after so it stays tappable. */
+  .compact-deals .card-actions .share-btn { flex: 0 0 32px; width: 32px; height: 32px; padding: 0; font-size: 11px; display: flex; align-items: center; justify-content: center; position: relative; z-index: 1; }
   /* Offer-bearing titles must be fully visible, not hidden by a display clamp. */
   .compact-deals .has-conditions .card-title { display: block; overflow: visible; -webkit-line-clamp: unset; }
   .compact-deals .cat-chip { font-size: 10px; padding: 0; background: none; border: 0; color: var(--compact-muted); }
@@ -175,15 +185,19 @@
   .compact-deals .card-meta, .compact-deals .date { font-size: 10px; color: var(--compact-muted); }
   .compact-deals .card-footer { gap: 4px; padding: 0; min-height: 32px; }
   .compact-deals .share-btn { width: 36px; height: 32px; border: 0; color: var(--compact-accent); }
-  /* Outline, not a solid fill. Sixty identical solid-purple rectangles were
-     the loudest thing on the page once the badge noise was removed — and the
-     least informative, since the whole card is already a link and every card
-     carries one. An outline still reads as the primary action and still meets
-     the 36px touch target, without turning the feed into a column of blocks.
-     Purple is reserved for the genuinely rare: real discount badges. */
-  .compact-deals .card-cta { display: flex; align-items: center; justify-content: center; width: 100%; padding: 8px 10px; margin-top: 0; min-height: 36px; font-size: 12.5px; font-weight: 600; text-align: center; color: var(--compact-accent); background: transparent; border: 1px solid #4a3a63; border-radius: 9px; text-shadow: none; }
-  .compact-deals .card-cta:hover { background: rgba(123, 47, 190, .14); border-color: var(--compact-accent); }
-  .compact-deals .card-cta:active { transform: translateY(1px); }
+  /* No button. Slickdeals ships no CTA button at all — the row is the tap
+     target and the destination is a grey "at Amazon" text line. Our button
+     cost 44px + 4px gap on a 246px card (20% of it) to duplicate a tap that
+     already works anywhere on the card, because .card-link::after stretches
+     an invisible overlay across the whole thing.
+     The <a> MUST stay: it owns that overlay and, in the client-rendered feed,
+     it is the only link out (client cards are <article>, not <a> like SSR).
+     So keep the element, drop the button costume. */
+  .compact-deals .card-cta { display: inline; width: auto; padding: 0; margin: 0; min-height: 0; font-size: 11.5px; font-weight: 500; text-align: left; color: var(--compact-muted); background: transparent; border: 0; border-radius: 0; text-shadow: none; }
+  .compact-deals .card-cta:hover { background: transparent; color: var(--compact-accent); text-decoration: underline; }
+  .compact-deals .card-cta:active { transform: none; }
+  /* Meta and destination share one line instead of stacking. */
+  .compact-deals .card-actions { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 0; margin-top: 2px; }
   .compact-deals .discount-badge, .compact-deals .badge { background: var(--compact-solid); white-space: normal; }
   .compact-deals .promo-copy { position: relative; z-index: 1; min-height: 44px; padding: 6px; border: 1px solid #c4a2ef; border-radius: 6px; color: #eddbff; background: #2c1b3e; overflow-wrap: anywhere; cursor: pointer; font-size: 11px; }
   .compact-deals .feed-note { margin: 12px auto; color: var(--compact-muted); font-size: 12px; }
