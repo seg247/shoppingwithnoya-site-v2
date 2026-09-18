@@ -5,14 +5,6 @@
   .compact-deals :is(button, select, summary) { font-family: inherit; }
   .compact-deals .compact-header { position: sticky; top: 0; z-index: 100; display: flex; justify-content: space-between; align-items: center; gap: 8px; height: 52px; padding: 0 12px; background: #16161f; border-bottom: 1px solid var(--border); backdrop-filter: none; }
   .compact-brand { color: var(--text); font-size: 18px; font-weight: 700; text-decoration: none; min-width: 0; letter-spacing: -.4px; }
-  /* With search in the header the brand must yield room. On a phone it
-     shrinks to the initials-sized wordmark rather than pushing search out. */
-  .compact-header:has(.header-search) .compact-brand { font-size: 15px; flex: 0 1 auto; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 30vw; }
-  @media (max-width: 420px) {
-    .compact-header:has(.header-search) .compact-brand { max-width: 64px; }
-  }
-  .compact-deals .header-search { flex: 1 1 auto; min-width: 0; max-width: none; margin: 0; padding: 0; }
-  .compact-deals .header-search #search-input { height: 36px; font-size: 14px; }
   .compact-brand span { color: var(--compact-accent); }
   .compact-menu { position: static; flex-shrink: 0; }
   .compact-menu > summary { min-height: 44px; min-width: 44px; display: flex; gap: 8px; align-items: center; justify-content: center; cursor: pointer; list-style: none; border-radius: 8px; }
@@ -97,11 +89,12 @@
      full-width box stacked under the title — worse than before it moved. */
   .compact-deals .section-header #sort-order {
     width: auto;
+    max-width: 44vw;
     min-width: 0;
-    flex: 0 0 auto;
+    flex: 0 1 auto;
     margin-left: auto;
     min-height: 32px;
-    padding: 4px 4px 4px 6px;
+    padding: 4px 22px 4px 6px;
     border: 0;
     border-radius: 8px;
     background: transparent;
@@ -109,9 +102,7 @@
     font-size: 12px;
     cursor: pointer;
   }
-  /* A 3px ring on the least important control was the loudest thing on the
-     page in testing. Keep it visible for keyboard users, but quieter. */
-  .compact-deals .section-header #sort-order:focus-visible { outline: 2px solid var(--compact-accent); outline-offset: 1px; }
+  .compact-deals .section-header #sort-order:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
   /* Sort now holds the right-alignment role, so the toggle simply follows it
      instead of claiming its own margin-left:auto and forcing a line break. */
   .compact-deals .section-header #sort-order ~ #view-toggle { margin-left: 4px; }
@@ -124,7 +115,7 @@
      say what is being shown), so it shrinks and the controls share its line. */
   .compact-deals .section-header { display: flex; flex-wrap: nowrap; align-items: baseline; gap: 4px 8px; min-height: 0; margin-bottom: 8px; }
   .compact-deals .section-title { font-size: 13px; font-weight: 600; color: var(--compact-muted); text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
-  .compact-deals .deal-count { font-size: 11px; padding: 0; background: transparent; color: var(--compact-muted); white-space: nowrap; flex: 0 0 auto; }
+  .compact-deals .deal-count { font-size: 11px; padding: 0; background: transparent; color: var(--compact-muted); }
   .compact-deals #view-toggle { margin-left: auto; min-height: 32px; padding: 4px 0 4px 8px; border: 0; background: none; color: var(--compact-accent); font-size: 12px; cursor: pointer; white-space: nowrap; flex: 0 0 auto; }
   /* Sort sits immediately before the toggle and owns the auto margin; without
      this the toggle would also claim it and push itself onto its own line. */
