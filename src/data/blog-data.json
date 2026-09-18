@@ -9,10 +9,44 @@
         "Other",
         "Fashion",
         "Grocery & Food",
-        "Beauty",
-        "Sports & Fitness"
+        "Beauty"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0DS1XDF16",
+            "slug": "newsonet-baby-shoes-boys-girls-first-walker-sneakers-walking",
+            "title": "\udecd️Newsonet Baby Shoes Boys Girls First Walker Sneakers Walking Non-Skid Lightweight Mesh Shoes White Size 12-18 Months T",
+            "price": "$28.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61rbyucDogL.jpg",
+            "url": "https://amazon.com/dp/B0DS1XDF16?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G24CNLGX",
+            "slug": "bjesinmo-boho-necklace-for-women-vintage-large-pendant-state",
+            "title": "\udecd️Bjesinmo Boho Necklace for Women Vintage Large Pendant Statement Necklace Choker with Gold Rose Charm Long Chain Hippi",
+            "price": "$7.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61fgytpYIuL.jpg",
+            "url": "https://amazon.com/dp/B0G24CNLGX?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GTC42N36",
+            "slug": "someki-seashell-bracelet-set-for-women-octopus-starfish-seas",
+            "title": "\udecd️Someki Seashell Bracelet Set for Women Octopus Starfish Seashell Charms Boho Ocean Stackable Bracelet Beach Beaded Jew",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61waGyf+V3L.jpg",
+            "url": "https://amazon.com/dp/B0GTC42N36?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B087865C1V",
@@ -83,30 +117,6 @@
             "url": "https://amazon.com/dp/B0GZTX6HRJ?tag=noya0b-20"
           }
         ],
-        "Fashion": [
-          {
-            "asin": "B0G24CNLGX",
-            "slug": "bjesinmo-boho-necklace-for-women-vintage-large-pendant-state",
-            "title": "\udecd️Bjesinmo Boho Necklace for Women Vintage Large Pendant Statement Necklace Choker with Gold Rose Charm Long Chain Hippi",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61fgytpYIuL.jpg",
-            "url": "https://amazon.com/dp/B0G24CNLGX?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GTC42N36",
-            "slug": "someki-seashell-bracelet-set-for-women-octopus-starfish-seas",
-            "title": "\udecd️Someki Seashell Bracelet Set for Women Octopus Starfish Seashell Charms Boho Ocean Stackable Bracelet Beach Beaded Jew",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61waGyf+V3L.jpg",
-            "url": "https://amazon.com/dp/B0GTC42N36?tag=noya0b-20"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0FTQ23764",
@@ -119,22 +129,20 @@
             "imageUrl": null,
             "url": "https://amazon.com/dp/B0FTQ23764?tag=noya0b-20"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0FLXTM2NR",
-            "slug": "junmao-thermal-compression-shirt-long-sleeve-for-men-13-or-5",
-            "title": "\udecd️JUNMAO Thermal Compression Shirt Long Sleeve for Men 1,3 or 5 Pack Athletic Base Layer for Basketball Running Grey",
-            "price": "$13.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/615ZxPtja7L.jpg",
-            "url": "https://amazon.com/dp/B0FLXTM2NR?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DS1XDF16",
+          "slug": "newsonet-baby-shoes-boys-girls-first-walker-sneakers-walking",
+          "title": "\udecd️Newsonet Baby Shoes Boys Girls First Walker Sneakers Walking Non-Skid Lightweight Mesh Shoes White Size 12-18 Months T",
+          "price": "$28.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61rbyucDogL.jpg",
+          "url": "https://amazon.com/dp/B0DS1XDF16?tag=noya0b-20"
+        },
         {
           "asin": "B087865C1V",
           "slug": "bodyarmor-lyte-sports-drink-peach-mango-electrolyte-drink-12",
@@ -233,23 +241,12 @@
           "category": "Beauty",
           "imageUrl": null,
           "url": "https://amazon.com/dp/B0FTQ23764?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FLXTM2NR",
-          "slug": "junmao-thermal-compression-shirt-long-sleeve-for-men-13-or-5",
-          "title": "\udecd️JUNMAO Thermal Compression Shirt Long Sleeve for Men 1,3 or 5 Pack Athletic Base Layer for Basketball Running Grey",
-          "price": "$13.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/615ZxPtja7L.jpg",
-          "url": "https://amazon.com/dp/B0FLXTM2NR?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 18, 2026?",
-          "a": "The best deals today include \"BODYARMOR LYTE Sports Drink, Peach Mango Electrolyte Drink, ...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"\udecd️Newsonet Baby Shoes Boys Girls First Walker Sneakers Walki...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-18T23:00:01.846Z",
-      "updatedAt": "2026-09-18T23:00:01.846Z"
+      "generatedAt": "2026-09-18T23:10:02.066Z",
+      "updatedAt": "2026-09-18T23:10:02.067Z"
     },
     {
       "date": "2026-09-17",
@@ -16247,5 +16244,5 @@
       "updatedAt": "2026-07-22T03:50:01.882Z"
     }
   ],
-  "generatedAt": "2026-09-18T23:00:01.858Z"
+  "generatedAt": "2026-09-18T23:10:02.075Z"
 }
