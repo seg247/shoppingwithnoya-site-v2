@@ -9,10 +9,44 @@
         "Other",
         "Grocery & Food",
         "Beauty",
-        "Home & Kitchen",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0H1SXNCFK",
+            "slug": "like-air-drizzled-rice-cakes-4-flavor-variety-pack-10ct-vega",
+            "title": "Like Air Drizzled Rice Cakes - 4 Flavor Variety Pack (10ct) Vegan/Nut-Free",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B0H1SXNCFK?ascsubtag=srctok-21649eaea7640353&btn_ref=srctok-447d9cd93e89d09b&btn_type=ss&gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=eb39c9c6686f4046932188685502892b&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0F2PQTCV9",
+            "slug": "cheerios-strawberry-banana-breakfast-cereal-gluten-free-112",
+            "title": "Cheerios Strawberry Banana Breakfast Cereal, Gluten Free, 11.2 oz",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Zm-5JrKVL.jpg",
+            "url": "https://www.amazon.com/gp/product/B0F2PQTCV9?ie=UTF8&ascsubtag=6ee6b102aee111f1ac3dcaa63fe492250INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=56c06348080c9f2529cf54d1136ef95d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0F28NZG76",
+            "slug": "dipug-girls-pajamas-satin-pajama-silk-pjs-short-sleeve-sleep",
+            "title": "\udecd️DIPUG Girls Pajamas Satin Pajama Silk Pjs Short Sleeve Sleepwear Red Heart",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/619Lkzj+prL.jpg",
+            "url": "https://www.amazon.com/dp/B0F28NZG76?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0H9NQHYR4",
@@ -70,30 +104,6 @@
             "url": "https://www.amazon.com/dp/B0FC6JP4WS?tag=noya0b-20"
           }
         ],
-        "Grocery & Food": [
-          {
-            "asin": "B0F2PQTCV9",
-            "slug": "cheerios-strawberry-banana-breakfast-cereal-gluten-free-112",
-            "title": "Cheerios Strawberry Banana Breakfast Cereal, Gluten Free, 11.2 oz",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Zm-5JrKVL.jpg",
-            "url": "https://www.amazon.com/gp/product/B0F2PQTCV9?ie=UTF8&ascsubtag=6ee6b102aee111f1ac3dcaa63fe492250INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=56c06348080c9f2529cf54d1136ef95d&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0F28NZG76",
-            "slug": "dipug-girls-pajamas-satin-pajama-silk-pjs-short-sleeve-sleep",
-            "title": "\udecd️DIPUG Girls Pajamas Satin Pajama Silk Pjs Short Sleeve Sleepwear Red Heart",
-            "price": "$19.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/619Lkzj+prL.jpg",
-            "url": "https://www.amazon.com/dp/B0F28NZG76?tag=noya0b-20"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B07VQTYRTD",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/717vVTkn4eL.jpg",
             "url": "https://www.amazon.com/dp/B0H2WG8BV2?gaOptInStatus=true&ascsubtag=srctok-316f230c55bfb15f&btn_type=ss&btn_ref=srctok-316f230c55bfb15f&th=1&linkCode=sl2&tag=noya0b-20&linkId=d78626d91e28b20082edd3089c65a89e&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0H2L478W8",
-            "slug": "alaroo-open-back-workout-tops-for-women-long-sleeve-gym-yoga",
-            "title": "\udecd️Alaroo Open Back Workout Tops for Women Long Sleeve Gym Yoga Sport Athletic Shirts Split Back Loose Crop Hot Pink, L",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71xPAzuK+HL.jpg",
-            "url": "https://www.amazon.com/dp/B0H2L478W8?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0H1SXNCFK",
+          "slug": "like-air-drizzled-rice-cakes-4-flavor-variety-pack-10ct-vega",
+          "title": "Like Air Drizzled Rice Cakes - 4 Flavor Variety Pack (10ct) Vegan/Nut-Free",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B0H1SXNCFK?ascsubtag=srctok-21649eaea7640353&btn_ref=srctok-447d9cd93e89d09b&btn_type=ss&gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=eb39c9c6686f4046932188685502892b&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0H9NQHYR4",
           "slug": "kiss-impress-no-glue-mani-press-on-nails-mini-spookz-multico",
@@ -233,23 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/717vVTkn4eL.jpg",
           "url": "https://www.amazon.com/dp/B0H2WG8BV2?gaOptInStatus=true&ascsubtag=srctok-316f230c55bfb15f&btn_type=ss&btn_ref=srctok-316f230c55bfb15f&th=1&linkCode=sl2&tag=noya0b-20&linkId=d78626d91e28b20082edd3089c65a89e&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0H2L478W8",
-          "slug": "alaroo-open-back-workout-tops-for-women-long-sleeve-gym-yoga",
-          "title": "\udecd️Alaroo Open Back Workout Tops for Women Long Sleeve Gym Yoga Sport Athletic Shirts Split Back Loose Crop Hot Pink, L",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71xPAzuK+HL.jpg",
-          "url": "https://www.amazon.com/dp/B0H2L478W8?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 17, 2026?",
-          "a": "The best deals today include \"Kiss Impress No Glue Mani Press On Nails, Mini, 'Spookz', Mu...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Beauty and are updated daily."
+          "a": "The best deals today include \"Like Air Drizzled Rice Cakes - 4 Flavor Variety Pack (10ct) ...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-18T02:30:02.535Z",
-      "updatedAt": "2026-09-18T02:30:02.535Z"
+      "generatedAt": "2026-09-18T02:40:02.331Z",
+      "updatedAt": "2026-09-18T02:40:02.331Z"
     },
     {
       "date": "2026-09-16",
@@ -16247,5 +16244,5 @@
       "updatedAt": "2026-07-21T03:50:01.463Z"
     }
   ],
-  "generatedAt": "2026-09-18T02:30:02.544Z"
+  "generatedAt": "2026-09-18T02:40:02.339Z"
 }
