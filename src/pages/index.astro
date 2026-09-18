@@ -883,18 +883,10 @@ const timeAgoSSR = (ts) => {
 <body class="compact-deals">
   <SkipLink />
 
-  <CompactHeader />
+  <CompactHeader search={true} />
 
   <main id="main-content" tabindex="-1">
   <h1 class="visually-hidden">Shopping With Noya — Best Deals Updated Daily</h1>
-
-  <!-- SEARCH BAR -->
-  <div class="search-wrap">
-    <span class="search-icon">🔍</span>
-    <label for="search-input" class="visually-hidden">Search deals</label>
-    <input type="search" id="search-input" name="q" placeholder="Search deals" autocomplete="off" />
-    <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
-  </div>
 
   {/* Category filters sit in the open, not behind a disclosure. They were
       previously nested inside a <details>, so filtering cost three actions
@@ -917,7 +909,7 @@ const timeAgoSSR = (ts) => {
   <!-- DEALS -->
   <section class="deals-section">
     <div class="section-header">
-      <h2 class="section-title">Latest Deals</h2>
+      <h2 class="section-title visually-hidden">Latest Deals</h2>
       <span class="deal-count" id="deal-count" role="status" aria-live="polite">{ssrDeals.length} deals</span>
       {/* Sort lives in the results header, beside the count it reorders —
           the pattern Amazon, eBay, Etsy and Target all use. It previously sat
