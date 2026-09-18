@@ -89,12 +89,11 @@
      full-width box stacked under the title — worse than before it moved. */
   .compact-deals .section-header #sort-order {
     width: auto;
-    max-width: 44vw;
     min-width: 0;
-    flex: 0 1 auto;
+    flex: 0 0 auto;
     margin-left: auto;
     min-height: 32px;
-    padding: 4px 22px 4px 6px;
+    padding: 4px 4px 4px 6px;
     border: 0;
     border-radius: 8px;
     background: transparent;
@@ -115,7 +114,7 @@
      say what is being shown), so it shrinks and the controls share its line. */
   .compact-deals .section-header { display: flex; flex-wrap: nowrap; align-items: baseline; gap: 4px 8px; min-height: 0; margin-bottom: 8px; }
   .compact-deals .section-title { font-size: 13px; font-weight: 600; color: var(--compact-muted); text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
-  .compact-deals .deal-count { font-size: 11px; padding: 0; background: transparent; color: var(--compact-muted); }
+  .compact-deals .deal-count { font-size: 11px; padding: 0; background: transparent; color: var(--compact-muted); white-space: nowrap; flex: 0 0 auto; }
   .compact-deals #view-toggle { margin-left: auto; min-height: 32px; padding: 4px 0 4px 8px; border: 0; background: none; color: var(--compact-accent); font-size: 12px; cursor: pointer; white-space: nowrap; flex: 0 0 auto; }
   /* Sort sits immediately before the toggle and owns the auto margin; without
      this the toggle would also claim it and push itself onto its own line. */
@@ -164,8 +163,14 @@
   .compact-deals .card-meta, .compact-deals .date { font-size: 10px; color: var(--compact-muted); }
   .compact-deals .card-footer { gap: 4px; padding: 0; min-height: 32px; }
   .compact-deals .share-btn { width: 36px; height: 32px; border: 0; color: var(--compact-accent); }
-  .compact-deals .card-cta { display: flex; align-items: center; justify-content: center; width: 100%; padding: 9px 10px; margin-top: 0; min-height: 36px; font-size: 12.5px; font-weight: 600; text-align: center; color: #fff; background: var(--compact-accent, #7B2FBE); border-radius: 9px; text-shadow: none; }
-  .compact-deals .card-cta:hover { filter: brightness(1.1); }
+  /* Outline, not a solid fill. Sixty identical solid-purple rectangles were
+     the loudest thing on the page once the badge noise was removed — and the
+     least informative, since the whole card is already a link and every card
+     carries one. An outline still reads as the primary action and still meets
+     the 36px touch target, without turning the feed into a column of blocks.
+     Purple is reserved for the genuinely rare: real discount badges. */
+  .compact-deals .card-cta { display: flex; align-items: center; justify-content: center; width: 100%; padding: 8px 10px; margin-top: 0; min-height: 36px; font-size: 12.5px; font-weight: 600; text-align: center; color: var(--compact-accent); background: transparent; border: 1px solid #4a3a63; border-radius: 9px; text-shadow: none; }
+  .compact-deals .card-cta:hover { background: rgba(123, 47, 190, .14); border-color: var(--compact-accent); }
   .compact-deals .card-cta:active { transform: translateY(1px); }
   .compact-deals .discount-badge, .compact-deals .badge { background: var(--compact-solid); white-space: normal; }
   .compact-deals .promo-copy { position: relative; z-index: 1; min-height: 44px; padding: 6px; border: 1px solid #c4a2ef; border-radius: 6px; color: #eddbff; background: #2c1b3e; overflow-wrap: anywhere; cursor: pointer; font-size: 11px; }
