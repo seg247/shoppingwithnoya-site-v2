@@ -898,17 +898,8 @@ const timeAgoSSR = (ts) => {
 
   <div class="browse-controls">
     <details class="category-picker compact-disclosure">
-      <summary>Categories</summary>
+      <summary>Category guides</summary>
       <div class="category-panel">
-        <nav class="shop-cats" aria-label="Filter deals">
-          <div class="shop-cats-scroll" id="chips">
-            <button class="shop-cat chip active" data-cat="all" type="button" aria-pressed="true">All deals</button>
-            {Object.keys(catCounts).sort().map((category) => (
-              <button class="shop-cat chip" data-cat={category} type="button" aria-pressed="false">{category}</button>
-            ))}
-            <button class="shop-cat chip" data-cat="__promo__" type="button" aria-pressed="false">🏷️ Promo Codes</button>
-          </div>
-        </nav>
         <div class="category-links">
           <p>Category pages &amp; shopping advice</p>
           {shopCategories.map((c) => (
@@ -923,6 +914,24 @@ const timeAgoSSR = (ts) => {
       <option value="discount">Biggest discount</option>
     </select>
   </div>
+
+  {/* Category filters sit in the open, not behind a disclosure. They were
+      previously nested inside the <details> above, so filtering cost three
+      actions (notice the drawer, open it, choose) and most visitors never
+      discovered it existed. Baymard's mobile benchmark is explicit that
+      categories hidden out of the main flow make product-finding markedly
+      harder, and that filters shown only inside a filtering UI get
+      overlooked. One horizontally scrollable row costs ~44px once and makes
+      all 20 categories a single tap. */}
+  <nav class="chip-row" aria-label="Filter deals by category">
+    <div class="shop-cats-scroll" id="chips">
+      <button class="shop-cat chip active" data-cat="all" type="button" aria-pressed="true">All deals</button>
+      {Object.keys(catCounts).sort().map((category) => (
+        <button class="shop-cat chip" data-cat={category} type="button" aria-pressed="false">{category}</button>
+      ))}
+      <button class="shop-cat chip" data-cat="__promo__" type="button" aria-pressed="false">🏷️ Promo Codes</button>
+    </div>
+  </nav>
 
   <!-- DEALS -->
   <section class="deals-section">

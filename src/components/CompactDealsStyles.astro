@@ -30,7 +30,36 @@
   .compact-deals .shop-cats { position: static; display: block; height: auto; margin: 0; padding: 0; background: none; border: 0; backdrop-filter: none; }
   .compact-deals .shop-cats::before, .compact-deals .shop-cats::after { display: none; }
   .compact-deals .shop-cats-scroll { display: flex; flex-wrap: wrap; gap: 8px; overflow: visible; padding: 0; mask-image: none; }
+
+  /* The surfaced filter row. Scoped to .chip-row so the wrapped layout above
+     still applies to the chips that remain inside panels on other pages.
+     Horizontal scroll (not wrap) keeps 20 categories to a single 44px row
+     instead of a block that would push the deals off screen. */
+  .compact-deals .chip-row { max-width: 1200px; margin: 0 auto 10px; padding: 0 12px; }
+  .compact-deals .chip-row .shop-cats-scroll {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 2px;
+  }
+  .compact-deals .chip-row .shop-cats-scroll::-webkit-scrollbar { display: none; }
+  .compact-deals .chip-row .shop-cat {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    overflow-wrap: normal;
+    min-height: 38px;
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: .82rem;
+  }
+  .compact-deals .chip-row .shop-cat.active { background: var(--compact-accent, #7B2FBE); color: #fff; border-color: transparent; }
+  .compact-deals .chip-row .shop-cat:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
   .compact-deals .shop-cat { white-space: normal; overflow-wrap: anywhere; min-height: 44px; padding: 8px 10px; font-size: .82rem; }
+  /* Re-stated after the generic .shop-cat rule above, which would otherwise
+     win on source order and let chips wrap mid-word inside the row. */
+  .compact-deals .chip-row .shop-cat { white-space: nowrap; overflow-wrap: normal; min-height: 38px; padding: 8px 14px; border-radius: 999px; }
   .compact-deals .category-links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
   .compact-deals .category-links a { display: block; padding: 10px; font-size: .8rem; color: var(--compact-accent); text-decoration: underline; }
   .compact-deals .category-links p { width: 100%; font-size: .8rem; color: var(--compact-muted); }
