@@ -65,7 +65,9 @@
   .compact-deals .category-links p { width: 100%; font-size: .8rem; color: var(--compact-muted); }
 
   /* Sort sits alone now that the category disclosure moved to the footer;
-     without this it would stretch across the old two-column grid. */
+     without this it would stretch across the old two-column grid.
+     (Homepage no longer uses this — sort moved into the results header —
+     but category pages still render .browse-controls.) */
   .compact-deals .browse-controls--sort-only { grid-template-columns: minmax(0, 1fr); }
   @media (min-width: 640px) {
     .compact-deals .browse-controls--sort-only { grid-template-columns: minmax(0, 240px); }
@@ -77,6 +79,29 @@
   .compact-deals .footer-cats-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 10px; }
   .compact-deals .footer-cats-links a { font-size: .78rem; color: var(--compact-accent); text-decoration: none; padding: 6px 4px; }
   .compact-deals .footer-cats-links a:hover { text-decoration: underline; }
+  /* Inline sort, in the results header. Deliberately lighter than the search
+     field: a borderless control that reads as a refinement, not a second
+     input. Pushed right with the view toggle, and allowed to wrap on very
+     narrow screens rather than squeezing the title. Overrides the shared
+     #sort-order sizing above, which was written for the old full-width row. */
+  .compact-deals .section-header .sort-inline {
+    width: auto;
+    min-width: 0;
+    margin-left: auto;
+    min-height: 32px;
+    padding: 4px 6px;
+    border: 0;
+    border-radius: 8px;
+    background: transparent;
+    color: var(--compact-accent);
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .compact-deals .section-header .sort-inline:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
+  /* The toggle claimed margin-left:auto for right alignment; with sort now
+     holding that role the toggle just follows it. */
+  .compact-deals .section-header .sort-inline ~ #view-toggle { margin-left: 4px; }
+
   .compact-deals .deals-section { padding: 0 12px 24px; }
   .compact-deals .section-header { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; min-height: 36px; margin-bottom: 8px; }
   .compact-deals .section-title { font-size: 18px; }

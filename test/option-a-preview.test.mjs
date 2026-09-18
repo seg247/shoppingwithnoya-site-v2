@@ -64,7 +64,7 @@ test('homepage first-fold structure is search, paired controls, then grid (not a
   assert.ok(d.querySelector('.chip-row #chips'), 'filter chips are surfaced, not in a drawer');
   assert.equal(d.querySelector('.browse-controls .category-picker'), null, 'no duplicate category control above the feed');
   assert.ok([...d.querySelectorAll('.chip-row .shop-cat')].length > 1, 'chips rendered');
-  assert.ok(d.querySelector('.browse-controls #sort-order'));
+  assert.ok(d.querySelector('.section-header #sort-order'), 'sort sits in the results header, beside the count it reorders');
   const grid = d.querySelector('#deals-grid');
   assert.ok(d.querySelector('.chip-row').compareDocumentPosition(grid) & 4, 'chips precede the grid');
   // Category guide links moved to the footer so the homepage stops showing two

@@ -896,22 +896,14 @@ const timeAgoSSR = (ts) => {
     <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
   </div>
 
-  <div class="browse-controls browse-controls--sort-only">
-    <label for="sort-order" class="visually-hidden">Sort deals</label>
-    <select id="sort-order" aria-label="Sort deals">
-      <option value="newest">Newest first</option>
-      <option value="discount">Biggest discount</option>
-    </select>
-  </div>
-
   {/* Category filters sit in the open, not behind a disclosure. They were
-      previously nested inside the <details> above, so filtering cost three
-      actions (notice the drawer, open it, choose) and most visitors never
-      discovered it existed. Baymard's mobile benchmark is explicit that
-      categories hidden out of the main flow make product-finding markedly
-      harder, and that filters shown only inside a filtering UI get
-      overlooked. One horizontally scrollable row costs ~44px once and makes
-      all 20 categories a single tap. */}
+      previously nested inside a <details>, so filtering cost three actions
+      (notice the drawer, open it, choose) and most visitors never discovered
+      it existed. Baymard's mobile benchmark is explicit that categories
+      hidden out of the main flow make product-finding markedly harder, and
+      that filters shown only inside a filtering UI get overlooked. One
+      horizontally scrollable row costs ~44px once and makes all 20
+      categories a single tap. */}
   <nav class="chip-row" aria-label="Filter deals by category">
     <div class="shop-cats-scroll" id="chips">
       <button class="shop-cat chip active" data-cat="all" type="button" aria-pressed="true">All deals</button>
@@ -927,6 +919,16 @@ const timeAgoSSR = (ts) => {
     <div class="section-header">
       <h2 class="section-title">Latest Deals</h2>
       <span class="deal-count" id="deal-count" role="status" aria-live="polite">{ssrDeals.length} deals</span>
+      {/* Sort lives in the results header, beside the count it reorders —
+          the pattern Amazon, eBay, Etsy and Target all use. It previously sat
+          in its own full-width row under the search bar, where an equally
+          heavy bordered box read as a second search field. Moving it here
+          also returns ~56px of vertical space to the deals. */}
+      <label for="sort-order" class="visually-hidden">Sort deals</label>
+      <select id="sort-order" class="sort-inline" aria-label="Sort deals">
+        <option value="newest">Newest first</option>
+        <option value="discount">Biggest discount</option>
+      </select>
       <DealViewToggle />
     </div>
     <div class="deals-grid" id="deals-grid" data-view="grid">
