@@ -9,35 +9,32 @@
         "Other",
         "Fashion",
         "Beauty",
-        "Sports & Fitness",
-        "Electronics"
+        "Sports & Fitness"
       ],
       "byCategory": {
-        "Fashion": [
+        "Other": [
           {
-            "asin": "B0GTC42N36",
-            "slug": "someki-seashell-bracelet-set-for-women-octopus-starfish-seas",
-            "title": "\udecd️Someki Seashell Bracelet Set for Women Octopus Starfish Seashell Charms Boho Ocean Stackable Bracelet Beach Beaded Jew",
-            "price": "$9.99",
+            "asin": "B0CSD3PXXN",
+            "slug": "perkoop-20-pcs-32-oz-clear-ice-cream-buckets-with-lids-lemon",
+            "title": "\udecd️PerKoop 20 Pcs 32 Oz Clear Ice Cream Buckets with Lids, Lemon",
+            "price": "$26.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61waGyf+V3L.jpg",
-            "url": "https://amazon.com/dp/B0GTC42N36?tag=noya0b-20"
+            "category": "Other",
+            "imageUrl": null,
+            "url": "https://amazon.com/dp/B0CSD3PXXN?tag=noya0b-20"
           },
           {
-            "asin": "B0D6R11XRZ",
-            "slug": "bsubseach-women-sarong-swimsuit-coverups-long-pareo-bikini-w",
-            "title": "\udecd️Bsubseach Women Sarong Swimsuit Coverups Long Pareo Bikini Wraps Skirt Beach Bathing Suit Cover Up Blue Green",
-            "price": "$14.99",
+            "asin": "B0GLGP5GRT",
+            "slug": "aifarld-mens-baggy-sweatpants-wide-leg-casual-sweat-pants-wi",
+            "title": "\udecd️AIFARLD Mens Baggy Sweatpants Wide Leg Casual Sweat Pants with Pockets Elastic Waist Drawstring Relaxed Fit Light Grey",
+            "price": "$24.61",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ShXiOwyBL.jpg",
-            "url": "https://amazon.com/dp/B0D6R11XRZ?tag=noya0b-20"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61PAcUnpJAL.jpg",
+            "url": "https://amazon.com/dp/B0GLGP5GRT?tag=noya0b-20"
+          },
           {
             "asin": "B0GZTX6HRJ",
             "slug": "wild-flower-my-first-year-photo-board-fairy-baby-12-months-m",
@@ -70,28 +67,41 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81ppzACsbwL.jpg",
             "url": "https://amazon.com/dp/B07H2WNK5J?tag=noya0b-20"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B0FFLJLKRC",
-            "slug": "yeego-direct-kids-bike-basket-front-handlebar-bag-with-multi",
-            "title": "\udecd️YEEGO DIRECT Kids Bike Basket, Front Handlebar Bag with Multi-Pocket Design, Converts to Detachable Shoulder Bag, Fit ",
-            "price": "$18.99",
+            "asin": "B0G24CNLGX",
+            "slug": "bjesinmo-boho-necklace-for-women-vintage-large-pendant-state",
+            "title": "\udecd️Bjesinmo Boho Necklace for Women Vintage Large Pendant Statement Necklace Choker with Gold Rose Charm Long Chain Hippi",
+            "price": "$7.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-S4idSA+L.jpg",
-            "url": "https://amazon.com/dp/B0FFLJLKRC?tag=noya0b-20"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61fgytpYIuL.jpg",
+            "url": "https://amazon.com/dp/B0G24CNLGX?tag=noya0b-20"
           },
           {
-            "asin": "B0BM11YMCP",
-            "slug": "buffalo-david-bitton-womens-hi-rise-straight-jean-black-2-31",
-            "title": "\udecd️Buffalo David Bitton Women's Hi Rise Straight Jean, Black 2, 31",
-            "price": "$59.40",
+            "asin": "B0GTC42N36",
+            "slug": "someki-seashell-bracelet-set-for-women-octopus-starfish-seas",
+            "title": "\udecd️Someki Seashell Bracelet Set for Women Octopus Starfish Seashell Charms Boho Ocean Stackable Bracelet Beach Beaded Jew",
+            "price": "$9.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61IYt6t2ubL.jpg",
-            "url": "https://amazon.com/dp/B0BM11YMCP?tag=noya0b-20"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61waGyf+V3L.jpg",
+            "url": "https://amazon.com/dp/B0GTC42N36?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D6R11XRZ",
+            "slug": "bsubseach-women-sarong-swimsuit-coverups-long-pareo-bikini-w",
+            "title": "\udecd️Bsubseach Women Sarong Swimsuit Coverups Long Pareo Bikini Wraps Skirt Beach Bathing Suit Cover Up Blue Green",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ShXiOwyBL.jpg",
+            "url": "https://amazon.com/dp/B0D6R11XRZ?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -119,22 +129,42 @@
             "imageUrl": "https://m.media-amazon.com/images/I/615ZxPtja7L.jpg",
             "url": "https://amazon.com/dp/B0FLXTM2NR?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0D4H4JWCX",
-            "slug": "soulion-usb-powered-wired-bluetooth-computer-speakers-for-pc",
-            "title": "\udecd️SOULION USB-Powered Wired Bluetooth Computer Speakers for PC Desktop",
-            "price": "$14.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": null,
-            "url": "https://amazon.com/dp/B0D4H4JWCX?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CSD3PXXN",
+          "slug": "perkoop-20-pcs-32-oz-clear-ice-cream-buckets-with-lids-lemon",
+          "title": "\udecd️PerKoop 20 Pcs 32 Oz Clear Ice Cream Buckets with Lids, Lemon",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": null,
+          "url": "https://amazon.com/dp/B0CSD3PXXN?tag=noya0b-20"
+        },
+        {
+          "asin": "B0G24CNLGX",
+          "slug": "bjesinmo-boho-necklace-for-women-vintage-large-pendant-state",
+          "title": "\udecd️Bjesinmo Boho Necklace for Women Vintage Large Pendant Statement Necklace Choker with Gold Rose Charm Long Chain Hippi",
+          "price": "$7.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61fgytpYIuL.jpg",
+          "url": "https://amazon.com/dp/B0G24CNLGX?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GLGP5GRT",
+          "slug": "aifarld-mens-baggy-sweatpants-wide-leg-casual-sweat-pants-wi",
+          "title": "\udecd️AIFARLD Mens Baggy Sweatpants Wide Leg Casual Sweat Pants with Pockets Elastic Waist Drawstring Relaxed Fit Light Grey",
+          "price": "$24.61",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61PAcUnpJAL.jpg",
+          "url": "https://amazon.com/dp/B0GLGP5GRT?tag=noya0b-20"
+        },
         {
           "asin": "B0GTC42N36",
           "slug": "someki-seashell-bracelet-set-for-women-octopus-starfish-seas",
@@ -211,45 +241,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71ShXiOwyBL.jpg",
           "url": "https://amazon.com/dp/B0D6R11XRZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FFLJLKRC",
-          "slug": "yeego-direct-kids-bike-basket-front-handlebar-bag-with-multi",
-          "title": "\udecd️YEEGO DIRECT Kids Bike Basket, Front Handlebar Bag with Multi-Pocket Design, Converts to Detachable Shoulder Bag, Fit ",
-          "price": "$18.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71-S4idSA+L.jpg",
-          "url": "https://amazon.com/dp/B0FFLJLKRC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BM11YMCP",
-          "slug": "buffalo-david-bitton-womens-hi-rise-straight-jean-black-2-31",
-          "title": "\udecd️Buffalo David Bitton Women's Hi Rise Straight Jean, Black 2, 31",
-          "price": "$59.40",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61IYt6t2ubL.jpg",
-          "url": "https://amazon.com/dp/B0BM11YMCP?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D4H4JWCX",
-          "slug": "soulion-usb-powered-wired-bluetooth-computer-speakers-for-pc",
-          "title": "\udecd️SOULION USB-Powered Wired Bluetooth Computer Speakers for PC Desktop",
-          "price": "$14.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": null,
-          "url": "https://amazon.com/dp/B0D4H4JWCX?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 18, 2026?",
-          "a": "The best deals today include \"\udecd️Someki Seashell Bracelet Set for Women Octopus Starfish Se...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
+          "a": "The best deals today include \"\udecd️PerKoop 20 Pcs 32 Oz Clear Ice Cream Buckets with Lids, Le...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-18T22:30:02.489Z",
-      "updatedAt": "2026-09-18T22:30:02.489Z"
+      "generatedAt": "2026-09-18T22:40:01.832Z",
+      "updatedAt": "2026-09-18T22:40:01.833Z"
     },
     {
       "date": "2026-09-17",
@@ -16247,5 +16244,5 @@
       "updatedAt": "2026-07-22T03:50:01.882Z"
     }
   ],
-  "generatedAt": "2026-09-18T22:30:02.498Z"
+  "generatedAt": "2026-09-18T22:40:01.841Z"
 }
