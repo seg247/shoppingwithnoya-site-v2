@@ -125,7 +125,19 @@
   .compact-deals .chip-row { margin: 0 auto 8px; }
   .compact-deals #deals-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .compact-deals :is(.deal-card, .card) { min-width: 0; display: flex; flex-direction: column; min-height: 0; height: 100%; border-radius: 12px; border: 1px solid #303040; background: #1e1e2a; opacity: 1; animation: none; box-shadow: none; }
-  .compact-deals :is(.card-image-wrap, .card-img, .image-placeholder) { width: 100%; height: 100px; min-height: 100px; padding: 8px; background: #fff; border-radius: 0; object-fit: contain; }
+  /* Amazon ships product shots on white, so the tile cannot go dark without
+     haloing every cutout. But pure #fff at full contrast against a near-black
+     card turned the feed into a checkerboard — once the badge and button noise
+     was gone, these tiles were the strongest pattern on the page, pulling the
+     eye to empty background rather than to products. So: barely-off-white
+     (close enough to image white that no seam shows) plus rounded top corners
+     so the tile reads as part of the card instead of a stark rectangle.
+     This is the audit's "stark white product cutout boxes" note, which was
+     right even though its proposed full light-mode redesign was not.
+     Deliberately NOT using mix-blend-mode:multiply to fuse image and tile —
+     it looks seamless on white-background cutouts but darkens any lifestyle
+     or coloured-background photo, and the feed contains both. */
+  .compact-deals :is(.card-image-wrap, .card-img, .image-placeholder) { width: 100%; height: 100px; min-height: 100px; padding: 8px; background: #f6f7f9; border-radius: 11px 11px 0 0; object-fit: contain; }
   .compact-deals .card-image-wrap img { object-fit: contain; border-radius: 0; }
   .compact-deals .card-body, .compact-deals .deal-card.no-img .card-body { padding: 8px; gap: 4px; min-width: 0; }
   .compact-deals .card-title { font-size: 13px; line-height: 1.35; font-weight: 600; -webkit-line-clamp: 2; overflow-wrap: anywhere; }
@@ -182,7 +194,9 @@
   .compact-deals .hero-strip-stat { display: block; }
   .compact-deals #deals-grid[data-view="list"] { grid-template-columns: minmax(0, 1fr); }
   .compact-deals #deals-grid[data-view="list"] :is(.deal-card, .card) { flex-direction: row; }
-  .compact-deals #deals-grid[data-view="list"] :is(.card-image-wrap, .card-img, .image-placeholder) { width: 110px; flex-shrink: 0; height: 130px; }
+  /* List view puts the tile on the left, so the top-corner rounding used in
+     grid view would look wrong here. */
+  .compact-deals #deals-grid[data-view="list"] :is(.card-image-wrap, .card-img, .image-placeholder) { width: 110px; flex-shrink: 0; height: 130px; border-radius: 11px 0 0 11px; }
   .compact-deals.category-page .wrap { max-width: 1200px; padding: 10px 12px 32px; }
   .compact-deals.category-page .crumb { font-size: 11px; margin-bottom: 6px; }
   .compact-deals.category-page .hero { padding: 0; border: 0; background: none; margin-bottom: 8px; }
