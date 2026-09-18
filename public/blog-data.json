@@ -10,10 +10,55 @@
         "Beauty",
         "Sports & Fitness",
         "Home & Kitchen",
-        "Fashion",
-        "Electronics"
+        "Fashion"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0DS6L2L3D",
+            "slug": "sol-de-janeiro-delicia-drench-jet-set",
+            "title": "\udecd️SOL DE JANEIRO Delicia Drench Jet Set",
+            "price": "$34.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Ldb8+PkcL.jpg",
+            "url": "https://www.amazon.com/dp/B0DS6L2L3D?th=1&linkCode=sl2&tag=noya0b-20&linkId=10cffa4a46307756ec8daa5e472882fd&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BC8TCWLN",
+            "slug": "camel-crown-womens-mountain-waterproof-ski-jackets-warm-wint",
+            "title": "\udecd️CAMEL CROWN Women's Mountain Waterproof Ski Jackets Warm Winter Snow Coat with Detachable Hood Windproof Rain Jacket B",
+            "price": "$59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61upxl09ulL.jpg",
+            "url": "https://www.amazon.com/dp/B0BC8TCWLN?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c11f31235b0cf247fc2aedd2fb2635d7&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GZNR48J7",
+            "slug": "ageago-small-gold-watches-for-womengold",
+            "title": "\udecd️AGEAGO Small Gold Watches for Women,Gold",
+            "price": "$27.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61i8dgNvE3L.jpg",
+            "url": "https://www.amazon.com/dp/B0GZNR48J7?th=1&linkCode=sl2&tag=noya0b-20&linkId=a9f322ac69ac84923f3b64d61fa1b2d0&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0F6Y4B6Z6",
+            "slug": "washable-6x9-area-rug-blue-rust-abstract-non-slip-for-living",
+            "title": "\udecd️Washable 6x9 Area Rug, Blue Rust Abstract Non-Slip for Living Room, Bedroom",
+            "price": "$69.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/91n5JcRIY0L.jpg",
+            "url": "https://amazon.com/dp/B0F6Y4B6Z6?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0H6Q2THW1",
@@ -49,41 +94,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81yMqqUkMgL.jpg",
             "url": "https://www.amazon.com/dp/B0CJJHFDK8?th=1&linkCode=sl2&tag=noya0b-20&linkId=e765956af55e1d241975d2173d8e9f94&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0BC8TCWLN",
-            "slug": "camel-crown-womens-mountain-waterproof-ski-jackets-warm-wint",
-            "title": "\udecd️CAMEL CROWN Women's Mountain Waterproof Ski Jackets Warm Winter Snow Coat with Detachable Hood Windproof Rain Jacket B",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61upxl09ulL.jpg",
-            "url": "https://www.amazon.com/dp/B0BC8TCWLN?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c11f31235b0cf247fc2aedd2fb2635d7&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0GZNR48J7",
-            "slug": "ageago-small-gold-watches-for-womengold",
-            "title": "\udecd️AGEAGO Small Gold Watches for Women,Gold",
-            "price": "$27.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61i8dgNvE3L.jpg",
-            "url": "https://www.amazon.com/dp/B0GZNR48J7?th=1&linkCode=sl2&tag=noya0b-20&linkId=a9f322ac69ac84923f3b64d61fa1b2d0&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0F6Y4B6Z6",
-            "slug": "washable-6x9-area-rug-blue-rust-abstract-non-slip-for-living",
-            "title": "\udecd️Washable 6x9 Area Rug, Blue Rust Abstract Non-Slip for Living Room, Bedroom",
-            "price": "$69.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/91n5JcRIY0L.jpg",
-            "url": "https://amazon.com/dp/B0F6Y4B6Z6?tag=noya0b-20"
           }
         ],
         "Sports & Fitness": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51na-XAg56L.jpg",
             "url": "https://amazon.com/dp/B0FGXHNDKX?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DJMS7ZTS",
-            "slug": "usb-30-ac1300mbps-wifi-adapter-for-pc-dual-band-24g5g",
-            "title": "USB 3.0 AC1300Mbps WiFi Adapter for PC, Dual Band 2.4G/5G",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61RPNpDVJmL.jpg",
-            "url": "https://www.amazon.com/dp/B0DJMS7ZTS/ref=cm_sw_r_as_gl_api_gl_i_dl_9SH3N1HA17FRRS9W9E2Y?linkCode=ml1&tag=noya0b-20&linkId=fa2b58c1c4cea1088e86b40e88c969bf&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DS6L2L3D",
+          "slug": "sol-de-janeiro-delicia-drench-jet-set",
+          "title": "\udecd️SOL DE JANEIRO Delicia Drench Jet Set",
+          "price": "$34.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81Ldb8+PkcL.jpg",
+          "url": "https://www.amazon.com/dp/B0DS6L2L3D?th=1&linkCode=sl2&tag=noya0b-20&linkId=10cffa4a46307756ec8daa5e472882fd&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0H6Q2THW1",
           "slug": "kislio-toddler-baby-boys-girls-halloween-outfit-pumpkin-ghos",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/91n5JcRIY0L.jpg",
           "url": "https://amazon.com/dp/B0F6Y4B6Z6?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DJMS7ZTS",
-          "slug": "usb-30-ac1300mbps-wifi-adapter-for-pc-dual-band-24g5g",
-          "title": "USB 3.0 AC1300Mbps WiFi Adapter for PC, Dual Band 2.4G/5G",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61RPNpDVJmL.jpg",
-          "url": "https://www.amazon.com/dp/B0DJMS7ZTS/ref=cm_sw_r_as_gl_api_gl_i_dl_9SH3N1HA17FRRS9W9E2Y?linkCode=ml1&tag=noya0b-20&linkId=fa2b58c1c4cea1088e86b40e88c969bf&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 18, 2026?",
-          "a": "The best deals today include \"\udecd️Kislio Toddler Baby Boys Girls Halloween Outfit Pumpkin Gh...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Sports & Fitness and are updated daily."
+          "a": "The best deals today include \"\udecd️SOL DE JANEIRO Delicia Drench Jet Set...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Sports & Fitness and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-18T14:40:01.989Z",
-      "updatedAt": "2026-09-18T14:40:01.989Z"
+      "generatedAt": "2026-09-18T14:50:02.544Z",
+      "updatedAt": "2026-09-18T14:50:02.544Z"
     },
     {
       "date": "2026-09-17",
@@ -16250,5 +16247,5 @@
       "updatedAt": "2026-07-22T03:50:01.882Z"
     }
   ],
-  "generatedAt": "2026-09-18T14:40:01.998Z"
+  "generatedAt": "2026-09-18T14:50:02.553Z"
 }
