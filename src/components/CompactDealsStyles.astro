@@ -81,15 +81,20 @@
   .compact-deals .footer-cats-links a:hover { text-decoration: underline; }
   /* Inline sort, in the results header. Deliberately lighter than the search
      field: a borderless control that reads as a refinement, not a second
-     input. Pushed right with the view toggle, and allowed to wrap on very
-     narrow screens rather than squeezing the title. Overrides the shared
-     #sort-order sizing above, which was written for the old full-width row. */
-  .compact-deals .section-header .sort-inline {
+     input.
+     NOTE the #id selector. The shared rule at the top of this file is
+     `.compact-deals #sort-order`, which carries an ID and therefore beats any
+     class-only selector no matter how deeply nested. A first attempt at
+     `.section-header .sort-inline` lost that fight silently and shipped a
+     full-width box stacked under the title — worse than before it moved. */
+  .compact-deals .section-header #sort-order {
     width: auto;
+    max-width: 44vw;
     min-width: 0;
+    flex: 0 1 auto;
     margin-left: auto;
     min-height: 32px;
-    padding: 4px 6px;
+    padding: 4px 22px 4px 6px;
     border: 0;
     border-radius: 8px;
     background: transparent;
@@ -97,16 +102,28 @@
     font-size: 12px;
     cursor: pointer;
   }
-  .compact-deals .section-header .sort-inline:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
-  /* The toggle claimed margin-left:auto for right alignment; with sort now
-     holding that role the toggle just follows it. */
-  .compact-deals .section-header .sort-inline ~ #view-toggle { margin-left: 4px; }
+  .compact-deals .section-header #sort-order:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
+  /* Sort now holds the right-alignment role, so the toggle simply follows it
+     instead of claiming its own margin-left:auto and forcing a line break. */
+  .compact-deals .section-header #sort-order ~ #view-toggle { margin-left: 4px; }
 
   .compact-deals .deals-section { padding: 0 12px 24px; }
-  .compact-deals .section-header { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; min-height: 36px; margin-bottom: 8px; }
-  .compact-deals .section-title { font-size: 18px; }
+  /* One compact results line, not three stacked bands. The screenshot that
+     prompted this showed: header, search, chips, "Latest Deals", a full-width
+     sort box, then "List view" on its own row — six bands before a single
+     product. The title is the least informative of those (the chips already
+     say what is being shown), so it shrinks and the controls share its line. */
+  .compact-deals .section-header { display: flex; flex-wrap: nowrap; align-items: baseline; gap: 4px 8px; min-height: 0; margin-bottom: 8px; }
+  .compact-deals .section-title { font-size: 13px; font-weight: 600; color: var(--compact-muted); text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
   .compact-deals .deal-count { font-size: 11px; padding: 0; background: transparent; color: var(--compact-muted); }
-  .compact-deals #view-toggle { margin-left: auto; min-height: 36px; padding: 4px 0 4px 8px; border: 0; background: none; color: var(--compact-accent); font-size: 12px; cursor: pointer; white-space: nowrap; }
+  .compact-deals #view-toggle { margin-left: auto; min-height: 32px; padding: 4px 0 4px 8px; border: 0; background: none; color: var(--compact-accent); font-size: 12px; cursor: pointer; white-space: nowrap; flex: 0 0 auto; }
+  /* Sort sits immediately before the toggle and owns the auto margin; without
+     this the toggle would also claim it and push itself onto its own line. */
+  .compact-deals .section-header #sort-order ~ #view-toggle { margin-left: 4px; }
+  /* Tighter vertical rhythm above the feed: every band removed here is a
+     product row gained on a phone. */
+  .compact-deals .search-wrap { margin: 8px auto 6px; }
+  .compact-deals .chip-row { margin: 0 auto 8px; }
   .compact-deals #deals-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .compact-deals :is(.deal-card, .card) { min-width: 0; display: flex; flex-direction: column; min-height: 0; height: 100%; border-radius: 12px; border: 1px solid #303040; background: #1e1e2a; opacity: 1; animation: none; box-shadow: none; }
   .compact-deals :is(.card-image-wrap, .card-img, .image-placeholder) { width: 100%; height: 100px; min-height: 100px; padding: 8px; background: #fff; border-radius: 0; object-fit: contain; }
