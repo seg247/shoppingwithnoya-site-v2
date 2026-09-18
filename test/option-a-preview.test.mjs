@@ -60,9 +60,16 @@ test('homepage first-fold structure is search, paired controls, then grid (not a
   const d = home(), main = d.querySelector('main');
   assert.ok(d.body.classList.contains('compact-deals'));
   assert.ok(main.firstElementChild.classList.contains('visually-hidden'), 'accessible page heading remains');
-  assert.ok(d.querySelector('.browse-controls .category-picker'));
+  // Category filters are chips in the open, no longer a disclosure beside sort.
+  assert.ok(d.querySelector('.chip-row #chips'), 'filter chips are surfaced, not in a drawer');
+  assert.equal(d.querySelector('.browse-controls .category-picker'), null, 'no duplicate category control above the feed');
+  assert.ok([...d.querySelectorAll('.chip-row .shop-cat')].length > 1, 'chips rendered');
   assert.ok(d.querySelector('.browse-controls #sort-order'));
   const grid = d.querySelector('#deals-grid');
+  assert.ok(d.querySelector('.chip-row').compareDocumentPosition(grid) & 4, 'chips precede the grid');
+  // Category guide links moved to the footer so the homepage stops showing two
+  // category lists, without orphaning /category/ pages from internal linking.
+  assert.ok(d.querySelector('footer .footer-cats a[href^="/category/"]'), 'category guides still linked from footer');
   assert.ok(grid.compareDocumentPosition(d.querySelector('.hero-strip')) & 4, 'marketing content must follow grid');
   assert.equal(grid.dataset.view, 'grid');
 });
@@ -154,7 +161,10 @@ test('coupon conditions and full titles survive compact rendering; copy and shar
     d.querySelector('.share-btn').click();
     await new Promise(r => setTimeout(r, 10));
     assert.equal(copies[1], url);
-    assert.match(d.querySelector('.card-link')?.textContent || '', /Check Price on Amazon|Shop Deal on Amazon/);
+    assert.match(d.querySelector('.card-link')?.textContent || '', /Check Price|Shop Deal/);
+    // The destination stays in the accessible name rather than the visible
+    // label, which wrapped to two lines in the compact card.
+    assert.match(d.querySelector('.card-link')?.getAttribute('aria-label') || '', /on Amazon/);
     assert.equal(d.querySelector('.price-current'), null);
   } finally { dom.window.close(); }
 });

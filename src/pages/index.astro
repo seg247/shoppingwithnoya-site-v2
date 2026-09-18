@@ -896,18 +896,7 @@ const timeAgoSSR = (ts) => {
     <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
   </div>
 
-  <div class="browse-controls">
-    <details class="category-picker compact-disclosure">
-      <summary>Category guides</summary>
-      <div class="category-panel">
-        <div class="category-links">
-          <p>Category pages &amp; shopping advice</p>
-          {shopCategories.map((c) => (
-            <a href={`/category/${c.slug}/`}>{c.emoji} {c.name} ({c.count}) →</a>
-          ))}
-        </div>
-      </div>
-    </details>
+  <div class="browse-controls browse-controls--sort-only">
     <label for="sort-order" class="visually-hidden">Sort deals</label>
     <select id="sort-order" aria-label="Sort deals">
       <option value="newest">Newest first</option>
@@ -997,6 +986,21 @@ const timeAgoSSR = (ts) => {
 
   <!-- FOOTER -->
   <footer>
+    {/* Category guide pages. These used to sit in a disclosure above the feed,
+        directly beside the filter chips, where they read as a redundant second
+        copy of the same category list. They are not filters — the chips filter
+        the feed in place, these navigate to /category/<slug>/ pages that carry
+        shopping advice and are indexed. Moved here rather than deleted so the
+        homepage stops duplicating itself without orphaning those pages from
+        internal linking. */}
+    <nav class="footer-cats" aria-label="Category guide pages">
+      <p class="footer-cats-label">Category pages &amp; shopping advice</p>
+      <div class="footer-cats-links">
+        {shopCategories.map((c) => (
+          <a href={`/category/${c.slug}/`}>{c.emoji} {c.name} ({c.count})</a>
+        ))}
+      </div>
+    </nav>
     <p>
       <a href="https://t.me/shoppingwithnoya" target="_blank" rel="noopener">📲 Telegram</a>
       &nbsp;·&nbsp;
@@ -1149,7 +1153,7 @@ const timeAgoSSR = (ts) => {
             <span class="card-meta">${timeAgo(deal.ts)}</span>
           </div>
           <div class="card-actions">
-            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal on Amazon' : 'Check price on Amazon'}: ${displayTitle}">${discount > 0 ? 'Shop Deal on Amazon' : 'Check Price on Amazon'} ↗</a>
+            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal on Amazon' : 'Check price on Amazon'}: ${displayTitle}">${discount > 0 ? 'Shop Deal' : 'Check Price'} ↗</a>
             <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">Share</button>
           </div>
         </div>

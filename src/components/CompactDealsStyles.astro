@@ -63,6 +63,20 @@
   .compact-deals .category-links { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
   .compact-deals .category-links a { display: block; padding: 10px; font-size: .8rem; color: var(--compact-accent); text-decoration: underline; }
   .compact-deals .category-links p { width: 100%; font-size: .8rem; color: var(--compact-muted); }
+
+  /* Sort sits alone now that the category disclosure moved to the footer;
+     without this it would stretch across the old two-column grid. */
+  .compact-deals .browse-controls--sort-only { grid-template-columns: minmax(0, 1fr); }
+  @media (min-width: 640px) {
+    .compact-deals .browse-controls--sort-only { grid-template-columns: minmax(0, 240px); }
+  }
+
+  /* Category guide links, relocated out of the feed area. */
+  .compact-deals .footer-cats { max-width: 900px; margin: 0 auto 18px; padding: 0 12px; }
+  .compact-deals .footer-cats-label { font-size: .78rem; color: var(--compact-muted); margin-bottom: 8px; }
+  .compact-deals .footer-cats-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 10px; }
+  .compact-deals .footer-cats-links a { font-size: .78rem; color: var(--compact-accent); text-decoration: none; padding: 6px 4px; }
+  .compact-deals .footer-cats-links a:hover { text-decoration: underline; }
   .compact-deals .deals-section { padding: 0 12px 24px; }
   .compact-deals .section-header { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; min-height: 36px; margin-bottom: 8px; }
   .compact-deals .section-title { font-size: 18px; }
