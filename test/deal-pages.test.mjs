@@ -60,7 +60,10 @@ test('deal pages retain WebPage metadata without unsupported Product rich-result
     assert.ok(schema, `No WebPage metadata for ${deal.slug}`);
     assert.equal(schema.name, title);
     assert.equal(schema.description, description);
-    assert.equal(schema.url, `https://deals.shoppingwithnoya.com/deals/${deal.slug}`);
+    // Trailing slash is required: Astro builds /deals/<slug>/ and the host 301s
+    // the slashless form. A canonical pointing at the redirect source split
+    // every deal page's indexing signals. Must match the sitemap exactly.
+    assert.equal(schema.url, `https://deals.shoppingwithnoya.com/deals/${deal.slug}/`);
     // Google detects Product even when nested under WebPage.about or @graph.
     // Until an approved offer/review source exists, do not emit that entity.
     const inspect = (node) => {
