@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-19T12:00:01.288Z",
+  "generatedAt": "2026-09-19T12:10:02.100Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dddn9sv6-poppy-playtime-triple-pack-ps5",
+      "asin": "B0DDDN9SV6",
+      "title": "Poppy Playtime Triple Pack PS5",
+      "url": "https://www.amazon.com/dp/B0DDDN9SV6/ref=cm_sw_r_as_gl_api_gl_i_NHBC6WVWGGV1BKXN4ER1?linkCode=ml1&tag=noya0b-20&linkId=30dad29e998aa2290968a15b2f09060c&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-09-19T12:06:19.214Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LuhCZg7GL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0d92z3rb7-soar-nba-mini-wireless-bluetooth-speaker",
       "asin": "B0D92Z3RB7",
@@ -7546,25 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b078bcny5k-tommy-bahama-king-size-sheet-set-with-fitted-sheet-pillowcas",
-      "asin": "B078BCNY5K",
-      "title": "\udecd️ Tommy Bahama - King Size Sheet Set with Fitted Sheet & Pillowcases",
-      "url": "https://www.amazon.com/dp/B078BCNY5K?th=1&linkCode=sl2&tag=noya0b-20&linkId=40d7ea1aa3a8cafc8a051fb0e0b3eb71&language=en_US&gaOptInStatus=true",
-      "discount": 28,
-      "rating": "WARM",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-12T20:10:38.381Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/91suQWxmQnL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": {
-        "key": "warm",
-        "label": "🔥 28% OFF",
-        "tone": "warm"
-      }
     }
   ],
   "archivedPosts": [
@@ -9196,6 +9196,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-12T20:06:39.117Z",
       "archivedAt": "2026-09-19T11:00:01.609Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b078bcny5k-tommy-bahama-king-size-sheet-set-with-fitted-sheet-pillowcas",
+      "asin": "B078BCNY5K",
+      "title": "\udecd️ Tommy Bahama - King Size Sheet Set with Fitted Sheet & Pillowcases",
+      "url": "https://www.amazon.com/dp/B078BCNY5K?th=1&linkCode=sl2&tag=noya0b-20&linkId=40d7ea1aa3a8cafc8a051fb0e0b3eb71&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-12T20:10:38.381Z",
+      "archivedAt": "2026-09-19T12:10:02.100Z",
       "status": "archived"
     }
   ]
