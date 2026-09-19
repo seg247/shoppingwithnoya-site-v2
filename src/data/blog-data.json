@@ -4,16 +4,51 @@
       "date": "2026-09-18",
       "slug": "2026-09-18",
       "title": "🔥 Best Deals Today — September 18, 2026",
-      "intro": "Today's best online deals for Friday, September 18, 2026 — 10 hand-picked discounts across Grocery & Food, Beauty, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, September 18, 2026 — 10 hand-picked discounts across Beauty, Grocery & Food, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Grocery & Food",
         "Beauty",
+        "Grocery & Food",
         "Electronics",
         "Other",
         "Home & Kitchen",
         "Fashion"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B08ZH6N688",
+            "slug": "speed-stick-mens-deodorant-ocean-surf-3-ounce-4-pack-packagi",
+            "title": "Speed Stick Men's Deodorant, Ocean Surf, 3 Ounce, 4 Pack, Packaging may Vary",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": null,
+            "url": "https://www.amazon.com/dp/B08ZH6N688?th=1&linkCode=sl2&tag=noya0b-20&linkId=ebb9b7ebb25d0dc960b477ad18dc5658&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0861R1PQS",
+            "slug": "garnier-whole-blends-sulfate-free-remedy-miracle-nectar-10-i",
+            "title": "Garnier Whole Blends Sulfate Free Remedy Miracle Nectar 10-in-1 Repairing Leave-In Conditoner for All Hair Types, Honey ",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71X5yjl7H6L.jpg",
+            "url": "https://www.amazon.com/dp/B0861R1PQS?th=1&linkCode=sl2&tag=noya0b-20&linkId=befdfa9a1a6f3410473f19170b015a17&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FSFPG7YY",
+            "slug": "tarte-lights-camera-lashes-platinum-voluminizing-mascara-and",
+            "title": "\udecd️tarte lights, camera, lashes platinum voluminizing mascara and maracuja juicy melt mask",
+            "price": "$55.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61tMOSegwyL.jpg",
+            "url": "https://amazon.com/dp/B0FSFPG7YY?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B07HKS5QT7",
@@ -47,41 +82,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81NhgDdCvTL.jpg",
             "url": "https://www.amazon.com/gp/product/B004SCSC9M?ie=UTF8&ascsubtag=b0c60f38b3b811f1b008ea547cb3672c0INT&smid=ATVPDKIKX0DERhttps%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB004SCSC9M%2Fref%3Dox_sc_act_title_1%3Fsmid%3DATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=8eb8507b4aed10af928aed3226e001f7&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B087865C1V",
-            "slug": "bodyarmor-lyte-sports-drink-peach-mango-electrolyte-drink-12",
-            "title": "BODYARMOR LYTE Sports Drink, Peach Mango Electrolyte Drink, 12 Oz (8 Pk)",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/819CfEE7vEL.jpg",
-            "url": "https://www.amazon.com/dp/B087865C1V?ie=UTF8&ascsubtag=0dca517cb3ae11f1aa47da48836ac6a60INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=2befeee04b7a6e95bdac572282480825&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0861R1PQS",
-            "slug": "garnier-whole-blends-sulfate-free-remedy-miracle-nectar-10-i",
-            "title": "Garnier Whole Blends Sulfate Free Remedy Miracle Nectar 10-in-1 Repairing Leave-In Conditoner for All Hair Types, Honey ",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71X5yjl7H6L.jpg",
-            "url": "https://www.amazon.com/dp/B0861R1PQS?th=1&linkCode=sl2&tag=noya0b-20&linkId=befdfa9a1a6f3410473f19170b015a17&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FSFPG7YY",
-            "slug": "tarte-lights-camera-lashes-platinum-voluminizing-mascara-and",
-            "title": "\udecd️tarte lights, camera, lashes platinum voluminizing mascara and maracuja juicy melt mask",
-            "price": "$55.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61tMOSegwyL.jpg",
-            "url": "https://amazon.com/dp/B0FSFPG7YY?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B08ZH6N688",
+          "slug": "speed-stick-mens-deodorant-ocean-surf-3-ounce-4-pack-packagi",
+          "title": "Speed Stick Men's Deodorant, Ocean Surf, 3 Ounce, 4 Pack, Packaging may Vary",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": null,
+          "url": "https://www.amazon.com/dp/B08ZH6N688?th=1&linkCode=sl2&tag=noya0b-20&linkId=ebb9b7ebb25d0dc960b477ad18dc5658&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B07HKS5QT7",
           "slug": "badia-sazon-with-coriander-annatto-7-oz-latin-seasoning-blen",
@@ -236,27 +247,16 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61rbyucDogL.jpg",
           "url": "https://amazon.com/dp/B0DS1XDF16?tag=noya0b-20"
-        },
-        {
-          "asin": "B087865C1V",
-          "slug": "bodyarmor-lyte-sports-drink-peach-mango-electrolyte-drink-12",
-          "title": "BODYARMOR LYTE Sports Drink, Peach Mango Electrolyte Drink, 12 Oz (8 Pk)",
-          "price": "$3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/819CfEE7vEL.jpg",
-          "url": "https://www.amazon.com/dp/B087865C1V?ie=UTF8&ascsubtag=0dca517cb3ae11f1aa47da48836ac6a60INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=2befeee04b7a6e95bdac572282480825&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 18, 2026?",
-          "a": "The best deals today include \"Badia Sazon with Coriander & Annatto, 7 oz – Latin Seasoning...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Beauty, Electronics and are updated daily."
+          "a": "The best deals today include \"Speed Stick Men's Deodorant, Ocean Surf, 3 Ounce, 4 Pack, Pa...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Grocery & Food and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-19T01:20:02.133Z",
-      "updatedAt": "2026-09-19T01:20:02.134Z"
+      "generatedAt": "2026-09-19T01:30:02.337Z",
+      "updatedAt": "2026-09-19T01:30:02.337Z"
     },
     {
       "date": "2026-09-17",
@@ -16250,5 +16250,5 @@
       "updatedAt": "2026-07-22T03:50:01.882Z"
     }
   ],
-  "generatedAt": "2026-09-19T01:20:02.142Z"
+  "generatedAt": "2026-09-19T01:30:02.346Z"
 }
