@@ -10,10 +10,23 @@
         "Toys & Kids",
         "Other",
         "Home & Kitchen",
-        "Beauty",
-        "Cleaning Supplies"
+        "Tools & Hardware",
+        "Beauty"
       ],
       "byCategory": {
+        "Tools & Hardware": [
+          {
+            "asin": "B000YQ9U2E",
+            "slug": "milwaukee-lithium-ion-battery-charger",
+            "title": "Milwaukee Lithium-Ion Battery Charger",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/51Y4CWWHkNL.jpg",
+            "url": "https://www.amazon.com/dp/B000YQ9U2E?psc=1&linkCode=sl2&tag=noya0b-20&linkId=02694c51a4002e10875eacc8b49fa593&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B009SZFJ0O",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71Nf-TTqvML.jpg",
             "url": "https://www.amazon.com/dp/B096XZFYDL/ref=cm_sw_r_as_gl_api_gl_i_RY706QNVE9MERWY0BKRX?linkCode=ml1&tag=noya0b-20&linkId=d6c82bb061f9801d4d9085d3a66b4854&gaOptInStatus=true"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B008N86YLK",
-            "slug": "cuisipro-fat-separator-with-bottom-release-plastic-4-cup-str",
-            "title": "Cuisipro Fat Separator with Bottom Release, Plastic, 4 Cup Strainer with Handle, Grease Strainer Dishwasher Safe, Oil Se",
-            "price": "$19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fKou6WM-L.jpg",
-            "url": "https://www.amazon.com/dp/B008N86YLK/ref=cm_sw_r_as_gl_api_gl_i_dl_CCHHF4142ATWHWHGA6N4?linkCode=ml1&tag=noya0b-20&linkId=15b79f53d0418dc526097570afe28b11&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B000YQ9U2E",
+          "slug": "milwaukee-lithium-ion-battery-charger",
+          "title": "Milwaukee Lithium-Ion Battery Charger",
+          "price": "$16",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools & Hardware",
+          "imageUrl": "https://m.media-amazon.com/images/I/51Y4CWWHkNL.jpg",
+          "url": "https://www.amazon.com/dp/B000YQ9U2E?psc=1&linkCode=sl2&tag=noya0b-20&linkId=02694c51a4002e10875eacc8b49fa593&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B009SZFJ0O",
           "slug": "arizona-sweet-tea-southern-style-premium-brewed-tea-16-fl-oz",
@@ -236,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/712Yb+bLLJL.jpg",
           "url": "https://www.amazon.com/dp/B0013CQ20Q/ref=cm_sw_r_as_gl_api_gl_i_V7N1QKTTDYHBS5CCC2SB?linkCode=ml1&tag=noya0b-20&linkId=725a1b433c5747f3c8faabb5c0c712ed&gaOptInStatus=true"
-        },
-        {
-          "asin": "B008N86YLK",
-          "slug": "cuisipro-fat-separator-with-bottom-release-plastic-4-cup-str",
-          "title": "Cuisipro Fat Separator with Bottom Release, Plastic, 4 Cup Strainer with Handle, Grease Strainer Dishwasher Safe, Oil Se",
-          "price": "$19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71fKou6WM-L.jpg",
-          "url": "https://www.amazon.com/dp/B008N86YLK/ref=cm_sw_r_as_gl_api_gl_i_dl_CCHHF4142ATWHWHGA6N4?linkCode=ml1&tag=noya0b-20&linkId=15b79f53d0418dc526097570afe28b11&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 20, 2026?",
-          "a": "The best deals today include \"\udecd️AriZona Sweet Tea - Southern Style Premium Brewed Tea, 16 ...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Toys & Kids, Other and are updated daily."
+          "a": "The best deals today include \"Milwaukee Lithium-Ion Battery Charger...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Toys & Kids, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-20T18:00:02.063Z",
-      "updatedAt": "2026-09-20T18:00:02.063Z"
+      "generatedAt": "2026-09-20T18:10:02.555Z",
+      "updatedAt": "2026-09-20T18:10:02.556Z"
     },
     {
       "date": "2026-09-19",
@@ -16241,5 +16241,5 @@
       "updatedAt": "2026-07-24T03:50:01.421Z"
     }
   ],
-  "generatedAt": "2026-09-20T18:00:02.072Z"
+  "generatedAt": "2026-09-20T18:10:02.563Z"
 }
