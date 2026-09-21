@@ -9,35 +9,21 @@
         "Other",
         "Grocery & Food",
         "Fashion",
-        "Toys & Kids",
-        "Electronics"
+        "Toys & Kids"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B0G3CXVRJ2",
-            "slug": "arizona-rizzler-berry-soda-fruit-juice-drink-22-fl-oz-12-pac",
-            "title": "AriZona Rizzler Berry Soda | Fruit Juice Drink | 22 Fl Oz (12 Pack)",
-            "price": "$12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81cP37A+0qL.jpg",
-            "url": "https://www.amazon.com/dp/B0G3CXVRJ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=63e2d23397cfaf8afba84713b57707bf&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B06XKVRPMF",
-            "slug": "oreo-minis-golden-sandwich-cookies-12-3-oz-bags",
-            "title": "\udecd️OREO Minis Golden Sandwich Cookies, 12 - 3 oz Bags",
-            "price": "$28.82",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81C7chPqrQL.jpg",
-            "url": "https://www.amazon.com/dp/B06XKVRPMF?tag=noya0b-20"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0H28TCZDQ",
+            "slug": "roseseek-mens-two-piece-workout-sets-letter-graphic-tees-and",
+            "title": "\udecd️RoseSeek Men's Two Piece Workout Sets Letter Graphic Tees and Camo Shorts",
+            "price": "$36.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71tNUIDxuTL.jpg",
+            "url": "https://amazon.com/dp/B0H28TCZDQ?tag=noya0b-20"
+          },
           {
             "asin": "B0FS84MDFC",
             "slug": "juicy-couture-og-track-pant",
@@ -94,6 +80,30 @@
             "url": "https://www.amazon.com/dp/B0GVL3SPJ9?linkCode=sl2&tag=noya0b-20&linkId=3f71706552efb2b6fae3ec258a1b3265&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Grocery & Food": [
+          {
+            "asin": "B0G3CXVRJ2",
+            "slug": "arizona-rizzler-berry-soda-fruit-juice-drink-22-fl-oz-12-pac",
+            "title": "AriZona Rizzler Berry Soda | Fruit Juice Drink | 22 Fl Oz (12 Pack)",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81cP37A+0qL.jpg",
+            "url": "https://www.amazon.com/dp/B0G3CXVRJ2?th=1&linkCode=sl2&tag=noya0b-20&linkId=63e2d23397cfaf8afba84713b57707bf&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B06XKVRPMF",
+            "slug": "oreo-minis-golden-sandwich-cookies-12-3-oz-bags",
+            "title": "\udecd️OREO Minis Golden Sandwich Cookies, 12 - 3 oz Bags",
+            "price": "$28.82",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81C7chPqrQL.jpg",
+            "url": "https://www.amazon.com/dp/B06XKVRPMF?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0C5S4MFXL",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81H0QcqNjnL.jpg",
             "url": "https://www.amazon.com/dp/B0BSP35K84?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0HC81XMNH",
-            "slug": "samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlock",
-            "title": "\udecd️Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery L",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51XgzuX5a9L.jpg",
-            "url": "https://www.amazon.com/Samsung-Smartphone-Unlocked-Manufacturer-Warranty/dp/B0HC81XMNH?content-id=amzn1.sym.b9d3ac49-530e-4d99-9dcc-f437188887d3&pd_rd_i=B0HC81XMNH&linkCode=sl2&tag=noya0b-20&linkId=c607aaf0e41cea9613593b824276258c&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0H28TCZDQ",
+          "slug": "roseseek-mens-two-piece-workout-sets-letter-graphic-tees-and",
+          "title": "\udecd️RoseSeek Men's Two Piece Workout Sets Letter Graphic Tees and Camo Shorts",
+          "price": "$36.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71tNUIDxuTL.jpg",
+          "url": "https://amazon.com/dp/B0H28TCZDQ?tag=noya0b-20"
+        },
         {
           "asin": "B0G3CXVRJ2",
           "slug": "arizona-rizzler-berry-soda-fruit-juice-drink-22-fl-oz-12-pac",
@@ -233,23 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51fxEw5LMRL.jpg",
           "url": "https://www.amazon.com/dp/B0GVL3SPJ9?linkCode=sl2&tag=noya0b-20&linkId=3f71706552efb2b6fae3ec258a1b3265&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0HC81XMNH",
-          "slug": "samsung-galaxy-z-fold7-cell-phone-256gb-ai-smartphone-unlock",
-          "title": "\udecd️Samsung Galaxy Z Fold7 Cell Phone, 256GB AI Smartphone, Unlocked Android, AI Photo Edits, Large Screen, Long Battery L",
-          "price": "$1",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51XgzuX5a9L.jpg",
-          "url": "https://www.amazon.com/Samsung-Smartphone-Unlocked-Manufacturer-Warranty/dp/B0HC81XMNH?content-id=amzn1.sym.b9d3ac49-530e-4d99-9dcc-f437188887d3&pd_rd_i=B0HC81XMNH&linkCode=sl2&tag=noya0b-20&linkId=c607aaf0e41cea9613593b824276258c&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 21, 2026?",
-          "a": "The best deals today include \"AriZona Rizzler Berry Soda | Fruit Juice Drink | 22 Fl Oz (1...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Fashion and are updated daily."
+          "a": "The best deals today include \"\udecd️RoseSeek Men's Two Piece Workout Sets Letter Graphic Tees ...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-21T23:20:01.968Z",
-      "updatedAt": "2026-09-21T23:20:01.968Z"
+      "generatedAt": "2026-09-21T23:30:01.985Z",
+      "updatedAt": "2026-09-21T23:30:01.985Z"
     },
     {
       "date": "2026-09-20",
@@ -16223,5 +16220,5 @@
       "updatedAt": "2026-07-25T03:50:01.933Z"
     }
   ],
-  "generatedAt": "2026-09-21T23:20:01.977Z"
+  "generatedAt": "2026-09-21T23:30:01.997Z"
 }
