@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-21T21:20:01.750Z",
+  "generatedAt": "2026-09-21T21:30:01.766Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0h52w9kfm-popeyes-cajun-cheddar-biscuit-mix",
+      "asin": "B0H52W9KFM",
+      "title": "Popeyes Cajun Cheddar Biscuit Mix",
+      "url": "https://www.amazon.com/Popeyes-Cajun-Cheddar-Biscuit-Mix/dp/B0H52W9KFM?_encoding=UTF8&content-id=amzn1.sym.abb1a8f9-63a5-4a3a-9205-6bc53d830ddb&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=14b3f87feac3e7d873f343aacbd54fec&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-09-21T21:20:43.839Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71D5vaBsjzL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0drnn576j-dove-treats-liquid-hand-wash-cinnamon-pumpkin-pie-12-oz",
       "asin": "B0DRNN576J",
@@ -205,11 +224,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71P84ffGT9L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0gqsw45c6-volens-colored-green-votive-candle-holders-12pcs-tealight-ca",
@@ -7530,21 +7545,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0ctsyp8nk-traditional-chex-mix-original-recipe-family-size-12-5-oz",
-      "asin": "B0CTSYP8NK",
-      "title": "Traditional Chex Mix, Original Recipe, Family Size, 12.5 oz",
-      "url": "https://www.amazon.com/dp/B0CTSYP8NK/ref=cm_sw_r_as_gl_api_gl_i_V6BSGAT7GPNY54CQX8S7?linkCode=ml1&tag=noya0b-20&linkId=20569dcc23e3f356de35a941e69d68fd&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-13T10:36:24.744Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81zReu0CAkL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -10016,6 +10016,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-13T10:22:23.542Z",
       "archivedAt": "2026-09-21T20:10:01.829Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0ctsyp8nk-traditional-chex-mix-original-recipe-family-size-12-5-oz",
+      "asin": "B0CTSYP8NK",
+      "title": "Traditional Chex Mix, Original Recipe, Family Size, 12.5 oz",
+      "url": "https://www.amazon.com/dp/B0CTSYP8NK/ref=cm_sw_r_as_gl_api_gl_i_V6BSGAT7GPNY54CQX8S7?linkCode=ml1&tag=noya0b-20&linkId=20569dcc23e3f356de35a941e69d68fd&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-13T10:36:24.744Z",
+      "archivedAt": "2026-09-21T21:30:01.766Z",
       "status": "archived"
     }
   ]
