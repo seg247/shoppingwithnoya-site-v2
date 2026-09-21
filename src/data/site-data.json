@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-21T22:00:01.488Z",
+  "generatedAt": "2026-09-21T22:10:02.178Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fs84mdfc-juicy-couture-og-track-pant",
+      "asin": "B0FS84MDFC",
+      "title": "\udecd️Juicy Couture OG Track Pant",
+      "url": "https://amazon.com/dp/B0FS84MDFC?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-09-21T22:00:56.029Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61NjWOtdNAL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0h52w9kfm-popeyes-cajun-cheddar-biscuit-mix",
       "asin": "B0H52W9KFM",
@@ -186,11 +205,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71qaXXQeOKL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0h24xxcld-24-halloween-rubber-ducks-assorted-styles-party-favors-goodi",
@@ -7526,21 +7541,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00wzxu03m-creative-co-op-traditional-wood-and-metal-chandelier-natural",
-      "asin": "B00WZXU03M",
-      "title": "Creative Co-Op Traditional Wood and Metal Chandelier, Natural Color",
-      "url": "https://www.amazon.com/dp/B00WZXU03M/ref=cm_sw_r_as_gl_api_gl_i_9HQE7QR3961WW63CBKA1?linkCode=ml1&tag=noya0b-20&linkId=1655b7801ac290c950ab5f0e3306048b&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-13T10:48:28.350Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -10022,6 +10022,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-13T10:36:24.744Z",
       "archivedAt": "2026-09-21T21:30:01.766Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00wzxu03m-creative-co-op-traditional-wood-and-metal-chandelier-natural",
+      "asin": "B00WZXU03M",
+      "title": "Creative Co-Op Traditional Wood and Metal Chandelier, Natural Color",
+      "url": "https://www.amazon.com/dp/B00WZXU03M/ref=cm_sw_r_as_gl_api_gl_i_9HQE7QR3961WW63CBKA1?linkCode=ml1&tag=noya0b-20&linkId=1655b7801ac290c950ab5f0e3306048b&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-13T10:48:28.350Z",
+      "archivedAt": "2026-09-21T22:10:02.178Z",
       "status": "archived"
     }
   ]
