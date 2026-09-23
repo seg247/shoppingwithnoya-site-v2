@@ -77,3 +77,45 @@ test('deal pages retain WebPage metadata without unsupported Product rich-result
     for (const item of schemas) inspect(item);
   }
 });
+
+test('sitemap lastmod reflects real content dates, not build time', async () => {
+  // Regression guard. The sitemap previously used `lastmod: new Date()`, so all
+  // 636 URLs claimed to change on every rebuild (the bot rebuilds constantly).
+  // Google documents that it ignores lastmod it judges unreliable, and a site
+  // where every URL shares one ever-moving timestamp is exactly that case.
+  const xml = readFileSync(new URL('../dist/sitemap-0.xml', import.meta.url), 'utf8');
+  const lastmods = [...xml.matchAll(/<lastmod>([^<]+)<\/lastmod>/g)].map((m) => m[1]);
+
+  assert.ok(lastmods.length > 100, 'expected a populated sitemap');
+
+  // The core assertion: dates must vary. One shared value means build time.
+  const distinct = new Set(lastmods);
+  assert.ok(
+    distinct.size > 50,
+    `expected many distinct lastmod values, got ${distinct.size} across ${lastmods.length} URLs ` +
+      '(all-identical means lastmod regressed to build time)'
+  );
+
+  // Old content must keep old dates rather than being stamped with today.
+  const oldest = lastmods.slice().sort()[0];
+  const ageDays = (Date.now() - new Date(oldest).getTime()) / 86400000;
+  assert.ok(
+    ageDays > 7,
+    `oldest lastmod is only ${ageDays.toFixed(1)} days old; historical pages are being re-stamped`
+  );
+
+  // Date-addressed pages must agree with the date in their own URL.
+  const pairs = [...xml.matchAll(/<url><loc>([^<]+)<\/loc>(?:(?!<\/url>)[\s\S])*?<lastmod>([^<]+)<\/lastmod>/g)];
+  let checked = 0;
+  for (const [, loc, lastmod] of pairs) {
+    const m = loc.match(/\/(?:blog|beauty)\/(\d{4}-\d{2}-\d{2})\//);
+    if (!m) continue;
+    assert.equal(
+      lastmod.slice(0, 10),
+      m[1],
+      `${loc} declares lastmod ${lastmod} but its URL says ${m[1]}`
+    );
+    checked += 1;
+  }
+  assert.ok(checked > 10, `expected to verify several date-addressed pages, checked ${checked}`);
+});
