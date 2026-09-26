@@ -10,10 +10,44 @@
         "Beauty",
         "Sports & Fitness",
         "Grocery & Food",
-        "Home & Kitchen",
-        "Cleaning Supplies"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0GVLCXNR1",
+            "slug": "tricoci-hydrate-cleanser-daily-use-gentle-face-wash-for-all",
+            "title": "\udecd️TRICOCI Hydrate Cleanser, Daily Use Gentle Face Wash for All Skin Types",
+            "price": "$29.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51nR5LUjbfL.jpg",
+            "url": "https://amazon.com/dp/B0GVLCXNR1?tag=noya0b-20"
+          },
+          {
+            "asin": "B0C675D2YY",
+            "slug": "hudson-baby-infant-and-toddler-girl-cotton-dresses-blush-ros",
+            "title": "\udecd️Hudson Baby Infant and Toddler Girl Cotton Dresses, Blush Rose Leopard, 18-24 Months",
+            "price": "$12.84",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81d-zmuAZfL.jpg",
+            "url": "https://www.amazon.com/dp/B0C675D2YY?gaOptInStatus=true&ascsubtag=srctok-0dd1455c47f50431&btn_type=ss&btn_ref=srctok-0dd1455c47f50431&linkCode=sl2&tag=noya0b-20&linkId=99cb160fe84049305abf03a31fb9c7f5&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B085QNSPPC",
+            "slug": "the-crme-shop-korean-skin-care-what-acne-hydrating-healing-v",
+            "title": "\udecd️The Crème Shop Korean Skin Care | What Acne? - Hydrating & Healing Vitamin C Serum for Acne Treatment, Dull Skin, irri",
+            "price": "$12.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61W8qHX+inL.jpg",
+            "url": "https://www.amazon.com/dp/B085QNSPPC?linkCode=sl2&tag=noya0b-20&linkId=1c3a283ed3aac6e379f4e2c7528fbcbd&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Sports & Fitness": [
           {
             "asin": "B0FZCLSTP2",
@@ -98,46 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71H1uSE+d6L.jpg",
             "url": "https://www.amazon.com/dp/B0GYWF6CYL?pd_rd_i=B0GYWF6CYL&content-id=amzn1.sym.17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1&linkCode=sl2&tag=noya0b-20&linkId=77120e2396f1825abc004cc1866779b9&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0C675D2YY",
-            "slug": "hudson-baby-infant-and-toddler-girl-cotton-dresses-blush-ros",
-            "title": "\udecd️Hudson Baby Infant and Toddler Girl Cotton Dresses, Blush Rose Leopard, 18-24 Months",
-            "price": "$12.84",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81d-zmuAZfL.jpg",
-            "url": "https://www.amazon.com/dp/B0C675D2YY?gaOptInStatus=true&ascsubtag=srctok-0dd1455c47f50431&btn_type=ss&btn_ref=srctok-0dd1455c47f50431&linkCode=sl2&tag=noya0b-20&linkId=99cb160fe84049305abf03a31fb9c7f5&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B085QNSPPC",
-            "slug": "the-crme-shop-korean-skin-care-what-acne-hydrating-healing-v",
-            "title": "\udecd️The Crème Shop Korean Skin Care | What Acne? - Hydrating & Healing Vitamin C Serum for Acne Treatment, Dull Skin, irri",
-            "price": "$12.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61W8qHX+inL.jpg",
-            "url": "https://www.amazon.com/dp/B085QNSPPC?linkCode=sl2&tag=noya0b-20&linkId=1c3a283ed3aac6e379f4e2c7528fbcbd&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B079TKMD8B",
-            "slug": "tork-toilet-paper-roll-white-t34-universal-2-ply-48-x-616-sh",
-            "title": "\udecd️Tork Toilet Paper Roll White T34, Universal, 2-ply, 48 x 616 sheets, 240616",
-            "price": "$70.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HTOzIE5HL.jpg",
-            "url": "https://www.amazon.com/dp/B079TKMD8B/ref=cm_sw_r_as_gl_api_gl_i_GFKN1SZPWZJEZKMPSYYH?linkCode=ml1&tag=noya0b-20&linkId=86697a31d31c96a30bd27139d1ebd60f&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GVLCXNR1",
+          "slug": "tricoci-hydrate-cleanser-daily-use-gentle-face-wash-for-all",
+          "title": "\udecd️TRICOCI Hydrate Cleanser, Daily Use Gentle Face Wash for All Skin Types",
+          "price": "$29.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51nR5LUjbfL.jpg",
+          "url": "https://amazon.com/dp/B0GVLCXNR1?tag=noya0b-20"
+        },
         {
           "asin": "B0FZCLSTP2",
           "slug": "rolling-tennis-ball-hopper-picker-basket-with-wheels-holds-5",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71xB4mx1VsL.jpg",
           "url": "https://amazon.com/dp/B0GXVKRTM1?tag=noya0b-20"
-        },
-        {
-          "asin": "B079TKMD8B",
-          "slug": "tork-toilet-paper-roll-white-t34-universal-2-ply-48-x-616-sh",
-          "title": "\udecd️Tork Toilet Paper Roll White T34, Universal, 2-ply, 48 x 616 sheets, 240616",
-          "price": "$70.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71HTOzIE5HL.jpg",
-          "url": "https://www.amazon.com/dp/B079TKMD8B/ref=cm_sw_r_as_gl_api_gl_i_GFKN1SZPWZJEZKMPSYYH?linkCode=ml1&tag=noya0b-20&linkId=86697a31d31c96a30bd27139d1ebd60f&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 26, 2026?",
-          "a": "The best deals today include \"\udecd️Rolling Tennis Ball Hopper & Picker Basket with Wheels, Ho...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Sports & Fitness and are updated daily."
+          "a": "The best deals today include \"\udecd️TRICOCI Hydrate Cleanser, Daily Use Gentle Face Wash for A...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Sports & Fitness and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-26T22:20:01.744Z",
-      "updatedAt": "2026-09-26T22:20:01.744Z"
+      "generatedAt": "2026-09-26T22:30:02.047Z",
+      "updatedAt": "2026-09-26T22:30:02.047Z"
     },
     {
       "date": "2026-09-25",
@@ -16202,5 +16199,5 @@
       "updatedAt": "2026-07-30T03:50:01.484Z"
     }
   ],
-  "generatedAt": "2026-09-26T22:20:01.754Z"
+  "generatedAt": "2026-09-26T22:30:02.055Z"
 }
