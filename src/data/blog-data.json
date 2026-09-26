@@ -14,20 +14,18 @@
         "Fashion"
       ],
       "byCategory": {
-        "Grocery & Food": [
+        "Other": [
           {
-            "asin": "B09SHMWMF4",
-            "slug": "amazon-grocery-turkey-flavor-stuffing-mix-6-oz-previously-am",
-            "title": "Amazon Grocery, Turkey Flavor Stuffing Mix, 6 Oz (Previously Amazon Fresh, Packaging May Vary)",
-            "price": "$1.52",
+            "asin": "B00A77VPC8",
+            "slug": "mccormick-parsley-flakes-27-oz",
+            "title": "McCormick Parsley Flakes, 2.7 oz",
+            "price": "$6",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71-Ul+UZlFL.jpg",
-            "url": "https://www.amazon.com/Amazon-Fresh-Turkey-Flavored-Stuffing/dp/B09SHMWMF4?ie=UTF8&ascsubtag=cf6097c8b9ef11f1954ab2cd81cc3ab40INT&crid=1LUCNPZ5Y113L&dib=eyJ2IjoiMSJ9.zQTEw1hbdt5ZRABpIIA0Sj5ivKpF6KlHazs6jiH1-iedArsKF4JWZyqIndip-TddkJLGE7kL3TToCDW5-P3cBoj9OJBfJI4I8bXaymUk5wtvd0--YrDAvpHwEnCtriDDzexwqmTpBl43qbNogmS2wGxBKW5Vm6buJpU0LtVqLjpBBIgNxY70H0SP8g4SwsnQ6wbIw55rFsRIASO2YQOoiANrWR_1xRDnucgRCX7FxshCvdkB82ykoRMwtBK_EjGyswbCxE1wyKonrzgpP_sZw90-oOvdjgutiei_1FoF5eM.bUFYJeed8GPunKMkK7RP5No6nQwkq0sObyTLKCdCHzw&dib_tag=se&keywords=stuffing&qid=1790454154&sprefix=stuffi%2Caps%2C1320&th=1&linkCode=sl2&tag=noya0b-20&linkId=7f84b18e1e59bdc7b0bf3e8eb353c97e&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81H3uspUqDL.jpg",
+            "url": "https://www.amazon.com/dp/B00A77VPC8?th=1&linkCode=sl2&tag=noya0b-20&linkId=7f65ce39cbb1f83eed8b2772aa8ee7c9&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0FJ5N22YF",
             "slug": "12-pcs-9-inch-16-inch-halloween-ghost-inflatable-pool-noodle",
@@ -60,17 +58,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71xB4mx1VsL.jpg",
             "url": "https://amazon.com/dp/B0GXVKRTM1?tag=noya0b-20"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0FDXK2BY6",
-            "slug": "calvin-klein-lyla-triple-compartment-satchel-caramelbrownkha",
-            "title": "\udecd️Calvin Klein Lyla Triple Compartment Satchel, Caramel/Brown/Khaki, One Size",
-            "price": "$178.00",
+            "asin": "B09SHMWMF4",
+            "slug": "amazon-grocery-turkey-flavor-stuffing-mix-6-oz-previously-am",
+            "title": "Amazon Grocery, Turkey Flavor Stuffing Mix, 6 Oz (Previously Amazon Fresh, Packaging May Vary)",
+            "price": "$1.52",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81rRv6mmXIL.jpg",
-            "url": "https://amazon.com/dp/B0FDXK2BY6?tag=noya0b-20"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-Ul+UZlFL.jpg",
+            "url": "https://www.amazon.com/Amazon-Fresh-Turkey-Flavored-Stuffing/dp/B09SHMWMF4?ie=UTF8&ascsubtag=cf6097c8b9ef11f1954ab2cd81cc3ab40INT&crid=1LUCNPZ5Y113L&dib=eyJ2IjoiMSJ9.zQTEw1hbdt5ZRABpIIA0Sj5ivKpF6KlHazs6jiH1-iedArsKF4JWZyqIndip-TddkJLGE7kL3TToCDW5-P3cBoj9OJBfJI4I8bXaymUk5wtvd0--YrDAvpHwEnCtriDDzexwqmTpBl43qbNogmS2wGxBKW5Vm6buJpU0LtVqLjpBBIgNxY70H0SP8g4SwsnQ6wbIw55rFsRIASO2YQOoiANrWR_1xRDnucgRCX7FxshCvdkB82ykoRMwtBK_EjGyswbCxE1wyKonrzgpP_sZw90-oOvdjgutiei_1FoF5eM.bUFYJeed8GPunKMkK7RP5No6nQwkq0sObyTLKCdCHzw&dib_tag=se&keywords=stuffing&qid=1790454154&sprefix=stuffi%2Caps%2C1320&th=1&linkCode=sl2&tag=noya0b-20&linkId=7f84b18e1e59bdc7b0bf3e8eb353c97e&language=en_US&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B00A77VPC8",
+          "slug": "mccormick-parsley-flakes-27-oz",
+          "title": "McCormick Parsley Flakes, 2.7 oz",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81H3uspUqDL.jpg",
+          "url": "https://www.amazon.com/dp/B00A77VPC8?th=1&linkCode=sl2&tag=noya0b-20&linkId=7f65ce39cbb1f83eed8b2772aa8ee7c9&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B09SHMWMF4",
           "slug": "amazon-grocery-turkey-flavor-stuffing-mix-6-oz-previously-am",
@@ -236,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61zxNHescqL.jpg",
           "url": "https://amazon.com/dp/B0F4TKWFR4?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FDXK2BY6",
-          "slug": "calvin-klein-lyla-triple-compartment-satchel-caramelbrownkha",
-          "title": "\udecd️Calvin Klein Lyla Triple Compartment Satchel, Caramel/Brown/Khaki, One Size",
-          "price": "$178.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81rRv6mmXIL.jpg",
-          "url": "https://amazon.com/dp/B0FDXK2BY6?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 26, 2026?",
-          "a": "The best deals today include \"Amazon Grocery, Turkey Flavor Stuffing Mix, 6 Oz (Previously...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"McCormick Parsley Flakes, 2.7 oz...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-26T21:40:02.422Z",
-      "updatedAt": "2026-09-26T21:40:02.422Z"
+      "generatedAt": "2026-09-26T21:50:01.739Z",
+      "updatedAt": "2026-09-26T21:50:01.739Z"
     },
     {
       "date": "2026-09-25",
@@ -16202,5 +16202,5 @@
       "updatedAt": "2026-07-30T03:50:01.484Z"
     }
   ],
-  "generatedAt": "2026-09-26T21:40:02.431Z"
+  "generatedAt": "2026-09-26T21:50:01.747Z"
 }
