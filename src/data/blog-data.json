@@ -10,35 +10,21 @@
         "Grocery & Food",
         "Home & Kitchen",
         "Tools & Hardware",
-        "Toys & Kids",
-        "Fashion"
+        "Toys & Kids"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B0FY5ZJSDP",
-            "slug": "wonderbabe-girls-pajamas-for-toddler-ruffled-kids-2pcs-pajam",
-            "title": "\udecd️WonderBabe Girls Pajamas for Toddler Ruffled Kids 2pcs Pajamas Set Purple",
-            "price": "$6.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61gmEjitB5L.jpg",
-            "url": "https://www.amazon.com/dp/B0FY5ZJSDP?tag=noya0b-20"
-          },
-          {
-            "asin": "B072KGX85Z",
-            "slug": "amazon-fresh-just-bright-whole-bean-coffee-light-roast-12-ou",
-            "title": "Amazon Fresh Just Bright Whole Bean Coffee, Light Roast, 12 Ounce (Pack of 3",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71iU792rvJL.jpg",
-            "url": "https://www.amazon.com/gp/product/B072KGX85Z?ie=UTF8&ascsubtag=c7813ed4bc2611f19b049ac92a0759590INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=37a90360791cdc4dd36849d59b53eac4&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B08FZWR9SX",
+            "slug": "omt-motorcycle-lift-1100lb-crank-hoist-stand-with-t-handle-3",
+            "title": "\udecd️OMT Motorcycle Lift, 1100lb Crank Hoist Stand with T Handle, 3/8\" Socket",
+            "price": "$79.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81tBnRHETIL.jpg",
+            "url": "https://www.amazon.com/dp/B08FZWR9SX?tag=noya0b-20"
+          },
           {
             "asin": "B0FL84HJ3D",
             "slug": "gatorade-thirst-quencher-mashups-variety-pack-cool-blue-frui",
@@ -71,6 +57,30 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/81O4CaBF+YL.jpg",
             "url": "https://www.amazon.com/dp/B0DK7N969Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=8cd8f649a5ce344593ccc49fa89ba662&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0FY5ZJSDP",
+            "slug": "wonderbabe-girls-pajamas-for-toddler-ruffled-kids-2pcs-pajam",
+            "title": "\udecd️WonderBabe Girls Pajamas for Toddler Ruffled Kids 2pcs Pajamas Set Purple",
+            "price": "$6.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61gmEjitB5L.jpg",
+            "url": "https://www.amazon.com/dp/B0FY5ZJSDP?tag=noya0b-20"
+          },
+          {
+            "asin": "B072KGX85Z",
+            "slug": "amazon-fresh-just-bright-whole-bean-coffee-light-roast-12-ou",
+            "title": "Amazon Fresh Just Bright Whole Bean Coffee, Light Roast, 12 Ounce (Pack of 3",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71iU792rvJL.jpg",
+            "url": "https://www.amazon.com/gp/product/B072KGX85Z?ie=UTF8&ascsubtag=c7813ed4bc2611f19b049ac92a0759590INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=37a90360791cdc4dd36849d59b53eac4&language=en_US&gaOptInStatus=true"
           }
         ],
         "Tools & Hardware": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61HdrCr5OUL.jpg",
             "url": "https://www.amazon.com/dp/B0H93JQXWF?linkCode=sl2&tag=noya0b-20&linkId=c86c6b58bdecec014a227a1345070340&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0GZF8WG39",
-            "slug": "zynkie-womens-workout-gym-shorts-45-seamless-scrunch-butt-bo",
-            "title": "\udecd️ZYNKIE Women's Workout Gym Shorts 4.5\" Seamless Scrunch Butt Booty Black",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/718irFdRp-L.jpg",
-            "url": "https://www.amazon.com/dp/B0GZF8WG39?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=6a5877ed090b88152abb7c9c869504f3&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08FZWR9SX",
+          "slug": "omt-motorcycle-lift-1100lb-crank-hoist-stand-with-t-handle-3",
+          "title": "\udecd️OMT Motorcycle Lift, 1100lb Crank Hoist Stand with T Handle, 3/8\" Socket",
+          "price": "$79.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81tBnRHETIL.jpg",
+          "url": "https://www.amazon.com/dp/B08FZWR9SX?tag=noya0b-20"
+        },
         {
           "asin": "B0FY5ZJSDP",
           "slug": "wonderbabe-girls-pajamas-for-toddler-ruffled-kids-2pcs-pajam",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/81O4CaBF+YL.jpg",
           "url": "https://www.amazon.com/dp/B0DK7N969Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=8cd8f649a5ce344593ccc49fa89ba662&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GZF8WG39",
-          "slug": "zynkie-womens-workout-gym-shorts-45-seamless-scrunch-butt-bo",
-          "title": "\udecd️ZYNKIE Women's Workout Gym Shorts 4.5\" Seamless Scrunch Butt Booty Black",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/718irFdRp-L.jpg",
-          "url": "https://www.amazon.com/dp/B0GZF8WG39?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=6a5877ed090b88152abb7c9c869504f3&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 29, 2026?",
-          "a": "The best deals today include \"\udecd️WonderBabe Girls Pajamas for Toddler Ruffled Kids 2pcs Paj...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"\udecd️OMT Motorcycle Lift, 1100lb Crank Hoist Stand with T Handl...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-29T18:20:02.166Z",
-      "updatedAt": "2026-09-29T18:20:02.166Z"
+      "generatedAt": "2026-09-29T18:30:02.015Z",
+      "updatedAt": "2026-09-29T18:30:02.015Z"
     },
     {
       "date": "2026-09-28",
@@ -16193,5 +16190,5 @@
       "updatedAt": "2026-08-02T03:50:01.518Z"
     }
   ],
-  "generatedAt": "2026-09-29T18:20:02.176Z"
+  "generatedAt": "2026-09-29T18:30:02.023Z"
 }
