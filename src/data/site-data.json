@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-29T17:00:02.130Z",
+  "generatedAt": "2026-09-29T17:10:01.464Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b072kgx85z-amazon-fresh-just-bright-whole-bean-coffee-light-roast-12-ou",
+      "asin": "B072KGX85Z",
+      "title": "Amazon Fresh Just Bright Whole Bean Coffee, Light Roast, 12 Ounce (Pack of 3",
+      "url": "https://www.amazon.com/gp/product/B072KGX85Z?ie=UTF8&ascsubtag=c7813ed4bc2611f19b049ac92a0759590INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=37a90360791cdc4dd36849d59b53eac4&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-09-29T17:00:19.952Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71iU792rvJL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0cfxnbbbm-milwaukee-leather-mp8190-small-black-sporty-motorcycle-texti",
       "asin": "B0CFXNBBBM",
@@ -205,11 +224,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71UXNU3HMAL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0g29qhg8w-women-s-2-piece-lounge-set-long-sleeve-ruched-top-wide-leg-p",
@@ -7530,21 +7545,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b098yhhv3q-philips-avent-natural-glass-baby-bottles-slow-flow-4-oz-bpa-",
-      "asin": "B098YHHV3Q",
-      "title": "\udecd️Philips Avent Natural Glass Baby Bottles, Slow Flow, 4 oz, BPA-Free, 4-Pack",
-      "url": "https://www.amazon.com/dp/B098YHHV3Q/ref=cm_sw_r_as_gl_api_gl_i_dl_C2K97YZGJ1GZ0GWTRCF9?linkCode=ml1&tag=noya0b-20&linkId=86aa287d720f160525d352a9d0d2392c&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-09-14T14:48:27.206Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71IsWBuTvfL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -10596,6 +10596,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-14T14:46:26.951Z",
       "archivedAt": "2026-09-29T16:50:02.245Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b098yhhv3q-philips-avent-natural-glass-baby-bottles-slow-flow-4-oz-bpa-",
+      "asin": "B098YHHV3Q",
+      "title": "\udecd️Philips Avent Natural Glass Baby Bottles, Slow Flow, 4 oz, BPA-Free, 4-Pack",
+      "url": "https://www.amazon.com/dp/B098YHHV3Q/ref=cm_sw_r_as_gl_api_gl_i_dl_C2K97YZGJ1GZ0GWTRCF9?linkCode=ml1&tag=noya0b-20&linkId=86aa287d720f160525d352a9d0d2392c&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-09-14T14:48:27.206Z",
+      "archivedAt": "2026-09-29T17:10:01.464Z",
       "status": "archived"
     }
   ]
