@@ -9,24 +9,21 @@
         "Other",
         "Fashion",
         "Grocery & Food",
-        "Electronics",
-        "Toys & Kids"
+        "Electronics"
       ],
       "byCategory": {
-        "Fashion": [
+        "Other": [
           {
-            "asin": "B0DS6LRXGS",
-            "slug": "tara-toys-disney-stitch-glow-in-the-dark-jewelry-activity-se",
-            "title": "Tara Toys Disney Stitch Glow in The Dark Jewelry Activity Set",
-            "price": "$8",
+            "asin": "B079Z1M7ZH",
+            "slug": "odoban-ready-to-use-disinfectant-and-odor-eliminator-set-of",
+            "title": "OdoBan Ready-to-Use Disinfectant and Odor Eliminator, Set of 3 Spray Bottles, Made in the USA, Original Eucalyptus and L",
+            "price": "$9",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71yHEWuSXLL.jpg",
-            "url": "https://www.amazon.com/dp/B0DS6LRXGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=64b755d2c4cfb38dd17fc7a24effa33a&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/813X+WkoueL.jpg",
+            "url": "https://www.amazon.com/dp/B079Z1M7ZH?ie=UTF8&ascsubtag=a26f5558bba511f19d2dce85f8dac9350INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=3b23d6f81e792c5bbf818cbda34d9469&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B00A77VPC8",
             "slug": "mccormick-parsley-flakes-27-oz",
@@ -94,6 +91,19 @@
             "url": "https://www.amazon.com/dp/B0H7WF6SVG?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c7d889d31247a3b83f16ca34057d70bc&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0DS6LRXGS",
+            "slug": "tara-toys-disney-stitch-glow-in-the-dark-jewelry-activity-se",
+            "title": "Tara Toys Disney Stitch Glow in The Dark Jewelry Activity Set",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71yHEWuSXLL.jpg",
+            "url": "https://www.amazon.com/dp/B0DS6LRXGS?th=1&linkCode=sl2&tag=noya0b-20&linkId=64b755d2c4cfb38dd17fc7a24effa33a&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0014E82ZG",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/810AwtfanoL.jpg",
             "url": "https://www.amazon.com/dp/B0DC7CZ76X?ie=UTF8&_encoding=UTF8&th=1&gaOptInStatus=true&ascsubtag=srctok-434ac767401ddca2&btn_type=ss&btn_ref=srctok-434ac767401ddca2&linkCode=sl2&tag=noya0b-20&linkId=d30b975f4b1d1fa140180f2798196014&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B07HDX46HS",
-            "slug": "crayola-globbles-fidget-toy-6ct-sticky-stress-ball-for-adult",
-            "title": "Crayola Globbles Fidget Toy (6ct), Sticky Stress Ball for Adults & Kids, Squishy Balls, Calming Sensory Gifts for Stress",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": null,
-            "url": "https://www.amazon.com/dp/B07HDX46HS?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=a9524618db17279d14b34e09b293b650&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B079Z1M7ZH",
+          "slug": "odoban-ready-to-use-disinfectant-and-odor-eliminator-set-of",
+          "title": "OdoBan Ready-to-Use Disinfectant and Odor Eliminator, Set of 3 Spray Bottles, Made in the USA, Original Eucalyptus and L",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/813X+WkoueL.jpg",
+          "url": "https://www.amazon.com/dp/B079Z1M7ZH?ie=UTF8&ascsubtag=a26f5558bba511f19d2dce85f8dac9350INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=3b23d6f81e792c5bbf818cbda34d9469&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0DS6LRXGS",
           "slug": "tara-toys-disney-stitch-glow-in-the-dark-jewelry-activity-se",
@@ -233,23 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61kNC0mj9VL.jpg",
           "url": "https://www.amazon.com/dp/B0H7WF6SVG?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=c7d889d31247a3b83f16ca34057d70bc&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07HDX46HS",
-          "slug": "crayola-globbles-fidget-toy-6ct-sticky-stress-ball-for-adult",
-          "title": "Crayola Globbles Fidget Toy (6ct), Sticky Stress Ball for Adults & Kids, Squishy Balls, Calming Sensory Gifts for Stress",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": null,
-          "url": "https://www.amazon.com/dp/B07HDX46HS?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=a9524618db17279d14b34e09b293b650&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 28, 2026?",
-          "a": "The best deals today include \"Tara Toys Disney Stitch Glow in The Dark Jewelry Activity Se...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"OdoBan Ready-to-Use Disinfectant and Odor Eliminator, Set of...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-29T01:40:02.131Z",
-      "updatedAt": "2026-09-29T01:40:02.131Z"
+      "generatedAt": "2026-09-29T01:50:02.499Z",
+      "updatedAt": "2026-09-29T01:50:02.499Z"
     },
     {
       "date": "2026-09-27",
@@ -16199,5 +16196,5 @@
       "updatedAt": "2026-08-01T03:50:02.198Z"
     }
   ],
-  "generatedAt": "2026-09-29T01:40:02.141Z"
+  "generatedAt": "2026-09-29T01:50:02.508Z"
 }
