@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-29T23:00:01.389Z",
+  "generatedAt": "2026-09-29T23:10:02.266Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00aukmkn0-snyder-s-of-hanover-pretzels-sourdough-hard-pretzels-13-5-ou",
+      "asin": "B00AUKMKN0",
+      "title": "Snyder's of Hanover Pretzels, Sourdough Hard Pretzels, 13.5 Ounce Box",
+      "url": "https://www.amazon.com/dp/B00AUKMKN0?th=1&linkCode=sl2&tag=noya0b-20&linkId=2cd6ed5a0bbdb190382e9d40b41dd2d9&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-09-29T23:00:49.184Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/819VsHdyRKL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0922qfv9j-chamie-unisex-newborn-baby-cotton-pants-embroidery-pringting",
       "asin": "B0922QFV9J",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71iU792rvJL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0cfxnbbbm-milwaukee-leather-mp8190-small-black-sporty-motorcycle-texti",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00nhqf6mg-lego-classic-large-creative-brick-box-10698",
-      "asin": "B00NHQF6MG",
-      "title": "\udecd️LEGO Classic Large Creative Brick Box 10698",
-      "url": "https://www.amazon.com/dp/B00NHQF6MG/ref=cm_sw_r_as_gl_api_gl_i_VF1FF1QHYAXGQMQYYNJV?linkCode=ml1&tag=noya0b-20&linkId=49d2d19b7228720ec3c70266e5f58bed&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-09-14T16:16:30.323Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -10752,6 +10752,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-14T16:14:21.018Z",
       "archivedAt": "2026-09-29T22:30:02.052Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00nhqf6mg-lego-classic-large-creative-brick-box-10698",
+      "asin": "B00NHQF6MG",
+      "title": "\udecd️LEGO Classic Large Creative Brick Box 10698",
+      "url": "https://www.amazon.com/dp/B00NHQF6MG/ref=cm_sw_r_as_gl_api_gl_i_VF1FF1QHYAXGQMQYYNJV?linkCode=ml1&tag=noya0b-20&linkId=49d2d19b7228720ec3c70266e5f58bed&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-09-14T16:16:30.323Z",
+      "archivedAt": "2026-09-29T23:10:02.266Z",
       "status": "archived"
     }
   ]
