@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-30T01:40:01.451Z",
+  "generatedAt": "2026-09-30T01:50:02.163Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b094qp93gm-amazon-brand-happy-belly-peanut-butter-sandwich-cremes-1-pou",
+      "asin": "B094QP93GM",
+      "title": "Amazon Brand - Happy Belly Peanut Butter Sandwich Cremes, 1 pound (Pack of 1) (Reformulation)",
+      "url": "https://www.amazon.com/Amazon-Brand-Peanut-Sandwich-Reformulation/dp/B094QP93GM?ie=UTF8&ascsubtag=f0f9ea5cbc6e11f1b2a1eaed7b8562720INT&crid=1WDNO9SGIL6C2&dib=eyJ2IjoiMSJ9.v0rN1usN0Fs2sIEXHjQ6Mncgw1G-NB9q2ryjbVDJSxHCJVZgAQ3_kI_FdyIwdiOnZQo2Pwg2Ocim1wXu9yrt6YZyTjapU6I4Ygcw5v8Mn4aojsC8h2mQoYMsf9PkfUBFYpcaZ_ZuNQVxW6u4Hke82Nm2jFhlo9PIkNFe5ATUAfxwVtQFGKm2tQ90380EuPgKbLjiQbqc10APU7Y9KY1OExp9MLapbPlZzaRNW1yKVO3ZIrSAWPx49s8MXWAhb2ZF595bwkHuQ-r_B0KGRHp6lLXqAOjVC3BZqRUOmffKSts.kGbeE3dxELa7Qr05yNnS7sH9HZsfPfGpaqZcAXe-c1A&dib_tag=se&keywords=amazon%2Bsnacks&qid=1790701535&sprefix=%2Caps%2C213&th=1&linkCode=sl2&tag=noya0b-20&linkId=81262b6c44c211802ad7b8ecf6cea276&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-09-30T01:40:23.623Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71e4c3kJCOL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0bdsmk682-charmin-essentials-soft-toilet-paper-6-mega-rolls-330-sheets",
       "asin": "B0BDSMK682",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81CUcvvEX3L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b09pzwf6gw-gladdon-small-crossbody-bags-for-women-cross-body-purse-shou",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b09b7mz93j-amazon-basics-daily-pantiliner-long-length-feminine-pads-for",
-      "asin": "B09B7MZ93J",
-      "title": "\udecd️Amazon Basics Daily Pantiliner, Long Length, Feminine Pads for Women, Unscented, Leakage Protection, 40 Count (Previou",
-      "url": "https://www.amazon.com/dp/B09B7MZ93J/ref=cm_sw_r_as_gl_api_gl_i_D40PKZ23DHTCJBQD03QF?linkCode=ml1&tag=noya0b-20&linkId=01fabaa27dbb4eac3af674f12cf86035&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-15T16:16:33.236Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -10808,6 +10808,16 @@
       "category": "Beauty",
       "ts": "2026-09-15T16:12:32.812Z",
       "archivedAt": "2026-09-30T01:30:01.960Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b09b7mz93j-amazon-basics-daily-pantiliner-long-length-feminine-pads-for",
+      "asin": "B09B7MZ93J",
+      "title": "\udecd️Amazon Basics Daily Pantiliner, Long Length, Feminine Pads for Women, Unscented, Leakage Protection, 40 Count (Previou",
+      "url": "https://www.amazon.com/dp/B09B7MZ93J/ref=cm_sw_r_as_gl_api_gl_i_D40PKZ23DHTCJBQD03QF?linkCode=ml1&tag=noya0b-20&linkId=01fabaa27dbb4eac3af674f12cf86035&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-15T16:16:33.236Z",
+      "archivedAt": "2026-09-30T01:50:02.163Z",
       "status": "archived"
     }
   ]
