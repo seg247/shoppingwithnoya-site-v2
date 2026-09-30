@@ -10,11 +10,21 @@
         "Grocery & Food",
         "Cleaning Supplies",
         "Fashion",
-        "Personal Care",
-        "Garden & Outdoor"
+        "Personal Care"
       ],
       "byCategory": {
         "Grocery & Food": [
+          {
+            "asin": "B09M6T7MN8",
+            "slug": "amazon-grocery-apple-cider-vinegar-16-fl-oz-previously-amazo",
+            "title": "Amazon Grocery, Apple Cider Vinegar, 16 Fl Oz (Previously Amazon Fresh, Packaging May Vary)",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61BA8tg0GvL.jpg",
+            "url": "https://www.amazon.com/Amazon-Grocery-Previously-Fresh-Packaging/dp/B09M6T7MN8?ie=UTF8&ascsubtag=756ce7babc7111f18b0412d954b97cf70INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=d765c5ef1810def5898e40d755c011cc&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B094QP93GM",
             "slug": "amazon-brand-happy-belly-peanut-butter-sandwich-cremes-1-pou",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71WLIIDKMWL.jpg",
             "url": "https://www.amazon.com/gp/product/B001AJS1AQ?smid=ATVPDKIKX0DER&th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=27089100441e0cfff76849990774aef1&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0CB67RWF6",
-            "slug": "planters-cocktail-peanuts-12-oz-jar-pack-of-2",
-            "title": "\udecd️Planters Cocktail Peanuts (12 oz Jar) (Pack of 2)",
-            "price": "$9.30",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/81nqan0KbtL.jpg",
-            "url": "https://amazon.com/dp/B0CB67RWF6?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B09M6T7MN8",
+          "slug": "amazon-grocery-apple-cider-vinegar-16-fl-oz-previously-amazo",
+          "title": "Amazon Grocery, Apple Cider Vinegar, 16 Fl Oz (Previously Amazon Fresh, Packaging May Vary)",
+          "price": "$1",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61BA8tg0GvL.jpg",
+          "url": "https://www.amazon.com/Amazon-Grocery-Previously-Fresh-Packaging/dp/B09M6T7MN8?ie=UTF8&ascsubtag=756ce7babc7111f18b0412d954b97cf70INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=d765c5ef1810def5898e40d755c011cc&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B094QP93GM",
           "slug": "amazon-brand-happy-belly-peanut-butter-sandwich-cremes-1-pou",
@@ -236,23 +244,12 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71WLIIDKMWL.jpg",
           "url": "https://www.amazon.com/gp/product/B001AJS1AQ?smid=ATVPDKIKX0DER&th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=27089100441e0cfff76849990774aef1&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CB67RWF6",
-          "slug": "planters-cocktail-peanuts-12-oz-jar-pack-of-2",
-          "title": "\udecd️Planters Cocktail Peanuts (12 oz Jar) (Pack of 2)",
-          "price": "$9.30",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/81nqan0KbtL.jpg",
-          "url": "https://amazon.com/dp/B0CB67RWF6?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on September 29, 2026?",
-          "a": "The best deals today include \"Amazon Brand - Happy Belly Peanut Butter Sandwich Cremes, 1 ...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Cleaning Supplies and are updated daily."
+          "a": "The best deals today include \"Amazon Grocery, Apple Cider Vinegar, 16 Fl Oz (Previously Am...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-09-30T02:00:02.359Z",
-      "updatedAt": "2026-09-30T02:00:02.359Z"
+      "generatedAt": "2026-09-30T02:10:02.384Z",
+      "updatedAt": "2026-09-30T02:10:02.384Z"
     },
     {
       "date": "2026-09-28",
@@ -16193,5 +16190,5 @@
       "updatedAt": "2026-08-02T03:50:01.518Z"
     }
   ],
-  "generatedAt": "2026-09-30T02:00:02.367Z"
+  "generatedAt": "2026-09-30T02:10:02.393Z"
 }
