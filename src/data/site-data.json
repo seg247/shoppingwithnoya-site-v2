@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-30T21:40:03.555Z",
+  "generatedAt": "2026-09-30T21:50:02.830Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07wtrw9sq-amazon-saver-dunking-oatmeal-cookies-12-ounce",
+      "asin": "B07WTRW9SQ",
+      "title": "Amazon Saver, Dunking Oatmeal Cookies, 12 ounce",
+      "url": "https://www.amazon.com/gp/product/B07WTRW9SQ?ie=UTF8&ascsubtag=1d67ec18bd1611f1b75ceedaa26e34010INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3b917e075bc784da25b02cce58eba691&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-09-30T21:40:23.552Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61rAawoSYzL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b074f2gp2f-amazon-basics-acetaminophen-pm-caplets-pain-reliever-plus-ni",
       "asin": "B074F2GP2F",
@@ -243,11 +262,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61luXA1i2qL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0fgxyw61d-puma-men-s-king-logo-t-shirt-black-gold-ah25-medium-king-log",
@@ -7538,21 +7553,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0fvm1j62z-cthh-2-pack-fleece-lined-leggings-women-with-pockets-high-wa",
-      "asin": "B0FVM1J62Z",
-      "title": "\udecd️CTHH 2 Pack Fleece Lined Leggings Women with Pockets - High Waisted Soft Winter Thermal Warm Tummy Control Yoga Pants ",
-      "url": "https://amazon.com/dp/B0FVM1J62Z?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-09-15T22:46:22.107Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61qPiRBVlpL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11034,6 +11034,16 @@
       "category": "Fashion",
       "ts": "2026-09-15T22:44:20.162Z",
       "archivedAt": "2026-09-30T21:30:02.043Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fvm1j62z-cthh-2-pack-fleece-lined-leggings-women-with-pockets-high-wa",
+      "asin": "B0FVM1J62Z",
+      "title": "\udecd️CTHH 2 Pack Fleece Lined Leggings Women with Pockets - High Waisted Soft Winter Thermal Warm Tummy Control Yoga Pants ",
+      "url": "https://amazon.com/dp/B0FVM1J62Z?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-09-15T22:46:22.107Z",
+      "archivedAt": "2026-09-30T21:50:02.830Z",
       "status": "archived"
     }
   ]
