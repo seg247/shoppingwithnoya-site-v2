@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-30T00:00:02.019Z",
+  "generatedAt": "2026-09-30T00:10:01.455Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dg8rt88q-amazon-basics-glass-cleaner-streak-free-shine-32-fl-oz-pack-",
+      "asin": "B0DG8RT88Q",
+      "title": "Amazon Basics Glass Cleaner, Streak-Free Shine, 32 Fl Oz, Pack of 2 with 1 Sprayer",
+      "url": "https://www.amazon.com/dp/B0DG8RT88Q?th=1&gaOptInStatus=true&ascsubtag=srctok-78df23053a780047&btn_type=pt&btn_ref=srctok-78df23053a780047&linkCode=sl2&tag=noya0b-20&linkId=7ed32e0f5ed3f75b44529f0d09567361&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-09-30T00:00:19.187Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71smkLHVFfL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b08m36b5jz-kenmore-pet-friendly-lightweight-bagged-canister-vacuum-clea",
       "asin": "B08M36B5JZ",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61gmEjitB5L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0fl84hj3d-gatorade-thirst-quencher-mashups-variety-pack-cool-blue-frui",
@@ -7550,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0drw4zzk3-lego-one-piece-buggy-the-clown-s-circus-tent-building-blocks",
-      "asin": "B0DRW4ZZK3",
-      "title": "\udecd️LEGO ONE PIECE Buggy the Clown’s Circus Tent Building Blocks - Creative Building Toy for Boys & Girls, 8+ - 4 Toy Figu",
-      "url": "https://www.amazon.com/dp/B0DRW4ZZK3/ref=cm_sw_r_as_gl_api_gl_i_Q5VA5BFFDJRN14PQNPEB?linkCode=ml1&tag=noya0b-20&linkId=9e57fabae4e707cb71a8e43607b6c6e5&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-09-14T16:26:44.884Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81HCSre67rL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -10786,6 +10786,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-14T16:25:18.680Z",
       "archivedAt": "2026-09-29T23:50:01.717Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0drw4zzk3-lego-one-piece-buggy-the-clown-s-circus-tent-building-blocks",
+      "asin": "B0DRW4ZZK3",
+      "title": "\udecd️LEGO ONE PIECE Buggy the Clown’s Circus Tent Building Blocks - Creative Building Toy for Boys & Girls, 8+ - 4 Toy Figu",
+      "url": "https://www.amazon.com/dp/B0DRW4ZZK3/ref=cm_sw_r_as_gl_api_gl_i_Q5VA5BFFDJRN14PQNPEB?linkCode=ml1&tag=noya0b-20&linkId=9e57fabae4e707cb71a8e43607b6c6e5&gaOptInStatus=true",
+      "category": "Garden & Outdoor",
+      "ts": "2026-09-14T16:26:44.884Z",
+      "archivedAt": "2026-09-30T00:10:01.455Z",
       "status": "archived"
     }
   ]
