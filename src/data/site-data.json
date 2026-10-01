@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-01T10:40:01.707Z",
+  "generatedAt": "2026-10-01T10:50:02.501Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d3wnqgjc-dash-rapid-egg-cooker-7-hard-boiled-eggs-cream",
+      "asin": "B0D3WNQGJC",
+      "title": "Dash Rapid Egg Cooker, 7 Hard Boiled Eggs, Cream",
+      "url": "https://www.amazon.com/dp/B0D3WNQGJC/ref=cm_sw_r_as_gl_api_gl_i_dl_JE3D82SF9J116E20K1BQ?linkCode=ml1&tag=noya0b-20&linkId=820167e5c3bd435e3b7d64586bc845cb&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-01T10:40:21.970Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Kag6ecsKL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b000hhq7wq-durvet-2x-liquid-wormer-2-ounce-pet-wormers",
       "asin": "B000HHQ7WQ",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/513VLOlzqOL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b082314nfl-zulay-kitchen-milk-frother-handheld-electric-whisk-frother-w",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0fjm9jb6v-rumia-longsleeve-satin-silk-fall-blouses-shirt-for-women-bus",
-      "asin": "B0FJM9JB6V",
-      "title": "\udecd️RUMIA Longsleeve Satin Silk Fall Blouses Shirt for Women Business Work Top Champagne",
-      "url": "https://amazon.com/dp/B0FJM9JB6V?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-09-16T16:54:26.231Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/715IsYB3uhL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11288,6 +11288,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-16T16:48:20.936Z",
       "archivedAt": "2026-10-01T10:30:01.387Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fjm9jb6v-rumia-longsleeve-satin-silk-fall-blouses-shirt-for-women-bus",
+      "asin": "B0FJM9JB6V",
+      "title": "\udecd️RUMIA Longsleeve Satin Silk Fall Blouses Shirt for Women Business Work Top Champagne",
+      "url": "https://amazon.com/dp/B0FJM9JB6V?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-09-16T16:54:26.231Z",
+      "archivedAt": "2026-10-01T10:50:02.501Z",
       "status": "archived"
     }
   ]
