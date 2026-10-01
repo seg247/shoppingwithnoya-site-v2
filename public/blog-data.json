@@ -9,10 +9,24 @@
         "Home & Kitchen",
         "Garden & Outdoor",
         "Health",
-        "Other",
-        "Sports"
+        "Pet Supplies",
+        "Sports",
+        "Other"
       ],
       "byCategory": {
+        "Pet Supplies": [
+          {
+            "asin": "B000HHQ7WQ",
+            "slug": "durvet-2x-liquid-wormer-2-ounce-pet-wormers",
+            "title": "Durvet 2X Liquid Wormer, 2-Ounce : Pet Wormers",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/61i0Dabb5QL.jpg",
+            "url": "https://www.amazon.com/dp/B000HHQ7WQ?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0DSFPY3YZ",
@@ -120,21 +134,21 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71vOb5y8fKL.jpg",
             "url": "https://www.amazon.com/dp/B0CTRQB49P/ref=cm_sw_r_as_gl_apa_gl_i_7PJ45M32AB3567VJER26?linkCode=ml1&tag=noya0b-20&linkId=be573fae79d4b783721da0cae9e6192b&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0HC67454P",
-            "slug": "12-count-hb-wooden-pencils-yellow-hexagonal-graphite-pencils",
-            "title": "12 Count HB Wooden Pencils, Yellow Hexagonal Graphite Pencilss, Unsharpened Pencils Without Erasers for Students, Classr",
-            "price": "$0.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71365QHWQRL.jpg",
-            "url": "https://www.amazon.com/dp/B0HC67454P/ref=cm_sw_r_as_gl_apa_gl_i_XKE7VA7P0AZWNQ4E9E9Q?linkCode=ml1&tag=noya0b-20&linkId=5970dee830ca9ad9b00e15abb018d82a&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B000HHQ7WQ",
+          "slug": "durvet-2x-liquid-wormer-2-ounce-pet-wormers",
+          "title": "Durvet 2X Liquid Wormer, 2-Ounce : Pet Wormers",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/61i0Dabb5QL.jpg",
+          "url": "https://www.amazon.com/dp/B000HHQ7WQ?tag=noya0b-20"
+        },
         {
           "asin": "B0DSFPY3YZ",
           "slug": "cheerleaders-gifts-for-girls-light-up-kids-water-bottlecheer",
@@ -233,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51UO1hS8KWL.jpg",
           "url": "https://www.amazon.com/dp/B076X9SH6D?tag=noya0b-20"
-        },
-        {
-          "asin": "B0HC67454P",
-          "slug": "12-count-hb-wooden-pencils-yellow-hexagonal-graphite-pencils",
-          "title": "12 Count HB Wooden Pencils, Yellow Hexagonal Graphite Pencilss, Unsharpened Pencils Without Erasers for Students, Classr",
-          "price": "$0.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71365QHWQRL.jpg",
-          "url": "https://www.amazon.com/dp/B0HC67454P/ref=cm_sw_r_as_gl_apa_gl_i_XKE7VA7P0AZWNQ4E9E9Q?linkCode=ml1&tag=noya0b-20&linkId=5970dee830ca9ad9b00e15abb018d82a&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 1, 2026?",
-          "a": "The best deals today include \"Cheerleaders Gifts for Girls, Light Up Kids Water Bottle,Che...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Garden & Outdoor, Health and are updated daily."
+          "a": "The best deals today include \"Durvet 2X Liquid Wormer, 2-Ounce : Pet Wormers...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Garden & Outdoor, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-01T10:20:02.115Z",
-      "updatedAt": "2026-10-01T10:20:02.115Z"
+      "generatedAt": "2026-10-01T10:30:01.710Z",
+      "updatedAt": "2026-10-01T10:30:01.710Z"
     },
     {
       "date": "2026-09-30",
@@ -16187,5 +16190,5 @@
       "updatedAt": "2026-08-04T03:50:01.881Z"
     }
   ],
-  "generatedAt": "2026-10-01T10:20:02.122Z"
+  "generatedAt": "2026-10-01T10:30:01.719Z"
 }
