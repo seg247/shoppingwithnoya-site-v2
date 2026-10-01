@@ -4,11 +4,11 @@
       "date": "2026-10-01",
       "slug": "2026-10-01",
       "title": "🔥 Best Deals Today — October 1, 2026",
-      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Health, Electronics, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Beauty, Electronics, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Health",
-        "Electronics",
         "Beauty",
+        "Electronics",
+        "Health",
         "Garden & Outdoor",
         "Smart Home",
         "Fashion",
@@ -17,6 +17,17 @@
       ],
       "byCategory": {
         "Beauty": [
+          {
+            "asin": "B01N9SPQHQ",
+            "slug": "la-roche-posay-toleriane-double-repair-face-moisturizer-338o",
+            "title": "La Roche-Posay Toleriane Double Repair Face Moisturizer, 3.38oz | Daily face cream with glycerin, niacinamide and ceramide for all skin types. Oil free and fragrance free. : Everything Else",
+            "price": "$19.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/51x78epntaL.jpg",
+            "url": "https://www.amazon.com/dp/B01N9SPQHQ?tag=noya0b-20"
+          },
           {
             "asin": "B09231NL5H",
             "slug": "bellavita-luxury-mens-perfume-gift-set-with-ceo-man-goat-klu",
@@ -40,17 +51,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL.jpg",
             "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
-          },
-          {
-            "asin": "B01MY9A3HH",
-            "slug": "act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
-            "title": "ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout, 4.6 oz.",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71T1R-lyyLL.jpg",
-            "url": "https://www.amazon.com/dp/B01MY9A3HH/ref=cm_sw_r_as_gl_api_gl_i_HGE10FCA6CCABJW90HCJ?linkCode=ml1&tag=noya0b-20&linkId=aad5f9d58f9ca5763023868a1f46214a&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -144,6 +144,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B01N9SPQHQ",
+          "slug": "la-roche-posay-toleriane-double-repair-face-moisturizer-338o",
+          "title": "La Roche-Posay Toleriane Double Repair Face Moisturizer, 3.38oz | Daily face cream with glycerin, niacinamide and ceramide for all skin types. Oil free and fragrance free. : Everything Else",
+          "price": "$19.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/51x78epntaL.jpg",
+          "url": "https://www.amazon.com/dp/B01N9SPQHQ?tag=noya0b-20"
+        },
         {
           "asin": "B09231NL5H",
           "slug": "bellavita-luxury-mens-perfume-gift-set-with-ceo-man-goat-klu",
@@ -242,27 +253,16 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61Fp8XGtR2L.jpg",
           "url": "https://www.amazon.com/dp/B08RQLJDTF/ref=cm_sw_r_as_gl_api_gl_i_GG2HP4C16J5GTFJJVMK6?linkCode=ml1&tag=noya0b-20&linkId=3b4f0973e712793835279a25f1bd6a37&gaOptInStatus=true"
-        },
-        {
-          "asin": "B01MY9A3HH",
-          "slug": "act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
-          "title": "ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout, 4.6 oz.",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71T1R-lyyLL.jpg",
-          "url": "https://www.amazon.com/dp/B01MY9A3HH/ref=cm_sw_r_as_gl_api_gl_i_HGE10FCA6CCABJW90HCJ?linkCode=ml1&tag=noya0b-20&linkId=aad5f9d58f9ca5763023868a1f46214a&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 1, 2026?",
-          "a": "The best deals today include \"BellaVita Luxury Men's Perfume Gift Set with CEO Man, G.O.A....\" and 9 other hand-picked discounts. Deals span Health, Electronics, Beauty and are updated daily."
+          "a": "The best deals today include \"La Roche-Posay Toleriane Double Repair Face Moisturizer, 3.3...\" and 9 other hand-picked discounts. Deals span Beauty, Electronics, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Health and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-01T16:40:02.158Z",
-      "updatedAt": "2026-10-01T16:40:02.159Z"
+      "generatedAt": "2026-10-01T16:50:02.073Z",
+      "updatedAt": "2026-10-01T16:50:02.073Z"
     },
     {
       "date": "2026-09-30",
@@ -16196,5 +16196,5 @@
       "updatedAt": "2026-08-04T03:50:01.881Z"
     }
   ],
-  "generatedAt": "2026-10-01T16:40:02.166Z"
+  "generatedAt": "2026-10-01T16:50:02.082Z"
 }
