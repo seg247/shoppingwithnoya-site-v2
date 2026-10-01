@@ -12,10 +12,44 @@
         "Grocery & Food",
         "Garden & Outdoor",
         "Smart Home",
-        "Fashion",
-        "Electronics"
+        "Fashion"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B000GISTZ4",
+            "slug": "optimum-nutrition-gold-standard-whey-protein-powder-vanilla",
+            "title": "Optimum Nutrition Gold Standard Whey Protein Powder, Vanilla Ice Cream, 2LB | 24g 100% Whey Protein Per Serving, with BCAAs, Gluten Free, Banned Substance Tested, Easy Mixing, Muscle Support & Recovery : Everything Else",
+            "price": "$45.32",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71dfm5dwtwL.jpg",
+            "url": "https://www.amazon.com/dp/B000GISTZ4?tag=noya0b-20"
+          },
+          {
+            "asin": "B00I5571ZO",
+            "slug": "loreal-paris-revitalift-triple-power-anti-aging-overnight-ma",
+            "title": "L'Oreal Paris Revitalift Triple Power Anti-Aging Overnight Mask, Pro Retinol, Hyaluronic Acid & Vitamin C, Reduce Wrinkles 1.7 Oz : Beauty & Personal Care",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/61iLZojCIoL.jpg",
+            "url": "https://www.amazon.com/dp/B00I5571ZO?tag=noya0b-20"
+          },
+          {
+            "asin": "B08146763Z",
+            "slug": "ripple-protein-shake-coffee-12-oz-grocery-gourmet-food",
+            "title": "Ripple Protein Shake, Coffee, 12 oz : Grocery & Gourmet Food",
+            "price": "$3.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL.jpg",
+            "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0CTX5SY2N",
@@ -40,30 +74,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81DSKIZPt1L.jpg",
             "url": "https://www.amazon.com/Hersheys-Chocolate-Candy-Individually-Wrapped/dp/B086LHQHLT?ie=UTF8&ascsubtag=b220e4e6bdba11f197228626c38cdfe50INT&crid=2LM6EFN38HDV5&dib=eyJ2IjoiMSJ9.VY6ddlR17dcZ2F7fs5qCd4axEmH9zck_E0qEJAQCJnsPJz4EJQtffLNLP6hwQvhYq1ZHmMTRIg-D-hNBb1dZoMx9xN_-STYbatmOwHwOD36F35o7Z8LoDhzdXI11ZDOU0WFqFe19k7HbnBU79MB4-JdjRfNWOlgLZYjlDWyogznmUl0O1Jpwm8K7X47YTlDMIQLcMMijhwsyzPgvCTNlvZuytiuO7A4mG_qHUnOz7f_F80117XXAWKnjZ5tSuvYznBziZxlwC5-1GlICWM-i12AtoFCyWjKwKBDVilkfJ1o.u619O5xe3eGvBEfObb6ExnmNlE6E4WV79n2q99q-7es&dib_tag=se&keywords=hersheys%2Bmix&qid=1790868072&sprefix=hersheys%2Bmis%2Caps%2C310&th=1&linkCode=sl2&tag=noya0b-20&linkId=292409f40bf7c3fe9bc20fa71372e7af&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B00I5571ZO",
-            "slug": "loreal-paris-revitalift-triple-power-anti-aging-overnight-ma",
-            "title": "L'Oreal Paris Revitalift Triple Power Anti-Aging Overnight Mask, Pro Retinol, Hyaluronic Acid & Vitamin C, Reduce Wrinkles 1.7 Oz : Beauty & Personal Care",
-            "price": "$14.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/61iLZojCIoL.jpg",
-            "url": "https://www.amazon.com/dp/B00I5571ZO?tag=noya0b-20"
-          },
-          {
-            "asin": "B08146763Z",
-            "slug": "ripple-protein-shake-coffee-12-oz-grocery-gourmet-food",
-            "title": "Ripple Protein Shake, Coffee, 12 oz : Grocery & Gourmet Food",
-            "price": "$3.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/41b00fr6xBL.jpg",
-            "url": "https://www.amazon.com/dp/B08146763Z?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61TkVvg8aoL.jpg",
             "url": "https://www.amazon.com/dp/B0DMDR3NPZ?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B00DLWONF2",
-            "slug": "optimum-nutrition-micronized-creatine-monohydrate-capsules-1",
-            "title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 100 Ct | Micronized Creatine Monohydrate Capsules, Easy to Swallow, Keto Friendly, Supports Muscle Building, Strength & Performance : Everything Else",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WhNwDU1FL.jpg",
-            "url": "https://www.amazon.com/dp/B00DLWONF2?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B000GISTZ4",
+          "slug": "optimum-nutrition-gold-standard-whey-protein-powder-vanilla",
+          "title": "Optimum Nutrition Gold Standard Whey Protein Powder, Vanilla Ice Cream, 2LB | 24g 100% Whey Protein Per Serving, with BCAAs, Gluten Free, Banned Substance Tested, Easy Mixing, Muscle Support & Recovery : Everything Else",
+          "price": "$45.32",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71dfm5dwtwL.jpg",
+          "url": "https://www.amazon.com/dp/B000GISTZ4?tag=noya0b-20"
+        },
         {
           "asin": "B0CTX5SY2N",
           "slug": "mocosa-ceramic-wax-melt-warmer-for-scented-wax-melts-3-in-1",
@@ -242,23 +250,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61TkVvg8aoL.jpg",
           "url": "https://www.amazon.com/dp/B0DMDR3NPZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B00DLWONF2",
-          "slug": "optimum-nutrition-micronized-creatine-monohydrate-capsules-1",
-          "title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 100 Ct | Micronized Creatine Monohydrate Capsules, Easy to Swallow, Keto Friendly, Supports Muscle Building, Strength & Performance : Everything Else",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WhNwDU1FL.jpg",
-          "url": "https://www.amazon.com/dp/B00DLWONF2?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 1, 2026?",
-          "a": "The best deals today include \"mocosa Ceramic Wax Melt Warmer for Scented Wax Melts 3-in-1 ...\" and 9 other hand-picked discounts. Deals span Health, Beauty, Other and are updated daily."
+          "a": "The best deals today include \"Optimum Nutrition Gold Standard Whey Protein Powder, Vanilla...\" and 9 other hand-picked discounts. Deals span Health, Beauty, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-01T18:40:01.926Z",
-      "updatedAt": "2026-10-01T18:40:01.926Z"
+      "generatedAt": "2026-10-01T18:50:02.407Z",
+      "updatedAt": "2026-10-01T18:50:02.407Z"
     },
     {
       "date": "2026-09-30",
@@ -16196,5 +16193,5 @@
       "updatedAt": "2026-08-04T03:50:01.881Z"
     }
   ],
-  "generatedAt": "2026-10-01T18:40:01.934Z"
+  "generatedAt": "2026-10-01T18:50:02.415Z"
 }
