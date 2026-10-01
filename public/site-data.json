@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-01T20:20:02.083Z",
+  "generatedAt": "2026-10-01T20:30:01.425Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07gnwpys2-beauty-deals-luxury-matte-lipstick-luxurious-hydrated-creamy",
+      "asin": "B07GNWPYS2",
+      "title": "Beauty Deals Luxury Matte Lipstick Luxurious Hydrated Creamy Lipstick (Wicked) : Beauty & Personal Care",
+      "url": "https://www.amazon.com/dp/B07GNWPYS2?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-10-01T20:21:11.037Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Em4qK-GrL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b00tum6quc-schwarzkopf-keratin-color-6-0-delicate-praline-permanent-hai",
       "asin": "B00TUM6QUC",
@@ -224,11 +243,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51w4bSjIkKL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dmdr3npz-amaon-warehouse-sale-sales-today-clearance-women-2024-new-di",
@@ -7534,21 +7549,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00niyx9lc-furinno-simplistic-study-table-espresso",
-      "asin": "B00NIYX9LC",
-      "title": "FURINNO Simplistic Study Table, Espresso",
-      "url": "https://www.amazon.com/dp/B00NIYX9LC/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7AFZ77Y3XFYAFSQ825P?linkCode=ml1&tag=noya0b-20&linkId=c20d853209b0c22b3a902b2a1b7418d6&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-17T07:26:22.043Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11450,6 +11450,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-17T06:16:27.095Z",
       "archivedAt": "2026-10-01T20:10:01.712Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00niyx9lc-furinno-simplistic-study-table-espresso",
+      "asin": "B00NIYX9LC",
+      "title": "FURINNO Simplistic Study Table, Espresso",
+      "url": "https://www.amazon.com/dp/B00NIYX9LC/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7AFZ77Y3XFYAFSQ825P?linkCode=ml1&tag=noya0b-20&linkId=c20d853209b0c22b3a902b2a1b7418d6&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-17T07:26:22.043Z",
+      "archivedAt": "2026-10-01T20:30:01.425Z",
       "status": "archived"
     }
   ]
