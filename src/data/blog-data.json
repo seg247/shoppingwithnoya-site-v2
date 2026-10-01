@@ -4,18 +4,42 @@
       "date": "2026-10-01",
       "slug": "2026-10-01",
       "title": "🔥 Best Deals Today — October 1, 2026",
-      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Health, Other, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Health",
         "Other",
-        "Home & Kitchen",
         "Fashion",
         "Toys & Kids",
         "Pet Supplies",
+        "Home & Kitchen",
         "Garden & Outdoor",
-        "Health",
         "Sports"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B01MY9A3HH",
+            "slug": "act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
+            "title": "ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout, 4.6 oz.",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71T1R-lyyLL.jpg",
+            "url": "https://www.amazon.com/dp/B01MY9A3HH/ref=cm_sw_r_as_gl_api_gl_i_HGE10FCA6CCABJW90HCJ?linkCode=ml1&tag=noya0b-20&linkId=aad5f9d58f9ca5763023868a1f46214a&gaOptInStatus=true"
+          },
+          {
+            "asin": "B004U3Y8OM",
+            "slug": "nature-made-vitamin-d3-1000-iu-25-mcg-300-vitamin-d-softgels",
+            "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels | Vitamin D Supplement for Immune, Bone, Teeth and Muscle Health Support, 300 Day Supply : Health & Household",
+            "price": "$8.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
+            "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0FR96JWN5",
@@ -90,17 +114,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71Fl73GHL6L.jpg",
             "url": "https://www.amazon.com/dp/B0DSFPY3YZ/ref=cm_sw_r_as_gl_api_gl_i_SYFTT9DJWN0E6GSXXJJ8?linkCode=ml1&tag=noya0b-20&linkId=d98ceb374c04e4c360a9acb3cd9d91df&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0HF387X6V",
-            "slug": "misting-fan-standing-fan-8-blades-with-humidifier-oscillatin",
-            "title": "Misting Fan, Standing Fan 8 Blades with Humidifier, Oscillating Fan with 3 Misting Modes 9 Speeds 7H Timer, Quiet Fan fo",
-            "price": "$59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71thvWEIDLL.jpg",
-            "url": "https://www.amazon.com/dp/B0HF387X6V/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZRVW4HXR4Q16T0F3SNA1?linkCode=ml1&tag=noya0b-20&linkId=ec4526f747d7034d0ad8a784f2932efa&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -114,19 +127,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/415N-B1lWLL.jpg",
             "url": "https://www.amazon.com/dp/B07NZXYHXJ?tag=noya0b-20"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B004U3Y8OM",
-            "slug": "nature-made-vitamin-d3-1000-iu-25-mcg-300-vitamin-d-softgels",
-            "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels | Vitamin D Supplement for Immune, Bone, Teeth and Muscle Health Support, 300 Day Supply : Health & Household",
-            "price": "$8.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
-            "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
           }
         ],
         "Sports": [
@@ -144,6 +144,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B01MY9A3HH",
+          "slug": "act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
+          "title": "ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout, 4.6 oz.",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71T1R-lyyLL.jpg",
+          "url": "https://www.amazon.com/dp/B01MY9A3HH/ref=cm_sw_r_as_gl_api_gl_i_HGE10FCA6CCABJW90HCJ?linkCode=ml1&tag=noya0b-20&linkId=aad5f9d58f9ca5763023868a1f46214a&gaOptInStatus=true"
+        },
         {
           "asin": "B0FR96JWN5",
           "slug": "gtplayer-ergonomic-office-chair-with-flip-up-armrests-execut",
@@ -242,27 +253,16 @@
           "category": "Sports",
           "imageUrl": "https://m.media-amazon.com/images/I/71WhNwDU1FL.jpg",
           "url": "https://www.amazon.com/dp/B00DLWONF2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0HF387X6V",
-          "slug": "misting-fan-standing-fan-8-blades-with-humidifier-oscillatin",
-          "title": "Misting Fan, Standing Fan 8 Blades with Humidifier, Oscillating Fan with 3 Misting Modes 9 Speeds 7H Timer, Quiet Fan fo",
-          "price": "$59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71thvWEIDLL.jpg",
-          "url": "https://www.amazon.com/dp/B0HF387X6V/ref=cm_sw_r_as_gl_apa_gl_i_dl_ZRVW4HXR4Q16T0F3SNA1?linkCode=ml1&tag=noya0b-20&linkId=ec4526f747d7034d0ad8a784f2932efa&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 1, 2026?",
-          "a": "The best deals today include \"GTPLAYER Ergonomic Office Chair with Flip-up Armrests Execut...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Fashion and are updated daily."
+          "a": "The best deals today include \"ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout,...\" and 9 other hand-picked discounts. Deals span Health, Other, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Health and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-01T12:00:02.494Z",
-      "updatedAt": "2026-10-01T12:00:02.494Z"
+      "generatedAt": "2026-10-01T12:10:02.440Z",
+      "updatedAt": "2026-10-01T12:10:02.440Z"
     },
     {
       "date": "2026-09-30",
@@ -16196,5 +16196,5 @@
       "updatedAt": "2026-08-04T03:50:01.881Z"
     }
   ],
-  "generatedAt": "2026-10-01T12:00:02.501Z"
+  "generatedAt": "2026-10-01T12:10:02.448Z"
 }
