@@ -4,16 +4,40 @@
       "date": "2026-10-01",
       "slug": "2026-10-01",
       "title": "🔥 Best Deals Today — October 1, 2026",
-      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Beauty, Other, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Fashion, Other, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Beauty",
+        "Fashion",
         "Other",
         "Home & Kitchen",
+        "Beauty",
         "Cleaning Supplies",
-        "Grocery & Food",
-        "Fashion"
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0FW34GG4Q",
+            "slug": "dog-socks-shoes-for-hot-pavement-breathable-warm-winter-dog",
+            "title": "Dog Socks Shoes for Hot Pavement, Breathable & Warm Winter Dog Booties to Prevent Licking Paws for Small Medium Large Se",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Cq60fyDhL.jpg",
+            "url": "https://www.amazon.com/KOOLTAIL-Pavement-Breathable-Protectors-Hardwood/dp/B0FW34GG4Q?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8c58c4c121546d8944b6bedcc5f4ec97&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0CPS9Q9K5",
+            "slug": "missnine-tote-bag-for-women-lightweight-puffer-tote-bag-larg",
+            "title": "Missnine Tote Bag for Women, Lightweight Puffer Tote Bag, Large Capacity Quilted Shoulder Handbag for Travel, Work, Gym",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71dhJ0LOU2L.jpg",
+            "url": "https://www.amazon.com/dp/B0CPS9Q9K5?aod=1&th=1&gaOptInStatus=true&ascsubtag=srctok-2ce86d82febe6af1&btn_type=pt&btn_ref=srctok-2ce86d82febe6af1&linkCode=sl2&tag=noya0b-20&linkId=21e8388e77c4bc9efe19c0a36b47ecd4&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0BDSMK682",
@@ -110,34 +134,21 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71Em4qK-GrL.jpg",
             "url": "https://www.amazon.com/dp/B07GNWPYS2?tag=noya0b-20"
-          },
-          {
-            "asin": "B00TUM6QUC",
-            "slug": "schwarzkopf-keratin-color-60-delicate-praline-permanent-hair",
-            "title": "Schwarzkopf Keratin Color® 6.0 Delicate Praline Permanent Hair Dye | Gray coverage for even color, Strengthens and softens strands, Long-lasting intensity, Deep nourishing effect : Beauty & Personal Care",
-            "price": "$11.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/8185SExuQIL.jpg",
-            "url": "https://www.amazon.com/dp/B00TUM6QUC?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CPS9Q9K5",
-            "slug": "missnine-tote-bag-for-women-lightweight-puffer-tote-bag-larg",
-            "title": "Missnine Tote Bag for Women, Lightweight Puffer Tote Bag, Large Capacity Quilted Shoulder Handbag for Travel, Work, Gym",
-            "price": "$7",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dhJ0LOU2L.jpg",
-            "url": "https://www.amazon.com/dp/B0CPS9Q9K5?aod=1&th=1&gaOptInStatus=true&ascsubtag=srctok-2ce86d82febe6af1&btn_type=pt&btn_ref=srctok-2ce86d82febe6af1&linkCode=sl2&tag=noya0b-20&linkId=21e8388e77c4bc9efe19c0a36b47ecd4&language=en_US&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FW34GG4Q",
+          "slug": "dog-socks-shoes-for-hot-pavement-breathable-warm-winter-dog",
+          "title": "Dog Socks Shoes for Hot Pavement, Breathable & Warm Winter Dog Booties to Prevent Licking Paws for Small Medium Large Se",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Cq60fyDhL.jpg",
+          "url": "https://www.amazon.com/KOOLTAIL-Pavement-Breathable-Protectors-Hardwood/dp/B0FW34GG4Q?sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=8c58c4c121546d8944b6bedcc5f4ec97&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0BDSMK682",
           "slug": "charmin-essentials-soft-toilet-paper-6-mega-rolls-330-sheets",
@@ -236,27 +247,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71Em4qK-GrL.jpg",
           "url": "https://www.amazon.com/dp/B07GNWPYS2?tag=noya0b-20"
-        },
-        {
-          "asin": "B00TUM6QUC",
-          "slug": "schwarzkopf-keratin-color-60-delicate-praline-permanent-hair",
-          "title": "Schwarzkopf Keratin Color® 6.0 Delicate Praline Permanent Hair Dye | Gray coverage for even color, Strengthens and softens strands, Long-lasting intensity, Deep nourishing effect : Beauty & Personal Care",
-          "price": "$11.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/8185SExuQIL.jpg",
-          "url": "https://www.amazon.com/dp/B00TUM6QUC?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 1, 2026?",
-          "a": "The best deals today include \"Charmin Essentials Soft Toilet Paper 6 Mega Rolls, 330 sheet...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Dog Socks Shoes for Hot Pavement, Breathable & Warm Winter D...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-01T23:40:01.846Z",
-      "updatedAt": "2026-10-01T23:40:01.846Z"
+      "generatedAt": "2026-10-01T23:50:02.224Z",
+      "updatedAt": "2026-10-01T23:50:02.224Z"
     },
     {
       "date": "2026-09-30",
@@ -16190,5 +16190,5 @@
       "updatedAt": "2026-08-04T03:50:01.881Z"
     }
   ],
-  "generatedAt": "2026-10-01T23:40:01.854Z"
+  "generatedAt": "2026-10-01T23:50:02.233Z"
 }
