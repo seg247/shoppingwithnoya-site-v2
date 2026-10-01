@@ -4,18 +4,52 @@
       "date": "2026-10-01",
       "slug": "2026-10-01",
       "title": "🔥 Best Deals Today — October 1, 2026",
-      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Health, Other, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, October 1, 2026 — 10 hand-picked discounts across Other, Health, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Health",
         "Other",
+        "Health",
         "Fashion",
         "Toys & Kids",
         "Pet Supplies",
         "Home & Kitchen",
-        "Garden & Outdoor",
-        "Sports"
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B08RQLJDTF",
+            "slug": "pacifica-super-green-detox-sheet-mask-charcoal-kale-clay-por",
+            "title": "Pacifica Super Green Detox Sheet Mask – Charcoal, Kale & Clay Pore Cleansing Mask for Oily, Blemish-Prone Skin, Deep Det",
+            "price": "$2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Fp8XGtR2L.jpg",
+            "url": "https://www.amazon.com/dp/B08RQLJDTF/ref=cm_sw_r_as_gl_api_gl_i_GG2HP4C16J5GTFJJVMK6?linkCode=ml1&tag=noya0b-20&linkId=3b4f0973e712793835279a25f1bd6a37&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FR96JWN5",
+            "slug": "gtplayer-ergonomic-office-chair-with-flip-up-armrests-execut",
+            "title": "GTPLAYER Ergonomic Office Chair with Flip-up Armrests Executive Computer Chair for Home Office, Breathable Mesh & Comfy ",
+            "price": "$53",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ecolf6P6L.jpg",
+            "url": "https://www.amazon.com/dp/B0FR96JWN5/ref=cm_sw_r_as_gl_api_gl_i_dl_5EGA74PSMSCZVP9PYHZ2?linkCode=ml1&tag=noya0b-20&linkId=210f274a802b87d5071561a97697e20b&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0D3WNQGJC",
+            "slug": "dash-rapid-egg-cooker-7-hard-boiled-eggs-cream",
+            "title": "Dash Rapid Egg Cooker, 7 Hard Boiled Eggs, Cream",
+            "price": "$16",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Kag6ecsKL.jpg",
+            "url": "https://www.amazon.com/dp/B0D3WNQGJC/ref=cm_sw_r_as_gl_api_gl_i_dl_JE3D82SF9J116E20K1BQ?linkCode=ml1&tag=noya0b-20&linkId=820167e5c3bd435e3b7d64586bc845cb&gaOptInStatus=true"
+          }
+        ],
         "Health": [
           {
             "asin": "B01MY9A3HH",
@@ -38,30 +72,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
             "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0FR96JWN5",
-            "slug": "gtplayer-ergonomic-office-chair-with-flip-up-armrests-execut",
-            "title": "GTPLAYER Ergonomic Office Chair with Flip-up Armrests Executive Computer Chair for Home Office, Breathable Mesh & Comfy ",
-            "price": "$53",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ecolf6P6L.jpg",
-            "url": "https://www.amazon.com/dp/B0FR96JWN5/ref=cm_sw_r_as_gl_api_gl_i_dl_5EGA74PSMSCZVP9PYHZ2?linkCode=ml1&tag=noya0b-20&linkId=210f274a802b87d5071561a97697e20b&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D3WNQGJC",
-            "slug": "dash-rapid-egg-cooker-7-hard-boiled-eggs-cream",
-            "title": "Dash Rapid Egg Cooker, 7 Hard Boiled Eggs, Cream",
-            "price": "$16",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Kag6ecsKL.jpg",
-            "url": "https://www.amazon.com/dp/B0D3WNQGJC/ref=cm_sw_r_as_gl_api_gl_i_dl_JE3D82SF9J116E20K1BQ?linkCode=ml1&tag=noya0b-20&linkId=820167e5c3bd435e3b7d64586bc845cb&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/415N-B1lWLL.jpg",
             "url": "https://www.amazon.com/dp/B07NZXYHXJ?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B00DLWONF2",
-            "slug": "optimum-nutrition-micronized-creatine-monohydrate-capsules-1",
-            "title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 100 Ct | Micronized Creatine Monohydrate Capsules, Easy to Swallow, Keto Friendly, Supports Muscle Building, Strength & Performance : Everything Else",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/71WhNwDU1FL.jpg",
-            "url": "https://www.amazon.com/dp/B00DLWONF2?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08RQLJDTF",
+          "slug": "pacifica-super-green-detox-sheet-mask-charcoal-kale-clay-por",
+          "title": "Pacifica Super Green Detox Sheet Mask – Charcoal, Kale & Clay Pore Cleansing Mask for Oily, Blemish-Prone Skin, Deep Det",
+          "price": "$2",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Fp8XGtR2L.jpg",
+          "url": "https://www.amazon.com/dp/B08RQLJDTF/ref=cm_sw_r_as_gl_api_gl_i_GG2HP4C16J5GTFJJVMK6?linkCode=ml1&tag=noya0b-20&linkId=3b4f0973e712793835279a25f1bd6a37&gaOptInStatus=true"
+        },
         {
           "asin": "B01MY9A3HH",
           "slug": "act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
@@ -242,27 +250,16 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
           "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
-        },
-        {
-          "asin": "B00DLWONF2",
-          "slug": "optimum-nutrition-micronized-creatine-monohydrate-capsules-1",
-          "title": "Optimum Nutrition Micronized Creatine Monohydrate Capsules, 100 Ct | Micronized Creatine Monohydrate Capsules, Easy to Swallow, Keto Friendly, Supports Muscle Building, Strength & Performance : Everything Else",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/71WhNwDU1FL.jpg",
-          "url": "https://www.amazon.com/dp/B00DLWONF2?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 1, 2026?",
-          "a": "The best deals today include \"ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout,...\" and 9 other hand-picked discounts. Deals span Health, Other, Fashion and are updated daily."
+          "a": "The best deals today include \"Pacifica Super Green Detox Sheet Mask – Charcoal, Kale & Cla...\" and 9 other hand-picked discounts. Deals span Other, Health, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Health and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-01T12:20:01.630Z",
-      "updatedAt": "2026-10-01T12:20:01.630Z"
+      "generatedAt": "2026-10-01T12:30:01.681Z",
+      "updatedAt": "2026-10-01T12:30:01.681Z"
     },
     {
       "date": "2026-09-30",
@@ -16196,5 +16193,5 @@
       "updatedAt": "2026-08-04T03:50:01.881Z"
     }
   ],
-  "generatedAt": "2026-10-01T12:20:01.638Z"
+  "generatedAt": "2026-10-01T12:30:01.690Z"
 }
