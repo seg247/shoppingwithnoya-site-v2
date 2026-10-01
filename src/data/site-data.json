@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-01T03:20:03.532Z",
+  "generatedAt": "2026-10-01T03:30:02.698Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0ds13j1gy-womens-sweatpants-my-orders-delivery-status-my-amazon-order-",
+      "asin": "B0DS13J1GY",
+      "title": "Womens Sweatpants,My # Orders Delivery Status,My Amazon Order History,Promo Codes Promo Codes for Today,Amazon Super Secret Outlet, Today,Deal Or No Deal,Amazon Deals,My # Orders Placed RECE : Clothing, Shoes & Jewelry",
+      "url": "https://www.amazon.com/dp/B0DS13J1GY?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-10-01T03:21:17.258Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51EU10+7tCL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0g532dbb4-running-shoes-for-women-walking-tennis-socks-sneakers-lightw",
       "asin": "B0G532DBB4",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61xt5PtREgL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0g5q88cbv-blowfish-malibu-infant-girls-gal-pal-t-sandal-leopard-flower",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0gm1kh7pk-crayola-clicks-retractable-highlighters-10ct-cute-school-sup",
-      "asin": "B0GM1KH7PK",
-      "title": "Crayola Clicks Retractable Highlighters (10ct), Cute School Supplies, Back to School Classroom Essentials for Kids & Adu",
-      "url": "https://www.amazon.com/dp/B0GM1KH7PK/ref=cm_sw_r_as_gl_api_gl_i_E8HJ16S1NJRA2RS80B21?linkCode=ml1&tag=noya0b-20&linkId=63a49565c0d249e8d0532e7b1190a78e&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-09-16T11:08:21.177Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ape+qDPRL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11138,6 +11138,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-16T10:32:19.636Z",
       "archivedAt": "2026-10-01T02:50:03.379Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gm1kh7pk-crayola-clicks-retractable-highlighters-10ct-cute-school-sup",
+      "asin": "B0GM1KH7PK",
+      "title": "Crayola Clicks Retractable Highlighters (10ct), Cute School Supplies, Back to School Classroom Essentials for Kids & Adu",
+      "url": "https://www.amazon.com/dp/B0GM1KH7PK/ref=cm_sw_r_as_gl_api_gl_i_E8HJ16S1NJRA2RS80B21?linkCode=ml1&tag=noya0b-20&linkId=63a49565c0d249e8d0532e7b1190a78e&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-09-16T11:08:21.177Z",
+      "archivedAt": "2026-10-01T03:30:02.698Z",
       "status": "archived"
     }
   ]
