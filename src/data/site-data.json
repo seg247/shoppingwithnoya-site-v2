@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-01T02:40:03.209Z",
+  "generatedAt": "2026-10-01T02:50:03.379Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0g532dbb4-running-shoes-for-women-walking-tennis-socks-sneakers-lightw",
+      "asin": "B0G532DBB4",
+      "title": "Running Shoes for Women Walking Tennis Socks Sneakers Lightweight Classic Slip-On Mesh Breathable Walking Shoes Casual Soft Sole Fashionable Workout Sports Running Footwear Black | Fashion Sneakers",
+      "url": "https://www.amazon.com/dp/B0G532DBB4?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-10-01T02:41:20.140Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qogkO79XL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fqg8r3q9-silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
       "asin": "B0FQG8R3Q9",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51vmtJTPYnL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0ftzqcm84-hershey-s-nuggets-assorted-chocolate-candy-variety-pack-26-o",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0ddcpcn3v-nature-s-truth-lion-s-mane-gummies-for-adults-60-count-mixed",
-      "asin": "B0DDCPCN3V",
-      "title": "Nature's Truth Lion's Mane Gummies for Adults | 60 Count Mixed Berry Flavor | Vegan, Non-GMO, & Gluten Free Supplement",
-      "url": "https://www.amazon.com/dp/B0DDCPCN3V/ref=cm_sw_r_as_gl_api_gl_i_VD0JAK70W94H56YJ1ZE2?linkCode=ml1&tag=noya0b-20&linkId=69a50e5fb6f8b5fb9e1265661a2386a8&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-16T10:32:19.636Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11132,6 +11132,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-16T10:24:21.909Z",
       "archivedAt": "2026-10-01T02:30:03.549Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0ddcpcn3v-nature-s-truth-lion-s-mane-gummies-for-adults-60-count-mixed",
+      "asin": "B0DDCPCN3V",
+      "title": "Nature's Truth Lion's Mane Gummies for Adults | 60 Count Mixed Berry Flavor | Vegan, Non-GMO, & Gluten Free Supplement",
+      "url": "https://www.amazon.com/dp/B0DDCPCN3V/ref=cm_sw_r_as_gl_api_gl_i_VD0JAK70W94H56YJ1ZE2?linkCode=ml1&tag=noya0b-20&linkId=69a50e5fb6f8b5fb9e1265661a2386a8&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-16T10:32:19.636Z",
+      "archivedAt": "2026-10-01T02:50:03.379Z",
       "status": "archived"
     }
   ]
