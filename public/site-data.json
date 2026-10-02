@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T15:00:01.980Z",
+  "generatedAt": "2026-10-02T15:10:01.948Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0cnx6dczv-baby-bouncer-chair-comfortable-support-for-your-little-one-s",
+      "asin": "B0CNX6DCZV",
+      "title": "Baby Bouncer Chair - Comfortable Support for Your Little One's Blissful Moments (Normal, Black)",
+      "url": "https://www.amazon.com/dp/B0CNX6DCZV?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Garden & Outdoor",
+      "ts": "2026-10-02T15:01:30.260Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ZH0PYWlVL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0blwfjmqq-4-for-8-xx-colgate-total-whitening-toothpaste",
       "asin": "B0BLWFJMQQ",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51F07msVkoL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dyl1bcfy-culligan-zerowater-replacement-water-filter-removes-pfas-2-p",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0dkm58qf4-beats-studio-buds-with-apple-20w-usb-c-power-adapter-black-g",
-      "asin": "B0DKM58QF4",
-      "title": "\udecd️Beats Studio Buds + with Apple 20W USB-C Power Adapter - Black/Gold",
-      "url": "https://www.amazon.com/dp/B0DKM58QF4/ref=cm_sw_r_as_gl_api_gl_i_CT1WWGGYN70BEHE02P47?linkCode=ml1&tag=noya0b-20&linkId=c190ce9cc9be38897ca1e8d05c242955&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-09-17T20:50:26.021Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51lSWjUCNmL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11792,6 +11792,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-17T20:46:21.598Z",
       "archivedAt": "2026-10-02T14:50:02.174Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dkm58qf4-beats-studio-buds-with-apple-20w-usb-c-power-adapter-black-g",
+      "asin": "B0DKM58QF4",
+      "title": "\udecd️Beats Studio Buds + with Apple 20W USB-C Power Adapter - Black/Gold",
+      "url": "https://www.amazon.com/dp/B0DKM58QF4/ref=cm_sw_r_as_gl_api_gl_i_CT1WWGGYN70BEHE02P47?linkCode=ml1&tag=noya0b-20&linkId=c190ce9cc9be38897ca1e8d05c242955&gaOptInStatus=true",
+      "category": "Electronics",
+      "ts": "2026-09-17T20:50:26.021Z",
+      "archivedAt": "2026-10-02T15:10:01.948Z",
       "status": "archived"
     }
   ]
