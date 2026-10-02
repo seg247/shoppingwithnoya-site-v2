@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T14:40:01.781Z",
+  "generatedAt": "2026-10-02T14:50:02.174Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0blwfjmqq-4-for-8-xx-colgate-total-whitening-toothpaste",
+      "asin": "B0BLWFJMQQ",
+      "title": "4 for $8.xx Colgate Total Whitening Toothpaste!",
+      "url": "https://www.amazon.com/dp/B0BLWFJMQQ?linkCode=sl2&tag=noya0b-20&linkId=8a220f7b407745c3494a0ecf825872d8&language=en_US",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Health",
+      "ts": "2026-10-02T14:40:38.224Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81It60iQowL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07xpwdmwt-wrangler-rolling-duffel-charcoal-grey-30-large",
       "asin": "B07XPWDMWT",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71-EkUS34QL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0b94p5ldk-bissell-proheat-2x-revolution-pet-pro-plus-carpet-cleaner-35",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0dlj343mz-wonder-powdered-mini-donuts-shareable-powdered-donuts-10-oz-",
-      "asin": "B0DLJ343MZ",
-      "title": "Wonder Powdered Mini Donuts, Shareable Powdered Donuts, 10 oz Bag",
-      "url": "https://www.amazon.com/dp/B0DLJ343MZ?psc=1&linkCode=sl2&tag=noya0b-20&linkId=56b05eb0020debbc605e4c79c0d76c16&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-17T20:46:21.598Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71otr+9-KZL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11782,6 +11782,16 @@
       "category": "Other",
       "ts": "2026-09-17T19:38:31.987Z",
       "archivedAt": "2026-10-02T13:30:01.463Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dlj343mz-wonder-powdered-mini-donuts-shareable-powdered-donuts-10-oz-",
+      "asin": "B0DLJ343MZ",
+      "title": "Wonder Powdered Mini Donuts, Shareable Powdered Donuts, 10 oz Bag",
+      "url": "https://www.amazon.com/dp/B0DLJ343MZ?psc=1&linkCode=sl2&tag=noya0b-20&linkId=56b05eb0020debbc605e4c79c0d76c16&language=en_US&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-17T20:46:21.598Z",
+      "archivedAt": "2026-10-02T14:50:02.174Z",
       "status": "archived"
     }
   ]
