@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T02:00:01.425Z",
+  "generatedAt": "2026-10-02T02:10:02.002Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0blj3cb52-nate-s-manuka-honey-13-2-oz-squeeze-bottle",
+      "asin": "B0BLJ3CB52",
+      "title": "Nate's Manuka Honey - 13.2 oz Squeeze Bottle",
+      "url": "https://www.amazon.com/dp/B0BLJ3CB52?th=1&linkCode=sl2&tag=noya0b-20&linkId=6d038572aa0f0383170c256f95e71a49&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-02T02:00:50.803Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71mum8w6ihL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b003wecb5s-charms-blow-pop-lollipops-assorted-flavors-100-count-4lb-1oz",
       "asin": "B003WECB5S",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/8185SExuQIL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0b5ybdmpn-honey-can-do-set-of-3-flexible-laundry-baskets-with-handles-",
@@ -7550,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0822y2pvv-old-trapper-deli-style-beef-sticks-teriyaki-flavor-15-ounce-",
-      "asin": "B0822Y2PVV",
-      "title": "Old Trapper Deli-Style Beef Sticks, Teriyaki Flavor, 15-Ounce Package, Great for On-the-Go Snacking, Six Grams of Protei",
-      "url": "https://www.amazon.com/dp/B0822Y2PVV/ref=cm_sw_r_as_gl_api_gl_i_NRYJB0PK8KFT750B1VYE?linkCode=ml1&tag=noya0b-20&linkId=b72cde29e27317d2d49ac9fd623de34a&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-17T11:38:20.372Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71VSs9GYOEL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11576,6 +11576,16 @@
       "category": "Other",
       "ts": "2026-09-17T11:32:20.423Z",
       "archivedAt": "2026-10-02T01:50:02.244Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0822y2pvv-old-trapper-deli-style-beef-sticks-teriyaki-flavor-15-ounce-",
+      "asin": "B0822Y2PVV",
+      "title": "Old Trapper Deli-Style Beef Sticks, Teriyaki Flavor, 15-Ounce Package, Great for On-the-Go Snacking, Six Grams of Protei",
+      "url": "https://www.amazon.com/dp/B0822Y2PVV/ref=cm_sw_r_as_gl_api_gl_i_NRYJB0PK8KFT750B1VYE?linkCode=ml1&tag=noya0b-20&linkId=b72cde29e27317d2d49ac9fd623de34a&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-17T11:38:20.372Z",
+      "archivedAt": "2026-10-02T02:10:02.002Z",
       "status": "archived"
     }
   ]
