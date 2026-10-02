@@ -9,11 +9,24 @@
         "Beauty",
         "Luxury Beauty",
         "Health",
+        "Grocery & Food",
         "Other",
-        "Fashion",
-        "Garden & Outdoor"
+        "Fashion"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0DQ5YXVM3",
+            "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
+            "title": "Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack of 21",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Rb4eI0wML.jpg",
+            "url": "https://www.amazon.com/dp/B0DQ5YXVM3?ie=UTF8&ascsubtag=42972484bead11f1a33542ea6d19f5130INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7ef1ed865a0526781ba5015db1eb72d8&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B00OD034E2",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/814kaUbGRCL.jpg",
             "url": "https://www.amazon.com/dp/B0BLZKV8M3?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0CLR1G1CP",
-            "slug": "columbia-youth-unisex-fast-trek-iii-glove-mountain-blue-medi",
-            "title": "Columbia Youth Unisex Fast Trek III Glove, Mountain Blue, Medium | Why We Like The Columbia Fast Trek III Glove : Sports & Outdoors",
-            "price": "$17.60",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/7180iUjCvVL.jpg",
-            "url": "https://www.amazon.com/dp/B0CLR1G1CP?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DQ5YXVM3",
+          "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
+          "title": "Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack of 21",
+          "price": "$10",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Rb4eI0wML.jpg",
+          "url": "https://www.amazon.com/dp/B0DQ5YXVM3?ie=UTF8&ascsubtag=42972484bead11f1a33542ea6d19f5130INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7ef1ed865a0526781ba5015db1eb72d8&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B00OD034E2",
           "slug": "pace-chunky-medium-salsa-64-oz-bottle",
@@ -236,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/814kaUbGRCL.jpg",
           "url": "https://www.amazon.com/dp/B0BLZKV8M3?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CLR1G1CP",
-          "slug": "columbia-youth-unisex-fast-trek-iii-glove-mountain-blue-medi",
-          "title": "Columbia Youth Unisex Fast Trek III Glove, Mountain Blue, Medium | Why We Like The Columbia Fast Trek III Glove : Sports & Outdoors",
-          "price": "$17.60",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/7180iUjCvVL.jpg",
-          "url": "https://www.amazon.com/dp/B0CLR1G1CP?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 2, 2026?",
-          "a": "The best deals today include \"Pace Chunky Medium Salsa, 64 oz Bottle...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Health and are updated daily."
+          "a": "The best deals today include \"Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-02T22:20:01.797Z",
-      "updatedAt": "2026-10-02T22:20:01.797Z"
+      "generatedAt": "2026-10-02T22:30:01.832Z",
+      "updatedAt": "2026-10-02T22:30:01.832Z"
     },
     {
       "date": "2026-10-01",
@@ -16187,5 +16187,5 @@
       "updatedAt": "2026-08-05T03:50:01.389Z"
     }
   ],
-  "generatedAt": "2026-10-02T22:20:01.806Z"
+  "generatedAt": "2026-10-02T22:30:01.841Z"
 }
