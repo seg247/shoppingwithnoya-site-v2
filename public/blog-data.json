@@ -9,11 +9,24 @@
         "Beauty",
         "Luxury Beauty",
         "Health",
+        "Other",
         "Fashion",
-        "Garden & Outdoor",
-        "Sports"
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B00OD034E2",
+            "slug": "pace-chunky-medium-salsa-64-oz-bottle",
+            "title": "Pace Chunky Medium Salsa, 64 oz Bottle",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/717kGJEwacL.jpg",
+            "url": "https://www.amazon.com/dp/B00OD034E2?ie=UTF8&ascsubtag=f682b230beab11f1ae790290b86f22150INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=fcb845be98cbf62d6cd92fe47532f8be&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B08ZH6P1NY",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/7180iUjCvVL.jpg",
             "url": "https://www.amazon.com/dp/B0CLR1G1CP?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B004RJGZ9K",
-            "slug": "lightning-blue-karate-sparring-gear-package-deal-child-mediu",
-            "title": "Lightning BLUE Karate Sparring Gear Package Deal - Child Medium : Boxing And Martial Arts Headgear : Sports & Outdoors",
-            "price": "$99.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Q+OCD9L2L.jpg",
-            "url": "https://www.amazon.com/dp/B004RJGZ9K?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00OD034E2",
+          "slug": "pace-chunky-medium-salsa-64-oz-bottle",
+          "title": "Pace Chunky Medium Salsa, 64 oz Bottle",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/717kGJEwacL.jpg",
+          "url": "https://www.amazon.com/dp/B00OD034E2?ie=UTF8&ascsubtag=f682b230beab11f1ae790290b86f22150INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=fcb845be98cbf62d6cd92fe47532f8be&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B08ZH6P1NY",
           "slug": "speed-stick-aluminum-free-mens-deodorant-regular-3-oz-4-pack",
@@ -236,23 +247,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/7180iUjCvVL.jpg",
           "url": "https://www.amazon.com/dp/B0CLR1G1CP?tag=noya0b-20"
-        },
-        {
-          "asin": "B004RJGZ9K",
-          "slug": "lightning-blue-karate-sparring-gear-package-deal-child-mediu",
-          "title": "Lightning BLUE Karate Sparring Gear Package Deal - Child Medium : Boxing And Martial Arts Headgear : Sports & Outdoors",
-          "price": "$99.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/51Q+OCD9L2L.jpg",
-          "url": "https://www.amazon.com/dp/B004RJGZ9K?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 2, 2026?",
-          "a": "The best deals today include \"Speed Stick Aluminum Free Men's Deodorant, Regular, 3 oz (4 ...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Health and are updated daily."
+          "a": "The best deals today include \"Pace Chunky Medium Salsa, 64 oz Bottle...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-02T22:00:02.284Z",
-      "updatedAt": "2026-10-02T22:00:02.284Z"
+      "generatedAt": "2026-10-02T22:10:01.110Z",
+      "updatedAt": "2026-10-02T22:10:01.111Z"
     },
     {
       "date": "2026-10-01",
@@ -16187,5 +16187,5 @@
       "updatedAt": "2026-08-05T03:50:01.389Z"
     }
   ],
-  "generatedAt": "2026-10-02T22:00:02.293Z"
+  "generatedAt": "2026-10-02T22:10:01.119Z"
 }
