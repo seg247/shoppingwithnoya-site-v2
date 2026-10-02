@@ -10,50 +10,21 @@
         "Toys & Kids",
         "Beauty",
         "Home & Kitchen",
-        "Electronics",
-        "Appliances"
+        "Electronics"
       ],
       "byCategory": {
-        "Toys & Kids": [
-          {
-            "asin": "B0DTQB9MVJ",
-            "slug": "kinetic-sand-sandy-farm-set-moldable-play-sand-sensory-toys",
-            "title": "Kinetic Sand Sandy Farm Set, Moldable Play Sand Sensory Toys, Ages 3+",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81qY6pRMwfL.jpg",
-            "url": "https://www.amazon.com/dp/B0DTQB9MVJ/ref=cm_sw_r_as_gl_api_gl_i_VF5NX1FQXVW0582AY733?linkCode=ml1&tag=noya0b-20&linkId=c05f0555d0527125901b7c699ab82e7d&gaOptInStatus=true"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0CLH689K7",
-            "slug": "10-pack-natural-lip-balm-bulk-with-vitamin-e-and-coconut-oil",
-            "title": "10 Pack Natural Lip Balm Bulk with Vitamin E and Coconut Oil Valentine's Choice Gift - Moisturizing, Soothing, and Repai",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/811N+aBCkFL.jpg",
-            "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_3WCKZ28BHV05A0EPEYSX?linkCode=ml1&tag=noya0b-20&linkId=ea77a70e0483323f68ddb379bbbc30b3&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B002YX0GAA",
-            "slug": "village-candle-spiced-pumpkin-large-apothecary-jar-scented-c",
-            "title": "Village Candle Spiced Pumpkin Large Apothecary Jar, Scented Candle, 21.25 Oz",
-            "price": "$13",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61hGMkyW9wL.jpg",
-            "url": "https://www.amazon.com/dp/B002YX0GAA/ref=cm_sw_r_as_gl_api_gl_i_dl_4KAK1B9B3HFGSFYASCVG?linkCode=ml1&tag=noya0b-20&linkId=9b103fb50495abe40435269c6b41de19&gaOptInStatus=true"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B07XPWDMWT",
+            "slug": "wrangler-rolling-duffel-charcoal-grey-30-large",
+            "title": "Wrangler Rolling Duffel, Charcoal Grey, 30\" Large",
+            "price": "$17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/91WAcCGGCLL.jpg",
+            "url": "https://www.amazon.com/dp/B07XPWDMWT/ref=cm_sw_r_as_gl_api_gl_i_dl_9SJWFB1SGRHTFKHTQV69?linkCode=ml1&tag=noya0b-20&linkId=9a80aa22b58eb31217ca271b2922ea98&gaOptInStatus=true"
+          },
           {
             "asin": "B0FVHBQ162",
             "slug": "silicone-ice-cube-trays-with-lids-for-freezer-2-pack",
@@ -110,6 +81,45 @@
             "url": "https://www.amazon.com/dp/B0G4CZ7XZG/ref=cm_sw_r_as_gl_api_gl_i_N65GGRX6X7AQ0P679K13?linkCode=ml1&tag=noya0b-20&linkId=54a76ea5fe85b1bb6709e486d33c4baf&gaOptInStatus=true"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0DTQB9MVJ",
+            "slug": "kinetic-sand-sandy-farm-set-moldable-play-sand-sensory-toys",
+            "title": "Kinetic Sand Sandy Farm Set, Moldable Play Sand Sensory Toys, Ages 3+",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81qY6pRMwfL.jpg",
+            "url": "https://www.amazon.com/dp/B0DTQB9MVJ/ref=cm_sw_r_as_gl_api_gl_i_VF5NX1FQXVW0582AY733?linkCode=ml1&tag=noya0b-20&linkId=c05f0555d0527125901b7c699ab82e7d&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0CLH689K7",
+            "slug": "10-pack-natural-lip-balm-bulk-with-vitamin-e-and-coconut-oil",
+            "title": "10 Pack Natural Lip Balm Bulk with Vitamin E and Coconut Oil Valentine's Choice Gift - Moisturizing, Soothing, and Repai",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/811N+aBCkFL.jpg",
+            "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_3WCKZ28BHV05A0EPEYSX?linkCode=ml1&tag=noya0b-20&linkId=ea77a70e0483323f68ddb379bbbc30b3&gaOptInStatus=true"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B002YX0GAA",
+            "slug": "village-candle-spiced-pumpkin-large-apothecary-jar-scented-c",
+            "title": "Village Candle Spiced Pumpkin Large Apothecary Jar, Scented Candle, 21.25 Oz",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61hGMkyW9wL.jpg",
+            "url": "https://www.amazon.com/dp/B002YX0GAA/ref=cm_sw_r_as_gl_api_gl_i_dl_4KAK1B9B3HFGSFYASCVG?linkCode=ml1&tag=noya0b-20&linkId=9b103fb50495abe40435269c6b41de19&gaOptInStatus=true"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B00P2SL9YG",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71njGiwD9SL.jpg",
             "url": "https://www.amazon.com/dp/B00P2SL9YG/ref=cm_sw_r_as_gl_api_gl_i_A8MX3MMXR4ZG98ZVR3N7?linkCode=ml1&tag=noya0b-20&linkId=61389f4b3ddd4558790bfb52c9b5eab7&gaOptInStatus=true"
           }
-        ],
-        "Appliances": [
-          {
-            "asin": "B0GXB6VJCY",
-            "slug": "euhomy-nugget-ice-maker-countertop-44lbs24h-ready-in-7-10min",
-            "title": "EUHOMY Nugget Ice Maker Countertop, 44lbs/24H, Ready in 7-10Mins, Black | Self-Cleaning Pebble Ice Maker with Scoop & Basket, Pellet Ice Maker with soft chewable ice, Sonic Ice Maker Machine for Home : Appliances",
-            "price": "$199.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Appliances",
-            "imageUrl": "https://m.media-amazon.com/images/I/81-RPpaT0TL.jpg",
-            "url": "https://www.amazon.com/dp/B0GXB6VJCY?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07XPWDMWT",
+          "slug": "wrangler-rolling-duffel-charcoal-grey-30-large",
+          "title": "Wrangler Rolling Duffel, Charcoal Grey, 30\" Large",
+          "price": "$17",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/91WAcCGGCLL.jpg",
+          "url": "https://www.amazon.com/dp/B07XPWDMWT/ref=cm_sw_r_as_gl_api_gl_i_dl_9SJWFB1SGRHTFKHTQV69?linkCode=ml1&tag=noya0b-20&linkId=9a80aa22b58eb31217ca271b2922ea98&gaOptInStatus=true"
+        },
         {
           "asin": "B0DTQB9MVJ",
           "slug": "kinetic-sand-sandy-farm-set-moldable-play-sand-sensory-toys",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71EW99KZ5QL.jpg",
           "url": "https://www.amazon.com/dp/B0G4CZ7XZG/ref=cm_sw_r_as_gl_api_gl_i_N65GGRX6X7AQ0P679K13?linkCode=ml1&tag=noya0b-20&linkId=54a76ea5fe85b1bb6709e486d33c4baf&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GXB6VJCY",
-          "slug": "euhomy-nugget-ice-maker-countertop-44lbs24h-ready-in-7-10min",
-          "title": "EUHOMY Nugget Ice Maker Countertop, 44lbs/24H, Ready in 7-10Mins, Black | Self-Cleaning Pebble Ice Maker with Scoop & Basket, Pellet Ice Maker with soft chewable ice, Sonic Ice Maker Machine for Home : Appliances",
-          "price": "$199.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Appliances",
-          "imageUrl": "https://m.media-amazon.com/images/I/81-RPpaT0TL.jpg",
-          "url": "https://www.amazon.com/dp/B0GXB6VJCY?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 2, 2026?",
-          "a": "The best deals today include \"Kinetic Sand Sandy Farm Set, Moldable Play Sand Sensory Toys...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Beauty and are updated daily."
+          "a": "The best deals today include \"Wrangler Rolling Duffel, Charcoal Grey, 30\" Large...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-02T13:40:02.479Z",
-      "updatedAt": "2026-10-02T13:40:02.479Z"
+      "generatedAt": "2026-10-02T13:50:02.419Z",
+      "updatedAt": "2026-10-02T13:50:02.419Z"
     },
     {
       "date": "2026-10-01",
@@ -16187,5 +16184,5 @@
       "updatedAt": "2026-08-05T03:50:01.389Z"
     }
   ],
-  "generatedAt": "2026-10-02T13:40:02.488Z"
+  "generatedAt": "2026-10-02T13:50:02.428Z"
 }
