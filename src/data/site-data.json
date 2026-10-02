@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T01:40:01.877Z",
+  "generatedAt": "2026-10-02T01:50:02.244Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b003wecb5s-charms-blow-pop-lollipops-assorted-flavors-100-count-4lb-1oz",
+      "asin": "B003WECB5S",
+      "title": "Charms Blow Pop Lollipops, Assorted Flavors, 100 Count, 4lb 1oz Box",
+      "url": "https://www.amazon.com/Blow-Pop-Assorted-100-Count-Pops/dp/B003WECB5S?ie=UTF8&ascsubtag=e3010500be0011f1a417e2812162b7e90INT&cr=&linkCode=sl2&tag=noya0b-20&linkId=9ea191635094b68bba9b9a0ba6a58a37&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-02T01:40:48.307Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71K9RcjYllL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b01n531xr0-rip-van-wafels-dutch-caramel-vanilla-stroopwafels-healthy-sn",
       "asin": "B01N531XR0",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/8165Qpeoo4L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b00016rl9g-emergen-c-vitamin-c-1000mg-immune-support-powder-orange-30-p",
@@ -7550,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0flkmwshg-hello-kitty-and-friends-14-inch-plush-flower-2-pack-hello-ki",
-      "asin": "B0FLKMWSHG",
-      "title": "Hello Kitty® and Friends 14-inch Plush Flower 2 Pack - Hello Kitty® & Cinnamoroll™ with Bendable Stems - Giftable Packag",
-      "url": "https://www.amazon.com/dp/B0FLKMWSHG/ref=cm_sw_r_as_gl_api_gl_i_SWZFQABFFGDQ7KTEA4MF?linkCode=ml1&tag=noya0b-20&linkId=5d915d0832ff9a7b4d658b7517d50fd6&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-17T11:32:20.423Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71LTbbeiYHL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11566,6 +11566,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-17T11:30:21.965Z",
       "archivedAt": "2026-10-02T01:10:01.778Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0flkmwshg-hello-kitty-and-friends-14-inch-plush-flower-2-pack-hello-ki",
+      "asin": "B0FLKMWSHG",
+      "title": "Hello Kitty® and Friends 14-inch Plush Flower 2 Pack - Hello Kitty® & Cinnamoroll™ with Bendable Stems - Giftable Packag",
+      "url": "https://www.amazon.com/dp/B0FLKMWSHG/ref=cm_sw_r_as_gl_api_gl_i_SWZFQABFFGDQ7KTEA4MF?linkCode=ml1&tag=noya0b-20&linkId=5d915d0832ff9a7b4d658b7517d50fd6&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-17T11:32:20.423Z",
+      "archivedAt": "2026-10-02T01:50:02.244Z",
       "status": "archived"
     }
   ]
