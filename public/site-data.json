@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T12:40:02.107Z",
+  "generatedAt": "2026-10-02T12:50:01.650Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b002yx0gaa-village-candle-spiced-pumpkin-large-apothecary-jar-scented-c",
+      "asin": "B002YX0GAA",
+      "title": "Village Candle Spiced Pumpkin Large Apothecary Jar, Scented Candle, 21.25 Oz",
+      "url": "https://www.amazon.com/dp/B002YX0GAA/ref=cm_sw_r_as_gl_api_gl_i_dl_4KAK1B9B3HFGSFYASCVG?linkCode=ml1&tag=noya0b-20&linkId=9b103fb50495abe40435269c6b41de19&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-02T12:40:33.954Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61hGMkyW9wL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fvhbq162-silicone-ice-cube-trays-with-lids-for-freezer-2-pack",
       "asin": "B0FVHBQ162",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/910bH1C9Z2L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b01bz0lxl8-hefty-ultra-strong-13-gal-kitchen-trash-bags-white-lavender-",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0g3jpwjy4-crazy-cups-assorted-tea-variety-pack-50-count-cinnamon-earl-",
-      "asin": "B0G3JPWJY4",
-      "title": "Crazy Cups Assorted Tea Variety Pack 50 Count, Cinnamon, Earl Grey, Hibiscus Berry & Spice, Mango Twist, Rooibos Orange,",
-      "url": "https://www.amazon.com/dp/B0G3JPWJY4?th=1&linkCode=sl2&tag=noya0b-20&linkId=e8702ff21eb12a2ef3d74a11238ea17f&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-17T19:28:22.532Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71KlZgr6yaL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11752,6 +11752,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-17T19:26:27.485Z",
       "archivedAt": "2026-10-02T12:30:01.551Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0g3jpwjy4-crazy-cups-assorted-tea-variety-pack-50-count-cinnamon-earl-",
+      "asin": "B0G3JPWJY4",
+      "title": "Crazy Cups Assorted Tea Variety Pack 50 Count, Cinnamon, Earl Grey, Hibiscus Berry & Spice, Mango Twist, Rooibos Orange,",
+      "url": "https://www.amazon.com/dp/B0G3JPWJY4?th=1&linkCode=sl2&tag=noya0b-20&linkId=e8702ff21eb12a2ef3d74a11238ea17f&language=en_US&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-17T19:28:22.532Z",
+      "archivedAt": "2026-10-02T12:50:01.650Z",
       "status": "archived"
     }
   ]
