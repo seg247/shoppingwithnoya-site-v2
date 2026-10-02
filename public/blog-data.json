@@ -10,37 +10,21 @@
         "Luxury Beauty",
         "Health",
         "Grocery & Food",
-        "Other",
-        "Fashion"
+        "Other"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B0DQ5YXVM3",
-            "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
-            "title": "Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack of 21",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Rb4eI0wML.jpg",
-            "url": "https://www.amazon.com/dp/B0DQ5YXVM3?ie=UTF8&ascsubtag=42972484bead11f1a33542ea6d19f5130INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7ef1ed865a0526781ba5015db1eb72d8&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B00OD034E2",
-            "slug": "pace-chunky-medium-salsa-64-oz-bottle",
-            "title": "Pace Chunky Medium Salsa, 64 oz Bottle",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/717kGJEwacL.jpg",
-            "url": "https://www.amazon.com/dp/B00OD034E2?ie=UTF8&ascsubtag=f682b230beab11f1ae790290b86f22150INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=fcb845be98cbf62d6cd92fe47532f8be&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Beauty": [
+          {
+            "asin": "B00FH692PQ",
+            "slug": "pura-dor-original-gold-label-anti-hair-thinning-biotin-shamp",
+            "title": "PURA D'OR Original Gold Label Anti-Hair Thinning Biotin Shampoo, 16oz | Fuller-Looking Volume, Clinically Tested, Saw Palmetto, Nettle, Aloe Vera Base, Men & Women, Sulfate-Free, Paraben-Free : Beauty & Personal Care",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VhchiFJaL.jpg",
+            "url": "https://www.amazon.com/dp/B00FH692PQ?tag=noya0b-20"
+          },
           {
             "asin": "B08ZH6P1NY",
             "slug": "speed-stick-aluminum-free-mens-deodorant-regular-3-oz-4-pack",
@@ -73,6 +57,32 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0DQ5YXVM3",
+            "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
+            "title": "Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack of 21",
+            "price": "$10",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Rb4eI0wML.jpg",
+            "url": "https://www.amazon.com/dp/B0DQ5YXVM3?ie=UTF8&ascsubtag=42972484bead11f1a33542ea6d19f5130INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7ef1ed865a0526781ba5015db1eb72d8&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B00OD034E2",
+            "slug": "pace-chunky-medium-salsa-64-oz-bottle",
+            "title": "Pace Chunky Medium Salsa, 64 oz Bottle",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/717kGJEwacL.jpg",
+            "url": "https://www.amazon.com/dp/B00OD034E2?ie=UTF8&ascsubtag=f682b230beab11f1ae790290b86f22150INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=fcb845be98cbf62d6cd92fe47532f8be&language=en_US&gaOptInStatus=true"
           }
         ],
         "Luxury Beauty": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/7162k36ybFL.jpg",
             "url": "https://www.amazon.com/dp/B00GB85JR4?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0BLZKV8M3",
-            "slug": "milk-bone-comfort-chews-unique-chewy-texture-real-beef-16-do",
-            "title": "Milk-Bone Comfort Chews, Unique Chewy Texture & Real Beef, 16 Dog Chews | 40.8-oz. bag, For dogs 15-75 lbs., Rawhide-free dog chews, Made with real beef",
-            "price": "$15.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/814kaUbGRCL.jpg",
-            "url": "https://www.amazon.com/dp/B0BLZKV8M3?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00FH692PQ",
+          "slug": "pura-dor-original-gold-label-anti-hair-thinning-biotin-shamp",
+          "title": "PURA D'OR Original Gold Label Anti-Hair Thinning Biotin Shampoo, 16oz | Fuller-Looking Volume, Clinically Tested, Saw Palmetto, Nettle, Aloe Vera Base, Men & Women, Sulfate-Free, Paraben-Free : Beauty & Personal Care",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VhchiFJaL.jpg",
+          "url": "https://www.amazon.com/dp/B00FH692PQ?tag=noya0b-20"
+        },
         {
           "asin": "B0DQ5YXVM3",
           "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
@@ -236,23 +244,12 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/7162k36ybFL.jpg",
           "url": "https://www.amazon.com/dp/B00GB85JR4?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BLZKV8M3",
-          "slug": "milk-bone-comfort-chews-unique-chewy-texture-real-beef-16-do",
-          "title": "Milk-Bone Comfort Chews, Unique Chewy Texture & Real Beef, 16 Dog Chews | 40.8-oz. bag, For dogs 15-75 lbs., Rawhide-free dog chews, Made with real beef",
-          "price": "$15.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/814kaUbGRCL.jpg",
-          "url": "https://www.amazon.com/dp/B0BLZKV8M3?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 2, 2026?",
-          "a": "The best deals today include \"Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Health and are updated daily."
+          "a": "The best deals today include \"PURA D'OR Original Gold Label Anti-Hair Thinning Biotin Sham...\" and 9 other hand-picked discounts. Deals span Beauty, Luxury Beauty, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-02T22:40:02.157Z",
-      "updatedAt": "2026-10-02T22:40:02.157Z"
+      "generatedAt": "2026-10-02T22:50:02.403Z",
+      "updatedAt": "2026-10-02T22:50:02.403Z"
     },
     {
       "date": "2026-10-01",
@@ -16187,5 +16184,5 @@
       "updatedAt": "2026-08-05T03:50:01.389Z"
     }
   ],
-  "generatedAt": "2026-10-02T22:40:02.165Z"
+  "generatedAt": "2026-10-02T22:50:02.411Z"
 }
