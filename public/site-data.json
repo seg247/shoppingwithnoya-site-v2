@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T01:00:01.614Z",
+  "generatedAt": "2026-10-02T01:10:01.778Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b074817dk1-amazon-basics-non-stick-kitchen-cookware-8-piece-set-non-ind",
+      "asin": "B074817DK1",
+      "title": "Amazon Basics Non-Stick Kitchen Cookware 8-Piece Set, Non-Induction, Includes Pots and Pans, Black: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B074817DK1?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-02T01:01:39.517Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71mDTOYtDSL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fksg31bk-70-heatless-curls-overnight-hair-curler-hair-curlers-roller-",
       "asin": "B0FKSG31BK",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71-Cqjr9ZHL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b000gistz4-optimum-nutrition-gold-standard-whey-protein-powder-vanilla-",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0dk7678mn-zak-designs-sutton-travel-tumbler-for-on-the-go-40oz-stainle",
-      "asin": "B0DK7678MN",
-      "title": "Zak Designs Sutton Travel Tumbler for On the Go, 40oz Stainless Steel with Vacuum Insulation, Silicone Straw, and Carry ",
-      "url": "https://www.amazon.com/dp/B0DK7678MN/ref=cm_sw_r_as_gl_api_gl_i_PTW2HW06NFRRSKW72H5C?linkCode=ml1&tag=noya0b-20&linkId=3f99e453e7d980e67915a9bf05f3adee&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-17T11:30:21.965Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Z+OVXc5CL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11552,6 +11552,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-17T11:16:19.112Z",
       "archivedAt": "2026-10-02T00:50:01.854Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dk7678mn-zak-designs-sutton-travel-tumbler-for-on-the-go-40oz-stainle",
+      "asin": "B0DK7678MN",
+      "title": "Zak Designs Sutton Travel Tumbler for On the Go, 40oz Stainless Steel with Vacuum Insulation, Silicone Straw, and Carry ",
+      "url": "https://www.amazon.com/dp/B0DK7678MN/ref=cm_sw_r_as_gl_api_gl_i_PTW2HW06NFRRSKW72H5C?linkCode=ml1&tag=noya0b-20&linkId=3f99e453e7d980e67915a9bf05f3adee&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-17T11:30:21.965Z",
+      "archivedAt": "2026-10-02T01:10:01.778Z",
       "status": "archived"
     }
   ]
