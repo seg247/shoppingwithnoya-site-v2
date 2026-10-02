@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-02T09:40:01.938Z",
+  "generatedAt": "2026-10-02T09:50:01.666Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fkwffbb5-kurt-adler-19-strawberry-shortcake-red-pink-stocking",
+      "asin": "B0FKWFFBB5",
+      "title": "Kurt Adler 19\" Strawberry Shortcake™ Red & Pink Stocking",
+      "url": "https://www.amazon.com/dp/B0FKWFFBB5/ref=cm_sw_r_as_gl_api_gl_i_6Y76024ZJ6XGCBFXAMKV?linkCode=ml1&tag=noya0b-20&linkId=4acbf8297e657f1f7eedaf1696f8c159&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-10-02T09:40:23.037Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51GrmJ5k5aL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07l92r2f4-softsoap-aquarium-liquid-hand-soap-1-47-l-refill",
       "asin": "B07L92R2F4",
@@ -243,11 +262,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61TRadqlQqL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0djmp6t3n-bissell-little-green-mini-portable-carpet-cleaner-4075-hydro",
@@ -7538,21 +7553,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0gwc6xxd3-fashgl-magical-family-shirts-matching-2026-vacation-family-m",
-      "asin": "B0GWC6XXD3",
-      "title": "\udecd️FASHGL Magical Family Shirts Matching 2026 Vacation Family Matching Outfits",
-      "url": "https://amazon.com/dp/B0GWC6XXD3?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-09-17T19:02:26.183Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81Hkymlzf5L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11684,6 +11684,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-17T18:56:23.183Z",
       "archivedAt": "2026-10-02T09:10:01.870Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gwc6xxd3-fashgl-magical-family-shirts-matching-2026-vacation-family-m",
+      "asin": "B0GWC6XXD3",
+      "title": "\udecd️FASHGL Magical Family Shirts Matching 2026 Vacation Family Matching Outfits",
+      "url": "https://amazon.com/dp/B0GWC6XXD3?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-09-17T19:02:26.183Z",
+      "archivedAt": "2026-10-02T09:50:01.666Z",
       "status": "archived"
     }
   ]
