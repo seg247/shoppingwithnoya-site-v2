@@ -4,19 +4,43 @@
       "date": "2026-10-03",
       "slug": "2026-10-03",
       "title": "🔥 Best Deals Today — October 3, 2026",
-      "intro": "Today's best online deals for Saturday, October 3, 2026 — 10 hand-picked discounts across Other, Beauty, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, October 3, 2026 — 10 hand-picked discounts across Toys & Kids, Other, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Beauty",
         "Toys & Kids",
+        "Other",
+        "Grocery & Food",
         "Sports",
         "Electronics",
         "Garden & Outdoor",
         "Home & Kitchen",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B07P8MDV6H",
+            "slug": "amazon-grocery-olive-oil-light-flavor-169-fl-oz",
+            "title": "Amazon Grocery, Olive Oil, Light Flavor, 16.9 Fl Oz",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61lTXhqieML.jpg",
+            "url": "https://www.amazon.com/dp/B07P8MDV6H?gaOptInStatus=true&ascsubtag=srctok-0eaef7d82083f655&btn_type=pt&btn_ref=srctok-0eaef7d82083f655&th=1&linkCode=sl2&tag=noya0b-20&linkId=a703484f9eb0d47271ddfedb7b1f1aad&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
+          {
+            "asin": "B08ZDTDRM7",
+            "slug": "amazon-basic-care-childrens-pain-reliever-and-fever-reducer",
+            "title": "Amazon Basic Care Children's Pain Reliever and Fever Reducer, Acetaminophen 160 mg per 5 ml, Bubblegum Flavor, for Heada",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Zxe5mQYzS.jpg",
+            "url": "https://www.amazon.com/dp/B08ZDTDRM7?gaOptInStatus=true&ascsubtag=srctok-174b5ed5272d0e17&btn_type=pt&btn_ref=srctok-174b5ed5272d0e17&th=1&linkCode=sl2&tag=noya0b-20&linkId=512fc92469dd75855485531ea24f2286&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0FQ2VKXZT",
             "slug": "35pcs-mochi-squishy-toys-mini-squishy-fidget-toys-party-favo",
@@ -116,34 +140,32 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81VIDmpeCML.jpg",
             "url": "https://www.amazon.com/dp/B0FNS3WYSX/ref=cm_sw_r_as_gl_api_gl_i_319D4G36Q8Q3BW12FKCN?linkCode=ml1&tag=noya0b-20&linkId=79414d758af1ab4031f4bbf16124a649&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0FNS3WYSX",
-            "slug": "amazon-essentials-womens-quilted-makeup-bag-with-brush-stora",
-            "title": "Amazon Essentials Women's Quilted Makeup Bag with Brush Storage, Blue Floral, One Size",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/81VIDmpeCML.jpg",
-            "url": "https://www.amazon.com/dp/B0FNS3WYSX/ref=cm_sw_r_as_gl_api_gl_i_319D4G36Q8Q3BW12FKCN?linkCode=ml1&tag=noya0b-20&linkId=79414d758af1ab4031f4bbf16124a649&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0CHTQQ5ZQ",
-            "slug": "copper-pearl-2-piece-pajama-sets-stylish-long-sleeve-pajamas",
-            "title": "Copper Pearl 2 Piece Pajama Sets, Stylish Long Sleeve Pajamas for Babies Toddlers and Kids, Ultra-Soft Premium Material,",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71dDZq7aJFL.jpg",
-            "url": "https://www.amazon.com/dp/B0CHTQQ5ZQ/ref=cm_sw_r_as_gl_api_gl_i_VZC8EBQQKJ0DCB2KJ9P7?linkCode=ml1&tag=noya0b-20&linkId=ba178e9ae4be7c853aef7af3e5df3264&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B07P8MDV6H",
+          "slug": "amazon-grocery-olive-oil-light-flavor-169-fl-oz",
+          "title": "Amazon Grocery, Olive Oil, Light Flavor, 16.9 Fl Oz",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61lTXhqieML.jpg",
+          "url": "https://www.amazon.com/dp/B07P8MDV6H?gaOptInStatus=true&ascsubtag=srctok-0eaef7d82083f655&btn_type=pt&btn_ref=srctok-0eaef7d82083f655&th=1&linkCode=sl2&tag=noya0b-20&linkId=a703484f9eb0d47271ddfedb7b1f1aad&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B08ZDTDRM7",
+          "slug": "amazon-basic-care-childrens-pain-reliever-and-fever-reducer",
+          "title": "Amazon Basic Care Children's Pain Reliever and Fever Reducer, Acetaminophen 160 mg per 5 ml, Bubblegum Flavor, for Heada",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/61Zxe5mQYzS.jpg",
+          "url": "https://www.amazon.com/dp/B08ZDTDRM7?gaOptInStatus=true&ascsubtag=srctok-174b5ed5272d0e17&btn_type=pt&btn_ref=srctok-174b5ed5272d0e17&th=1&linkCode=sl2&tag=noya0b-20&linkId=512fc92469dd75855485531ea24f2286&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0FQ2VKXZT",
           "slug": "35pcs-mochi-squishy-toys-mini-squishy-fidget-toys-party-favo",
@@ -231,38 +253,16 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81VIDmpeCML.jpg",
           "url": "https://www.amazon.com/dp/B0FNS3WYSX/ref=cm_sw_r_as_gl_api_gl_i_319D4G36Q8Q3BW12FKCN?linkCode=ml1&tag=noya0b-20&linkId=79414d758af1ab4031f4bbf16124a649&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FNS3WYSX",
-          "slug": "amazon-essentials-womens-quilted-makeup-bag-with-brush-stora",
-          "title": "Amazon Essentials Women's Quilted Makeup Bag with Brush Storage, Blue Floral, One Size",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/81VIDmpeCML.jpg",
-          "url": "https://www.amazon.com/dp/B0FNS3WYSX/ref=cm_sw_r_as_gl_api_gl_i_319D4G36Q8Q3BW12FKCN?linkCode=ml1&tag=noya0b-20&linkId=79414d758af1ab4031f4bbf16124a649&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CHTQQ5ZQ",
-          "slug": "copper-pearl-2-piece-pajama-sets-stylish-long-sleeve-pajamas",
-          "title": "Copper Pearl 2 Piece Pajama Sets, Stylish Long Sleeve Pajamas for Babies Toddlers and Kids, Ultra-Soft Premium Material,",
-          "price": "$8",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71dDZq7aJFL.jpg",
-          "url": "https://www.amazon.com/dp/B0CHTQQ5ZQ/ref=cm_sw_r_as_gl_api_gl_i_VZC8EBQQKJ0DCB2KJ9P7?linkCode=ml1&tag=noya0b-20&linkId=ba178e9ae4be7c853aef7af3e5df3264&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"35pcs Mochi Squishy Toys, Mini Squishy Fidget Toys, Party Fa...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Amazon Grocery, Olive Oil, Light Flavor, 16.9 Fl Oz...\" and 9 other hand-picked discounts. Deals span Toys & Kids, Other, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Toys & Kids and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T17:20:02.168Z",
-      "updatedAt": "2026-10-03T17:20:02.168Z"
+      "generatedAt": "2026-10-03T17:30:02.457Z",
+      "updatedAt": "2026-10-03T17:30:02.457Z"
     },
     {
       "date": "2026-10-02",
@@ -16193,5 +16193,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T17:20:02.177Z"
+  "generatedAt": "2026-10-03T17:30:02.465Z"
 }
