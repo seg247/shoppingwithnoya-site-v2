@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-03T09:20:01.815Z",
+  "generatedAt": "2026-10-03T09:30:00.401Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d1cdn89b-konokyo-12oz-travel-coffee-mug-with-lid-insulated-stainless-",
+      "asin": "B0D1CDN89B",
+      "title": "Konokyo 12oz Travel Coffee Mug with Lid, Insulated Stainless Tumbler",
+      "url": "https://www.amazon.com/dp/B0D1CDN89B/ref=cm_sw_r_as_gl_api_gl_i_dl_TDRZFDV5X6X8CT81WTHZ?linkCode=ml1&tag=noya0b-20&linkId=42ee056e99048d1a62ae27f8415fbb30&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-03T09:20:24.283Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tsClh4SmL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fg2n3qfp-jrd-humidifiers-for-bedroom-cool-mist-humidifier-4l-for-larg",
       "asin": "B0FG2N3QFP",
@@ -319,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/713Eiic3XtL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b00dlwonf2-optimum-nutrition-micronized-creatine-monohydrate-capsules-1",
@@ -7554,21 +7569,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0d4mr347r-aurora-dr-seuss-fancy-pals-8-feeling-grinchy-whimsical-plush",
-      "asin": "B0D4MR347R",
-      "title": "Aurora Dr. Seuss Fancy Pals 8\" Feeling Grinchy Whimsical Plush",
-      "url": "https://www.amazon.com/dp/B0D4MR347R/ref=cm_sw_r_as_gl_api_gl_i_dl_Q6NTC76Z04RYJMY5KGV1?linkCode=ml1&tag=noya0b-20&linkId=ca24956dec26c2ed51b065177cd20de0&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-18T13:46:28.791Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81z9df+MS4L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12080,6 +12080,16 @@
       "category": "Electronics",
       "ts": "2026-09-18T13:40:27.850Z",
       "archivedAt": "2026-10-03T09:10:02.034Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d4mr347r-aurora-dr-seuss-fancy-pals-8-feeling-grinchy-whimsical-plush",
+      "asin": "B0D4MR347R",
+      "title": "Aurora Dr. Seuss Fancy Pals 8\" Feeling Grinchy Whimsical Plush",
+      "url": "https://www.amazon.com/dp/B0D4MR347R/ref=cm_sw_r_as_gl_api_gl_i_dl_Q6NTC76Z04RYJMY5KGV1?linkCode=ml1&tag=noya0b-20&linkId=ca24956dec26c2ed51b065177cd20de0&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-18T13:46:28.791Z",
+      "archivedAt": "2026-10-03T09:30:00.401Z",
       "status": "archived"
     }
   ]

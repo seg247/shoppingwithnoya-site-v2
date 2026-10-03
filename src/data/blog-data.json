@@ -9,10 +9,23 @@
         "Home & Kitchen",
         "Fashion",
         "Health",
-        "Other",
-        "Jewelry"
+        "Grocery & Food",
+        "Other"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0D1CDN89B",
+            "slug": "konokyo-12oz-travel-coffee-mug-with-lid-insulated-stainless",
+            "title": "Konokyo 12oz Travel Coffee Mug with Lid, Insulated Stainless Tumbler",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61tsClh4SmL.jpg",
+            "url": "https://www.amazon.com/dp/B0D1CDN89B/ref=cm_sw_r_as_gl_api_gl_i_dl_TDRZFDV5X6X8CT81WTHZ?linkCode=ml1&tag=noya0b-20&linkId=42ee056e99048d1a62ae27f8415fbb30&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0FG2N3QFP",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61Dq97mqjJL.jpg",
             "url": "https://www.amazon.com/dp/B074H7Y7XJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_598XTP9RBN9NWJ6JPTX9?linkCode=ml1&tag=noya0b-20&linkId=f22c8880c02fbdda3c8f45b88776a008&gaOptInStatus=true"
           }
-        ],
-        "Jewelry": [
-          {
-            "asin": "B0FS16DCC5",
-            "slug": "westdeer-ultrasonic-cleanerwestdeer-45khzuv-cleaningfor-dent",
-            "title": "Westdeer Ultrasonic Cleaner,Westdeer 45kHz,UV Cleaning,for Dentures,Watch Bands,Toothbrush Heads,Pacifiers,Jewelry Rings,4 Modes,210ml Capacity,Travel (Black) Discount、Sale、Deal : Health & Household",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Jewelry",
-            "imageUrl": "https://m.media-amazon.com/images/I/61MRr1B128L.jpg",
-            "url": "https://www.amazon.com/dp/B0FS16DCC5?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D1CDN89B",
+          "slug": "konokyo-12oz-travel-coffee-mug-with-lid-insulated-stainless",
+          "title": "Konokyo 12oz Travel Coffee Mug with Lid, Insulated Stainless Tumbler",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61tsClh4SmL.jpg",
+          "url": "https://www.amazon.com/dp/B0D1CDN89B/ref=cm_sw_r_as_gl_api_gl_i_dl_TDRZFDV5X6X8CT81WTHZ?linkCode=ml1&tag=noya0b-20&linkId=42ee056e99048d1a62ae27f8415fbb30&gaOptInStatus=true"
+        },
         {
           "asin": "B0FG2N3QFP",
           "slug": "jrd-humidifiers-for-bedroom-cool-mist-humidifier-4l-for-larg",
@@ -233,23 +244,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71K+vpi3GdL.jpg",
           "url": "https://www.amazon.com/dp/B0DT46KVSD?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FS16DCC5",
-          "slug": "westdeer-ultrasonic-cleanerwestdeer-45khzuv-cleaningfor-dent",
-          "title": "Westdeer Ultrasonic Cleaner,Westdeer 45kHz,UV Cleaning,for Dentures,Watch Bands,Toothbrush Heads,Pacifiers,Jewelry Rings,4 Modes,210ml Capacity,Travel (Black) Discount、Sale、Deal : Health & Household",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Jewelry",
-          "imageUrl": "https://m.media-amazon.com/images/I/61MRr1B128L.jpg",
-          "url": "https://www.amazon.com/dp/B0FS16DCC5?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"JRD Humidifiers for Bedroom, Cool Mist Humidifier 4L for Lar...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Health and are updated daily."
+          "a": "The best deals today include \"Konokyo 12oz Travel Coffee Mug with Lid, Insulated Stainless...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T09:20:02.167Z",
-      "updatedAt": "2026-10-03T09:20:02.167Z"
+      "generatedAt": "2026-10-03T09:30:00.739Z",
+      "updatedAt": "2026-10-03T09:30:00.739Z"
     },
     {
       "date": "2026-10-02",
@@ -16184,5 +16184,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T09:20:02.183Z"
+  "generatedAt": "2026-10-03T09:30:00.747Z"
 }
