@@ -11,10 +11,33 @@
         "Other",
         "Jewelry",
         "Women's Fashion",
-        "Men's Fashion",
-        "Home & Kitchen"
+        "Men's Fashion"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B004U3Y8OM",
+            "slug": "nature-made-vitamin-d3-1000-iu-25-mcg-300-vitamin-d-softgels",
+            "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels | Vitamin D Supplement for Immune, Bone, Teeth and Muscle Health Support, 300 Day Supply : Health & Household",
+            "price": "$8.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
+            "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
+          },
+          {
+            "asin": "B00DJUK8HS",
+            "slug": "preservision-areds-2-eye-vitamins-lutein-supplement-120-soft",
+            "title": "PreserVision AREDS 2 Eye Vitamins Lutein Supplement 120 Softgels | Macular support* Vitamins, #1 eye doctor recommended brand1, lutein & zeaxanthin, vitamin C,E, zinc,copper, minigels, seniors : Health & Household",
+            "price": "$30.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/81H1kFYQefL.jpg",
+            "url": "https://www.amazon.com/dp/B00DJUK8HS?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B00AFBGNPK",
@@ -59,19 +82,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81TuqlrxuAL.jpg",
             "url": "https://www.amazon.com/dp/B0G3B6FWYH/ref=cm_sw_r_as_gl_apa_gl_i_Q0TA3M1P1Q91GTWFMTVQ?linkCode=ml1&tag=noya0b-20&linkId=b63194ee23ad166920b0642d05670ffa&gaOptInStatus=true"
-          }
-        ],
-        "Health": [
-          {
-            "asin": "B00DJUK8HS",
-            "slug": "preservision-areds-2-eye-vitamins-lutein-supplement-120-soft",
-            "title": "PreserVision AREDS 2 Eye Vitamins Lutein Supplement 120 Softgels | Macular support* Vitamins, #1 eye doctor recommended brand1, lutein & zeaxanthin, vitamin C,E, zinc,copper, minigels, seniors : Health & Household",
-            "price": "$30.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/81H1kFYQefL.jpg",
-            "url": "https://www.amazon.com/dp/B00DJUK8HS?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81UAl6wUXrL.jpg",
             "url": "https://www.amazon.com/dp/B00371VM0Q?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0GXF4P5K4",
-            "slug": "icucina-cubetto-1000w-compact-personal-blender-aromatics-too",
-            "title": "iCucina Cubetto 1000W Compact Personal Blender & Aromatics Tool – Minimalist Mixer for Frozen Drinks, Smoothies and Shak",
-            "price": "$37",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71mIr1-i72L.jpg",
-            "url": "https://www.amazon.com/dp/B0GXF4P5K4/ref=cm_sw_r_as_gl_apa_gl_i_70FDAV5KED9MY99G4TCP?linkCode=ml1&tag=noya0b-20&linkId=d4abdd11cc9eea85c3cca5b8754b4d12&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B004U3Y8OM",
+          "slug": "nature-made-vitamin-d3-1000-iu-25-mcg-300-vitamin-d-softgels",
+          "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels | Vitamin D Supplement for Immune, Bone, Teeth and Muscle Health Support, 300 Day Supply : Health & Household",
+          "price": "$8.89",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
+          "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
+        },
         {
           "asin": "B00AFBGNPK",
           "slug": "big-skinny-metro-bi-fold-slim-wallet-holds-up-to-20-cards",
@@ -239,23 +247,12 @@
           "category": "Men's Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/81UAl6wUXrL.jpg",
           "url": "https://www.amazon.com/dp/B00371VM0Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GXF4P5K4",
-          "slug": "icucina-cubetto-1000w-compact-personal-blender-aromatics-too",
-          "title": "iCucina Cubetto 1000W Compact Personal Blender & Aromatics Tool – Minimalist Mixer for Frozen Drinks, Smoothies and Shak",
-          "price": "$37",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71mIr1-i72L.jpg",
-          "url": "https://www.amazon.com/dp/B0GXF4P5K4/ref=cm_sw_r_as_gl_apa_gl_i_70FDAV5KED9MY99G4TCP?linkCode=ml1&tag=noya0b-20&linkId=d4abdd11cc9eea85c3cca5b8754b4d12&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"Big Skinny Metro Bi-Fold Slim Wallet, Holds Up to 20 Cards...\" and 9 other hand-picked discounts. Deals span Fashion, Health, Other and are updated daily."
+          "a": "The best deals today include \"Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softg...\" and 9 other hand-picked discounts. Deals span Fashion, Health, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T08:00:00.952Z",
-      "updatedAt": "2026-10-03T08:00:00.952Z"
+      "generatedAt": "2026-10-03T08:10:02.216Z",
+      "updatedAt": "2026-10-03T08:10:02.216Z"
     },
     {
       "date": "2026-10-02",
@@ -16190,5 +16187,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T08:00:00.960Z"
+  "generatedAt": "2026-10-03T08:10:02.225Z"
 }
