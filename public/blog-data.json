@@ -10,24 +10,21 @@
         "Grocery & Food",
         "Toys & Kids",
         "Fashion",
-        "Pet Supplies",
-        "Home & Kitchen"
+        "Pet Supplies"
       ],
       "byCategory": {
-        "Toys & Kids": [
+        "Other": [
           {
-            "asin": "B0FMS7CRHX",
-            "slug": "lego-botanicals-daisies-11508",
-            "title": "LEGO Botanicals Daisies 11508",
-            "price": "$9",
+            "asin": "B0C7V25NH1",
+            "slug": "nisxabebe-muslin-baby-bibssoft-triangular-baby-bandana-drool",
+            "title": "NISXABEBE Muslin Baby Bibs,Soft Triangular Baby Bandana Drool Bibs for Baby Boy Girl,Solid Colors Bib for Drooling Teeth",
+            "price": "$6",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/81lNVhQTwNL.jpg",
-            "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_BN1B3CVMX6BXP3WZEFSV?linkCode=ml1&tag=noya0b-20&linkId=d18defcf213caecc81d458067ab34138&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71j2khxw9WL.jpg",
+            "url": "https://www.amazon.com/dp/B0C7V25NH1/ref=cm_sw_r_as_gl_api_gl_i_02Q8779GP4G8XCEQ1994?linkCode=ml1&tag=noya0b-20&linkId=f75bb20bcd5ff5dd5b6adf47c024d5cb&gaOptInStatus=true"
+          },
           {
             "asin": "B088LXK5SF",
             "slug": "zojirushi-hello-kitty-16oz-stainless-vacuum-insulated-mug-bl",
@@ -60,6 +57,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51F07msVkoL.jpg",
             "url": "https://www.amazon.com/dp/B0FFHNGH1G/ref=cm_sw_r_as_gl_api_gl_i_MMD7ND7S04DP36CSF79M?linkCode=ml1&tag=noya0b-20&linkId=2a6cec1cc1684dcd99a448ed66287373&gaOptInStatus=true"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0FMS7CRHX",
+            "slug": "lego-botanicals-daisies-11508",
+            "title": "LEGO Botanicals Daisies 11508",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/81lNVhQTwNL.jpg",
+            "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_BN1B3CVMX6BXP3WZEFSV?linkCode=ml1&tag=noya0b-20&linkId=d18defcf213caecc81d458067ab34138&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71Hv3EUtWoL.jpg",
             "url": "https://www.amazon.com/dp/B07L92R2F4/ref=cm_sw_r_as_gl_api_gl_i_K1AYXGB2VWX7T7RK2S2D?linkCode=ml1&tag=noya0b-20&linkId=42eb697887829075e95765d9f292ab33&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FG2N3QFP",
-            "slug": "jrd-humidifiers-for-bedroom-cool-mist-humidifier-4l-for-larg",
-            "title": "JRD Humidifiers for Bedroom, Cool Mist Humidifier 4L for Large Room, 40H Runtime, Night Light, 360° Nozzlefor Home, Offi",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51HX+Dpqc0L.jpg",
-            "url": "https://www.amazon.com/dp/B0FG2N3QFP/ref=cm_sw_r_as_gl_api_gl_i_BNFYN3J49Z6Y7MX8A39W?linkCode=ml1&tag=noya0b-20&linkId=17ec0225d4e1056ca45581cf87cdbc08&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0C7V25NH1",
+          "slug": "nisxabebe-muslin-baby-bibssoft-triangular-baby-bandana-drool",
+          "title": "NISXABEBE Muslin Baby Bibs,Soft Triangular Baby Bandana Drool Bibs for Baby Boy Girl,Solid Colors Bib for Drooling Teeth",
+          "price": "$6",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71j2khxw9WL.jpg",
+          "url": "https://www.amazon.com/dp/B0C7V25NH1/ref=cm_sw_r_as_gl_api_gl_i_02Q8779GP4G8XCEQ1994?linkCode=ml1&tag=noya0b-20&linkId=f75bb20bcd5ff5dd5b6adf47c024d5cb&gaOptInStatus=true"
+        },
         {
           "asin": "B0FMS7CRHX",
           "slug": "lego-botanicals-daisies-11508",
@@ -236,23 +244,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/61tsClh4SmL.jpg",
           "url": "https://www.amazon.com/dp/B0D1CDN89B/ref=cm_sw_r_as_gl_api_gl_i_dl_TDRZFDV5X6X8CT81WTHZ?linkCode=ml1&tag=noya0b-20&linkId=42ee056e99048d1a62ae27f8415fbb30&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FG2N3QFP",
-          "slug": "jrd-humidifiers-for-bedroom-cool-mist-humidifier-4l-for-larg",
-          "title": "JRD Humidifiers for Bedroom, Cool Mist Humidifier 4L for Large Room, 40H Runtime, Night Light, 360° Nozzlefor Home, Offi",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51HX+Dpqc0L.jpg",
-          "url": "https://www.amazon.com/dp/B0FG2N3QFP/ref=cm_sw_r_as_gl_api_gl_i_BNFYN3J49Z6Y7MX8A39W?linkCode=ml1&tag=noya0b-20&linkId=17ec0225d4e1056ca45581cf87cdbc08&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"LEGO Botanicals Daisies 11508...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"NISXABEBE Muslin Baby Bibs,Soft Triangular Baby Bandana Droo...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T12:40:02.372Z",
-      "updatedAt": "2026-10-03T12:40:02.373Z"
+      "generatedAt": "2026-10-03T12:50:02.523Z",
+      "updatedAt": "2026-10-03T12:50:02.523Z"
     },
     {
       "date": "2026-10-02",
@@ -16187,5 +16184,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T12:40:02.381Z"
+  "generatedAt": "2026-10-03T12:50:02.532Z"
 }
