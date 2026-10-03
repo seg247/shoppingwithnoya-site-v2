@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-03T18:00:01.493Z",
+  "generatedAt": "2026-10-03T18:10:01.052Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dgvshfcs-barnum-s-original-animal-crackers-kids-snacks-10-snack-packs",
+      "asin": "B0DGVSHFCS",
+      "title": "BARNUM'S Original Animal Crackers, Kids Snacks, 10 Snack Packs",
+      "url": "https://www.amazon.com/dp/B0DGVSHFCS?ie=UTF8&ascsubtag=959952a0bf5311f1aaeb5e6e3493b9920INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2fcb883e59ac3a35445571c4c4ab4e85&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-03T18:00:27.057Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81IBed27xnL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07nztx69l-amazon-brand-happy-belly-dark-roast-coffee-pods-french-roast",
       "asin": "B07NZTX69L",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Tn2UbrPES.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b07d45w364-pirate-s-booty-aged-white-cheddar-cheese-puffs-bags-5-oz-24-",
@@ -7550,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0dksrr1z2-koopool-magnetic-nut-driver-set-for-garage-car-repair-home-d",
-      "asin": "B0DKSRR1Z2",
-      "title": "\udecd️KOOPOOL Magnetic Nut Driver Set for Garage Car Repair & Home DIY Projects",
-      "url": "https://amazon.com/dp/B0DKSRR1Z2?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-18T15:36:20.742Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12276,6 +12276,16 @@
       "category": "Electronics",
       "ts": "2026-09-18T15:32:21.660Z",
       "archivedAt": "2026-10-03T17:50:02.016Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dksrr1z2-koopool-magnetic-nut-driver-set-for-garage-car-repair-home-d",
+      "asin": "B0DKSRR1Z2",
+      "title": "\udecd️KOOPOOL Magnetic Nut Driver Set for Garage Car Repair & Home DIY Projects",
+      "url": "https://amazon.com/dp/B0DKSRR1Z2?tag=noya0b-20",
+      "category": "Grocery & Food",
+      "ts": "2026-09-18T15:36:20.742Z",
+      "archivedAt": "2026-10-03T18:10:01.052Z",
       "status": "archived"
     }
   ]
