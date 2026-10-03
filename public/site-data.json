@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-03T12:00:01.662Z",
+  "generatedAt": "2026-10-03T12:10:00.499Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b088lxk5sf-zojirushi-hello-kitty-16oz-stainless-vacuum-insulated-mug-bl",
+      "asin": "B088LXK5SF",
+      "title": "Zojirushi Hello Kitty 16oz Stainless Vacuum Insulated Mug, Black (Black)",
+      "url": "https://www.amazon.com/dp/B088LXK5SF/ref=cm_sw_r_as_gl_api_gl_i_dl_BVG4HFQCS6YQXYT9NKZW?linkCode=ml1&tag=noya0b-20&linkId=6982231b4c387272a0d275898e760a5f&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-03T12:00:25.791Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Tn2UbrPES.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07d45w364-pirate-s-booty-aged-white-cheddar-cheese-puffs-bags-5-oz-24-",
       "asin": "B07D45W364",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71K+vpi3GdL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0fs16dcc5-westdeer-ultrasonic-cleaner-westdeer-45khz-uv-cleaning-for-d",
@@ -319,11 +334,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61MRr1B128L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0g3b6fwyh-reebok-boys-2-piece-double-knit-polo-short-set",
@@ -7554,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0chm3xfw5-ankle-resistance-bands-with-cuffs-leg-exercise-equipment-wit",
-      "asin": "B0CHM3XFW5",
-      "title": "\udecd️Ankle Resistance Bands with Cuffs, Leg Exercise Equipment with Poster",
-      "url": "https://www.amazon.com/dp/B0CHM3XFW5?th=1&linkCode=sl2&tag=noya0b-20&linkId=0e354a0fb668c6a1466e939b43604b4c&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-09-18T14:20:22.256Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81ZCWwp8UkL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12120,6 +12116,16 @@
       "category": "Fashion",
       "ts": "2026-09-18T14:04:28.174Z",
       "archivedAt": "2026-10-03T11:50:02.210Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0chm3xfw5-ankle-resistance-bands-with-cuffs-leg-exercise-equipment-wit",
+      "asin": "B0CHM3XFW5",
+      "title": "\udecd️Ankle Resistance Bands with Cuffs, Leg Exercise Equipment with Poster",
+      "url": "https://www.amazon.com/dp/B0CHM3XFW5?th=1&linkCode=sl2&tag=noya0b-20&linkId=0e354a0fb668c6a1466e939b43604b4c&language=en_US&gaOptInStatus=true",
+      "category": "Sports & Fitness",
+      "ts": "2026-09-18T14:20:22.256Z",
+      "archivedAt": "2026-10-03T12:10:00.499Z",
       "status": "archived"
     }
   ]
