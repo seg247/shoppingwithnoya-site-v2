@@ -9,10 +9,23 @@
         "Grocery & Food",
         "Home & Kitchen",
         "Other",
-        "Pet Supplies",
-        "Health"
+        "Fashion",
+        "Pet Supplies"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B07D45W364",
+            "slug": "pirates-booty-aged-white-cheddar-cheese-puffs-bags-5-oz-24-c",
+            "title": "PIRATE'S BOOTY Aged White Cheddar Cheese Puffs Bags, .5 oz (24 Count)",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71sWl-dpeGL.jpg",
+            "url": "https://www.amazon.com/dp/B07D45W364/ref=cm_sw_r_as_gl_api_gl_i_Q5Y1ZVKQ3XRWFPD3CZND?linkCode=ml1&tag=noya0b-20&linkId=b84f57d110c591f55485210e1c8a2101&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B08XXGB5NK",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg",
             "url": "https://www.amazon.com/dp/B07D5DN269?tag=noya0b-20"
           }
-        ],
-        "Health": [
-          {
-            "asin": "B004U3Y8OM",
-            "slug": "nature-made-vitamin-d3-1000-iu-25-mcg-300-vitamin-d-softgels",
-            "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels | Vitamin D Supplement for Immune, Bone, Teeth and Muscle Health Support, 300 Day Supply : Health & Household",
-            "price": "$8.89",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
-            "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07D45W364",
+          "slug": "pirates-booty-aged-white-cheddar-cheese-puffs-bags-5-oz-24-c",
+          "title": "PIRATE'S BOOTY Aged White Cheddar Cheese Puffs Bags, .5 oz (24 Count)",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71sWl-dpeGL.jpg",
+          "url": "https://www.amazon.com/dp/B07D45W364/ref=cm_sw_r_as_gl_api_gl_i_Q5Y1ZVKQ3XRWFPD3CZND?linkCode=ml1&tag=noya0b-20&linkId=b84f57d110c591f55485210e1c8a2101&gaOptInStatus=true"
+        },
         {
           "asin": "B08XXGB5NK",
           "slug": "dr-pepper-zero-sugar-12-ounce-12-count",
@@ -233,23 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81YYCJW3PTL.jpg",
           "url": "https://www.amazon.com/dp/B07D5DN269?tag=noya0b-20"
-        },
-        {
-          "asin": "B004U3Y8OM",
-          "slug": "nature-made-vitamin-d3-1000-iu-25-mcg-300-vitamin-d-softgels",
-          "title": "Nature Made Vitamin D3 1000 IU (25 mcg), 300 Vitamin D Softgels | Vitamin D Supplement for Immune, Bone, Teeth and Muscle Health Support, 300 Day Supply : Health & Household",
-          "price": "$8.89",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Lm-iy+xoL.jpg",
-          "url": "https://www.amazon.com/dp/B004U3Y8OM?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"Dr Pepper, Zero Sugar, 12 Ounce, 12 Count...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"PIRATE'S BOOTY Aged White Cheddar Cheese Puffs Bags, .5 oz (...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T11:40:02.322Z",
-      "updatedAt": "2026-10-03T11:40:02.322Z"
+      "generatedAt": "2026-10-03T11:50:02.586Z",
+      "updatedAt": "2026-10-03T11:50:02.586Z"
     },
     {
       "date": "2026-10-02",
@@ -16184,5 +16184,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T11:40:02.330Z"
+  "generatedAt": "2026-10-03T11:50:02.596Z"
 }
