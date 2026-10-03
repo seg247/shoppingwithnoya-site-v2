@@ -4,15 +4,39 @@
       "date": "2026-10-02",
       "slug": "2026-10-02",
       "title": "🔥 Best Deals Today — October 2, 2026",
-      "intro": "Today's best online deals for Friday, October 2, 2026 — 10 hand-picked discounts across Beauty, Other, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, October 2, 2026 — 10 hand-picked discounts across Beauty, Other, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
         "Other",
-        "Grocery & Food",
         "Home & Kitchen",
+        "Grocery & Food",
         "Fashion"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0CXZTFRM6",
+            "slug": "fried-egg-ceramic-spoon-rest-for-stove-top-and-kitchen-count",
+            "title": "Fried Egg Ceramic Spoon Rest for stove top and kitchen counter | Large and Dishwasher-Safe Sponge holder | Home & kitchen decor | Kitchen Gifts for women | House warming gifts new home: Home & Kitchen",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41-q0Yo-YWL.jpg",
+            "url": "https://www.amazon.com/dp/B0CXZTFRM6?tag=noya0b-20"
+          },
+          {
+            "asin": "B07F246YG1",
+            "slug": "amazon-basics-disinfecting-wipes-lemon-fresh-scent-sanitizes",
+            "title": "Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, Sanitizes, Cleans, Disinfects & Deodorizes, 255 Count (3 Packs of 85), Packaging May Vary : Health & Household",
+            "price": "$9.41",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71HKpJPcVML.jpg",
+            "url": "https://www.amazon.com/dp/B07F246YG1?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B07CR3LW6B",
@@ -24,17 +48,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81ZT11EFFtL.jpg",
             "url": "https://www.amazon.com/dp/B07CR3LW6B?ie=UTF8&ascsubtag=aa4025dabecc11f1b118e61f72dab11b0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a9e1e76afefaba0e1606e82512e63fb7&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DQ5YXVM3",
-            "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
-            "title": "Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack of 21",
-            "price": "$10",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Rb4eI0wML.jpg",
-            "url": "https://www.amazon.com/dp/B0DQ5YXVM3?ie=UTF8&ascsubtag=42972484bead11f1a33542ea6d19f5130INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7ef1ed865a0526781ba5015db1eb72d8&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -70,19 +83,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71VhchiFJaL.jpg",
             "url": "https://www.amazon.com/dp/B00FH692PQ?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07F246YG1",
-            "slug": "amazon-basics-disinfecting-wipes-lemon-fresh-scent-sanitizes",
-            "title": "Amazon Basics Disinfecting Wipes, Lemon & Fresh Scent, Sanitizes, Cleans, Disinfects & Deodorizes, 255 Count (3 Packs of 85), Packaging May Vary : Health & Household",
-            "price": "$9.41",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HKpJPcVML.jpg",
-            "url": "https://www.amazon.com/dp/B07F246YG1?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0CXZTFRM6",
+          "slug": "fried-egg-ceramic-spoon-rest-for-stove-top-and-kitchen-count",
+          "title": "Fried Egg Ceramic Spoon Rest for stove top and kitchen counter | Large and Dishwasher-Safe Sponge holder | Home & kitchen decor | Kitchen Gifts for women | House warming gifts new home: Home & Kitchen",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/41-q0Yo-YWL.jpg",
+          "url": "https://www.amazon.com/dp/B0CXZTFRM6?tag=noya0b-20"
+        },
         {
           "asin": "B07CR3LW6B",
           "slug": "prego-traditional-sensitive-recipe-low-fodmap-pasta-sauce-23",
@@ -233,23 +244,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71VhchiFJaL.jpg",
           "url": "https://www.amazon.com/dp/B00FH692PQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DQ5YXVM3",
-          "slug": "ruffles-potato-chips-3-flavor-variety-pack-1-oz-bags-pack-of",
-          "title": "Ruffles Potato Chips, 3 Flavor Variety Pack, 1 oz Bags (Pack of 21",
-          "price": "$10",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Rb4eI0wML.jpg",
-          "url": "https://www.amazon.com/dp/B0DQ5YXVM3?ie=UTF8&ascsubtag=42972484bead11f1a33542ea6d19f5130INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=7ef1ed865a0526781ba5015db1eb72d8&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 2, 2026?",
-          "a": "The best deals today include \"Prego Traditional Sensitive Recipe Low FODMAP Pasta Sauce, 2...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Fried Egg Ceramic Spoon Rest for stove top and kitchen count...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T02:20:01.486Z",
-      "updatedAt": "2026-10-03T02:20:01.486Z"
+      "generatedAt": "2026-10-03T02:30:01.636Z",
+      "updatedAt": "2026-10-03T02:30:01.636Z"
     },
     {
       "date": "2026-10-01",
@@ -16184,5 +16184,5 @@
       "updatedAt": "2026-08-05T03:50:01.389Z"
     }
   ],
-  "generatedAt": "2026-10-03T02:20:01.494Z"
+  "generatedAt": "2026-10-03T02:30:01.645Z"
 }
