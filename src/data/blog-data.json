@@ -10,24 +10,21 @@
         "Home & Kitchen",
         "Electronics",
         "Pet Supplies",
-        "Other",
-        "Toys & Kids"
+        "Other"
       ],
       "byCategory": {
-        "Home & Kitchen": [
+        "Grocery & Food": [
           {
-            "asin": "B0FQG8R3Q9",
-            "slug": "silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
-            "title": "Silver Buffalo Betty Boop Style, Fleece Throw Blanket, 45x60in",
-            "price": "$22",
+            "asin": "B0D8TWW2TG",
+            "slug": "frito-lay-classic-mix-variety-pack-single-serve-snack-bags-p",
+            "title": "Frito-Lay Classic Mix Variety Pack, Single Serve Snack Bags (Pack of 21)",
+            "price": "$8",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81khbvd981L.jpg",
-            "url": "https://www.amazon.com/gp/product/B0FQG8R3Q9?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=0fb6a5c4f28abffa8324908a129b19f3&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Grocery & Food": [
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/9184FIT3lTL.jpg",
+            "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0GFNX3QY8",
             "slug": "mentos-pure-fresh-sugarfree-chewing-gum-spearmint-10-pieces",
@@ -84,6 +81,19 @@
             "url": "https://www.amazon.com/dp/B0CK52TBH3?ie=UTF8&ascsubtag=ae7ae476bf6411f1b1c1ea960f4dbf230INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=c71c2acb89372847c4685e27a965f759&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0FQG8R3Q9",
+            "slug": "silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
+            "title": "Silver Buffalo Betty Boop Style, Fleece Throw Blanket, 45x60in",
+            "price": "$22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81khbvd981L.jpg",
+            "url": "https://www.amazon.com/gp/product/B0FQG8R3Q9?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=0fb6a5c4f28abffa8324908a129b19f3&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CBVFXTH9",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/614lf9InFeL.jpg",
             "url": "https://www.amazon.com/gp/product/B0GT2PSNS2?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=5329dc3b3b00bbd1e507cd056559c49b&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0FLRMCMLY",
-            "slug": "teeturtle-reversible-sanrio-my-melody-easter-egg-4-inch-flip",
-            "title": "TeeTurtle Reversible Sanrio My Melody Easter Egg 4 Inch Flip Plush",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/51vvGgSeDEL.jpg",
-            "url": "https://www.amazon.com/dp/B0FLRMCMLY?th=1&linkCode=sl2&tag=noya0b-20&linkId=6c8d6731e1519c351e674c3182556bda&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D8TWW2TG",
+          "slug": "frito-lay-classic-mix-variety-pack-single-serve-snack-bags-p",
+          "title": "Frito-Lay Classic Mix Variety Pack, Single Serve Snack Bags (Pack of 21)",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/9184FIT3lTL.jpg",
+          "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0FQG8R3Q9",
           "slug": "silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/614lf9InFeL.jpg",
           "url": "https://www.amazon.com/gp/product/B0GT2PSNS2?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=5329dc3b3b00bbd1e507cd056559c49b&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FLRMCMLY",
-          "slug": "teeturtle-reversible-sanrio-my-melody-easter-egg-4-inch-flip",
-          "title": "TeeTurtle Reversible Sanrio My Melody Easter Egg 4 Inch Flip Plush",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/51vvGgSeDEL.jpg",
-          "url": "https://www.amazon.com/dp/B0FLRMCMLY?th=1&linkCode=sl2&tag=noya0b-20&linkId=6c8d6731e1519c351e674c3182556bda&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"Silver Buffalo Betty Boop Style, Fleece Throw Blanket, 45x60...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Electronics and are updated daily."
+          "a": "The best deals today include \"Frito-Lay Classic Mix Variety Pack, Single Serve Snack Bags ...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T23:20:02.014Z",
-      "updatedAt": "2026-10-03T23:20:02.014Z"
+      "generatedAt": "2026-10-03T23:30:01.697Z",
+      "updatedAt": "2026-10-03T23:30:01.698Z"
     },
     {
       "date": "2026-10-02",
@@ -16187,5 +16184,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T23:20:02.024Z"
+  "generatedAt": "2026-10-03T23:30:01.706Z"
 }
