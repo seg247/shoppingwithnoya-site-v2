@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-03T12:20:01.721Z",
+  "generatedAt": "2026-10-03T12:30:01.995Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fms7crhx-lego-botanicals-daisies-11508",
+      "asin": "B0FMS7CRHX",
+      "title": "LEGO Botanicals Daisies 11508",
+      "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_BN1B3CVMX6BXP3WZEFSV?linkCode=ml1&tag=noya0b-20&linkId=d18defcf213caecc81d458067ab34138&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-10-03T12:20:21.108Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81lNVhQTwNL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b088lxk5sf-zojirushi-hello-kitty-16oz-stainless-vacuum-insulated-mug-bl",
       "asin": "B088LXK5SF",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Dq97mqjJL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dt46kvsd-locerich-women-s-kitten-heels-slingback-low-heel-dress-shoes",
@@ -7550,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0gznr48j7-ageago-small-gold-watches-for-women-gold",
-      "asin": "B0GZNR48J7",
-      "title": "\udecd️AGEAGO Small Gold Watches for Women,Gold",
-      "url": "https://www.amazon.com/dp/B0GZNR48J7?th=1&linkCode=sl2&tag=noya0b-20&linkId=a9f322ac69ac84923f3b64d61fa1b2d0&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-18T14:22:23.883Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61i8dgNvE3L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12126,6 +12126,16 @@
       "category": "Sports & Fitness",
       "ts": "2026-09-18T14:20:22.256Z",
       "archivedAt": "2026-10-03T12:10:00.499Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gznr48j7-ageago-small-gold-watches-for-women-gold",
+      "asin": "B0GZNR48J7",
+      "title": "\udecd️AGEAGO Small Gold Watches for Women,Gold",
+      "url": "https://www.amazon.com/dp/B0GZNR48J7?th=1&linkCode=sl2&tag=noya0b-20&linkId=a9f322ac69ac84923f3b64d61fa1b2d0&language=en_US&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-18T14:22:23.883Z",
+      "archivedAt": "2026-10-03T12:30:01.995Z",
       "status": "archived"
     }
   ]
