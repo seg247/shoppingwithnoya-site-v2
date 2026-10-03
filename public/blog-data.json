@@ -12,10 +12,44 @@
         "Pet Supplies",
         "Other",
         "Tools",
-        "Sports",
-        "Home & Kitchen"
+        "Sports"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0D8TWW2TG",
+            "slug": "frito-lay-classic-mix-variety-pack-single-serve-snack-bags-p",
+            "title": "Frito-Lay Classic Mix Variety Pack, Single Serve Snack Bags (Pack of 21)",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/9184FIT3lTL.jpg",
+            "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0CK52TBH3",
+            "slug": "dr-teals-foaming-bath-with-pure-epsom-salt-soothe-sleep-with",
+            "title": "Dr Teal's Foaming Bath with Pure Epsom Salt, Soothe & Sleep with Lavender, 34 fl oz (Pack of 2)",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81imI2Q+r8L.jpg",
+            "url": "https://www.amazon.com/dp/B0CK52TBH3?ie=UTF8&ascsubtag=ae7ae476bf6411f1b1c1ea960f4dbf230INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=c71c2acb89372847c4685e27a965f759&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DGVSHFCS",
+            "slug": "barnums-original-animal-crackers-kids-snacks-10-snack-packs",
+            "title": "BARNUM'S Original Animal Crackers, Kids Snacks, 10 Snack Packs",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81IBed27xnL.jpg",
+            "url": "https://www.amazon.com/dp/B0DGVSHFCS?ie=UTF8&ascsubtag=959952a0bf5311f1aaeb5e6e3493b9920INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2fcb883e59ac3a35445571c4c4ab4e85&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0CBVFXTH9",
@@ -40,30 +74,6 @@
             "category": "Pet Supplies",
             "imageUrl": "https://m.media-amazon.com/images/I/71eBHTnGFNL.jpg",
             "url": "https://www.amazon.com/dp/B00NABTC8M?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0CK52TBH3",
-            "slug": "dr-teals-foaming-bath-with-pure-epsom-salt-soothe-sleep-with",
-            "title": "Dr Teal's Foaming Bath with Pure Epsom Salt, Soothe & Sleep with Lavender, 34 fl oz (Pack of 2)",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81imI2Q+r8L.jpg",
-            "url": "https://www.amazon.com/dp/B0CK52TBH3?ie=UTF8&ascsubtag=ae7ae476bf6411f1b1c1ea960f4dbf230INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=c71c2acb89372847c4685e27a965f759&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DGVSHFCS",
-            "slug": "barnums-original-animal-crackers-kids-snacks-10-snack-packs",
-            "title": "BARNUM'S Original Animal Crackers, Kids Snacks, 10 Snack Packs",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81IBed27xnL.jpg",
-            "url": "https://www.amazon.com/dp/B0DGVSHFCS?ie=UTF8&ascsubtag=959952a0bf5311f1aaeb5e6e3493b9920INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2fcb883e59ac3a35445571c4c4ab4e85&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51Q+OCD9L2L.jpg",
             "url": "https://www.amazon.com/dp/B004RJGZ9K?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07NZTX69L",
-            "slug": "amazon-brand-happy-belly-dark-roast-coffee-pods-french-roast",
-            "title": "Amazon Brand - Happy Belly Dark Roast Coffee Pods, French Roast, Compatible with Keurig 2.0 K-Cup Brewers, 24 Count",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/716VgFP0ZvL.jpg",
-            "url": "https://www.amazon.com/Amazon-Brand-Happy-French-Coffee/dp/B07NZTX69L?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=fccb02a341ad193ae1a5048954407b50&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D8TWW2TG",
+          "slug": "frito-lay-classic-mix-variety-pack-single-serve-snack-bags-p",
+          "title": "Frito-Lay Classic Mix Variety Pack, Single Serve Snack Bags (Pack of 21)",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/9184FIT3lTL.jpg",
+          "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0CBVFXTH9",
           "slug": "acrotor-dash-cam-mountuniversal-car-camera-mount-phone-holde",
@@ -242,23 +250,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/81IBed27xnL.jpg",
           "url": "https://www.amazon.com/dp/B0DGVSHFCS?ie=UTF8&ascsubtag=959952a0bf5311f1aaeb5e6e3493b9920INT&m=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=2fcb883e59ac3a35445571c4c4ab4e85&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07NZTX69L",
-          "slug": "amazon-brand-happy-belly-dark-roast-coffee-pods-french-roast",
-          "title": "Amazon Brand - Happy Belly Dark Roast Coffee Pods, French Roast, Compatible with Keurig 2.0 K-Cup Brewers, 24 Count",
-          "price": "$5",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/716VgFP0ZvL.jpg",
-          "url": "https://www.amazon.com/Amazon-Brand-Happy-French-Coffee/dp/B07NZTX69L?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=fccb02a341ad193ae1a5048954407b50&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"ACROTOR Dash Cam Mount,Universal Car Camera Mount Phone Hold...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Toys & Kids, Electronics and are updated daily."
+          "a": "The best deals today include \"Frito-Lay Classic Mix Variety Pack, Single Serve Snack Bags ...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Toys & Kids, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-03T21:40:00.960Z",
-      "updatedAt": "2026-10-03T21:40:00.961Z"
+      "generatedAt": "2026-10-03T21:50:02.509Z",
+      "updatedAt": "2026-10-03T21:50:02.509Z"
     },
     {
       "date": "2026-10-02",
@@ -16193,5 +16190,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-03T21:40:00.969Z"
+  "generatedAt": "2026-10-03T21:50:02.517Z"
 }
