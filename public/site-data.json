@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-03T17:40:02.252Z",
+  "generatedAt": "2026-10-03T17:50:02.016Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07nztx69l-amazon-brand-happy-belly-dark-roast-coffee-pods-french-roast",
+      "asin": "B07NZTX69L",
+      "title": "Amazon Brand - Happy Belly Dark Roast Coffee Pods, French Roast, Compatible with Keurig 2.0 K-Cup Brewers, 24 Count",
+      "url": "https://www.amazon.com/Amazon-Brand-Happy-French-Coffee/dp/B07NZTX69L?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=fccb02a341ad193ae1a5048954407b50&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-03T17:40:23.884Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/716VgFP0ZvL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07p8mdv6h-amazon-grocery-olive-oil-light-flavor-16-9-fl-oz",
       "asin": "B07P8MDV6H",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71sWl-dpeGL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b08xxgb5nk-dr-pepper-zero-sugar-12-ounce-12-count",
@@ -7550,21 +7565,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00xhkc210-nature-s-truth-melatonin-5-mg-fast-dissolve-tablets-90-count",
-      "asin": "B00XHKC210",
-      "title": "\udecd️Nature's Truth Melatonin 5 mg Fast Dissolve Tablets | 90 Count",
-      "url": "https://amazon.com/dp/B00XHKC210?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-09-18T15:32:21.660Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71nbZimC1cL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12266,6 +12266,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-18T15:26:22.267Z",
       "archivedAt": "2026-10-03T17:30:02.127Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00xhkc210-nature-s-truth-melatonin-5-mg-fast-dissolve-tablets-90-count",
+      "asin": "B00XHKC210",
+      "title": "\udecd️Nature's Truth Melatonin 5 mg Fast Dissolve Tablets | 90 Count",
+      "url": "https://amazon.com/dp/B00XHKC210?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-09-18T15:32:21.660Z",
+      "archivedAt": "2026-10-03T17:50:02.016Z",
       "status": "archived"
     }
   ]
