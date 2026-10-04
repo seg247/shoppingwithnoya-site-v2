@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-04T12:40:01.376Z",
+  "generatedAt": "2026-10-04T12:50:01.431Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0grz9p9w1-leapfrog-my-best-pal-scout-interactive-baby-learning-plush-t",
+      "asin": "B0GRZ9P9W1",
+      "title": "LeapFrog My Best Pal Scout Interactive Baby Learning Plush Toy",
+      "url": "https://www.amazon.com/dp/B0GRZ9P9W1/ref=cm_sw_r_as_gl_api_gl_i_4MEAHNC99N63V7D1F5H0?linkCode=ml1&tag=noya0b-20&linkId=dbe1480c1982b8374c7110c83d492ccd&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-10-04T12:40:19.579Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71723jmPMJL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0c6d6gl2q-fujifilm-instax-mini-evo-instant-camera-brown",
       "asin": "B0C6D6GL2Q",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71xIgTqSN6L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b00lh3dmuo-amazon-basics-aaa-long-lasting-alkaline-batteries-36-count-1",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0b27yvhns-tiffany-co-tiffany-rose-gold-eau-de-parfum-spray-for-women-2",
-      "asin": "B0B27YVHNS",
-      "title": "Tiffany & Co. Tiffany Rose Gold Eau de Parfum Spray for Women, 2.5 Ounce",
-      "url": "https://www.amazon.com/dp/B0B27YVHNS/ref=cm_sw_r_as_gl_apa_gl_i_D9M2V1NFYS6AH52CHMQ1?linkCode=ml1&tag=noya0b-20&linkId=44e8b08212becbc1070e7344b78df1ba&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-09-19T07:14:20.378Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51l2jdUQK5L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12558,6 +12558,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-19T07:04:21.005Z",
       "archivedAt": "2026-10-04T12:30:01.851Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0b27yvhns-tiffany-co-tiffany-rose-gold-eau-de-parfum-spray-for-women-2",
+      "asin": "B0B27YVHNS",
+      "title": "Tiffany & Co. Tiffany Rose Gold Eau de Parfum Spray for Women, 2.5 Ounce",
+      "url": "https://www.amazon.com/dp/B0B27YVHNS/ref=cm_sw_r_as_gl_apa_gl_i_D9M2V1NFYS6AH52CHMQ1?linkCode=ml1&tag=noya0b-20&linkId=44e8b08212becbc1070e7344b78df1ba&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-09-19T07:14:20.378Z",
+      "archivedAt": "2026-10-04T12:50:01.431Z",
       "status": "archived"
     }
   ]
