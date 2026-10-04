@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-04T14:00:01.630Z",
+  "generatedAt": "2026-10-04T14:10:02.167Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07hgh1kg6-black-decker-countertop-microwave-oven-0-7-cu-ft-700w-stainl",
+      "asin": "B07HGH1KG6",
+      "title": "BLACK+DECKER Countertop Microwave Oven, 0.7 Cu.Ft, 700W, Stainless Steel",
+      "url": "https://www.amazon.com/dp/B07HGH1KG6?th=1&linkCode=sl2&tag=noya0b-20&linkId=81f8e778dfe4c10fa818d440b3fe73b3&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Tools & Hardware",
+      "ts": "2026-10-04T14:00:31.927Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81gP22+jCVL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0dwt2rcrh-5-in-1-hot-air-styler-wrap-for-women-high-speed-frizz-free-h",
       "asin": "B0DWT2RCRH",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71WWE31pfNL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0flg6d6z3-ninja-crispi-pro-glass-air-fryer-6-in-1-cyberspace-as101cy-m",
@@ -7546,21 +7561,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0c3vlbsrj-konokyo-32-oz-insulated-stainless-steel-water-bottle-with-st",
-      "asin": "B0C3VLBSRJ",
-      "title": "Konokyo 32 oz Insulated Stainless Steel Water Bottle with Straw Lid",
-      "url": "https://www.amazon.com/dp/B0C3VLBSRJ/ref=cm_sw_r_as_gl_api_gl_i_dl_0NW612GMTFSTW2QB7JT4?linkCode=ml1&tag=noya0b-20&linkId=1948425e0f0f3198790abddb2fcb2c82&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-19T09:50:24.303Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71r8ODAMDIL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12602,6 +12602,16 @@
       "category": "Electronics",
       "ts": "2026-09-19T09:18:18.210Z",
       "archivedAt": "2026-10-04T13:50:02.064Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0c3vlbsrj-konokyo-32-oz-insulated-stainless-steel-water-bottle-with-st",
+      "asin": "B0C3VLBSRJ",
+      "title": "Konokyo 32 oz Insulated Stainless Steel Water Bottle with Straw Lid",
+      "url": "https://www.amazon.com/dp/B0C3VLBSRJ/ref=cm_sw_r_as_gl_api_gl_i_dl_0NW612GMTFSTW2QB7JT4?linkCode=ml1&tag=noya0b-20&linkId=1948425e0f0f3198790abddb2fcb2c82&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-19T09:50:24.303Z",
+      "archivedAt": "2026-10-04T14:10:02.167Z",
       "status": "archived"
     }
   ]
