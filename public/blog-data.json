@@ -10,37 +10,21 @@
         "Toys & Kids",
         "Other",
         "Home & Kitchen",
-        "Electronics",
-        "Pet Supplies"
+        "Electronics"
       ],
       "byCategory": {
-        "Toys & Kids": [
-          {
-            "asin": "B0FJZTCDHJ",
-            "slug": "fisher-price-little-people-disney-pixar-toy-story-bobbin-bul",
-            "title": "Fisher-Price Little People Disney Pixar Toy Story Bobbin’ Bullseye",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71FUWOEy8dL.jpg",
-            "url": "https://www.amazon.com/dp/B0FJZTCDHJ?psc=1&linkCode=sl2&tag=noya0b-20&linkId=fadaf5c0a6642ad03f4862c1b735b83c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0B746GGP9",
-            "slug": "seat-cushion-for-office-chair-car-memory-foam-black-large",
-            "title": "Seat Cushion for Office Chair, Car, Memory Foam, Black Large",
-            "price": "$15",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71QYgVOFYlL.jpg",
-            "url": "https://www.amazon.com/dp/B0B746GGP9?gaOptInStatus=true&ascsubtag=srctok-7438398b3284b18c&btn_type=pt&btn_ref=srctok-7438398b3284b18c&th=1&linkCode=sl2&tag=noya0b-20&linkId=2fbce7b635f2b43a8023ef5e27a7126a&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Grocery & Food": [
+          {
+            "asin": "B0DL2LVM8Z",
+            "slug": "dots-pretzels-twists-3-flavor-snacks-variety-pack-18-count",
+            "title": "Dot's Pretzels Twists, 3-Flavor Snacks Variety Pack, 18 count",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81YAXgOhwPL.jpg",
+            "url": "https://www.amazon.com/dp/B0DL2LVM8Z?ie=UTF8&ascsubtag=ed6a252cbf8a11f1a19b260e6c9abbed0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3c1052e42cca6927acc4b341777347bb&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0D8TWW2TG",
             "slug": "frito-lay-classic-mix-variety-pack-single-serve-snack-bags-p",
@@ -97,6 +81,32 @@
             "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B0FJZTCDHJ",
+            "slug": "fisher-price-little-people-disney-pixar-toy-story-bobbin-bul",
+            "title": "Fisher-Price Little People Disney Pixar Toy Story Bobbin’ Bullseye",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71FUWOEy8dL.jpg",
+            "url": "https://www.amazon.com/dp/B0FJZTCDHJ?psc=1&linkCode=sl2&tag=noya0b-20&linkId=fadaf5c0a6642ad03f4862c1b735b83c&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0B746GGP9",
+            "slug": "seat-cushion-for-office-chair-car-memory-foam-black-large",
+            "title": "Seat Cushion for Office Chair, Car, Memory Foam, Black Large",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71QYgVOFYlL.jpg",
+            "url": "https://www.amazon.com/dp/B0B746GGP9?gaOptInStatus=true&ascsubtag=srctok-7438398b3284b18c&btn_type=pt&btn_ref=srctok-7438398b3284b18c&th=1&linkCode=sl2&tag=noya0b-20&linkId=2fbce7b635f2b43a8023ef5e27a7126a&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0FQG8R3Q9",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51ruy-r9f0L.jpg",
             "url": "https://www.amazon.com/dp/B0CBVFXTH9?tag=noya0b-20"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B00NABTC8M",
-            "slug": "amazon-basics-dog-poop-leak-proof-bags-with-dispenser-and-le",
-            "title": "Amazon Basics Dog Poop Leak Proof Bags with Dispenser and Leash Clip, Unscented, 13\" x 9\" Large Size, 300 Count",
-            "price": "$6.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71eBHTnGFNL.jpg",
-            "url": "https://www.amazon.com/dp/B00NABTC8M?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DL2LVM8Z",
+          "slug": "dots-pretzels-twists-3-flavor-snacks-variety-pack-18-count",
+          "title": "Dot's Pretzels Twists, 3-Flavor Snacks Variety Pack, 18 count",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81YAXgOhwPL.jpg",
+          "url": "https://www.amazon.com/dp/B0DL2LVM8Z?ie=UTF8&ascsubtag=ed6a252cbf8a11f1a19b260e6c9abbed0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3c1052e42cca6927acc4b341777347bb&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0FJZTCDHJ",
           "slug": "fisher-price-little-people-disney-pixar-toy-story-bobbin-bul",
@@ -236,23 +244,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51ruy-r9f0L.jpg",
           "url": "https://www.amazon.com/dp/B0CBVFXTH9?tag=noya0b-20"
-        },
-        {
-          "asin": "B00NABTC8M",
-          "slug": "amazon-basics-dog-poop-leak-proof-bags-with-dispenser-and-le",
-          "title": "Amazon Basics Dog Poop Leak Proof Bags with Dispenser and Leash Clip, Unscented, 13\" x 9\" Large Size, 300 Count",
-          "price": "$6.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71eBHTnGFNL.jpg",
-          "url": "https://www.amazon.com/dp/B00NABTC8M?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"Fisher-Price Little People Disney Pixar Toy Story Bobbin’ Bu...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Toys & Kids, Other and are updated daily."
+          "a": "The best deals today include \"Dot's Pretzels Twists, 3-Flavor Snacks Variety Pack, 18 coun...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Toys & Kids, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-04T00:40:02.160Z",
-      "updatedAt": "2026-10-04T00:40:02.160Z"
+      "generatedAt": "2026-10-04T00:50:01.731Z",
+      "updatedAt": "2026-10-04T00:50:01.731Z"
     },
     {
       "date": "2026-10-02",
@@ -16187,5 +16184,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-04T00:40:02.169Z"
+  "generatedAt": "2026-10-04T00:50:01.740Z"
 }
