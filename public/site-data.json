@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-04T12:20:01.308Z",
+  "generatedAt": "2026-10-04T12:30:01.851Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0c6d6gl2q-fujifilm-instax-mini-evo-instant-camera-brown",
+      "asin": "B0C6D6GL2Q",
+      "title": "Fujifilm Instax Mini EVO Instant Camera - Brown",
+      "url": "https://www.amazon.com/dp/B0C6D6GL2Q/ref=cm_sw_r_as_gl_api_gl_i_dl_1ZTF7PB8JWNXD33F0AF2?linkCode=ml1&tag=noya0b-20&linkId=c48dca3e33e081ce98244a644a52fdd9&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-10-04T12:20:26.724Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Sve0mcndL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0gb3m7nt4-lol-surprise-loves-dr-seuss-tots-play-display-7-total-surpri",
       "asin": "B0GB3M7NT4",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Apg8B6+0L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b00b6a6xok-band-aid-brand-flexible-fabric-adhesive-bandages-assorted-si",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0d32lpr64-blue-marble-santa-s-christmas-craft-kit-with-15-holiday-proj",
-      "asin": "B0D32LPR64",
-      "title": "Blue Marble Santa's Christmas Craft Kit with 15 Holiday Projects",
-      "url": "https://www.amazon.com/dp/B0D32LPR64/ref=cm_sw_r_as_gl_apa_gl_i_VBTC99676VVAN0K11BM8?linkCode=ml1&tag=noya0b-20&linkId=9295de9bb590e1263e2917e88ac4cbe5&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-09-19T07:04:21.005Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/91+S6VmJuZL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12548,6 +12548,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-19T04:42:19.157Z",
       "archivedAt": "2026-10-04T12:10:01.696Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d32lpr64-blue-marble-santa-s-christmas-craft-kit-with-15-holiday-proj",
+      "asin": "B0D32LPR64",
+      "title": "Blue Marble Santa's Christmas Craft Kit with 15 Holiday Projects",
+      "url": "https://www.amazon.com/dp/B0D32LPR64/ref=cm_sw_r_as_gl_apa_gl_i_VBTC99676VVAN0K11BM8?linkCode=ml1&tag=noya0b-20&linkId=9295de9bb590e1263e2917e88ac4cbe5&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-09-19T07:04:21.005Z",
+      "archivedAt": "2026-10-04T12:30:01.851Z",
       "status": "archived"
     }
   ]
