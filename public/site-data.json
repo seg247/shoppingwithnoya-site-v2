@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-04T11:40:01.742Z",
+  "generatedAt": "2026-10-04T11:50:02.362Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0g2syy26x-lego-birthday-numbers-40807",
+      "asin": "B0G2SYY26X",
+      "title": "LEGO Birthday Numbers 40807",
+      "url": "https://www.amazon.com/dp/B0G2SYY26X/ref=cm_sw_r_as_gl_api_gl_i_DHGREWJ36Z30VJQ0AC41?linkCode=ml1&tag=noya0b-20&linkId=b30500bab520bf332520e7f88c9ab9aa&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-10-04T11:40:36.298Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/810VxJTdXvL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b09gn1yrvp-irish-spring-body-wash-for-men-original-scent-887-ml",
       "asin": "B09GN1YRVP",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61vnWI7E-+L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b01bf1739s-nivea-men-maximum-hydration-face-scrub-multipack-3-x-4-4-oz-",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b08zh6n688-speed-stick-men-s-deodorant-ocean-surf-3-ounce-4-pack-packag",
-      "asin": "B08ZH6N688",
-      "title": "Speed Stick Men's Deodorant, Ocean Surf, 3 Ounce, 4 Pack, Packaging may Vary",
-      "url": "https://www.amazon.com/dp/B08ZH6N688?th=1&linkCode=sl2&tag=noya0b-20&linkId=ebb9b7ebb25d0dc960b477ad18dc5658&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-09-19T01:20:25.171Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12528,6 +12528,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-19T01:10:18.366Z",
       "archivedAt": "2026-10-04T11:30:01.973Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b08zh6n688-speed-stick-men-s-deodorant-ocean-surf-3-ounce-4-pack-packag",
+      "asin": "B08ZH6N688",
+      "title": "Speed Stick Men's Deodorant, Ocean Surf, 3 Ounce, 4 Pack, Packaging may Vary",
+      "url": "https://www.amazon.com/dp/B08ZH6N688?th=1&linkCode=sl2&tag=noya0b-20&linkId=ebb9b7ebb25d0dc960b477ad18dc5658&language=en_US&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-09-19T01:20:25.171Z",
+      "archivedAt": "2026-10-04T11:50:02.362Z",
       "status": "archived"
     }
   ]
