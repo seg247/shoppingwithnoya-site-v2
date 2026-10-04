@@ -9,11 +9,24 @@
         "Other",
         "Toys & Kids",
         "Grocery & Food",
+        "Grocery",
         "Health",
-        "Smart Home",
-        "Home & Kitchen"
+        "Smart Home"
       ],
       "byCategory": {
+        "Grocery": [
+          {
+            "asin": "B086WXPXKV",
+            "slug": "amazon-grocery-beefsteak-tomatoes-16-oz-grocery-gourmet-food",
+            "title": "Amazon Grocery, Beefsteak Tomatoes, 16 Oz : Grocery & Gourmet Food",
+            "price": "$5.68",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/710wWnBu4HL.jpg",
+            "url": "https://www.amazon.com/dp/B086WXPXKV?tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B07MHJFRBJ",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/9184FIT3lTL.jpg",
             "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0FQG8R3Q9",
-            "slug": "silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
-            "title": "Silver Buffalo Betty Boop Style, Fleece Throw Blanket, 45x60in",
-            "price": "$22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81khbvd981L.jpg",
-            "url": "https://www.amazon.com/gp/product/B0FQG8R3Q9?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=0fb6a5c4f28abffa8324908a129b19f3&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B086WXPXKV",
+          "slug": "amazon-grocery-beefsteak-tomatoes-16-oz-grocery-gourmet-food",
+          "title": "Amazon Grocery, Beefsteak Tomatoes, 16 Oz : Grocery & Gourmet Food",
+          "price": "$5.68",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/710wWnBu4HL.jpg",
+          "url": "https://www.amazon.com/dp/B086WXPXKV?tag=noya0b-20"
+        },
         {
           "asin": "B07MHJFRBJ",
           "slug": "bounty-quick-size-paper-towels-white-8-family-rolls-health-h",
@@ -236,23 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/9184FIT3lTL.jpg",
           "url": "https://www.amazon.com/dp/B0D8TWW2TG?gaOptInStatus=true&ascsubtag=srctok-7113412e2d22cee8&btn_type=pt&btn_ref=srctok-7113412e2d22cee8&th=1&linkCode=sl2&tag=noya0b-20&linkId=269792a6f7586ad59890807361295e2d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FQG8R3Q9",
-          "slug": "silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
-          "title": "Silver Buffalo Betty Boop Style, Fleece Throw Blanket, 45x60in",
-          "price": "$22",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81khbvd981L.jpg",
-          "url": "https://www.amazon.com/gp/product/B0FQG8R3Q9?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=0fb6a5c4f28abffa8324908a129b19f3&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 3, 2026?",
-          "a": "The best deals today include \"Bounty Quick Size Paper Towels, White, 8 Family Rolls : Heal...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Amazon Grocery, Beefsteak Tomatoes, 16 Oz : Grocery & Gourme...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-04T02:40:02.011Z",
-      "updatedAt": "2026-10-04T02:40:02.011Z"
+      "generatedAt": "2026-10-04T02:50:02.492Z",
+      "updatedAt": "2026-10-04T02:50:02.492Z"
     },
     {
       "date": "2026-10-02",
@@ -16187,5 +16187,5 @@
       "updatedAt": "2026-08-06T03:50:02.230Z"
     }
   ],
-  "generatedAt": "2026-10-04T02:40:02.020Z"
+  "generatedAt": "2026-10-04T02:50:02.501Z"
 }
