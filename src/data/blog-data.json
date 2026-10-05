@@ -4,15 +4,39 @@
       "date": "2026-10-05",
       "slug": "2026-10-05",
       "title": "🔥 Best Deals Today — October 5, 2026",
-      "intro": "Today's best online deals for Monday, October 5, 2026 — 10 hand-picked discounts across Other, Beauty, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, October 5, 2026 — 10 hand-picked discounts across Other, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
+        "Fashion",
         "Beauty",
         "Home & Kitchen",
-        "Electronics",
-        "Fashion"
+        "Electronics"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0DX2221G8",
+            "slug": "amazon-essentials-mens-low-stretch-slim-fit-jean-tapered-leg",
+            "title": "Amazon Essentials Men's Low Stretch Slim-Fit Jean, Tapered Leg, Vintage Inspired Midweight Denim, Black-Midweight, 34W x 34L : Clothing, Shoes & Jewelry",
+            "price": "$21.30",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61B-7DFutDL.jpg",
+            "url": "https://www.amazon.com/dp/B0DX2221G8?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D5GFBMWY",
+            "slug": "small-crossbody-phone-purse-womens-rfid-crossbody-wallet-wri",
+            "title": "Small Crossbody Phone Purse, Women's RFID Crossbody Wallet Wristlet Purse with Phone Pocket",
+            "price": "$6",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81M29wXn+7L.jpg",
+            "url": "https://www.amazon.com/dp/B0D5GFBMWY/ref=cm_sw_r_as_gl_api_gl_i_dl_B1AZ8FAB0NWS8HD8A7BV?linkCode=ml1&tag=noya0b-20&linkId=a63a9e94af5df9dfbb0fa7d61a82a9f3&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B073CXZ8KR",
@@ -24,17 +48,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61zBOL-1KmL.jpg",
             "url": "https://www.amazon.com/dp/B073CXZ8KR/ref=cm_sw_r_as_gl_api_gl_i_ZFD8BQSAR08KB62VXR1A?linkCode=ml1&tag=noya0b-20&linkId=ba3d469d814e79aaaa111c88ac02f18f&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09Y4H2SS2",
-            "slug": "cetaphil-cream-to-foam-face-wash-hydrating-cleanser-8oz",
-            "title": "Cetaphil Cream to Foam Face Wash Hydrating Cleanser, 8oz",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61b9YpAHKKL.jpg",
-            "url": "https://www.amazon.com/dp/B09Y4H2SS2/ref=cm_sw_r_as_gl_api_gl_i_RFJWQ4DKRSVM0C94X56F?linkCode=ml1&tag=noya0b-20&linkId=eada5f49ff9724f897f16fd9507c8d22&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -119,22 +132,20 @@
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0H9ZF372G/ref=cm_sw_r_as_gl_api_gl_i_SN9C4T4QEXXFM3QR64HA?linkCode=ml1&tag=noya0b-20&linkId=320946999ff05ab89622fd2a733cd902&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0D5GFBMWY",
-            "slug": "small-crossbody-phone-purse-womens-rfid-crossbody-wallet-wri",
-            "title": "Small Crossbody Phone Purse, Women's RFID Crossbody Wallet Wristlet Purse with Phone Pocket",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81M29wXn+7L.jpg",
-            "url": "https://www.amazon.com/dp/B0D5GFBMWY/ref=cm_sw_r_as_gl_api_gl_i_dl_B1AZ8FAB0NWS8HD8A7BV?linkCode=ml1&tag=noya0b-20&linkId=a63a9e94af5df9dfbb0fa7d61a82a9f3&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DX2221G8",
+          "slug": "amazon-essentials-mens-low-stretch-slim-fit-jean-tapered-leg",
+          "title": "Amazon Essentials Men's Low Stretch Slim-Fit Jean, Tapered Leg, Vintage Inspired Midweight Denim, Black-Midweight, 34W x 34L : Clothing, Shoes & Jewelry",
+          "price": "$21.30",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61B-7DFutDL.jpg",
+          "url": "https://www.amazon.com/dp/B0DX2221G8?tag=noya0b-20"
+        },
         {
           "asin": "B073CXZ8KR",
           "slug": "nivea-oil-infused-cherry-blossom-and-jojoba-oil-body-lotion",
@@ -233,23 +244,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/81M29wXn+7L.jpg",
           "url": "https://www.amazon.com/dp/B0D5GFBMWY/ref=cm_sw_r_as_gl_api_gl_i_dl_B1AZ8FAB0NWS8HD8A7BV?linkCode=ml1&tag=noya0b-20&linkId=a63a9e94af5df9dfbb0fa7d61a82a9f3&gaOptInStatus=true"
-        },
-        {
-          "asin": "B09Y4H2SS2",
-          "slug": "cetaphil-cream-to-foam-face-wash-hydrating-cleanser-8oz",
-          "title": "Cetaphil Cream to Foam Face Wash Hydrating Cleanser, 8oz",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61b9YpAHKKL.jpg",
-          "url": "https://www.amazon.com/dp/B09Y4H2SS2/ref=cm_sw_r_as_gl_api_gl_i_RFJWQ4DKRSVM0C94X56F?linkCode=ml1&tag=noya0b-20&linkId=eada5f49ff9724f897f16fd9507c8d22&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 5, 2026?",
-          "a": "The best deals today include \"NIVEA Oil Infused Cherry Blossom and Jojoba Oil Body Lotion ...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Amazon Essentials Men's Low Stretch Slim-Fit Jean, Tapered L...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-05T14:00:01.996Z",
-      "updatedAt": "2026-10-05T14:00:01.997Z"
+      "generatedAt": "2026-10-05T14:10:02.052Z",
+      "updatedAt": "2026-10-05T14:10:02.052Z"
     },
     {
       "date": "2026-10-04",
@@ -16196,5 +16196,5 @@
       "updatedAt": "2026-08-08T03:50:01.724Z"
     }
   ],
-  "generatedAt": "2026-10-05T14:00:02.005Z"
+  "generatedAt": "2026-10-05T14:10:02.060Z"
 }
