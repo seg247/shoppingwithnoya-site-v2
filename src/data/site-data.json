@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-05T08:40:01.328Z",
+  "generatedAt": "2026-10-05T08:50:01.861Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b06y43vyks-amscan-3537001-super-shape-lightning-mcqueen-balloon-toys-ga",
+      "asin": "B06Y43VYKS",
+      "title": "Amscan 3537001 \"Super/Shape Lightning McQueen\" Balloon : Toys & Games",
+      "url": "https://www.amazon.com/dp/B06Y43VYKS?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-05T08:41:01.299Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61lu8TWeOaL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b085dvhq57-owala-freesip-stainless-steel-water-bottle-32-oz-very-very-d",
       "asin": "B085DVHQ57",
@@ -167,11 +186,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71FebL-EaWL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b00jjxt1mc-yankee-candle-midsummer-s-night-car-vent-air-freshener",
@@ -7522,21 +7537,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0g395jv56-vitafusion-hydraboost-drink-powder-packets-electrolytes-supp",
-      "asin": "B0G395JV56",
-      "title": "Vitafusion Hydraboost Drink Powder Packets, Electrolytes Support Daily Hydration, Vitamins Support Cellular Energy & Imm",
-      "url": "https://www.amazon.com/dp/B0G395JV56?psc=1&linkCode=sl2&tag=noya0b-20&linkId=51224b1ec79d524c2ec0fd82504029e3&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Health",
-      "ts": "2026-09-19T14:36:29.019Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81jIzQuOBsL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12668,6 +12668,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-19T14:22:34.728Z",
       "archivedAt": "2026-10-05T02:30:01.588Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0g395jv56-vitafusion-hydraboost-drink-powder-packets-electrolytes-supp",
+      "asin": "B0G395JV56",
+      "title": "Vitafusion Hydraboost Drink Powder Packets, Electrolytes Support Daily Hydration, Vitamins Support Cellular Energy & Imm",
+      "url": "https://www.amazon.com/dp/B0G395JV56?psc=1&linkCode=sl2&tag=noya0b-20&linkId=51224b1ec79d524c2ec0fd82504029e3&language=en_US&gaOptInStatus=true",
+      "category": "Health",
+      "ts": "2026-09-19T14:36:29.019Z",
+      "archivedAt": "2026-10-05T08:50:01.861Z",
       "status": "archived"
     }
   ]
