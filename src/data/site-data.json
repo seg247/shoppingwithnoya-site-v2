@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-05T15:40:01.781Z",
+  "generatedAt": "2026-10-05T15:50:01.756Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0001e1in8-castillo-habanero-hot-sauce-red-5-oz",
+      "asin": "B0001E1IN8",
+      "title": "Castillo Habanero Hot Sauce Red, 5 oz",
+      "url": "https://www.amazon.com/dp/B0001E1IN8?psc=1&linkCode=sl2&tag=noya0b-20&linkId=67a2e7cf391b16b60d948e24efb8ae74&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-05T15:40:19.973Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71zJ2myu-zL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07qbdm2jb-nature-valley-creamy-wafer-bars-peanut-butter-4g-protein-5-c",
       "asin": "B07QBDM2JB",
@@ -7554,21 +7573,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b08xvy7kvs-upsimples-8x12-picture-frame-gallery-wall-frames-set-of-5-wh",
-      "asin": "B08XVY7KVS",
-      "title": "\udecd️upsimples 8x12 Picture Frame, Gallery Wall Frames Set of 5, White",
-      "url": "https://www.amazon.com/dp/B08XVY7KVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=378bc2c2e5b8027b5c23292ab2107f66&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-19T15:26:39.259Z",
-      "type": "deal",
-      "imageUrl": null,
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12800,6 +12804,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-19T15:24:28.473Z",
       "archivedAt": "2026-10-05T15:30:02.264Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b08xvy7kvs-upsimples-8x12-picture-frame-gallery-wall-frames-set-of-5-wh",
+      "asin": "B08XVY7KVS",
+      "title": "\udecd️upsimples 8x12 Picture Frame, Gallery Wall Frames Set of 5, White",
+      "url": "https://www.amazon.com/dp/B08XVY7KVS?th=1&linkCode=sl2&tag=noya0b-20&linkId=378bc2c2e5b8027b5c23292ab2107f66&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-19T15:26:39.259Z",
+      "archivedAt": "2026-10-05T15:50:01.756Z",
       "status": "archived"
     }
   ]
