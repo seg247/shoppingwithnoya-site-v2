@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-05T15:20:01.817Z",
+  "generatedAt": "2026-10-05T15:30:02.264Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07qbdm2jb-nature-valley-creamy-wafer-bars-peanut-butter-4g-protein-5-c",
+      "asin": "B07QBDM2JB",
+      "title": "Nature Valley Creamy Wafer Bars, Peanut Butter, 4g Protein, 5 ct, 6.5 oz",
+      "url": "https://www.amazon.com/dp/B07QBDM2JB?th=1&linkCode=sl2&tag=noya0b-20&linkId=d0bc1852da23c7f65952c3a426c46052&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-05T15:20:24.972Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81uw5loRfKL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0d95rvvmw-prime-of-day-deals-today-2024-prime-of-day-deals-today-prime",
       "asin": "B0D95RVVMW",
@@ -319,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b06y43vyks-amscan-3537001-super-shape-lightning-mcqueen-balloon-toys-ga",
@@ -7554,21 +7569,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0bdsr1bvx-choose-juicy-by-juicy-couture-candle",
-      "asin": "B0BDSR1BVX",
-      "title": "\udecd️Choose Juicy by Juicy Couture Candle",
-      "url": "https://www.amazon.com/dp/B0BDSR1BVX?linkCode=sl2&tag=noya0b-20&linkId=f2e4c4aee3a55f06db7b82486bec372a&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-19T15:24:28.473Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Q5a9KvdNL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12790,6 +12790,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-19T15:16:24.867Z",
       "archivedAt": "2026-10-05T14:30:02.089Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bdsr1bvx-choose-juicy-by-juicy-couture-candle",
+      "asin": "B0BDSR1BVX",
+      "title": "\udecd️Choose Juicy by Juicy Couture Candle",
+      "url": "https://www.amazon.com/dp/B0BDSR1BVX?linkCode=sl2&tag=noya0b-20&linkId=f2e4c4aee3a55f06db7b82486bec372a&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-19T15:24:28.473Z",
+      "archivedAt": "2026-10-05T15:30:02.264Z",
       "status": "archived"
     }
   ]
