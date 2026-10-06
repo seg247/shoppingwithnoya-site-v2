@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-06T17:00:01.850Z",
+  "generatedAt": "2026-10-06T17:10:00.363Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b005ajag00-lavazza-super-crema-whole-bean-coffee-medium-espresso-roast-",
+      "asin": "B005AJAG00",
+      "title": "Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary (Pack of 6) : Roasted Coffee Beans : Grocery & Gourmet Food",
+      "url": "https://www.amazon.com/dp/B005AJAG00?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-10-06T17:01:13.949Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71+9br5OWyL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fwb57qd3-adidas-kids-kaptir-4-0-sneakers",
       "asin": "B0FWB57QD3",
@@ -604,11 +623,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51YYp3PZT1L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0flljbgrn-arlo-essential-indoor-pan-tilt-zoom-security-camera-2k-wired",
@@ -7622,21 +7637,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b07fdl1tw5-skil-corded-multi-function-detail-sander-with-micro-filter-d",
-      "asin": "B07FDL1TW5",
-      "title": "SKIL Corded Multi-Function Detail Sander with Micro-Filter Dust Box 3 Additional Attachments & 12pc Sanding Sheet- SR232",
-      "url": "https://www.amazon.com/dp/B07FDL1TW5/ref=cm_sw_r_as_gl_api_gl_i_dl_06QW1FGXA8KDGKMN1J2P?linkCode=ml1&tag=noya0b-20&linkId=04cfd7ed66ce6538fe68ed59e0fa06a7&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-21T11:20:44.030Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61-CRtBzRkL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13288,6 +13288,16 @@
       "category": "Other",
       "ts": "2026-09-20T18:00:28.231Z",
       "archivedAt": "2026-10-06T16:38:50.887Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b07fdl1tw5-skil-corded-multi-function-detail-sander-with-micro-filter-d",
+      "asin": "B07FDL1TW5",
+      "title": "SKIL Corded Multi-Function Detail Sander with Micro-Filter Dust Box 3 Additional Attachments & 12pc Sanding Sheet- SR232",
+      "url": "https://www.amazon.com/dp/B07FDL1TW5/ref=cm_sw_r_as_gl_api_gl_i_dl_06QW1FGXA8KDGKMN1J2P?linkCode=ml1&tag=noya0b-20&linkId=04cfd7ed66ce6538fe68ed59e0fa06a7&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-21T11:20:44.030Z",
+      "archivedAt": "2026-10-06T17:10:00.363Z",
       "status": "archived"
     }
   ]
