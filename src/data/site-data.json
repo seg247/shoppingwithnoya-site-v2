@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-06T07:40:00.812Z",
+  "generatedAt": "2026-10-06T07:50:01.173Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0djh7lvb4-new-balance-men-s-408-v1-sneakers",
+      "asin": "B0DJH7LVB4",
+      "title": "New Balance Men's 408 V1 Sneakers",
+      "url": "https://www.amazon.com/dp/B0DJH7LVB4/ref=cm_sw_r_as_gl_api_gl_i_dl_QGQ738EZZ8GFZ8GNXN67?linkCode=ml1&tag=noya0b-20&linkId=035573153f3fe882763cd6b55bc211f9&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-10-06T07:40:21.699Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Txqq7iOzL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fqngpwzd-home-sweet-home-front-door-sign-cute-blue-bow-coquette-famil",
       "asin": "B0FQNGPWZD",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0785vxrx2-under-armour-men-s-tech-2-0-short-sleeve-t-shirt-black-001-g",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0f6yz9xw3-adidas-unisex-adult-dame-x-basketball-warm-sandstone-black-l",
-      "asin": "B0F6YZ9XW3",
-      "title": "\udecd️adidas Unisex-Adult Dame X Basketball, Warm Sandstone/Black/Lucid Lemon, 19",
-      "url": "https://www.amazon.com/dp/B0F6YZ9XW3/ref=cm_sw_r_as_gl_api_gl_i_0NE99WXHFZEQMPRYTNE1?linkCode=ml1&tag=noya0b-20&linkId=944aa9b4c9a623d51200f790312c6e34&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-09-19T18:10:27.569Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/612PEI36PRL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12938,6 +12938,16 @@
       "category": "Cleaning Supplies",
       "ts": "2026-09-19T18:08:24.994Z",
       "archivedAt": "2026-10-06T07:30:00.620Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f6yz9xw3-adidas-unisex-adult-dame-x-basketball-warm-sandstone-black-l",
+      "asin": "B0F6YZ9XW3",
+      "title": "\udecd️adidas Unisex-Adult Dame X Basketball, Warm Sandstone/Black/Lucid Lemon, 19",
+      "url": "https://www.amazon.com/dp/B0F6YZ9XW3/ref=cm_sw_r_as_gl_api_gl_i_0NE99WXHFZEQMPRYTNE1?linkCode=ml1&tag=noya0b-20&linkId=944aa9b4c9a623d51200f790312c6e34&gaOptInStatus=true",
+      "category": "Sports & Fitness",
+      "ts": "2026-09-19T18:10:27.569Z",
+      "archivedAt": "2026-10-06T07:50:01.173Z",
       "status": "archived"
     }
   ]
