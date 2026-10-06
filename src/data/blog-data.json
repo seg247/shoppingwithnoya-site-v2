@@ -4,17 +4,41 @@
       "date": "2026-10-05",
       "slug": "2026-10-05",
       "title": "🔥 Best Deals Today — October 5, 2026",
-      "intro": "Today's best online deals for Monday, October 5, 2026 — 10 hand-picked discounts across Other, Garden & Outdoor, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Monday, October 5, 2026 — 10 hand-picked discounts across Grocery & Food, Other, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Grocery & Food",
         "Other",
         "Garden & Outdoor",
         "Home & Kitchen",
         "Tools",
         "Fashion",
-        "Grocery & Food",
         "Baby Care"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B00KE1EB3W",
+            "slug": "skinnypop-original-gluten-free-popcorn-individual-bags-1-oz",
+            "title": "SKINNYPOP Original, Gluten Free Popcorn Individual Bags, 1 oz (12 Count)",
+            "price": "$12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/717P3JDgovL.jpg",
+            "url": "https://www.amazon.com/dp/B00KE1EB3W?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4d542653dbf19dcbb45dc93202b116d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B000YPMKXQ",
+            "slug": "quaker-instant-oatmeal-express-cups-maple-brown-sugar-169-ou",
+            "title": "Quaker Instant Oatmeal Express Cups, Maple & Brown Sugar, 1.69 Ounce (Pack of 12)",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81VmehnmA+L.jpg",
+            "url": "https://www.amazon.com/dp/B000YPMKXQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=ab2ae8abe4bf46054a71287aa4bb3360&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0GPQFC4KL",
@@ -50,17 +74,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/919WoyFBA7L.jpg",
             "url": "https://www.amazon.com/dp/B0G231YB91?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=a282bc06db0deb8443bb51ed5938761e&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CH929RS5",
-            "slug": "amazon-basics-reclosable-double-zipper-sandwich-storage-bags",
-            "title": "Amazon Basics Reclosable Double Zipper Sandwich Storage Bags for Food Storage, BPA Free, 100 Count",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ncxmA43BL.jpg",
-            "url": "https://www.amazon.com/dp/B0CH929RS5?gaOptInStatus=true&ascsubtag=srctok-5fb0d8db3b6b6043&btn_type=pt&btn_ref=srctok-5fb0d8db3b6b6043&th=1&linkCode=sl2&tag=noya0b-20&linkId=675de4bf438cbd460722112921190add&language=en_US&gaOptInStatus=true"
           }
         ],
         "Garden & Outdoor": [
@@ -113,19 +126,6 @@
             "url": "https://www.amazon.com/dp/B0785VXRX2?tag=noya0b-20"
           }
         ],
-        "Grocery & Food": [
-          {
-            "asin": "B000YPMKXQ",
-            "slug": "quaker-instant-oatmeal-express-cups-maple-brown-sugar-169-ou",
-            "title": "Quaker Instant Oatmeal Express Cups, Maple & Brown Sugar, 1.69 Ounce (Pack of 12)",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81VmehnmA+L.jpg",
-            "url": "https://www.amazon.com/dp/B000YPMKXQ?th=1&linkCode=sl2&tag=noya0b-20&linkId=ab2ae8abe4bf46054a71287aa4bb3360&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Baby Care": [
           {
             "asin": "B0DT6H72CS",
@@ -141,6 +141,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B00KE1EB3W",
+          "slug": "skinnypop-original-gluten-free-popcorn-individual-bags-1-oz",
+          "title": "SKINNYPOP Original, Gluten Free Popcorn Individual Bags, 1 oz (12 Count)",
+          "price": "$12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/717P3JDgovL.jpg",
+          "url": "https://www.amazon.com/dp/B00KE1EB3W?th=1&linkCode=sl2&tag=noya0b-20&linkId=c4d542653dbf19dcbb45dc93202b116d&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0GPQFC4KL",
           "slug": "takywep-2-x-8-gal-2-x-30l-kitchen-dual-trash-can-stainless-s",
@@ -239,27 +250,16 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/7143MizjAiL.jpg",
           "url": "https://www.amazon.com/dp/B0D98TZ8K6?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CH929RS5",
-          "slug": "amazon-basics-reclosable-double-zipper-sandwich-storage-bags",
-          "title": "Amazon Basics Reclosable Double Zipper Sandwich Storage Bags for Food Storage, BPA Free, 100 Count",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71ncxmA43BL.jpg",
-          "url": "https://www.amazon.com/dp/B0CH929RS5?gaOptInStatus=true&ascsubtag=srctok-5fb0d8db3b6b6043&btn_type=pt&btn_ref=srctok-5fb0d8db3b6b6043&th=1&linkCode=sl2&tag=noya0b-20&linkId=675de4bf438cbd460722112921190add&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 5, 2026?",
-          "a": "The best deals today include \"Takywep 2 x 8 Gal (2 x 30L) Kitchen Dual Trash Can, Stainles...\" and 9 other hand-picked discounts. Deals span Other, Garden & Outdoor, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"SKINNYPOP Original, Gluten Free Popcorn Individual Bags, 1 o...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Other, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Grocery & Food and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-06T03:00:01.719Z",
-      "updatedAt": "2026-10-06T03:00:01.719Z"
+      "generatedAt": "2026-10-06T03:10:02.433Z",
+      "updatedAt": "2026-10-06T03:10:02.433Z"
     },
     {
       "date": "2026-10-04",
@@ -16202,5 +16202,5 @@
       "updatedAt": "2026-08-08T03:50:01.724Z"
     }
   ],
-  "generatedAt": "2026-10-06T03:00:01.728Z"
+  "generatedAt": "2026-10-06T03:10:02.443Z"
 }
