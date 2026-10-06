@@ -1170,11 +1170,34 @@ const timeAgoSSR = (ts) => {
             <span class="card-meta">${timeAgo(deal.ts)}</span>
           </div>
           <div class="card-actions">
-            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal on Amazon' : 'Check price on Amazon'}: ${displayTitle}">at Amazon ↗</a>
+            <a class="card-cta card-link" href="${url}" target="_blank" rel="noopener sponsored" aria-label="${discount > 0 ? 'Shop deal at ' + retailerName(url, img) : 'Check price at ' + retailerName(url, img)}: ${displayTitle}">at ${retailerName(url, img)} ↗</a>
             <button class="share-btn" data-url="${url}" data-title="${displayTitle}" aria-label="Share deal">Share</button>
           </div>
         </div>
       </article>`;
+    }
+
+    // Name the retailer from the destination URL. Mavely links are affiliate
+    // redirects for Walmart, Target, Ulta and friends, so a hardcoded "Amazon"
+    // on those is a false disclosure. Default to the neutral word when unsure.
+    function retailerName(u, imgUrl) {
+      const s = String(u || '').toLowerCase();
+      if (s.includes('amazon.') || s.includes('amzn.')) return 'Amazon';
+      if (s.includes('walmart.')) return 'Walmart';
+      if (s.includes('target.')) return 'Target';
+      if (s.includes('ulta.')) return 'Ulta';
+      if (s.includes('sephora.')) return 'Sephora';
+      if (s.includes('kohls.')) return "Kohl's";
+      if (s.includes('bestbuy.')) return 'Best Buy';
+      // Mavely links hide the destination behind a redirect, so fall back to
+      // the product image host, which still names the real retailer.
+      const i = String(imgUrl || '').toLowerCase();
+      if (i.includes('walmartimages')) return 'Walmart';
+      if (i.includes('target.scene7') || i.includes('targetimg')) return 'Target';
+      if (i.includes('ulta.com') || i.includes('ultabeauty')) return 'Ulta';
+      if (i.includes('sephora')) return 'Sephora';
+      if (i.includes('media-amazon') || i.includes('ssl-images-amazon')) return 'Amazon';
+      return 'Retailer';
     }
 
     function cleanTitle(title) {
