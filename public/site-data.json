@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-06T07:20:00.491Z",
+  "generatedAt": "2026-10-06T07:30:00.620Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fqngpwzd-home-sweet-home-front-door-sign-cute-blue-bow-coquette-famil",
+      "asin": "B0FQNGPWZD",
+      "title": "Home Sweet Home Front Door Sign, Cute Blue Bow Coquette Family Wood",
+      "url": "https://www.amazon.com/dp/B0FQNGPWZD/ref=cm_sw_r_as_gl_api_gl_i_X30EM4407F3AP6HDM7SP?linkCode=ml1&tag=noya0b-20&linkId=9730d378a49ecff89ec8cc22208ecd68&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-10-06T07:20:35.173Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71AArFauEEL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fl3ym7pf-fuggler-powerpuff-girls-9-inch-plush-toy-mojo-jojo-by-zuru",
       "asin": "B0FL3YM7PF",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41+4pHkfssL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b000ypmkxq-quaker-instant-oatmeal-express-cups-maple-brown-sugar-1-69-o",
@@ -7542,21 +7557,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b074crk54x-amazon-brand-presto-2-ply-ultra-soft-toilet-paper-septic-saf",
-      "asin": "B074CRK54X",
-      "title": "\udecd️Amazon Brand - Presto! 2-Ply Ultra-Soft Toilet Paper, Septic-Safe, 24 Family Mega Rolls = 120 Regular Rolls, 308 Sheet",
-      "url": "https://www.amazon.com/dp/B074CRK54X/ref=cm_sw_r_as_gl_api_gl_i_5M2FYCQV5SVDPETBQJVZ?linkCode=ml1&tag=noya0b-20&linkId=d36e9951d152397b38ce7502340e3838&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-09-19T18:08:24.994Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81G-locBofL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -12928,6 +12928,16 @@
       "category": "Other",
       "ts": "2026-09-19T18:06:23.493Z",
       "archivedAt": "2026-10-06T07:10:01.239Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b074crk54x-amazon-brand-presto-2-ply-ultra-soft-toilet-paper-septic-saf",
+      "asin": "B074CRK54X",
+      "title": "\udecd️Amazon Brand - Presto! 2-Ply Ultra-Soft Toilet Paper, Septic-Safe, 24 Family Mega Rolls = 120 Regular Rolls, 308 Sheet",
+      "url": "https://www.amazon.com/dp/B074CRK54X/ref=cm_sw_r_as_gl_api_gl_i_5M2FYCQV5SVDPETBQJVZ?linkCode=ml1&tag=noya0b-20&linkId=d36e9951d152397b38ce7502340e3838&gaOptInStatus=true",
+      "category": "Cleaning Supplies",
+      "ts": "2026-09-19T18:08:24.994Z",
+      "archivedAt": "2026-10-06T07:30:00.620Z",
       "status": "archived"
     }
   ]
