@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-06T12:20:02.259Z",
+  "generatedAt": "2026-10-06T12:30:00.670Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00d2phnwi-goodsense-nighttime-cold-flu-liquid-cherry-12-fl-oz",
+      "asin": "B00D2PHNWI",
+      "title": "GoodSense Nighttime Cold & Flu Liquid, Cherry, 12 Fl Oz",
+      "url": "https://www.amazon.com/GoodSense-Nighttime-Relief-Cherry-Flavor/dp/B00D2PHNWI?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=0302fb7432d893dc2ef0572a9d1ef728&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-06T12:20:36.511Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61cKFI-kaDL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b097npft8z-grill-cleaner-spray-32-oz-heavy-duty-bbq-degreaser",
       "asin": "B097NPFT8Z",
@@ -319,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dt2ltrl7-beats-powerbeats-pro-2-wireless-noise-cancelling-workout-ear",
@@ -7562,21 +7577,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0013cq20q-sharpie-king-size-permanent-markers-large-chisel-tip-black-4",
-      "asin": "B0013CQ20Q",
-      "title": "Sharpie King Size Permanent Markers, Large Chisel Tip, Black, 4 Count - Office Supplies, Quick Drying, Great for Poster ",
-      "url": "https://www.amazon.com/dp/B0013CQ20Q/ref=cm_sw_r_as_gl_api_gl_i_V7N1QKTTDYHBS5CCC2SB?linkCode=ml1&tag=noya0b-20&linkId=725a1b433c5747f3c8faabb5c0c712ed&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-20T11:00:29.916Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/712Yb+bLLJL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13078,6 +13078,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-20T10:00:22.417Z",
       "archivedAt": "2026-10-06T12:10:00.512Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0013cq20q-sharpie-king-size-permanent-markers-large-chisel-tip-black-4",
+      "asin": "B0013CQ20Q",
+      "title": "Sharpie King Size Permanent Markers, Large Chisel Tip, Black, 4 Count - Office Supplies, Quick Drying, Great for Poster ",
+      "url": "https://www.amazon.com/dp/B0013CQ20Q/ref=cm_sw_r_as_gl_api_gl_i_V7N1QKTTDYHBS5CCC2SB?linkCode=ml1&tag=noya0b-20&linkId=725a1b433c5747f3c8faabb5c0c712ed&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-20T11:00:29.916Z",
+      "archivedAt": "2026-10-06T12:30:00.670Z",
       "status": "archived"
     }
   ]
