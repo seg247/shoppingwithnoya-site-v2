@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-06T21:50:10.795Z",
+  "generatedAt": "2026-10-06T21:51:53.525Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09qv24ffz-ninja-creami-7-in-1-ice-cream-maker-ice-cream-gelato-and-mor",
+      "asin": "B09QV24FFZ",
+      "title": "Ninja CREAMi 7-in-1 Ice Cream Maker, Ice Cream, Gelato and More",
+      "url": "https://www.amazon.com/dp/B09QV24FFZ?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Kitchen",
+      "ts": "2026-10-06T21:51:52.814Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71sfGeMtEgL._AC_SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b010d2jow4-just-my-size-women-s-zip-up-fleece-hoodie-ecosmart-hooded-sw",
       "asin": "B010D2JOW4",
@@ -7734,21 +7753,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00x21nof2-luvable-friends-unisex-baby-hooded-towel-with-five-washcloth",
-      "asin": "B00X21NOF2",
-      "title": "Luvable Friends Unisex Baby Hooded Towel with Five Washcloths, Pink Elephant, One Size",
-      "url": "https://www.amazon.com/dp/B00X21NOF2/ref=cm_sw_r_as_gl_api_gl_i_EH7SSPGQXFYEA492B09J?linkCode=ml1&tag=noya0b-20&linkId=c595ab64221624f04aa7ccd3f2bffce1&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-23T13:40:26.491Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/91SbS81eTZL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13680,6 +13684,16 @@
       "category": "Other",
       "ts": "2026-09-23T13:00:42.599Z",
       "archivedAt": "2026-10-06T21:48:10.475Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00x21nof2-luvable-friends-unisex-baby-hooded-towel-with-five-washcloth",
+      "asin": "B00X21NOF2",
+      "title": "Luvable Friends Unisex Baby Hooded Towel with Five Washcloths, Pink Elephant, One Size",
+      "url": "https://www.amazon.com/dp/B00X21NOF2/ref=cm_sw_r_as_gl_api_gl_i_EH7SSPGQXFYEA492B09J?linkCode=ml1&tag=noya0b-20&linkId=c595ab64221624f04aa7ccd3f2bffce1&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-23T13:40:26.491Z",
+      "archivedAt": "2026-10-06T21:51:53.525Z",
       "status": "archived"
     }
   ]
