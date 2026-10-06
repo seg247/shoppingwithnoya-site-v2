@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-06T11:20:01.932Z",
+  "generatedAt": "2026-10-06T11:30:02.273Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b08rfcq5s9-amazon-basics-7-cube-storage-organizer-bookcase-sturdy-shelv",
+      "asin": "B08RFCQ5S9",
+      "title": "Amazon Basics 7 Cube Storage Organizer Bookcase, Sturdy Shelves, Book Shelf, Espresso, 9.3\"D x 19.5\"W x 41.7\"H",
+      "url": "https://www.amazon.com/dp/B08RFCQ5S9/ref=cm_sw_r_as_gl_api_gl_i_dl_3VFYKFMWMFHE40Y13SNE?linkCode=ml1&tag=noya0b-20&linkId=de21994766b9f2ff1cca7acd2f960406&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-06T11:20:22.133Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41S59MDilGS.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0g3xjm3y9-mikasa-rechargeable-cordless-led-table-lamp-14-8-inch-black",
       "asin": "B0G3XJM3Y9",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51pgNpeKRfL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0hf8p2dwg-bose-ultra-open-earbuds-2nd-gen-open-ear-clip-on-wireless-ea",
@@ -7554,21 +7569,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0gkhwgq9r-newpath-mastering-essential-geometry-skills-kit-grades-5-8-2",
-      "asin": "B0GKHWGQ9R",
-      "title": "NewPath Mastering Essential Geometry Skills Kit - Grades 5-8 (23-9914)",
-      "url": "https://www.amazon.com/dp/B0GKHWGQ9R/ref=cm_sw_r_as_gl_apa_gl_i_TGK3VR8MTQQPQAPRQ223?linkCode=ml1&tag=noya0b-20&linkId=2d0fe3bb75496f58651c599ea6e7da23&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-20T09:00:29.462Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/819bUXLbUVL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13050,6 +13050,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-20T07:40:16.723Z",
       "archivedAt": "2026-10-06T11:10:00.828Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gkhwgq9r-newpath-mastering-essential-geometry-skills-kit-grades-5-8-2",
+      "asin": "B0GKHWGQ9R",
+      "title": "NewPath Mastering Essential Geometry Skills Kit - Grades 5-8 (23-9914)",
+      "url": "https://www.amazon.com/dp/B0GKHWGQ9R/ref=cm_sw_r_as_gl_apa_gl_i_TGK3VR8MTQQPQAPRQ223?linkCode=ml1&tag=noya0b-20&linkId=2d0fe3bb75496f58651c599ea6e7da23&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-20T09:00:29.462Z",
+      "archivedAt": "2026-10-06T11:30:02.273Z",
       "status": "archived"
     }
   ]
