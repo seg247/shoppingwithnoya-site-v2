@@ -6,9 +6,12 @@
   "scope": "/shoppingwithnoya-site-v2/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0A0A0F",
-  "theme_color": "#00D4FF",
-  "categories": ["shopping", "lifestyle"],
+  "background_color": "#1E3A8A",
+  "theme_color": "#1E3A8A",
+  "categories": [
+    "shopping",
+    "lifestyle"
+  ],
   "icons": [
     {
       "src": "/shoppingwithnoya-site-v2/icons/icon-192.png",
@@ -30,7 +33,12 @@
       "short_name": "Deals",
       "description": "Browse the latest Amazon deals",
       "url": "/shoppingwithnoya-site-v2/",
-      "icons": [{ "src": "/shoppingwithnoya-site-v2/icons/icon-192.png", "sizes": "192x192" }]
+      "icons": [
+        {
+          "src": "/shoppingwithnoya-site-v2/icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ]
 }
