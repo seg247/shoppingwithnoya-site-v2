@@ -4,17 +4,41 @@
       "date": "2026-10-07",
       "slug": "2026-10-07",
       "title": "🔥 Best Deals Today — October 7, 2026",
-      "intro": "Today's best online deals for Wednesday, October 7, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, October 7, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Beauty",
         "Grocery & Food",
         "Other",
         "Baby Care",
         "Baby Products",
-        "Beauty",
         "Appliances"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0F3RC4S8Y",
+            "slug": "adidas-power-gym-bag-lightweight-small-duffel-blush-pinkwhit",
+            "title": "adidas Power Gym Bag – Lightweight Small Duffel, Blush Pink/White/Halo Silver Grey, OSFA",
+            "price": "$15",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71pV8GxlJLL.jpg",
+            "url": "https://www.amazon.com/dp/B0F3RC4S8Y/ref=cm_sw_r_as_gl_api_gl_i_dl_DDHRZFQSZNWG4W86HS89?linkCode=ml1&tag=noya0b-20&linkId=80411f99dfb6f9ddd768f2e8586ea9b2&gaOptInStatus=true"
+          },
+          {
+            "asin": "B08HHJNKZV",
+            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
+            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED Light for Home Office Bedroom : Home & Kitchen",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
+            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B00JK04HW8",
@@ -26,17 +50,6 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/71mqBev1p+L.jpg",
             "url": "https://www.amazon.com/dp/B00JK04HW8/ref=cm_sw_r_as_gl_api_gl_i_DHXG3AJZRQ3DMJ81T19Q?linkCode=ml1&tag=noya0b-20&linkId=2be3e7fb12f2c5fb4d8efaeb5e08a8aa&gaOptInStatus=true"
-          },
-          {
-            "asin": "B014ULZPCW",
-            "slug": "chex-mix-muddy-buddies-peanut-butter-chocolate-snack-mix-25",
-            "title": "Chex Mix Muddy Buddies Peanut Butter & Chocolate Snack Mix, 25 ct",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81eL670D9tL.jpg",
-            "url": "https://www.amazon.com/dp/B014ULZPCW/ref=cm_sw_r_as_gl_apa_gl_i_BCXJ01TJKG0M0R8V4PEB?linkCode=ml1&tag=noya0b-20&linkId=2c2875126689c1ee57257810e7cdc14b&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -113,19 +126,6 @@
             "url": "https://www.amazon.com/dp/B01HQLYMU4?tag=noya0b-20"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B08HHJNKZV",
-            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED Light for Home Office Bedroom : Home & Kitchen",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
-          }
-        ],
         "Appliances": [
           {
             "asin": "B0DT6H72CS",
@@ -141,6 +141,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0F3RC4S8Y",
+          "slug": "adidas-power-gym-bag-lightweight-small-duffel-blush-pinkwhit",
+          "title": "adidas Power Gym Bag – Lightweight Small Duffel, Blush Pink/White/Halo Silver Grey, OSFA",
+          "price": "$15",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/71pV8GxlJLL.jpg",
+          "url": "https://www.amazon.com/dp/B0F3RC4S8Y/ref=cm_sw_r_as_gl_api_gl_i_dl_DDHRZFQSZNWG4W86HS89?linkCode=ml1&tag=noya0b-20&linkId=80411f99dfb6f9ddd768f2e8586ea9b2&gaOptInStatus=true"
+        },
         {
           "asin": "B00JK04HW8",
           "slug": "pepperidge-farm-dublin-shortbread-cookies-55-oz-bag",
@@ -239,23 +250,12 @@
           "category": "Appliances",
           "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
           "url": "https://www.amazon.com/dp/B0DT6H72CS?tag=noya0b-20"
-        },
-        {
-          "asin": "B014ULZPCW",
-          "slug": "chex-mix-muddy-buddies-peanut-butter-chocolate-snack-mix-25",
-          "title": "Chex Mix Muddy Buddies Peanut Butter & Chocolate Snack Mix, 25 ct",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81eL670D9tL.jpg",
-          "url": "https://www.amazon.com/dp/B014ULZPCW/ref=cm_sw_r_as_gl_apa_gl_i_BCXJ01TJKG0M0R8V4PEB?linkCode=ml1&tag=noya0b-20&linkId=2c2875126689c1ee57257810e7cdc14b&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 7, 2026?",
-          "a": "The best deals today include \"Pepperidge Farm Dublin Shortbread Cookies, 5.5 Oz Bag...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"adidas Power Gym Bag – Lightweight Small Duffel, Blush Pink/...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T08:40:00.850Z",
-      "updatedAt": "2026-10-07T08:40:00.850Z"
+      "generatedAt": "2026-10-07T08:50:02.565Z",
+      "updatedAt": "2026-10-07T08:50:02.565Z"
     },
     {
       "date": "2026-10-06",
@@ -16208,5 +16208,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T08:40:00.859Z"
+  "generatedAt": "2026-10-07T08:50:02.573Z"
 }

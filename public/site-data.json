@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-07T08:40:00.525Z",
+  "generatedAt": "2026-10-07T08:50:02.228Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0f3rc4s8y-adidas-power-gym-bag-lightweight-small-duffel-blush-pink-whi",
+      "asin": "B0F3RC4S8Y",
+      "title": "adidas Power Gym Bag – Lightweight Small Duffel, Blush Pink/White/Halo Silver Grey, OSFA",
+      "url": "https://www.amazon.com/dp/B0F3RC4S8Y/ref=cm_sw_r_as_gl_api_gl_i_dl_DDHRZFQSZNWG4W86HS89?linkCode=ml1&tag=noya0b-20&linkId=80411f99dfb6f9ddd768f2e8586ea9b2&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-10-07T08:40:35.284Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71pV8GxlJLL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b00jk04hw8-pepperidge-farm-dublin-shortbread-cookies-5-5-oz-bag",
       "asin": "B00JK04HW8",
@@ -376,11 +395,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81aX6fDwNcL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b00ufxhzjq-maxwell-house-ground-coffee-breakfast-blend-mild-roast-11-oz",
@@ -7626,21 +7641,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b001vz8sny-winco-5-1-4-white-plastic-commercial-funnel",
-      "asin": "B001VZ8SNY",
-      "title": "Winco 5 1/4\" White Plastic Commercial Funnel",
-      "url": "https://www.amazon.com/dp/B001VZ8SNY/ref=cm_sw_r_as_gl_api_gl_i_T4CN8AR9H4YM1N1EV62K?linkCode=ml1&tag=noya0b-20&linkId=216d66229fc4af7e83022c0265f44afb&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-25T16:40:28.151Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41y+H5Tl0vL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13882,6 +13882,16 @@
       "category": "Fashion",
       "ts": "2026-09-25T15:40:46.173Z",
       "archivedAt": "2026-10-07T08:10:02.147Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b001vz8sny-winco-5-1-4-white-plastic-commercial-funnel",
+      "asin": "B001VZ8SNY",
+      "title": "Winco 5 1/4\" White Plastic Commercial Funnel",
+      "url": "https://www.amazon.com/dp/B001VZ8SNY/ref=cm_sw_r_as_gl_api_gl_i_T4CN8AR9H4YM1N1EV62K?linkCode=ml1&tag=noya0b-20&linkId=216d66229fc4af7e83022c0265f44afb&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-25T16:40:28.151Z",
+      "archivedAt": "2026-10-07T08:50:02.228Z",
       "status": "archived"
     }
   ]
