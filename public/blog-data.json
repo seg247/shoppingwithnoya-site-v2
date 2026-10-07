@@ -9,10 +9,10 @@
         "Electronics",
         "Grocery & Food",
         "Other",
+        "Health",
         "Smart Home",
         "Garden & Outdoor",
-        "Home & Kitchen",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
@@ -26,6 +26,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0C2WJHQLT",
+            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
           }
         ],
         "Smart Home": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81VC4UGGcVL.jpg",
             "url": "https://www.amazon.com/dp/B0GD5FW54W?gaOptInStatus=true&ascsubtag=srctok-16a6f909db3ccb0f&btn_type=pt&btn_ref=srctok-16a6f909db3ccb0f&th=1&linkCode=sl2&tag=noya0b-20&linkId=e8ac9dc9d86dcd71a99ba038acf84d94&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CQ565795",
-            "slug": "lobeve-no-pull-dog-harness-collar-leash-set-with-travel-acce",
-            "title": "LOBEVE No Pull Dog Harness, Collar & Leash Set with Travel Accessories | Includes Dog Seat Belt, Collapsible Bowls & Poop Bag Dispenser. Ideal for Training, Walking, Hiking. Fits Small to Large Dogs",
-            "price": "$22.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
-            "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -151,6 +151,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C2WJHQLT",
+          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
         },
         {
           "asin": "B0CL9C4PYT",
@@ -239,17 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81VC4UGGcVL.jpg",
           "url": "https://www.amazon.com/dp/B0GD5FW54W?gaOptInStatus=true&ascsubtag=srctok-16a6f909db3ccb0f&btn_type=pt&btn_ref=srctok-16a6f909db3ccb0f&th=1&linkCode=sl2&tag=noya0b-20&linkId=e8ac9dc9d86dcd71a99ba038acf84d94&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CQ565795",
-          "slug": "lobeve-no-pull-dog-harness-collar-leash-set-with-travel-acce",
-          "title": "LOBEVE No Pull Dog Harness, Collar & Leash Set with Travel Accessories | Includes Dog Seat Belt, Collapsible Bowls & Poop Bag Dispenser. Ideal for Training, Walking, Hiking. Fits Small to Large Dogs",
-          "price": "$22.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
-          "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T23:00:02.007Z",
-      "updatedAt": "2026-10-07T23:00:02.007Z"
+      "generatedAt": "2026-10-07T23:10:01.738Z",
+      "updatedAt": "2026-10-07T23:10:01.738Z"
     },
     {
       "date": "2026-10-06",
@@ -16208,5 +16208,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T23:00:02.015Z"
+  "generatedAt": "2026-10-07T23:10:01.747Z"
 }
