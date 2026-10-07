@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-07T12:10:02.217Z",
+  "generatedAt": "2026-10-07T12:10:44.431Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b003y12a28-oreo-chocolate-sandwich-cookie-pieces-4-x-2-5-lb-bags",
+      "asin": "B003Y12A28",
+      "title": "OREO Chocolate Sandwich Cookie Pieces, 4 x 2.5 lb Bags",
+      "url": "https://www.amazon.com/dp/B003Y12A28?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-07T12:10:43.763Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81D57ybg2lL._SL1500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b083z423zv-creativity-for-kids-mini-garden-dinosaur",
       "asin": "B083Z423ZV",
@@ -7630,21 +7649,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0f43k66dx-hilomon-mens-duffle-bag-45l-expandable-gym-bags-carry-on-tra",
-      "asin": "B0F43K66DX",
-      "title": "HILOMON Mens Duffle Bag 45L Expandable GYM Bags Carry-on Travel Bag",
-      "url": "https://www.amazon.com/dp/B0F43K66DX/ref=cm_sw_r_as_gl_api_gl_i_dl_RQ4995XSFEF12CSMV0JV?linkCode=ml1&tag=noya0b-20&linkId=cd1bd59b8663eb2379c833e0b15443c5&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-09-26T13:00:32.017Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81+HJ04mbHL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13976,6 +13980,16 @@
       "category": "Other",
       "ts": "2026-09-26T11:40:23.635Z",
       "archivedAt": "2026-10-07T12:05:46.772Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f43k66dx-hilomon-mens-duffle-bag-45l-expandable-gym-bags-carry-on-tra",
+      "asin": "B0F43K66DX",
+      "title": "HILOMON Mens Duffle Bag 45L Expandable GYM Bags Carry-on Travel Bag",
+      "url": "https://www.amazon.com/dp/B0F43K66DX/ref=cm_sw_r_as_gl_api_gl_i_dl_RQ4995XSFEF12CSMV0JV?linkCode=ml1&tag=noya0b-20&linkId=cd1bd59b8663eb2379c833e0b15443c5&gaOptInStatus=true",
+      "category": "Sports & Fitness",
+      "ts": "2026-09-26T13:00:32.017Z",
+      "archivedAt": "2026-10-07T12:10:44.431Z",
       "status": "archived"
     }
   ]

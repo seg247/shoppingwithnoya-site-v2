@@ -9,12 +9,25 @@
         "Home & Kitchen",
         "Beauty",
         "Fashion",
+        "Grocery & Food",
         "Toys & Kids",
         "Cleaning Supplies",
-        "Garden & Outdoor",
-        "Men's Fashion"
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B003Y12A28",
+            "slug": "oreo-chocolate-sandwich-cookie-pieces-4-x-25-lb-bags",
+            "title": "OREO Chocolate Sandwich Cookie Pieces, 4 x 2.5 lb Bags",
+            "price": "$33.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81D57ybg2lL._SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B003Y12A28?tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B083Z423ZV",
@@ -125,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/91ua-vCw0hL.jpg",
             "url": "https://www.amazon.com/dp/B083Z423ZV/ref=cm_sw_r_as_gl_api_gl_i_QG0MVT9MA0MK8N2M032N?linkCode=ml1&tag=noya0b-20&linkId=dc33b89e813a22e7c1d20256a11e44de&gaOptInStatus=true"
           }
-        ],
-        "Men's Fashion": [
-          {
-            "asin": "B0DT6H72CS",
-            "slug": "gauze-blouse-for-womendiscount-codes-for-todayclearance-item",
-            "title": "gauze blouse for women,discount codes for today,clearance items only,archives orders in my account,clearance outlet,my latest orders placed,deals and coupons,sales today clearance coupons for discount at Amazon Women’s Clothing store",
-            "price": "$6.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Men's Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
-            "url": "https://www.amazon.com/dp/B0DT6H72CS?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B003Y12A28",
+          "slug": "oreo-chocolate-sandwich-cookie-pieces-4-x-25-lb-bags",
+          "title": "OREO Chocolate Sandwich Cookie Pieces, 4 x 2.5 lb Bags",
+          "price": "$33.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81D57ybg2lL._SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B003Y12A28?tag=noya0b-20"
+        },
         {
           "asin": "B083Z423ZV",
           "slug": "creativity-for-kids-mini-garden-dinosaur",
@@ -239,23 +250,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/91ua-vCw0hL.jpg",
           "url": "https://www.amazon.com/dp/B083Z423ZV/ref=cm_sw_r_as_gl_api_gl_i_QG0MVT9MA0MK8N2M032N?linkCode=ml1&tag=noya0b-20&linkId=dc33b89e813a22e7c1d20256a11e44de&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DT6H72CS",
-          "slug": "gauze-blouse-for-womendiscount-codes-for-todayclearance-item",
-          "title": "gauze blouse for women,discount codes for today,clearance items only,archives orders in my account,clearance outlet,my latest orders placed,deals and coupons,sales today clearance coupons for discount at Amazon Women’s Clothing store",
-          "price": "$6.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Men's Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
-          "url": "https://www.amazon.com/dp/B0DT6H72CS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 7, 2026?",
-          "a": "The best deals today include \"Creativity for Kids Mini Garden: Dinosaur...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Fashion and are updated daily."
+          "a": "The best deals today include \"OREO Chocolate Sandwich Cookie Pieces, 4 x 2.5 lb Bags...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T12:10:02.547Z",
-      "updatedAt": "2026-10-07T12:10:02.547Z"
+      "generatedAt": "2026-10-07T12:10:44.764Z",
+      "updatedAt": "2026-10-07T12:10:44.764Z"
     },
     {
       "date": "2026-10-06",
@@ -16208,5 +16208,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T12:10:02.556Z"
+  "generatedAt": "2026-10-07T12:10:44.774Z"
 }
