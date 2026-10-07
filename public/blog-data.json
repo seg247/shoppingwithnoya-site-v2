@@ -9,12 +9,25 @@
         "Home & Kitchen",
         "Beauty",
         "Fashion",
+        "Toys & Kids",
         "Cleaning Supplies",
         "Garden & Outdoor",
-        "Men's Fashion",
-        "Other"
+        "Men's Fashion"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B083Z423ZV",
+            "slug": "creativity-for-kids-mini-garden-dinosaur",
+            "title": "Creativity for Kids Mini Garden: Dinosaur",
+            "price": "$5.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/91ua-vCw0hL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.com/dp/B083Z423ZV?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0C15LRNSX",
@@ -125,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
             "url": "https://www.amazon.com/dp/B0DT6H72CS?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0D19HR16H",
-            "slug": "sharpie-school-supplies-variety-pack-my-first-all-in-one-pac",
-            "title": "Sharpie School Supplies Variety Pack, My First All in One Pack, Expo, Paper Mate, Elmer’s Glue Sticks, Pourable Glue, Pe",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/816hvjfaWML.jpg",
-            "url": "https://www.amazon.com/dp/B0D19HR16H/ref=cm_sw_r_as_gl_api_gl_i_SQZEDW6BED90XJY2P20Z?linkCode=ml1&tag=noya0b-20&linkId=46b1e6cf8ed34c7a6dd3c96210924df1&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B083Z423ZV",
+          "slug": "creativity-for-kids-mini-garden-dinosaur",
+          "title": "Creativity for Kids Mini Garden: Dinosaur",
+          "price": "$5.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/91ua-vCw0hL._AC_SL1500_.jpg",
+          "url": "https://www.amazon.com/dp/B083Z423ZV?tag=noya0b-20"
+        },
         {
           "asin": "B0C15LRNSX",
           "slug": "bentgo-kids-prints-leak-proof-5-compartment-bento-lunch-box",
@@ -239,23 +250,12 @@
           "category": "Men's Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
           "url": "https://www.amazon.com/dp/B0DT6H72CS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D19HR16H",
-          "slug": "sharpie-school-supplies-variety-pack-my-first-all-in-one-pac",
-          "title": "Sharpie School Supplies Variety Pack, My First All in One Pack, Expo, Paper Mate, Elmer’s Glue Sticks, Pourable Glue, Pe",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/816hvjfaWML.jpg",
-          "url": "https://www.amazon.com/dp/B0D19HR16H/ref=cm_sw_r_as_gl_api_gl_i_SQZEDW6BED90XJY2P20Z?linkCode=ml1&tag=noya0b-20&linkId=46b1e6cf8ed34c7a6dd3c96210924df1&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 7, 2026?",
-          "a": "The best deals today include \"Bentgo Kids Prints Leak-Proof 5-Compartment Bento Lunch Box...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Fashion and are updated daily."
+          "a": "The best deals today include \"Creativity for Kids Mini Garden: Dinosaur...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T12:05:45.817Z",
-      "updatedAt": "2026-10-07T12:05:45.817Z"
+      "generatedAt": "2026-10-07T12:08:25.511Z",
+      "updatedAt": "2026-10-07T12:08:25.512Z"
     },
     {
       "date": "2026-10-06",
@@ -16208,5 +16208,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T12:05:45.826Z"
+  "generatedAt": "2026-10-07T12:08:25.525Z"
 }
