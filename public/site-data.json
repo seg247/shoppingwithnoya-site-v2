@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-07T09:40:01.806Z",
+  "generatedAt": "2026-10-07T09:50:01.355Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dd5kh275-pepperidge-farm-milano-white-chocolate-strawberry-flavored-c",
+      "asin": "B0DD5KH275",
+      "title": "Pepperidge Farm Milano White Chocolate Strawberry Flavored Cookies, 7 Oz",
+      "url": "https://www.amazon.com/dp/B0DD5KH275/ref=cm_sw_r_as_gl_api_gl_i_G7FTMZBDK4ZHH69MVK1W?linkCode=ml1&tag=noya0b-20&linkId=9d17cd8870a1560f0cfff77e1dc984f5&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-07T09:40:34.453Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71gxkGSg6-L.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0dy15z25v-14pcs-purple-cup-accessories-for-stanley-cup-30oz-40oz-tumbl",
       "asin": "B0DY15Z25V",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61kXxe7-wNL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0gfpzz6xv-starface-hydro-star-holographic-hydrocolloid-star-pimple-pat",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0h2n5symp-food-storage-bowls-with-lids-set-of-4-plastic-nesting-salad-",
-      "asin": "B0H2N5SYMP",
-      "title": "\udecd️Food Storage Bowls with Lids Set of 4 – Plastic Nesting Salad Bowls, Microwaveable, BPA-Free",
-      "url": "https://www.amazon.com/dp/B0H2N5SYMP?th=1&linkCode=sl2&tag=noya0b-20&linkId=0d478ad8236a5b48d9b1f5b123e5666f&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-25T18:00:49.381Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Nd+7sxujL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11165,16 +11165,6 @@
       "status": "archived"
     },
     {
-      "slug": "b0dd5kh275-pepperidge-farm-milano-white-chocolate-strawberry-flavored-c",
-      "asin": "B0DD5KH275",
-      "title": "Pepperidge Farm Milano White Chocolate Strawberry Flavored Cookies, 7 Oz",
-      "url": "https://www.amazon.com/dp/B0DD5KH275/ref=cm_sw_r_as_gl_api_gl_i_Y8XJMK1BXP6ABZP7ZFZ4?linkCode=ml1&tag=noya0b-20&linkId=bb10e31cbd7330e3445e4f42f5cef710&gaOptInStatus=true",
-      "category": "Grocery & Food",
-      "ts": "2026-09-16T10:24:21.909Z",
-      "archivedAt": "2026-10-01T02:30:03.549Z",
-      "status": "archived"
-    },
-    {
       "slug": "b0ddcpcn3v-nature-s-truth-lion-s-mane-gummies-for-adults-60-count-mixed",
       "asin": "B0DDCPCN3V",
       "title": "Nature's Truth Lion's Mane Gummies for Adults | 60 Count Mixed Berry Flavor | Vegan, Non-GMO, & Gluten Free Supplement",
@@ -13882,6 +13872,16 @@
       "category": "Fashion",
       "ts": "2026-09-25T17:40:39.141Z",
       "archivedAt": "2026-10-07T09:10:02.121Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0h2n5symp-food-storage-bowls-with-lids-set-of-4-plastic-nesting-salad-",
+      "asin": "B0H2N5SYMP",
+      "title": "\udecd️Food Storage Bowls with Lids Set of 4 – Plastic Nesting Salad Bowls, Microwaveable, BPA-Free",
+      "url": "https://www.amazon.com/dp/B0H2N5SYMP?th=1&linkCode=sl2&tag=noya0b-20&linkId=0d478ad8236a5b48d9b1f5b123e5666f&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-25T18:00:49.381Z",
+      "archivedAt": "2026-10-07T09:50:01.355Z",
       "status": "archived"
     }
   ]

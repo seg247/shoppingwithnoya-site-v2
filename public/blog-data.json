@@ -4,16 +4,40 @@
       "date": "2026-10-07",
       "slug": "2026-10-07",
       "title": "🔥 Best Deals Today — October 7, 2026",
-      "intro": "Today's best online deals for Wednesday, October 7, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, October 7, 2026 — 10 hand-picked discounts across Home & Kitchen, Grocery & Food, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Grocery & Food",
         "Other",
         "Beauty",
-        "Grocery & Food",
         "Baby Care",
         "Baby Products"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0DD5KH275",
+            "slug": "pepperidge-farm-milano-white-chocolate-strawberry-flavored-c",
+            "title": "Pepperidge Farm Milano White Chocolate Strawberry Flavored Cookies, 7 Oz",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71gxkGSg6-L.jpg",
+            "url": "https://www.amazon.com/dp/B0DD5KH275/ref=cm_sw_r_as_gl_api_gl_i_G7FTMZBDK4ZHH69MVK1W?linkCode=ml1&tag=noya0b-20&linkId=9d17cd8870a1560f0cfff77e1dc984f5&gaOptInStatus=true"
+          },
+          {
+            "asin": "B00JK04HW8",
+            "slug": "pepperidge-farm-dublin-shortbread-cookies-55-oz-bag",
+            "title": "Pepperidge Farm Dublin Shortbread Cookies, 5.5 Oz Bag",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71mqBev1p+L.jpg",
+            "url": "https://www.amazon.com/dp/B00JK04HW8/ref=cm_sw_r_as_gl_api_gl_i_DHXG3AJZRQ3DMJ81T19Q?linkCode=ml1&tag=noya0b-20&linkId=2be3e7fb12f2c5fb4d8efaeb5e08a8aa&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0DY15Z25V",
@@ -49,30 +73,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71pV8GxlJLL.jpg",
             "url": "https://www.amazon.com/dp/B0F3RC4S8Y/ref=cm_sw_r_as_gl_api_gl_i_dl_DDHRZFQSZNWG4W86HS89?linkCode=ml1&tag=noya0b-20&linkId=80411f99dfb6f9ddd768f2e8586ea9b2&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08HHJNKZV",
-            "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-            "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED Light for Home Office Bedroom : Home & Kitchen",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-            "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
-          }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00JK04HW8",
-            "slug": "pepperidge-farm-dublin-shortbread-cookies-55-oz-bag",
-            "title": "Pepperidge Farm Dublin Shortbread Cookies, 5.5 Oz Bag",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71mqBev1p+L.jpg",
-            "url": "https://www.amazon.com/dp/B00JK04HW8/ref=cm_sw_r_as_gl_api_gl_i_DHXG3AJZRQ3DMJ81T19Q?linkCode=ml1&tag=noya0b-20&linkId=2be3e7fb12f2c5fb4d8efaeb5e08a8aa&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0DD5KH275",
+          "slug": "pepperidge-farm-milano-white-chocolate-strawberry-flavored-c",
+          "title": "Pepperidge Farm Milano White Chocolate Strawberry Flavored Cookies, 7 Oz",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71gxkGSg6-L.jpg",
+          "url": "https://www.amazon.com/dp/B0DD5KH275/ref=cm_sw_r_as_gl_api_gl_i_G7FTMZBDK4ZHH69MVK1W?linkCode=ml1&tag=noya0b-20&linkId=9d17cd8870a1560f0cfff77e1dc984f5&gaOptInStatus=true"
+        },
         {
           "asin": "B0DY15Z25V",
           "slug": "14pcs-purple-cup-accessories-for-stanley-cup-30oz-40oz-tumbl",
@@ -236,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/41fVlf8ZJyL.jpg",
           "url": "https://www.amazon.com/dp/B0CJZW65R3?tag=noya0b-20"
-        },
-        {
-          "asin": "B08HHJNKZV",
-          "slug": "portable-air-conditioner-fan-spray-humidification-3-in-1-air",
-          "title": "Portable Air Conditioner Fan, Spray humidification, 3 in 1 Air Cooler | Humidifier | Purifier,with 3 Speeds 7 Colors LED Light for Home Office Bedroom : Home & Kitchen",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71oZ-mcr4hL.jpg",
-          "url": "https://www.amazon.com/dp/B08HHJNKZV?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 7, 2026?",
-          "a": "The best deals today include \"14PCS Purple Cup Accessories for Stanley Cup 30oz 40oz Tumbl...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Pepperidge Farm Milano White Chocolate Strawberry Flavored C...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T09:40:02.156Z",
-      "updatedAt": "2026-10-07T09:40:02.156Z"
+      "generatedAt": "2026-10-07T09:50:01.662Z",
+      "updatedAt": "2026-10-07T09:50:01.663Z"
     },
     {
       "date": "2026-10-06",
@@ -16205,5 +16205,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T09:40:02.164Z"
+  "generatedAt": "2026-10-07T09:50:01.670Z"
 }
