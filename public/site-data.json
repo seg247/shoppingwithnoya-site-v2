@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-07T10:40:01.406Z",
+  "generatedAt": "2026-10-07T10:50:01.438Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0d19hr16h-sharpie-school-supplies-variety-pack-my-first-all-in-one-pac",
+      "asin": "B0D19HR16H",
+      "title": "Sharpie School Supplies Variety Pack, My First All in One Pack, Expo, Paper Mate, Elmer’s Glue Sticks, Pourable Glue, Pe",
+      "url": "https://www.amazon.com/dp/B0D19HR16H/ref=cm_sw_r_as_gl_api_gl_i_SQZEDW6BED90XJY2P20Z?linkCode=ml1&tag=noya0b-20&linkId=46b1e6cf8ed34c7a6dd3c96210924df1&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Office & Stationery",
+      "ts": "2026-10-07T10:40:29.454Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/816hvjfaWML.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0041529qi-leading-lady-brigitte-full-coverage-wireless-bra-molded-padd",
       "asin": "B0041529QI",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81eL670D9tL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0d1v3ldd3-ice-blanket-for-all-season-lightweight-cool-cotton-size-blan",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0h7fdbnsb-pok-mon-tcg-30th-celebration-knock-out-collection",
-      "asin": "B0H7FDBNSB",
-      "title": "Pokémon TCG: 30th Celebration Knock Out Collection",
-      "url": "https://www.amazon.com/dp/B0H7FDBNSB/ref=cm_sw_r_as_gl_api_gl_i_ERWF57XHDHRNSQ4SQAVA?linkCode=ml1&tag=noya0b-20&linkId=47789c18e8576abc53fcc4f7addbeb49&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Gaming",
-      "ts": "2026-09-25T20:00:22.741Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71j4bKRdhRL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -13892,6 +13892,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-25T19:21:02.289Z",
       "archivedAt": "2026-10-07T10:30:02.205Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0h7fdbnsb-pok-mon-tcg-30th-celebration-knock-out-collection",
+      "asin": "B0H7FDBNSB",
+      "title": "Pokémon TCG: 30th Celebration Knock Out Collection",
+      "url": "https://www.amazon.com/dp/B0H7FDBNSB/ref=cm_sw_r_as_gl_api_gl_i_ERWF57XHDHRNSQ4SQAVA?linkCode=ml1&tag=noya0b-20&linkId=47789c18e8576abc53fcc4f7addbeb49&gaOptInStatus=true",
+      "category": "Gaming",
+      "ts": "2026-09-25T20:00:22.741Z",
+      "archivedAt": "2026-10-07T10:50:01.438Z",
       "status": "archived"
     }
   ]
