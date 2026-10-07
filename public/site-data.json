@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-07T16:50:01.768Z",
+  "generatedAt": "2026-10-07T17:10:01.882Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01890o0k8-pepperidge-farm-assorted-collection-of-9-classic-cookies-13-",
+      "asin": "B01890O0K8",
+      "title": "Pepperidge Farm Assorted Collection of 9 Classic Cookies, 13.25 Oz",
+      "url": "https://www.amazon.com/dp/B01890O0K8?ie=UTF8&ascsubtag=4d9c4b96c26f11f1893ed24c97a3c4e60INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=95f874b95d372eea7d09274d5384034c&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-07T17:00:35.915Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81kAMh7IstL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fsbhs4rj-acer-27in-fhd-1920x1080-ips-144hz-gaming-office-monitor-kb27",
       "asin": "B0FSBHS4RJ",
@@ -528,11 +547,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61FASKiynHL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0d19hr16h-sharpie-school-supplies-variety-pack-my-first-all-in-one-pac",
@@ -7658,21 +7673,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0dk212n75-sponges-kitchen-natural-dish-sponge-plant-based-biodegradabl",
-      "asin": "B0DK212N75",
-      "title": "\udecd️Sponges Kitchen Natural Dish Sponge Plant-Based Biodegradable Compostable",
-      "url": "https://amazon.com/dp/B0DK212N75?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Cleaning Supplies",
-      "ts": "2026-09-27T14:20:40.919Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81aF6UBGviL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14134,6 +14134,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-27T12:20:21.713Z",
       "archivedAt": "2026-10-07T16:30:03.399Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dk212n75-sponges-kitchen-natural-dish-sponge-plant-based-biodegradabl",
+      "asin": "B0DK212N75",
+      "title": "\udecd️Sponges Kitchen Natural Dish Sponge Plant-Based Biodegradable Compostable",
+      "url": "https://amazon.com/dp/B0DK212N75?tag=noya0b-20",
+      "category": "Cleaning Supplies",
+      "ts": "2026-09-27T14:20:40.919Z",
+      "archivedAt": "2026-10-07T17:10:01.882Z",
       "status": "archived"
     }
   ]
