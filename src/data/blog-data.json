@@ -12,8 +12,7 @@
         "Home & Kitchen",
         "Fashion",
         "Tools",
-        "Garden & Outdoor",
-        "Sports"
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Other": [
@@ -52,6 +51,17 @@
           }
         ],
         "Grocery & Food": [
+          {
+            "asin": "B0HFPYVQ4M",
+            "slug": "11xx-sprite-lemon-lime-soda-soft-drink-bottles-169-fl-oz-15",
+            "title": "$11.xx Sprite Lemon-Lime Soda Soft Drink Bottles, 16.9 fl oz, 15 bottles",
+            "price": "$11",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71OJGcZEzrL.jpg",
+            "url": "https://www.amazon.com/dp/B0HFPYVQ4M?th=1&linkCode=sl2&tag=noya0b-20&linkId=86a910c8b231806b04d0945d0a0579a8&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0GZQYQ4WS",
             "slug": "toymendous-laffy-snacks-squishy-banana-stress-toy-ages-3",
@@ -128,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
             "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B0DS6JLDQ5",
-            "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
-            "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Equipment by Wakeman (Black) : Sports & Outdoors",
-            "price": "$20.31",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
-            "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -154,6 +151,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20"
+        },
+        {
+          "asin": "B0HFPYVQ4M",
+          "slug": "11xx-sprite-lemon-lime-soda-soft-drink-bottles-169-fl-oz-15",
+          "title": "$11.xx Sprite Lemon-Lime Soda Soft Drink Bottles, 16.9 fl oz, 15 bottles",
+          "price": "$11",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/71OJGcZEzrL.jpg",
+          "url": "https://www.amazon.com/dp/B0HFPYVQ4M?th=1&linkCode=sl2&tag=noya0b-20&linkId=86a910c8b231806b04d0945d0a0579a8&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0GZQYQ4WS",
@@ -242,17 +250,6 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
           "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DS6JLDQ5",
-          "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
-          "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Equipment by Wakeman (Black) : Sports & Outdoors",
-          "price": "$20.31",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
-          "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T21:00:02.456Z",
-      "updatedAt": "2026-10-07T21:00:02.456Z"
+      "generatedAt": "2026-10-07T21:10:02.040Z",
+      "updatedAt": "2026-10-07T21:10:02.040Z"
     },
     {
       "date": "2026-10-06",
@@ -16211,5 +16208,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T21:00:02.464Z"
+  "generatedAt": "2026-10-07T21:10:02.049Z"
 }
