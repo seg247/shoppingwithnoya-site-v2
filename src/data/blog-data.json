@@ -9,6 +9,7 @@
         "Electronics",
         "Grocery & Food",
         "Other",
+        "Home & Kitchen",
         "Grocery",
         "Health",
         "Smart Home",
@@ -26,6 +27,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B092VNYHZW",
+            "slug": "amazon-basics-flextra-tall-kitchen-drawstring-trash-bags-13",
+            "title": "Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags, 13 Gallon, 50 Count, Tear-Resistant, Unscented",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vgSk-ERRL.jpg",
+            "url": "https://www.amazon.com/dp/B092VNYHZW?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=86434d82b50b394775bb944196d402f7&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery": [
@@ -89,17 +103,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL.jpg",
             "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CBVFXTH9",
-            "slug": "acrotor-dash-cam-mountuniversal-car-camera-mount-phone-holde",
-            "title": "ACROTOR Dash Cam Mount,Universal Car Camera Mount Phone Holder",
-            "price": "$34.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ruy-r9f0L.jpg",
-            "url": "https://www.amazon.com/dp/B0CBVFXTH9?tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
@@ -151,6 +154,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20"
+        },
+        {
+          "asin": "B092VNYHZW",
+          "slug": "amazon-basics-flextra-tall-kitchen-drawstring-trash-bags-13",
+          "title": "Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags, 13 Gallon, 50 Count, Tear-Resistant, Unscented",
+          "price": "$5",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61vgSk-ERRL.jpg",
+          "url": "https://www.amazon.com/dp/B092VNYHZW?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=86434d82b50b394775bb944196d402f7&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B01M97YEVN",
@@ -239,17 +253,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/51B4OPPyKbL.jpg",
           "url": "https://www.amazon.com/dp/B0GZQYQ4WS?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=09d9b53e979a7965b0210dfe6dd5b066&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CBVFXTH9",
-          "slug": "acrotor-dash-cam-mountuniversal-car-camera-mount-phone-holde",
-          "title": "ACROTOR Dash Cam Mount,Universal Car Camera Mount Phone Holder",
-          "price": "$34.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ruy-r9f0L.jpg",
-          "url": "https://www.amazon.com/dp/B0CBVFXTH9?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-07T23:40:02.275Z",
-      "updatedAt": "2026-10-07T23:40:02.275Z"
+      "generatedAt": "2026-10-07T23:50:02.315Z",
+      "updatedAt": "2026-10-07T23:50:02.315Z"
     },
     {
       "date": "2026-10-06",
@@ -16208,5 +16211,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-07T23:40:02.286Z"
+  "generatedAt": "2026-10-07T23:50:02.325Z"
 }

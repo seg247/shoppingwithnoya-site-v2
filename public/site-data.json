@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-07T23:40:01.906Z",
+  "generatedAt": "2026-10-07T23:50:01.960Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b092vnyhzw-amazon-basics-flextra-tall-kitchen-drawstring-trash-bags-13-",
+      "asin": "B092VNYHZW",
+      "title": "Amazon Basics Flextra Tall Kitchen Drawstring Trash Bags, 13 Gallon, 50 Count, Tear-Resistant, Unscented",
+      "url": "https://www.amazon.com/dp/B092VNYHZW?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=86434d82b50b394775bb944196d402f7&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Cleaning Supplies",
+      "ts": "2026-10-07T23:40:43.177Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61vgSk-ERRL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b01m97yevn-coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
       "asin": "B01M97YEVN",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0ds6jldq5-yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
@@ -7610,21 +7625,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b087gpy58p-rayovac-ultra-pro-alkaline-aaa-batteries",
-      "asin": "B087GPY58P",
-      "title": "Rayovac Ultra Pro Alkaline AAA Batteries",
-      "url": "https://www.amazon.com/dp/B087GPY58P?psc=1&linkCode=sl2&tag=noya0b-20&linkId=33674e4ce23e9cdce1d70a414800f72e&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-28T03:00:31.990Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71oavlNT-oL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14146,6 +14146,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-28T01:01:10.385Z",
       "archivedAt": "2026-10-07T23:30:02.259Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b087gpy58p-rayovac-ultra-pro-alkaline-aaa-batteries",
+      "asin": "B087GPY58P",
+      "title": "Rayovac Ultra Pro Alkaline AAA Batteries",
+      "url": "https://www.amazon.com/dp/B087GPY58P?psc=1&linkCode=sl2&tag=noya0b-20&linkId=33674e4ce23e9cdce1d70a414800f72e&language=en_US&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-28T03:00:31.990Z",
+      "archivedAt": "2026-10-07T23:50:01.960Z",
       "status": "archived"
     }
   ]
