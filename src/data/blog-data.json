@@ -9,9 +9,9 @@
         "Other",
         "Beauty",
         "Health",
+        "Grocery & Food",
         "Home & Kitchen",
-        "Grocery",
-        "Smart Home"
+        "Grocery"
       ],
       "byCategory": {
         "Other": [
@@ -47,6 +47,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51myfKZw-7L.jpg",
             "url": "https://www.amazon.com/gp/product/B074VDGJ8Z?ie=UTF8&ascsubtag=72f9a5c4c2aa11f1bf2092eec6aba0950INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6f5a3f5250d6ea0398340ca900245e1&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B01N7LVABX",
+            "slug": "nature-valley-peanut-butter-biscuit-sandwiches-10-ct-135-oz",
+            "title": "Nature Valley Peanut Butter Biscuit Sandwiches, 10 ct, 13.5 oz",
+            "price": "$4",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81km-wdefGL.jpg",
+            "url": "https://www.amazon.com/gp/product/B01N7LVABX?ie=UTF8&ascsubtag=bb0f5968c2bd11f1b15246e9263c035e0INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1565382d1bd4341e17d7e041d49a00ab&language=en_US&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
             "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
           }
-        ],
-        "Smart Home": [
-          {
-            "asin": "B0CL9C4PYT",
-            "slug": "amazon-basics-smart-plug-matter-compatible-compatible-with-a",
-            "title": "Amazon Basics Smart Plug, Matter Compatible, Compatible with Amazon Alexa, Google Home, Apple HomeKit, Voice Control, Control Appliances, Matter Hub Required, 2.4 GHz Wi-Fi Only, 1-Pack, White",
-            "price": "$10.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Smart Home",
-            "imageUrl": "https://m.media-amazon.com/images/I/61UGjLBP2VL.jpg",
-            "url": "https://www.amazon.com/dp/B0CL9C4PYT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,17 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0GT2DG9SK?tag=noya0b-20"
+        },
+        {
+          "asin": "B01N7LVABX",
+          "slug": "nature-valley-peanut-butter-biscuit-sandwiches-10-ct-135-oz",
+          "title": "Nature Valley Peanut Butter Biscuit Sandwiches, 10 ct, 13.5 oz",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81km-wdefGL.jpg",
+          "url": "https://www.amazon.com/gp/product/B01N7LVABX?ie=UTF8&ascsubtag=bb0f5968c2bd11f1b15246e9263c035e0INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=1565382d1bd4341e17d7e041d49a00ab&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B00F97FHAW",
@@ -236,17 +247,6 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
           "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CL9C4PYT",
-          "slug": "amazon-basics-smart-plug-matter-compatible-compatible-with-a",
-          "title": "Amazon Basics Smart Plug, Matter Compatible, Compatible with Amazon Alexa, Google Home, Apple HomeKit, Voice Control, Control Appliances, Matter Hub Required, 2.4 GHz Wi-Fi Only, 1-Pack, White",
-          "price": "$10.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Smart Home",
-          "imageUrl": "https://m.media-amazon.com/images/I/61UGjLBP2VL.jpg",
-          "url": "https://www.amazon.com/dp/B0CL9C4PYT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-08T02:20:01.973Z",
-      "updatedAt": "2026-10-08T02:20:01.973Z"
+      "generatedAt": "2026-10-08T02:30:01.906Z",
+      "updatedAt": "2026-10-08T02:30:01.906Z"
     },
     {
       "date": "2026-10-06",
@@ -16205,5 +16205,5 @@
       "updatedAt": "2026-08-10T03:50:01.592Z"
     }
   ],
-  "generatedAt": "2026-10-08T02:20:01.982Z"
+  "generatedAt": "2026-10-08T02:30:01.917Z"
 }
