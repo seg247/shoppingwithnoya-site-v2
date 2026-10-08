@@ -9,10 +9,23 @@
         "Fashion",
         "Grocery & Food",
         "Home & Kitchen",
-        "Electronics",
-        "Women's Fashion"
+        "Health",
+        "Electronics"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B003CT36NE",
+            "slug": "ddrops-baby-400-iu-vitamin-d-90-drops-25ml-008-fl-oz-pack-of",
+            "title": "Ddrops Baby 400 IU, Vitamin D, 90 Drops 2.5mL (0.08 Fl. Oz (Pack of 1))",
+            "price": "$13",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/81+6i4he3IL.jpg",
+            "url": "https://www.amazon.com/dp/B003CT36NE/ref=cm_sw_r_as_gl_api_gl_i_ZP6YZDTXMTR9JVCBM11Q?linkCode=ml1&tag=noya0b-20&linkId=c145eed5a896fcf4b588287e40db6e68&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B00JK04HW8",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81FO-3tTDRL.jpg",
             "url": "https://www.amazon.com/dp/B0FYMPDKP9/ref=cm_sw_r_as_gl_api_gl_i_6WKZJ7VT79S64Q73SP60?linkCode=ml1&tag=noya0b-20&linkId=a547ce517d7e956881cbcc80b59ece0b&gaOptInStatus=true"
           }
-        ],
-        "Women's Fashion": [
-          {
-            "asin": "B0FYFJGR5Z",
-            "slug": "dokotoo-womens-lightweight-knit-top-beiges-chic-short-sleeve",
-            "title": "Dokotoo Women’s Lightweight Knit Top Beige,S | Chic Short Sleeve Sweater for Women Work Daily Wear Knit Blouse Summer Short Sleeve Shirts Fashion Clothing 2026 Spring at Amazon Women’s Clothing store",
-            "price": "$14.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Women's Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71cU15wJLlL.jpg",
-            "url": "https://www.amazon.com/dp/B0FYFJGR5Z?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B003CT36NE",
+          "slug": "ddrops-baby-400-iu-vitamin-d-90-drops-25ml-008-fl-oz-pack-of",
+          "title": "Ddrops Baby 400 IU, Vitamin D, 90 Drops 2.5mL (0.08 Fl. Oz (Pack of 1))",
+          "price": "$13",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/81+6i4he3IL.jpg",
+          "url": "https://www.amazon.com/dp/B003CT36NE/ref=cm_sw_r_as_gl_api_gl_i_ZP6YZDTXMTR9JVCBM11Q?linkCode=ml1&tag=noya0b-20&linkId=c145eed5a896fcf4b588287e40db6e68&gaOptInStatus=true"
+        },
         {
           "asin": "B00JK04HW8",
           "slug": "pepperidge-farm-dublin-shortbread-cookies-55-oz-bag",
@@ -233,23 +244,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71AoTRzYtBL.jpg",
           "url": "https://www.amazon.com/dp/B0CX4LRHBL?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FYFJGR5Z",
-          "slug": "dokotoo-womens-lightweight-knit-top-beiges-chic-short-sleeve",
-          "title": "Dokotoo Women’s Lightweight Knit Top Beige,S | Chic Short Sleeve Sweater for Women Work Daily Wear Knit Blouse Summer Short Sleeve Shirts Fashion Clothing 2026 Spring at Amazon Women’s Clothing store",
-          "price": "$14.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Women's Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71cU15wJLlL.jpg",
-          "url": "https://www.amazon.com/dp/B0FYFJGR5Z?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 8, 2026?",
-          "a": "The best deals today include \"Pepperidge Farm Dublin Shortbread Cookies, 5.5 Oz Bag...\" and 9 other hand-picked discounts. Deals span Fashion, Grocery & Food, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Ddrops Baby 400 IU, Vitamin D, 90 Drops 2.5mL (0.08 Fl. Oz (...\" and 9 other hand-picked discounts. Deals span Fashion, Grocery & Food, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-08T11:20:02.100Z",
-      "updatedAt": "2026-10-08T11:20:02.100Z"
+      "generatedAt": "2026-10-08T11:30:01.963Z",
+      "updatedAt": "2026-10-08T11:30:01.963Z"
     },
     {
       "date": "2026-10-07",
@@ -16199,5 +16199,5 @@
       "updatedAt": "2026-08-11T03:50:01.657Z"
     }
   ],
-  "generatedAt": "2026-10-08T11:20:02.108Z"
+  "generatedAt": "2026-10-08T11:30:01.971Z"
 }
