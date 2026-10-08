@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-08T05:00:01.643Z",
+  "generatedAt": "2026-10-08T05:10:01.666Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b09mztp44l-instant-pot-6-qt-9-in-1-electric-pressure-cooker-whisperquie",
+      "asin": "B09MZTP44L",
+      "title": "Instant Pot 6 Qt 9-in-1 Electric Pressure Cooker, WhisperQuiet | Slow cooks, makes rice, steams, sautés, makes yogurt, keeps food warm and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B09MZTP44L?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-08T05:01:20.826Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/617cdlhLjyL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b08sl72g3p-vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
       "asin": "B08SL72G3P",
@@ -243,11 +262,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0cl9c4pyt-amazon-basics-smart-plug-matter-compatible-compatible-with-a",
@@ -7602,21 +7617,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00a77vpc8-mccormick-parsley-flakes-2-7-oz",
-      "asin": "B00A77VPC8",
-      "title": "McCormick Parsley Flakes, 2.7 oz",
-      "url": "https://www.amazon.com/dp/B00A77VPC8?th=1&linkCode=sl2&tag=noya0b-20&linkId=7f65ce39cbb1f83eed8b2772aa8ee7c9&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-09-28T23:00:45.805Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81H3uspUqDL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14208,6 +14208,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-28T22:20:44.657Z",
       "archivedAt": "2026-10-08T04:10:01.610Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00a77vpc8-mccormick-parsley-flakes-2-7-oz",
+      "asin": "B00A77VPC8",
+      "title": "McCormick Parsley Flakes, 2.7 oz",
+      "url": "https://www.amazon.com/dp/B00A77VPC8?th=1&linkCode=sl2&tag=noya0b-20&linkId=7f65ce39cbb1f83eed8b2772aa8ee7c9&language=en_US&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-09-28T23:00:45.805Z",
+      "archivedAt": "2026-10-08T05:10:01.666Z",
       "status": "archived"
     }
   ]
