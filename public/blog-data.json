@@ -10,24 +10,21 @@
         "Home & Kitchen",
         "Grocery & Food",
         "Health",
-        "Electronics",
-        "Beauty"
+        "Electronics"
       ],
       "byCategory": {
-        "Health": [
+        "Other": [
           {
-            "asin": "B0C2WJHQLT",
-            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
-            "price": "$39.99",
+            "asin": "B009LJO3QI",
+            "slug": "campbells-condensed-cream-of-mushroom-soup-105-ounce-can-pac",
+            "title": "Campbell's Condensed Cream of Mushroom Soup, 10.5 Ounce Can (Pack of 4)",
+            "price": "$4",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51k4IYuvRyL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B009LJO3QI?gaOptInStatus=true&ascsubtag=srctok-502ec36fc852df32&btn_type=pt&btn_ref=srctok-502ec36fc852df32&th=1&linkCode=sl2&tag=noya0b-20&linkId=17faed167909b08fc7c8d19a486715d1&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0D5H2PV88",
             "slug": "baaxxango-12-pcs-15-oz-cauldron-mugsplastic-black-cauldron-p",
@@ -60,6 +57,19 @@
             "category": "Other",
             "imageUrl": null,
             "url": "https://www.amazon.com/dp/B0F32KJL7W?social_share=cm_sw_r_cp_ud_dp_ES8X26K7EJFHVS99C1TQ&tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0C2WJHQLT",
+            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL.jpg",
             "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0G4S8JJRS",
-            "slug": "este-lauder-favorites-gift-set-amazon-exclusive-3-piece-set",
-            "title": "Estée Lauder Favorites Gift Set | Amazon Exclusive 3-Piece Set with Full-Size Advanced Night Repair Serum, Full-Size Sum",
-            "price": "$75",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/41AUwJOuEoL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G4S8JJRS?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=5940eecf3935bca6971e942c58a6e7c8&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B009LJO3QI",
+          "slug": "campbells-condensed-cream-of-mushroom-soup-105-ounce-can-pac",
+          "title": "Campbell's Condensed Cream of Mushroom Soup, 10.5 Ounce Can (Pack of 4)",
+          "price": "$4",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51k4IYuvRyL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B009LJO3QI?gaOptInStatus=true&ascsubtag=srctok-502ec36fc852df32&btn_type=pt&btn_ref=srctok-502ec36fc852df32&th=1&linkCode=sl2&tag=noya0b-20&linkId=17faed167909b08fc7c8d19a486715d1&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0C2WJHQLT",
           "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": null,
           "url": "https://www.amazon.com/dp/B0F32KJL7W?social_share=cm_sw_r_cp_ud_dp_ES8X26K7EJFHVS99C1TQ&tag=noya0b-20"
-        },
-        {
-          "asin": "B0G4S8JJRS",
-          "slug": "este-lauder-favorites-gift-set-amazon-exclusive-3-piece-set",
-          "title": "Estée Lauder Favorites Gift Set | Amazon Exclusive 3-Piece Set with Full-Size Advanced Night Repair Serum, Full-Size Sum",
-          "price": "$75",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/41AUwJOuEoL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G4S8JJRS?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=5940eecf3935bca6971e942c58a6e7c8&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 8, 2026?",
-          "a": "The best deals today include \"DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premiu...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Campbell's Condensed Cream of Mushroom Soup, 10.5 Ounce Can ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-08T23:40:02.580Z",
-      "updatedAt": "2026-10-08T23:40:02.580Z"
+      "generatedAt": "2026-10-08T23:50:02.521Z",
+      "updatedAt": "2026-10-08T23:50:02.521Z"
     },
     {
       "date": "2026-10-07",
@@ -16202,5 +16199,5 @@
       "updatedAt": "2026-08-11T03:50:01.657Z"
     }
   ],
-  "generatedAt": "2026-10-08T23:40:02.590Z"
+  "generatedAt": "2026-10-08T23:50:02.531Z"
 }
