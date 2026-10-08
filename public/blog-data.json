@@ -11,37 +11,21 @@
         "Beauty",
         "Other",
         "Health",
-        "Home & Kitchen",
-        "Electronics"
+        "Home & Kitchen"
       ],
       "byCategory": {
-        "Beauty": [
-          {
-            "asin": "B0DRLMJKCW",
-            "slug": "kitsch-volumizing-rice-protein-dry-shampoo-powder-pump-dark",
-            "title": "Kitsch Volumizing Rice Protein Dry Shampoo Powder Pump - Dark Tinted, 1oz",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61Rj2bFgryL.jpg",
-            "url": "https://www.amazon.com/dp/B0DRLMJKCW/ref=cm_sw_r_as_gl_api_gl_i_HH7ACZ586YF2RADZK6N0?linkCode=ml1&tag=noya0b-20&linkId=4efa690c0d08d668c7443dfa0e6368aa&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0DY7JQST6",
-            "slug": "4-pack-replacement-remote-control-only-for-roku-tv-compatibl",
-            "title": "4 Pack Replacement Remote Control Only for Roku TV, Compatible with All TCL Roku/Hisense Roku/Onn Roku/Sharp/Philips Rok",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Mtvanr9nL.jpg",
-            "url": "https://www.amazon.com/dp/B0DY7JQST6/ref=cm_sw_r_as_gl_api_gl_i_G949W4JCR68T581DHPRE?linkCode=ml1&tag=noya0b-20&linkId=535272a906187b75d842fc0a777b148e&gaOptInStatus=true"
-          }
-        ],
         "Grocery & Food": [
+          {
+            "asin": "B0H1SXNCFK",
+            "slug": "like-air-drizzled-rice-cakes-4-flavor-variety-pack-10ct-vega",
+            "title": "Like Air Drizzled Rice Cakes - 4 Flavor Variety Pack (10ct) Vegan/Nut-Free",
+            "price": "$14",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/81c9CLCOaOL.jpg",
+            "url": "https://www.amazon.com/dp/B0H1SXNCFK/ref=cm_sw_r_as_gl_api_gl_i_5SWRS0NJMSXGT8V2K640?linkCode=ml1&tag=noya0b-20&linkId=143b834cc27d8e2ab22910a35791a9f2&gaOptInStatus=true"
+          },
           {
             "asin": "B07BD66ZL9",
             "slug": "pepperidge-farm-farmhouse-thin-crispy-toffee-chocolate-cooki",
@@ -74,6 +58,32 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/81m3AvFcjSL.jpg",
             "url": "https://www.amazon.com/dp/B004SCTIE0/ref=cm_sw_r_as_gl_api_gl_i_9F0XZT63Q9TK2MEZFGKK?linkCode=ml1&tag=noya0b-20&linkId=455ea0865cf0ecc92218c7ef87218e5a&gaOptInStatus=true"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0DRLMJKCW",
+            "slug": "kitsch-volumizing-rice-protein-dry-shampoo-powder-pump-dark",
+            "title": "Kitsch Volumizing Rice Protein Dry Shampoo Powder Pump - Dark Tinted, 1oz",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61Rj2bFgryL.jpg",
+            "url": "https://www.amazon.com/dp/B0DRLMJKCW/ref=cm_sw_r_as_gl_api_gl_i_HH7ACZ586YF2RADZK6N0?linkCode=ml1&tag=noya0b-20&linkId=4efa690c0d08d668c7443dfa0e6368aa&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0DY7JQST6",
+            "slug": "4-pack-replacement-remote-control-only-for-roku-tv-compatibl",
+            "title": "4 Pack Replacement Remote Control Only for Roku TV, Compatible with All TCL Roku/Hisense Roku/Onn Roku/Sharp/Philips Rok",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Mtvanr9nL.jpg",
+            "url": "https://www.amazon.com/dp/B0DY7JQST6/ref=cm_sw_r_as_gl_api_gl_i_G949W4JCR68T581DHPRE?linkCode=ml1&tag=noya0b-20&linkId=535272a906187b75d842fc0a777b148e&gaOptInStatus=true"
           }
         ],
         "Health": [
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61FbmIzov8L.jpg",
             "url": "https://www.amazon.com/dp/B0FHHJR4ZD/ref=cm_sw_r_as_gl_api_gl_i_3EK5QXMC2AG302DZKWH0?linkCode=ml1&tag=noya0b-20&linkId=4a6df855f16e8e214e8fd42ac5ff9395&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FYMPDKP9",
-            "slug": "patriotic-american-flag-eagle-gaming-mouse-pad-354x157waterp",
-            "title": "Patriotic American Flag Eagle Gaming Mouse Pad 35.4\"x15.7\",Waterproof XXL Extended Keyboard Desk Mat with Stitched Edges",
-            "price": "$6",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81FO-3tTDRL.jpg",
-            "url": "https://www.amazon.com/dp/B0FYMPDKP9/ref=cm_sw_r_as_gl_api_gl_i_6WKZJ7VT79S64Q73SP60?linkCode=ml1&tag=noya0b-20&linkId=a547ce517d7e956881cbcc80b59ece0b&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0H1SXNCFK",
+          "slug": "like-air-drizzled-rice-cakes-4-flavor-variety-pack-10ct-vega",
+          "title": "Like Air Drizzled Rice Cakes - 4 Flavor Variety Pack (10ct) Vegan/Nut-Free",
+          "price": "$14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/81c9CLCOaOL.jpg",
+          "url": "https://www.amazon.com/dp/B0H1SXNCFK/ref=cm_sw_r_as_gl_api_gl_i_5SWRS0NJMSXGT8V2K640?linkCode=ml1&tag=noya0b-20&linkId=143b834cc27d8e2ab22910a35791a9f2&gaOptInStatus=true"
+        },
         {
           "asin": "B0DRLMJKCW",
           "slug": "kitsch-volumizing-rice-protein-dry-shampoo-powder-pump-dark",
@@ -239,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61FbmIzov8L.jpg",
           "url": "https://www.amazon.com/dp/B0FHHJR4ZD/ref=cm_sw_r_as_gl_api_gl_i_3EK5QXMC2AG302DZKWH0?linkCode=ml1&tag=noya0b-20&linkId=4a6df855f16e8e214e8fd42ac5ff9395&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FYMPDKP9",
-          "slug": "patriotic-american-flag-eagle-gaming-mouse-pad-354x157waterp",
-          "title": "Patriotic American Flag Eagle Gaming Mouse Pad 35.4\"x15.7\",Waterproof XXL Extended Keyboard Desk Mat with Stitched Edges",
-          "price": "$6",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81FO-3tTDRL.jpg",
-          "url": "https://www.amazon.com/dp/B0FYMPDKP9/ref=cm_sw_r_as_gl_api_gl_i_6WKZJ7VT79S64Q73SP60?linkCode=ml1&tag=noya0b-20&linkId=a547ce517d7e956881cbcc80b59ece0b&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 8, 2026?",
-          "a": "The best deals today include \"Kitsch Volumizing Rice Protein Dry Shampoo Powder Pump - Dar...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Fashion, Beauty and are updated daily."
+          "a": "The best deals today include \"Like Air Drizzled Rice Cakes - 4 Flavor Variety Pack (10ct) ...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-08T13:00:02.058Z",
-      "updatedAt": "2026-10-08T13:00:02.059Z"
+      "generatedAt": "2026-10-08T13:10:02.524Z",
+      "updatedAt": "2026-10-08T13:10:02.524Z"
     },
     {
       "date": "2026-10-07",
@@ -16205,5 +16202,5 @@
       "updatedAt": "2026-08-11T03:50:01.657Z"
     }
   ],
-  "generatedAt": "2026-10-08T13:00:02.067Z"
+  "generatedAt": "2026-10-08T13:10:02.533Z"
 }
