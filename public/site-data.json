@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-08T10:40:01.893Z",
+  "generatedAt": "2026-10-08T10:50:01.518Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b004sctie0-pepperidge-farm-soft-baked-oatmeal-raisin-cookies-8-6-oz-bag",
+      "asin": "B004SCTIE0",
+      "title": "PEPPERIDGE FARM SOFT BAKED Oatmeal Raisin Cookies, 8.6 oz. Bag",
+      "url": "https://www.amazon.com/dp/B004SCTIE0/ref=cm_sw_r_as_gl_api_gl_i_9F0XZT63Q9TK2MEZFGKK?linkCode=ml1&tag=noya0b-20&linkId=455ea0865cf0ecc92218c7ef87218e5a&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-08T10:40:24.330Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81m3AvFcjSL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0899tys99-large-crossbody-bags-ladies-shoulder-handbags-purse-and-wall",
       "asin": "B0899TYS99",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0c7zm9vb8-all-in-one-makeup-kit-for-women-eyeshadow-eyeliner-lipgloss-",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0gt4rxmg7-burgundy-floor-lamp-with-13-2-linen-shade-and-3-color-temps-",
-      "asin": "B0GT4RXMG7",
-      "title": "Burgundy Floor Lamp with 13.2\" Linen Shade and 3 Color Temps for Study",
-      "url": "https://www.amazon.com/dp/B0GT4RXMG7/ref=cm_sw_r_as_gl_api_gl_i_23DKPKJ3VDY83A54TAVX?linkCode=ml1&tag=noya0b-20&linkId=cb611169f5fe5cddf891df57da372aa5&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-29T12:20:14.800Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/7160opJrWCL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14292,6 +14292,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-29T11:20:21.935Z",
       "archivedAt": "2026-10-08T09:30:01.973Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gt4rxmg7-burgundy-floor-lamp-with-13-2-linen-shade-and-3-color-temps-",
+      "asin": "B0GT4RXMG7",
+      "title": "Burgundy Floor Lamp with 13.2\" Linen Shade and 3 Color Temps for Study",
+      "url": "https://www.amazon.com/dp/B0GT4RXMG7/ref=cm_sw_r_as_gl_api_gl_i_23DKPKJ3VDY83A54TAVX?linkCode=ml1&tag=noya0b-20&linkId=cb611169f5fe5cddf891df57da372aa5&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-29T12:20:14.800Z",
+      "archivedAt": "2026-10-08T10:50:01.518Z",
       "status": "archived"
     }
   ]
