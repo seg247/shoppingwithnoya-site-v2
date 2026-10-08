@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-08T00:00:02.238Z",
+  "generatedAt": "2026-10-08T00:10:01.676Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b074vdgj8z-365-by-whole-foods-market-onion-powder-2-43-ounce",
+      "asin": "B074VDGJ8Z",
+      "title": "365 by Whole Foods Market, Onion Powder, 2.43 Ounce",
+      "url": "https://www.amazon.com/gp/product/B074VDGJ8Z?ie=UTF8&ascsubtag=72f9a5c4c2aa11f1bf2092eec6aba0950INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a6f5a3f5250d6ea0398340ca900245e1&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-10-08T00:00:32.026Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51myfKZw-7L.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b092vnyhzw-amazon-basics-flextra-tall-kitchen-drawstring-trash-bags-13-",
       "asin": "B092VNYHZW",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dv4hxqxy-clostnature-1-person-lightweight-backpacking-tent-easy-setup",
@@ -7610,21 +7625,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00fm4c67y-hi-speed-sports-action-camera-hd-1080p-mini-camcorder-w-12-m",
-      "asin": "B00FM4C67Y",
-      "title": "Hi Speed Sports Action Camera - HD 1080P Mini Camcorder w/ 12 MP Cam, 2.4\" Touch Screen USB SD Card HDMI, Battery - Wate",
-      "url": "https://www.amazon.com/dp/B00FM4C67Y/ref=cm_sw_r_as_gl_apa_gl_i_MRCBV4J9W9NQRB844GZY?linkCode=ml1&tag=noya0b-20&linkId=b4d80c8a4c0fac852d5568694e92019b&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-09-28T08:00:27.221Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51lf1e5RaeL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14156,6 +14156,16 @@
       "category": "Other",
       "ts": "2026-09-28T03:00:31.990Z",
       "archivedAt": "2026-10-07T23:50:01.960Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00fm4c67y-hi-speed-sports-action-camera-hd-1080p-mini-camcorder-w-12-m",
+      "asin": "B00FM4C67Y",
+      "title": "Hi Speed Sports Action Camera - HD 1080P Mini Camcorder w/ 12 MP Cam, 2.4\" Touch Screen USB SD Card HDMI, Battery - Wate",
+      "url": "https://www.amazon.com/dp/B00FM4C67Y/ref=cm_sw_r_as_gl_apa_gl_i_MRCBV4J9W9NQRB844GZY?linkCode=ml1&tag=noya0b-20&linkId=b4d80c8a4c0fac852d5568694e92019b&gaOptInStatus=true",
+      "category": "Electronics",
+      "ts": "2026-09-28T08:00:27.221Z",
+      "archivedAt": "2026-10-08T00:10:01.676Z",
       "status": "archived"
     }
   ]
