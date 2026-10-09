@@ -24,11 +24,17 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Refresh API-verified website prices
+        run: node scripts/refresh-amazon-prices.cjs src/data/site-data.json public/amazon-price-data.json
+        env:
+          AMAZON_CREATORS_CREDENTIAL_ID: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_ID }}
+          AMAZON_CREATORS_CREDENTIAL_SECRET: ${{ secrets.AMAZON_CREATORS_CREDENTIAL_SECRET }}
       - run: npm run build
       - run: npm test
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+          retention-days: 1
 
   deploy:
     needs: build

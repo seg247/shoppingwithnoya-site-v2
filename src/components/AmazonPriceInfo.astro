@@ -1,0 +1,16 @@
+<details class="amazon-price-info" id="amazon-price-information">
+  <summary>Amazon price information</summary>
+  <p id="amazon-price-disclaimer">Product prices and availability are accurate as of the date/time indicated and are subject to change. Any price and availability information displayed on Amazon.com at the time of purchase will apply to the purchase of this product.</p>
+</details>
+<p class="amazon-price-info">CERTAIN CONTENT THAT APPEARS ON THIS SITE COMES FROM AMAZON. THIS CONTENT IS PROVIDED ‘AS IS’ AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME.</p>
+<details class="amazon-price-info"><summary>How prices are checked</summary>
+  <p>Prices are for the new buy-box offer shown by Amazon. Coupons, Subscribe &amp; Save, shipping and other checkout conditions may change your total. If a price cannot be verified or is more than an hour old, it is hidden.</p>
+</details>
+<script is:inline src="/amazon-prices.js" defer></script>
+<style is:global>
+  [data-amazon-price][hidden] { display: none !important; }
+  [data-amazon-price] { color: #bbf7d0; font-size: 12px; line-height: 1.5; margin: 6px 0; overflow-wrap: anywhere; }
+  .amazon-price-info { margin: 12px 0; color: #b4b9ce; font-size: 12px; line-height: 1.5; }
+  .amazon-price-info summary { cursor: pointer; text-decoration: underline; padding: 8px 0; }
+  .amazon-price-info p { margin: 8px 0; }
+</style>

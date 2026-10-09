@@ -3,3 +3,6 @@ dist/
 .astro/
 .env
 public/sitemap.xml
+
+# API observations are deployment-only; never commit prices/credentials.
+public/amazon-price-data.json

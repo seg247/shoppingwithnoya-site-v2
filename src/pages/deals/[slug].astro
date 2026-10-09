@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import AmazonPriceInfo from '../../components/AmazonPriceInfo.astro';
 import ArchivedDeal from '../../components/ArchivedDeal.astro';
 import { archiveEntries } from '../../lib/deal-archive.mjs';
 import siteData from '../../data/site-data.json';
@@ -95,12 +96,12 @@ const jsonLd = {
           {deal.discount > 0 && (
             <span class="badge-discount" style={`background:${color}`}>💸 {deal.discount}% OFF</span>
           )}
-          {deal.price && (
-            <span class="badge-price">💵 {deal.price}</span>
-          )}
+
           <span class="badge-rating" style={`color:${color};border-color:${color}`}>{deal.rating}</span>
         </div>
 
+        {deal.asin && <p data-amazon-price={deal.asin} aria-describedby="amazon-price-disclaimer" hidden></p>}
+        <AmazonPriceInfo />
         {deal.asin && <p class="deal-asin">ASIN: {deal.asin}</p>}
         <p class="deal-date">Posted {dateFormatted}</p>
 

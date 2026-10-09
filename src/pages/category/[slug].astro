@@ -14,6 +14,7 @@ import DealViewToggle from '../../components/DealViewToggle.astro';
 // functions. So the category config lives inside getStaticPaths and everything
 // the page body needs is handed back through props.
 import siteData from '../../data/site-data.json';
+import AmazonPriceInfo from '../../components/AmazonPriceInfo.astro';
 
 export async function getStaticPaths() {
   // A landing page with three items is a thin-content liability, not a
@@ -289,6 +290,7 @@ const faqLd = JSON.stringify({
       <DealViewToggle />
     </div>
 
+    <AmazonPriceInfo />
     <div class="grid" id="deals-grid" data-view="grid">
       {deals.map((d) => (
         <a href={`/deals/${d.slug}/`} class={`card${d.imageUrl ? '' : ' no-img'}${d.promoCode || /coupon|code|subscri|clip|checkout|minimum|qualif|with purchase|when you|buy .+get/i.test(d.title || '') ? ' has-conditions' : ''}`}>
@@ -299,6 +301,7 @@ const faqLd = JSON.stringify({
           <div class="card-body">
             <div class="card-title" title={d.title}>{d.title}</div>
             {d.promoCode && <span class="promo-code-badge">Code: {d.promoCode}</span>}
+            {d.asin && <p data-amazon-price={d.asin} aria-describedby="amazon-price-disclaimer" hidden></p>}
             <p class="price-note">Check current price · View details →</p>
             <div class="card-foot">
               {d.discount > 0

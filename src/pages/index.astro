@@ -1,5 +1,6 @@
 ---
 import siteData from '../data/site-data.json';
+import AmazonPriceInfo from '../components/AmazonPriceInfo.astro';
 import SkipLink from '../components/SkipLink.astro';
 import CompactHeader from '../components/CompactHeader.astro';
 import CompactDealsStyles from '../components/CompactDealsStyles.astro';
@@ -946,6 +947,7 @@ const timeAgoSSR = (ts) => {
       </select>
       <DealViewToggle />
     </div>
+    <AmazonPriceInfo />
     <div class="deals-grid" id="deals-grid" data-view="grid">
     {ssrDeals.map((d, i) => (
       <a href={`/deals/${d.slug}/`} class={`deal-card${d.imageUrl ? '' : ' no-img'}${d.promoCode || /coupon|code|subscri|clip|checkout|minimum|qualif|with purchase|when you|buy .+get/i.test(d.title || '') ? ' has-conditions' : ''}`}>
@@ -963,6 +965,7 @@ const timeAgoSSR = (ts) => {
           {d.category && <span class="cat-chip">{d.category.substring(0, 20)}</span>}
           <p class="card-title" title={d.title}>{cleanTitleSSR(d.title)}</p>
           {d.promoCode && <span class="promo-code-badge">Code: {d.promoCode}</span>}
+          {d.asin && <p data-amazon-price={d.asin} aria-describedby="amazon-price-disclaimer" hidden></p>}
           <p class="price-note">Check current price ↗</p>
           {d.discount > 0 && (
             <div class="card-price-row"><span class="price-savings">-{d.discount}% off</span></div>
@@ -1164,6 +1167,7 @@ const timeAgoSSR = (ts) => {
           ${badgeHtml}
           <p class="card-title" title="${escapeHtml(deal.title)}">${displayTitle}</p>
           ${priceHtml}
+          ${deal.asin ? `<p data-amazon-price="${escapeHtml(deal.asin)}" aria-describedby="amazon-price-disclaimer" hidden></p>` : ""}
           ${promoHtml}
           <div class="card-meta-row">
             ${cat ? `<span class="cat-chip">${cat}</span>` : ''}
