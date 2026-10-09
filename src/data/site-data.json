@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-09T09:00:01.248Z",
+  "generatedAt": "2026-10-09T09:10:00.495Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0g52r43gj-1500w-space-heater-electric-indoor-space-heater-fan-combo-he",
+      "asin": "B0G52R43GJ",
+      "title": "1500W Space Heater, Electric Indoor Space Heater & Fan Combo, Heater Coffee Table 2-in-1 Side Table with PTC Heating, 75",
+      "url": "https://www.amazon.com/dp/B0G52R43GJ/ref=cm_sw_r_as_gl_api_gl_i_BMRKPXFHKBG7YR24KFZ9?linkCode=ml1&tag=noya0b-20&linkId=d57b75482958c8a8099d4d706deb5da0&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-09T09:00:20.068Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41KYvviznrL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b092zdhjmn-fab-totes-6-pack-storage-bags-for-clothes-blanket-storage-bi",
       "asin": "B092ZDHJMN",
@@ -224,11 +243,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31coa-IEF4L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b004j3x47a-samson-meteor-mic-usb-condenser-podcasting-podcast-recording",
@@ -7598,21 +7613,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0bgkdx5wq-space-heater-fan-combo-1500w-2s-fast-heating-electric-cerami",
-      "asin": "B0BGKDX5WQ",
-      "title": "Space Heater Fan Combo, 1500W 2S Fast Heating Electric Ceramic Heater with Remote, Timer, 60° Oscillating, 90° Tilt, Ove",
-      "url": "https://www.amazon.com/dp/B0BGKDX5WQ/ref=cm_sw_r_as_gl_apa_gl_i_28NS2GAFP3J2BQ3RRDGD?linkCode=ml1&tag=noya0b-20&linkId=2094c4eababd8fd005ddc1b61de080b9&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-30T05:00:19.401Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71UdRhRhQkL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14494,6 +14494,16 @@
       "category": "Toys & Kids",
       "ts": "2026-09-30T04:20:21.834Z",
       "archivedAt": "2026-10-09T08:50:01.384Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bgkdx5wq-space-heater-fan-combo-1500w-2s-fast-heating-electric-cerami",
+      "asin": "B0BGKDX5WQ",
+      "title": "Space Heater Fan Combo, 1500W 2S Fast Heating Electric Ceramic Heater with Remote, Timer, 60° Oscillating, 90° Tilt, Ove",
+      "url": "https://www.amazon.com/dp/B0BGKDX5WQ/ref=cm_sw_r_as_gl_apa_gl_i_28NS2GAFP3J2BQ3RRDGD?linkCode=ml1&tag=noya0b-20&linkId=2094c4eababd8fd005ddc1b61de080b9&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-30T05:00:19.401Z",
+      "archivedAt": "2026-10-09T09:10:00.495Z",
       "status": "archived"
     }
   ]
