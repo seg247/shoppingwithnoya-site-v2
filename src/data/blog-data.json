@@ -8,10 +8,33 @@
       "categories": [
         "Home & Kitchen",
         "Other",
-        "Toys & Kids",
-        "Grocery & Food"
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0DY7JQST6",
+            "slug": "4-pack-replacement-remote-control-only-for-roku-tv-compatibl",
+            "title": "4 Pack Replacement Remote Control Only for Roku TV, Compatible with All TCL Roku/Hisense Roku/Onn Roku/Sharp/Philips Rok",
+            "price": "$9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51FibQogbbL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DY7JQST6/ref=cm_sw_r_as_gl_api_gl_i_G949W4JCR68T581DHPRE?linkCode=ml1&tag=noya0b-20&linkId=535272a906187b75d842fc0a777b148e&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0FJRLY2NT",
+            "slug": "upgraded-one-way-window-privacy-film-sun-heat-blocking-175-x",
+            "title": "Upgraded One Way Window Privacy Film Sun Heat Blocking, 17.5\" x 78.7\"",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51QVnHlhXwL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FJRLY2NT/ref=cm_sw_r_as_gl_api_gl_i_M81KTXBCE6TVTB92EY66?linkCode=ml1&tag=noya0b-20&linkId=e70bd88fac56d16ecb7f96c134db1474&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B017HRRZW4",
@@ -91,19 +114,6 @@
             "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0FJRLY2NT",
-            "slug": "upgraded-one-way-window-privacy-film-sun-heat-blocking-175-x",
-            "title": "Upgraded One Way Window Privacy Film Sun Heat Blocking, 17.5\" x 78.7\"",
-            "price": "$5",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51QVnHlhXwL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FJRLY2NT/ref=cm_sw_r_as_gl_api_gl_i_M81KTXBCE6TVTB92EY66?linkCode=ml1&tag=noya0b-20&linkId=e70bd88fac56d16ecb7f96c134db1474&gaOptInStatus=true"
-          }
-        ],
         "Toys & Kids": [
           {
             "asin": "B0GTVZ25NZ",
@@ -116,22 +126,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41iJ+do6hHL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GTVZ25NZ/ref=cm_sw_r_as_gl_api_gl_i_HYC6XXDCGNKECR0V8QCG?linkCode=ml1&tag=noya0b-20&linkId=ca69360b862cf3a64a9ce2c2b6a5b4cd&gaOptInStatus=true"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0FH7K4H6H",
-            "slug": "blue-black-lattice-top-steamer",
-            "title": "Blue-Black Lattice Top Steamer",
-            "price": "$18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/31V4LbyZskL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FH7K4H6H/ref=cm_sw_r_as_gl_apa_gl_i_TV8YE980PHSFYB7KYAR7?linkCode=ml1&tag=noya0b-20&linkId=92219cb28c7c684d7a3877fa4f1722dd&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DY7JQST6",
+          "slug": "4-pack-replacement-remote-control-only-for-roku-tv-compatibl",
+          "title": "4 Pack Replacement Remote Control Only for Roku TV, Compatible with All TCL Roku/Hisense Roku/Onn Roku/Sharp/Philips Rok",
+          "price": "$9",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51FibQogbbL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DY7JQST6/ref=cm_sw_r_as_gl_api_gl_i_G949W4JCR68T581DHPRE?linkCode=ml1&tag=noya0b-20&linkId=535272a906187b75d842fc0a777b148e&gaOptInStatus=true"
+        },
         {
           "asin": "B017HRRZW4",
           "slug": "core-kitchen-cutting-board-set-with-knife-home-kitchen",
@@ -230,23 +238,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/614wG6B1dUL.jpg",
           "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FH7K4H6H",
-          "slug": "blue-black-lattice-top-steamer",
-          "title": "Blue-Black Lattice Top Steamer",
-          "price": "$18",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/31V4LbyZskL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FH7K4H6H/ref=cm_sw_r_as_gl_apa_gl_i_TV8YE980PHSFYB7KYAR7?linkCode=ml1&tag=noya0b-20&linkId=92219cb28c7c684d7a3877fa4f1722dd&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 9, 2026?",
-          "a": "The best deals today include \"Core Kitchen Cutting Board Set with Knife: Home & Kitchen...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"4 Pack Replacement Remote Control Only for Roku TV, Compatib...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +262,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-09T11:20:01.412Z",
-      "updatedAt": "2026-10-09T11:20:01.412Z"
+      "generatedAt": "2026-10-09T11:30:00.915Z",
+      "updatedAt": "2026-10-09T11:30:00.916Z"
     },
     {
       "date": "2026-10-08",
@@ -16199,5 +16196,5 @@
       "updatedAt": "2026-08-12T03:50:02.045Z"
     }
   ],
-  "generatedAt": "2026-10-09T11:20:01.423Z"
+  "generatedAt": "2026-10-09T11:30:00.924Z"
 }
