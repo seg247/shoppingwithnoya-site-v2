@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-09T22:40:01.028Z",
+  "generatedAt": "2026-10-09T22:50:00.603Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b003ob0jhg-maruchan-instant-lunch-ramen-noodles-cheddar-cheese-flavor-j",
+      "asin": "B003OB0JHG",
+      "title": "Maruchan Instant Lunch Ramen Noodles, Cheddar Cheese Flavor – Japanese-Style Instant Noodle Soup, Easy Meal Ready in 3 M",
+      "url": "https://www.amazon.com/dp/B003OB0JHG?th=1&linkCode=sl2&tag=noya0b-20&linkId=205e6bfc7f912c86e16dd1316e73c42e&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-09T22:40:27.064Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51loKlkor1L._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0cwhmrcpn-haktoys-unicorn-toddler-safety-harness-with-leash-harness-fo",
       "asin": "B0CWHMRCPN",
@@ -186,11 +205,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61VBjt8W5UL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0fk5ksxqh-iqynam-running-shoes-for-women-men-tennis-walking-gym-sneake",
@@ -7590,21 +7605,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0cl58yh1t-new-balance-men-s-athletics-packable-jacket-new-spruce-small",
-      "asin": "B0CL58YH1T",
-      "title": "\udecd️New Balance Men's Athletics Packable Jacket, New Spruce, Small",
-      "url": "https://amazon.com/dp/B0CL58YH1T?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-09-30T20:40:20.800Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51vmtJTPYnL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14626,6 +14626,16 @@
       "category": "Other",
       "ts": "2026-09-30T18:21:16.522Z",
       "archivedAt": "2026-10-09T20:10:00.839Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0cl58yh1t-new-balance-men-s-athletics-packable-jacket-new-spruce-small",
+      "asin": "B0CL58YH1T",
+      "title": "\udecd️New Balance Men's Athletics Packable Jacket, New Spruce, Small",
+      "url": "https://amazon.com/dp/B0CL58YH1T?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-09-30T20:40:20.800Z",
+      "archivedAt": "2026-10-09T22:50:00.603Z",
       "status": "archived"
     }
   ]
