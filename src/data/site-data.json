@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-09T12:20:00.852Z",
+  "generatedAt": "2026-10-09T12:30:00.563Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0blj4fdt4-lego-creator-3-in-1-space-shuttle-toys-space-toys-building-s",
+      "asin": "B0BLJ4FDT4",
+      "title": "LEGO Creator 3 in 1 Space Shuttle Toys - Space Toys Building Set for Boys & Girls, Ages 6+ - Option to Build 2 Spaceship",
+      "url": "https://www.amazon.com/dp/B0BLJ4FDT4/ref=cm_sw_r_as_gl_api_gl_i_E793453QA8X0SG636TJN?linkCode=ml1&tag=noya0b-20&linkId=7fc09086f7094bbb09f2ef619b67ccc2&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Toys & Kids",
+      "ts": "2026-10-09T12:20:30.081Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51kzhxb9ACL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0grgw3flz-elemara-speed-racer-15-in-1-inflatable-water-slide-bounce-ho",
       "asin": "B0GRGW3FLZ",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dlnnd8m3-ryo-hair-damage-care-nourishing-routine-set-shampoo-set-with",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0d9dbkg7r-ear-piercing-kits-disposable-ear-piercing-gun-kits",
-      "asin": "B0D9DBKG7R",
-      "title": "Ear Piercing Kits Disposable Ear Piercing Gun Kits",
-      "url": "https://www.amazon.com/dp/B0D9DBKG7R/ref=cm_sw_r_as_gl_api_gl_i_dl_2RSAJ6204416NVGM9R54?linkCode=ml1&tag=noya0b-20&linkId=c616c7a1e93137ce1ea9696141e1cbde&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-09-30T12:00:26.358Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61H92SV-a6L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -11195,16 +11195,6 @@
       "status": "archived"
     },
     {
-      "slug": "b0blj4fdt4-lego-creator-3-in-1-space-shuttle-toys-space-toys-building-s",
-      "asin": "B0BLJ4FDT4",
-      "title": "LEGO Creator 3 in 1 Space Shuttle Toys - Space Toys Building Set for Boys & Girls, Ages 6+ - Option to Build 2 Spaceship",
-      "url": "https://www.amazon.com/dp/B0BLJ4FDT4/ref=cm_sw_r_as_gl_api_gl_i_JYATM25692Z8WSHW6TYD?linkCode=ml1&tag=noya0b-20&linkId=04b210426226ba31e49ac99a47ec01f3&gaOptInStatus=true",
-      "category": "Toys & Kids",
-      "ts": "2026-09-16T13:14:21.001Z",
-      "archivedAt": "2026-10-01T05:50:03.370Z",
-      "status": "archived"
-    },
-    {
       "slug": "b0g2d1jxv3-disney-booksy-elsa-simba-collectible-figures-2-pack-mini-sto",
       "asin": "B0G2D1JXV3",
       "title": "\udecd️Disney Booksy Elsa & Simba Collectible Figures 2 Pack, Mini Storybooks",
@@ -14572,6 +14562,16 @@
       "category": "Grocery & Food",
       "ts": "2026-09-30T11:20:20.212Z",
       "archivedAt": "2026-10-09T12:10:01.397Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d9dbkg7r-ear-piercing-kits-disposable-ear-piercing-gun-kits",
+      "asin": "B0D9DBKG7R",
+      "title": "Ear Piercing Kits Disposable Ear Piercing Gun Kits",
+      "url": "https://www.amazon.com/dp/B0D9DBKG7R/ref=cm_sw_r_as_gl_api_gl_i_dl_2RSAJ6204416NVGM9R54?linkCode=ml1&tag=noya0b-20&linkId=c616c7a1e93137ce1ea9696141e1cbde&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-09-30T12:00:26.358Z",
+      "archivedAt": "2026-10-09T12:30:00.563Z",
       "status": "archived"
     }
   ]
