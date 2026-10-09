@@ -9,24 +9,21 @@
         "Home & Kitchen",
         "Other",
         "Toys & Kids",
-        "Grocery & Food",
-        "Beauty"
+        "Grocery & Food"
       ],
       "byCategory": {
-        "Other": [
+        "Home & Kitchen": [
           {
-            "asin": "B0FJRLY2NT",
-            "slug": "upgraded-one-way-window-privacy-film-sun-heat-blocking-175-x",
-            "title": "Upgraded One Way Window Privacy Film Sun Heat Blocking, 17.5\" x 78.7\"",
-            "price": "$5",
+            "asin": "B017HRRZW4",
+            "slug": "core-kitchen-cutting-board-set-with-knife-home-kitchen",
+            "title": "Core Kitchen Cutting Board Set with Knife: Home & Kitchen",
+            "price": "$7.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51QVnHlhXwL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FJRLY2NT/ref=cm_sw_r_as_gl_api_gl_i_M81KTXBCE6TVTB92EY66?linkCode=ml1&tag=noya0b-20&linkId=e70bd88fac56d16ecb7f96c134db1474&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81hNBdpA51L.jpg",
+            "url": "https://www.amazon.com/dp/B017HRRZW4?tag=noya0b-20"
+          },
           {
             "asin": "B0DQVDVBBM",
             "slug": "stainless-steel-cookie-sheet-set-of-3-91216-baking-sheet-pan",
@@ -94,6 +91,19 @@
             "url": "https://www.amazon.com/dp/B0D943RYCX?tag=noya0b-20"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0FJRLY2NT",
+            "slug": "upgraded-one-way-window-privacy-film-sun-heat-blocking-175-x",
+            "title": "Upgraded One Way Window Privacy Film Sun Heat Blocking, 17.5\" x 78.7\"",
+            "price": "$5",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51QVnHlhXwL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FJRLY2NT/ref=cm_sw_r_as_gl_api_gl_i_M81KTXBCE6TVTB92EY66?linkCode=ml1&tag=noya0b-20&linkId=e70bd88fac56d16ecb7f96c134db1474&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0GTVZ25NZ",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31V4LbyZskL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FH7K4H6H/ref=cm_sw_r_as_gl_apa_gl_i_TV8YE980PHSFYB7KYAR7?linkCode=ml1&tag=noya0b-20&linkId=92219cb28c7c684d7a3877fa4f1722dd&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DSBNY5NB",
-            "slug": "vidihill-portable-air-conditioner-evaporative-air-cooler-2-4",
-            "title": "Vidihill Portable Air Conditioner, Evaporative Air Cooler, 2-4-8H Timer Auto-Off &Remote, Water Tank, Three ultrasonic n",
-            "price": "$9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/4162SRvc29L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DSBNY5NB/ref=cm_sw_r_as_gl_apa_gl_i_VDSC4RRT2YP08SD3M0D7?linkCode=ml1&tag=noya0b-20&linkId=ab09302e0682d11c10bcb26c8a3b8e3b&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B017HRRZW4",
+          "slug": "core-kitchen-cutting-board-set-with-knife-home-kitchen",
+          "title": "Core Kitchen Cutting Board Set with Knife: Home & Kitchen",
+          "price": "$7.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81hNBdpA51L.jpg",
+          "url": "https://www.amazon.com/dp/B017HRRZW4?tag=noya0b-20"
+        },
         {
           "asin": "B0FJRLY2NT",
           "slug": "upgraded-one-way-window-privacy-film-sun-heat-blocking-175-x",
@@ -233,23 +241,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/31V4LbyZskL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0FH7K4H6H/ref=cm_sw_r_as_gl_apa_gl_i_TV8YE980PHSFYB7KYAR7?linkCode=ml1&tag=noya0b-20&linkId=92219cb28c7c684d7a3877fa4f1722dd&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DSBNY5NB",
-          "slug": "vidihill-portable-air-conditioner-evaporative-air-cooler-2-4",
-          "title": "Vidihill Portable Air Conditioner, Evaporative Air Cooler, 2-4-8H Timer Auto-Off &Remote, Water Tank, Three ultrasonic n",
-          "price": "$9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/4162SRvc29L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DSBNY5NB/ref=cm_sw_r_as_gl_apa_gl_i_VDSC4RRT2YP08SD3M0D7?linkCode=ml1&tag=noya0b-20&linkId=ab09302e0682d11c10bcb26c8a3b8e3b&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 9, 2026?",
-          "a": "The best deals today include \"Upgraded One Way Window Privacy Film Sun Heat Blocking, 17.5...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Core Kitchen Cutting Board Set with Knife: Home & Kitchen...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-09T10:40:01.138Z",
-      "updatedAt": "2026-10-09T10:40:01.138Z"
+      "generatedAt": "2026-10-09T10:50:00.939Z",
+      "updatedAt": "2026-10-09T10:50:00.939Z"
     },
     {
       "date": "2026-10-08",
@@ -16202,5 +16199,5 @@
       "updatedAt": "2026-08-12T03:50:02.045Z"
     }
   ],
-  "generatedAt": "2026-10-09T10:40:01.150Z"
+  "generatedAt": "2026-10-09T10:50:00.947Z"
 }
