@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-09T18:20:01.818Z",
+  "generatedAt": "2026-10-09T18:30:00.352Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00ks6x5oo-aquafresh-cavity-protection-fluoride-toothpaste-5-6-oz",
+      "asin": "B00KS6X5OO",
+      "title": "Aquafresh Cavity Protection Fluoride Toothpaste, 5.6 oz",
+      "url": "https://www.amazon.com/dp/B00KS6X5OO?th=1&linkCode=sl2&tag=noya0b-20&linkId=8a79e4999c3132f360f34860996cbfbc&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Health",
+      "ts": "2026-10-09T18:20:22.354Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/415VbtTFWvL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b08sqcjk9x-epoch-games-super-mario-adventure-game-deluxe",
       "asin": "B08SQCJK9X",
@@ -243,11 +262,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51kzhxb9ACL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0grgw3flz-elemara-speed-racer-15-in-1-inflatable-water-slide-bounce-ho",
@@ -7602,21 +7617,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0dn3r4dsk-silver-buffalo-disney-lilo-and-stitch-plastic-cold-cup-24oz",
-      "asin": "B0DN3R4DSK",
-      "title": "Silver Buffalo Disney Lilo and Stitch, Plastic Cold Cup, 24oz",
-      "url": "https://www.amazon.com/dp/B0DN3R4DSK?th=1&linkCode=sl2&tag=noya0b-20&linkId=cdfc518310a234ba6748000de417deb7&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-30T17:00:23.337Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71H2TrUUFNL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14618,6 +14618,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-09-30T16:20:44.323Z",
       "archivedAt": "2026-10-09T16:50:01.157Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dn3r4dsk-silver-buffalo-disney-lilo-and-stitch-plastic-cold-cup-24oz",
+      "asin": "B0DN3R4DSK",
+      "title": "Silver Buffalo Disney Lilo and Stitch, Plastic Cold Cup, 24oz",
+      "url": "https://www.amazon.com/dp/B0DN3R4DSK?th=1&linkCode=sl2&tag=noya0b-20&linkId=cdfc518310a234ba6748000de417deb7&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-09-30T17:00:23.337Z",
+      "archivedAt": "2026-10-09T18:30:00.352Z",
       "status": "archived"
     }
   ]
