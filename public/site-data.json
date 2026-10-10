@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-10T04:40:02.034Z",
+  "generatedAt": "2026-10-10T04:50:01.860Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0hg25sjy8-peanut-butter-candy-pieces-2-lb-bulk-bag-crunchy-shell-bite-",
+      "asin": "B0HG25SJY8",
+      "title": "Peanut Butter Candy Pieces 2 lb Bulk Bag, Crunchy Shell, Bite Size",
+      "url": "https://www.amazon.com/dp/B0HG25SJY8/ref=cm_sw_r_as_gl_apa_gl_i_SH034T3B3A9X8CH081T4?linkCode=ml1&tag=noya0b-20&linkId=cc24b4efda46b5310c28a956ca8c6a7f&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-10T04:40:23.803Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51shIsPwqUL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b01m97yevn-coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
       "asin": "B01M97YEVN",
@@ -224,11 +243,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51loKlkor1L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0cwhmrcpn-haktoys-unicorn-toddler-safety-harness-with-leash-harness-fo",
@@ -7598,21 +7613,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0f4dphdjs-wenttuo-boys-zip-up-hoodie-kid-hooded-jacket",
-      "asin": "B0F4DPHDJS",
-      "title": "\udecd️WENTTUO Boys Zip Up Hoodie Kid Hooded Jacket",
-      "url": "https://www.amazon.com/dp/B0F4DPHDJS/ref=cm_sw_r_as_gl_api_gl_i_dl_HXBG2B5T0FK3KGBNEK4G?linkCode=ml1&tag=noya0b-20&linkId=70122ec9e13b3316c03b10fbec1cef64&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-10-01T00:01:11.554Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81mm+LuDGbL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14694,6 +14694,16 @@
       "category": "Fashion",
       "ts": "2026-09-30T23:41:08.397Z",
       "archivedAt": "2026-10-10T03:10:02.241Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f4dphdjs-wenttuo-boys-zip-up-hoodie-kid-hooded-jacket",
+      "asin": "B0F4DPHDJS",
+      "title": "\udecd️WENTTUO Boys Zip Up Hoodie Kid Hooded Jacket",
+      "url": "https://www.amazon.com/dp/B0F4DPHDJS/ref=cm_sw_r_as_gl_api_gl_i_dl_HXBG2B5T0FK3KGBNEK4G?linkCode=ml1&tag=noya0b-20&linkId=70122ec9e13b3316c03b10fbec1cef64&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-10-01T00:01:11.554Z",
+      "archivedAt": "2026-10-10T04:50:01.860Z",
       "status": "archived"
     }
   ]
