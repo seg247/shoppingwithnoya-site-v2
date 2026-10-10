@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-10T15:40:01.921Z",
+  "generatedAt": "2026-10-10T15:50:01.546Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fzd5skrs-amazon-kindle-32gb-all-new-thinner-new-aluminum-design-6-dis",
+      "asin": "B0FZD5SKRS",
+      "title": "Amazon Kindle 32GB (all-new), Thinner, new aluminum design, 6\" display, Without Lockscreen Ads, Seaglass Green Aluminum",
+      "url": "https://www.amazon.com/dp/B0FZD5SKRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=5d51aec66978e338cb17d67d7ef02972&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-10-10T15:40:24.497Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/31aI2ggn0hL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0d943rycx-anymark-16pcs-pots-and-pans-set-non-stick-cookware-white-16p",
       "asin": "B0D943RYCX",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71KTkWxMuVL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0fslmvszw-balloon-dog-cardstock-we-re-so-pumped-wall-mural-set-14-piec",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b01my9a3hh-act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
-      "asin": "B01MY9A3HH",
-      "title": "ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout, 4.6 oz.",
-      "url": "https://www.amazon.com/dp/B01MY9A3HH/ref=cm_sw_r_as_gl_api_gl_i_HGE10FCA6CCABJW90HCJ?linkCode=ml1&tag=noya0b-20&linkId=aad5f9d58f9ca5763023868a1f46214a&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-10-01T12:00:18.674Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71T1R-lyyLL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14852,6 +14852,16 @@
       "category": "Electronics",
       "ts": "2026-10-01T11:40:18.385Z",
       "archivedAt": "2026-10-10T15:10:00.348Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b01my9a3hh-act-kids-anticavity-fluoride-toothpaste-bubble-gum-blowout-4",
+      "asin": "B01MY9A3HH",
+      "title": "ACT Kids Anticavity Fluoride Toothpaste, Bubble Gum Blowout, 4.6 oz.",
+      "url": "https://www.amazon.com/dp/B01MY9A3HH/ref=cm_sw_r_as_gl_api_gl_i_HGE10FCA6CCABJW90HCJ?linkCode=ml1&tag=noya0b-20&linkId=aad5f9d58f9ca5763023868a1f46214a&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-10-01T12:00:18.674Z",
+      "archivedAt": "2026-10-10T15:50:01.546Z",
       "status": "archived"
     }
   ]
