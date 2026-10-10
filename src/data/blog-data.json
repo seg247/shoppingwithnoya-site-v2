@@ -4,15 +4,39 @@
       "date": "2026-10-10",
       "slug": "2026-10-10",
       "title": "🔥 Best Deals Today — October 10, 2026",
-      "intro": "Today's best online deals for Saturday, October 10, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, October 10, 2026 — 10 hand-picked discounts across Home & Kitchen, Beauty, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Beauty",
         "Other",
         "Grocery & Food",
-        "Electronics",
-        "Beauty"
+        "Electronics"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B0DLNND8M3",
+            "slug": "ryo-hair-damage-care-nourishing-routine-set-shampoo-set-with",
+            "title": "Ryo Hair Damage Care & Nourishing Routine Set | Shampoo Set with Conditioner & Deep Conditioning Mask | Korean Ginseng Strengthening Formula for Damaged, Dry Hair | Holiday : Beauty & Personal Care",
+            "price": "$54.12",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/512STiQm9BL.jpg",
+            "url": "https://www.amazon.com/dp/B0DLNND8M3?tag=noya0b-20"
+          },
+          {
+            "asin": "B089W5FN7D",
+            "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
+            "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar Cover : Beauty & Personal Care",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL.jpg",
+            "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0G644H6N9",
@@ -35,17 +59,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61jlhpomwKL.jpg",
             "url": "https://www.amazon.com/dp/B0FSLMVSZW/ref=cm_sw_r_as_gl_api_gl_i_T3XTCRMQXMRQX9VEV044?linkCode=ml1&tag=noya0b-20&linkId=80ad1fe9437102edc2567b656bc2221d&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0DDKYDV7K",
-            "slug": "60-loveseat-sofa-microfiber-chesterfield-upholstered-sofas-l",
-            "title": "60\" Loveseat Sofa, Microfiber Chesterfield Upholstered Sofas Love Seat, Couch Chair Sets with Style Button Tufted, Scrol",
-            "price": "$288",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/31iCvtU0pCL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DDKYDV7K/ref=cm_sw_r_as_gl_apa_gl_i_S5A7ZGG2V4TWNKY408DE?linkCode=ml1&tag=noya0b-20&linkId=4d1d0a67477e108a61d9da6ea8bf6c64&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71KTkWxMuVL.jpg",
             "url": "https://www.amazon.com/dp/B003FBQHVM/ref=cm_sw_r_as_gl_api_gl_i_H7RXCV4WBRTB3XEP0YBA?linkCode=ml1&tag=noya0b-20&linkId=e763fd616099f1bc094880934bc9ea69&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B089W5FN7D",
-            "slug": "waterproof-full-coverage-concealer-makeup-kit-with-primer-sp",
-            "title": "Waterproof Full Coverage Concealer Makeup Kit with Primer Sponge - Matte Liquid Foundation for Face, Eye, and Acne Scar Cover : Beauty & Personal Care",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL.jpg",
-            "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DLNND8M3",
+          "slug": "ryo-hair-damage-care-nourishing-routine-set-shampoo-set-with",
+          "title": "Ryo Hair Damage Care & Nourishing Routine Set | Shampoo Set with Conditioner & Deep Conditioning Mask | Korean Ginseng Strengthening Formula for Damaged, Dry Hair | Holiday : Beauty & Personal Care",
+          "price": "$54.12",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/512STiQm9BL.jpg",
+          "url": "https://www.amazon.com/dp/B0DLNND8M3?tag=noya0b-20"
+        },
         {
           "asin": "B0G644H6N9",
           "slug": "cabin-rustic-area-rug-5x7tiger-country-wildlifevintage-area",
@@ -233,23 +244,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71U69Ke+PJL.jpg",
           "url": "https://www.amazon.com/dp/B089W5FN7D?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DDKYDV7K",
-          "slug": "60-loveseat-sofa-microfiber-chesterfield-upholstered-sofas-l",
-          "title": "60\" Loveseat Sofa, Microfiber Chesterfield Upholstered Sofas Love Seat, Couch Chair Sets with Style Button Tufted, Scrol",
-          "price": "$288",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/31iCvtU0pCL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DDKYDV7K/ref=cm_sw_r_as_gl_apa_gl_i_S5A7ZGG2V4TWNKY408DE?linkCode=ml1&tag=noya0b-20&linkId=4d1d0a67477e108a61d9da6ea8bf6c64&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 10, 2026?",
-          "a": "The best deals today include \"Cabin Rustic Area Rug 5x7,Tiger Country Wildlife,Vintage Are...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Ryo Hair Damage Care & Nourishing Routine Set | Shampoo Set ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Beauty, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-10T11:20:02.206Z",
-      "updatedAt": "2026-10-10T11:20:02.206Z"
+      "generatedAt": "2026-10-10T11:30:02.495Z",
+      "updatedAt": "2026-10-10T11:30:02.495Z"
     },
     {
       "date": "2026-10-09",
@@ -16211,5 +16211,5 @@
       "updatedAt": "2026-08-13T03:50:01.787Z"
     }
   ],
-  "generatedAt": "2026-10-10T11:20:02.215Z"
+  "generatedAt": "2026-10-10T11:30:02.503Z"
 }
