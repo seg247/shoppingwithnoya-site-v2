@@ -9,24 +9,21 @@
         "Home & Kitchen",
         "Electronics",
         "Fashion",
-        "Grocery & Food",
-        "Beauty"
+        "Grocery & Food"
       ],
       "byCategory": {
-        "Electronics": [
+        "Home & Kitchen": [
           {
-            "asin": "B0FZD5SKRS",
-            "slug": "amazon-kindle-32gb-all-new-thinner-new-aluminum-design-6-dis",
-            "title": "Amazon Kindle 32GB (all-new), Thinner, new aluminum design, 6\" display, Without Lockscreen Ads, Seaglass Green Aluminum",
-            "price": "$189",
+            "asin": "B08Q3HD9D4",
+            "slug": "food-processors-food-processor-blender-combo-electric-food-c",
+            "title": "Food Processors - Food Processor Blender Combo, Electric Food Chopper, Grinder for Meat, Multi Mixer Machine with Dough Blade 550W: Home & Kitchen",
+            "price": "$54.14",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/31aI2ggn0hL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FZD5SKRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=5d51aec66978e338cb17d67d7ef02972&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Home & Kitchen": [
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71vbNxnbEyL.jpg",
+            "url": "https://www.amazon.com/dp/B08Q3HD9D4?tag=noya0b-20"
+          },
           {
             "asin": "B0D943RYCX",
             "slug": "anymark-16pcs-pots-and-pans-set-non-stick-cookware-white-16p",
@@ -94,6 +91,19 @@
             "url": "https://www.amazon.com/dp/B0F8479KMH/ref=cm_sw_r_as_gl_api_gl_i_FY9N3X372P8C326NJPEV?linkCode=ml1&tag=noya0b-20&linkId=5e3aa246f761879f1a590e7988150fde&gaOptInStatus=true"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B0FZD5SKRS",
+            "slug": "amazon-kindle-32gb-all-new-thinner-new-aluminum-design-6-dis",
+            "title": "Amazon Kindle 32GB (all-new), Thinner, new aluminum design, 6\" display, Without Lockscreen Ads, Seaglass Green Aluminum",
+            "price": "$189",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/31aI2ggn0hL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FZD5SKRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=5d51aec66978e338cb17d67d7ef02972&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0DBVDCD8P",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41C6EpcEg2L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0918W1TVB/ref=cm_sw_r_as_gl_api_gl_i_KCZ8CH735RPWXTA55QG0?linkCode=ml1&tag=noya0b-20&linkId=793aca03561416e4902766917f385197&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DLNND8M3",
-            "slug": "ryo-hair-damage-care-nourishing-routine-set-shampoo-set-with",
-            "title": "Ryo Hair Damage Care & Nourishing Routine Set | Shampoo Set with Conditioner & Deep Conditioning Mask | Korean Ginseng Strengthening Formula for Damaged, Dry Hair | Holiday : Beauty & Personal Care",
-            "price": "$54.12",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/512STiQm9BL.jpg",
-            "url": "https://www.amazon.com/dp/B0DLNND8M3?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08Q3HD9D4",
+          "slug": "food-processors-food-processor-blender-combo-electric-food-c",
+          "title": "Food Processors - Food Processor Blender Combo, Electric Food Chopper, Grinder for Meat, Multi Mixer Machine with Dough Blade 550W: Home & Kitchen",
+          "price": "$54.14",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71vbNxnbEyL.jpg",
+          "url": "https://www.amazon.com/dp/B08Q3HD9D4?tag=noya0b-20"
+        },
         {
           "asin": "B0FZD5SKRS",
           "slug": "amazon-kindle-32gb-all-new-thinner-new-aluminum-design-6-dis",
@@ -233,23 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/41L6a+893pL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0F8479KMH/ref=cm_sw_r_as_gl_api_gl_i_FY9N3X372P8C326NJPEV?linkCode=ml1&tag=noya0b-20&linkId=5e3aa246f761879f1a590e7988150fde&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DLNND8M3",
-          "slug": "ryo-hair-damage-care-nourishing-routine-set-shampoo-set-with",
-          "title": "Ryo Hair Damage Care & Nourishing Routine Set | Shampoo Set with Conditioner & Deep Conditioning Mask | Korean Ginseng Strengthening Formula for Damaged, Dry Hair | Holiday : Beauty & Personal Care",
-          "price": "$54.12",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/512STiQm9BL.jpg",
-          "url": "https://www.amazon.com/dp/B0DLNND8M3?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 10, 2026?",
-          "a": "The best deals today include \"Amazon Kindle 32GB (all-new), Thinner, new aluminum design, ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"Food Processors - Food Processor Blender Combo, Electric Foo...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-10T16:20:02.062Z",
-      "updatedAt": "2026-10-10T16:20:02.062Z"
+      "generatedAt": "2026-10-10T16:30:01.891Z",
+      "updatedAt": "2026-10-10T16:30:01.892Z"
     },
     {
       "date": "2026-10-09",
@@ -16211,5 +16208,5 @@
       "updatedAt": "2026-08-13T03:50:01.787Z"
     }
   ],
-  "generatedAt": "2026-10-10T16:20:02.074Z"
+  "generatedAt": "2026-10-10T16:30:01.901Z"
 }
