@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-10T15:00:02.177Z",
+  "generatedAt": "2026-10-10T15:10:00.348Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01lyfwmqr-keurig-12oz-stainless-steel-insulated-coffee-travel-mug-silv",
+      "asin": "B01LYFWMQR",
+      "title": "Keurig 12oz Stainless Steel Insulated Coffee Travel Mug, Silver",
+      "url": "https://www.amazon.com/dp/B01LYFWMQR?gaOptInStatus=true&ascsubtag=srctok-0245a83d88940556&btn_type=pt&btn_ref=srctok-0245a83d88940556&th=1&linkCode=sl2&tag=noya0b-20&linkId=ee8824cd0a3bdb961cbf2d858f16b680&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-10T15:00:25.427Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/31ZSCrpol+L._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b00flywnyq-instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
       "asin": "B00FLYWNYQ",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41WysUF3MhL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0ctgvbny5-infans-7-in-1-climbing-toys-for-toddlers-upgrade-wooden-mont",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0fr96jwn5-gtplayer-ergonomic-office-chair-with-flip-up-armrests-execut",
-      "asin": "B0FR96JWN5",
-      "title": "GTPLAYER Ergonomic Office Chair with Flip-up Armrests Executive Computer Chair for Home Office, Breathable Mesh & Comfy ",
-      "url": "https://www.amazon.com/dp/B0FR96JWN5/ref=cm_sw_r_as_gl_api_gl_i_dl_5EGA74PSMSCZVP9PYHZ2?linkCode=ml1&tag=noya0b-20&linkId=210f274a802b87d5071561a97697e20b&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-10-01T11:40:18.385Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71ecolf6P6L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14842,6 +14842,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-01T11:00:18.221Z",
       "archivedAt": "2026-10-10T13:50:01.593Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fr96jwn5-gtplayer-ergonomic-office-chair-with-flip-up-armrests-execut",
+      "asin": "B0FR96JWN5",
+      "title": "GTPLAYER Ergonomic Office Chair with Flip-up Armrests Executive Computer Chair for Home Office, Breathable Mesh & Comfy ",
+      "url": "https://www.amazon.com/dp/B0FR96JWN5/ref=cm_sw_r_as_gl_api_gl_i_dl_5EGA74PSMSCZVP9PYHZ2?linkCode=ml1&tag=noya0b-20&linkId=210f274a802b87d5071561a97697e20b&gaOptInStatus=true",
+      "category": "Electronics",
+      "ts": "2026-10-01T11:40:18.385Z",
+      "archivedAt": "2026-10-10T15:10:00.348Z",
       "status": "archived"
     }
   ]
