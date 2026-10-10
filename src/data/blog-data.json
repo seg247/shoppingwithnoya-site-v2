@@ -9,11 +9,24 @@
         "Fashion",
         "Home & Kitchen",
         "Garden & Outdoor",
+        "Grocery & Food",
         "Other",
-        "Beauty",
-        "Electronics"
+        "Beauty"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0DGVSHFCS",
+            "slug": "barnums-original-animal-crackers-kids-snacks-10-snack-packs",
+            "title": "BARNUM'S Original Animal Crackers, Kids Snacks, 10 Snack Packs",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51FsJZ0-A5L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DGVSHFCS?ie=UTF8&ascsubtag=23f71bc2c4e011f19452a2d8cfeb24720INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=e7ec79e74ae5c43dfb9e8ad652ad38cd&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0FP2NN8LB",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71cmEJDzgpL.jpg",
             "url": "https://www.amazon.com/dp/B08RZQSXL2?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FZD5SKRS",
-            "slug": "amazon-kindle-32gb-all-new-thinner-new-aluminum-design-6-dis",
-            "title": "Amazon Kindle 32GB (all-new), Thinner, new aluminum design, 6\" display, Without Lockscreen Ads, Seaglass Green Aluminum",
-            "price": "$189",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/31aI2ggn0hL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FZD5SKRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=5d51aec66978e338cb17d67d7ef02972&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DGVSHFCS",
+          "slug": "barnums-original-animal-crackers-kids-snacks-10-snack-packs",
+          "title": "BARNUM'S Original Animal Crackers, Kids Snacks, 10 Snack Packs",
+          "price": "$3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51FsJZ0-A5L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DGVSHFCS?ie=UTF8&ascsubtag=23f71bc2c4e011f19452a2d8cfeb24720INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=e7ec79e74ae5c43dfb9e8ad652ad38cd&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0FP2NN8LB",
           "slug": "nihaoya-black-sneakers-for-girls-boys-slip-on-tennis-shoes-l",
@@ -236,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71vbNxnbEyL.jpg",
           "url": "https://www.amazon.com/dp/B08Q3HD9D4?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FZD5SKRS",
-          "slug": "amazon-kindle-32gb-all-new-thinner-new-aluminum-design-6-dis",
-          "title": "Amazon Kindle 32GB (all-new), Thinner, new aluminum design, 6\" display, Without Lockscreen Ads, Seaglass Green Aluminum",
-          "price": "$189",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/31aI2ggn0hL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FZD5SKRS?th=1&linkCode=sl2&tag=noya0b-20&linkId=5d51aec66978e338cb17d67d7ef02972&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 10, 2026?",
-          "a": "The best deals today include \"Nihaoya Black Sneakers for Girls Boys Slip on Tennis Shoes L...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"BARNUM'S Original Animal Crackers, Kids Snacks, 10 Snack Pac...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-10T19:40:01.800Z",
-      "updatedAt": "2026-10-10T19:40:01.800Z"
+      "generatedAt": "2026-10-10T19:50:02.671Z",
+      "updatedAt": "2026-10-10T19:50:02.671Z"
     },
     {
       "date": "2026-10-09",
@@ -16214,5 +16214,5 @@
       "updatedAt": "2026-08-13T03:50:01.787Z"
     }
   ],
-  "generatedAt": "2026-10-10T19:40:01.809Z"
+  "generatedAt": "2026-10-10T19:50:02.685Z"
 }
