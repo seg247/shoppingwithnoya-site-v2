@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-10T21:40:00.808Z",
+  "generatedAt": "2026-10-10T21:50:00.585Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fbxzkmvh-amazon-basics-steel-wool-soap-pads-reusable-cuts-grease-and-",
+      "asin": "B0FBXZKMVH",
+      "title": "Amazon Basics Steel Wool Soap Pads, Reusable, Cuts Grease and Removes Rust, 10 Count, Pack of 1",
+      "url": "https://www.amazon.com/dp/B0FBXZKMVH?ie=UTF8&ascsubtag=f5089dc8c4f211f1a1d36a94ca769d640INT&smid=ATVPDKIKX0DER&psc=1&linkCode=sl2&tag=noya0b-20&linkId=dc05d2d4a08a029bff7fd49dec203270&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-10T21:40:26.236Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41JEAhYLScL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0fqky51mz-jay-franco-beach-towel-and-tote-bag-set-16-x-14-5-canvas-sho",
       "asin": "B0FQKY51MZ",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31aI2ggn0hL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0d943rycx-anymark-16pcs-pots-and-pans-set-non-stick-cookware-white-16p",
@@ -7610,21 +7625,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b00016rl9g-emergen-c-vitamin-c-1000mg-immune-support-powder-orange-30-p",
-      "asin": "B00016RL9G",
-      "title": "Emergen-C Vitamin C 1000mg Immune Support Powder, Orange, 30 Packets | B Vitamins for Energy, Zinc and Manganese, Vitamin D, Electrolytes, Natural Flavor, Dissolves Quick : Health & Household",
-      "url": "https://www.amazon.com/dp/B00016RL9G?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Health",
-      "ts": "2026-10-01T19:01:04.170Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71-Cqjr9ZHL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14896,6 +14896,16 @@
       "category": "Health",
       "ts": "2026-10-01T17:00:58.347Z",
       "archivedAt": "2026-10-10T17:50:00.338Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00016rl9g-emergen-c-vitamin-c-1000mg-immune-support-powder-orange-30-p",
+      "asin": "B00016RL9G",
+      "title": "Emergen-C Vitamin C 1000mg Immune Support Powder, Orange, 30 Packets | B Vitamins for Energy, Zinc and Manganese, Vitamin D, Electrolytes, Natural Flavor, Dissolves Quick : Health & Household",
+      "url": "https://www.amazon.com/dp/B00016RL9G?tag=noya0b-20",
+      "category": "Health",
+      "ts": "2026-10-01T19:01:04.170Z",
+      "archivedAt": "2026-10-10T21:50:00.585Z",
       "status": "archived"
     }
   ]
