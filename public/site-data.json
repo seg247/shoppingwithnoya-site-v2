@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-10T23:20:01.868Z",
+  "generatedAt": "2026-10-10T23:30:02.320Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0014crzh4-de-cecco-farfalle-no-93-pasta-16-oz",
+      "asin": "B0014CRZH4",
+      "title": "De Cecco Farfalle No. 93 Pasta, 16 Oz",
+      "url": "https://www.amazon.com/gp/product/B0014CRZH4?ie=UTF8&ascsubtag=7961264cc4ff11f182a75e5653b25b010INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=c92e6732e0d73b8c73e87b70d1a2b1c9&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-10T23:20:36.691Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/410lPpMsRKL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b09g6g9wt8-pealwel-women-shoulder-handbag-roomy-multiple-pockets-bag-la",
       "asin": "B09G6G9WT8",
@@ -300,11 +319,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41AeKRaCBdL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0h5k43p5c-36-halloween-skeleton-with-metal-stand-poseable-full-body-sk",
@@ -7614,21 +7629,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0bmvthpz4-ball-cast-paper-rope-woven-bench-entryway-bedroom-bench-seat",
-      "asin": "B0BMVTHPZ4",
-      "title": "Ball & Cast Paper Rope Woven Bench Entryway Bedroom Bench Seating with Wood Frame, 48 in Black",
-      "url": "https://www.amazon.com/dp/B0BMVTHPZ4?th=1&linkCode=sl2&tag=noya0b-20&linkId=dab7f822a7df86e9a8c774fda7f75451&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-01T20:40:24.095Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71RD3Fluq4L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14920,6 +14920,16 @@
       "category": "Beauty",
       "ts": "2026-10-01T20:00:59.711Z",
       "archivedAt": "2026-10-10T22:30:02.501Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bmvthpz4-ball-cast-paper-rope-woven-bench-entryway-bedroom-bench-seat",
+      "asin": "B0BMVTHPZ4",
+      "title": "Ball & Cast Paper Rope Woven Bench Entryway Bedroom Bench Seating with Wood Frame, 48 in Black",
+      "url": "https://www.amazon.com/dp/B0BMVTHPZ4?th=1&linkCode=sl2&tag=noya0b-20&linkId=dab7f822a7df86e9a8c774fda7f75451&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-01T20:40:24.095Z",
+      "archivedAt": "2026-10-10T23:30:02.320Z",
       "status": "archived"
     }
   ]
