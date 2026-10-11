@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-11T20:20:01.779Z",
+  "generatedAt": "2026-10-11T20:30:02.186Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b074817dk1-amazon-basics-non-stick-kitchen-cookware-8-piece-set-non-ind",
+      "asin": "B074817DK1",
+      "title": "Amazon Basics Non-Stick Kitchen Cookware 8-Piece Set, Non-Induction, Includes Pots and Pans, Black: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B074817DK1?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-11T20:20:56.993Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71mDTOYtDSL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0cfq3rrts-fobig-collapsible-toddler-kitchen-step-stool-with-chalkboard",
       "asin": "B0CFQ3RRTS",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31a8QsQb-xL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0g644h6n9-cabin-rustic-area-rug-5x7-tiger-country-wildlife-vintage-are",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0clh689k7-10-pack-natural-lip-balm-bulk-with-vitamin-e-and-coconut-oil",
-      "asin": "B0CLH689K7",
-      "title": "10 Pack Natural Lip Balm Bulk with Vitamin E and Coconut Oil Valentine's Choice Gift - Moisturizing, Soothing, and Repai",
-      "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_3WCKZ28BHV05A0EPEYSX?linkCode=ml1&tag=noya0b-20&linkId=ea77a70e0483323f68ddb379bbbc30b3&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-02T13:00:22.670Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/811N+aBCkFL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14905,16 +14905,6 @@
       "status": "archived"
     },
     {
-      "slug": "b074817dk1-amazon-basics-non-stick-kitchen-cookware-8-piece-set-non-ind",
-      "asin": "B074817DK1",
-      "title": "Amazon Basics Non-Stick Kitchen Cookware 8-Piece Set, Non-Induction, Includes Pots and Pans, Black: Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B074817DK1?tag=noya0b-20",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-02T01:01:39.517Z",
-      "archivedAt": "2026-10-11T06:30:01.860Z",
-      "status": "archived"
-    },
-    {
       "slug": "b0blj3cb52-nate-s-manuka-honey-13-2-oz-squeeze-bottle",
       "asin": "B0BLJ3CB52",
       "title": "Nate's Manuka Honey - 13.2 oz Squeeze Bottle",
@@ -15102,6 +15092,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-02T12:40:33.954Z",
       "archivedAt": "2026-10-11T20:10:02.316Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0clh689k7-10-pack-natural-lip-balm-bulk-with-vitamin-e-and-coconut-oil",
+      "asin": "B0CLH689K7",
+      "title": "10 Pack Natural Lip Balm Bulk with Vitamin E and Coconut Oil Valentine's Choice Gift - Moisturizing, Soothing, and Repai",
+      "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_3WCKZ28BHV05A0EPEYSX?linkCode=ml1&tag=noya0b-20&linkId=ea77a70e0483323f68ddb379bbbc30b3&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-02T13:00:22.670Z",
+      "archivedAt": "2026-10-11T20:30:02.186Z",
       "status": "archived"
     }
   ]
