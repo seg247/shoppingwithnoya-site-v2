@@ -4,18 +4,31 @@
       "date": "2026-10-11",
       "slug": "2026-10-11",
       "title": "🔥 Best Deals Today — October 11, 2026",
-      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Electronics, Fashion, Grocery and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Electronics, Beauty, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
+        "Beauty",
         "Fashion",
         "Grocery",
         "Health",
         "Grocery & Food",
         "Smart Home",
-        "Other",
-        "Pet Supplies"
+        "Other"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B09231NL5H",
+            "slug": "bellavita-luxury-mens-perfume-gift-set-with-ceo-man-goat-klu",
+            "title": "BellaVita Luxury Men's Perfume Gift Set with CEO Man, G.O.A.T., KLUB & OUD | 4 x 20ml (80ml) | Long Lasting Perfume for Men | Citrus, Woody, Patchouli & Caramel Notes : Beauty & Personal Care",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+            "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0C2P2NBHN",
@@ -128,22 +141,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51AZ5DU1krL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0CYHWFKTG/ref=cm_sw_r_as_gl_apa_gl_i_8800HCFR5WDV6WWCXXMJ?linkCode=ml1&tag=noya0b-20&linkId=40803ece637ae93d9fbb3daaef04ddb7&gaOptInStatus=true"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B08N54854N",
-            "slug": "qqpets-dog-harness-collar-leash-no-pull-pet-adjustable-back",
-            "title": "QQPETS Dog Harness Collar Leash - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for Extra Small Puppy Medium Large Breed Training (XS,Space)",
-            "price": "$16.38",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
-            "url": "https://www.amazon.com/dp/B08N54854N?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B09231NL5H",
+          "slug": "bellavita-luxury-mens-perfume-gift-set-with-ceo-man-goat-klu",
+          "title": "BellaVita Luxury Men's Perfume Gift Set with CEO Man, G.O.A.T., KLUB & OUD | 4 x 20ml (80ml) | Long Lasting Perfume for Men | Citrus, Woody, Patchouli & Caramel Notes : Beauty & Personal Care",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+          "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
+        },
         {
           "asin": "B0C2P2NBHN",
           "slug": "eomenie-womens-one-piece-swimsuits-tummy-control-ruched-bath",
@@ -242,23 +253,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL.jpg",
           "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-        },
-        {
-          "asin": "B08N54854N",
-          "slug": "qqpets-dog-harness-collar-leash-no-pull-pet-adjustable-back",
-          "title": "QQPETS Dog Harness Collar Leash - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for Extra Small Puppy Medium Large Breed Training (XS,Space)",
-          "price": "$16.38",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
-          "url": "https://www.amazon.com/dp/B08N54854N?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 11, 2026?",
-          "a": "The best deals today include \"Eomenie Women's One Piece Swimsuits Tummy Control Ruched Bat...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Grocery and are updated daily."
+          "a": "The best deals today include \"BellaVita Luxury Men's Perfume Gift Set with CEO Man, G.O.A....\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-11T10:00:02.035Z",
-      "updatedAt": "2026-10-11T10:00:02.035Z"
+      "generatedAt": "2026-10-11T10:10:02.247Z",
+      "updatedAt": "2026-10-11T10:10:02.247Z"
     },
     {
       "date": "2026-10-10",
@@ -16223,5 +16223,5 @@
       "updatedAt": "2026-08-14T03:50:02.003Z"
     }
   ],
-  "generatedAt": "2026-10-11T10:00:02.045Z"
+  "generatedAt": "2026-10-11T10:10:02.256Z"
 }
