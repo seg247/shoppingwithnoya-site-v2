@@ -4,17 +4,40 @@
       "date": "2026-10-11",
       "slug": "2026-10-11",
       "title": "🔥 Best Deals Today — October 11, 2026",
-      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Home & Kitchen, Other, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Electronics",
         "Other",
         "Garden & Outdoor",
         "Toys & Kids",
-        "Electronics",
-        "Beauty",
-        "Grocery & Food"
+        "Beauty"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0FLB24WJC",
+            "slug": "amazon-kids-tablet-8-all-new-ages-6-12-87-display-includes-1",
+            "title": "Amazon Kids Tablet 8 (all-new), Ages 6-12, 8.7\" display, Includes 1-year Kids+ content subscription, Parental controls, ",
+            "price": "$229",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/31a8QsQb-xL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FLB24WJC?th=1&linkCode=sl2&tag=noya0b-20&linkId=e3b3cbb36090b7f20c9aa511d9d0012a&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B003FBQHVM",
+            "slug": "goodsense-loratadine-10-mg-allergy-relief-tablets-30-count",
+            "title": "GoodSense Loratadine 10 mg Allergy Relief Tablets, 30 Count",
+            "price": "$3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41haol+O-FL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B003FBQHVM/ref=cm_sw_r_as_gl_api_gl_i_H7RXCV4WBRTB3XEP0YBA?linkCode=ml1&tag=noya0b-20&linkId=e763fd616099f1bc094880934bc9ea69&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0G644H6N9",
@@ -100,19 +123,6 @@
             "url": "https://www.amazon.com/dp/B0GZRG37DV/ref=cm_sw_r_as_gl_api_gl_i_D3P0X9WG3HMZES3G8TM0?linkCode=ml1&tag=noya0b-20&linkId=3c33156f25d8cbc3fef19a80f583e722&gaOptInStatus=true"
           }
         ],
-        "Electronics": [
-          {
-            "asin": "B003FBQHVM",
-            "slug": "goodsense-loratadine-10-mg-allergy-relief-tablets-30-count",
-            "title": "GoodSense Loratadine 10 mg Allergy Relief Tablets, 30 Count",
-            "price": "$3",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/41haol+O-FL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B003FBQHVM/ref=cm_sw_r_as_gl_api_gl_i_H7RXCV4WBRTB3XEP0YBA?linkCode=ml1&tag=noya0b-20&linkId=e763fd616099f1bc094880934bc9ea69&gaOptInStatus=true"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0B65M3LPX",
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71RqaAguJpL.jpg",
             "url": "https://www.amazon.com/dp/B0B65M3LPX?tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0F6YTZH97",
-            "slug": "arbys-original-sauce-12-fl-oz-all-purpose-sauce-for-sandwich",
-            "title": "Arby’s Original Sauce, 12 fl. oz., All Purpose Sauce for Sandwich Spreads, Chicken Wings, Burgers, Marinades, and More, ",
-            "price": "$2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/31JUU37vF+L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0F6YTZH97/ref=cm_sw_r_as_gl_api_gl_i_R6648QQ4799GGNNQA864?linkCode=ml1&tag=noya0b-20&linkId=f03daa5b6b8a3f2d2d2d3ff5dfb1fae1&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FLB24WJC",
+          "slug": "amazon-kids-tablet-8-all-new-ages-6-12-87-display-includes-1",
+          "title": "Amazon Kids Tablet 8 (all-new), Ages 6-12, 8.7\" display, Includes 1-year Kids+ content subscription, Parental controls, ",
+          "price": "$229",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/31a8QsQb-xL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FLB24WJC?th=1&linkCode=sl2&tag=noya0b-20&linkId=e3b3cbb36090b7f20c9aa511d9d0012a&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0G644H6N9",
           "slug": "cabin-rustic-area-rug-5x7tiger-country-wildlifevintage-area",
@@ -239,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51i7EnY+cGL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0DSF8LYWR/ref=cm_sw_r_as_gl_api_gl_i_AQ9211MMK2598DH1EHDE?linkCode=ml1&tag=noya0b-20&linkId=49eace8f5762de332e48aedf6e424468&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F6YTZH97",
-          "slug": "arbys-original-sauce-12-fl-oz-all-purpose-sauce-for-sandwich",
-          "title": "Arby’s Original Sauce, 12 fl. oz., All Purpose Sauce for Sandwich Spreads, Chicken Wings, Burgers, Marinades, and More, ",
-          "price": "$2",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/31JUU37vF+L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0F6YTZH97/ref=cm_sw_r_as_gl_api_gl_i_R6648QQ4799GGNNQA864?linkCode=ml1&tag=noya0b-20&linkId=f03daa5b6b8a3f2d2d2d3ff5dfb1fae1&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 11, 2026?",
-          "a": "The best deals today include \"Cabin Rustic Area Rug 5x7,Tiger Country Wildlife,Vintage Are...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Amazon Kids Tablet 8 (all-new), Ages 6-12, 8.7\" display, Inc...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-11T14:20:01.871Z",
-      "updatedAt": "2026-10-11T14:20:01.871Z"
+      "generatedAt": "2026-10-11T14:30:02.382Z",
+      "updatedAt": "2026-10-11T14:30:02.383Z"
     },
     {
       "date": "2026-10-10",
@@ -16220,5 +16217,5 @@
       "updatedAt": "2026-08-14T03:50:02.003Z"
     }
   ],
-  "generatedAt": "2026-10-11T14:20:01.884Z"
+  "generatedAt": "2026-10-11T14:30:02.401Z"
 }
