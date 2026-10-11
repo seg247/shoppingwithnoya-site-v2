@@ -9,10 +9,23 @@
         "Other",
         "Beauty",
         "Toys & Kids",
-        "Home & Kitchen",
-        "Electronics"
+        "Grocery & Food",
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B002U5E33S",
+            "slug": "minute-maid-fruit-punch-juice-drink-fridge-pack-cans-12-fl-o",
+            "title": "Minute Maid Fruit Punch Juice Drink Fridge Pack Cans, 12 fl oz, 12 Pack",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51mXR5bgrkL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B002U5E33S?th=1&linkCode=sl2&tag=noya0b-20&linkId=0d62db31761d0107e6539e28f368f3ad&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B019YHSYV6",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41Q8kT0G7PL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B001PMYI2I?th=1&linkCode=sl2&tag=noya0b-20&linkId=b9717d9f2e14d1dee84447541f8bbb5d&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0FLB24WJC",
-            "slug": "amazon-kids-tablet-8-all-new-ages-6-12-87-display-includes-1",
-            "title": "Amazon Kids Tablet 8 (all-new), Ages 6-12, 8.7\" display, Includes 1-year Kids+ content subscription, Parental controls, ",
-            "price": "$229",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/31a8QsQb-xL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FLB24WJC?th=1&linkCode=sl2&tag=noya0b-20&linkId=e3b3cbb36090b7f20c9aa511d9d0012a&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B002U5E33S",
+          "slug": "minute-maid-fruit-punch-juice-drink-fridge-pack-cans-12-fl-o",
+          "title": "Minute Maid Fruit Punch Juice Drink Fridge Pack Cans, 12 fl oz, 12 Pack",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51mXR5bgrkL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B002U5E33S?th=1&linkCode=sl2&tag=noya0b-20&linkId=0d62db31761d0107e6539e28f368f3ad&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B019YHSYV6",
           "slug": "bumble-bee-lemon-pepper-seasoned-tuna-pouch-25-oz-pack-of-12",
@@ -233,23 +244,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/41Q8kT0G7PL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B001PMYI2I?th=1&linkCode=sl2&tag=noya0b-20&linkId=b9717d9f2e14d1dee84447541f8bbb5d&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0FLB24WJC",
-          "slug": "amazon-kids-tablet-8-all-new-ages-6-12-87-display-includes-1",
-          "title": "Amazon Kids Tablet 8 (all-new), Ages 6-12, 8.7\" display, Includes 1-year Kids+ content subscription, Parental controls, ",
-          "price": "$229",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/31a8QsQb-xL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0FLB24WJC?th=1&linkCode=sl2&tag=noya0b-20&linkId=e3b3cbb36090b7f20c9aa511d9d0012a&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 11, 2026?",
-          "a": "The best deals today include \"Bumble Bee Lemon & Pepper Seasoned Tuna Pouch, 2.5 oz (Pack ...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Minute Maid Fruit Punch Juice Drink Fridge Pack Cans, 12 fl ...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-11T18:40:02.392Z",
-      "updatedAt": "2026-10-11T18:40:02.392Z"
+      "generatedAt": "2026-10-11T18:50:03.434Z",
+      "updatedAt": "2026-10-11T18:50:03.434Z"
     },
     {
       "date": "2026-10-10",
@@ -16214,5 +16214,5 @@
       "updatedAt": "2026-08-14T03:50:02.003Z"
     }
   ],
-  "generatedAt": "2026-10-11T18:40:02.400Z"
+  "generatedAt": "2026-10-11T18:50:03.480Z"
 }
