@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-11T11:20:01.435Z",
+  "generatedAt": "2026-10-11T11:30:02.223Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0dsf8lywr-amazon-basics-duvet-cover-waffle-weave-3-piece-cotton-like-s",
+      "asin": "B0DSF8LYWR",
+      "title": "Amazon Basics Duvet Cover Waffle Weave 3-Piece Cotton-Like Soft Bedding Set, with 1 Duvet Cover with Zipper and 2 Pillow",
+      "url": "https://www.amazon.com/dp/B0DSF8LYWR/ref=cm_sw_r_as_gl_api_gl_i_AQ9211MMK2598DH1EHDE?linkCode=ml1&tag=noya0b-20&linkId=49eace8f5762de332e48aedf6e424468&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-11T11:20:29.648Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51i7EnY+cGL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0f6ytzh97-arby-s-original-sauce-12-fl-oz-all-purpose-sauce-for-sandwic",
       "asin": "B0F6YTZH97",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b096sypqlt-kelty-discovery-trail-backpacking-tent-waterproof-rainfly-1-",
@@ -7606,21 +7621,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null
-    },
-    {
-      "slug": "b0851v5w9q-graphics-more-nhl-tampa-bay-lightning-logo-acrylic-christmas",
-      "asin": "B0851V5W9Q",
-      "title": "GRAPHICS & MORE NHL Tampa Bay Lightning Logo Acrylic Christmas Tree Holiday Ornament : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0851V5W9Q?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-02T03:41:24.767Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61TRadqlQqL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
     }
   ],
   "archivedPosts": [
@@ -14952,6 +14952,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-02T03:21:33.894Z",
       "archivedAt": "2026-10-11T10:50:01.614Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0851v5w9q-graphics-more-nhl-tampa-bay-lightning-logo-acrylic-christmas",
+      "asin": "B0851V5W9Q",
+      "title": "GRAPHICS & MORE NHL Tampa Bay Lightning Logo Acrylic Christmas Tree Holiday Ornament : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0851V5W9Q?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-02T03:41:24.767Z",
+      "archivedAt": "2026-10-11T11:30:02.223Z",
       "status": "archived"
     }
   ]

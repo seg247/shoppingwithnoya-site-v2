@@ -4,17 +4,31 @@
       "date": "2026-10-11",
       "slug": "2026-10-11",
       "title": "🔥 Best Deals Today — October 11, 2026",
-      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Grocery & Food, Beauty, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Grocery & Food, Beauty, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Grocery & Food",
         "Beauty",
-        "Electronics",
+        "Home & Kitchen",
         "Fashion",
         "Grocery",
         "Health",
-        "Smart Home"
+        "Smart Home",
+        "Electronics"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0DSF8LYWR",
+            "slug": "amazon-basics-duvet-cover-waffle-weave-3-piece-cotton-like-s",
+            "title": "Amazon Basics Duvet Cover Waffle Weave 3-Piece Cotton-Like Soft Bedding Set, with 1 Duvet Cover with Zipper and 2 Pillow",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51i7EnY+cGL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DSF8LYWR/ref=cm_sw_r_as_gl_api_gl_i_AQ9211MMK2598DH1EHDE?linkCode=ml1&tag=noya0b-20&linkId=49eace8f5762de332e48aedf6e424468&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0F6YTZH97",
@@ -126,21 +140,21 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/818Tszb+hNL.jpg",
             "url": "https://www.amazon.com/dp/B0DD41G2NZ?tag=noya0b-20"
-          },
-          {
-            "asin": "B09BF64J55",
-            "slug": "kvidio-bluetooth-headphones-wireless-over-ear-headsets-65h-p",
-            "title": "KVIDIO Bluetooth Headphones Wireless Over Ear Headsets 65H Playtime | Deep Bass, HiFi Stereo, Bluetooth 6.0, Microphone, Comfortable Fit, Foldable, Lightweight, Low Latency for Travel Home Office",
-            "price": "$18.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL.jpg",
-            "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DSF8LYWR",
+          "slug": "amazon-basics-duvet-cover-waffle-weave-3-piece-cotton-like-s",
+          "title": "Amazon Basics Duvet Cover Waffle Weave 3-Piece Cotton-Like Soft Bedding Set, with 1 Duvet Cover with Zipper and 2 Pillow",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/51i7EnY+cGL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DSF8LYWR/ref=cm_sw_r_as_gl_api_gl_i_AQ9211MMK2598DH1EHDE?linkCode=ml1&tag=noya0b-20&linkId=49eace8f5762de332e48aedf6e424468&gaOptInStatus=true"
+        },
         {
           "asin": "B0F6YTZH97",
           "slug": "arbys-original-sauce-12-fl-oz-all-purpose-sauce-for-sandwich",
@@ -239,23 +253,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/818Tszb+hNL.jpg",
           "url": "https://www.amazon.com/dp/B0DD41G2NZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B09BF64J55",
-          "slug": "kvidio-bluetooth-headphones-wireless-over-ear-headsets-65h-p",
-          "title": "KVIDIO Bluetooth Headphones Wireless Over Ear Headsets 65H Playtime | Deep Bass, HiFi Stereo, Bluetooth 6.0, Microphone, Comfortable Fit, Foldable, Lightweight, Low Latency for Travel Home Office",
-          "price": "$18.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Hx8b6HGbL.jpg",
-          "url": "https://www.amazon.com/dp/B09BF64J55?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 11, 2026?",
-          "a": "The best deals today include \"Arby’s Original Sauce, 12 fl. oz., All Purpose Sauce for San...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Beauty, Electronics and are updated daily."
+          "a": "The best deals today include \"Amazon Basics Duvet Cover Waffle Weave 3-Piece Cotton-Like S...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Beauty, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-11T11:20:01.776Z",
-      "updatedAt": "2026-10-11T11:20:01.776Z"
+      "generatedAt": "2026-10-11T11:30:02.604Z",
+      "updatedAt": "2026-10-11T11:30:02.604Z"
     },
     {
       "date": "2026-10-10",
@@ -16220,5 +16223,5 @@
       "updatedAt": "2026-08-14T03:50:02.003Z"
     }
   ],
-  "generatedAt": "2026-10-11T11:20:01.784Z"
+  "generatedAt": "2026-10-11T11:30:02.613Z"
 }
