@@ -4,17 +4,40 @@
       "date": "2026-10-11",
       "slug": "2026-10-11",
       "title": "🔥 Best Deals Today — October 11, 2026",
-      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Beauty, Grocery & Food, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, October 11, 2026 — 10 hand-picked discounts across Beauty, Home & Kitchen, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Beauty",
-        "Grocery & Food",
         "Home & Kitchen",
+        "Grocery & Food",
         "Fashion",
         "Grocery",
-        "Health",
-        "Smart Home"
+        "Health"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0FLDWVQVG",
+            "slug": "car-seat-gap-organizer-leather-side-pocket-with-card-slots-b",
+            "title": "Car Seat Gap Organizer, Leather Side Pocket with Card Slots, Black, 1 Pack",
+            "price": "$7",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41WysUF3MhL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FLDWVQVG/ref=cm_sw_r_as_gl_api_gl_i_43T6775GC7ENPJ67V8M4?linkCode=ml1&tag=noya0b-20&linkId=817f28a94de8a929a89a0f4da64cac42&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DSF8LYWR",
+            "slug": "amazon-basics-duvet-cover-waffle-weave-3-piece-cotton-like-s",
+            "title": "Amazon Basics Duvet Cover Waffle Weave 3-Piece Cotton-Like Soft Bedding Set, with 1 Duvet Cover with Zipper and 2 Pillow",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51i7EnY+cGL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DSF8LYWR/ref=cm_sw_r_as_gl_api_gl_i_AQ9211MMK2598DH1EHDE?linkCode=ml1&tag=noya0b-20&linkId=49eace8f5762de332e48aedf6e424468&gaOptInStatus=true"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0B65M3LPX",
@@ -48,19 +71,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DSF8LYWR",
-            "slug": "amazon-basics-duvet-cover-waffle-weave-3-piece-cotton-like-s",
-            "title": "Amazon Basics Duvet Cover Waffle Weave 3-Piece Cotton-Like Soft Bedding Set, with 1 Duvet Cover with Zipper and 2 Pillow",
-            "price": "$8",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51i7EnY+cGL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DSF8LYWR/ref=cm_sw_r_as_gl_api_gl_i_AQ9211MMK2598DH1EHDE?linkCode=ml1&tag=noya0b-20&linkId=49eace8f5762de332e48aedf6e424468&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
             "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
           }
-        ],
-        "Smart Home": [
-          {
-            "asin": "B0CL9C4PYT",
-            "slug": "amazon-basics-smart-plug-matter-compatible-compatible-with-a",
-            "title": "Amazon Basics Smart Plug, Matter Compatible, Compatible with Amazon Alexa, Google Home, Apple HomeKit, Voice Control, Control Appliances, Matter Hub Required, 2.4 GHz Wi-Fi Only, 1-Pack, White",
-            "price": "$11.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Smart Home",
-            "imageUrl": "https://m.media-amazon.com/images/I/61UGjLBP2VL.jpg",
-            "url": "https://www.amazon.com/dp/B0CL9C4PYT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FLDWVQVG",
+          "slug": "car-seat-gap-organizer-leather-side-pocket-with-card-slots-b",
+          "title": "Car Seat Gap Organizer, Leather Side Pocket with Card Slots, Black, 1 Pack",
+          "price": "$7",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/41WysUF3MhL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FLDWVQVG/ref=cm_sw_r_as_gl_api_gl_i_43T6775GC7ENPJ67V8M4?linkCode=ml1&tag=noya0b-20&linkId=817f28a94de8a929a89a0f4da64cac42&gaOptInStatus=true"
+        },
         {
           "asin": "B0B65M3LPX",
           "slug": "travel-curling-iron-blow-dryer-flat-iron-beauty-personal-car",
@@ -239,23 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/717P3JDgovL.jpg",
           "url": "https://www.amazon.com/dp/B00KE1EB3W/ref=cm_sw_r_as_gl_apa_gl_i_XSJ3CYPF9V6SNPAHQDB1?linkCode=ml1&tag=noya0b-20&linkId=b762c9b5d3418503b6821823938a9513&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CL9C4PYT",
-          "slug": "amazon-basics-smart-plug-matter-compatible-compatible-with-a",
-          "title": "Amazon Basics Smart Plug, Matter Compatible, Compatible with Amazon Alexa, Google Home, Apple HomeKit, Voice Control, Control Appliances, Matter Hub Required, 2.4 GHz Wi-Fi Only, 1-Pack, White",
-          "price": "$11.19",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Smart Home",
-          "imageUrl": "https://m.media-amazon.com/images/I/61UGjLBP2VL.jpg",
-          "url": "https://www.amazon.com/dp/B0CL9C4PYT?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 11, 2026?",
-          "a": "The best deals today include \"Travel Curling Iron + Blow Dryer + Flat Iron : Beauty & Pers...\" and 9 other hand-picked discounts. Deals span Beauty, Grocery & Food, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Car Seat Gap Organizer, Leather Side Pocket with Card Slots,...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-11T12:00:01.192Z",
-      "updatedAt": "2026-10-11T12:00:01.192Z"
+      "generatedAt": "2026-10-11T12:10:02.741Z",
+      "updatedAt": "2026-10-11T12:10:02.741Z"
     },
     {
       "date": "2026-10-10",
@@ -16220,5 +16217,5 @@
       "updatedAt": "2026-08-14T03:50:02.003Z"
     }
   ],
-  "generatedAt": "2026-10-11T12:00:01.202Z"
+  "generatedAt": "2026-10-11T12:10:02.754Z"
 }
