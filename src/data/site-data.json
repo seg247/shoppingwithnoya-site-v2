@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-12T02:40:01.904Z",
+  "generatedAt": "2026-10-12T02:50:01.787Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0g1vlr1pj-bubble-yum-assorted-bubble-gum-filled-lollipops-bag-8-8-oz",
+      "asin": "B0G1VLR1PJ",
+      "title": "BUBBLE YUM Assorted Bubble Gum Filled Lollipops Bag, 8.8 oz",
+      "url": "https://www.amazon.com/gp/product/B0G1VLR1PJ?ie=UTF8&ascsubtag=07853824c5e511f1bc936e7551b164960INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=7b24d608a72ca87d0eafdb70332aded0&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-10-12T02:40:54.895Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51jmdd1QPmL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07xdcxsd5-gotham-steel-10-inch-hammered-non-stick-frying-pans-nonstick",
       "asin": "B07XDCXSD5",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81ME5sqz5TL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b074817dk1-amazon-basics-non-stick-kitchen-cookware-8-piece-set-non-ind",
@@ -7603,21 +7618,6 @@
       "ts": "2026-10-02T23:20:36.501Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61QQBeZb2GL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b0h44dlrtv-michael-kors-women-s-christina-large-shoulder-bag",
-      "asin": "B0H44DLRTV",
-      "title": "Michael Kors Women's Christina Large Shoulder Bag",
-      "url": "https://www.amazon.com/dp/B0H44DLRTV?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=d5446157888831b0cb4cc6944dd2680b&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-10-02T23:00:24.976Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71K7tagCnyL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -15192,6 +15192,16 @@
       "category": "Beauty",
       "ts": "2026-10-02T22:41:13.751Z",
       "archivedAt": "2026-10-12T02:30:02.355Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0h44dlrtv-michael-kors-women-s-christina-large-shoulder-bag",
+      "asin": "B0H44DLRTV",
+      "title": "Michael Kors Women's Christina Large Shoulder Bag",
+      "url": "https://www.amazon.com/dp/B0H44DLRTV?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=d5446157888831b0cb4cc6944dd2680b&language=en_US&gaOptInStatus=true",
+      "category": "Fashion",
+      "ts": "2026-10-02T23:00:24.976Z",
+      "archivedAt": "2026-10-12T02:50:01.787Z",
       "status": "archived"
     }
   ]
