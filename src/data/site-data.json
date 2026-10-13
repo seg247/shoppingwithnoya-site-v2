@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-13T13:40:02.731Z",
+  "generatedAt": "2026-10-13T13:50:03.496Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0hbd4tygp-e-l-f-pop-holiday-taste-of-troms-kit-travel-duo",
+      "asin": "B0HBD4TYGP",
+      "title": "e.l.f. POP Holiday Taste of Tromsø Kit, Travel Duo",
+      "url": "https://www.amazon.com/dp/B0HBD4TYGP/ref=cm_sw_r_as_gl_api_gl_i_V5JDGK8S3GJT4KCP45B4?linkCode=ml1&tag=noya0b-20&linkId=deb316b5b7ef72d1b9b1657f0b6977cf&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-10-13T13:40:25.596Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41n1ELCiddL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0gtpjtryw-diyeah-muscle-roller-massage-stick-manual-roller-for-muscles",
       "asin": "B0GTPJTRYW",
@@ -319,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31zUATncquL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b09hsgd74t-collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
@@ -7615,21 +7630,6 @@
       "ts": "2026-10-03T19:20:26.659Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51vvGgSeDEL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b008kq1y2y-lego-storage-brick-8-12-1-l-storage-box-with-lid-yellow",
-      "asin": "B008KQ1Y2Y",
-      "title": "LEGO Storage Brick 8 12.1 L Storage Box with Lid Yellow",
-      "url": "https://www.amazon.com/gp/product/B008KQ1Y2Y?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=dfc6cb6c56a6655af37343b475107035&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-03T19:00:28.987Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/412Ex0FDHjL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -15564,6 +15564,16 @@
       "category": "Electronics",
       "ts": "2026-10-03T15:41:06.092Z",
       "archivedAt": "2026-10-13T11:30:04.040Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b008kq1y2y-lego-storage-brick-8-12-1-l-storage-box-with-lid-yellow",
+      "asin": "B008KQ1Y2Y",
+      "title": "LEGO Storage Brick 8 12.1 L Storage Box with Lid Yellow",
+      "url": "https://www.amazon.com/gp/product/B008KQ1Y2Y?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=dfc6cb6c56a6655af37343b475107035&language=en_US&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-03T19:00:28.987Z",
+      "archivedAt": "2026-10-13T13:50:03.496Z",
       "status": "archived"
     }
   ]
