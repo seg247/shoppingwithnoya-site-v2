@@ -9,10 +9,24 @@
         "Home & Kitchen",
         "Fashion",
         "Grocery & Food",
+        "Electronics",
         "Toys & Kids",
         "Other"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0GHN2RCNT",
+            "slug": "clickeez-series-1-hello-kitty-friends-3-pack-3-collectible-c",
+            "title": "Clickeez Series 1 Hello Kitty & Friends 3-Pack | 3 Collectible Character Keyboard Keys Click and Clack | Create Your Own",
+            "price": "16.67",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ZBghHsAxL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GHN2RCNT?psc=1&linkCode=sl2&tag=noya0b-20&linkId=f64d3f87a4698e4365e29baca1eb29d0&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B09TS1LVBV",
@@ -83,17 +97,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/31oFk81gjbL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B004PEIY9G?th=1&linkCode=sl2&tag=noya0b-20&linkId=9e7a98330a99daaa664c433eeca9f145&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B08Q3HD9D4",
-            "slug": "food-processors-food-processor-blender-combo-electric-food-c",
-            "title": "Food Processors - Food Processor Blender Combo, Electric Food Chopper, Grinder for Meat, Multi Mixer Machine with Dough Blade 550W: Home & Kitchen",
-            "price": "$54.14",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71vbNxnbEyL.jpg",
-            "url": "https://www.amazon.com/dp/B08Q3HD9D4?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -135,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0GHN2RCNT",
+          "slug": "clickeez-series-1-hello-kitty-friends-3-pack-3-collectible-c",
+          "title": "Clickeez Series 1 Hello Kitty & Friends 3-Pack | 3 Collectible Character Keyboard Keys Click and Clack | Create Your Own",
+          "price": "16.67",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ZBghHsAxL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GHN2RCNT?psc=1&linkCode=sl2&tag=noya0b-20&linkId=f64d3f87a4698e4365e29baca1eb29d0&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B09TS1LVBV",
           "slug": "harry-potter-sorting-hat-plush-burrow-dog-toy-with-crinkle-1",
@@ -233,23 +247,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/41mwvyXQ1WL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B078HSBHM1?ie=UTF8&ascsubtag=6b3cf0aac73411f1bdae6ee176e9021d0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a8fed564e3e01a8cfb04d432475e65e2&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08Q3HD9D4",
-          "slug": "food-processors-food-processor-blender-combo-electric-food-c",
-          "title": "Food Processors - Food Processor Blender Combo, Electric Food Chopper, Grinder for Meat, Multi Mixer Machine with Dough Blade 550W: Home & Kitchen",
-          "price": "$54.14",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71vbNxnbEyL.jpg",
-          "url": "https://www.amazon.com/dp/B08Q3HD9D4?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"Harry Potter Sorting Hat Plush Burrow Dog Toy with Crinkle, ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Clickeez Series 1 Hello Kitty & Friends 3-Pack | 3 Collectib...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-13T22:20:03.022Z",
-      "updatedAt": "2026-10-13T22:20:03.022Z"
+      "generatedAt": "2026-10-13T22:30:03.877Z",
+      "updatedAt": "2026-10-13T22:30:03.877Z"
     },
     {
       "date": "2026-10-12",
@@ -16211,5 +16214,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-13T22:20:03.030Z"
+  "generatedAt": "2026-10-13T22:30:03.885Z"
 }
