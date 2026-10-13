@@ -9,10 +9,33 @@
         "Other",
         "Beauty",
         "Toys & Kids",
-        "Home & Kitchen",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0F4QC9V9R",
+            "slug": "ohome-halloween-party-favors-36-pack-diy-pumpkin-face-sticke",
+            "title": "OHOME Halloween Party Favors - 36 Pack DIY Pumpkin Face Stickers for Kids - Halloween Games Toys Gifts Crafts Treats Acc",
+            "price": "3.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/51iSHC35xbL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F4QC9V9R/ref=cm_sw_r_as_gl_api_gl_i_VBMR676Q0GXHWMNQNSA4?linkCode=ml1&tag=noya0b-20&linkId=4c364caee128759c1fd9f81180406810&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0D6Z814Y7",
+            "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
+            "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack",
+            "price": "8.77",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/41BwHyOMwsL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D6Z814Y7/ref=cm_sw_r_as_gl_api_gl_i_ADW9ZTZQF5CTYEC3SGSX?linkCode=ml1&tag=noya0b-20&linkId=1019c12a6571a38693f10f8616b5485d&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0HBD4TYGP",
@@ -57,19 +80,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51qf2VstKRL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0H25XXP24/ref=cm_sw_r_as_gl_api_gl_i_73GVJD3YDME5MJFAN9QJ?linkCode=ml1&tag=noya0b-20&linkId=2d03164f064b560f0a245cb66f0e914f&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0D6Z814Y7",
-            "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
-            "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack",
-            "price": "8.77",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/41BwHyOMwsL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D6Z814Y7/ref=cm_sw_r_as_gl_api_gl_i_ADW9ZTZQF5CTYEC3SGSX?linkCode=ml1&tag=noya0b-20&linkId=1019c12a6571a38693f10f8616b5485d&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31YERolu7WL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0DJ11ZRLG/ref=cm_sw_r_as_gl_api_gl_i_8K0PZAGQSC0TJBRJ67CP?linkCode=ml1&tag=noya0b-20&linkId=b8b8cce6b29e3521c340e98d04246f25&gaOptInStatus=true"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0D1FP51JX",
-            "slug": "iqsqsq-womens-sleeveless-wide-leg-jumpsuit-casual-loose-romp",
-            "title": "IQSQSQ Women’s Sleeveless Wide Leg Jumpsuit Casual Loose Romper with Pockets(Kleinblue-XS)",
-            "price": "9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/318WjDruzEL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D1FP51JX/ref=cm_sw_r_as_gl_api_gl_i_BYS2VQVYR0VMR8DREZB2?linkCode=ml1&tag=noya0b-20&linkId=44e14ce6affb47c7bd3f5df3a43453a3&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F4QC9V9R",
+          "slug": "ohome-halloween-party-favors-36-pack-diy-pumpkin-face-sticke",
+          "title": "OHOME Halloween Party Favors - 36 Pack DIY Pumpkin Face Stickers for Kids - Halloween Games Toys Gifts Crafts Treats Acc",
+          "price": "3.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/51iSHC35xbL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F4QC9V9R/ref=cm_sw_r_as_gl_api_gl_i_VBMR676Q0GXHWMNQNSA4?linkCode=ml1&tag=noya0b-20&linkId=4c364caee128759c1fd9f81180406810&gaOptInStatus=true"
+        },
         {
           "asin": "B0HBD4TYGP",
           "slug": "elf-pop-holiday-taste-of-troms-kit-travel-duo",
@@ -233,23 +241,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/31YERolu7WL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0DJ11ZRLG/ref=cm_sw_r_as_gl_api_gl_i_8K0PZAGQSC0TJBRJ67CP?linkCode=ml1&tag=noya0b-20&linkId=b8b8cce6b29e3521c340e98d04246f25&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D1FP51JX",
-          "slug": "iqsqsq-womens-sleeveless-wide-leg-jumpsuit-casual-loose-romp",
-          "title": "IQSQSQ Women’s Sleeveless Wide Leg Jumpsuit Casual Loose Romper with Pockets(Kleinblue-XS)",
-          "price": "9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/318WjDruzEL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D1FP51JX/ref=cm_sw_r_as_gl_api_gl_i_BYS2VQVYR0VMR8DREZB2?linkCode=ml1&tag=noya0b-20&linkId=44e14ce6affb47c7bd3f5df3a43453a3&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"e.l.f. POP Holiday Taste of Tromsø Kit, Travel Duo...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"OHOME Halloween Party Favors - 36 Pack DIY Pumpkin Face Stic...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-13T14:00:03.829Z",
-      "updatedAt": "2026-10-13T14:00:03.829Z"
+      "generatedAt": "2026-10-13T14:10:03.077Z",
+      "updatedAt": "2026-10-13T14:10:03.077Z"
     },
     {
       "date": "2026-10-12",
@@ -16211,5 +16208,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-13T14:00:03.837Z"
+  "generatedAt": "2026-10-13T14:10:03.085Z"
 }
