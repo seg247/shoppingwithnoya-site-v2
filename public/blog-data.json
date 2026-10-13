@@ -14,31 +14,18 @@
         "Beauty"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B010HC7AYE",
-            "slug": "stella-doro-cookies-lady-stella-assorted-cookies-10-oz",
-            "title": "Stella D'oro Cookies, Lady Stella Assorted Cookies, 10 Oz",
-            "price": "4.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41obF37IMlL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B010HC7AYE?th=1&linkCode=sl2&tag=noya0b-20&linkId=b93c26c8d9e8aa6463c71d8a4ccdd16f&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B078HSBHM1",
-            "slug": "bubly-sparkling-water-lime-12-fl-oz-cans-8-pack",
-            "title": "bubly Sparkling Water, Lime, 12 Fl Oz Cans (8 Pack)",
-            "price": "3.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41mwvyXQ1WL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B078HSBHM1?ie=UTF8&ascsubtag=6b3cf0aac73411f1bdae6ee176e9021d0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a8fed564e3e01a8cfb04d432475e65e2&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Home & Kitchen": [
+          {
+            "asin": "B004PEIY9G",
+            "slug": "blackdecker-12x15-inch-electric-skillet-with-glass-lid",
+            "title": "BLACK+DECKER 12x15-Inch Electric Skillet with Glass Lid",
+            "price": "59.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/31oFk81gjbL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B004PEIY9G?th=1&linkCode=sl2&tag=noya0b-20&linkId=9e7a98330a99daaa664c433eeca9f145&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B08Q3HD9D4",
             "slug": "food-processors-food-processor-blender-combo-electric-food-c",
@@ -71,17 +58,30 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
             "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B07KXWFCFF",
-            "slug": "disguise-inflatable-kirby-costume-official-nintendo-kirby-co",
-            "title": "Disguise Inflatable Kirby Costume, Official Nintendo Kirby Costume Outfit with Inflating Fan, One Size",
-            "price": "89.99",
+            "asin": "B010HC7AYE",
+            "slug": "stella-doro-cookies-lady-stella-assorted-cookies-10-oz",
+            "title": "Stella D'oro Cookies, Lady Stella Assorted Cookies, 10 Oz",
+            "price": "4.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/41ZcYonqpmL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B07KXWFCFF?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=a4b73c530146d639d4da277d3d0d5b41&language=en_US&gaOptInStatus=true"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/41obF37IMlL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B010HC7AYE?th=1&linkCode=sl2&tag=noya0b-20&linkId=b93c26c8d9e8aa6463c71d8a4ccdd16f&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B078HSBHM1",
+            "slug": "bubly-sparkling-water-lime-12-fl-oz-cans-8-pack",
+            "title": "bubly Sparkling Water, Lime, 12 Fl Oz Cans (8 Pack)",
+            "price": "3.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/41mwvyXQ1WL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B078HSBHM1?ie=UTF8&ascsubtag=6b3cf0aac73411f1bdae6ee176e9021d0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=a8fed564e3e01a8cfb04d432475e65e2&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B004PEIY9G",
+          "slug": "blackdecker-12x15-inch-electric-skillet-with-glass-lid",
+          "title": "BLACK+DECKER 12x15-Inch Electric Skillet with Glass Lid",
+          "price": "59.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/31oFk81gjbL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B004PEIY9G?th=1&linkCode=sl2&tag=noya0b-20&linkId=9e7a98330a99daaa664c433eeca9f145&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B010HC7AYE",
           "slug": "stella-doro-cookies-lady-stella-assorted-cookies-10-oz",
@@ -236,23 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/512STiQm9BL.jpg",
           "url": "https://www.amazon.com/dp/B0DLNND8M3?tag=noya0b-20"
-        },
-        {
-          "asin": "B07KXWFCFF",
-          "slug": "disguise-inflatable-kirby-costume-official-nintendo-kirby-co",
-          "title": "Disguise Inflatable Kirby Costume, Official Nintendo Kirby Costume Outfit with Inflating Fan, One Size",
-          "price": "89.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/41ZcYonqpmL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B07KXWFCFF?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=a4b73c530146d639d4da277d3d0d5b41&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"Stella D'oro Cookies, Lady Stella Assorted Cookies, 10 Oz...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"BLACK+DECKER 12x15-Inch Electric Skillet with Glass Lid...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-13T19:40:02.434Z",
-      "updatedAt": "2026-10-13T19:40:02.434Z"
+      "generatedAt": "2026-10-13T19:50:03.514Z",
+      "updatedAt": "2026-10-13T19:50:03.514Z"
     },
     {
       "date": "2026-10-12",
@@ -16214,5 +16214,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-13T19:40:02.443Z"
+  "generatedAt": "2026-10-13T19:50:03.521Z"
 }
