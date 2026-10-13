@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-13T23:20:03.190Z",
+  "generatedAt": "2026-10-13T23:30:03.123Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0bzbgmgk7-amazon-grocery-canned-traditional-refried-beans-16-oz",
+      "asin": "B0BZBGMGK7",
+      "title": "Amazon Grocery, Canned Traditional Refried Beans, 16 Oz",
+      "url": "https://www.amazon.com/gp/product/B0BZBGMGK7?ie=UTF8&ascsubtag=8b685ca4c75a11f1bc4632b0dc2721f00INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=f81ab91430b368aefbef3e5667b28a5c&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-13T23:20:21.925Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41SS+5YEeiL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07pwbvq1j-vasagle-shoe-bench-with-cushion-10-compartments-11-8-x-40-9-",
       "asin": "B07PWBVQ1J",
@@ -7611,21 +7630,6 @@
       "ts": "2026-10-04T03:44:12.237Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81oPbLhbzXL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b086wxpxkv-amazon-grocery-beefsteak-tomatoes-16-oz-grocery-gourmet-food",
-      "asin": "B086WXPXKV",
-      "title": "Amazon Grocery, Beefsteak Tomatoes, 16 Oz : Grocery & Gourmet Food",
-      "url": "https://www.amazon.com/dp/B086WXPXKV?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery",
-      "ts": "2026-10-04T02:44:10.782Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/710wWnBu4HL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -15630,6 +15634,16 @@
       "category": "Health",
       "ts": "2026-10-04T02:24:15.085Z",
       "archivedAt": "2026-10-13T23:10:03.615Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b086wxpxkv-amazon-grocery-beefsteak-tomatoes-16-oz-grocery-gourmet-food",
+      "asin": "B086WXPXKV",
+      "title": "Amazon Grocery, Beefsteak Tomatoes, 16 Oz : Grocery & Gourmet Food",
+      "url": "https://www.amazon.com/dp/B086WXPXKV?tag=noya0b-20",
+      "category": "Grocery",
+      "ts": "2026-10-04T02:44:10.782Z",
+      "archivedAt": "2026-10-13T23:30:03.123Z",
       "status": "archived"
     }
   ]
