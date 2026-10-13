@@ -15,6 +15,30 @@
         "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0FXLQ6S2P",
+            "slug": "litanika-twin-xl-comforter-set-2-pieces-extra-long-dorm-bedd",
+            "title": "Litanika Twin XL Comforter Set, 2 Pieces Extra Long Dorm Bedding",
+            "price": "19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51vJOKhq3KL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FXLQ6S2P/ref=cm_sw_r_as_gl_api_gl_i_C12YQKDQ746H22JHGW5V?linkCode=ml1&tag=noya0b-20&linkId=64556adf086f18142a5036e86afdecc1&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0H25XXP24",
+            "slug": "diyasy-60-pcs-fall-paper-cups-disposable-9-oz-thanksgiving-c",
+            "title": "DIYASY 60 Pcs Fall Paper Cups Disposable, 9 oz Thanksgiving Cups Bulk",
+            "price": "7.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51qf2VstKRL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0H25XXP24/ref=cm_sw_r_as_gl_api_gl_i_73GVJD3YDME5MJFAN9QJ?linkCode=ml1&tag=noya0b-20&linkId=2d03164f064b560f0a245cb66f0e914f&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0D6Z814Y7",
@@ -39,30 +63,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/41RZnoV8IhL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FH1PC5BB/ref=cm_sw_r_as_gl_api_gl_i_X2G0DB6S96FG7B16ME5W?linkCode=ml1&tag=noya0b-20&linkId=afb8918fcc4de12db3a394402dbe934c&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0H25XXP24",
-            "slug": "diyasy-60-pcs-fall-paper-cups-disposable-9-oz-thanksgiving-c",
-            "title": "DIYASY 60 Pcs Fall Paper Cups Disposable, 9 oz Thanksgiving Cups Bulk",
-            "price": "7.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51qf2VstKRL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0H25XXP24/ref=cm_sw_r_as_gl_api_gl_i_73GVJD3YDME5MJFAN9QJ?linkCode=ml1&tag=noya0b-20&linkId=2d03164f064b560f0a245cb66f0e914f&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0F5W2H5BZ",
-            "slug": "antarctic-star-small-compact-refrigerator-with-led-light-4l",
-            "title": "Antarctic Star Small Compact Refrigerator With LED Light, 4L Capacity/6 Cans Portable Mini Fridge, for Bedroom,Car,Offic",
-            "price": "$32",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71eBDd+TCyL.jpg",
-            "url": "https://www.amazon.com/dp/B0F5W2H5BZ/ref=cm_sw_r_as_gl_api_gl_i_JWRMDB72QGBC5TRZVXBY?linkCode=ml1&tag=noya0b-20&linkId=e6164dfc0aaec4afc3b5801c29e0e723&gaOptInStatus=true"
           }
         ],
         "Beauty": [
@@ -141,6 +141,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0FXLQ6S2P",
+          "slug": "litanika-twin-xl-comforter-set-2-pieces-extra-long-dorm-bedd",
+          "title": "Litanika Twin XL Comforter Set, 2 Pieces Extra Long Dorm Bedding",
+          "price": "19.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51vJOKhq3KL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FXLQ6S2P/ref=cm_sw_r_as_gl_api_gl_i_C12YQKDQ746H22JHGW5V?linkCode=ml1&tag=noya0b-20&linkId=64556adf086f18142a5036e86afdecc1&gaOptInStatus=true"
+        },
         {
           "asin": "B0D6Z814Y7",
           "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
@@ -239,23 +250,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/51NJaAR-hjL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B01NBUJEKR/ref=cm_sw_r_as_gl_api_gl_i_7SETKAVW71AFK3X8CCZ9?linkCode=ml1&tag=noya0b-20&linkId=de88128e3deefa13ee38926393f526c2&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0F5W2H5BZ",
-          "slug": "antarctic-star-small-compact-refrigerator-with-led-light-4l",
-          "title": "Antarctic Star Small Compact Refrigerator With LED Light, 4L Capacity/6 Cans Portable Mini Fridge, for Bedroom,Car,Offic",
-          "price": "$32",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71eBDd+TCyL.jpg",
-          "url": "https://www.amazon.com/dp/B0F5W2H5BZ/ref=cm_sw_r_as_gl_api_gl_i_JWRMDB72QGBC5TRZVXBY?linkCode=ml1&tag=noya0b-20&linkId=e6164dfc0aaec4afc3b5801c29e0e723&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipp...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Litanika Twin XL Comforter Set, 2 Pieces Extra Long Dorm Bed...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-13T13:00:03.657Z",
-      "updatedAt": "2026-10-13T13:00:03.657Z"
+      "generatedAt": "2026-10-13T13:10:03.198Z",
+      "updatedAt": "2026-10-13T13:10:03.198Z"
     },
     {
       "date": "2026-10-12",
@@ -16217,5 +16217,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-13T13:00:03.666Z"
+  "generatedAt": "2026-10-13T13:10:03.207Z"
 }
