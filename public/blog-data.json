@@ -9,9 +9,23 @@
         "Electronics",
         "Other",
         "Home & Kitchen",
+        "Grocery",
         "Grocery & Food"
       ],
       "byCategory": {
+        "Grocery": [
+          {
+            "asin": "B01M97YEVN",
+            "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
+            "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
+            "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0DMFPW3V7",
@@ -117,21 +131,21 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/61xkCi4ZerL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0DNTZTS1L?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=17c73b975d879e1173680d533de254c0&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D5JKKPQ1",
-            "slug": "amazon-grocery-original-pancake-syrup12-fl-oz-pack-of-3",
-            "title": "Amazon Grocery, Original Pancake Syrup,12 Fl Oz (Pack of 3)",
-            "price": "3.79",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41cGBGODzIL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D5JKKPQ1?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=4b14f9e098e25c4f90f9902ae1e8caf1&language=en_US&gaOptInStatus=true"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B01M97YEVN",
+          "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
+          "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
+          "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
+        },
         {
           "asin": "B0DMFPW3V7",
           "slug": "boulder-canyon-avocado-oil-kettle-chips-variety-pack-1-oz-ba",
@@ -230,23 +244,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/51ruy-r9f0L.jpg",
           "url": "https://www.amazon.com/dp/B0CBVFXTH9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D5JKKPQ1",
-          "slug": "amazon-grocery-original-pancake-syrup12-fl-oz-pack-of-3",
-          "title": "Amazon Grocery, Original Pancake Syrup,12 Fl Oz (Pack of 3)",
-          "price": "3.79",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/41cGBGODzIL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D5JKKPQ1?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=4b14f9e098e25c4f90f9902ae1e8caf1&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 12, 2026?",
-          "a": "The best deals today include \"Boulder Canyon Avocado Oil Kettle Chips Variety Pack, 1 oz B...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-13T03:40:03.717Z",
-      "updatedAt": "2026-10-13T03:40:03.717Z"
+      "generatedAt": "2026-10-13T03:50:04.653Z",
+      "updatedAt": "2026-10-13T03:50:04.653Z"
     },
     {
       "date": "2026-10-11",
@@ -16208,5 +16211,5 @@
       "updatedAt": "2026-08-15T03:50:01.569Z"
     }
   ],
-  "generatedAt": "2026-10-13T03:40:03.726Z"
+  "generatedAt": "2026-10-13T03:50:04.662Z"
 }
