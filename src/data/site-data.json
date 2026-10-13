@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-13T09:40:03.649Z",
+  "generatedAt": "2026-10-13T09:50:02.374Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b01nbujekr-quest-nutrition-frosted-protein-cookies-chocolate-cake-1g-su",
+      "asin": "B01NBUJEKR",
+      "title": "Quest Nutrition Frosted Protein Cookies, Chocolate Cake, <1g Sugar, 5g Protein, 1g Net Carbs, Gluten Free, 8 Cookies",
+      "url": "https://www.amazon.com/dp/B01NBUJEKR/ref=cm_sw_r_as_gl_api_gl_i_7SETKAVW71AFK3X8CCZ9?linkCode=ml1&tag=noya0b-20&linkId=de88128e3deefa13ee38926393f526c2&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-13T09:40:16.170Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51NJaAR-hjL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0f5w2h5bz-antarctic-star-small-compact-refrigerator-with-led-light-4l-",
       "asin": "B0F5W2H5BZ",
@@ -243,11 +262,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0dmfpw3v7-boulder-canyon-avocado-oil-kettle-chips-variety-pack-1-oz-ba",
@@ -7599,21 +7614,6 @@
       "ts": "2026-10-03T14:00:24.861Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71WBmOKxjuL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b0fns3wysx-amazon-essentials-women-s-quilted-makeup-bag-with-brush-stor",
-      "asin": "B0FNS3WYSX",
-      "title": "Amazon Essentials Women's Quilted Makeup Bag with Brush Storage, Blue Floral, One Size",
-      "url": "https://www.amazon.com/dp/B0FNS3WYSX/ref=cm_sw_r_as_gl_api_gl_i_319D4G36Q8Q3BW12FKCN?linkCode=ml1&tag=noya0b-20&linkId=79414d758af1ab4031f4bbf16124a649&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-03T13:40:24.675Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81VIDmpeCML.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -15508,6 +15508,16 @@
       "category": "Toys & Kids",
       "ts": "2026-10-03T13:20:23.327Z",
       "archivedAt": "2026-10-13T09:30:03.525Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fns3wysx-amazon-essentials-women-s-quilted-makeup-bag-with-brush-stor",
+      "asin": "B0FNS3WYSX",
+      "title": "Amazon Essentials Women's Quilted Makeup Bag with Brush Storage, Blue Floral, One Size",
+      "url": "https://www.amazon.com/dp/B0FNS3WYSX/ref=cm_sw_r_as_gl_api_gl_i_319D4G36Q8Q3BW12FKCN?linkCode=ml1&tag=noya0b-20&linkId=79414d758af1ab4031f4bbf16124a649&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-03T13:40:24.675Z",
+      "archivedAt": "2026-10-13T09:50:02.374Z",
       "status": "archived"
     }
   ]
