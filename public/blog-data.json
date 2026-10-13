@@ -9,10 +9,23 @@
         "Other",
         "Beauty",
         "Grocery & Food",
-        "Toys & Kids",
-        "Home & Kitchen"
+        "Electronics",
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0H7SJVXPY",
+            "slug": "lisen-100w-gan-charger-3-port-block-for-iphone-18-pro-max-ch",
+            "title": "LISEN 100W GaN Charger 3-Port Block for iPhone 18 Pro Max Charger",
+            "price": "39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41RmS97tMdL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0H7SJVXPY/ref=cm_sw_r_as_gl_api_gl_i_K58R6B0PRKS3NH9HJWZD?linkCode=ml1&tag=noya0b-20&linkId=0e59abbed5ebb384b27448e4b0213048&gaOptInStatus=true"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B01NBUJEKR",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0H9WGYWHB",
-            "slug": "faogo-8-count-dividers-with-two-pockets-8-tab-binder-divider",
-            "title": "FAOGO 8 Count Dividers with Two Pockets, 8 Tab Binder Dividers for 3 Ring Binder Organizer, Multicolor, Writable Labels,",
-            "price": "1.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/41Jq6vxXI2L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0H9WGYWHB/ref=cm_sw_r_as_gl_apa_gl_i_941CT77K5K4F17REBDDS?linkCode=ml1&tag=noya0b-20&linkId=0677fbbd996836d9b2ed513c0f1b9db6&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0H7SJVXPY",
+          "slug": "lisen-100w-gan-charger-3-port-block-for-iphone-18-pro-max-ch",
+          "title": "LISEN 100W GaN Charger 3-Port Block for iPhone 18 Pro Max Charger",
+          "price": "39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/41RmS97tMdL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0H7SJVXPY/ref=cm_sw_r_as_gl_api_gl_i_K58R6B0PRKS3NH9HJWZD?linkCode=ml1&tag=noya0b-20&linkId=0e59abbed5ebb384b27448e4b0213048&gaOptInStatus=true"
+        },
         {
           "asin": "B01NBUJEKR",
           "slug": "quest-nutrition-frosted-protein-cookies-chocolate-cake-1g-su",
@@ -233,23 +244,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
           "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-        },
-        {
-          "asin": "B0H9WGYWHB",
-          "slug": "faogo-8-count-dividers-with-two-pockets-8-tab-binder-divider",
-          "title": "FAOGO 8 Count Dividers with Two Pockets, 8 Tab Binder Dividers for 3 Ring Binder Organizer, Multicolor, Writable Labels,",
-          "price": "1.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/41Jq6vxXI2L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0H9WGYWHB/ref=cm_sw_r_as_gl_apa_gl_i_941CT77K5K4F17REBDDS?linkCode=ml1&tag=noya0b-20&linkId=0677fbbd996836d9b2ed513c0f1b9db6&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"Quest Nutrition Frosted Protein Cookies, Chocolate Cake, <1g...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"LISEN 100W GaN Charger 3-Port Block for iPhone 18 Pro Max Ch...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-13T10:20:03.309Z",
-      "updatedAt": "2026-10-13T10:20:03.310Z"
+      "generatedAt": "2026-10-13T10:30:03.331Z",
+      "updatedAt": "2026-10-13T10:30:03.331Z"
     },
     {
       "date": "2026-10-12",
@@ -16211,5 +16211,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-13T10:20:03.318Z"
+  "generatedAt": "2026-10-13T10:30:03.339Z"
 }
