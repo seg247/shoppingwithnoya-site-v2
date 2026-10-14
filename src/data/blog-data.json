@@ -4,15 +4,50 @@
       "date": "2026-10-13",
       "slug": "2026-10-13",
       "title": "🔥 Best Deals Today — October 13, 2026",
-      "intro": "Today's best online deals for Tuesday, October 13, 2026 — 10 hand-picked discounts across Fashion, Toys & Kids, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, October 13, 2026 — 10 hand-picked discounts across Toys & Kids, Fashion, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Fashion",
         "Toys & Kids",
+        "Fashion",
         "Other",
         "Grocery & Food",
         "Electronics"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0G2KJ8V5R",
+            "slug": "lego-snowman-ornaments-40812",
+            "title": "LEGO Snowman Ornaments 40812",
+            "price": "10.28",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/41orTVxng-L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0G2KJ8V5R?ie=UTF8&ascsubtag=e06eef68c76611f1adb57a36fe989feb0INT&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a4622f500bf6514a0e1a93e14b000e5d&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B003ES5TKG",
+            "slug": "olympia-tools-foldable-push-cart-dolly-600-lb-capacity-heavy",
+            "title": "Olympia Tools Foldable Push Cart Dolly - 600 Lb. Capacity Heavy Duty Platform Truck with 360° Swivel Wheels - Blue",
+            "price": "95.04",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/31OmbQntXgL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B003ES5TKG?ie=UTF8&ascsubtag=156faed6c75e11f19a776e47c10a96f60INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=46c50c74088aad42774773ef0b2c0fdb&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B09TS1LVBV",
+            "slug": "harry-potter-sorting-hat-plush-burrow-dog-toy-with-crinkle-1",
+            "title": "Harry Potter Sorting Hat Plush Burrow Dog Toy with Crinkle, 10 Inch",
+            "price": "12.27",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/413mGYIqFzL._SL500_.jpg",
+            "url": "https://www.amazon.com/gp/product/B09TS1LVBV?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=849b53103ad270f928fb71a6347732e7&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0CX4LRHBL",
@@ -46,41 +81,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71Z+pBj3KgL.jpg",
             "url": "https://www.amazon.com/dp/B0FT3DRWJ9?tag=noya0b-20"
-          },
-          {
-            "asin": "B09M55KXDM",
-            "slug": "leggings-depot-womens-leggings-at-amazon-womens-clothing-sto",
-            "title": "Leggings Depot Women's Leggings at Amazon Women’s Clothing store",
-            "price": "$13.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY1000_.gif",
-            "url": "https://www.amazon.com/dp/B09M55KXDM?tag=noya0b-20"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B003ES5TKG",
-            "slug": "olympia-tools-foldable-push-cart-dolly-600-lb-capacity-heavy",
-            "title": "Olympia Tools Foldable Push Cart Dolly - 600 Lb. Capacity Heavy Duty Platform Truck with 360° Swivel Wheels - Blue",
-            "price": "95.04",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/31OmbQntXgL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B003ES5TKG?ie=UTF8&ascsubtag=156faed6c75e11f19a776e47c10a96f60INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=46c50c74088aad42774773ef0b2c0fdb&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09TS1LVBV",
-            "slug": "harry-potter-sorting-hat-plush-burrow-dog-toy-with-crinkle-1",
-            "title": "Harry Potter Sorting Hat Plush Burrow Dog Toy with Crinkle, 10 Inch",
-            "price": "12.27",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/413mGYIqFzL._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B09TS1LVBV?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=849b53103ad270f928fb71a6347732e7&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0G2KJ8V5R",
+          "slug": "lego-snowman-ornaments-40812",
+          "title": "LEGO Snowman Ornaments 40812",
+          "price": "10.28",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/41orTVxng-L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0G2KJ8V5R?ie=UTF8&ascsubtag=e06eef68c76611f1adb57a36fe989feb0INT&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=a4622f500bf6514a0e1a93e14b000e5d&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0CX4LRHBL",
           "slug": "generic-fashion-four-seasons-children-sneakers-girls-flat-th",
@@ -233,27 +244,16 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71Z+pBj3KgL.jpg",
           "url": "https://www.amazon.com/dp/B0FT3DRWJ9?tag=noya0b-20"
-        },
-        {
-          "asin": "B09M55KXDM",
-          "slug": "leggings-depot-womens-leggings-at-amazon-womens-clothing-sto",
-          "title": "Leggings Depot Women's Leggings at Amazon Women’s Clothing store",
-          "price": "$13.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY1000_.gif",
-          "url": "https://www.amazon.com/dp/B09M55KXDM?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"Generic Fashion Four Seasons Children Sneakers Girls Flat Th...\" and 9 other hand-picked discounts. Deals span Fashion, Toys & Kids, Other and are updated daily."
+          "a": "The best deals today include \"LEGO Snowman Ornaments 40812...\" and 9 other hand-picked discounts. Deals span Toys & Kids, Fashion, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Toys & Kids and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-14T00:40:03.450Z",
-      "updatedAt": "2026-10-14T00:40:03.450Z"
+      "generatedAt": "2026-10-14T00:50:03.592Z",
+      "updatedAt": "2026-10-14T00:50:03.593Z"
     },
     {
       "date": "2026-10-12",
@@ -16211,5 +16211,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-14T00:40:03.458Z"
+  "generatedAt": "2026-10-14T00:50:03.601Z"
 }
