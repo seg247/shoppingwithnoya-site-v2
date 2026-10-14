@@ -11,10 +11,33 @@
         "Electronics",
         "Tools & Hardware",
         "Fashion",
-        "Pet Supplies",
-        "Grocery & Food"
+        "Pet Supplies"
       ],
       "byCategory": {
+        "Toys & Kids": [
+          {
+            "asin": "B0FMS7CRHX",
+            "slug": "lego-botanicals-daisies-11508",
+            "title": "LEGO Botanicals Daisies 11508",
+            "price": "9.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/51C5HG+TLjL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_RP7DGAT0KJ97YATTR0J7?linkCode=ml1&tag=noya0b-20&linkId=3da69e9102cd4ba07f321e0e09ae25ba&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0D6Z814Y7",
+            "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
+            "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack",
+            "price": "8.77",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/41BwHyOMwsL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D6Z814Y7/ref=cm_sw_r_as_gl_api_gl_i_ADW9ZTZQF5CTYEC3SGSX?linkCode=ml1&tag=noya0b-20&linkId=1019c12a6571a38693f10f8616b5485d&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0H25XXP24",
@@ -59,19 +82,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/41M26Lwh+dL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GXJPV6SH/ref=cm_sw_r_as_gl_apa_gl_i_59EWXTNCDQ7QZG76FVMS?linkCode=ml1&tag=noya0b-20&linkId=68c73590576d87a74dc6add8c56f93dd&gaOptInStatus=true"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0D6Z814Y7",
-            "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
-            "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack",
-            "price": "8.77",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/41BwHyOMwsL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D6Z814Y7/ref=cm_sw_r_as_gl_api_gl_i_ADW9ZTZQF5CTYEC3SGSX?linkCode=ml1&tag=noya0b-20&linkId=1019c12a6571a38693f10f8616b5485d&gaOptInStatus=true"
           }
         ],
         "Electronics": [
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71zCEd-oueL.jpg",
             "url": "https://www.amazon.com/dp/B0C4LBDFPD?tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B00KE1EB3W",
-            "slug": "skinnypop-original-gluten-free-popcorn-individual-bags-1-oz",
-            "title": "SKINNYPOP Original, Gluten Free Popcorn Individual Bags, 1 oz (12 Count) | Snack box, Healthy Snacks for Adults, Vegan, ",
-            "price": "5.61",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/419g+2O5bGL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B00KE1EB3W/ref=cm_sw_r_as_gl_apa_gl_i_XSJ3CYPF9V6SNPAHQDB1?linkCode=ml1&tag=noya0b-20&linkId=b762c9b5d3418503b6821823938a9513&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FMS7CRHX",
+          "slug": "lego-botanicals-daisies-11508",
+          "title": "LEGO Botanicals Daisies 11508",
+          "price": "9.89",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/51C5HG+TLjL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_RP7DGAT0KJ97YATTR0J7?linkCode=ml1&tag=noya0b-20&linkId=3da69e9102cd4ba07f321e0e09ae25ba&gaOptInStatus=true"
+        },
         {
           "asin": "B0H25XXP24",
           "slug": "diyasy-60-pcs-fall-paper-cups-disposable-9-oz-thanksgiving-c",
@@ -239,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41M26Lwh+dL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0GXJPV6SH/ref=cm_sw_r_as_gl_apa_gl_i_59EWXTNCDQ7QZG76FVMS?linkCode=ml1&tag=noya0b-20&linkId=68c73590576d87a74dc6add8c56f93dd&gaOptInStatus=true"
-        },
-        {
-          "asin": "B00KE1EB3W",
-          "slug": "skinnypop-original-gluten-free-popcorn-individual-bags-1-oz",
-          "title": "SKINNYPOP Original, Gluten Free Popcorn Individual Bags, 1 oz (12 Count) | Snack box, Healthy Snacks for Adults, Vegan, ",
-          "price": "5.61",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/419g+2O5bGL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B00KE1EB3W/ref=cm_sw_r_as_gl_apa_gl_i_XSJ3CYPF9V6SNPAHQDB1?linkCode=ml1&tag=noya0b-20&linkId=b762c9b5d3418503b6821823938a9513&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 14, 2026?",
-          "a": "The best deals today include \"DIYASY 60 Pcs Fall Paper Cups Disposable, 9 oz Thanksgiving ...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Electronics and are updated daily."
+          "a": "The best deals today include \"LEGO Botanicals Daisies 11508...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-14T12:00:03.771Z",
-      "updatedAt": "2026-10-14T12:00:03.771Z"
+      "generatedAt": "2026-10-14T12:10:03.705Z",
+      "updatedAt": "2026-10-14T12:10:03.705Z"
     },
     {
       "date": "2026-10-13",
@@ -16205,5 +16202,5 @@
       "updatedAt": "2026-08-17T03:50:01.880Z"
     }
   ],
-  "generatedAt": "2026-10-14T12:00:03.780Z"
+  "generatedAt": "2026-10-14T12:10:03.715Z"
 }
