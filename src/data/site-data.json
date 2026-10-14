@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-14T15:40:01.383Z",
+  "generatedAt": "2026-10-14T15:50:01.577Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07dd38rvc-bob-s-red-mill-steel-cut-oats-24oz-4-pack",
+      "asin": "B07DD38RVC",
+      "title": "Bob's Red Mill Steel Cut Oats, 24oz (4 Pack)",
+      "url": "https://www.amazon.com/dp/B07DD38RVC?ie=UTF8&ascsubtag=d7b00516c7e211f1b8bd8a599d97f01a0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=faa92a6adfef52758bf9db806d55e2d4&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-10-14T15:40:18.771Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/418M1+BCHdL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0gltrzqky-mud-pie-toddler-girl-sequin-bomb-pop-tutu-dress-12-18-months",
       "asin": "B0GLTRZQKY",
@@ -319,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41rDXHhw2LL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0c4lbdfpd-bingpet-no-pull-dog-harness-leash-collar-set-adjustable-step",
@@ -7615,21 +7630,6 @@
       "ts": "2026-10-04T14:41:00.510Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91mmOum74rL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b0ctr6tj8x-dickies-men-s-dri-tech-original-moisture-control-crew-socks-",
-      "asin": "B0CTR6TJ8X",
-      "title": "Dickies Men's Dri-Tech Original Moisture Control Crew Socks, Available in M-XXL (6, 12, 18 Pairs), Black Bright (6 Pairs), Large : Clothing, Shoes & Jewelry",
-      "url": "https://www.amazon.com/dp/B0CTR6TJ8X?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-10-04T14:21:10.194Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81T1Sv4n6CL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -15854,6 +15854,16 @@
       "category": "Tools & Hardware",
       "ts": "2026-10-04T14:00:31.927Z",
       "archivedAt": "2026-10-14T15:30:01.808Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0ctr6tj8x-dickies-men-s-dri-tech-original-moisture-control-crew-socks-",
+      "asin": "B0CTR6TJ8X",
+      "title": "Dickies Men's Dri-Tech Original Moisture Control Crew Socks, Available in M-XXL (6, 12, 18 Pairs), Black Bright (6 Pairs), Large : Clothing, Shoes & Jewelry",
+      "url": "https://www.amazon.com/dp/B0CTR6TJ8X?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-10-04T14:21:10.194Z",
+      "archivedAt": "2026-10-14T15:50:01.577Z",
       "status": "archived"
     }
   ]
