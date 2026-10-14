@@ -4,14 +4,38 @@
       "date": "2026-10-14",
       "slug": "2026-10-14",
       "title": "🔥 Best Deals Today — October 14, 2026",
-      "intro": "Today's best online deals for Wednesday, October 14, 2026 — 10 hand-picked discounts across Other, Toys & Kids, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, October 14, 2026 — 10 hand-picked discounts across Other, Beauty, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Toys & Kids",
         "Beauty",
+        "Toys & Kids",
         "Grocery & Food"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B09HSGD74T",
+            "slug": "collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
+            "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic Acid & Vitamin E - Visibly Firming & Tightening Face Cream for Women & Men : Beauty & Personal Care",
+            "price": "$22.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
+            "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
+          },
+          {
+            "asin": "B09231NL5H",
+            "slug": "bellavita-luxury-mens-perfume-gift-set-with-ceo-man-goat-klu",
+            "title": "BellaVita Luxury Men's Perfume Gift Set with CEO Man, G.O.A.T., KLUB & OUD | 4 x 20ml (80ml) | Long Lasting Perfume for Men | Citrus, Woody, Patchouli & Caramel Notes : Beauty & Personal Care",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+            "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0014D2DA2",
@@ -67,17 +91,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/4177ZB4XmeL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GLTRZQKY?th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=af09f64304074d399398bb03611f42b2&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D4PY7TN3",
-            "slug": "artoid-mode-210-gsm-halloween-table-runner-home-party-decor",
-            "title": "Artoid Mode 210 GSM Halloween Table Runner Home Party Decor 13x60 Inch",
-            "price": "4.75",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/515QJl5+5lL._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B0D4PY7TN3?ie=UTF8&ascsubtag=dea974bcc7db11f1b5adfefb2ba00e5c0INT&smid=A18EP7IAE4NKQS&th=1&linkCode=sl2&tag=noya0b-20&linkId=b2961684de54008397a0b54072f3525f&language=en_US&gaOptInStatus=true"
           }
         ],
         "Toys & Kids": [
@@ -104,19 +117,6 @@
             "url": "https://www.amazon.com/dp/B0FTM7T1TP?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=9a01b05d8f0c6e3805b0fde537001874&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B09231NL5H",
-            "slug": "bellavita-luxury-mens-perfume-gift-set-with-ceo-man-goat-klu",
-            "title": "BellaVita Luxury Men's Perfume Gift Set with CEO Man, G.O.A.T., KLUB & OUD | 4 x 20ml (80ml) | Long Lasting Perfume for Men | Citrus, Woody, Patchouli & Caramel Notes : Beauty & Personal Care",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
-            "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-          }
-        ],
         "Grocery & Food": [
           {
             "asin": "B003TTH5OI",
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B09HSGD74T",
+          "slug": "collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
+          "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic Acid & Vitamin E - Visibly Firming & Tightening Face Cream for Women & Men : Beauty & Personal Care",
+          "price": "$22.89",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
+          "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
+        },
         {
           "asin": "B0014D2DA2",
           "slug": "wet-ones-hand-wipes-sensitive-skin-unscented-40-ct-canister",
@@ -230,23 +241,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/61XjBTEWZ2L._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B003TTH5OI?ie=UTF8&ascsubtag=b86ae0e8c7df11f19de85e5839d3f4a10INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=737ab41881d828534f1f9c0730119471&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0D4PY7TN3",
-          "slug": "artoid-mode-210-gsm-halloween-table-runner-home-party-decor",
-          "title": "Artoid Mode 210 GSM Halloween Table Runner Home Party Decor 13x60 Inch",
-          "price": "4.75",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/515QJl5+5lL._SL500_.jpg",
-          "url": "https://www.amazon.com/gp/product/B0D4PY7TN3?ie=UTF8&ascsubtag=dea974bcc7db11f1b5adfefb2ba00e5c0INT&smid=A18EP7IAE4NKQS&th=1&linkCode=sl2&tag=noya0b-20&linkId=b2961684de54008397a0b54072f3525f&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 14, 2026?",
-          "a": "The best deals today include \"Wet Ones Hand Wipes, Sensitive Skin, Unscented, 40 ct Canist...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Beauty and are updated daily."
+          "a": "The best deals today include \"Collagen Cream for Face with Retinol - Anti Aging Face Moist...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-14T20:20:01.970Z",
-      "updatedAt": "2026-10-14T20:20:01.970Z"
+      "generatedAt": "2026-10-14T20:30:02.356Z",
+      "updatedAt": "2026-10-14T20:30:02.356Z"
     },
     {
       "date": "2026-10-13",
@@ -16196,5 +16196,5 @@
       "updatedAt": "2026-08-17T03:50:01.880Z"
     }
   ],
-  "generatedAt": "2026-10-14T20:20:01.980Z"
+  "generatedAt": "2026-10-14T20:30:02.366Z"
 }
