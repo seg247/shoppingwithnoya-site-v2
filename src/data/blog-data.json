@@ -4,14 +4,37 @@
       "date": "2026-10-13",
       "slug": "2026-10-13",
       "title": "🔥 Best Deals Today — October 13, 2026",
-      "intro": "Today's best online deals for Tuesday, October 13, 2026 — 10 hand-picked discounts across Fashion, Toys & Kids, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, October 13, 2026 — 10 hand-picked discounts across Fashion, Grocery & Food, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Fashion",
-        "Toys & Kids",
         "Grocery & Food",
-        "Other"
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B014ULZPCW",
+            "slug": "chex-mix-muddy-buddies-peanut-butter-chocolate-snack-mix-25",
+            "title": "Chex Mix Muddy Buddies Peanut Butter & Chocolate Snack Mix, 25 ct | 25 Trick-or-Treat Size Pouches, Crispy Corn Chex, Ch",
+            "price": "6.87",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51Qe-foxSYL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B014ULZPCW/ref=cm_sw_r_as_gl_apa_gl_i_BCXJ01TJKG0M0R8V4PEB?linkCode=ml1&tag=noya0b-20&linkId=2c2875126689c1ee57257810e7cdc14b&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0BZBGMGK7",
+            "slug": "amazon-grocery-canned-traditional-refried-beans-16-oz",
+            "title": "Amazon Grocery, Canned Traditional Refried Beans, 16 Oz",
+            "price": "0.9",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/41SS+5YEeiL._SL500_.jpg",
+            "url": "https://www.amazon.com/gp/product/B0BZBGMGK7?ie=UTF8&ascsubtag=8b685ca4c75a11f1bc4632b0dc2721f00INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=f81ab91430b368aefbef3e5667b28a5c&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0GD8Q3QR3",
@@ -103,35 +126,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31OmbQntXgL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B003ES5TKG?ie=UTF8&ascsubtag=156faed6c75e11f19a776e47c10a96f60INT&th=1&linkCode=sl2&tag=noya0b-20&linkId=46c50c74088aad42774773ef0b2c0fdb&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0BZBGMGK7",
-            "slug": "amazon-grocery-canned-traditional-refried-beans-16-oz",
-            "title": "Amazon Grocery, Canned Traditional Refried Beans, 16 Oz",
-            "price": "0.9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41SS+5YEeiL._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B0BZBGMGK7?ie=UTF8&ascsubtag=8b685ca4c75a11f1bc4632b0dc2721f00INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=f81ab91430b368aefbef3e5667b28a5c&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B07PWBVQ1J",
-            "slug": "vasagle-shoe-bench-with-cushion-10-compartments-118-x-409-x",
-            "title": "VASAGLE Shoe Bench with Cushion, 10 Compartments, 11.8 x 40.9 x 18.9 Inches | Entryway Storage Bench with Padded Seat, f",
-            "price": "59.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/31wI598x4mL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B07PWBVQ1J?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=1d0004d1170a88c1d9dd7ebed042e452&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B014ULZPCW",
+          "slug": "chex-mix-muddy-buddies-peanut-butter-chocolate-snack-mix-25",
+          "title": "Chex Mix Muddy Buddies Peanut Butter & Chocolate Snack Mix, 25 ct | 25 Trick-or-Treat Size Pouches, Crispy Corn Chex, Ch",
+          "price": "6.87",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51Qe-foxSYL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B014ULZPCW/ref=cm_sw_r_as_gl_apa_gl_i_BCXJ01TJKG0M0R8V4PEB?linkCode=ml1&tag=noya0b-20&linkId=2c2875126689c1ee57257810e7cdc14b&gaOptInStatus=true"
+        },
         {
           "asin": "B0GD8Q3QR3",
           "slug": "nautica-boys-4-piece-formal-suit-set-with-vest-pants-collare",
@@ -230,23 +238,12 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/41SS+5YEeiL._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B0BZBGMGK7?ie=UTF8&ascsubtag=8b685ca4c75a11f1bc4632b0dc2721f00INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=f81ab91430b368aefbef3e5667b28a5c&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B07PWBVQ1J",
-          "slug": "vasagle-shoe-bench-with-cushion-10-compartments-118-x-409-x",
-          "title": "VASAGLE Shoe Bench with Cushion, 10 Compartments, 11.8 x 40.9 x 18.9 Inches | Entryway Storage Bench with Padded Seat, f",
-          "price": "59.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/31wI598x4mL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B07PWBVQ1J?th=1&gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=1d0004d1170a88c1d9dd7ebed042e452&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"Nautica Boys' 4-piece Formal Suit Set with Vest, Pants, Coll...\" and 9 other hand-picked discounts. Deals span Fashion, Toys & Kids, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Chex Mix Muddy Buddies Peanut Butter & Chocolate Snack Mix, ...\" and 9 other hand-picked discounts. Deals span Fashion, Grocery & Food, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +262,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-14T03:20:02.569Z",
-      "updatedAt": "2026-10-14T03:20:02.569Z"
+      "generatedAt": "2026-10-14T03:30:03.409Z",
+      "updatedAt": "2026-10-14T03:30:03.409Z"
     },
     {
       "date": "2026-10-12",
@@ -16208,5 +16205,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-14T03:20:02.577Z"
+  "generatedAt": "2026-10-14T03:30:03.417Z"
 }
