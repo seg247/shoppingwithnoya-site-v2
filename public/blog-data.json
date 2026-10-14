@@ -4,16 +4,51 @@
       "date": "2026-10-13",
       "slug": "2026-10-13",
       "title": "🔥 Best Deals Today — October 13, 2026",
-      "intro": "Today's best online deals for Tuesday, October 13, 2026 — 10 hand-picked discounts across Other, Toys & Kids, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, October 13, 2026 — 10 hand-picked discounts across Fashion, Toys & Kids, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
-        "Toys & Kids",
         "Fashion",
+        "Toys & Kids",
+        "Other",
         "Grocery & Food",
         "Electronics",
         "Home & Kitchen"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0B86CF16Z",
+            "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+            "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+            "price": "$44.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+            "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FT3DRWJ9",
+            "slug": "akodozo-womens-tie-waist-sweatshirt-long-sleeve-crewneck-pul",
+            "title": "AKODOZO Womens Tie Waist Sweatshirt Long Sleeve Crewneck Pullover Tops Casual Loose Fit Knit Blouse for Work Daily Wear Blue : Clothing, Shoes & Jewelry",
+            "price": "$19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Z+pBj3KgL.jpg",
+            "url": "https://www.amazon.com/dp/B0FT3DRWJ9?tag=noya0b-20"
+          },
+          {
+            "asin": "B09M55KXDM",
+            "slug": "leggings-depot-womens-leggings-at-amazon-womens-clothing-sto",
+            "title": "Leggings Depot Women's Leggings at Amazon Women’s Clothing store",
+            "price": "$13.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY1000_.gif",
+            "url": "https://www.amazon.com/dp/B09M55KXDM?tag=noya0b-20"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B003ES5TKG",
@@ -73,17 +108,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/41jqK5LppXL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FDKXFDBL/ref=cm_sw_r_as_gl_api_gl_i_FQ1Y2EGEZRY30EPW46V4?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CBJWSHFF",
-            "slug": "freshware-meal-prep-containers-50-pack-24-oz-food-containers",
-            "title": "Freshware Meal Prep Containers [50 Pack] 24 oz Food Containers with Lids | Reusable Lunch Box Containers, 1 Compartment ",
-            "price": "15.67",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51FxPtHv2gL._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B0CBJWSHFF?th=1&gaOptInStatus=true&ascsubtag=srctok-54171965baf0b40a&btn_type=ss&btn_ref=srctok-54171965baf0b40a&linkCode=sl2&tag=noya0b-20&linkId=aae7c843c5dcc7a79c8508a8300fed9f&language=en_US&gaOptInStatus=true"
           }
         ],
         "Electronics": [
@@ -97,30 +121,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51ZBghHsAxL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GHN2RCNT?psc=1&linkCode=sl2&tag=noya0b-20&linkId=f64d3f87a4698e4365e29baca1eb29d0&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0FT3DRWJ9",
-            "slug": "akodozo-womens-tie-waist-sweatshirt-long-sleeve-crewneck-pul",
-            "title": "AKODOZO Womens Tie Waist Sweatshirt Long Sleeve Crewneck Pullover Tops Casual Loose Fit Knit Blouse for Work Daily Wear Blue : Clothing, Shoes & Jewelry",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Z+pBj3KgL.jpg",
-            "url": "https://www.amazon.com/dp/B0FT3DRWJ9?tag=noya0b-20"
-          },
-          {
-            "asin": "B09M55KXDM",
-            "slug": "leggings-depot-womens-leggings-at-amazon-womens-clothing-sto",
-            "title": "Leggings Depot Women's Leggings at Amazon Women’s Clothing store",
-            "price": "$13.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY1000_.gif",
-            "url": "https://www.amazon.com/dp/B09M55KXDM?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0B86CF16Z",
+          "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+          "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+          "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
+        },
         {
           "asin": "B003ES5TKG",
           "slug": "olympia-tools-foldable-push-cart-dolly-600-lb-capacity-heavy",
@@ -236,27 +247,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/8169HkOvaeL.jpg",
           "url": "https://www.amazon.com/dp/B0F8HHQQ4C?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CBJWSHFF",
-          "slug": "freshware-meal-prep-containers-50-pack-24-oz-food-containers",
-          "title": "Freshware Meal Prep Containers [50 Pack] 24 oz Food Containers with Lids | Reusable Lunch Box Containers, 1 Compartment ",
-          "price": "15.67",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51FxPtHv2gL._SL500_.jpg",
-          "url": "https://www.amazon.com/gp/product/B0CBJWSHFF?th=1&gaOptInStatus=true&ascsubtag=srctok-54171965baf0b40a&btn_type=ss&btn_ref=srctok-54171965baf0b40a&linkCode=sl2&tag=noya0b-20&linkId=aae7c843c5dcc7a79c8508a8300fed9f&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 13, 2026?",
-          "a": "The best deals today include \"Olympia Tools Foldable Push Cart Dolly - 600 Lb. Capacity He...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Fashion and are updated daily."
+          "a": "The best deals today include \"U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Cl...\" and 9 other hand-picked discounts. Deals span Fashion, Toys & Kids, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-14T00:00:02.828Z",
-      "updatedAt": "2026-10-14T00:00:02.828Z"
+      "generatedAt": "2026-10-14T00:10:03.416Z",
+      "updatedAt": "2026-10-14T00:10:03.416Z"
     },
     {
       "date": "2026-10-12",
@@ -16214,5 +16214,5 @@
       "updatedAt": "2026-08-16T03:50:01.910Z"
     }
   ],
-  "generatedAt": "2026-10-14T00:00:02.836Z"
+  "generatedAt": "2026-10-14T00:10:03.425Z"
 }
