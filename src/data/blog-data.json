@@ -4,15 +4,39 @@
       "date": "2026-10-14",
       "slug": "2026-10-14",
       "title": "🔥 Best Deals Today — October 14, 2026",
-      "intro": "Today's best online deals for Wednesday, October 14, 2026 — 10 hand-picked discounts across Other, Grocery & Food, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, October 14, 2026 — 10 hand-picked discounts across Grocery & Food, Home & Kitchen, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Other",
         "Grocery & Food",
-        "Beauty",
         "Home & Kitchen",
+        "Other",
+        "Beauty",
         "Cleaning Supplies"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B072LVG9NM",
+            "slug": "scotch-brite-scrub-dots-non-scratch-scrub-sponge-rinses-clea",
+            "title": "Scotch-Brite Scrub Dots Non-Scratch Scrub Sponge, Rinses Clean, for Washing Dishes and Cleaning Kitchen, 3 Scrub Sponges",
+            "price": "3.59",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41MF7QEInqL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B072LVG9NM?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=622cae4667638c2053d97049bcfb51ed&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B07Y8QQ9L6",
+            "slug": "amazon-basics-space-saving-heavy-duty-non-slip-velvet-suit-h",
+            "title": "Amazon Basics Space Saving Heavy Duty Non-Slip Velvet Suit Hangers with Horizontal Tie Bar, Sturdy for Clothes Organizat",
+            "price": "15.41",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41gytN0wILL._SL500_.jpg",
+            "url": "https://www.amazon.com/gp/product/B07Y8QQ9L6?ie=UTF8&ascsubtag=de77cea0c82911f1beace2eb6c6c26480INT&smid=ATVPDKIKX0DER&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=efd5bafbc2539ee555dedb8551865c49&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0F4ZBZ2XP",
@@ -35,17 +59,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/41EmBUJMVhL._SL500_.jpg",
             "url": "https://www.amazon.com/gp/product/B0GJD96QJH?th=1&gaOptInStatus=true&ascsubtag=srctok-5b61babcad0f6afa&btn_type=pt&btn_ref=srctok-5b61babcad0f6afa&linkCode=sl2&tag=noya0b-20&linkId=9e8cda3dc29d95a1b44b7871e6e14715&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0014D2DA2",
-            "slug": "wet-ones-hand-wipes-sensitive-skin-unscented-40-ct-canister",
-            "title": "Wet Ones Hand Wipes, Sensitive Skin, Unscented, 40 ct Canister (1 Pack) | Hand and face wipes, Click-top canister lid, M",
-            "price": "3.02",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41ZQZZLP9mL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0014D2DA2/ref=cm_sw_r_as_gl_api_gl_i_GS74R322B43YZ2ZHNSM7?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -70,19 +83,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81Pw-boQ6aL.jpg",
             "url": "https://www.amazon.com/dp/B0C7ZM9VB8?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07Y8QQ9L6",
-            "slug": "amazon-basics-space-saving-heavy-duty-non-slip-velvet-suit-h",
-            "title": "Amazon Basics Space Saving Heavy Duty Non-Slip Velvet Suit Hangers with Horizontal Tie Bar, Sturdy for Clothes Organizat",
-            "price": "15.41",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/41gytN0wILL._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B07Y8QQ9L6?ie=UTF8&ascsubtag=de77cea0c82911f1beace2eb6c6c26480INT&smid=ATVPDKIKX0DER&th=1&psc=1&linkCode=sl2&tag=noya0b-20&linkId=efd5bafbc2539ee555dedb8551865c49&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B072LVG9NM",
+          "slug": "scotch-brite-scrub-dots-non-scratch-scrub-sponge-rinses-clea",
+          "title": "Scotch-Brite Scrub Dots Non-Scratch Scrub Sponge, Rinses Clean, for Washing Dishes and Cleaning Kitchen, 3 Scrub Sponges",
+          "price": "3.59",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/41MF7QEInqL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B072LVG9NM?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=622cae4667638c2053d97049bcfb51ed&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0F4ZBZ2XP",
           "slug": "gatorade-thirst-quencher-3-flavor-variety-12-fl-oz-cans-pack",
@@ -233,27 +244,16 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71h7lwFYIpL.jpg",
           "url": "https://www.amazon.com/dp/B0918VD8MV?th=1&linkCode=sl2&tag=noya0b-20&linkId=6bd7fd76900dd18b3850841435f21e44&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0014D2DA2",
-          "slug": "wet-ones-hand-wipes-sensitive-skin-unscented-40-ct-canister",
-          "title": "Wet Ones Hand Wipes, Sensitive Skin, Unscented, 40 ct Canister (1 Pack) | Hand and face wipes, Click-top canister lid, M",
-          "price": "3.02",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41ZQZZLP9mL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0014D2DA2/ref=cm_sw_r_as_gl_api_gl_i_GS74R322B43YZ2ZHNSM7?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 14, 2026?",
-          "a": "The best deals today include \"Gatorade Thirst Quencher, 3-Flavor Variety, 12 Fl Oz Cans (P...\" and 9 other hand-picked discounts. Deals span Other, Grocery & Food, Beauty and are updated daily."
+          "a": "The best deals today include \"Scotch-Brite Scrub Dots Non-Scratch Scrub Sponge, Rinses Cle...\" and 9 other hand-picked discounts. Deals span Grocery & Food, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Grocery & Food and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-15T01:20:02.255Z",
-      "updatedAt": "2026-10-15T01:20:02.256Z"
+      "generatedAt": "2026-10-15T01:30:01.622Z",
+      "updatedAt": "2026-10-15T01:30:01.622Z"
     },
     {
       "date": "2026-10-13",
@@ -16199,5 +16199,5 @@
       "updatedAt": "2026-08-17T03:50:01.880Z"
     }
   ],
-  "generatedAt": "2026-10-15T01:20:02.267Z"
+  "generatedAt": "2026-10-15T01:30:01.631Z"
 }
