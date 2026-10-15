@@ -12,24 +12,21 @@
         "Fashion",
         "Sports & Fitness",
         "Grocery",
-        "Health",
-        "Pet Supplies"
+        "Health"
       ],
       "byCategory": {
-        "Toys & Kids": [
+        "Other": [
           {
-            "asin": "B0GYPTBH84",
-            "slug": "fuzz-ball-squishy-stress-ballsoft-fidget-squishy-fuzz-squeez",
-            "title": "Fuzz Ball Squishy Stress Ball,Soft Fidget Squishy Fuzz Squeeze Ball for Adults,Anxiety Stress Relief Toys,Party Favors G",
-            "price": "$8",
+            "asin": "B0GZ5LBQ84",
+            "slug": "lee-kum-kee-oil-sesame-pure-15-oz-pack-of-6-sesame-oil-toast",
+            "title": "Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil – Toasted Sesame Oil with Food a Random Item – 7 Total Items",
+            "price": "$22",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VbkVUjcVL.jpg",
-            "url": "https://www.amazon.com/Squishy-Stress-Fidget-Squeeze-Anxiety/dp/B0GYPTBH84?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a90e33a0751d1a1ae47ba21a1b79822&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61M1LSvcrZL.jpg",
+            "url": "https://www.amazon.com/dp/B0GZ5LBQ84?psc=1&linkCode=sl2&tag=noya0b-20&linkId=0f6766c4deea91c537fa90204ec305c8&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B0HMGM1J3X",
             "slug": "faogo-colorful-11in-paper-clips-heavy-duty-ideal-for-office",
@@ -51,6 +48,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51dXz+mtKFL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B006LGHONS?th=1&linkCode=sl2&tag=noya0b-20&linkId=75548fc2821a6bc8a46ec0a7fea96377&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0GYPTBH84",
+            "slug": "fuzz-ball-squishy-stress-ballsoft-fidget-squishy-fuzz-squeez",
+            "title": "Fuzz Ball Squishy Stress Ball,Soft Fidget Squishy Fuzz Squeeze Ball for Adults,Anxiety Stress Relief Toys,Party Favors G",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VbkVUjcVL.jpg",
+            "url": "https://www.amazon.com/Squishy-Stress-Fidget-Squeeze-Anxiety/dp/B0GYPTBH84?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a90e33a0751d1a1ae47ba21a1b79822&language=en_US&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61r0UWAWY9L.jpg",
             "url": "https://www.amazon.com/dp/B08FM6GZSY?tag=noya0b-20"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B08N54854N",
-            "slug": "qqpets-dog-harness-collar-leash-no-pull-pet-adjustable-back",
-            "title": "QQPETS Dog Harness Collar Leash - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for Extra Small Puppy Medium Large Breed Training (XS,Space)",
-            "price": "$16.38",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
-            "url": "https://www.amazon.com/dp/B08N54854N?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GZ5LBQ84",
+          "slug": "lee-kum-kee-oil-sesame-pure-15-oz-pack-of-6-sesame-oil-toast",
+          "title": "Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil – Toasted Sesame Oil with Food a Random Item – 7 Total Items",
+          "price": "$22",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61M1LSvcrZL.jpg",
+          "url": "https://www.amazon.com/dp/B0GZ5LBQ84?psc=1&linkCode=sl2&tag=noya0b-20&linkId=0f6766c4deea91c537fa90204ec305c8&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0GYPTBH84",
           "slug": "fuzz-ball-squishy-stress-ballsoft-fidget-squishy-fuzz-squeez",
@@ -242,23 +250,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61r0UWAWY9L.jpg",
           "url": "https://www.amazon.com/dp/B08FM6GZSY?tag=noya0b-20"
-        },
-        {
-          "asin": "B08N54854N",
-          "slug": "qqpets-dog-harness-collar-leash-no-pull-pet-adjustable-back",
-          "title": "QQPETS Dog Harness Collar Leash - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for Extra Small Puppy Medium Large Breed Training (XS,Space)",
-          "price": "$16.38",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
-          "url": "https://www.amazon.com/dp/B08N54854N?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 15, 2026?",
-          "a": "The best deals today include \"Fuzz Ball Squishy Stress Ball,Soft Fidget Squishy Fuzz Squee...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil –...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-15T23:20:03.176Z",
-      "updatedAt": "2026-10-15T23:20:03.176Z"
+      "generatedAt": "2026-10-15T23:30:02.238Z",
+      "updatedAt": "2026-10-15T23:30:02.239Z"
     },
     {
       "date": "2026-10-14",
@@ -16199,5 +16196,5 @@
       "updatedAt": "2026-08-18T03:50:02.163Z"
     }
   ],
-  "generatedAt": "2026-10-15T23:20:03.185Z"
+  "generatedAt": "2026-10-15T23:30:02.246Z"
 }
