@@ -11,10 +11,33 @@
         "Other",
         "Electronics",
         "Garden & Outdoor",
-        "Beauty",
-        "Toys & Kids"
+        "Beauty"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B09YJ6H46H",
+            "slug": "furinno-luder-3-tier-book-shelf-open-shelves-bookshelf-black",
+            "title": "Furinno LUDER 3-Tier Book Shelf, Open Shelves Bookshelf, Blackwood | 9 x 16 x 31.4, Closed Back, Modern Bookcase, for Li",
+            "price": "24.76",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/31naLqMLTIL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B09YJ6H46H?th=1&linkCode=sl2&tag=noya0b-20&linkId=ea7b734bb7bb40144310162f9c5064bf&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DFNZ4XVT",
+            "slug": "jansport-mini-skip-pack-compact-backpack-with-main-compartme",
+            "title": "JanSport Mini Skip Pack – Compact Backpack with Main Compartment, Side Water Bottle Pocket, and Zippered Accessory Pocke",
+            "price": "19.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/41ETOcfaAJL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DFNZ4XVT/ref=cm_sw_r_as_gl_api_gl_i_HSMSFF095RW1CEME3GWP?linkCode=ml1&tag=noya0b-20&linkId=db013ddd86985e9fcc675a43a40b1d3f&gaOptInStatus=true"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B07CLVHB9V",
@@ -59,19 +82,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/71AoTRzYtBL.jpg",
             "url": "https://www.amazon.com/dp/B0CX4LRHBL?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DFNZ4XVT",
-            "slug": "jansport-mini-skip-pack-compact-backpack-with-main-compartme",
-            "title": "JanSport Mini Skip Pack – Compact Backpack with Main Compartment, Side Water Bottle Pocket, and Zippered Accessory Pocke",
-            "price": "19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/41ETOcfaAJL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DFNZ4XVT/ref=cm_sw_r_as_gl_api_gl_i_HSMSFF095RW1CEME3GWP?linkCode=ml1&tag=noya0b-20&linkId=db013ddd86985e9fcc675a43a40b1d3f&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51OzUQ-t95L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_ZYA0VKCKF8K9P5WFP3MA?linkCode=ml1&tag=noya0b-20&linkId=f3efc278cf1f0b62f319f7abd74f9864&gaOptInStatus=true"
           }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B0D6Z814Y7",
-            "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
-            "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack | For Newborn Babies, BPA-Free Skin Soft Silicone",
-            "price": "8.77",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/41BwHyOMwsL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D6Z814Y7/ref=cm_sw_r_as_gl_api_gl_i_XQ8X9VNJ6X4T9FT7NV5Y?linkCode=ml1&tag=noya0b-20&linkId=ea3090fa340529e64e292ae4d427e894&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B09YJ6H46H",
+          "slug": "furinno-luder-3-tier-book-shelf-open-shelves-bookshelf-black",
+          "title": "Furinno LUDER 3-Tier Book Shelf, Open Shelves Bookshelf, Blackwood | 9 x 16 x 31.4, Closed Back, Modern Bookcase, for Li",
+          "price": "24.76",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/31naLqMLTIL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B09YJ6H46H?th=1&linkCode=sl2&tag=noya0b-20&linkId=ea7b734bb7bb40144310162f9c5064bf&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B07CLVHB9V",
           "slug": "womens-purses-and-handbags-shoulder-bags-top-handle-satchel",
@@ -239,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71AoTRzYtBL.jpg",
           "url": "https://www.amazon.com/dp/B0CX4LRHBL?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D6Z814Y7",
-          "slug": "mam-original-baby-pacifier-0-6-mths-skin-soft-silicone-nippl",
-          "title": "MAM Original Baby Pacifier 0-6 Mths, Skin Soft Silicone Nipple, 4 Pack | For Newborn Babies, BPA-Free Skin Soft Silicone",
-          "price": "8.77",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/41BwHyOMwsL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0D6Z814Y7/ref=cm_sw_r_as_gl_api_gl_i_XQ8X9VNJ6X4T9FT7NV5Y?linkCode=ml1&tag=noya0b-20&linkId=ea3090fa340529e64e292ae4d427e894&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 16, 2026?",
-          "a": "The best deals today include \"Womens Purses and Handbags Shoulder Bags Top Handle Satchel ...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"Furinno LUDER 3-Tier Book Shelf, Open Shelves Bookshelf, Bla...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-16T15:20:01.939Z",
-      "updatedAt": "2026-10-16T15:20:01.939Z"
+      "generatedAt": "2026-10-16T15:30:01.881Z",
+      "updatedAt": "2026-10-16T15:30:01.881Z"
     },
     {
       "date": "2026-10-15",
@@ -16202,5 +16199,5 @@
       "updatedAt": "2026-08-19T03:50:01.491Z"
     }
   ],
-  "generatedAt": "2026-10-16T15:20:01.952Z"
+  "generatedAt": "2026-10-16T15:30:01.889Z"
 }
