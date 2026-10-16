@@ -11,10 +11,55 @@
         "Garden & Outdoor",
         "Home & Kitchen",
         "Beauty",
-        "Toys & Kids",
-        "Sports & Fitness"
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B00MQIQ1V6",
+            "slug": "mccormick-smoked-paprika-175-oz",
+            "title": "McCormick Smoked Paprika, 1.75 oz",
+            "price": "2.36",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/416WOuqxLJL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B00MQIQ1V6?ie=UTF8&ascsubtag=29dedee8c90511f18a653ee22d80e2210INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=d83029daba07030990d5d89541f85a71&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0GZ5LBQ84",
+            "slug": "lee-kum-kee-oil-sesame-pure-15-oz-pack-of-6-sesame-oil-toast",
+            "title": "Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil – Toasted Sesame Oil with Food a Random Item – 7 Total Items",
+            "price": "$22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61M1LSvcrZL.jpg",
+            "url": "https://www.amazon.com/dp/B0GZ5LBQ84?psc=1&linkCode=sl2&tag=noya0b-20&linkId=0f6766c4deea91c537fa90204ec305c8&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0HMGM1J3X",
+            "slug": "faogo-colorful-11in-paper-clips-heavy-duty-ideal-for-office",
+            "title": "FAOGO Colorful 1.1in Paper Clips – Heavy Duty, Ideal for Office, School & Home Use, Portable Cordless Handheld for Home ",
+            "price": "0.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51OJhUf0lFL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0HMGM1J3X?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=56804436acfd08ff9b8c1354d67471e8&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B006LGHONS",
+            "slug": "maruchan-ramen-noodle-soup-lime-chili-shrimp-flavor-japanese",
+            "title": "Maruchan Ramen Noodle Soup, Lime Chili Shrimp Flavor – Japanese-Style Instant Noodles, Quick & Easy Meal for Students & ",
+            "price": "11.69",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dXz+mtKFL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B006LGHONS?th=1&linkCode=sl2&tag=noya0b-20&linkId=75548fc2821a6bc8a46ec0a7fea96377&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0F8GZV8D9",
@@ -78,41 +123,6 @@
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0GZ5LBQ84",
-            "slug": "lee-kum-kee-oil-sesame-pure-15-oz-pack-of-6-sesame-oil-toast",
-            "title": "Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil – Toasted Sesame Oil with Food a Random Item – 7 Total Items",
-            "price": "$22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61M1LSvcrZL.jpg",
-            "url": "https://www.amazon.com/dp/B0GZ5LBQ84?psc=1&linkCode=sl2&tag=noya0b-20&linkId=0f6766c4deea91c537fa90204ec305c8&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0HMGM1J3X",
-            "slug": "faogo-colorful-11in-paper-clips-heavy-duty-ideal-for-office",
-            "title": "FAOGO Colorful 1.1in Paper Clips – Heavy Duty, Ideal for Office, School & Home Use, Portable Cordless Handheld for Home ",
-            "price": "0.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51OJhUf0lFL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0HMGM1J3X?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=56804436acfd08ff9b8c1354d67471e8&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B006LGHONS",
-            "slug": "maruchan-ramen-noodle-soup-lime-chili-shrimp-flavor-japanese",
-            "title": "Maruchan Ramen Noodle Soup, Lime Chili Shrimp Flavor – Japanese-Style Instant Noodles, Quick & Easy Meal for Students & ",
-            "price": "11.69",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51dXz+mtKFL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B006LGHONS?th=1&linkCode=sl2&tag=noya0b-20&linkId=75548fc2821a6bc8a46ec0a7fea96377&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Toys & Kids": [
           {
             "asin": "B0GYPTBH84",
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71VbkVUjcVL.jpg",
             "url": "https://www.amazon.com/Squishy-Stress-Fidget-Squeeze-Anxiety/dp/B0GYPTBH84?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=9a90e33a0751d1a1ae47ba21a1b79822&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0G6JDZ9QZ",
-            "slug": "vollsch-bmx-style-kids-bike-for-6-14-years-old-boys-girls-te",
-            "title": "vollsch BMX Style Kids Bike for 6-14 Years Old Boys Girls Teens 20 Inch Bicycle with Kickstand Rear V Brake Coaster Brak",
-            "price": "117.33",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/51g59q61LtL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G6JDZ9QZ?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00MQIQ1V6",
+          "slug": "mccormick-smoked-paprika-175-oz",
+          "title": "McCormick Smoked Paprika, 1.75 oz",
+          "price": "2.36",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/416WOuqxLJL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B00MQIQ1V6?ie=UTF8&ascsubtag=29dedee8c90511f18a653ee22d80e2210INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=d83029daba07030990d5d89541f85a71&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0F8GZV8D9",
           "slug": "shintenchi-4-piece-outdoor-patio-furniture-set-wicker-rattan",
@@ -239,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51dXz+mtKFL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B006LGHONS?th=1&linkCode=sl2&tag=noya0b-20&linkId=75548fc2821a6bc8a46ec0a7fea96377&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G6JDZ9QZ",
-          "slug": "vollsch-bmx-style-kids-bike-for-6-14-years-old-boys-girls-te",
-          "title": "vollsch BMX Style Kids Bike for 6-14 Years Old Boys Girls Teens 20 Inch Bicycle with Kickstand Rear V Brake Coaster Brak",
-          "price": "117.33",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/51g59q61LtL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G6JDZ9QZ?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 15, 2026?",
-          "a": "The best deals today include \"Shintenchi 4 Piece Outdoor Patio Furniture Set, Wicker Ratta...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"McCormick Smoked Paprika, 1.75 oz...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-16T02:00:02.619Z",
-      "updatedAt": "2026-10-16T02:00:02.619Z"
+      "generatedAt": "2026-10-16T02:10:02.725Z",
+      "updatedAt": "2026-10-16T02:10:02.726Z"
     },
     {
       "date": "2026-10-14",
@@ -16196,5 +16193,5 @@
       "updatedAt": "2026-08-18T03:50:02.163Z"
     }
   ],
-  "generatedAt": "2026-10-16T02:00:02.628Z"
+  "generatedAt": "2026-10-16T02:10:02.733Z"
 }
