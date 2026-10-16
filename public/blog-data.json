@@ -10,8 +10,8 @@
         "Fashion",
         "Home & Kitchen",
         "Beauty",
-        "Garden & Outdoor",
-        "Toys & Kids"
+        "Other",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Fashion": [
@@ -86,6 +86,19 @@
             "url": "https://mavely.app.link/0BIASJ0Wh7b"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0090DY3K6",
+            "slug": "gerber-stage-2-organic-pear-peach-strawberry-pouches-35-oz-1",
+            "title": "Gerber Stage 2 Organic Pear Peach Strawberry Pouches, 3.5 Oz, 12 Pack | Stage 2 organic fruit puree pouch; pear peach st",
+            "price": "11.88",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/418LMWvv+AL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0090DY3K6?th=1&linkCode=sl2&tag=noya0b-20&linkId=60633e663a63dcb88840feb975ea6bac&language=en_US&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B01G3WS3PW",
@@ -121,19 +134,6 @@
             "category": "Garden & Outdoor",
             "imageUrl": "https://m.media-amazon.com/images/I/716g7BrA+JL.jpg",
             "url": "https://www.amazon.com/dp/B09MPHQ3Q7?tag=noya0b-20"
-          }
-        ],
-        "Toys & Kids": [
-          {
-            "asin": "B07YR9T251",
-            "slug": "melissa-doug-take-along-wooden-toy-barn-11-pc-portable-toddl",
-            "title": "Melissa & Doug Take-Along Wooden Toy Barn, 11-Pc Portable Toddler Playset with Farm Animals & Pop-Up Roof, Preschool Lea",
-            "price": "15.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/412vhoPq8fL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B07YR9T251?th=1&tag=noya0b-20"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://mavely.app.link/0BIASJ0Wh7b"
         },
         {
+          "asin": "B0090DY3K6",
+          "slug": "gerber-stage-2-organic-pear-peach-strawberry-pouches-35-oz-1",
+          "title": "Gerber Stage 2 Organic Pear Peach Strawberry Pouches, 3.5 Oz, 12 Pack | Stage 2 organic fruit puree pouch; pear peach st",
+          "price": "11.88",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/418LMWvv+AL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0090DY3K6?th=1&linkCode=sl2&tag=noya0b-20&linkId=60633e663a63dcb88840feb975ea6bac&language=en_US&gaOptInStatus=true"
+        },
+        {
           "asin": "B01G3WS3PW",
           "slug": "utopia-home-velvet-hangers-black-50-pack-luxury-non-slip-sli",
           "title": "Utopia Home Velvet Hangers, Black, 50 Pack | Luxury Non-Slip Slim Pant & Coat Hangers | Strong Space-Saving Clothes Hang",
@@ -236,17 +247,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://belk.scene7.com/is/image/Belk?layer=0&src=9200490_74623YR0000602_A_074&wid=2300&fit=wrap",
           "url": "https://mavely.app.link/3WI7ZCPWh7b"
-        },
-        {
-          "asin": "B07YR9T251",
-          "slug": "melissa-doug-take-along-wooden-toy-barn-11-pc-portable-toddl",
-          "title": "Melissa & Doug Take-Along Wooden Toy Barn, 11-Pc Portable Toddler Playset with Farm Animals & Pop-Up Roof, Preschool Lea",
-          "price": "15.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/412vhoPq8fL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B07YR9T251?th=1&tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-16T18:40:02.430Z",
-      "updatedAt": "2026-10-16T18:40:02.430Z"
+      "generatedAt": "2026-10-16T18:50:01.777Z",
+      "updatedAt": "2026-10-16T18:50:01.777Z"
     },
     {
       "date": "2026-10-15",
@@ -16199,5 +16199,5 @@
       "updatedAt": "2026-08-19T03:50:01.491Z"
     }
   ],
-  "generatedAt": "2026-10-16T18:40:02.439Z"
+  "generatedAt": "2026-10-16T18:50:01.786Z"
 }
