@@ -11,8 +11,8 @@
         "Fashion",
         "Beauty",
         "Gift Cards",
-        "Electronics",
-        "Garden & Outdoor"
+        "Toys & Kids",
+        "Electronics"
       ],
       "byCategory": {
         "Beauty": [
@@ -39,6 +39,19 @@
             "category": "Gift Cards",
             "imageUrl": "https://www.giftcards.com/adobe/dynamicmedia/deliver/dm-aid--5021682d-1e4d-4459-8143-57c12ab99178/07675067154-1049509-master.png?preferwebp=true&quality=85&width=800",
             "url": "https://mavely.app.link/RZOk3RPUh7b"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B07YR9T251",
+            "slug": "melissa-doug-take-along-wooden-toy-barn-11-pc-portable-toddl",
+            "title": "Melissa & Doug Take-Along Wooden Toy Barn, 11-Pc Portable Toddler Playset with Farm Animals & Pop-Up Roof, Preschool Lea",
+            "price": "15.49",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/412vhoPq8fL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B07YR9T251?th=1&tag=noya0b-20"
           }
         ],
         "Other": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41jo0BW9ftL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B00P2SL9YG/ref=cm_sw_r_as_gl_api_gl_i_R80453YXY07TGXDM5QVW?linkCode=ml1&tag=noya0b-20&linkId=7b89eba18e392b395f829fef54ca6f96&gaOptInStatus=true"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0CQBYVGPF",
-            "slug": "blisstrends-magnetic-screen-door-mesh-screen-doors3883-door",
-            "title": "BlissTrends Magnetic Screen Door, Mesh Screen Doors，38\"×83\" | Door Screen Magnetic Closure, Patio Screens for Patios Out",
-            "price": "6.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/51P77q9OtFL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CQBYVGPF/ref=cm_sw_r_as_gl_api_gl_i_4SESX7DMAK362HRHVD5Y?linkCode=ml1&tag=noya0b-20&linkId=353066b52c8201b4c9f7f5c9ceb7b56f&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Gift Cards",
           "imageUrl": "https://www.giftcards.com/adobe/dynamicmedia/deliver/dm-aid--5021682d-1e4d-4459-8143-57c12ab99178/07675067154-1049509-master.png?preferwebp=true&quality=85&width=800",
           "url": "https://mavely.app.link/RZOk3RPUh7b"
+        },
+        {
+          "asin": "B07YR9T251",
+          "slug": "melissa-doug-take-along-wooden-toy-barn-11-pc-portable-toddl",
+          "title": "Melissa & Doug Take-Along Wooden Toy Barn, 11-Pc Portable Toddler Playset with Farm Animals & Pop-Up Roof, Preschool Lea",
+          "price": "15.49",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/412vhoPq8fL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B07YR9T251?th=1&tag=noya0b-20"
         },
         {
           "asin": "B0FSRW6YBV",
@@ -239,17 +250,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/41jo0BW9ftL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B00P2SL9YG/ref=cm_sw_r_as_gl_api_gl_i_R80453YXY07TGXDM5QVW?linkCode=ml1&tag=noya0b-20&linkId=7b89eba18e392b395f829fef54ca6f96&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CQBYVGPF",
-          "slug": "blisstrends-magnetic-screen-door-mesh-screen-doors3883-door",
-          "title": "BlissTrends Magnetic Screen Door, Mesh Screen Doors，38\"×83\" | Door Screen Magnetic Closure, Patio Screens for Patios Out",
-          "price": "6.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/51P77q9OtFL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CQBYVGPF/ref=cm_sw_r_as_gl_api_gl_i_4SESX7DMAK362HRHVD5Y?linkCode=ml1&tag=noya0b-20&linkId=353066b52c8201b4c9f7f5c9ceb7b56f&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-16T16:40:02.460Z",
-      "updatedAt": "2026-10-16T16:40:02.460Z"
+      "generatedAt": "2026-10-16T16:50:02.340Z",
+      "updatedAt": "2026-10-16T16:50:02.340Z"
     },
     {
       "date": "2026-10-15",
@@ -16202,5 +16202,5 @@
       "updatedAt": "2026-08-19T03:50:01.491Z"
     }
   ],
-  "generatedAt": "2026-10-16T16:40:02.473Z"
+  "generatedAt": "2026-10-16T16:50:02.354Z"
 }
