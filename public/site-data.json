@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-17T12:00:02.124Z",
+  "generatedAt": "2026-10-17T12:10:02.111Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b08zf53wzm-amazon-basic-care-all-day-allergy-cetirizine-hydrochloride-t",
+      "asin": "B08ZF53WZM",
+      "title": "Amazon Basic Care All Day Allergy, Cetirizine Hydrochloride Tablets, 10 mg, 24-Hour Relief for Sneezing, Runny Nose, Itc",
+      "url": "https://www.amazon.com/dp/B08ZF53WZM/ref=cm_sw_r_as_gl_api_gl_i_53RHMN9378N1QEY3K9WS?linkCode=ml1&tag=noya0b-20&linkId=2c0cd3b7dcc49f6d432992a80d648c5b&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-10-17T12:00:18.210Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41cUxd8uwLL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b07l8zzt1v-rubies-marvel-avengers-endgame-child-s-black-panther-costume",
       "asin": "B07L8ZZT1V",
@@ -262,11 +281,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b07grvq4vx-6-pack-of-1-qt-dap-12330-drydex-interior-exterior-spackling",
@@ -7623,21 +7638,6 @@
       "ts": "2026-10-06T09:41:12.522Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41yavcaBxuL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b07dpjh1lr-bostitch-office-premium-3-hole-punch-12-sheet-capacity-metal",
-      "asin": "B07DPJH1LR",
-      "title": "Bostitch Office Premium 3 Hole Punch, 12 Sheet Capacity, Metal, Rubber Base, Easy-Clean Tray, Silver, Gray",
-      "url": "https://www.amazon.com/dp/B07DPJH1LR?th=1&linkCode=sl2&tag=noya0b-20&linkId=a4f013ef39652388c9de4b458b71292f&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Office & Stationery",
-      "ts": "2026-10-06T09:20:27.236Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61smTdF3ZrL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -16402,6 +16402,16 @@
       "category": "Garden & Outdoor",
       "ts": "2026-10-06T09:01:15.791Z",
       "archivedAt": "2026-10-17T11:50:01.579Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b07dpjh1lr-bostitch-office-premium-3-hole-punch-12-sheet-capacity-metal",
+      "asin": "B07DPJH1LR",
+      "title": "Bostitch Office Premium 3 Hole Punch, 12 Sheet Capacity, Metal, Rubber Base, Easy-Clean Tray, Silver, Gray",
+      "url": "https://www.amazon.com/dp/B07DPJH1LR?th=1&linkCode=sl2&tag=noya0b-20&linkId=a4f013ef39652388c9de4b458b71292f&language=en_US&gaOptInStatus=true",
+      "category": "Office & Stationery",
+      "ts": "2026-10-06T09:20:27.236Z",
+      "archivedAt": "2026-10-17T12:10:02.111Z",
       "status": "archived"
     }
   ]
