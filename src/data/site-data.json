@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:50:02.108Z",
+  "generatedAt": "2026-10-17T04:00:01.875Z",
   "total": 500,
   "posts": [
     {
@@ -340,7 +340,11 @@
       "imageUrl": "https://image.menswearhouse.com/is/image/marketing/26-5830402MWWKNDSALE1015_pants_2x.jpg",
       "expiresAt": "2026-10-18",
       "promoCode": null,
-      "badge": null
+      "badge": {
+        "key": "ending",
+        "label": "⏰ Ending soon",
+        "tone": "ending"
+      }
     },
     {
       "slug": "belk-kids-active-20261016-belk-select-kids-activewear-50-off",
@@ -374,7 +378,11 @@
       "imageUrl": "https://belk.scene7.com/is/image/Belk?layer=0&src=9200490_74623YR0000602_A_074&wid=2300&fit=wrap",
       "expiresAt": "2026-10-18",
       "promoCode": null,
-      "badge": null
+      "badge": {
+        "key": "ending",
+        "label": "⏰ Ending soon",
+        "tone": "ending"
+      }
     },
     {
       "slug": "gfc-hardees-treats15-20261016-hardee-s-egift-card-15-off-with-treats15-at-giftcards-com",
