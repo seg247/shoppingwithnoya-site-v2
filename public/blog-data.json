@@ -13,20 +13,18 @@
         "Home & Kitchen"
       ],
       "byCategory": {
-        "Electronics": [
+        "Other": [
           {
-            "asin": "B08ZF53WZM",
-            "slug": "amazon-basic-care-all-day-allergy-cetirizine-hydrochloride-t",
-            "title": "Amazon Basic Care All Day Allergy, Cetirizine Hydrochloride Tablets, 10 mg, 24-Hour Relief for Sneezing, Runny Nose, Itc",
-            "price": "2.27",
+            "asin": "B0FNWVVYB4",
+            "slug": "wiggy-mermaid-blonde-mixed-pink-blue-ombre-wavy-wig-2-clips",
+            "title": "Wiggy Mermaid Blonde Mixed Pink Blue Ombre Wavy Wig + 2 Clips for Women Colorful Rainbow Wig + Cap for Halloween Costume",
+            "price": "9.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/41cUxd8uwLL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B08ZF53WZM/ref=cm_sw_r_as_gl_api_gl_i_53RHMN9378N1QEY3K9WS?linkCode=ml1&tag=noya0b-20&linkId=2c0cd3b7dcc49f6d432992a80d648c5b&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41hNeBA80wL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FNWVVYB4/ref=cm_sw_r_as_gl_api_gl_i_AV25C8D03N67327B5E3C?linkCode=ml1&tag=noya0b-20&linkId=60c67d4210f38a51a7a66f16c5a47f1d&gaOptInStatus=true"
+          },
           {
             "asin": "B07L8ZZT1V",
             "slug": "rubies-marvel-avengers-endgame-childs-black-panther-costume",
@@ -81,17 +79,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/41pTYtcs1YL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0G7TH18XM/ref=cm_sw_r_as_gl_api_gl_i_AYA5EXX470Q6DP302PEV?linkCode=ml1&tag=noya0b-20&linkId=c0ece1188efe972f2da1b2be7fd04df9&gaOptInStatus=true"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0G2XWY73Q",
-            "slug": "gel-nail-stickers-orange-citrus-and-floral-pattern-uv-lamp-r",
-            "title": "Gel Nail Stickers, Orange Citrus and Floral Pattern, UV lAMP Required,20 Pieces",
-            "price": "3",
+            "asin": "B08ZF53WZM",
+            "slug": "amazon-basic-care-all-day-allergy-cetirizine-hydrochloride-t",
+            "title": "Amazon Basic Care All Day Allergy, Cetirizine Hydrochloride Tablets, 10 mg, 24-Hour Relief for Sneezing, Runny Nose, Itc",
+            "price": "2.27",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/31sZ3uKRhzL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G2XWY73Q/ref=cm_sw_r_as_gl_api_gl_i_NT4N46PFB4BYGXCGW5CM?linkCode=ml1&tag=noya0b-20&linkId=ecd58bfc77cfb033610e24243abdc3cd&gaOptInStatus=true"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/41cUxd8uwLL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B08ZF53WZM/ref=cm_sw_r_as_gl_api_gl_i_53RHMN9378N1QEY3K9WS?linkCode=ml1&tag=noya0b-20&linkId=2c0cd3b7dcc49f6d432992a80d648c5b&gaOptInStatus=true"
           }
         ],
         "Fashion": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0FNWVVYB4",
+          "slug": "wiggy-mermaid-blonde-mixed-pink-blue-ombre-wavy-wig-2-clips",
+          "title": "Wiggy Mermaid Blonde Mixed Pink Blue Ombre Wavy Wig + 2 Clips for Women Colorful Rainbow Wig + Cap for Halloween Costume",
+          "price": "9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/41hNeBA80wL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FNWVVYB4/ref=cm_sw_r_as_gl_api_gl_i_AV25C8D03N67327B5E3C?linkCode=ml1&tag=noya0b-20&linkId=60c67d4210f38a51a7a66f16c5a47f1d&gaOptInStatus=true"
+        },
         {
           "asin": "B08ZF53WZM",
           "slug": "amazon-basic-care-all-day-allergy-cetirizine-hydrochloride-t",
@@ -233,23 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/31fPRuVq+kL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0G46M5PLM/ref=cm_sw_r_as_gl_api_gl_i_VYHSM2KS4A885EEXYJK9?linkCode=ml1&tag=noya0b-20&linkId=9b3f57772d769b2528a2b4e816520c3c&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G2XWY73Q",
-          "slug": "gel-nail-stickers-orange-citrus-and-floral-pattern-uv-lamp-r",
-          "title": "Gel Nail Stickers, Orange Citrus and Floral Pattern, UV lAMP Required,20 Pieces",
-          "price": "3",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/31sZ3uKRhzL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G2XWY73Q/ref=cm_sw_r_as_gl_api_gl_i_NT4N46PFB4BYGXCGW5CM?linkCode=ml1&tag=noya0b-20&linkId=ecd58bfc77cfb033610e24243abdc3cd&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 17, 2026?",
-          "a": "The best deals today include \"Amazon Basic Care All Day Allergy, Cetirizine Hydrochloride ...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"Wiggy Mermaid Blonde Mixed Pink Blue Ombre Wavy Wig + 2 Clip...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-17T12:20:01.800Z",
-      "updatedAt": "2026-10-17T12:20:01.800Z"
+      "generatedAt": "2026-10-17T12:30:02.012Z",
+      "updatedAt": "2026-10-17T12:30:02.012Z"
     },
     {
       "date": "2026-10-16",
@@ -16196,5 +16196,5 @@
       "updatedAt": "2026-08-19T12:30:01.360Z"
     }
   ],
-  "generatedAt": "2026-10-17T12:20:01.809Z"
+  "generatedAt": "2026-10-17T12:30:02.021Z"
 }
