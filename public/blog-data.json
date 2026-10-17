@@ -4,16 +4,39 @@
       "date": "2026-10-17",
       "slug": "2026-10-17",
       "title": "🔥 Best Deals Today — October 17, 2026",
-      "intro": "Today's best online deals for Saturday, October 17, 2026 — 10 hand-picked discounts across Other, Home & Kitchen, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, October 17, 2026 — 10 hand-picked discounts across Other, Beauty, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
+        "Beauty",
         "Home & Kitchen",
         "Fashion",
-        "Personal Care",
-        "Beauty",
-        "Electronics"
+        "Personal Care"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+          },
+          {
+            "asin": "B00WTOM4HC",
+            "slug": "wet-n-wild-silk-finish-lipstick-hydrating-rich-buildable-lip",
+            "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated with Vitamins A,E, & Macadamia for Ultim",
+            "price": "2",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41xYIXJZT2L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B00WTOM4HC/ref=cm_sw_r_as_gl_api_gl_i_B63C3N3NM5AH5EBWGX69?linkCode=ml1&tag=noya0b-20&linkId=d0e50a10b27b8028c54933a83b0ca570&gaOptInStatus=true"
+          }
+        ],
         "Other": [
           {
             "asin": "B0GWM5BLPJ",
@@ -109,35 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/418zZUCUe3L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B085PQZ343/ref=cm_sw_r_as_gl_api_gl_i_WCXPVBXQGTVVACAQBCDN?linkCode=ml1&tag=noya0b-20&linkId=980d639f511275ba1247afc836adf1c2&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00WTOM4HC",
-            "slug": "wet-n-wild-silk-finish-lipstick-hydrating-rich-buildable-lip",
-            "title": "wet n wild Silk Finish Lipstick, Hydrating Rich Buildable Lip Color, Formulated with Vitamins A,E, & Macadamia for Ultim",
-            "price": "2",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/41xYIXJZT2L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B00WTOM4HC/ref=cm_sw_r_as_gl_api_gl_i_B63C3N3NM5AH5EBWGX69?linkCode=ml1&tag=noya0b-20&linkId=d0e50a10b27b8028c54933a83b0ca570&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B08ZF53WZM",
-            "slug": "amazon-basic-care-all-day-allergy-cetirizine-hydrochloride-t",
-            "title": "Amazon Basic Care All Day Allergy, Cetirizine Hydrochloride Tablets, 10 mg, 24-Hour Relief for Sneezing, Runny Nose, Itc",
-            "price": "2.27",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/41cUxd8uwLL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B08ZF53WZM/ref=cm_sw_r_as_gl_api_gl_i_53RHMN9378N1QEY3K9WS?linkCode=ml1&tag=noya0b-20&linkId=2c0cd3b7dcc49f6d432992a80d648c5b&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08SL72G3P",
+          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+        },
         {
           "asin": "B0GWM5BLPJ",
           "slug": "3-pack-solar-powered-ghost-halloween-decorations-outdoor-aut",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41hNeBA80wL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0FNWVVYB4/ref=cm_sw_r_as_gl_api_gl_i_AV25C8D03N67327B5E3C?linkCode=ml1&tag=noya0b-20&linkId=60c67d4210f38a51a7a66f16c5a47f1d&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08ZF53WZM",
-          "slug": "amazon-basic-care-all-day-allergy-cetirizine-hydrochloride-t",
-          "title": "Amazon Basic Care All Day Allergy, Cetirizine Hydrochloride Tablets, 10 mg, 24-Hour Relief for Sneezing, Runny Nose, Itc",
-          "price": "2.27",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/41cUxd8uwLL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B08ZF53WZM/ref=cm_sw_r_as_gl_api_gl_i_53RHMN9378N1QEY3K9WS?linkCode=ml1&tag=noya0b-20&linkId=2c0cd3b7dcc49f6d432992a80d648c5b&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 17, 2026?",
-          "a": "The best deals today include \"3-Pack & Solar Powered Ghost Halloween Decorations Outdoor, ...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Fashion and are updated daily."
+          "a": "The best deals today include \"Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask ...\" and 9 other hand-picked discounts. Deals span Other, Beauty, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-17T15:00:04.759Z",
-      "updatedAt": "2026-10-17T15:00:04.760Z"
+      "generatedAt": "2026-10-17T15:10:09.893Z",
+      "updatedAt": "2026-10-17T15:10:09.894Z"
     },
     {
       "date": "2026-10-16",
@@ -16199,5 +16196,5 @@
       "updatedAt": "2026-08-19T12:30:01.360Z"
     }
   ],
-  "generatedAt": "2026-10-17T15:00:04.790Z"
+  "generatedAt": "2026-10-17T15:10:09.936Z"
 }
