@@ -14,31 +14,18 @@
         "Other"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B000V89HBO",
-            "slug": "mccormick-gourmet-collection-thyme-organic-non-gmo-our-best",
-            "title": "McCormick Gourmet Collection Thyme, Organic, Non GMO, Our Best Herbs & Spices, Warm, Aromatic Flavor Enhances Soups, Ste",
-            "price": "2.91",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41AAyLrUr+L._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B000V89HBO?ie=UTF8&ascsubtag=f3cd8170ca5711f1a346f62d80d4adf50INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3acc344751ce629986c1405f5af2670c&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0D3VJQ2YX",
-            "slug": "bauducco-wafer-cookies-assorted-chocolate-vanilla-and-strawb",
-            "title": "Bauducco Wafer Cookies, Assorted, Chocolate, Vanilla, and Strawberry, 60 oz (Pack of 12) - Crispy & Delicate Wafer Cooki",
-            "price": "10.06",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/5198-Qfo43L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0D3VJQ2YX?th=1&linkCode=sl2&tag=noya0b-20&linkId=32509a02b30e31ab13fcea604338fa1d&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Home & Kitchen": [
+          {
+            "asin": "B0CX83ZCMJ",
+            "slug": "smart-cutting-board-and-knife-setself-cleaning-cutting-board",
+            "title": "Smart Cutting Board and Knife Set,Self Cleaning Cutting Board and Knife Set with 4 Stainless Steel Knives,3 Color Coded Cutting Boards,10 Pairs of Chopsticks and 1 Pair of Scissors: Home & Kitchen",
+            "price": "$78.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61MukvlWbPL.jpg",
+            "url": "https://www.amazon.com/dp/B0CX83ZCMJ?tag=noya0b-20"
+          },
           {
             "asin": "B0D943RYCX",
             "slug": "anymark-16pcs-pots-and-pans-set-non-stick-cookware-white-16p",
@@ -71,17 +58,30 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
             "url": "https://www.amazon.com/dp/B075CWJ3T8?tag=noya0b-20"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B0DQ66N18K",
-            "slug": "disney-stitch-10-inch-holiday-feature-plush-stitch-stuffed-a",
-            "title": "Disney Stitch 10-inch Holiday Feature Plush Stitch Stuffed Animal | Music and Motion, Soft Cuddly Material, Toy for Fans",
-            "price": "23.99",
+            "asin": "B000V89HBO",
+            "slug": "mccormick-gourmet-collection-thyme-organic-non-gmo-our-best",
+            "title": "McCormick Gourmet Collection Thyme, Organic, Non GMO, Our Best Herbs & Spices, Warm, Aromatic Flavor Enhances Soups, Ste",
+            "price": "2.91",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51JPljugxdL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DQ66N18K?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=ce1d7e1812665134778b39c61149c263&language=en_US&gaOptInStatus=true"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/41AAyLrUr+L._SL500_.jpg",
+            "url": "https://www.amazon.com/gp/product/B000V89HBO?ie=UTF8&ascsubtag=f3cd8170ca5711f1a346f62d80d4adf50INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3acc344751ce629986c1405f5af2670c&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0D3VJQ2YX",
+            "slug": "bauducco-wafer-cookies-assorted-chocolate-vanilla-and-strawb",
+            "title": "Bauducco Wafer Cookies, Assorted, Chocolate, Vanilla, and Strawberry, 60 oz (Pack of 12) - Crispy & Delicate Wafer Cooki",
+            "price": "10.06",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/5198-Qfo43L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D3VJQ2YX?th=1&linkCode=sl2&tag=noya0b-20&linkId=32509a02b30e31ab13fcea604338fa1d&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0CX83ZCMJ",
+          "slug": "smart-cutting-board-and-knife-setself-cleaning-cutting-board",
+          "title": "Smart Cutting Board and Knife Set,Self Cleaning Cutting Board and Knife Set with 4 Stainless Steel Knives,3 Color Coded Cutting Boards,10 Pairs of Chopsticks and 1 Pair of Scissors: Home & Kitchen",
+          "price": "$78.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61MukvlWbPL.jpg",
+          "url": "https://www.amazon.com/dp/B0CX83ZCMJ?tag=noya0b-20"
+        },
         {
           "asin": "B000V89HBO",
           "slug": "mccormick-gourmet-collection-thyme-organic-non-gmo-our-best",
@@ -236,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51hgin0Mv6L._SL500_.jpg",
           "url": "https://www.amazon.com/Solar-Powered-Halloween-Decorations-Outdoor/dp/B0GWM5BLPJ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=59692422412c93de26861bd4bbe52999&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0DQ66N18K",
-          "slug": "disney-stitch-10-inch-holiday-feature-plush-stitch-stuffed-a",
-          "title": "Disney Stitch 10-inch Holiday Feature Plush Stitch Stuffed Animal | Music and Motion, Soft Cuddly Material, Toy for Fans",
-          "price": "23.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51JPljugxdL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0DQ66N18K?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=ce1d7e1812665134778b39c61149c263&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 17, 2026?",
-          "a": "The best deals today include \"McCormick Gourmet Collection Thyme, Organic, Non GMO, Our Be...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Cleaning Supplies and are updated daily."
+          "a": "The best deals today include \"Smart Cutting Board and Knife Set,Self Cleaning Cutting Boar...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Cleaning Supplies and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-17T19:00:02.514Z",
-      "updatedAt": "2026-10-17T19:00:02.514Z"
+      "generatedAt": "2026-10-17T19:10:00.857Z",
+      "updatedAt": "2026-10-17T19:10:00.857Z"
     },
     {
       "date": "2026-10-16",
@@ -16199,5 +16199,5 @@
       "updatedAt": "2026-08-19T12:30:01.360Z"
     }
   ],
-  "generatedAt": "2026-10-17T19:00:02.523Z"
+  "generatedAt": "2026-10-17T19:10:00.866Z"
 }
