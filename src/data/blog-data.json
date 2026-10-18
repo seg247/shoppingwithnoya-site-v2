@@ -13,31 +13,18 @@
         "Toys & Kids"
       ],
       "byCategory": {
-        "Grocery & Food": [
-          {
-            "asin": "B0C21ZBVJJ",
-            "slug": "mccormick-lemon-pepper-seasoning-35-oz-pack-of-6",
-            "title": "McCormick Lemon & Pepper Seasoning, 3.5 oz (Pack of 6)",
-            "price": "8.24",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/51N-9LirQ3L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0C21ZBVJJ?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=5c1d7daeea49e1d727e21361e44fd4d1&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B09TKSQF1M",
-            "slug": "amazon-grocery-jellied-cranberry-sauce-14-oz",
-            "title": "Amazon Grocery, Jellied Cranberry Sauce, 14 Oz",
-            "price": "$1",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/71TblTOTThL.jpg",
-            "url": "https://www.amazon.com/dp/B09TKSQF1M?ie=UTF8&ascsubtag=8b8c9034cb3711f1ad39ea7115403e3a0INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=5980743212eb4fe8b9eea237c6de2af4&language=en_US&gaOptInStatus=true"
-          }
-        ],
         "Home & Kitchen": [
+          {
+            "asin": "B09V1LF5J5",
+            "slug": "berghoff-11pc-stainless-steel-kitchen-knife-block-set-with-c",
+            "title": "Berghoff 11Pc Stainless Steel Kitchen Knife Block Set with Cutting Boards | With Sharpener, Full Tang Hollow Handle Chef, Santoku, Bread, Utility & Paring Knives, Magnet Bamboo Block, Nonslip Base: Home & Kitchen",
+            "price": "$279.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71zQ0owXQ4L.jpg",
+            "url": "https://www.amazon.com/dp/B09V1LF5J5?tag=noya0b-20"
+          },
           {
             "asin": "B00778B90S",
             "slug": "nongshim-shin-ramyun-noodles-spicy-korean-signature-instant",
@@ -70,17 +57,30 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/71mDTOYtDSL.jpg",
             "url": "https://www.amazon.com/dp/B074817DK1?tag=noya0b-20"
-          },
+          }
+        ],
+        "Grocery & Food": [
           {
-            "asin": "B075CWJ3T8",
-            "slug": "instant-pot-duo-plus-9-in-1-electric-pressure-cooker-slow-co",
-            "title": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel/Black, 8 Quart: Home & Kitchen",
-            "price": "$76.43",
+            "asin": "B0C21ZBVJJ",
+            "slug": "mccormick-lemon-pepper-seasoning-35-oz-pack-of-6",
+            "title": "McCormick Lemon & Pepper Seasoning, 3.5 oz (Pack of 6)",
+            "price": "8.24",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
-            "url": "https://www.amazon.com/dp/B075CWJ3T8?tag=noya0b-20"
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51N-9LirQ3L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C21ZBVJJ?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=5c1d7daeea49e1d727e21361e44fd4d1&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B09TKSQF1M",
+            "slug": "amazon-grocery-jellied-cranberry-sauce-14-oz",
+            "title": "Amazon Grocery, Jellied Cranberry Sauce, 14 Oz",
+            "price": "$1",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/71TblTOTThL.jpg",
+            "url": "https://www.amazon.com/dp/B09TKSQF1M?ie=UTF8&ascsubtag=8b8c9034cb3711f1ad39ea7115403e3a0INT&smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=5980743212eb4fe8b9eea237c6de2af4&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B09V1LF5J5",
+          "slug": "berghoff-11pc-stainless-steel-kitchen-knife-block-set-with-c",
+          "title": "Berghoff 11Pc Stainless Steel Kitchen Knife Block Set with Cutting Boards | With Sharpener, Full Tang Hollow Handle Chef, Santoku, Bread, Utility & Paring Knives, Magnet Bamboo Block, Nonslip Base: Home & Kitchen",
+          "price": "$279.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71zQ0owXQ4L.jpg",
+          "url": "https://www.amazon.com/dp/B09V1LF5J5?tag=noya0b-20"
+        },
         {
           "asin": "B0C21ZBVJJ",
           "slug": "mccormick-lemon-pepper-seasoning-35-oz-pack-of-6",
@@ -233,23 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71mDTOYtDSL.jpg",
           "url": "https://www.amazon.com/dp/B074817DK1?tag=noya0b-20"
-        },
-        {
-          "asin": "B075CWJ3T8",
-          "slug": "instant-pot-duo-plus-9-in-1-electric-pressure-cooker-slow-co",
-          "title": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, Includes App With Over 800 Recipes, Stainless Steel/Black, 8 Quart: Home & Kitchen",
-          "price": "$76.43",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
-          "url": "https://www.amazon.com/dp/B075CWJ3T8?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 18, 2026?",
-          "a": "The best deals today include \"McCormick Lemon & Pepper Seasoning, 3.5 oz (Pack of 6)...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
+          "a": "The best deals today include \"Berghoff 11Pc Stainless Steel Kitchen Knife Block Set with C...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Grocery & Food, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-18T22:40:02.353Z",
-      "updatedAt": "2026-10-18T22:40:02.354Z"
+      "generatedAt": "2026-10-18T22:50:02.438Z",
+      "updatedAt": "2026-10-18T22:50:02.438Z"
     },
     {
       "date": "2026-10-17",
@@ -16199,5 +16199,5 @@
       "updatedAt": "2026-08-21T03:50:02.117Z"
     }
   ],
-  "generatedAt": "2026-10-18T22:40:02.362Z"
+  "generatedAt": "2026-10-18T22:50:02.448Z"
 }
