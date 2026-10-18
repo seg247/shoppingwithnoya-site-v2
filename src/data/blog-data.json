@@ -14,6 +14,41 @@
         "Gaming"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0H5CKP1VD",
+            "slug": "ultrasonic-retainer-cleaner-machine-42khz-dental-cleaning-po",
+            "title": "Ultrasonic Retainer Cleaner Machine, 42kHz Dental Cleaning Pod for Dentures, Aligners, Mouth Guards, Jewelry - IPX7 Wate",
+            "price": "$8",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/41G6k8cxUhL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0H5CKP1VD?th=1&linkCode=sl2&tag=noya0b-20&linkId=efe50594bb470fb7c65077b532bf95d0&language=en_US&gaOptInStatus=true"
+          },
+          {
+            "asin": "B085S7W87S",
+            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
+            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
+            "price": "$32.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
+            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
+          },
+          {
+            "asin": "B0H38GWPHB",
+            "slug": "elegglo-gold-jewelry-set-for-women-14k-gold-plated-pearl-jew",
+            "title": "ElegGlo Gold Jewelry Set for Women, 14K Gold Plated Pearl Jewelry Set, Choker Necklace Earrings Bracelet Dainty Bridal Jewelry for Women: Clothing, Shoes & Jewelry",
+            "price": "$5.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61VBjt8W5UL.jpg",
+            "url": "https://www.amazon.com/dp/B0H38GWPHB?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0GG9C9THF",
@@ -88,41 +123,6 @@
             "url": "https://www.amazon.com/dp/B09JTLST9P?gaOptInStatus=true&linkCode=sl2&tag=noya0b-20&linkId=a336449ce634d51a5439b284199287cd&language=en_US&gaOptInStatus=true"
           }
         ],
-        "Fashion": [
-          {
-            "asin": "B085S7W87S",
-            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
-            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
-            "price": "$32.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
-            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-          },
-          {
-            "asin": "B0H38GWPHB",
-            "slug": "elegglo-gold-jewelry-set-for-women-14k-gold-plated-pearl-jew",
-            "title": "ElegGlo Gold Jewelry Set for Women, 14K Gold Plated Pearl Jewelry Set, Choker Necklace Earrings Bracelet Dainty Bridal Jewelry for Women: Clothing, Shoes & Jewelry",
-            "price": "$5.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61VBjt8W5UL.jpg",
-            "url": "https://www.amazon.com/dp/B0H38GWPHB?tag=noya0b-20"
-          },
-          {
-            "asin": "B0B86CF16Z",
-            "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
-            "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
-            "price": "$44.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
-            "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
-          }
-        ],
         "Gaming": [
           {
             "asin": "B0H2YW26BK",
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0H5CKP1VD",
+          "slug": "ultrasonic-retainer-cleaner-machine-42khz-dental-cleaning-po",
+          "title": "Ultrasonic Retainer Cleaner Machine, 42kHz Dental Cleaning Pod for Dentures, Aligners, Mouth Guards, Jewelry - IPX7 Wate",
+          "price": "$8",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/41G6k8cxUhL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0H5CKP1VD?th=1&linkCode=sl2&tag=noya0b-20&linkId=efe50594bb470fb7c65077b532bf95d0&language=en_US&gaOptInStatus=true"
+        },
         {
           "asin": "B0GG9C9THF",
           "slug": "portable-air-conditioner-fan-4-in-1-mini-air-cooler-with-450",
@@ -236,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61VBjt8W5UL.jpg",
           "url": "https://www.amazon.com/dp/B0H38GWPHB?tag=noya0b-20"
-        },
-        {
-          "asin": "B0B86CF16Z",
-          "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
-          "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
-          "price": "$44.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
-          "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 17, 2026?",
-          "a": "The best deals today include \"Portable Air Conditioner Fan, 4-in-1 Mini Air Cooler with 45...\" and 9 other hand-picked discounts. Deals span Fashion, Toys & Kids, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Ultrasonic Retainer Cleaner Machine, 42kHz Dental Cleaning P...\" and 9 other hand-picked discounts. Deals span Fashion, Toys & Kids, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-18T02:20:02.374Z",
-      "updatedAt": "2026-10-18T02:20:02.374Z"
+      "generatedAt": "2026-10-18T02:30:00.789Z",
+      "updatedAt": "2026-10-18T02:30:00.789Z"
     },
     {
       "date": "2026-10-16",
@@ -16199,5 +16199,5 @@
       "updatedAt": "2026-08-19T12:30:01.360Z"
     }
   ],
-  "generatedAt": "2026-10-18T02:20:02.381Z"
+  "generatedAt": "2026-10-18T02:30:00.798Z"
 }
