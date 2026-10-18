@@ -10,10 +10,33 @@
         "Electronics",
         "Other",
         "Toys & Kids",
-        "Health",
-        "Fashion"
+        "Health"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B0F1C75NT9",
+            "slug": "frame-wax-seal-stamp-kit-3d-embossed-relief-carving-wax-seal",
+            "title": "Frame Wax Seal Stamp Kit, 3D Embossed Relief Carving Wax Seal Stamp Head and Wood Handle, Decor for Envelope Wedding Inv",
+            "price": "4.01",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/5100QT3+4iL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0F1C75NT9/ref=cm_sw_r_as_gl_api_gl_i_dl_V6PNBCTX6VN7ZPJS012D?linkCode=ml1&tag=noya0b-20&linkId=28016a06dcd5e5753e2388f77232764a&gaOptInStatus=true"
+          },
+          {
+            "asin": "B0DHRJGVS8",
+            "slug": "wonuu-halloween-decoration-rubber-duck-witch-duck-car-orname",
+            "title": "wonuu Halloween Decoration Rubber Duck Witch Duck Car Ornament Halloween Accessories Witch Hat and Spider, Pumpkin+Plast",
+            "price": "1.54",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41DDW9IYBEL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DHRJGVS8/ref=cm_sw_r_as_gl_api_gl_i_dl_8529MNMFN76PHZRN3V7B?linkCode=ml1&tag=noya0b-20&linkId=a7a4efad32070170117fdf8f96c462a1&gaOptInStatus=true"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B08RML5CCP",
@@ -47,19 +70,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51l+XjAbRbL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0CGXZQ4CD/ref=cm_sw_r_as_gl_apa_gl_i_4MN3JYHZZ2X4W6JHWJMJ?linkCode=ml1&tag=noya0b-20&linkId=2acc1c978fd6091dfa29737a164ce746&gaOptInStatus=true"
-          }
-        ],
-        "Other": [
-          {
-            "asin": "B0DHRJGVS8",
-            "slug": "wonuu-halloween-decoration-rubber-duck-witch-duck-car-orname",
-            "title": "wonuu Halloween Decoration Rubber Duck Witch Duck Car Ornament Halloween Accessories Witch Hat and Spider, Pumpkin+Plast",
-            "price": "1.54",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41DDW9IYBEL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DHRJGVS8/ref=cm_sw_r_as_gl_api_gl_i_dl_8529MNMFN76PHZRN3V7B?linkCode=ml1&tag=noya0b-20&linkId=a7a4efad32070170117fdf8f96c462a1&gaOptInStatus=true"
           }
         ],
         "Toys & Kids": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71IHobcPM4L.jpg",
             "url": "https://www.amazon.com/dp/B0CZT58YG2?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0CQ565795",
-            "slug": "lobeve-no-pull-dog-harness-collar-leash-set-with-travel-acce",
-            "title": "LOBEVE No Pull Dog Harness, Collar & Leash Set with Travel Accessories | Includes Dog Seat Belt, Collapsible Bowls & Poop Bag Dispenser. Ideal for Training, Walking, Hiking. Fits Small to Large Dogs",
-            "price": "$20.68",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
-            "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F1C75NT9",
+          "slug": "frame-wax-seal-stamp-kit-3d-embossed-relief-carving-wax-seal",
+          "title": "Frame Wax Seal Stamp Kit, 3D Embossed Relief Carving Wax Seal Stamp Head and Wood Handle, Decor for Envelope Wedding Inv",
+          "price": "4.01",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/5100QT3+4iL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0F1C75NT9/ref=cm_sw_r_as_gl_api_gl_i_dl_V6PNBCTX6VN7ZPJS012D?linkCode=ml1&tag=noya0b-20&linkId=28016a06dcd5e5753e2388f77232764a&gaOptInStatus=true"
+        },
         {
           "asin": "B08RML5CCP",
           "slug": "teeo-organizer-for-drawers-desk-drawer-organizers-and-storag",
@@ -236,23 +244,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71IHobcPM4L.jpg",
           "url": "https://www.amazon.com/dp/B0CZT58YG2?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CQ565795",
-          "slug": "lobeve-no-pull-dog-harness-collar-leash-set-with-travel-acce",
-          "title": "LOBEVE No Pull Dog Harness, Collar & Leash Set with Travel Accessories | Includes Dog Seat Belt, Collapsible Bowls & Poop Bag Dispenser. Ideal for Training, Walking, Hiking. Fits Small to Large Dogs",
-          "price": "$20.68",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
-          "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 18, 2026?",
-          "a": "The best deals today include \"Teeo - Organizer for Drawers - Desk Drawer Organizers and St...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Other and are updated daily."
+          "a": "The best deals today include \"Frame Wax Seal Stamp Kit, 3D Embossed Relief Carving Wax Sea...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-18T10:40:01.018Z",
-      "updatedAt": "2026-10-18T10:40:01.018Z"
+      "generatedAt": "2026-10-18T10:50:02.537Z",
+      "updatedAt": "2026-10-18T10:50:02.537Z"
     },
     {
       "date": "2026-10-17",
@@ -16202,5 +16199,5 @@
       "updatedAt": "2026-08-21T03:50:02.117Z"
     }
   ],
-  "generatedAt": "2026-10-18T10:40:01.027Z"
+  "generatedAt": "2026-10-18T10:50:02.547Z"
 }
