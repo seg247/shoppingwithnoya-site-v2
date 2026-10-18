@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T03:50:01.898Z",
+  "generatedAt": "2026-10-18T04:00:01.833Z",
   "total": 500,
   "posts": [
     {
@@ -415,7 +415,11 @@
       "imageUrl": "https://images.wrangler.com/is/image/Wrangler/112333616-HERO?$KDP-LARGE2$",
       "expiresAt": "2026-10-19",
       "promoCode": null,
-      "badge": null
+      "badge": {
+        "key": "ending",
+        "label": "⏰ Ending soon",
+        "tone": "ending"
+      }
     },
     {
       "slug": "b08dn1ktrh-16-pack-baby-washcloths-luxury-multicolor-coral-fleece-extra",
