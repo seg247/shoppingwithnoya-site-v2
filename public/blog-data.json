@@ -9,9 +9,9 @@
         "Beauty",
         "Health",
         "Electronics",
+        "Other",
         "Grocery",
-        "Grocery & Food",
-        "Cleaning Supplies"
+        "Grocery & Food"
       ],
       "byCategory": {
         "Beauty": [
@@ -47,6 +47,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/311EQ2SMszL._SL500_.jpg",
             "url": "https://www.amazon.com/gp/product/B0FLYL9W78?smid=ATVPDKIKX0DER&th=1&gaOptInStatus=true&ascsubtag=srctok-351e9323f4212008&btn_type=pt&btn_ref=srctok-351e9323f4212008&linkCode=sl2&tag=noya0b-20&linkId=e9f9efd886fcc3b4853b3ece199b8551&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B003OB0JHG",
+            "slug": "maruchan-instant-lunch-ramen-noodles-cheddar-cheese-flavor-j",
+            "title": "Maruchan Instant Lunch Ramen Noodles, Cheddar Cheese Flavor – Japanese-Style Instant Noodle Soup, Easy Meal Ready in 3 M",
+            "price": "6.72",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51loKlkor1L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B003OB0JHG?th=1&linkCode=sl2&tag=noya0b-20&linkId=205e6bfc7f912c86e16dd1316e73c42e&language=en_US&gaOptInStatus=true"
           }
         ],
         "Health": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51KBuk4mq6L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0DNRKDM3Z?gaOptInStatus=true&ascsubtag=srctok-5228cde0eb0e1b97&btn_type=pt&btn_ref=srctok-5228cde0eb0e1b97&th=1&linkCode=sl2&tag=noya0b-20&linkId=dfb830b6a4356c5ef4b75687dbb8f577&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Cleaning Supplies": [
-          {
-            "asin": "B011JA1NXM",
-            "slug": "glade-plugins-air-freshener-warmer-up-to-50-days-on-low-sett",
-            "title": "Glade PlugIns Air Freshener Warmer, Up to 50 Days on Low Setting, 2 Count | Includes 2 PlugIn Warmer for Glade PlugIns R",
-            "price": "3.21",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Cleaning Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/414-onO873L._SL500_.jpg",
-            "url": "https://www.amazon.com/gp/product/B011JA1NXM?th=1&m=ATVPDKIKX0DER&ascsubtag=srctok-54a24e76d2931428&btn_type=pt&btn_ref=srctok-54a24e76d2931428&linkCode=sl2&tag=noya0b-20&linkId=c85768f33e1a66c9b32eeb5c44df3186&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,17 @@
           "category": "Beauty",
           "imageUrl": "https://media.ulta.com/i/ulta/2659859?w=500&h=500",
           "url": "https://mavely.app.link/6z3mXlYIm7b"
+        },
+        {
+          "asin": "B003OB0JHG",
+          "slug": "maruchan-instant-lunch-ramen-noodles-cheddar-cheese-flavor-j",
+          "title": "Maruchan Instant Lunch Ramen Noodles, Cheddar Cheese Flavor – Japanese-Style Instant Noodle Soup, Easy Meal Ready in 3 M",
+          "price": "6.72",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/51loKlkor1L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B003OB0JHG?th=1&linkCode=sl2&tag=noya0b-20&linkId=205e6bfc7f912c86e16dd1316e73c42e&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B07FLX6KPY",
@@ -236,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/81wxNfBnqcL.jpg",
           "url": "https://www.amazon.com/dp/B0GY8C9C9Y?tag=noya0b-20"
-        },
-        {
-          "asin": "B011JA1NXM",
-          "slug": "glade-plugins-air-freshener-warmer-up-to-50-days-on-low-sett",
-          "title": "Glade PlugIns Air Freshener Warmer, Up to 50 Days on Low Setting, 2 Count | Includes 2 PlugIn Warmer for Glade PlugIns R",
-          "price": "3.21",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Cleaning Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/414-onO873L._SL500_.jpg",
-          "url": "https://www.amazon.com/gp/product/B011JA1NXM?th=1&m=ATVPDKIKX0DER&ascsubtag=srctok-54a24e76d2931428&btn_type=pt&btn_ref=srctok-54a24e76d2931428&linkCode=sl2&tag=noya0b-20&linkId=c85768f33e1a66c9b32eeb5c44df3186&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-19T21:40:02.505Z",
-      "updatedAt": "2026-10-19T21:40:02.505Z"
+      "generatedAt": "2026-10-19T21:50:01.841Z",
+      "updatedAt": "2026-10-19T21:50:01.842Z"
     },
     {
       "date": "2026-10-18",
@@ -16205,5 +16205,5 @@
       "updatedAt": "2026-08-22T03:50:01.384Z"
     }
   ],
-  "generatedAt": "2026-10-19T21:40:02.513Z"
+  "generatedAt": "2026-10-19T21:50:01.852Z"
 }
