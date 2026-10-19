@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-19T02:40:02.161Z",
+  "generatedAt": "2026-10-19T02:50:01.509Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b00m7xbau2-it-s-a-very-merry-muppet-christmas-movie-blu-ray",
+      "asin": "B00M7XBAU2",
+      "title": "It's A Very Merry Muppet Christmas Movie (Blu-ray)",
+      "url": "https://www.amazon.com/dp/B00M7XBAU2?psc=1&linkCode=sl2&tag=noya0b-20&linkId=56f38e8fd7f5f780201c50aa59be68e5&language=en_US&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Books & Media",
+      "ts": "2026-10-19T02:40:26.712Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61lkxEamGuL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0cb67rwf6-planters-cocktail-peanuts-12-oz-jar-pack-of-2",
       "asin": "B0CB67RWF6",
@@ -224,11 +243,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51w9kH9KScL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0bzwwkxxb-cholula-salsa-verde-mild-heat-12-oz-pack-of-6",
@@ -7567,21 +7582,6 @@
       "ts": "2026-10-06T18:54:43.584Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91sBY6KcHWL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b010a5j5fu-dryguy-shoe-boot-garment-gear-electric-dryer-4-port",
-      "asin": "B010A5J5FU",
-      "title": "DryGuy Shoe, Boot, Garment & Gear Electric Dryer, 4 Port",
-      "url": "https://www.amazon.com/dp/B010A5J5FU?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home",
-      "ts": "2026-10-06T18:53:43.474Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61vWStPGTjL._AC_SL1200_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -16836,6 +16836,16 @@
       "category": "Fashion",
       "ts": "2026-10-06T18:52:24.763Z",
       "archivedAt": "2026-10-19T02:10:01.585Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b010a5j5fu-dryguy-shoe-boot-garment-gear-electric-dryer-4-port",
+      "asin": "B010A5J5FU",
+      "title": "DryGuy Shoe, Boot, Garment & Gear Electric Dryer, 4 Port",
+      "url": "https://www.amazon.com/dp/B010A5J5FU?tag=noya0b-20",
+      "category": "Home",
+      "ts": "2026-10-06T18:53:43.474Z",
+      "archivedAt": "2026-10-19T02:50:01.509Z",
       "status": "archived"
     }
   ]
