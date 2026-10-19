@@ -9,9 +9,9 @@
         "Beauty",
         "Other",
         "Health",
+        "Cleaning Supplies",
         "Home & Kitchen",
-        "Grocery",
-        "Electronics"
+        "Grocery"
       ],
       "byCategory": {
         "Beauty": [
@@ -47,6 +47,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/311EQ2SMszL._SL500_.jpg",
             "url": "https://www.amazon.com/gp/product/B0FLYL9W78?smid=ATVPDKIKX0DER&th=1&gaOptInStatus=true&ascsubtag=srctok-351e9323f4212008&btn_type=pt&btn_ref=srctok-351e9323f4212008&linkCode=sl2&tag=noya0b-20&linkId=e9f9efd886fcc3b4853b3ece199b8551&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Cleaning Supplies": [
+          {
+            "asin": "B08PDQT56T",
+            "slug": "glad-plastic-forks-clear-disposable-forks-heavy-duty-24-piec",
+            "title": "Glad Plastic Forks, Clear Disposable Forks, Heavy Duty, 24 Pieces | Extra sturdy utensils, reusable and dishwasher safe ",
+            "price": "1.79",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Cleaning Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/41Iz19+21rL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B08PDQT56T?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae20f0d222688ae5f7a65cc89dae2807&language=en_US&gaOptInStatus=true"
           }
         ],
         "Other": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
             "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B07JZ124FK",
-            "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-            "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
-            "price": "$22.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
-            "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,17 @@
           "category": "Beauty",
           "imageUrl": "https://media.ulta.com/i/ulta/2659859?w=500&h=500",
           "url": "https://mavely.app.link/6z3mXlYIm7b"
+        },
+        {
+          "asin": "B08PDQT56T",
+          "slug": "glad-plastic-forks-clear-disposable-forks-heavy-duty-24-piec",
+          "title": "Glad Plastic Forks, Clear Disposable Forks, Heavy Duty, 24 Pieces | Extra sturdy utensils, reusable and dishwasher safe ",
+          "price": "1.79",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Cleaning Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Iz19+21rL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B08PDQT56T?th=1&linkCode=sl2&tag=noya0b-20&linkId=ae20f0d222688ae5f7a65cc89dae2807&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B00ELDPMZK",
@@ -236,17 +247,6 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
           "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B07JZ124FK",
-          "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-          "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
-          "price": "$22.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
-          "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-19T23:00:02.711Z",
-      "updatedAt": "2026-10-19T23:00:02.711Z"
+      "generatedAt": "2026-10-19T23:10:02.041Z",
+      "updatedAt": "2026-10-19T23:10:02.041Z"
     },
     {
       "date": "2026-10-18",
@@ -16205,5 +16205,5 @@
       "updatedAt": "2026-08-22T03:50:01.384Z"
     }
   ],
-  "generatedAt": "2026-10-19T23:00:02.719Z"
+  "generatedAt": "2026-10-19T23:10:02.050Z"
 }
