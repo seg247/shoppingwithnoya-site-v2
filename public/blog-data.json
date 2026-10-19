@@ -12,8 +12,7 @@
         "Cleaning Supplies",
         "Other",
         "Home & Kitchen",
-        "Fashion",
-        "Tools"
+        "Fashion"
       ],
       "byCategory": {
         "Beauty": [
@@ -29,20 +28,18 @@
             "url": "https://mavely.app.link/6z3mXlYIm7b"
           }
         ],
-        "Grocery & Food": [
+        "Electronics": [
           {
-            "asin": "B0DNRKDM3Z",
-            "slug": "cheesy-mix-variety-pack-snacks-20-ct-289-oz-7-chex-mix-chedd",
-            "title": "Cheesy Mix Variety Pack Snacks, 20 ct, 28.9 oz | 7 Chex Mix Cheddar, 6 Gardetto's Aged Cheddar, 7 Bugles Nacho Cheese, S",
-            "price": "10.97",
+            "asin": "B07JZ124FK",
+            "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
+            "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
+            "price": "$22.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/51KBuk4mq6L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0DNRKDM3Z?gaOptInStatus=true&ascsubtag=srctok-5228cde0eb0e1b97&btn_type=pt&btn_ref=srctok-5228cde0eb0e1b97&th=1&linkCode=sl2&tag=noya0b-20&linkId=dfb830b6a4356c5ef4b75687dbb8f577&language=en_US&gaOptInStatus=true"
-          }
-        ],
-        "Electronics": [
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
+            "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
+          },
           {
             "asin": "B0GY8C9C9Y",
             "slug": "active-noise-cancelling-ear-buds-wireless-earbuds-dual-batte",
@@ -75,6 +72,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51ruy-r9f0L.jpg",
             "url": "https://www.amazon.com/dp/B0CBVFXTH9?tag=noya0b-20"
+          }
+        ],
+        "Grocery & Food": [
+          {
+            "asin": "B0DNRKDM3Z",
+            "slug": "cheesy-mix-variety-pack-snacks-20-ct-289-oz-7-chex-mix-chedd",
+            "title": "Cheesy Mix Variety Pack Snacks, 20 ct, 28.9 oz | 7 Chex Mix Cheddar, 6 Gardetto's Aged Cheddar, 7 Bugles Nacho Cheese, S",
+            "price": "10.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51KBuk4mq6L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DNRKDM3Z?gaOptInStatus=true&ascsubtag=srctok-5228cde0eb0e1b97&btn_type=pt&btn_ref=srctok-5228cde0eb0e1b97&th=1&linkCode=sl2&tag=noya0b-20&linkId=dfb830b6a4356c5ef4b75687dbb8f577&language=en_US&gaOptInStatus=true"
           }
         ],
         "Cleaning Supplies": [
@@ -128,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
             "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
           }
-        ],
-        "Tools": [
-          {
-            "asin": "B0CJ2SB7NT",
-            "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
-            "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
-            "price": "$64.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools",
-            "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -154,6 +151,17 @@
           "category": "Beauty",
           "imageUrl": "https://media.ulta.com/i/ulta/2659859?w=500&h=500",
           "url": "https://mavely.app.link/6z3mXlYIm7b"
+        },
+        {
+          "asin": "B07JZ124FK",
+          "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
+          "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
+          "price": "$22.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
+          "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
         },
         {
           "asin": "B0DNRKDM3Z",
@@ -242,17 +250,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
           "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CJ2SB7NT",
-          "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
-          "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
-          "price": "$64.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools",
-          "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-19T18:20:02.362Z",
-      "updatedAt": "2026-10-19T18:20:02.362Z"
+      "generatedAt": "2026-10-19T18:30:01.936Z",
+      "updatedAt": "2026-10-19T18:30:01.936Z"
     },
     {
       "date": "2026-10-18",
@@ -16211,5 +16208,5 @@
       "updatedAt": "2026-08-22T03:50:01.384Z"
     }
   ],
-  "generatedAt": "2026-10-19T18:20:02.371Z"
+  "generatedAt": "2026-10-19T18:30:01.945Z"
 }
