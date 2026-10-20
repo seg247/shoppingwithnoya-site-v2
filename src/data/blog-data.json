@@ -9,10 +9,10 @@
         "Garden & Outdoor",
         "Home & Kitchen",
         "Home",
+        "Sports",
         "Grocery & Food",
         "Electronics",
-        "Beauty",
-        "Other"
+        "Beauty"
       ],
       "byCategory": {
         "Home": [
@@ -26,6 +26,19 @@
             "category": "Home",
             "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
             "url": "https://mavely.app.link/CppvVUXBo7b"
+          }
+        ],
+        "Sports": [
+          {
+            "asin": "B0DS6JLDQ5",
+            "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
+            "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Equipment by Wakeman (Black) : Sports & Outdoors",
+            "price": "$20.67",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports",
+            "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
+            "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61zES0Uxo+L.jpg",
             "url": "https://www.amazon.com/dp/B0GG9C9THF?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "1803375450",
-            "slug": "never-touch-the-grumpy-pumpkins",
-            "title": "Never Touch the Grumpy Pumpkins",
-            "price": "5.9",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/514g+YPapWL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/1803375450?gaOptInStatus=true&nodl=1&linkCode=sl2&tag=noya0b-20&linkId=ba11f713c946b17fa1b1481ae1548b44&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -151,6 +151,17 @@
           "category": "Home",
           "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
           "url": "https://mavely.app.link/CppvVUXBo7b"
+        },
+        {
+          "asin": "B0DS6JLDQ5",
+          "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
+          "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/2-Inch Workout Mat - Home Gym Starter Kit - Exercise Equipment by Wakeman (Black) : Sports & Outdoors",
+          "price": "$20.67",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports",
+          "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
+          "url": "https://www.amazon.com/dp/B0DS6JLDQ5?tag=noya0b-20"
         },
         {
           "asin": "B0CB67RWF6",
@@ -239,17 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51VM4HxE1OL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0FQG8R3Q9/ref=cm_sw_r_as_gl_api_gl_i_E5K6YV48QXGEC86P9YT2?linkCode=ml1&tag=noya0b-20&linkId=905b6fb01828cd46be0fa3ce745fe384&gaOptInStatus=true"
-        },
-        {
-          "asin": "1803375450",
-          "slug": "never-touch-the-grumpy-pumpkins",
-          "title": "Never Touch the Grumpy Pumpkins",
-          "price": "5.9",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/514g+YPapWL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/1803375450?gaOptInStatus=true&nodl=1&linkCode=sl2&tag=noya0b-20&linkId=ba11f713c946b17fa1b1481ae1548b44&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-20T18:00:01.964Z",
-      "updatedAt": "2026-10-20T18:00:01.964Z"
+      "generatedAt": "2026-10-20T18:10:02.818Z",
+      "updatedAt": "2026-10-20T18:10:02.818Z"
     },
     {
       "date": "2026-10-19",
@@ -16211,5 +16211,5 @@
       "updatedAt": "2026-08-23T03:50:01.399Z"
     }
   ],
-  "generatedAt": "2026-10-20T18:00:01.973Z"
+  "generatedAt": "2026-10-20T18:10:02.828Z"
 }
