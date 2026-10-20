@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-20T23:00:01.971Z",
+  "generatedAt": "2026-10-20T23:10:01.421Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "mavely-amc-theatres-2-tickets-drinks-popcorn",
+      "asin": null,
+      "title": "AMC Theatres — 2 Tickets + Drinks + Popcorn",
+      "url": "https://mavely.app.link/rVRFEglEO3b",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Entertainment",
+      "ts": "2026-10-20T23:00:06.067Z",
+      "type": "deal",
+      "imageUrl": null,
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0f3zhn56z-tipsy-elves-women-s-halloween-fair-isle-pajamas-black-pj-set",
       "asin": "B0F3ZHN56Z",
@@ -319,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/412cOMhilXL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0cnx6dczv-baby-bouncer-chair-comfortable-support-for-your-little-one-s",
@@ -7579,21 +7594,6 @@
       "ts": "2026-10-07T08:40:35.284Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71pV8GxlJLL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b0fbx57mnx-baylis-harding-luxury-pamper-tin-gift-set-for-women",
-      "asin": "B0FBX57MNX",
-      "title": "Baylis & Harding Luxury Pamper Tin, Gift Set For Women",
-      "url": "https://www.amazon.com/dp/B0FBX57MNX/ref=cm_sw_r_as_gl_apa_gl_i_dl_J6G3RH3S3N63GEH4Q9DP?linkCode=ml1&tag=noya0b-20&linkId=9725589f35de4be8ca969d5c8689304e&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-10-07T08:00:43.102Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61iOQ4zOchL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -17288,6 +17288,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-07T07:41:13.176Z",
       "archivedAt": "2026-10-20T22:50:00.552Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fbx57mnx-baylis-harding-luxury-pamper-tin-gift-set-for-women",
+      "asin": "B0FBX57MNX",
+      "title": "Baylis & Harding Luxury Pamper Tin, Gift Set For Women",
+      "url": "https://www.amazon.com/dp/B0FBX57MNX/ref=cm_sw_r_as_gl_apa_gl_i_dl_J6G3RH3S3N63GEH4Q9DP?linkCode=ml1&tag=noya0b-20&linkId=9725589f35de4be8ca969d5c8689304e&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-10-07T08:00:43.102Z",
+      "archivedAt": "2026-10-20T23:10:01.421Z",
       "status": "archived"
     }
   ]
