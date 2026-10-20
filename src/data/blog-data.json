@@ -9,11 +9,11 @@
         "Sports",
         "Garden & Outdoor",
         "Home",
+        "Pet Supplies",
         "Tools",
         "Grocery & Food",
         "Electronics",
-        "Home & Kitchen",
-        "Beauty"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Home": [
@@ -27,6 +27,19 @@
             "category": "Home",
             "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
             "url": "https://mavely.app.link/CppvVUXBo7b"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B08T1X4SWH",
+            "slug": "qqpets-dog-harness-collar-leash-no-pull-pet-adjustable-back",
+            "title": "QQPETS Dog Harness Collar Leash - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for Extra Small Puppy Medium Large Breed Training (XS,Space)",
+            "price": "$16.38",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
+            "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
           }
         ],
         "Tools": [
@@ -128,19 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/415UaxA6ONL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GRCXVXTS?th=1&linkCode=sl2&tag=noya0b-20&linkId=39c8fcf4ff6bdb9d66af46a80fe430c8&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0GG9C9THF",
-            "slug": "portable-air-conditioner-fan-4-in-1-mini-air-cooler-with-450",
-            "title": "Portable Air Conditioner Fan, 4-in-1 Mini Air Cooler with 450ML Water Tank, 3 Speeds Portable Fan 7 Colors LED Ambient Light, Mini Evaporative Cooler Desktop Humidifier Fan for Bedroom Office Travel : Home & Kitchen",
-            "price": "$28.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61zES0Uxo+L.jpg",
-            "url": "https://www.amazon.com/dp/B0GG9C9THF?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -154,6 +154,17 @@
           "category": "Home",
           "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
           "url": "https://mavely.app.link/CppvVUXBo7b"
+        },
+        {
+          "asin": "B08T1X4SWH",
+          "slug": "qqpets-dog-harness-collar-leash-no-pull-pet-adjustable-back",
+          "title": "QQPETS Dog Harness Collar Leash - No Pull Pet Adjustable Back Clip Halter Basic Collar Heavy Duty 5FT Anti-Twist Leash for Extra Small Puppy Medium Large Breed Training (XS,Space)",
+          "price": "$16.38",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
+          "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
         },
         {
           "asin": "B0CJ2SB7NT",
@@ -242,17 +253,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/415UaxA6ONL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0GRCXVXTS?th=1&linkCode=sl2&tag=noya0b-20&linkId=39c8fcf4ff6bdb9d66af46a80fe430c8&language=en_US&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GG9C9THF",
-          "slug": "portable-air-conditioner-fan-4-in-1-mini-air-cooler-with-450",
-          "title": "Portable Air Conditioner Fan, 4-in-1 Mini Air Cooler with 450ML Water Tank, 3 Speeds Portable Fan 7 Colors LED Ambient Light, Mini Evaporative Cooler Desktop Humidifier Fan for Bedroom Office Travel : Home & Kitchen",
-          "price": "$28.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61zES0Uxo+L.jpg",
-          "url": "https://www.amazon.com/dp/B0GG9C9THF?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-20T19:40:01.535Z",
-      "updatedAt": "2026-10-20T19:40:01.536Z"
+      "generatedAt": "2026-10-20T19:50:01.773Z",
+      "updatedAt": "2026-10-20T19:50:01.773Z"
     },
     {
       "date": "2026-10-19",
@@ -16214,5 +16214,5 @@
       "updatedAt": "2026-08-23T03:50:01.399Z"
     }
   ],
-  "generatedAt": "2026-10-20T19:40:01.544Z"
+  "generatedAt": "2026-10-20T19:50:01.782Z"
 }
