@@ -9,8 +9,9 @@
         "Electronics",
         "Grocery & Food",
         "Home & Kitchen",
-        "Other",
-        "Home"
+        "Home",
+        "Toys & Kids",
+        "Other"
       ],
       "byCategory": {
         "Home": [
@@ -24,6 +25,19 @@
             "category": "Home",
             "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
             "url": "https://mavely.app.link/CppvVUXBo7b"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B003ADVR3S",
+            "slug": "kidkraft-chelsea-doll-cottage-wooden-dollhouse-with-16-acces",
+            "title": "KidKraft Chelsea Doll Cottage Wooden Dollhouse with 16 Accessories | Working Shutters, Three Stories, Two Staircase, Bal",
+            "price": "54.37",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/51s7w59LurL._SL500_.jpg",
+            "url": "https://www.amazon.com/KidKraft-Chelsea-Doll-Cottage-Furniture/dp/B003ADVR3S?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=522bbfdb5634bc89ea15e516349dd21d&language=en_US&gaOptInStatus=true"
           }
         ],
         "Grocery & Food": [
@@ -120,17 +134,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/217C38Hj4cL._SL500_.jpg",
             "url": "https://www.amazon.com/Laneige-Lip-Glowy-Balm-Berry/dp/B07DY2QRF6?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1&linkCode=sl2&tag=noya0b-20&linkId=5a07f10675ea3b53fbffb0bdc3370001&language=en_US&gaOptInStatus=true"
-          },
-          {
-            "asin": "B07ND3WR64",
-            "slug": "cottonelle-fresh-feel-flushable-wet-wipes-adult-wet-wipes-8",
-            "title": "Cottonelle Fresh Feel Flushable Wet Wipes, Adult Wet Wipes, 8 Flip-Top Packs, 42 Wipes Per Pack (336 Total Wipes)",
-            "price": "11.09",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51lyN-VR9pL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B07ND3WR64?ie=UTF8&ascsubtag=95eaa0a0ccbf11f1903fa65ab0523e1a0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3e52a25c24a6923354e4e75bbe4dedc1&language=en_US&gaOptInStatus=true"
           }
         ]
       },
@@ -145,6 +148,17 @@
           "category": "Home",
           "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
           "url": "https://mavely.app.link/CppvVUXBo7b"
+        },
+        {
+          "asin": "B003ADVR3S",
+          "slug": "kidkraft-chelsea-doll-cottage-wooden-dollhouse-with-16-acces",
+          "title": "KidKraft Chelsea Doll Cottage Wooden Dollhouse with 16 Accessories | Working Shutters, Three Stories, Two Staircase, Bal",
+          "price": "54.37",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Toys & Kids",
+          "imageUrl": "https://m.media-amazon.com/images/I/51s7w59LurL._SL500_.jpg",
+          "url": "https://www.amazon.com/KidKraft-Chelsea-Doll-Cottage-Furniture/dp/B003ADVR3S?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=522bbfdb5634bc89ea15e516349dd21d&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B0F3ZHN56Z",
@@ -233,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL.jpg",
           "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
-        },
-        {
-          "asin": "B07ND3WR64",
-          "slug": "cottonelle-fresh-feel-flushable-wet-wipes-adult-wet-wipes-8",
-          "title": "Cottonelle Fresh Feel Flushable Wet Wipes, Adult Wet Wipes, 8 Flip-Top Packs, 42 Wipes Per Pack (336 Total Wipes)",
-          "price": "11.09",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51lyN-VR9pL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B07ND3WR64?ie=UTF8&ascsubtag=95eaa0a0ccbf11f1903fa65ab0523e1a0INT&m=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=3e52a25c24a6923354e4e75bbe4dedc1&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-20T23:20:02.282Z",
-      "updatedAt": "2026-10-20T23:20:02.282Z"
+      "generatedAt": "2026-10-20T23:30:01.754Z",
+      "updatedAt": "2026-10-20T23:30:01.754Z"
     },
     {
       "date": "2026-10-19",
@@ -16205,5 +16208,5 @@
       "updatedAt": "2026-08-23T03:50:01.399Z"
     }
   ],
-  "generatedAt": "2026-10-20T23:20:02.291Z"
+  "generatedAt": "2026-10-20T23:30:01.763Z"
 }
