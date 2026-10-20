@@ -9,11 +9,11 @@
         "Sports",
         "Garden & Outdoor",
         "Home",
+        "Electronics",
         "Other",
         "Pet Supplies",
         "Tools",
-        "Grocery & Food",
-        "Electronics"
+        "Grocery & Food"
       ],
       "byCategory": {
         "Home": [
@@ -27,6 +27,19 @@
             "category": "Home",
             "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
             "url": "https://mavely.app.link/CppvVUXBo7b"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B00Q3I8H80",
+            "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
+            "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S8/Note 8/S7/S6/S5, Google Pixel XL : Cell Phones & Accessories",
+            "price": "$9.62",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL.jpg",
+            "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -128,19 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/412cOMhilXL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0919MBGH3?th=1&linkCode=sl2&tag=noya0b-20&linkId=c42412ce10eae148cff302ffbf46b0a6&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B07DGPDJ62",
-            "slug": "skullcandy-jib-wired-earbuds-with-35mm-aux-plug-red-35mm-wir",
-            "title": "Skullcandy Jib Wired Earbuds with 3.5mm AUX Plug - Red | 3.5mm Wired Earbuds, In-Ear Headphones, Noise Isolating Fit, In",
-            "price": "7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/31jmScjC3vL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B07DGPDJ62?th=1&linkCode=sl2&tag=noya0b-20&linkId=0466e7f39355b446e6b6586ea90e29e4&language=en_US&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -154,6 +154,17 @@
           "category": "Home",
           "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
           "url": "https://mavely.app.link/CppvVUXBo7b"
+        },
+        {
+          "asin": "B00Q3I8H80",
+          "slug": "davoice-car-phone-mount-windshield-compatible-cell-phone-hol",
+          "title": "DaVoice Car Phone Mount - Windshield Compatible Cell Phone Holder for iPhone XS/XR/8/7/6S/6 Plus SE, Samsung Galaxy S9/S8/Note 8/S7/S6/S5, Google Pixel XL : Cell Phones & Accessories",
+          "price": "$9.62",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JHH5P8+HL.jpg",
+          "url": "https://www.amazon.com/dp/B00Q3I8H80?tag=noya0b-20"
         },
         {
           "asin": "B07ND3WR64",
@@ -242,17 +253,6 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/61ZH0PYWlVL.jpg",
           "url": "https://www.amazon.com/dp/B0CNX6DCZV?tag=noya0b-20"
-        },
-        {
-          "asin": "B07DGPDJ62",
-          "slug": "skullcandy-jib-wired-earbuds-with-35mm-aux-plug-red-35mm-wir",
-          "title": "Skullcandy Jib Wired Earbuds with 3.5mm AUX Plug - Red | 3.5mm Wired Earbuds, In-Ear Headphones, Noise Isolating Fit, In",
-          "price": "7.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/31jmScjC3vL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B07DGPDJ62?th=1&linkCode=sl2&tag=noya0b-20&linkId=0466e7f39355b446e6b6586ea90e29e4&language=en_US&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-20T20:20:00.934Z",
-      "updatedAt": "2026-10-20T20:20:00.934Z"
+      "generatedAt": "2026-10-20T20:30:02.040Z",
+      "updatedAt": "2026-10-20T20:30:02.040Z"
     },
     {
       "date": "2026-10-19",
@@ -16214,5 +16214,5 @@
       "updatedAt": "2026-08-23T03:50:01.399Z"
     }
   ],
-  "generatedAt": "2026-10-20T20:20:00.943Z"
+  "generatedAt": "2026-10-20T20:30:02.048Z"
 }
