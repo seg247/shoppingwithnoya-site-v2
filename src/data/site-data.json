@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-20T13:40:01.720Z",
+  "generatedAt": "2026-10-20T13:50:00.295Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b0fqg8r3q9-silver-buffalo-betty-boop-style-fleece-throw-blanket-45x60in",
+      "asin": "B0FQG8R3Q9",
+      "title": "Silver Buffalo Betty Boop Style, Fleece Throw Blanket, 45x60in | Soft and Cozy, 180 GSM",
+      "url": "https://www.amazon.com/dp/B0FQG8R3Q9/ref=cm_sw_r_as_gl_api_gl_i_E5K6YV48QXGEC86P9YT2?linkCode=ml1&tag=noya0b-20&linkId=905b6fb01828cd46be0fa3ce745fe384&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-20T13:40:21.286Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51VM4HxE1OL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "1803375450-never-touch-the-grumpy-pumpkins",
       "asin": "1803375450",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31KiY2GuLwL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0b86cf16z-u-s-polo-assn-full-zip-hoodie-w-pony-dazzling-blue-xl-clothi",
@@ -7571,21 +7586,6 @@
       "ts": "2026-10-07T03:26:19.154Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81txRpGZXUL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b0d79mc42c-garnier-erase-it-all-makeup-cleansing-balm-with-hyaluronic-a",
-      "asin": "B0D79MC42C",
-      "title": "Garnier Erase It All Makeup Cleansing Balm with Hyaluronic Acid, 4.2 Oz",
-      "url": "https://www.amazon.com/dp/B0D79MC42C?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-07T03:21:46.911Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71Dbdjj+jtL._SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -17150,6 +17150,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-07T02:01:15.098Z",
       "archivedAt": "2026-10-20T12:30:01.656Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d79mc42c-garnier-erase-it-all-makeup-cleansing-balm-with-hyaluronic-a",
+      "asin": "B0D79MC42C",
+      "title": "Garnier Erase It All Makeup Cleansing Balm with Hyaluronic Acid, 4.2 Oz",
+      "url": "https://www.amazon.com/dp/B0D79MC42C?tag=noya0b-20",
+      "category": "Beauty",
+      "ts": "2026-10-07T03:21:46.911Z",
+      "archivedAt": "2026-10-20T13:50:00.295Z",
       "status": "archived"
     }
   ]
