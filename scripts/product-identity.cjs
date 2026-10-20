@@ -90,7 +90,14 @@ function assertProductIdentity({ sourceTitle, merchantTitle, asin, merchantAsin,
     // Permit word-boundary truncation and reordering, but require every source
     // token: even a single differing model, variant or product type is unsafe.
     const merchantWords = new Set(merchant);
-    if (!source.every(word => merchantWords.has(word))) throw rejectIdentity('title_mismatch');
+    // Site titles are stored cut at ~120 chars, often mid-word. Only the final
+    // word of a long title may match as a prefix of a merchant word; every
+    // other word must still match exactly.
+    const srcRaw = String(sourceTitle).normalize('NFKC').toLowerCase().match(/[\p{L}\p{N}]+/gu) || [];
+    const lastWord = sourceTitle.length >= 100 ? srcRaw[srcRaw.length - 1] : null;
+    const matches = word => merchantWords.has(word) ||
+      (word === lastWord && [...merchantWords].some(m => m.startsWith(word)));
+    if (!source.every(matches)) throw rejectIdentity('title_mismatch');
   }
   // This attests title consistency only, not price/discount or image provenance.
   return { status: source.length ? 'matched' : 'merchant-only', method: 'conservative-title', asin };
