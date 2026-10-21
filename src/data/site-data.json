@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-21T11:00:01.590Z",
+  "generatedAt": "2026-10-21T11:10:00.807Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b088n719gq-prego-traditional-pasta-sauce-45-oz-jar",
+      "asin": "B088N719GQ",
+      "title": "Prego Traditional Pasta Sauce, 45 oz Jar",
+      "url": "https://www.amazon.com/dp/B088N719GQ/ref=cm_sw_r_as_gl_api_gl_i_VNVRZAYHJQER2PBMKS65?linkCode=ml1&tag=noya0b-20&linkId=6a81f500947cee5ea432204f978331e8&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-21T11:00:25.394Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41GH0Q+ychL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0dk35j8tt-gootaimi-50pcs-6-32x1-2-flat-head-socket-cap-screws-10-9-gra",
       "asin": "B0DK35J8TT",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Xf3ljKjdL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b085lstkl2-retinol-face-cream-with-vitamin-c-all-in-one-moisturizer-2-o",
@@ -7575,21 +7590,6 @@
       "ts": "2026-10-07T12:34:17.054Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61Lj3jOUJxL._AC_SL1500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b00wl6lc08-franklin-sports-blackhawk-portable-pop-up-backyard-soccer-go",
-      "asin": "B00WL6LC08",
-      "title": "Franklin Sports Blackhawk Portable Pop Up Backyard Soccer Goal",
-      "url": "https://www.amazon.com/dp/B00WL6LC08?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-10-07T12:29:53.742Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81hSBqvjx3S._AC_SL1500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -17494,6 +17494,16 @@
       "category": "Beauty",
       "ts": "2026-10-07T12:27:12.461Z",
       "archivedAt": "2026-10-21T10:50:02.127Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00wl6lc08-franklin-sports-blackhawk-portable-pop-up-backyard-soccer-go",
+      "asin": "B00WL6LC08",
+      "title": "Franklin Sports Blackhawk Portable Pop Up Backyard Soccer Goal",
+      "url": "https://www.amazon.com/dp/B00WL6LC08?tag=noya0b-20",
+      "category": "Toys & Kids",
+      "ts": "2026-10-07T12:29:53.742Z",
+      "archivedAt": "2026-10-21T11:10:00.807Z",
       "status": "archived"
     }
   ]
