@@ -9,10 +9,33 @@
         "Other",
         "Toys & Kids",
         "Home & Kitchen",
-        "Electronics",
-        "Beauty"
+        "Electronics"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B00FLYWNYQ",
+            "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+            "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+            "price": "$71.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
+            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CRB8VX77",
+            "slug": "spoflyinn-wood-console-table-with-4-drawers-bottom-shelf-sid",
+            "title": "SPOFLYINN Wood Console Table with 4 Drawers Bottom Shelf Sideboard Table for Entryway Hallway Living Room (63 \"L x 14 \"W",
+            "price": "108.17",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/31z6bSAFrhL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0CRB8VX77/ref=cm_sw_r_as_gl_apa_gl_i_PGG1S5V15SWEQENWRKX3?linkCode=ml1&tag=noya0b-20&linkId=ee534e002c00ee868d66d477c6a23233&gaOptInStatus=true"
+          }
+        ],
         "Toys & Kids": [
           {
             "asin": "B0CGDFDQ7C",
@@ -94,19 +117,6 @@
             "url": "https://www.amazon.com/dp/B0BDSWF4HJ/ref=cm_sw_r_as_gl_apa_gl_i_6MM2YFZSPM15358MR4AB?linkCode=ml1&tag=noya0b-20&linkId=9f502a0daa05eb80d86550c0e4359484&gaOptInStatus=true"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0CRB8VX77",
-            "slug": "spoflyinn-wood-console-table-with-4-drawers-bottom-shelf-sid",
-            "title": "SPOFLYINN Wood Console Table with 4 Drawers Bottom Shelf Sideboard Table for Entryway Hallway Living Room (63 \"L x 14 \"W",
-            "price": "108.17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/31z6bSAFrhL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CRB8VX77/ref=cm_sw_r_as_gl_apa_gl_i_PGG1S5V15SWEQENWRKX3?linkCode=ml1&tag=noya0b-20&linkId=ee534e002c00ee868d66d477c6a23233&gaOptInStatus=true"
-          }
-        ],
         "Electronics": [
           {
             "asin": "B0G4XRP464",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31u8QpgCGKL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0G4XRP464/ref=cm_sw_r_as_gl_apa_gl_i_dl_X9X7HQP1T14CVJB3KDBE?linkCode=ml1&tag=noya0b-20&linkId=c6f8be25d3b66383c8218eab65776ba8&gaOptInStatus=true"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B08SL72G3P",
-            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
-            "price": "$19.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00FLYWNYQ",
+          "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+          "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+          "price": "$71.89",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
+          "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+        },
         {
           "asin": "B0CGDFDQ7C",
           "slug": "svemei-22pcs-cat-fetch-toys-interactive-flying-cat-toy-with",
@@ -233,23 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41ikJR0FssL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0BDSWF4HJ/ref=cm_sw_r_as_gl_apa_gl_i_6MM2YFZSPM15358MR4AB?linkCode=ml1&tag=noya0b-20&linkId=9f502a0daa05eb80d86550c0e4359484&gaOptInStatus=true"
-        },
-        {
-          "asin": "B08SL72G3P",
-          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
-          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
-          "price": "$19.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
-          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 21, 2026?",
-          "a": "The best deals today include \"Svemei 22PCS Cat Fetch Toys, Interactive Flying Cat Toy with...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainl...\" and 9 other hand-picked discounts. Deals span Other, Toys & Kids, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-21T10:20:00.833Z",
-      "updatedAt": "2026-10-21T10:20:00.833Z"
+      "generatedAt": "2026-10-21T10:30:01.774Z",
+      "updatedAt": "2026-10-21T10:30:01.775Z"
     },
     {
       "date": "2026-10-20",
@@ -16214,5 +16211,5 @@
       "updatedAt": "2026-08-24T03:50:01.313Z"
     }
   ],
-  "generatedAt": "2026-10-21T10:20:00.842Z"
+  "generatedAt": "2026-10-21T10:30:01.783Z"
 }
