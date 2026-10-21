@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-21T14:40:01.405Z",
+  "generatedAt": "2026-10-21T14:50:00.699Z",
   "total": 500,
   "posts": [
+    {
+      "slug": "b07thwdmtp-progresso-rich-hearty-lasagna-style-soup-with-italian-sausag",
+      "asin": "B07THWDMTP",
+      "title": "Progresso Rich & Hearty, Lasagna-Style Soup With Italian Sausage, Canned Soup, 18.5 oz.",
+      "url": "https://www.amazon.com/dp/B07THWDMTP/ref=cm_sw_r_as_gl_api_gl_i_GEMVRHXXA1DHRQKWBGHG?linkCode=ml1&tag=noya0b-20&linkId=4b51ae080d774125b5eeb1ff0b08f67e&gaOptInStatus=true",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-10-21T14:40:16.254Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51EqTwcbV-L._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      }
+    },
     {
       "slug": "b0c29grrcz-square-reader-for-contactless-and-chip-2nd-generation",
       "asin": "B0C29GRRCZ",
@@ -281,11 +300,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/31z6bSAFrhL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      }
+      "badge": null
     },
     {
       "slug": "b0g4xrp464-amazon-fire-tv-stick-4k-newest-model-simple-4k-streaming-new",
@@ -7575,21 +7590,6 @@
       "ts": "2026-10-07T15:40:18.800Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71G-NnmEtnL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null
-    },
-    {
-      "slug": "b0cbp3vv3v-space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
-      "asin": "B0CBP3VV3V",
-      "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heater for Office/Bedroom/Garage : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-07T15:20:49.282Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81o8mmzRLYL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null
@@ -17554,6 +17554,16 @@
       "category": "Electronics",
       "ts": "2026-10-07T15:06:49.099Z",
       "archivedAt": "2026-10-21T14:10:01.342Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0cbp3vv3v-space-heater-with-humidifier-3-in-1-space-heaters-for-indoor",
+      "asin": "B0CBP3VV3V",
+      "title": "Space Heater with Humidifier, 3-in-1 Space Heaters for Indoor Use with Motion Sensor/3D Flame Effect,1500W Portable Heater for Office/Bedroom/Garage : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0CBP3VV3V?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-07T15:20:49.282Z",
+      "archivedAt": "2026-10-21T14:50:00.699Z",
       "status": "archived"
     }
   ]
