@@ -12,6 +12,41 @@
         "Grocery & Food"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B017HRRZW4",
+            "slug": "core-kitchen-cutting-board-set-with-knife-home-kitchen",
+            "title": "Core Kitchen Cutting Board Set with Knife: Home & Kitchen",
+            "price": "$8.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81hNBdpA51L.jpg",
+            "url": "https://www.amazon.com/dp/B017HRRZW4?tag=noya0b-20"
+          },
+          {
+            "asin": "B07481LPMF",
+            "slug": "amazon-basics-non-stick-kitchen-cookware-15-piece-set-with-s",
+            "title": "Amazon Basics Non-Stick Kitchen Cookware 15-Piece Set with Stay-Cool Handles, Even Heating, Non-Induction, Includes Pots, Pans, and Utensils, Black: Home & Kitchen",
+            "price": "$62.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71oZ1-QYomL.jpg",
+            "url": "https://www.amazon.com/dp/B07481LPMF?tag=noya0b-20"
+          },
+          {
+            "asin": "B00FLYWNYQ",
+            "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+            "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+            "price": "$71.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
+            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0DDPJT8QG",
@@ -58,41 +93,6 @@
             "url": "https://www.amazon.com/dp/B0GYQW41DW/ref=cm_sw_r_as_gl_api_gl_i_PPGJST3C7X8H54HBHX06?linkCode=ml1&tag=noya0b-20&linkId=16732e1c7570a6d79a4918880835b4e1&gaOptInStatus=true"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07481LPMF",
-            "slug": "amazon-basics-non-stick-kitchen-cookware-15-piece-set-with-s",
-            "title": "Amazon Basics Non-Stick Kitchen Cookware 15-Piece Set with Stay-Cool Handles, Even Heating, Non-Induction, Includes Pots, Pans, and Utensils, Black: Home & Kitchen",
-            "price": "$62.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ1-QYomL.jpg",
-            "url": "https://www.amazon.com/dp/B07481LPMF?tag=noya0b-20"
-          },
-          {
-            "asin": "B00FLYWNYQ",
-            "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
-            "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
-            "price": "$71.89",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
-            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CRB8VX77",
-            "slug": "spoflyinn-wood-console-table-with-4-drawers-bottom-shelf-sid",
-            "title": "SPOFLYINN Wood Console Table with 4 Drawers Bottom Shelf Sideboard Table for Entryway Hallway Living Room (63 \"L x 14 \"W",
-            "price": "108.17",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/31z6bSAFrhL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CRB8VX77/ref=cm_sw_r_as_gl_apa_gl_i_PGG1S5V15SWEQENWRKX3?linkCode=ml1&tag=noya0b-20&linkId=ee534e002c00ee868d66d477c6a23233&gaOptInStatus=true"
-          }
-        ],
         "Grocery & Food": [
           {
             "asin": "B088N719GQ",
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B017HRRZW4",
+          "slug": "core-kitchen-cutting-board-set-with-knife-home-kitchen",
+          "title": "Core Kitchen Cutting Board Set with Knife: Home & Kitchen",
+          "price": "$8.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81hNBdpA51L.jpg",
+          "url": "https://www.amazon.com/dp/B017HRRZW4?tag=noya0b-20"
+        },
         {
           "asin": "B0DDPJT8QG",
           "slug": "ganzqh-50ft-rgb-led-lights-for-bedroom-with-remote-app-contr",
@@ -230,23 +241,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51RAppFN3-L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0GYQW41DW/ref=cm_sw_r_as_gl_api_gl_i_PPGJST3C7X8H54HBHX06?linkCode=ml1&tag=noya0b-20&linkId=16732e1c7570a6d79a4918880835b4e1&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0CRB8VX77",
-          "slug": "spoflyinn-wood-console-table-with-4-drawers-bottom-shelf-sid",
-          "title": "SPOFLYINN Wood Console Table with 4 Drawers Bottom Shelf Sideboard Table for Entryway Hallway Living Room (63 \"L x 14 \"W",
-          "price": "108.17",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/31z6bSAFrhL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CRB8VX77/ref=cm_sw_r_as_gl_apa_gl_i_PGG1S5V15SWEQENWRKX3?linkCode=ml1&tag=noya0b-20&linkId=ee534e002c00ee868d66d477c6a23233&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 21, 2026?",
-          "a": "The best deals today include \"GANZQH 50FT RGB Led Lights for Bedroom with Remote & App Con...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Core Kitchen Cutting Board Set with Knife: Home & Kitchen...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-21T13:00:01.999Z",
-      "updatedAt": "2026-10-21T13:00:01.999Z"
+      "generatedAt": "2026-10-21T13:10:02.131Z",
+      "updatedAt": "2026-10-21T13:10:02.131Z"
     },
     {
       "date": "2026-10-20",
@@ -16211,5 +16211,5 @@
       "updatedAt": "2026-08-24T03:50:01.313Z"
     }
   ],
-  "generatedAt": "2026-10-21T13:00:02.009Z"
+  "generatedAt": "2026-10-21T13:10:02.138Z"
 }
