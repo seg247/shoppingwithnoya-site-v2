@@ -12,31 +12,18 @@
         "Grocery & Food"
       ],
       "byCategory": {
-        "Toys & Kids": [
-          {
-            "asin": "B0FMS7CRHX",
-            "slug": "lego-botanicals-daisies-11508-building-toys-for-girls-boys-a",
-            "title": "LEGO Botanicals Daisies 11508 | Building Toys for Girls & Boys, Ages 9+, Artificial Flowers Craft Kit, Home Décor & Disp",
-            "price": "9.89",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/51C5HG+TLjL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_AQEBFBY6PPDA9EXYZXVV?linkCode=ml1&tag=noya0b-20&linkId=2508fd9c2496470c43265365ae9d31fa&gaOptInStatus=true"
-          },
-          {
-            "asin": "B0CGDFDQ7C",
-            "slug": "svemei-22pcs-cat-fetch-toys-interactive-flying-cat-toy-with",
-            "title": "Svemei 22PCS Cat Fetch Toys, Interactive Flying Cat Toy with Flying Propellers, Cat Kitten Tracks Toy for Training Hunti",
-            "price": "6.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Kids",
-            "imageUrl": "https://m.media-amazon.com/images/I/51+y-RnqODL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0CGDFDQ7C/ref=cm_sw_r_as_gl_api_gl_i_dl_EA9ZYJTPSY7G5MTX78EH?linkCode=ml1&tag=noya0b-20&linkId=41b9f890096d5aaa278757b30ddc76c5&gaOptInStatus=true"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0C29GRRCZ",
+            "slug": "square-reader-for-contactless-and-chip-2nd-generation",
+            "title": "Square Reader for contactless and chip (2nd Generation)",
+            "price": "47.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41DWj2jai4L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C29GRRCZ/ref=cm_sw_r_as_gl_api_gl_i_WZ0K94JHQY05BB7JXVEC?linkCode=ml1&tag=noya0b-20&linkId=bc3d411a71813c00e7f5020ed0e2354c&gaOptInStatus=true"
+          },
           {
             "asin": "B0CHTGNNLS",
             "slug": "play-and-learn-sensory-table-for-kids-whiteprimary",
@@ -80,6 +67,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51HRY1RodHL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0DK35J8TT/ref=cm_sw_r_as_gl_api_gl_i_dl_CEGNV9VPWV2QH2WVG7V8?linkCode=ml1&tag=noya0b-20&linkId=3ebf9ea08b5d4947082ba36cd0df7b57&gaOptInStatus=true"
+          }
+        ],
+        "Toys & Kids": [
+          {
+            "asin": "B0FMS7CRHX",
+            "slug": "lego-botanicals-daisies-11508-building-toys-for-girls-boys-a",
+            "title": "LEGO Botanicals Daisies 11508 | Building Toys for Girls & Boys, Ages 9+, Artificial Flowers Craft Kit, Home Décor & Disp",
+            "price": "9.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Toys & Kids",
+            "imageUrl": "https://m.media-amazon.com/images/I/51C5HG+TLjL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_AQEBFBY6PPDA9EXYZXVV?linkCode=ml1&tag=noya0b-20&linkId=2508fd9c2496470c43265365ae9d31fa&gaOptInStatus=true"
           }
         ],
         "Home & Kitchen": [
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0C29GRRCZ",
+          "slug": "square-reader-for-contactless-and-chip-2nd-generation",
+          "title": "Square Reader for contactless and chip (2nd Generation)",
+          "price": "47.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/41DWj2jai4L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C29GRRCZ/ref=cm_sw_r_as_gl_api_gl_i_WZ0K94JHQY05BB7JXVEC?linkCode=ml1&tag=noya0b-20&linkId=bc3d411a71813c00e7f5020ed0e2354c&gaOptInStatus=true"
+        },
         {
           "asin": "B0FMS7CRHX",
           "slug": "lego-botanicals-daisies-11508-building-toys-for-girls-boys-a",
@@ -230,23 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/71MLaYtMFOL.jpg",
           "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CGDFDQ7C",
-          "slug": "svemei-22pcs-cat-fetch-toys-interactive-flying-cat-toy-with",
-          "title": "Svemei 22PCS Cat Fetch Toys, Interactive Flying Cat Toy with Flying Propellers, Cat Kitten Tracks Toy for Training Hunti",
-          "price": "6.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Kids",
-          "imageUrl": "https://m.media-amazon.com/images/I/51+y-RnqODL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0CGDFDQ7C/ref=cm_sw_r_as_gl_api_gl_i_dl_EA9ZYJTPSY7G5MTX78EH?linkCode=ml1&tag=noya0b-20&linkId=41b9f890096d5aaa278757b30ddc76c5&gaOptInStatus=true"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 21, 2026?",
-          "a": "The best deals today include \"LEGO Botanicals Daisies 11508 | Building Toys for Girls & Bo...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"Square Reader for contactless and chip (2nd Generation)...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-21T14:00:02.567Z",
-      "updatedAt": "2026-10-21T14:00:02.567Z"
+      "generatedAt": "2026-10-21T14:10:01.710Z",
+      "updatedAt": "2026-10-21T14:10:01.710Z"
     },
     {
       "date": "2026-10-20",
@@ -16211,5 +16211,5 @@
       "updatedAt": "2026-08-24T03:50:01.313Z"
     }
   ],
-  "generatedAt": "2026-10-21T14:00:02.575Z"
+  "generatedAt": "2026-10-21T14:10:01.718Z"
 }
