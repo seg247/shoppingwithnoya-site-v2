@@ -12,8 +12,7 @@
         "Grocery",
         "Other",
         "Health",
-        "Toys & Kids",
-        "Electronics"
+        "Toys & Kids"
       ],
       "byCategory": {
         "Home": [
@@ -30,6 +29,17 @@
           }
         ],
         "Grocery & Food": [
+          {
+            "asin": "B0GV63HYNJ",
+            "slug": "touchland-cotton-candy-hand-sanitizer-mist-matching-case-set",
+            "title": "Touchland Cotton Candy Hand Sanitizer Mist & Matching Case Set, Travel Size | Amazon exclusive. TSA ready. Sweet, airy C",
+            "price": "15.3",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/31OMxy+dH8L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GV63HYNJ?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=0f29408b2e8a5de9ed077f58317ab035&language=en_US&gaOptInStatus=true"
+          },
           {
             "asin": "B078Q58K1V",
             "slug": "v8-splash-mango-peach-flavored-juice-beverage-16-fl-oz-bottl",
@@ -128,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51s7w59LurL._SL500_.jpg",
             "url": "https://www.amazon.com/KidKraft-Chelsea-Doll-Cottage-Furniture/dp/B003ADVR3S?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&linkCode=sl2&tag=noya0b-20&linkId=522bbfdb5634bc89ea15e516349dd21d&language=en_US&gaOptInStatus=true"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0GY8C9C9Y",
-            "slug": "active-noise-cancelling-ear-buds-wireless-earbuds-dual-batte",
-            "title": "Active Noise Cancelling Ear Buds Wireless Earbuds Dual Battery Display, Bluetooth Headphones with Deep Bass, IPX7 Waterproof, Ultra Light Comfort Wear, Sports Earphones for Running Workout Gym Black",
-            "price": "$26.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81wxNfBnqcL.jpg",
-            "url": "https://www.amazon.com/dp/B0GY8C9C9Y?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -154,6 +151,17 @@
           "category": "Home",
           "imageUrl": "https://i5.walmartimages.com/seo/Shark-Navigator-Lift-Away-Upright-Vacuum-NV380_8a95a973-d57b-41d8-94a0-da65ea2a1628.36595e07c427858bbd0d16a26ff15c89.jpeg",
           "url": "https://mavely.app.link/CppvVUXBo7b"
+        },
+        {
+          "asin": "B0GV63HYNJ",
+          "slug": "touchland-cotton-candy-hand-sanitizer-mist-matching-case-set",
+          "title": "Touchland Cotton Candy Hand Sanitizer Mist & Matching Case Set, Travel Size | Amazon exclusive. TSA ready. Sweet, airy C",
+          "price": "15.3",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/31OMxy+dH8L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GV63HYNJ?gaOptInStatus=true&th=1&linkCode=sl2&tag=noya0b-20&linkId=0f29408b2e8a5de9ed077f58317ab035&language=en_US&gaOptInStatus=true"
         },
         {
           "asin": "B078Q58K1V",
@@ -242,17 +250,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/41gw9JhkFEL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0F3ZHN56Z/ref=cm_sw_r_as_gl_api_gl_i_HPWY735C1QN1RD1ETZPM?linkCode=ml1&tag=noya0b-20&linkId=9db15e488c9183e2672c2ebdb972004b&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0GY8C9C9Y",
-          "slug": "active-noise-cancelling-ear-buds-wireless-earbuds-dual-batte",
-          "title": "Active Noise Cancelling Ear Buds Wireless Earbuds Dual Battery Display, Bluetooth Headphones with Deep Bass, IPX7 Waterproof, Ultra Light Comfort Wear, Sports Earphones for Running Workout Gym Black",
-          "price": "$26.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/81wxNfBnqcL.jpg",
-          "url": "https://www.amazon.com/dp/B0GY8C9C9Y?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-21T02:40:01.766Z",
-      "updatedAt": "2026-10-21T02:40:01.766Z"
+      "generatedAt": "2026-10-21T02:50:02.218Z",
+      "updatedAt": "2026-10-21T02:50:02.218Z"
     },
     {
       "date": "2026-10-19",
@@ -16214,5 +16211,5 @@
       "updatedAt": "2026-08-23T03:50:01.399Z"
     }
   ],
-  "generatedAt": "2026-10-21T02:40:01.775Z"
+  "generatedAt": "2026-10-21T02:50:02.228Z"
 }
