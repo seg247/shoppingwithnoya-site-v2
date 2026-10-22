@@ -9,11 +9,11 @@
         "Garden & Outdoor",
         "Kids & Family",
         "Beauty",
+        "Electronics",
         "Fashion",
         "Sports",
         "Toys & Kids",
-        "Other",
-        "Grocery & Food"
+        "Other"
       ],
       "byCategory": {
         "Kids & Family": [
@@ -40,6 +40,19 @@
             "category": "Beauty",
             "imageUrl": "https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwd0e3b33a/product_images/BADGALEM71_Refresh_2024/Main_badgalbangwaterproof.jpg?sw=624&sh=624&q=85",
             "url": "https://mavely.app.link/jSOiGtAHr7b"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B08FM6GZSY",
+            "slug": "yaokeep-car-phone-holder-mount-360-degree-rotation-dashboard",
+            "title": "YAOKEEP Car Phone Holder Mount, 360 Degree Rotation Dashboard Phone Holder | Universal Multifunctional Clip Car Phone Mount, Car Mount for iPhone, Samsung, Android, and 4 to 7\" Smartphones : Cell Phones & Accessories",
+            "price": "$15.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61r0UWAWY9L.jpg",
+            "url": "https://www.amazon.com/dp/B08FM6GZSY?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -128,19 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51jYRDN0YyL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0DDPJT8QG/ref=cm_sw_r_as_gl_api_gl_i_W72M494TXHAPGN9EACVJ?linkCode=ml1&tag=noya0b-20&linkId=b5d13ab2702f90fb1985249111f495ca&gaOptInStatus=true"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0918W1TVB",
-            "slug": "lesserevil-himalayan-pink-salt-organic-popcorn-premium-quali",
-            "title": "LesserEvil Himalayan Pink Salt Organic Popcorn, Premium Quality, Minimally Processed, No Vegetable Oil, 0.46 Oz, Pack of",
-            "price": "8.38",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/41C6EpcEg2L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0918W1TVB/ref=cm_sw_r_as_gl_api_gl_i_KCZ8CH735RPWXTA55QG0?linkCode=ml1&tag=noya0b-20&linkId=793aca03561416e4902766917f385197&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -165,6 +165,17 @@
           "category": "Beauty",
           "imageUrl": "https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwd0e3b33a/product_images/BADGALEM71_Refresh_2024/Main_badgalbangwaterproof.jpg?sw=624&sh=624&q=85",
           "url": "https://mavely.app.link/jSOiGtAHr7b"
+        },
+        {
+          "asin": "B08FM6GZSY",
+          "slug": "yaokeep-car-phone-holder-mount-360-degree-rotation-dashboard",
+          "title": "YAOKEEP Car Phone Holder Mount, 360 Degree Rotation Dashboard Phone Holder | Universal Multifunctional Clip Car Phone Mount, Car Mount for iPhone, Samsung, Android, and 4 to 7\" Smartphones : Cell Phones & Accessories",
+          "price": "$15.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61r0UWAWY9L.jpg",
+          "url": "https://www.amazon.com/dp/B08FM6GZSY?tag=noya0b-20"
         },
         {
           "asin": "B0CQ565795",
@@ -242,17 +253,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/51jYRDN0YyL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0DDPJT8QG/ref=cm_sw_r_as_gl_api_gl_i_W72M494TXHAPGN9EACVJ?linkCode=ml1&tag=noya0b-20&linkId=b5d13ab2702f90fb1985249111f495ca&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0918W1TVB",
-          "slug": "lesserevil-himalayan-pink-salt-organic-popcorn-premium-quali",
-          "title": "LesserEvil Himalayan Pink Salt Organic Popcorn, Premium Quality, Minimally Processed, No Vegetable Oil, 0.46 Oz, Pack of",
-          "price": "8.38",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/41C6EpcEg2L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0918W1TVB/ref=cm_sw_r_as_gl_api_gl_i_KCZ8CH735RPWXTA55QG0?linkCode=ml1&tag=noya0b-20&linkId=793aca03561416e4902766917f385197&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-22T15:00:02.134Z",
-      "updatedAt": "2026-10-22T15:00:02.134Z"
+      "generatedAt": "2026-10-22T15:10:01.835Z",
+      "updatedAt": "2026-10-22T15:10:01.835Z"
     },
     {
       "date": "2026-10-21",
@@ -16229,5 +16229,5 @@
       "updatedAt": "2026-08-25T03:50:01.418Z"
     }
   ],
-  "generatedAt": "2026-10-22T15:00:02.144Z"
+  "generatedAt": "2026-10-22T15:10:01.844Z"
 }
