@@ -9,11 +9,11 @@
         "Garden & Outdoor",
         "Kids & Family",
         "Beauty",
+        "Fashion",
         "Sports",
         "Toys & Kids",
         "Other",
-        "Grocery & Food",
-        "Sports & Fitness"
+        "Grocery & Food"
       ],
       "byCategory": {
         "Kids & Family": [
@@ -40,6 +40,19 @@
             "category": "Beauty",
             "imageUrl": "https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwd0e3b33a/product_images/BADGALEM71_Refresh_2024/Main_badgalbangwaterproof.jpg?sw=624&sh=624&q=85",
             "url": "https://mavely.app.link/jSOiGtAHr7b"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0CQ565795",
+            "slug": "lobeve-no-pull-dog-harness-collar-leash-set-with-travel-acce",
+            "title": "LOBEVE No Pull Dog Harness, Collar & Leash Set with Travel Accessories | Includes Dog Seat Belt, Collapsible Bowls & Poop Bag Dispenser. Ideal for Training, Walking, Hiking. Fits Small to Large Dogs",
+            "price": "$22.87",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
+            "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
           }
         ],
         "Garden & Outdoor": [
@@ -128,19 +141,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41C6EpcEg2L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0918W1TVB/ref=cm_sw_r_as_gl_api_gl_i_KCZ8CH735RPWXTA55QG0?linkCode=ml1&tag=noya0b-20&linkId=793aca03561416e4902766917f385197&gaOptInStatus=true"
           }
-        ],
-        "Sports & Fitness": [
-          {
-            "asin": "B0G6LKWWPG",
-            "slug": "taeku-football-party-supplies-set-99-pcs-touchdown-plates-na",
-            "title": "Taeku Football Party Supplies Set, 99 PCS Touchdown Plates Napkins Cups Tablecloths & Banner, Football Birthday Decorati",
-            "price": "7.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports & Fitness",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ovPyObbaL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0G6LKWWPG/ref=cm_sw_r_as_gl_api_gl_i_dl_S9C2VBS67RVYY4QNNPDW?linkCode=ml1&tag=noya0b-20&linkId=d41d5d65d066c90b4dd47233abc54227&gaOptInStatus=true"
-          }
         ]
       },
       "deals": [
@@ -165,6 +165,17 @@
           "category": "Beauty",
           "imageUrl": "https://www.benefitcosmetics.com/dw/image/v2/BKFV_PRD/on/demandware.static/-/Sites-bencos-master-catalog/default/dwd0e3b33a/product_images/BADGALEM71_Refresh_2024/Main_badgalbangwaterproof.jpg?sw=624&sh=624&q=85",
           "url": "https://mavely.app.link/jSOiGtAHr7b"
+        },
+        {
+          "asin": "B0CQ565795",
+          "slug": "lobeve-no-pull-dog-harness-collar-leash-set-with-travel-acce",
+          "title": "LOBEVE No Pull Dog Harness, Collar & Leash Set with Travel Accessories | Includes Dog Seat Belt, Collapsible Bowls & Poop Bag Dispenser. Ideal for Training, Walking, Hiking. Fits Small to Large Dogs",
+          "price": "$22.87",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
+          "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
         },
         {
           "asin": "B0HCBPDHN4",
@@ -242,17 +253,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/41C6EpcEg2L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0918W1TVB/ref=cm_sw_r_as_gl_api_gl_i_KCZ8CH735RPWXTA55QG0?linkCode=ml1&tag=noya0b-20&linkId=793aca03561416e4902766917f385197&gaOptInStatus=true"
-        },
-        {
-          "asin": "B0G6LKWWPG",
-          "slug": "taeku-football-party-supplies-set-99-pcs-touchdown-plates-na",
-          "title": "Taeku Football Party Supplies Set, 99 PCS Touchdown Plates Napkins Cups Tablecloths & Banner, Football Birthday Decorati",
-          "price": "7.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports & Fitness",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ovPyObbaL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B0G6LKWWPG/ref=cm_sw_r_as_gl_api_gl_i_dl_S9C2VBS67RVYY4QNNPDW?linkCode=ml1&tag=noya0b-20&linkId=d41d5d65d066c90b4dd47233abc54227&gaOptInStatus=true"
         }
       ],
       "faq": [
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-22T14:40:02.124Z",
-      "updatedAt": "2026-10-22T14:40:02.124Z"
+      "generatedAt": "2026-10-22T14:50:01.842Z",
+      "updatedAt": "2026-10-22T14:50:01.842Z"
     },
     {
       "date": "2026-10-21",
@@ -16229,5 +16229,5 @@
       "updatedAt": "2026-08-25T03:50:01.418Z"
     }
   ],
-  "generatedAt": "2026-10-22T14:40:02.133Z"
+  "generatedAt": "2026-10-22T14:50:01.851Z"
 }
