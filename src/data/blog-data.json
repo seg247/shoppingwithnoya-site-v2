@@ -9,6 +9,7 @@
         "Beauty",
         "Home & Kitchen",
         "Kids & Family",
+        "Fashion",
         "Women's Fashion",
         "Garden & Outdoor"
       ],
@@ -59,17 +60,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71Xf3ljKjdL.jpg",
             "url": "https://www.amazon.com/dp/B08QHSSHN5?tag=noya0b-20"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B002JDUMFO",
-            "slug": "loreal-paris-collagen-daily-face-moisturizer-anti-aging-face",
-            "title": "L’Oreal Paris Collagen Daily Face Moisturizer, Anti Aging Face Cream to Reduce Wrinkles and Provide Intense Hydration, 1.7 oz : Beauty & Personal Care",
-            "price": "$9.86",
+            "asin": "B0B86CF16Z",
+            "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+            "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+            "price": "$44.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jTuSY+xSL.jpg",
-            "url": "https://www.amazon.com/dp/B002JDUMFO?tag=noya0b-20"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+            "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
           }
         ],
         "Women's Fashion": [
@@ -158,6 +161,17 @@
           "url": "https://mavely.app.link/jSOiGtAHr7b"
         },
         {
+          "asin": "B0B86CF16Z",
+          "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+          "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+          "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
+        },
+        {
           "asin": "B0HHS2RPWC",
           "slug": "fall-shirts-for-women-2026-trendy-petite-long-sleeve-waffle",
           "title": "Fall Shirts For Women 2026 Trendy Petite Long Sleeve Waffle Knit Tops | Casual Dressy Tops For Women Plus Size Loose Fit Denim Patchwork Collared Tshirts College Work Outfits Office Brown 2X 3X at Amazon Women’s Clothing store",
@@ -233,17 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/71Xf3ljKjdL.jpg",
           "url": "https://www.amazon.com/dp/B08QHSSHN5?tag=noya0b-20"
-        },
-        {
-          "asin": "B002JDUMFO",
-          "slug": "loreal-paris-collagen-daily-face-moisturizer-anti-aging-face",
-          "title": "L’Oreal Paris Collagen Daily Face Moisturizer, Anti Aging Face Cream to Reduce Wrinkles and Provide Intense Hydration, 1.7 oz : Beauty & Personal Care",
-          "price": "$9.86",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71jTuSY+xSL.jpg",
-          "url": "https://www.amazon.com/dp/B002JDUMFO?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-23T00:40:02.208Z",
-      "updatedAt": "2026-10-23T00:40:02.208Z"
+      "generatedAt": "2026-10-23T00:50:01.226Z",
+      "updatedAt": "2026-10-23T00:50:01.226Z"
     },
     {
       "date": "2026-10-21",
@@ -16220,5 +16223,5 @@
       "updatedAt": "2026-08-25T03:50:01.418Z"
     }
   ],
-  "generatedAt": "2026-10-23T00:40:02.220Z"
+  "generatedAt": "2026-10-23T00:50:01.235Z"
 }
