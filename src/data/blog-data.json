@@ -9,8 +9,8 @@
         "Beauty",
         "Home & Kitchen",
         "Fashion",
-        "Health",
-        "Grocery"
+        "Garden & Outdoor",
+        "Health"
       ],
       "byCategory": {
         "Fashion": [
@@ -72,6 +72,19 @@
             "url": "https://www.amazon.com/dp/B08QHSSHN5?tag=noya0b-20"
           }
         ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0C57FV4JS",
+            "slug": "clear-plastic-storage-bins-pantry-organizers-and-storage-or",
+            "title": "Clear Plastic Storage Bins, Pantry Organizers and Storage or Kitchen Organization and Storage Containers Bins for Organizing, Fridge, Freezer, Bathroom, Pantries, Refrigerator, Cabinet Organizer Bin: Home & Kitchen",
+            "price": "$34.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61N0QhteHwL.jpg",
+            "url": "https://www.amazon.com/dp/B0C57FV4JS?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0CSNFFFQZ",
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61nHbDG1q0L.jpg",
             "url": "https://www.amazon.com/dp/B07GHS37LC?tag=noya0b-20"
           }
-        ],
-        "Grocery": [
-          {
-            "asin": "B01M97YEVN",
-            "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
-            "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
-            "price": "$26.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery",
-            "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
-            "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,17 @@
           "category": "Beauty",
           "imageUrl": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/primary/647673-01.png?cropPathE=desktop&fit=stretch,1&wid=1000",
           "url": "https://mavely.app.link/U0jqtysmt7b"
+        },
+        {
+          "asin": "B0C57FV4JS",
+          "slug": "clear-plastic-storage-bins-pantry-organizers-and-storage-or",
+          "title": "Clear Plastic Storage Bins, Pantry Organizers and Storage or Kitchen Organization and Storage Containers Bins for Organizing, Fridge, Freezer, Bathroom, Pantries, Refrigerator, Cabinet Organizer Bin: Home & Kitchen",
+          "price": "$34.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/61N0QhteHwL.jpg",
+          "url": "https://www.amazon.com/dp/B0C57FV4JS?tag=noya0b-20"
         },
         {
           "asin": "B0CSNFFFQZ",
@@ -233,17 +244,6 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/61nHbDG1q0L.jpg",
           "url": "https://www.amazon.com/dp/B07GHS37LC?tag=noya0b-20"
-        },
-        {
-          "asin": "B01M97YEVN",
-          "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
-          "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
-          "price": "$26.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery",
-          "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
-          "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-23T16:00:02.693Z",
-      "updatedAt": "2026-10-23T16:00:02.694Z"
+      "generatedAt": "2026-10-23T16:10:02.653Z",
+      "updatedAt": "2026-10-23T16:10:02.654Z"
     },
     {
       "date": "2026-10-22",
@@ -16229,5 +16229,5 @@
       "updatedAt": "2026-08-26T03:50:00.591Z"
     }
   ],
-  "generatedAt": "2026-10-23T16:00:02.707Z"
+  "generatedAt": "2026-10-23T16:10:02.663Z"
 }
