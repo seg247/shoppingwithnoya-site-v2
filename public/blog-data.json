@@ -9,10 +9,10 @@
         "Electronics",
         "Kids & Family",
         "Everyday Shopping",
+        "Grocery",
         "Health",
         "Fashion",
-        "Tools",
-        "Sports"
+        "Tools"
       ],
       "byCategory": {
         "Kids & Family": [
@@ -39,6 +39,19 @@
             "category": "Everyday Shopping",
             "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675013822/07675013822_67537_master.png/_jcr_content/renditions/webp-thumbnail-319-319.webp",
             "url": "https://mavely.app.link/F0qbcXo1u7b"
+          }
+        ],
+        "Grocery": [
+          {
+            "asin": "B01M97YEVN",
+            "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
+            "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
+            "price": "$26.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery",
+            "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
+            "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
           }
         ],
         "Health": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
             "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B078ZVK1RJ",
-            "slug": "backpacking-tent-sports-outdoors",
-            "title": "Backpacking Tent : Sports & Outdoors",
-            "price": "$169.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/81xl7KfsETL.jpg",
-            "url": "https://www.amazon.com/dp/B078ZVK1RJ?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Everyday Shopping",
           "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675013822/07675013822_67537_master.png/_jcr_content/renditions/webp-thumbnail-319-319.webp",
           "url": "https://mavely.app.link/F0qbcXo1u7b"
+        },
+        {
+          "asin": "B01M97YEVN",
+          "slug": "coffee-peanut-snacks-300g-3-pack-grocery-gourmet-food",
+          "title": "Coffee Peanut Snacks 300g (3 Pack) : Grocery & Gourmet Food",
+          "price": "$26.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery",
+          "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
+          "url": "https://www.amazon.com/dp/B01M97YEVN?tag=noya0b-20"
         },
         {
           "asin": "B0C2WJHQLT",
@@ -239,17 +250,6 @@
           "category": "Tools",
           "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
           "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
-        },
-        {
-          "asin": "B078ZVK1RJ",
-          "slug": "backpacking-tent-sports-outdoors",
-          "title": "Backpacking Tent : Sports & Outdoors",
-          "price": "$169.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/81xl7KfsETL.jpg",
-          "url": "https://www.amazon.com/dp/B078ZVK1RJ?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-24T20:00:01.949Z",
-      "updatedAt": "2026-10-24T20:00:01.949Z"
+      "generatedAt": "2026-10-24T20:10:01.536Z",
+      "updatedAt": "2026-10-24T20:10:01.536Z"
     },
     {
       "date": "2026-10-23",
@@ -16241,5 +16241,5 @@
       "updatedAt": "2026-08-27T03:50:01.988Z"
     }
   ],
-  "generatedAt": "2026-10-24T20:00:01.958Z"
+  "generatedAt": "2026-10-24T20:10:01.546Z"
 }
