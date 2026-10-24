@@ -9,10 +9,10 @@
         "Electronics",
         "Kids & Family",
         "Everyday Shopping",
+        "Beauty",
         "Grocery",
         "Health",
-        "Fashion",
-        "Tools"
+        "Fashion"
       ],
       "byCategory": {
         "Kids & Family": [
@@ -39,6 +39,19 @@
             "category": "Everyday Shopping",
             "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675013822/07675013822_67537_master.png/_jcr_content/renditions/webp-thumbnail-319-319.webp",
             "url": "https://mavely.app.link/F0qbcXo1u7b"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0175DVMMY",
+            "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
+            "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, Pear Scent, Paraben Free, 2 OZ (4-Pack) : Beauty & Personal Care",
+            "price": "$22.51",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
+            "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
           }
         ],
         "Grocery": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
             "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
           }
-        ],
-        "Tools": [
-          {
-            "asin": "B0CJ2SB7NT",
-            "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
-            "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
-            "price": "$64.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools",
-            "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Everyday Shopping",
           "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675013822/07675013822_67537_master.png/_jcr_content/renditions/webp-thumbnail-319-319.webp",
           "url": "https://mavely.app.link/F0qbcXo1u7b"
+        },
+        {
+          "asin": "B0175DVMMY",
+          "slug": "mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
+          "title": "MASON NATURAL Collagen Premium Skin Cream - Anti Aging Face and Body Moisturizer, Intense Skin Hydration and Firmness, Pear Scent, Paraben Free, 2 OZ (4-Pack) : Beauty & Personal Care",
+          "price": "$22.51",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/614GNI3RXcL.jpg",
+          "url": "https://www.amazon.com/dp/B0175DVMMY?tag=noya0b-20"
         },
         {
           "asin": "B01M97YEVN",
@@ -239,17 +250,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71X-nNZvDZL.jpg",
           "url": "https://www.amazon.com/dp/B0CQ565795?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CJ2SB7NT",
-          "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
-          "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
-          "price": "$64.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools",
-          "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-24T21:20:02.659Z",
-      "updatedAt": "2026-10-24T21:20:02.659Z"
+      "generatedAt": "2026-10-24T21:30:02.333Z",
+      "updatedAt": "2026-10-24T21:30:02.333Z"
     },
     {
       "date": "2026-10-23",
@@ -16241,5 +16241,5 @@
       "updatedAt": "2026-08-27T03:50:01.988Z"
     }
   ],
-  "generatedAt": "2026-10-24T21:20:02.665Z"
+  "generatedAt": "2026-10-24T21:30:02.340Z"
 }
