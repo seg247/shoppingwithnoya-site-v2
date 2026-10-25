@@ -9,9 +9,9 @@
         "Beauty",
         "Kids & Family",
         "Home & Kitchen",
+        "Fashion",
         "Grocery",
-        "Health",
-        "Electronics"
+        "Health"
       ],
       "byCategory": {
         "Kids & Family": [
@@ -38,6 +38,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://assets.sharkninja.com/image/upload/c_fill,w_690,h_690,f_auto,g_auto,q_auto,dpr_2.0,b_rgb:FFFFFF/v1/storefront/products/NK32010/NK32010BK1_Hero_Gallery_01",
             "url": "https://mavely.app.link/unlZ6WcGw7b"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B074YD5Q3T",
+            "slug": "pbnj-baby-stroller-hooks-large-carabiner-clip-diaper-bag-pur",
+            "title": "PBnJ Baby Stroller Hooks, Large Carabiner Clip, Diaper Bag Purse, 2 Pack",
+            "price": "9.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/41voR+aqTXL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B074YD5Q3T?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
             "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B07JZ124FK",
-            "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-            "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
-            "price": "$22.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
-            "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -159,6 +159,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://assets.sharkninja.com/image/upload/c_fill,w_690,h_690,f_auto,g_auto,q_auto,dpr_2.0,b_rgb:FFFFFF/v1/storefront/products/NK32010/NK32010BK1_Hero_Gallery_01",
           "url": "https://mavely.app.link/unlZ6WcGw7b"
+        },
+        {
+          "asin": "B074YD5Q3T",
+          "slug": "pbnj-baby-stroller-hooks-large-carabiner-clip-diaper-bag-pur",
+          "title": "PBnJ Baby Stroller Hooks, Large Carabiner Clip, Diaper Bag Purse, 2 Pack",
+          "price": "9.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/41voR+aqTXL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B074YD5Q3T?tag=noya0b-20"
         },
         {
           "asin": "B0F1DGYNH2",
@@ -236,17 +247,6 @@
           "category": "Health",
           "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
           "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-        },
-        {
-          "asin": "B07JZ124FK",
-          "slug": "wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-          "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
-          "price": "$22.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
-          "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-25T19:40:02.640Z",
-      "updatedAt": "2026-10-25T19:40:02.641Z"
+      "generatedAt": "2026-10-25T19:50:04.182Z",
+      "updatedAt": "2026-10-25T19:50:04.182Z"
     },
     {
       "date": "2026-10-24",
@@ -16244,5 +16244,5 @@
       "updatedAt": "2026-08-28T03:50:01.962Z"
     }
   ],
-  "generatedAt": "2026-10-25T19:40:02.650Z"
+  "generatedAt": "2026-10-25T19:50:04.209Z"
 }
