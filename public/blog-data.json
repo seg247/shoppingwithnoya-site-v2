@@ -9,10 +9,10 @@
         "Electronics",
         "Kids & Family",
         "Home & Kitchen",
+        "Beauty",
         "Grocery",
         "Health",
-        "Pet Supplies",
-        "Tools"
+        "Pet Supplies"
       ],
       "byCategory": {
         "Kids & Family": [
@@ -39,6 +39,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://assets.sharkninja.com/image/upload/c_fill,w_690,h_690,f_auto,g_auto,q_auto,dpr_2.0,b_rgb:FFFFFF/v1/storefront/products/NK32010/NK32010BK1_Hero_Gallery_01",
             "url": "https://mavely.app.link/unlZ6WcGw7b"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B09231NL5H",
+            "slug": "bellavita-luxury-mini-cologne-set-for-men-4-x-067-fl-oz-20-m",
+            "title": "Bellavita Luxury Mini Cologne Set for Men, 4 x 0.67 fl oz (20 ml) | Stocking Stuffers & Gifts for Him, CEO Man, G.O.A.T., KLUB & Oud Eau de Parfum Sampler, Travel Size, Christmas : Beauty & Personal Care",
+            "price": "$26.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+            "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
           }
         ],
         "Grocery": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
             "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
           }
-        ],
-        "Tools": [
-          {
-            "asin": "B0CJ2SB7NT",
-            "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
-            "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
-            "price": "$64.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Tools",
-            "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://assets.sharkninja.com/image/upload/c_fill,w_690,h_690,f_auto,g_auto,q_auto,dpr_2.0,b_rgb:FFFFFF/v1/storefront/products/NK32010/NK32010BK1_Hero_Gallery_01",
           "url": "https://mavely.app.link/unlZ6WcGw7b"
+        },
+        {
+          "asin": "B09231NL5H",
+          "slug": "bellavita-luxury-mini-cologne-set-for-men-4-x-067-fl-oz-20-m",
+          "title": "Bellavita Luxury Mini Cologne Set for Men, 4 x 0.67 fl oz (20 ml) | Stocking Stuffers & Gifts for Him, CEO Man, G.O.A.T., KLUB & Oud Eau de Parfum Sampler, Travel Size, Christmas : Beauty & Personal Care",
+          "price": "$26.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+          "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
         },
         {
           "asin": "B01M97YEVN",
@@ -239,17 +250,6 @@
           "category": "Pet Supplies",
           "imageUrl": "https://m.media-amazon.com/images/I/71Zr+jpL0YL.jpg",
           "url": "https://www.amazon.com/dp/B08T1X4SWH?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CJ2SB7NT",
-          "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
-          "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
-          "price": "$64.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Tools",
-          "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-25T15:20:02.160Z",
-      "updatedAt": "2026-10-25T15:20:02.160Z"
+      "generatedAt": "2026-10-25T15:30:02.946Z",
+      "updatedAt": "2026-10-25T15:30:02.946Z"
     },
     {
       "date": "2026-10-24",
@@ -16247,5 +16247,5 @@
       "updatedAt": "2026-08-28T03:50:01.962Z"
     }
   ],
-  "generatedAt": "2026-10-25T15:20:02.171Z"
+  "generatedAt": "2026-10-25T15:30:02.953Z"
 }
