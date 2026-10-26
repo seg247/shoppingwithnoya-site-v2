@@ -9,10 +9,10 @@
         "Home & Kitchen",
         "Pet Supplies",
         "Gift Cards",
+        "Fashion",
         "Women's Fashion",
         "Personal Care",
-        "Garden & Outdoor",
-        "Fashion"
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Pet Supplies": [
@@ -39,6 +39,19 @@
             "category": "Gift Cards",
             "imageUrl": "https://www.giftcards.com/adobe/dynamicmedia/deliver/dm-aid--8833689a-8f80-45dd-a507-b4dbbdb649e0/07675018026-85166-master.png?quality=70&width=600&preferwebp=true",
             "url": "https://mavely.app.link/7GESFFaly7b"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0B86CF16Z",
+            "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+            "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+            "price": "$44.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+            "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
           }
         ],
         "Women's Fashion": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61N0QhteHwL.jpg",
             "url": "https://www.amazon.com/dp/B0C57FV4JS?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B09JP2TRK4",
-            "slug": "everfoams-womens-soft-curly-memory-foam-slippers-grey7-8-us",
-            "title": "EverFoams Women’s Soft Curly Memory Foam Slippers Grey,7-8 US | Gift-ready, Wool-like, Warm Polar Fleece Lining, Non-Sli",
-            "price": "15.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51QMaV0v3GL._SL500_.jpg",
-            "url": "https://www.amazon.com/EverFoams-Slippers-Birthday-Wool-like-Anti-slip/dp/B09JP2TRK4?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Gift Cards",
           "imageUrl": "https://www.giftcards.com/adobe/dynamicmedia/deliver/dm-aid--8833689a-8f80-45dd-a507-b4dbbdb649e0/07675018026-85166-master.png?quality=70&width=600&preferwebp=true",
           "url": "https://mavely.app.link/7GESFFaly7b"
+        },
+        {
+          "asin": "B0B86CF16Z",
+          "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+          "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+          "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
         },
         {
           "asin": "B0F93MYDQN",
@@ -239,17 +250,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
           "url": "https://www.amazon.com/dp/B075CWJ3T8?tag=noya0b-20"
-        },
-        {
-          "asin": "B09JP2TRK4",
-          "slug": "everfoams-womens-soft-curly-memory-foam-slippers-grey7-8-us",
-          "title": "EverFoams Women’s Soft Curly Memory Foam Slippers Grey,7-8 US | Gift-ready, Wool-like, Warm Polar Fleece Lining, Non-Sli",
-          "price": "15.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51QMaV0v3GL._SL500_.jpg",
-          "url": "https://www.amazon.com/EverFoams-Slippers-Birthday-Wool-like-Anti-slip/dp/B09JP2TRK4?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-26T20:00:01.973Z",
-      "updatedAt": "2026-10-26T20:00:01.973Z"
+      "generatedAt": "2026-10-26T20:10:02.969Z",
+      "updatedAt": "2026-10-26T20:10:02.969Z"
     },
     {
       "date": "2026-10-25",
@@ -16250,5 +16250,5 @@
       "updatedAt": "2026-08-29T03:50:01.700Z"
     }
   ],
-  "generatedAt": "2026-10-26T20:00:01.979Z"
+  "generatedAt": "2026-10-26T20:10:02.973Z"
 }
