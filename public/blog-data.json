@@ -9,6 +9,7 @@
         "Home & Kitchen",
         "Fashion",
         "Kids & Family",
+        "Other",
         "Women's Fashion"
       ],
       "byCategory": {
@@ -69,17 +70,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/713Eiic3XtL.jpg",
             "url": "https://www.amazon.com/dp/B0CSNFFFQZ?tag=noya0b-20"
-          },
+          }
+        ],
+        "Other": [
           {
-            "asin": "B07481LPMF",
-            "slug": "amazon-basics-non-stick-kitchen-cookware-15-piece-set-with-s",
-            "title": "Amazon Basics Non-Stick Kitchen Cookware 15-Piece Set with Stay-Cool Handles, Even Heating, Non-Induction, Includes Pots, Pans, and Utensils, Black: Home & Kitchen",
-            "price": "$62.99",
+            "asin": "B087QRK33P",
+            "slug": "presto-03512-stuffler-stuffed-waffle-maker",
+            "title": "Presto 03512 Stuffler Stuffed Waffle Maker",
+            "price": "49.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71oZ1-QYomL.jpg",
-            "url": "https://www.amazon.com/dp/B07481LPMF?tag=noya0b-20"
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41ZtYESIzmL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B087QRK33P?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -153,6 +156,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://assets.sharkninja.com/image/upload/c_fill,w_690,h_690,f_auto,g_auto,q_auto,dpr_2.0,b_rgb:FFFFFF/v1/storefront/products/NK32010/NK32010BK1_Hero_Gallery_01",
           "url": "https://mavely.app.link/unlZ6WcGw7b"
+        },
+        {
+          "asin": "B087QRK33P",
+          "slug": "presto-03512-stuffler-stuffed-waffle-maker",
+          "title": "Presto 03512 Stuffler Stuffed Waffle Maker",
+          "price": "49.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ZtYESIzmL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B087QRK33P?tag=noya0b-20"
         },
         {
           "asin": "B085S7W87S",
@@ -230,17 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/713Eiic3XtL.jpg",
           "url": "https://www.amazon.com/dp/B0CSNFFFQZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B07481LPMF",
-          "slug": "amazon-basics-non-stick-kitchen-cookware-15-piece-set-with-s",
-          "title": "Amazon Basics Non-Stick Kitchen Cookware 15-Piece Set with Stay-Cool Handles, Even Heating, Non-Induction, Includes Pots, Pans, and Utensils, Black: Home & Kitchen",
-          "price": "$62.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71oZ1-QYomL.jpg",
-          "url": "https://www.amazon.com/dp/B07481LPMF?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-26T01:40:01.225Z",
-      "updatedAt": "2026-10-26T01:40:01.225Z"
+      "generatedAt": "2026-10-26T01:50:01.350Z",
+      "updatedAt": "2026-10-26T01:50:01.350Z"
     },
     {
       "date": "2026-10-24",
@@ -16238,5 +16241,5 @@
       "updatedAt": "2026-08-28T03:50:01.962Z"
     }
   ],
-  "generatedAt": "2026-10-26T01:40:01.230Z"
+  "generatedAt": "2026-10-26T01:50:01.357Z"
 }
