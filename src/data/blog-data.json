@@ -10,7 +10,7 @@
         "Grocery & Food",
         "Pet Supplies",
         "Gift Cards",
-        "Health"
+        "Other"
       ],
       "byCategory": {
         "Pet Supplies": [
@@ -37,6 +37,19 @@
             "category": "Gift Cards",
             "imageUrl": "https://www.giftcards.com/adobe/dynamicmedia/deliver/dm-aid--8833689a-8f80-45dd-a507-b4dbbdb649e0/07675018026-85166-master.png?quality=70&width=600&preferwebp=true",
             "url": "https://mavely.app.link/7GESFFaly7b"
+          }
+        ],
+        "Other": [
+          {
+            "asin": "B0DMZXCT6W",
+            "slug": "eldps-black-history-t-shirts-for-men-black-history-month-shi",
+            "title": "ELDPS Black History T Shirts for Men: Black History Month Shirt African American Freedom Short Sleeve Tops",
+            "price": "4.89",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/41i5Tx05jXL._SL500_.jpg",
+            "url": "https://www.amazon.com/ELDPS-Black-History-Shirts-Men/dp/B0DMZXCT6W?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -119,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/41C6EpcEg2L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0918W1TVB/ref=cm_sw_r_as_gl_api_gl_i_KCZ8CH735RPWXTA55QG0?linkCode=ml1&tag=noya0b-20&linkId=793aca03561416e4902766917f385197&gaOptInStatus=true"
           }
-        ],
-        "Health": [
-          {
-            "asin": "B0C2WJHQLT",
-            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
-            "price": "$35.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Health",
-            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -156,6 +156,17 @@
           "category": "Gift Cards",
           "imageUrl": "https://www.giftcards.com/adobe/dynamicmedia/deliver/dm-aid--8833689a-8f80-45dd-a507-b4dbbdb649e0/07675018026-85166-master.png?quality=70&width=600&preferwebp=true",
           "url": "https://mavely.app.link/7GESFFaly7b"
+        },
+        {
+          "asin": "B0DMZXCT6W",
+          "slug": "eldps-black-history-t-shirts-for-men-black-history-month-shi",
+          "title": "ELDPS Black History T Shirts for Men: Black History Month Shirt African American Freedom Short Sleeve Tops",
+          "price": "4.89",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/41i5Tx05jXL._SL500_.jpg",
+          "url": "https://www.amazon.com/ELDPS-Black-History-Shirts-Men/dp/B0DMZXCT6W?tag=noya0b-20"
         },
         {
           "asin": "B08SL72G3P",
@@ -233,17 +244,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
           "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C2WJHQLT",
-          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
-          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
-          "price": "$35.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Health",
-          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
-          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-26T14:40:03.010Z",
-      "updatedAt": "2026-10-26T14:40:03.010Z"
+      "generatedAt": "2026-10-26T14:50:03.192Z",
+      "updatedAt": "2026-10-26T14:50:03.192Z"
     },
     {
       "date": "2026-10-25",
@@ -16244,5 +16244,5 @@
       "updatedAt": "2026-08-29T03:50:01.700Z"
     }
   ],
-  "generatedAt": "2026-10-26T14:40:03.028Z"
+  "generatedAt": "2026-10-26T14:50:03.232Z"
 }
