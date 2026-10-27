@@ -8,7 +8,8 @@
       "categories": [
         "Home & Kitchen",
         "Beauty",
-        "Home"
+        "Home",
+        "Fashion"
       ],
       "byCategory": {
         "Home": [
@@ -57,17 +58,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61uh9YiuVCL.jpg",
             "url": "https://www.amazon.com/dp/B085SYVYXN?tag=noya0b-20"
-          },
+          }
+        ],
+        "Fashion": [
           {
-            "asin": "B08QHSSHN5",
-            "slug": "hair-dryer-brush-and-volumizer-styler-hot-air-brush-negative",
-            "title": "Hair Dryer Brush and Volumizer Styler, Hot Air Brush, Negative Ionic Electric Hair Curler Straightener Brush, Detachable & Interchangeable Brush Head Attachment, for Straightening Curling Drying : Beauty & Personal Care",
-            "price": "$28.70",
+            "asin": "B0B86CF16Z",
+            "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+            "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+            "price": "$44.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Xf3ljKjdL.jpg",
-            "url": "https://www.amazon.com/dp/B08QHSSHN5?tag=noya0b-20"
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+            "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -152,6 +155,17 @@
           "url": "https://mavely.app.link/4kVv1N7Zz7b"
         },
         {
+          "asin": "B0B86CF16Z",
+          "slug": "us-polo-assn-full-zip-hoodie-wpony-dazzling-blue-xl-clothing",
+          "title": "U.S. POLO ASSN. Full Zip Hoodie w/Pony Dazzling Blue XL : Clothing, Shoes & Jewelry",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71NKILj9E1L.jpg",
+          "url": "https://www.amazon.com/dp/B0B86CF16Z?tag=noya0b-20"
+        },
+        {
           "asin": "B0CX83ZCMJ",
           "slug": "smart-cutting-board-and-knife-setself-cleaning-cutting-board",
           "title": "Smart Cutting Board and Knife Set,Self Cleaning Cutting Board and Knife Set with 4 Stainless Steel Knives,3 Color Coded Cutting Boards,10 Pairs of Chopsticks and 1 Pair of Scissors: Home & Kitchen",
@@ -227,17 +241,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61uh9YiuVCL.jpg",
           "url": "https://www.amazon.com/dp/B085SYVYXN?tag=noya0b-20"
-        },
-        {
-          "asin": "B08QHSSHN5",
-          "slug": "hair-dryer-brush-and-volumizer-styler-hot-air-brush-negative",
-          "title": "Hair Dryer Brush and Volumizer Styler, Hot Air Brush, Negative Ionic Electric Hair Curler Straightener Brush, Detachable & Interchangeable Brush Head Attachment, for Straightening Curling Drying : Beauty & Personal Care",
-          "price": "$28.70",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Xf3ljKjdL.jpg",
-          "url": "https://www.amazon.com/dp/B08QHSSHN5?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -262,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-27T14:20:02.510Z",
-      "updatedAt": "2026-10-27T14:20:02.510Z"
+      "generatedAt": "2026-10-27T14:30:02.518Z",
+      "updatedAt": "2026-10-27T14:30:02.518Z"
     },
     {
       "date": "2026-10-26",
@@ -16241,5 +16244,5 @@
       "updatedAt": "2026-08-30T03:50:01.938Z"
     }
   ],
-  "generatedAt": "2026-10-27T14:20:02.517Z"
+  "generatedAt": "2026-10-27T14:30:02.525Z"
 }
