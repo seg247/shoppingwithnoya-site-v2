@@ -10,9 +10,9 @@
         "Electronics",
         "Fashion",
         "Home",
+        "Health",
         "Tools & Hardware",
-        "Automotive",
-        "Sports"
+        "Automotive"
       ],
       "byCategory": {
         "Home": [
@@ -50,6 +50,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/31+MmbNGzlL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B01GIA21QQ/ref=cmswrasglapiglidl_MV1A86PKJKGWR7FX9MVD?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B0C2WJHQLT",
+            "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+            "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
+            "price": "$35.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+            "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51er6htVLQL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0GK26GH3W/ref=cmswrasglapagliGV9ER77QZDPHS7Z385QA?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B096SYPQLT",
-            "slug": "kelty-discovery-trail-backpacking-tent-waterproof-rainfly-1",
-            "title": "Kelty Discovery Trail Backpacking Tent, Waterproof Rainfly (1 Person) | Lightweight and Easy to Setup, Backpacking Shelter, Aluminum Poles, Single Door Single Vestibule, Stuff Sack Included : Sports & Outdoors",
-            "price": "$119.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/51qc-E6+9bL.jpg",
-            "url": "https://www.amazon.com/dp/B096SYPQLT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -162,6 +162,17 @@
           "category": "Beauty",
           "imageUrl": "https://cdn.shopify.com/s/files/1/0738/1562/1771/files/cl_sku_KWW601_3000x3000_0.png?v=1793022245",
           "url": "https://mavely.app.link/4kVv1N7Zz7b"
+        },
+        {
+          "asin": "B0C2WJHQLT",
+          "slug": "deal-supplement-unflavored-pea-protein-powder-5lbs-premium-n",
+          "title": "DEAL SUPPLEMENT Unflavored Pea Protein Powder, 5lbs – Premium North American Grown Peas – Easily Digested Isolate Form – Great for Shakes, Bars, or Snacks – 27g Protein Serving, Soy Free, Vegan : Health & Household",
+          "price": "$35.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VMl3vH4eL.jpg",
+          "url": "https://www.amazon.com/dp/B0C2WJHQLT?tag=noya0b-20"
         },
         {
           "asin": "B0GY8C9C9Y",
@@ -239,17 +250,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/51enr2PyyvL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0BB2JC2QX/ref=cmswrasglapiglidl_6NC3KCAKDHAYYR9KDPF8?tag=noya0b-20"
-        },
-        {
-          "asin": "B096SYPQLT",
-          "slug": "kelty-discovery-trail-backpacking-tent-waterproof-rainfly-1",
-          "title": "Kelty Discovery Trail Backpacking Tent, Waterproof Rainfly (1 Person) | Lightweight and Easy to Setup, Backpacking Shelter, Aluminum Poles, Single Door Single Vestibule, Stuff Sack Included : Sports & Outdoors",
-          "price": "$119.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/51qc-E6+9bL.jpg",
-          "url": "https://www.amazon.com/dp/B096SYPQLT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-28T02:00:02.037Z",
-      "updatedAt": "2026-10-28T02:00:02.037Z"
+      "generatedAt": "2026-10-28T02:10:02.882Z",
+      "updatedAt": "2026-10-28T02:10:02.883Z"
     },
     {
       "date": "2026-10-26",
@@ -16253,5 +16253,5 @@
       "updatedAt": "2026-08-30T03:50:01.938Z"
     }
   ],
-  "generatedAt": "2026-10-28T02:00:02.045Z"
+  "generatedAt": "2026-10-28T02:10:02.890Z"
 }
