@@ -10,8 +10,8 @@
         "Other",
         "Grocery & Food",
         "Fashion",
-        "Personal Care",
-        "Beauty"
+        "Gold Box Deal",
+        "Personal Care"
       ],
       "byCategory": {
         "Grocery & Food": [
@@ -62,6 +62,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/31l2rVm48QL._SL500_.jpg",
             "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c3feedd9efb87456b32e24afdfa70e8d&language=en_US&gaOptInStatus=true"
+          }
+        ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0H82XM1S2",
+            "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-256-gb-olive",
+            "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Olive",
+            "price": "$799.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg",
+            "url": "https://www.amazon.com/dp/B0H82XM1S2?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
             "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0DP542W7G",
-            "slug": "tymo-automatic-rotating-curling-iron-tymo-curlpro-beach-wave",
-            "title": "TYMO Automatic Rotating Curling Iron, TYMO CURLPRO Beach Waves Hair Curler | 500 Million Ionic Curling Wand, Dual Voltage, Portable Lightweight for Travel, Ceramic Coating, 1 Inch, Pink : Beauty & Personal Care",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51tnuc410ZL.jpg",
-            "url": "https://www.amazon.com/dp/B0DP542W7G?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -170,6 +170,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/31l2rVm48QL._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c3feedd9efb87456b32e24afdfa70e8d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H82XM1S2",
+          "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-256-gb-olive",
+          "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Olive",
+          "price": "$799.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg",
+          "url": "https://www.amazon.com/dp/B0H82XM1S2?tag=noya0b-20"
         },
         {
           "asin": "B0BCJLLHXY",
@@ -236,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71Kn2YfySNL.jpg",
           "url": "https://www.amazon.com/dp/B0G255Q2ZF?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DP542W7G",
-          "slug": "tymo-automatic-rotating-curling-iron-tymo-curlpro-beach-wave",
-          "title": "TYMO Automatic Rotating Curling Iron, TYMO CURLPRO Beach Waves Hair Curler | 500 Million Ionic Curling Wand, Dual Voltage, Portable Lightweight for Travel, Ceramic Coating, 1 Inch, Pink : Beauty & Personal Care",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51tnuc410ZL.jpg",
-          "url": "https://www.amazon.com/dp/B0DP542W7G?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-30T14:20:02.253Z",
-      "updatedAt": "2026-10-30T14:20:02.254Z"
+      "generatedAt": "2026-10-30T14:29:58.848Z",
+      "updatedAt": "2026-10-30T14:29:58.848Z"
     },
     {
       "date": "2026-10-29",
@@ -16265,5 +16265,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-30T14:20:02.259Z"
+  "generatedAt": "2026-10-30T14:29:58.854Z"
 }
