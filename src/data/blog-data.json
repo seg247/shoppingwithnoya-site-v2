@@ -9,9 +9,9 @@
         "Gold Box Deal",
         "Fashion",
         "Electronics",
+        "Personal Care",
         "Home & Kitchen",
-        "Grocery & Food",
-        "Other"
+        "Grocery & Food"
       ],
       "byCategory": {
         "Fashion": [
@@ -36,6 +36,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81QCuV1qiqL.jpg",
             "url": "https://www.amazon.com/dp/B0GKFYFH87?tag=noya0b-20"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0H832WGF9",
+            "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-512-gb-obsidi",
+            "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 512 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
+            "price": "$919.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg",
+            "url": "https://www.amazon.com/dp/B0H832WGF9?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71Y8GT3GYvL.jpg",
             "url": "https://www.amazon.com/dp/B07MJL8NXR?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0F6CW1KBL",
-            "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
-            "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Dog Couch Bed with Washable Removable Cover, Graige",
-            "price": "$31.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71HT3QZfbhL.jpg",
-            "url": "https://www.amazon.com/dp/B0F6CW1KBL?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/31l2rVm48QL._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c3feedd9efb87456b32e24afdfa70e8d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0H832WGF9",
+          "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-512-gb-obsidi",
+          "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 512 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
+          "price": "$919.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg",
+          "url": "https://www.amazon.com/dp/B0H832WGF9?tag=noya0b-20"
         },
         {
           "asin": "B0DJQ94SXY",
@@ -236,17 +247,6 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/71UMywFL4wL.jpg",
           "url": "https://www.amazon.com/dp/B0GFN19Q8Z?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F6CW1KBL",
-          "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
-          "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Dog Couch Bed with Washable Removable Cover, Graige",
-          "price": "$31.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71HT3QZfbhL.jpg",
-          "url": "https://www.amazon.com/dp/B0F6CW1KBL?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-30T10:20:02.356Z",
-      "updatedAt": "2026-10-30T10:20:02.356Z"
+      "generatedAt": "2026-10-30T10:30:02.441Z",
+      "updatedAt": "2026-10-30T10:30:02.441Z"
     },
     {
       "date": "2026-10-29",
@@ -16265,5 +16265,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-30T10:20:02.365Z"
+  "generatedAt": "2026-10-30T10:30:02.447Z"
 }
