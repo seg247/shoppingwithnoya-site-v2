@@ -11,8 +11,7 @@
         "Grocery & Food",
         "Fashion",
         "Personal Care",
-        "Beauty",
-        "Gold Box Deal"
+        "Beauty"
       ],
       "byCategory": {
         "Grocery & Food": [
@@ -66,6 +65,17 @@
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0BCJLLHXY",
+            "slug": "miracase-silicone-for-iphone-se-2022se-202078-caselight-purp",
+            "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Light Purple | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
+            "price": "$17.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61gkw5H69DL.jpg",
+            "url": "https://www.amazon.com/dp/B0BCJLLHXY?tag=noya0b-20"
+          },
           {
             "asin": "B09V13JDNV",
             "slug": "miracase-silicone-for-iphone-se-2022se-202078-casebaby-blue",
@@ -125,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51tnuc410ZL.jpg",
             "url": "https://www.amazon.com/dp/B0DP542W7G?tag=noya0b-20"
           }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0D3D5LKG9",
-            "slug": "bedlore-queen-mattress-topper-thick-soft-pillow-top-bed-topp",
-            "title": "BEDLORE Queen Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6”-18”, Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray) : Home & Kitchen",
-            "price": "$37.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg",
-            "url": "https://www.amazon.com/dp/B0D3D5LKG9?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -173,6 +170,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/31l2rVm48QL._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c3feedd9efb87456b32e24afdfa70e8d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0BCJLLHXY",
+          "slug": "miracase-silicone-for-iphone-se-2022se-202078-caselight-purp",
+          "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Light Purple | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
+          "price": "$17.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61gkw5H69DL.jpg",
+          "url": "https://www.amazon.com/dp/B0BCJLLHXY?tag=noya0b-20"
         },
         {
           "asin": "B09V13JDNV",
@@ -239,17 +247,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/51tnuc410ZL.jpg",
           "url": "https://www.amazon.com/dp/B0DP542W7G?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D3D5LKG9",
-          "slug": "bedlore-queen-mattress-topper-thick-soft-pillow-top-bed-topp",
-          "title": "BEDLORE Queen Mattress Topper, Thick Soft Pillow Top Bed Topper | Viscose Bamboo, Stretchable Pockets Fit 6”-18”, Breathable Mattress Topper for Back Pain Relief and Hot Sleepers(Dark Gray) : Home & Kitchen",
-          "price": "$37.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg",
-          "url": "https://www.amazon.com/dp/B0D3D5LKG9?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-30T14:00:02.357Z",
-      "updatedAt": "2026-10-30T14:00:02.357Z"
+      "generatedAt": "2026-10-30T14:10:01.712Z",
+      "updatedAt": "2026-10-30T14:10:01.712Z"
     },
     {
       "date": "2026-10-29",
@@ -16268,5 +16265,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-30T14:00:02.363Z"
+  "generatedAt": "2026-10-30T14:10:01.718Z"
 }
