@@ -56,6 +56,7 @@ async function hydrate(query = '', fixture = data) {
   dom.window.fetch = async () => ({ json: async () => fixture });
   const script = [...dom.window.document.scripts].find(s => s.textContent.includes('const DATA_URL'));
   assert.ok(script, 'built homepage runtime script');
+  dom.window.eval([...dom.window.document.scripts].find(s => s.textContent.includes('window.NoyaFeedPolicy =')).textContent);
   dom.window.eval(script.textContent);
   await new Promise(r => setTimeout(r, 20));
   return dom;
@@ -116,7 +117,8 @@ test('feed text stays text and unsafe link schemes cannot create interactive car
   const title = 'Puzzle <img id="feed-injection" src=x> & "Friends"';
   const url = 'https://www.amazon.com/dp/B000000001?tag=noya0b-20&th=1';
   const fixture = { posts: [
-    { title, url, category: 'Toys & Kids', asin: 'B000000001', ts: new Date().toISOString(), imageUrl: 'javascript:alert(1)' },
+    { title, url, category: 'Toys & Kids', asin: 'B000000001', ts: new Date().toISOString(), imageUrl: 'https://example.com/product.jpg' },
+    { title: 'Unsafe image', url, imageUrl: 'javascript:alert(1)', category: 'Toys & Kids', asin: 'B000000003', ts: new Date().toISOString() },
     { title: 'Bad destination', url: 'javascript:alert(1)', category: 'Toys & Kids', asin: 'B000000002', ts: new Date().toISOString() },
   ] };
   const dom = await hydrate('', fixture);
@@ -133,7 +135,7 @@ test('feed text stays text and unsafe link schemes cannot create interactive car
     const ctaLabel = d.querySelector('.card-link').getAttribute('aria-label');
     assert.ok(ctaLabel.endsWith(title), 'aria-label carries the raw title as text');
     assert.match(ctaLabel, /on Amazon/, 'CTA states its destination');
-    assert.equal(d.querySelector('#deals-grid img'), null, 'unsafe image URL');
+    assert.ok([...d.querySelectorAll('#deals-grid img')].every(img => !img.src.startsWith('javascript:')), 'unsafe image URL cannot create a card');
     assert.equal(d.querySelector('#deal-count').textContent, '1 deals');
   } finally { dom.window.close(); }
 });

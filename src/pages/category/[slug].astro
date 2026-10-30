@@ -14,6 +14,7 @@ import DealViewToggle from '../../components/DealViewToggle.astro';
 // functions. So the category config lives inside getStaticPaths and everything
 // the page body needs is handed back through props.
 import siteData from '../../data/site-data.json';
+import createFeedPolicy from '../../lib/active-feed.cjs';
 import AmazonPriceInfo from '../../components/AmazonPriceInfo.astro';
 
 export async function getStaticPaths() {
@@ -77,20 +78,24 @@ export async function getStaticPaths() {
   const slugify = (c) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
   const posts = siteData.posts || [];
+  const active = createFeedPolicy().activeDeals(posts);
   const counts = {};
-  for (const p of posts) {
+  const routeCounts = {};
+  // Route retention is independent of current offer eligibility.
+  for (const p of posts) routeCounts[p.category] = (routeCounts[p.category] || 0) + 1;
+  for (const p of active) {
     if (!p.category || p.category === 'Other') continue;
     counts[p.category] = (counts[p.category] || 0) + 1;
   }
 
-  const eligible = Object.keys(META).filter((c) => (counts[c] || 0) >= MIN_DEALS);
+  const eligible = Object.keys(META).filter((c) => (routeCounts[c] || 0) >= MIN_DEALS);
 
   return eligible.map((category) => ({
     params: { slug: slugify(category) },
     props: {
       category,
       meta: META[category],
-      deals: posts
+      deals: active
         .filter((p) => p.category === category)
         .sort((a, b) => (b.discount || 0) - (a.discount || 0) || b.ts.localeCompare(a.ts)),
       siblings: eligible
@@ -98,7 +103,7 @@ export async function getStaticPaths() {
         .map((c) => ({
           name: c,
           emoji: META[c].emoji,
-          count: counts[c],
+          count: counts[c] || 0,
           href: `/category/${slugify(c)}/`,
         })),
     },

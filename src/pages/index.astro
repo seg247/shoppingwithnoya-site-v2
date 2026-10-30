@@ -1,5 +1,8 @@
 ---
 import siteData from '../data/site-data.json';
+import createFeedPolicy from '../lib/active-feed.cjs';
+const { activeDeals } = createFeedPolicy();
+const activePosts = activeDeals(siteData.posts || []);
 import AmazonPriceInfo from '../components/AmazonPriceInfo.astro';
 import SkipLink from '../components/SkipLink.astro';
 import CompactHeader from '../components/CompactHeader.astro';
@@ -27,7 +30,7 @@ const CATEGORY_LINKS = [
 
 const catCounts = (() => {
   const c = {};
-  for (const p of (siteData.posts || [])) {
+  for (const p of activePosts) {
     if (!p.category) continue;
     c[p.category] = (c[p.category] || 0) + 1;
   }
@@ -51,20 +54,8 @@ const shopCategories = CATEGORY_LINKS
 // and search behave exactly as before.
 const SSR_COUNT = 60;
 
-const seenSSR = new Set();
-const ssrDeals = (siteData.posts || [])
-  .filter((d) => {
-    if (d.category === 'Other' || (d.asin && seenSSR.has(d.asin))) return false;
-    if (d.asin) seenSSR.add(d.asin);
-    return true;
-  })
-  .filter((d) => {
-    if (!d.expiresAt) return true;
-    const days = (Date.now() - new Date(d.expiresAt + 'T23:59:59').getTime()) / 864e5;
-    return days <= 3;
-  })
-  .sort((a, b) => (b.ts || '').localeCompare(a.ts || ''))
-  .slice(0, SSR_COUNT);
+const latestDeals = activeDeals(siteData.posts || [], { latest: true });
+const ssrDeals = latestDeals.slice(0, SSR_COUNT);
 const firstSSRImage = ssrDeals.findIndex(d => d.imageUrl);
 const thumbnailSSR = (url) => url.replace(/_AC_SR\d+,\d+_/, '_AC_SR300,300_').replace(/_AC_SL\d+_/, '_AC_SR300,300_');
 
@@ -934,7 +925,7 @@ const timeAgoSSR = (ts) => {
   <section class="deals-section">
     <div class="section-header">
       <h2 class="section-title">Latest Deals</h2>
-      <span class="deal-count" id="deal-count" role="status" aria-live="polite">{ssrDeals.length} deals</span>
+      <span class="deal-count" id="deal-count" role="status" aria-live="polite">{latestDeals.length} deals</span>
       {/* Sort lives in the results header, beside the count it reorders —
           the pattern Amazon, eBay, Etsy and Target all use. It previously sat
           in its own full-width row under the search bar, where an equally
@@ -987,7 +978,7 @@ const timeAgoSSR = (ts) => {
   <div class="hero-strip">
     <div class="hero-strip-left">
       <span class="hero-strip-title">Best Deals, Zero Effort. <span style="-webkit-text-fill-color:initial;background:none">🛍️</span></span>
-      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">{(siteData.posts || []).length}</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
+      <span class="hero-strip-stat">Hand-picked deals delivered to your feed. Save more, stress less, shop smarter. &nbsp;&middot;&nbsp; <strong id="stat-total">{activePosts.length}</strong> deals live &nbsp;&middot;&nbsp; Free always &nbsp;&middot;&nbsp; Updated every 2 min</span>
     </div>
   </div>
 
@@ -1042,7 +1033,9 @@ const timeAgoSSR = (ts) => {
     </p>
   </footer>
 
+  <script is:inline set:html={`window.NoyaFeedPolicy = (${createFeedPolicy.toString()})();`} />
   <script define:vars={{ base }}>
+    const { expiryTime, activeDeals } = window.NoyaFeedPolicy;
     // Round to nearest 10 minutes to match push frequency, busts CDN cache on each push
     const cacheBust = Date.now();
     const DATA_URL = `${base}/site-data.json?v=${cacheBust}`;
@@ -1112,17 +1105,9 @@ const timeAgoSSR = (ts) => {
       let expiryHtml = '';
       let cardExpiredClass = '';
       if (deal.expiresAt) {
-        const expires = new Date(deal.expiresAt + 'T23:59:59');
-        const now = new Date();
-        const diffDays = (now - expires) / (1000 * 60 * 60 * 24);
-        if (diffDays > 3) return ''; // skip deals expired >3 days ago
-        if (diffDays > 0) {
-          expiryHtml = `<span class="badge-expired">EXPIRED</span>`;
-          cardExpiredClass = ' card-expired';
-        } else {
-          const fmt = expires.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-          expiryHtml = `<span class="badge-expires">⏰ Expires ${fmt}</span>`;
-        }
+        const expires = new Date(expiryTime(deal.expiresAt));
+        const fmt = expires.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+        expiryHtml = `<span class="badge-expires">⏰ Expires ${fmt}</span>`;
       }
       // Promo code badge
       const promoHtml = deal.promoCode
@@ -1211,39 +1196,12 @@ const timeAgoSSR = (ts) => {
     }
 
     function getFilteredDeals() {
-      // Dedup by ASIN — keep only the first occurrence (highest score / most recent)
-      const seenAsins = new Set();
-      const deduped = allDeals.filter(d => {
-        if (!safeHttpUrl(d.url)) return false;
-        if (d.asin && seenAsins.has(d.asin)) return false;
-        if (d.asin) seenAsins.add(d.asin);
-        if (d.expiresAt && (Date.now() - new Date(d.expiresAt + 'T23:59:59').getTime()) / 864e5 > 3) return false;
-        // Never show "Other" category unless explicitly selected
-        if (d.category === 'Other' && activeFilters.size === 0 && !searchQuery) return false;
-        // Category filter
-        let catMatch = true;
-        if (activeFilters.size > 0) {
-          if (activeFilters.has('__promo__')) {
-            catMatch = !!d.promoCode;
-          } else {
-            catMatch = activeFilters.has(d.category);
-          }
-        }
-        // Search filter — search overrides category filter
-        if (searchQuery) {
-          const q = searchQuery.toLowerCase();
-          const titleMatch = cleanTitle(d.title).toLowerCase().includes(q);
-          const catSearchMatch = (d.category || '').toLowerCase().includes(q);
-          return titleMatch || catSearchMatch;
-        }
-        return catMatch;
+      return activeDeals(allDeals, {
+        latest: true,
+        categories: [...activeFilters],
+        search: searchQuery,
+        sort: sortOrder,
       });
-
-      // Sort a derived array only; the source snapshot is never mutated.
-      const sorted = deduped.sort((a, b) => (sortOrder === 'discount' ? (Number(b.discount) || 0) - (Number(a.discount) || 0) : 0) || (b.ts || '').localeCompare(a.ts || ''));
-      // Return the FULL match set. Paging is applied at render time so the
-      // deal counter can report real totals rather than the visible slice.
-      return sorted;
     }
 
     function renderDeals() {
@@ -1291,7 +1249,7 @@ const timeAgoSSR = (ts) => {
       .then(r => r.json())
       .then(data => {
         allDeals = data.posts || [];
-        document.getElementById('stat-total').textContent = allDeals.length;
+        document.getElementById('stat-total').textContent = activeDeals(allDeals).length;
         renderDeals();
       })
       .catch(err => {

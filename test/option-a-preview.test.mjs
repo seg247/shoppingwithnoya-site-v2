@@ -11,7 +11,7 @@ async function hydrate(fixture = data, query = '') {
   const dom = new JSDOM(html('index.html'), { url: `https://deals.shoppingwithnoya.com/${query}`, runScripts: 'outside-only', pretendToBeVisual: true });
   dom.window.fetch = async () => ({ json: async () => fixture });
   for (const script of dom.window.document.scripts) {
-    if (script.textContent.includes('const DATA_URL') || script.hasAttribute('data-compact-controls')) dom.window.eval(script.textContent);
+    if (script.textContent.includes('window.NoyaFeedPolicy =') || script.textContent.includes('const DATA_URL') || script.hasAttribute('data-compact-controls')) dom.window.eval(script.textContent);
   }
   await new Promise(r => setTimeout(r, 30));
   return dom;
@@ -91,7 +91,7 @@ test('view toggle changes layout and pressed label without losing rendered links
 });
 
 test('default view pages at 60 with a Load More control, and filters reset paging', async () => {
-  const fixture = { posts: Array.from({ length: 145 }, (_, i) => ({ title: `QA item ${i}`, url: `https://example.com/test-only/${i}`, category: 'Home & Kitchen', ts: '2026-09-16T12:00:00Z' })) };
+  const fixture = { posts: Array.from({ length: 145 }, (_, i) => ({ title: `QA item ${i}`, imageUrl: 'https://example.com/product.jpg', url: `https://example.com/test-only/${i}`, category: 'Home & Kitchen', ts: '2026-09-16T12:00:00Z' })) };
   const dom = await hydrate(fixture);
   try {
     const d = dom.window.document;
@@ -115,11 +115,16 @@ test('default view pages at 60 with a Load More control, and filters reset pagin
   } finally { dom.window.close(); }
 });
 
-test('ordinary cards have one main action row and an honest missing-image slot', async () => {
-  const dom = await hydrate({ posts: [{ title: 'QA product - test only', url: 'https://example.com/test-only', category: 'Home & Kitchen', ts: '2026-09-16T12:00:00Z' }] });
+test('ordinary cards retain one main action row and a neutral fallback for image load failure', async () => {
+  const dom = await hydrate({ posts: [{ title: 'QA product - test only', imageUrl: 'https://example.com/product.jpg', url: 'https://example.com/test-only', category: 'Home & Kitchen', ts: '2026-09-16T12:00:00Z' }] });
   try {
     const d = dom.window.document;
-    assert.ok(d.querySelector('.image-placeholder'), 'missing images need a consistent neutral slot');
+    const img = d.querySelector('.card-image-wrap img');
+    assert.ok(img);
+    // URL presence is eligibility evidence, not proof the remote photo loads.
+    dom.window.Function(img.getAttribute('onerror')).call(img);
+    assert.ok(d.querySelector('.deal-card').classList.contains('no-img'));
+    assert.ok(d.querySelector('.image-placeholder'), 'load failures retain a neutral slot');
     assert.ok(d.querySelector('.card-actions .card-link'), 'main action belongs in compact shared row');
     assert.ok(d.querySelector('.card-actions .share-btn'), 'share remains available beside primary action');
     assert.equal(d.querySelectorAll('.card-link').length, 1);
@@ -146,7 +151,7 @@ test('coupon conditions and full titles survive compact rendering; copy and shar
   // Test-only fixture, never written into the feed or preview artifacts.
   const title = 'Long product title requiring Subscribe & Save and a clipped coupon for the stated offer';
   const url = 'https://www.amazon.com/dp/B000000001?tag=noya0b-20&th=1';
-  const dom = await hydrate({ posts: [{ title, url, slug: 'test-only', category: 'Home & Kitchen', asin: 'B000000001', ts: '2026-09-16T12:00:00Z', promoCode: 'SAVE<&20', discount: 0 }] });
+  const dom = await hydrate({ posts: [{ title, url, imageUrl: 'https://example.com/product.jpg', slug: 'test-only', category: 'Home & Kitchen', asin: 'B000000001', ts: '2026-09-16T12:00:00Z', promoCode: 'SAVE<&20', discount: 0 }] });
   try {
     const d = dom.window.document;
     const copies = [];
