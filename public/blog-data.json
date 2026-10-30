@@ -9,8 +9,9 @@
         "Gold Box Deal",
         "Fashion",
         "Electronics",
-        "Other",
-        "Grocery & Food"
+        "Home & Kitchen",
+        "Grocery & Food",
+        "Other"
       ],
       "byCategory": {
         "Fashion": [
@@ -35,6 +36,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81QCuV1qiqL.jpg",
             "url": "https://www.amazon.com/dp/B0GKFYFH87?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0DJQ94SXY",
+            "slug": "olanly-small-bathroom-rugs-24x16-extra-soft-absorbent-microf",
+            "title": "OLANLY Small Bathroom Rugs 24x16, Extra Soft Absorbent Microfiber Bath Rugs | Peach, Non-Slip Quick-Drying Rubber Backing, Washable Plush Bath Mat for Floor, Tub and Shower, Home Decor Accessories : Home & Kitchen",
+            "price": "$24.56",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/712jkiRL8fL.jpg",
+            "url": "https://www.amazon.com/dp/B0DJQ94SXY?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -120,17 +134,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71HT3QZfbhL.jpg",
             "url": "https://www.amazon.com/dp/B0F6CW1KBL?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BDLGZCTY",
-            "slug": "eheyciga-orthopedic-extra-large-dog-bed-waterproof-washable",
-            "title": "EHEYCIGA Orthopedic Extra Large Dog Bed, Waterproof Washable XL Pet Bed 44\" | Non-Slip Bottom and Egg-Crate Polyurethane Foam Big Dog Couch Bed with Washable Removable Cover, Grey",
-            "price": "$39.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61E5+Tg-R9L.jpg",
-            "url": "https://www.amazon.com/dp/B0BDLGZCTY?tag=noya0b-20"
           }
         ]
       },
@@ -145,6 +148,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/31l2rVm48QL._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c3feedd9efb87456b32e24afdfa70e8d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0DJQ94SXY",
+          "slug": "olanly-small-bathroom-rugs-24x16-extra-soft-absorbent-microf",
+          "title": "OLANLY Small Bathroom Rugs 24x16, Extra Soft Absorbent Microfiber Bath Rugs | Peach, Non-Slip Quick-Drying Rubber Backing, Washable Plush Bath Mat for Floor, Tub and Shower, Home Decor Accessories : Home & Kitchen",
+          "price": "$24.56",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/712jkiRL8fL.jpg",
+          "url": "https://www.amazon.com/dp/B0DJQ94SXY?tag=noya0b-20"
         },
         {
           "asin": "B0F2LQN3JY",
@@ -233,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71HT3QZfbhL.jpg",
           "url": "https://www.amazon.com/dp/B0F6CW1KBL?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BDLGZCTY",
-          "slug": "eheyciga-orthopedic-extra-large-dog-bed-waterproof-washable",
-          "title": "EHEYCIGA Orthopedic Extra Large Dog Bed, Waterproof Washable XL Pet Bed 44\" | Non-Slip Bottom and Egg-Crate Polyurethane Foam Big Dog Couch Bed with Washable Removable Cover, Grey",
-          "price": "$39.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61E5+Tg-R9L.jpg",
-          "url": "https://www.amazon.com/dp/B0BDLGZCTY?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-30T10:00:01.867Z",
-      "updatedAt": "2026-10-30T10:00:01.867Z"
+      "generatedAt": "2026-10-30T10:10:02.481Z",
+      "updatedAt": "2026-10-30T10:10:02.481Z"
     },
     {
       "date": "2026-10-29",
@@ -16262,5 +16265,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-30T10:00:01.873Z"
+  "generatedAt": "2026-10-30T10:10:02.487Z"
 }
