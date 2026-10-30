@@ -9,10 +9,9 @@
         "Fashion",
         "Grocery & Food",
         "Other",
-        "Home & Kitchen",
-        "Garden & Outdoor",
         "Electronics",
-        "Gold Box Deal"
+        "Home & Kitchen",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Fashion": [
@@ -100,20 +99,18 @@
             "url": "https://www.amazon.com/dp/B0DV5RXL15/ref=cmswrasglapigli6TS9G53JA7ERW2F3BB6X?tag=noya0b-20"
           }
         ],
-        "Garden & Outdoor": [
+        "Electronics": [
           {
-            "asin": "B07MBXWX1C",
-            "slug": "logitech-g-farm-simulator-bundle-2nd-generation-steering-whe",
-            "title": "Logitech G Farm Simulator Bundle 2nd Generation Steering Wheel Controller | 2nd Generation, for Farm Simulation 2025 and previous versions, vehicle control deck, controller bundle",
-            "price": "$269.99",
+            "asin": "B0F43VB16N",
+            "slug": "miracase-silicone-magnetic-for-iphone-14-case-with-stand-mid",
+            "title": "Miracase Silicone & Magnetic for iPhone 14 Case with Stand, Midnight Black | Compatible with MagSafe, Soft Microfiber Lining, Premium Silicone Cover Shockproof Drop Protection Phone Case for 14 : Cell Phones & Accessories",
+            "price": "$20.69",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61lgvuhifKL.jpg",
-            "url": "https://www.amazon.com/dp/B07MBXWX1C?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61sEQXc80kL.jpg",
+            "url": "https://www.amazon.com/dp/B0F43VB16N?tag=noya0b-20"
+          },
           {
             "asin": "B0DPMN7PYV",
             "slug": "supfine-magnetic-for-iphone-se-case-2022-3rd2020-2nd-iphone",
@@ -126,17 +123,17 @@
             "url": "https://www.amazon.com/dp/B0DPMN7PYV?tag=noya0b-20"
           }
         ],
-        "Gold Box Deal": [
+        "Garden & Outdoor": [
           {
-            "asin": "B0GFNCR1M9",
-            "slug": "supfine-magnetic-for-iphone-11-phone-case-light-pink-with-sc",
-            "title": "SUPFINE Magnetic for iPhone 11 Phone Case Light Pink | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective : Cell Phones & Accessories",
-            "price": "$13.58",
+            "asin": "B07MBXWX1C",
+            "slug": "logitech-g-farm-simulator-bundle-2nd-generation-steering-whe",
+            "title": "Logitech G Farm Simulator Bundle 2nd Generation Steering Wheel Controller | 2nd Generation, for Farm Simulation 2025 and previous versions, vehicle control deck, controller bundle",
+            "price": "$269.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/61+75jhQSTL.jpg",
-            "url": "https://www.amazon.com/dp/B0GFNCR1M9?tag=noya0b-20"
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/61lgvuhifKL.jpg",
+            "url": "https://www.amazon.com/dp/B07MBXWX1C?tag=noya0b-20"
           }
         ]
       },
@@ -197,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B0DV5RXL15/ref=cmswrasglapigli6TS9G53JA7ERW2F3BB6X?tag=noya0b-20"
         },
         {
+          "asin": "B0F43VB16N",
+          "slug": "miracase-silicone-magnetic-for-iphone-14-case-with-stand-mid",
+          "title": "Miracase Silicone & Magnetic for iPhone 14 Case with Stand, Midnight Black | Compatible with MagSafe, Soft Microfiber Lining, Premium Silicone Cover Shockproof Drop Protection Phone Case for 14 : Cell Phones & Accessories",
+          "price": "$20.69",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61sEQXc80kL.jpg",
+          "url": "https://www.amazon.com/dp/B0F43VB16N?tag=noya0b-20"
+        },
+        {
           "asin": "B0D7PVSHX1",
           "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
           "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Pet Couch Bed with Washable Removable Cover, Soft Sage Green",
@@ -239,17 +247,6 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/71C1kRqCJXL.jpg",
           "url": "https://www.amazon.com/dp/B07MCCVZYC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFNCR1M9",
-          "slug": "supfine-magnetic-for-iphone-11-phone-case-light-pink-with-sc",
-          "title": "SUPFINE Magnetic for iPhone 11 Phone Case Light Pink | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Rugged Shockproof Protective : Cell Phones & Accessories",
-          "price": "$13.58",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/61+75jhQSTL.jpg",
-          "url": "https://www.amazon.com/dp/B0GFNCR1M9?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-30T23:00:02.637Z",
-      "updatedAt": "2026-10-30T23:00:02.637Z"
+      "generatedAt": "2026-10-30T23:10:02.501Z",
+      "updatedAt": "2026-10-30T23:10:02.502Z"
     },
     {
       "date": "2026-10-29",
@@ -16268,5 +16265,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-30T23:00:02.644Z"
+  "generatedAt": "2026-10-30T23:10:02.507Z"
 }
