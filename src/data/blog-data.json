@@ -4,15 +4,15 @@
       "date": "2026-10-30",
       "slug": "2026-10-30",
       "title": "🔥 Best Deals Today — October 30, 2026",
-      "intro": "Today's best online deals for Friday, October 30, 2026 — 10 hand-picked discounts across Fashion, Electronics, Grocery & Food and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, October 30, 2026 — 10 hand-picked discounts across Fashion, Personal Care, Grocery & Food and more. The best discount today is 50% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Fashion",
-        "Electronics",
+        "Personal Care",
         "Grocery & Food",
         "Other",
+        "Electronics",
         "Beauty",
         "Gold Box Deal",
-        "Personal Care",
         "Home & Kitchen"
       ],
       "byCategory": {
@@ -66,6 +66,30 @@
             "url": "https://www.amazon.com/dp/B0FV8MJ1W4?tag=noya0b-20"
           }
         ],
+        "Personal Care": [
+          {
+            "asin": "B0G2D1R15Q",
+            "slug": "ring-battery-doorbell-video-doorbell-camera",
+            "title": "Ring Battery Doorbell | Video Doorbell Camera",
+            "price": "$44.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+            "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
+          },
+          {
+            "asin": "B0H832WGF9",
+            "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-512-gb-obsidi",
+            "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 512 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
+            "price": "$919.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg",
+            "url": "https://www.amazon.com/dp/B0H832WGF9?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0G255Q2ZF",
@@ -77,17 +101,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71Kn2YfySNL.jpg",
             "url": "https://www.amazon.com/dp/B0G255Q2ZF?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F2LQN3JY",
-            "slug": "supfine-magnetic-for-iphone-se-case-2022-3rd2020-2nd-iphone",
-            "title": "SUPFINE Magnetic for iPhone SE Case 2022 (3rd)/2020 (2nd), iPhone 8 Case | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Blue Green : Cell Phones & Accessories",
-            "price": "$9.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61GCngZ43ZL.jpg",
-            "url": "https://www.amazon.com/dp/B0F2LQN3JY?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -114,19 +127,6 @@
             "category": "Gold Box Deal",
             "imageUrl": "https://m.media-amazon.com/images/I/81fEHxFn38L.jpg",
             "url": "https://www.amazon.com/dp/B0D3D5LKG9?tag=noya0b-20"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0H832WGF9",
-            "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-512-gb-obsidi",
-            "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 512 GB - Obsidian | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
-            "price": "$919.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71JsJOCSuTL.jpg",
-            "url": "https://www.amazon.com/dp/B0H832WGF9?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -176,6 +176,17 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/31l2rVm48QL._SL500_.jpg",
           "url": "https://www.amazon.com/gp/product/B0GJTXVN9Z?th=1&linkCode=sl2&tag=noya0b-20&linkId=c3feedd9efb87456b32e24afdfa70e8d&language=en_US&gaOptInStatus=true"
+        },
+        {
+          "asin": "B0G2D1R15Q",
+          "slug": "ring-battery-doorbell-video-doorbell-camera",
+          "title": "Ring Battery Doorbell | Video Doorbell Camera",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+          "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
         },
         {
           "asin": "B0G255Q2ZF",
@@ -242,23 +253,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/712jkiRL8fL.jpg",
           "url": "https://www.amazon.com/dp/B0DJQ94SXY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F2LQN3JY",
-          "slug": "supfine-magnetic-for-iphone-se-case-2022-3rd2020-2nd-iphone",
-          "title": "SUPFINE Magnetic for iPhone SE Case 2022 (3rd)/2020 (2nd), iPhone 8 Case | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Blue Green : Cell Phones & Accessories",
-          "price": "$9.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61GCngZ43ZL.jpg",
-          "url": "https://www.amazon.com/dp/B0F2LQN3JY?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 30, 2026?",
-          "a": "The best deals today include \"Silicone Freezer Tray for Sauce Cube: GGOW Silicone Freezing...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"Silicone Freezer Tray for Sauce Cube: GGOW Silicone Freezing...\" and 9 other hand-picked discounts. Deals span Fashion, Personal Care, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-30T12:40:02.868Z",
-      "updatedAt": "2026-10-30T12:40:02.868Z"
+      "generatedAt": "2026-10-30T12:50:02.089Z",
+      "updatedAt": "2026-10-30T12:50:02.089Z"
     },
     {
       "date": "2026-10-29",
@@ -16271,5 +16271,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-30T12:40:02.874Z"
+  "generatedAt": "2026-10-30T12:50:02.095Z"
 }
