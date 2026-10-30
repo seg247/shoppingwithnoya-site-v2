@@ -54,7 +54,7 @@
     border-radius: 999px;
     font-size: .82rem;
   }
-  .compact-deals .chip-row .shop-cat.active { background: var(--compact-accent, #7B2FBE); color: #fff; border-color: transparent; }
+  .compact-deals .chip-row .shop-cat.active { background: var(--compact-accent, #c4a2ef); color: #16161f; border-color: transparent; }
   .compact-deals .chip-row .shop-cat:focus-visible { outline: 3px solid #38bdf8; outline-offset: 2px; }
   .compact-deals .shop-cat { white-space: normal; overflow-wrap: anywhere; min-height: 44px; padding: 8px 10px; font-size: .82rem; }
   /* Re-stated after the generic .shop-cat rule above, which would otherwise
@@ -119,6 +119,16 @@
   /* Sort sits immediately before the toggle and owns the auto margin; without
      this the toggle would also claim it and push itself onto its own line. */
   .compact-deals .section-header #sort-order ~ #view-toggle { margin-left: 4px; }
+  /* Keep the mobile results label/count beside intact sort and view controls.
+     A single nowrap flex line clipped List view at 375px (and worse at 320px).
+     Two small label lines fit within the controls' existing height on phones. */
+  @media (max-width: 420px) {
+    .compact-deals:not(.category-page) .section-header { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; column-gap: 8px; row-gap: 2px; align-items: center; }
+    .compact-deals:not(.category-page) .section-header .section-title { grid-column: 1; grid-row: 1; min-width: 0; margin: 0; white-space: normal; line-height: 1.2; }
+    .compact-deals:not(.category-page) .section-header .deal-count { grid-column: 1; grid-row: 2; }
+    .compact-deals:not(.category-page) .section-header #sort-order { grid-column: 2; grid-row: 1 / span 2; margin-left: 0; }
+    .compact-deals:not(.category-page) .section-header #view-toggle { grid-column: 3; grid-row: 1 / span 2; margin-left: 0; }
+  }
   /* Tighter vertical rhythm above the feed: every band removed here is a
      product row gained on a phone. */
   .compact-deals .search-wrap { margin: 8px auto 6px; }
