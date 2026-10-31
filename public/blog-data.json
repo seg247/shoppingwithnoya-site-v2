@@ -12,6 +12,41 @@
         "Home & Kitchen"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B00AHAWWO0",
+            "slug": "crest-teeth-whitening-strips-crest-3d-whitestrips-profession",
+            "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter : Health & Household",
+            "price": "$34.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg",
+            "url": "https://www.amazon.com/dp/B00AHAWWO0?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D7PXBNNL",
+            "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
+            "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Pet Couch Bed with Washable Removable Cover, Navy",
+            "price": "$31.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71jLf0HmFtL.jpg",
+            "url": "https://www.amazon.com/dp/B0D7PXBNNL?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D7PV6XMH",
+            "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
+            "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Dog Couch Bed with Washable Removable Cover, Dark Grey",
+            "price": "$31.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/818HGKK8pYL.jpg",
+            "url": "https://www.amazon.com/dp/B0D7PV6XMH?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0F2LQN3JY",
@@ -69,30 +104,6 @@
             "url": "https://www.amazon.com/dp/B09V13JDNV?tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0D7PXBNNL",
-            "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
-            "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Pet Couch Bed with Washable Removable Cover, Navy",
-            "price": "$31.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jLf0HmFtL.jpg",
-            "url": "https://www.amazon.com/dp/B0D7PXBNNL?tag=noya0b-20"
-          },
-          {
-            "asin": "B0D7PV6XMH",
-            "slug": "eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
-            "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Dog Couch Bed with Washable Removable Cover, Dark Grey",
-            "price": "$31.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/818HGKK8pYL.jpg",
-            "url": "https://www.amazon.com/dp/B0D7PV6XMH?tag=noya0b-20"
-          }
-        ],
         "Beauty": [
           {
             "asin": "B0D7N2KWLH",
@@ -104,17 +115,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81x0kmsMwsL.jpg",
             "url": "https://www.amazon.com/dp/B0D7N2KWLH?tag=noya0b-20"
-          },
-          {
-            "asin": "B01H1V7WQU",
-            "slug": "laura-geller-baked-balance-n-brighten-powder-foundation-ligh",
-            "title": "LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Light : Beauty & Personal Care",
-            "price": "$22.80",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71SZsYmswwL.jpg",
-            "url": "https://www.amazon.com/dp/B01H1V7WQU?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B00AHAWWO0",
+          "slug": "crest-teeth-whitening-strips-crest-3d-whitestrips-profession",
+          "title": "Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 Treatments (44 Strips), Professional-Level Whitening, 19 Levels Whiter : Health & Household",
+          "price": "$34.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg",
+          "url": "https://www.amazon.com/dp/B00AHAWWO0?tag=noya0b-20"
+        },
         {
           "asin": "B0F2LQN3JY",
           "slug": "supfine-magnetic-for-iphone-se-case-2022-3rd2020-2nd-iphone",
@@ -230,23 +241,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61NbDubaaoL.jpg",
           "url": "https://www.amazon.com/dp/B09V13JDNV?tag=noya0b-20"
-        },
-        {
-          "asin": "B01H1V7WQU",
-          "slug": "laura-geller-baked-balance-n-brighten-powder-foundation-ligh",
-          "title": "LAURA GELLER Baked Balance-n-Brighten Powder Foundation – Light : Beauty & Personal Care",
-          "price": "$22.80",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71SZsYmswwL.jpg",
-          "url": "https://www.amazon.com/dp/B01H1V7WQU?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 31, 2026?",
-          "a": "The best deals today include \"SUPFINE Magnetic for iPhone SE Case 2022 (3rd)/2020 (2nd), i...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Crest Teeth Whitening Strips, Crest 3D Whitestrips Professio...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-31T17:40:03.702Z",
-      "updatedAt": "2026-10-31T17:40:03.703Z"
+      "generatedAt": "2026-10-31T17:50:03.457Z",
+      "updatedAt": "2026-10-31T17:50:03.457Z"
     },
     {
       "date": "2026-10-30",
@@ -16265,5 +16265,5 @@
       "updatedAt": "2026-09-03T03:50:01.635Z"
     }
   ],
-  "generatedAt": "2026-10-31T17:40:03.707Z"
+  "generatedAt": "2026-10-31T17:50:03.462Z"
 }
