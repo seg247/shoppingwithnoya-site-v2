@@ -9,10 +9,44 @@
         "Home & Kitchen",
         "Personal Care",
         "Health",
-        "Gold Box Deal",
-        "Electronics"
+        "Gold Box Deal"
       ],
       "byCategory": {
+        "Personal Care": [
+          {
+            "asin": "B0G2D1R15Q",
+            "slug": "ring-battery-doorbell-video-doorbell-camera",
+            "title": "Ring Battery Doorbell | Video Doorbell Camera",
+            "price": "$44.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+            "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DHLTCYWH",
+            "slug": "blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year",
+            "title": "Blink Outdoor 4 and Wired Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K hardwired doorbell. Sync Module Core included — 5 Cameras + Doorbell (Black)",
+            "price": "$118.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ISKD8iPHL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHLTCYWH?tag=noya0b-20"
+          },
+          {
+            "asin": "B0H83856CL",
+            "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-256-gb-canyon",
+            "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Canyon | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
+            "price": "$799.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
+            "url": "https://www.amazon.com/dp/B0H83856CL?tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B0C21ZLQNC",
@@ -95,46 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61aOCGSbXmL.jpg",
             "url": "https://www.amazon.com/dp/B0DPMKQ6M9?tag=noya0b-20"
           }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0DHLTCYWH",
-            "slug": "blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year",
-            "title": "Blink Outdoor 4 and Wired Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K hardwired doorbell. Sync Module Core included — 5 Cameras + Doorbell (Black)",
-            "price": "$118.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ISKD8iPHL.jpg",
-            "url": "https://www.amazon.com/dp/B0DHLTCYWH?tag=noya0b-20"
-          },
-          {
-            "asin": "B0H83856CL",
-            "slug": "google-pixel-11-pro-unlocked-smartphone-gemini-256-gb-canyon",
-            "title": "Google Pixel 11 Pro - Unlocked Smartphone, Gemini - 256 GB - Canyon | Android, Gemini Intelligence, 30+ hour battery, 6.3\" Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
-            "price": "$799.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
-            "url": "https://www.amazon.com/dp/B0H83856CL?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B08GFHZC3Y",
-            "slug": "miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case",
-            "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Dark Blue | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
-            "price": "$14.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/616Fu8Bt20L.jpg",
-            "url": "https://www.amazon.com/dp/B08GFHZC3Y?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G2D1R15Q",
+          "slug": "ring-battery-doorbell-video-doorbell-camera",
+          "title": "Ring Battery Doorbell | Video Doorbell Camera",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+          "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
+        },
         {
           "asin": "B0C21ZLQNC",
           "slug": "physicians-choice-digestive-enzymes-for-bloating-digestion-f",
@@ -233,23 +241,12 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
           "url": "https://www.amazon.com/dp/B0H83856CL?tag=noya0b-20"
-        },
-        {
-          "asin": "B08GFHZC3Y",
-          "slug": "miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case",
-          "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Dark Blue | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
-          "price": "$14.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/616Fu8Bt20L.jpg",
-          "url": "https://www.amazon.com/dp/B08GFHZC3Y?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 31, 2026?",
-          "a": "The best deals today include \"Physician's CHOICE Digestive Enzymes for Bloating & Digestio...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Personal Care, Health and are updated daily."
+          "a": "The best deals today include \"Ring Battery Doorbell | Video Doorbell Camera...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Personal Care, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-31T11:40:04.317Z",
-      "updatedAt": "2026-10-31T11:40:04.317Z"
+      "generatedAt": "2026-10-31T11:50:04.249Z",
+      "updatedAt": "2026-10-31T11:50:04.249Z"
     },
     {
       "date": "2026-10-30",
@@ -16268,5 +16265,5 @@
       "updatedAt": "2026-09-03T03:50:01.635Z"
     }
   ],
-  "generatedAt": "2026-10-31T11:40:04.322Z"
+  "generatedAt": "2026-10-31T11:50:04.255Z"
 }
