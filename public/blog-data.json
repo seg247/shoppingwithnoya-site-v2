@@ -10,9 +10,9 @@
         "Fashion",
         "Beauty",
         "Garden & Outdoor",
+        "Gold Box Deal",
         "Home & Kitchen",
-        "Other",
-        "Gold Box Deal"
+        "Other"
       ],
       "byCategory": {
         "Fashion": [
@@ -100,6 +100,19 @@
             "url": "https://www.amazon.com/dp/B0D3WZYQCP/ref=cmswrasglapigliGYJ2CYD1P1M273CSWPRF?tag=noya0b-20"
           }
         ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0DPML3V93",
+            "slug": "supfine-magnetic-for-iphone-se-case-2022-3rd2020-2nd-iphone",
+            "title": "SUPFINE Magnetic for iPhone SE Case 2022 (3rd)/2020 (2nd), iPhone 8 Case | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Burgundy : Cell Phones & Accessories",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/612gDW2boKL.jpg",
+            "url": "https://www.amazon.com/dp/B0DPML3V93?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0DW4KG8VM",
@@ -124,19 +137,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/61GZCyzgUpL.jpg",
             "url": "https://www.amazon.com/dp/B0GZL5BT97?tag=noya0b-20"
-          }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0BLTPPDC4",
-            "slug": "miracase-silicone-for-iphone-se-2022se-202078-casewine-red-u",
-            "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Wine Red | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
-            "price": "$17.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/61383qPmjsL.jpg",
-            "url": "https://www.amazon.com/dp/B0BLTPPDC4?tag=noya0b-20"
           }
         ]
       },
@@ -184,6 +184,17 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/41jwvy4lIFL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0D3WZYQCP/ref=cmswrasglapigliGYJ2CYD1P1M273CSWPRF?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DPML3V93",
+          "slug": "supfine-magnetic-for-iphone-se-case-2022-3rd2020-2nd-iphone",
+          "title": "SUPFINE Magnetic for iPhone SE Case 2022 (3rd)/2020 (2nd), iPhone 8 Case | With Screen Protector, Translucent Matte, Compatible with MagSafe, Military Grade Drop Proof, Burgundy : Cell Phones & Accessories",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/612gDW2boKL.jpg",
+          "url": "https://www.amazon.com/dp/B0DPML3V93?tag=noya0b-20"
         },
         {
           "asin": "B0DW4KG8VM",
@@ -239,17 +250,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61zSEZPlFDL.jpg",
           "url": "https://www.amazon.com/dp/B0B81Z9TZT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BLTPPDC4",
-          "slug": "miracase-silicone-for-iphone-se-2022se-202078-casewine-red-u",
-          "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Wine Red | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
-          "price": "$17.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/61383qPmjsL.jpg",
-          "url": "https://www.amazon.com/dp/B0BLTPPDC4?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-31T23:40:03.151Z",
-      "updatedAt": "2026-10-31T23:40:03.151Z"
+      "generatedAt": "2026-10-31T23:50:02.103Z",
+      "updatedAt": "2026-10-31T23:50:02.103Z"
     },
     {
       "date": "2026-10-30",
@@ -16274,5 +16274,5 @@
       "updatedAt": "2026-09-03T03:50:01.635Z"
     }
   ],
-  "generatedAt": "2026-10-31T23:40:03.156Z"
+  "generatedAt": "2026-10-31T23:50:02.111Z"
 }
