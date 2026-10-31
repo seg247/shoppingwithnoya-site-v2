@@ -4,14 +4,28 @@
       "date": "2026-10-31",
       "slug": "2026-10-31",
       "title": "🔥 Best Deals Today — October 31, 2026",
-      "intro": "Today's best online deals for Saturday, October 31, 2026 — 10 hand-picked discounts across Home & Kitchen, Personal Care, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, October 31, 2026 — 10 hand-picked discounts across Home & Kitchen, Personal Care, Health and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
         "Personal Care",
-        "Electronics",
-        "Gold Box Deal"
+        "Health",
+        "Gold Box Deal",
+        "Electronics"
       ],
       "byCategory": {
+        "Health": [
+          {
+            "asin": "B0C21ZLQNC",
+            "slug": "physicians-choice-digestive-enzymes-for-bloating-digestion-f",
+            "title": "Physician's CHOICE Digestive Enzymes for Bloating & Digestion - Fast-Acting 16 Enzyme Formula with Organic Prebiotics & Probiotics for Gut & Digestive Health - Meal Time Discomfort Relief - 60 CT : Health & Household",
+            "price": "$13.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/811DmGOIvkL.jpg",
+            "url": "https://www.amazon.com/dp/B0C21ZLQNC?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0CZS6SS3Y",
@@ -117,21 +131,21 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/616Fu8Bt20L.jpg",
             "url": "https://www.amazon.com/dp/B08GFHZC3Y?tag=noya0b-20"
-          },
-          {
-            "asin": "B0B28G5Y4R",
-            "slug": "happrun-native-1080p-bluetooth-projector-standard-native-108",
-            "title": "HAPPRUN Native 1080P Bluetooth Projector - Standard | Native 1080P • Mini & Portable • Easy Setup • Built-in Speaker • HDMI for PC, Laptop & PS5",
-            "price": "$59.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
-            "url": "https://www.amazon.com/dp/B0B28G5Y4R?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B0C21ZLQNC",
+          "slug": "physicians-choice-digestive-enzymes-for-bloating-digestion-f",
+          "title": "Physician's CHOICE Digestive Enzymes for Bloating & Digestion - Fast-Acting 16 Enzyme Formula with Organic Prebiotics & Probiotics for Gut & Digestive Health - Meal Time Discomfort Relief - 60 CT : Health & Household",
+          "price": "$13.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/811DmGOIvkL.jpg",
+          "url": "https://www.amazon.com/dp/B0C21ZLQNC?tag=noya0b-20"
+        },
         {
           "asin": "B0CZS6SS3Y",
           "slug": "ninja-air-fryer-doublestack-xl-10-qt-6-in-1-deep-grey-sl401",
@@ -230,23 +244,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/616Fu8Bt20L.jpg",
           "url": "https://www.amazon.com/dp/B08GFHZC3Y?tag=noya0b-20"
-        },
-        {
-          "asin": "B0B28G5Y4R",
-          "slug": "happrun-native-1080p-bluetooth-projector-standard-native-108",
-          "title": "HAPPRUN Native 1080P Bluetooth Projector - Standard | Native 1080P • Mini & Portable • Easy Setup • Built-in Speaker • HDMI for PC, Laptop & PS5",
-          "price": "$59.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
-          "url": "https://www.amazon.com/dp/B0B28G5Y4R?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on October 31, 2026?",
-          "a": "The best deals today include \"Ninja Air Fryer DoubleStack XL, 10 Qt, 6-in-1, Deep Grey, SL...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Personal Care, Electronics and are updated daily."
+          "a": "The best deals today include \"Physician's CHOICE Digestive Enzymes for Bloating & Digestio...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Personal Care, Health and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-31T11:00:03.078Z",
-      "updatedAt": "2026-10-31T11:00:03.079Z"
+      "generatedAt": "2026-10-31T11:10:04.146Z",
+      "updatedAt": "2026-10-31T11:10:04.146Z"
     },
     {
       "date": "2026-10-30",
@@ -16265,5 +16268,5 @@
       "updatedAt": "2026-09-03T03:50:01.635Z"
     }
   ],
-  "generatedAt": "2026-10-31T11:00:03.084Z"
+  "generatedAt": "2026-10-31T11:10:04.151Z"
 }
