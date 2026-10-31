@@ -11,7 +11,7 @@
         "Grocery & Food",
         "Other",
         "Home & Kitchen",
-        "Toys & Games"
+        "Personal Care"
       ],
       "byCategory": {
         "Fashion": [
@@ -77,6 +77,19 @@
             "url": "https://www.amazon.com/dp/B0DV5RXL15/ref=cmswrasglapigli6TS9G53JA7ERW2F3BB6X?tag=noya0b-20"
           }
         ],
+        "Personal Care": [
+          {
+            "asin": "B0DHLTCYWH",
+            "slug": "blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year",
+            "title": "Blink Outdoor 4 and Wired Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K hardwired doorbell. Sync Module Core included — 5 Cameras + Doorbell (Black)",
+            "price": "$118.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ISKD8iPHL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHLTCYWH?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0FM3RBHGB",
@@ -121,19 +134,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/71ROqn1SieL.jpg",
             "url": "https://www.amazon.com/dp/B0GY77837B?tag=noya0b-20"
-          }
-        ],
-        "Toys & Games": [
-          {
-            "asin": "B0FVCSC4XH",
-            "slug": "aqpu-rechargeable-touch-activated-interactive-cat-toy",
-            "title": "AQPU Rechargeable Touch-Activated Interactive Cat Toy",
-            "price": "$4",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Toys & Games",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WWrHPi42L.jpg",
-            "url": "https://www.amazon.com/dp/B0FVCSC4XH?tag=noya0b-20"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B0DV5RXL15/ref=cmswrasglapigli6TS9G53JA7ERW2F3BB6X?tag=noya0b-20"
         },
         {
+          "asin": "B0DHLTCYWH",
+          "slug": "blink-outdoor-4-and-wired-doorbell-2k-newest-model-two-year",
+          "title": "Blink Outdoor 4 and Wired Doorbell 2K+ (newest model) — Two-year battery 1080p cameras and 2K hardwired doorbell. Sync Module Core included — 5 Cameras + Doorbell (Black)",
+          "price": "$118.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ISKD8iPHL.jpg",
+          "url": "https://www.amazon.com/dp/B0DHLTCYWH?tag=noya0b-20"
+        },
+        {
           "asin": "B0FM3RBHGB",
           "slug": "miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case",
           "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Sky Blue | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
@@ -236,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71ROqn1SieL.jpg",
           "url": "https://www.amazon.com/dp/B0GY77837B?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FVCSC4XH",
-          "slug": "aqpu-rechargeable-touch-activated-interactive-cat-toy",
-          "title": "AQPU Rechargeable Touch-Activated Interactive Cat Toy",
-          "price": "$4",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Toys & Games",
-          "imageUrl": "https://m.media-amazon.com/images/I/61WWrHPi42L.jpg",
-          "url": "https://www.amazon.com/dp/B0FVCSC4XH?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-10-31T02:20:00.795Z",
-      "updatedAt": "2026-10-31T02:20:00.795Z"
+      "generatedAt": "2026-10-31T02:30:02.015Z",
+      "updatedAt": "2026-10-31T02:30:02.015Z"
     },
     {
       "date": "2026-10-29",
@@ -16265,5 +16265,5 @@
       "updatedAt": "2026-09-02T03:50:00.624Z"
     }
   ],
-  "generatedAt": "2026-10-31T02:20:00.802Z"
+  "generatedAt": "2026-10-31T02:30:02.021Z"
 }
