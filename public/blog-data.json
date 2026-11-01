@@ -12,44 +12,18 @@
         "Garden & Outdoor"
       ],
       "byCategory": {
-        "Fashion": [
-          {
-            "asin": "B0FHPSK3P7",
-            "slug": "pinspark-2-piece-sets-for-women-14-zip-lounge-matching-set-f",
-            "title": "PINSPARK 2 Piece Sets for Women 1/4 Zip Lounge Matching Set Fall Outfits | Petite& Regular& Tall, Oversized Sweatshirt, Wide Leg Pants with Drawstring Pockets, Sweatsuit, 2026 Travel Airport Tracksuit : Clothing, Shoes & Jewelry",
-            "price": "$34.18",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61eVUDqNcUL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHPSK3P7?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FL7KCKSS",
-            "slug": "womens-ombre-colorblock-twist-waist-ruched-bodycon-long-dres",
-            "title": "Womens Ombre Colorblock Twist Waist Ruched Bodycon Long Dress V Neck Sleeveless Slim Fit Casual Wedding Guest Dress-mu-M Multicolor : Clothing, Shoes & Jewelry",
-            "price": "$4.54",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/51aor9yfebL.jpg",
-            "url": "https://www.amazon.com/dp/B0FL7KCKSS?tag=noya0b-20"
-          }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0FVYBPSWY",
-            "slug": "niagara-sleep-solution-queen-ultra-soft-mattress-topper-back",
-            "title": "Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20\" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Dark Gray : Home & Kitchen",
-            "price": "$35.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/81AArX908mL.jpg",
-            "url": "https://www.amazon.com/dp/B0FVYBPSWY?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
+          {
+            "asin": "B07TF834PT",
+            "slug": "nebula-by-anker-capsule-max-mini-projector-with-wifi-and-blu",
+            "title": "NEBULA by Anker Capsule Max, Mini Projector with WiFi and Bluetooth, Small Projector, 200 ANSI Lumen, Projector Portable, Native 720p HD, 8W Speaker, 100 Inch Picture, 4Hr Video Playtime, Home Theater",
+            "price": "$399.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71PnIxmshbL.jpg",
+            "url": "https://www.amazon.com/dp/B07TF834PT?tag=noya0b-20"
+          },
           {
             "asin": "B0GFNCR1M9",
             "slug": "supfine-magnetic-for-iphone-11-phone-case-light-pink-with-sc",
@@ -117,6 +91,32 @@
             "url": "https://www.amazon.com/dp/B0GY77837B?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0FHPSK3P7",
+            "slug": "pinspark-2-piece-sets-for-women-14-zip-lounge-matching-set-f",
+            "title": "PINSPARK 2 Piece Sets for Women 1/4 Zip Lounge Matching Set Fall Outfits | Petite& Regular& Tall, Oversized Sweatshirt, Wide Leg Pants with Drawstring Pockets, Sweatsuit, 2026 Travel Airport Tracksuit : Clothing, Shoes & Jewelry",
+            "price": "$34.18",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61eVUDqNcUL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHPSK3P7?tag=noya0b-20"
+          }
+        ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0FVYBPSWY",
+            "slug": "niagara-sleep-solution-queen-ultra-soft-mattress-topper-back",
+            "title": "Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20\" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Dark Gray : Home & Kitchen",
+            "price": "$35.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/81AArX908mL.jpg",
+            "url": "https://www.amazon.com/dp/B0FVYBPSWY?tag=noya0b-20"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B083K35R9D",
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B07TF834PT",
+          "slug": "nebula-by-anker-capsule-max-mini-projector-with-wifi-and-blu",
+          "title": "NEBULA by Anker Capsule Max, Mini Projector with WiFi and Bluetooth, Small Projector, 200 ANSI Lumen, Projector Portable, Native 720p HD, 8W Speaker, 100 Inch Picture, 4Hr Video Playtime, Home Theater",
+          "price": "$399.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71PnIxmshbL.jpg",
+          "url": "https://www.amazon.com/dp/B07TF834PT?tag=noya0b-20"
+        },
         {
           "asin": "B0FHPSK3P7",
           "slug": "pinspark-2-piece-sets-for-women-14-zip-lounge-matching-set-f",
@@ -230,23 +241,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71ROqn1SieL.jpg",
           "url": "https://www.amazon.com/dp/B0GY77837B?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FL7KCKSS",
-          "slug": "womens-ombre-colorblock-twist-waist-ruched-bodycon-long-dres",
-          "title": "Womens Ombre Colorblock Twist Waist Ruched Bodycon Long Dress V Neck Sleeveless Slim Fit Casual Wedding Guest Dress-mu-M Multicolor : Clothing, Shoes & Jewelry",
-          "price": "$4.54",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/51aor9yfebL.jpg",
-          "url": "https://www.amazon.com/dp/B0FL7KCKSS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 1, 2026?",
-          "a": "The best deals today include \"PINSPARK 2 Piece Sets for Women 1/4 Zip Lounge Matching Set ...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"NEBULA by Anker Capsule Max, Mini Projector with WiFi and Bl...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Gold Box Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-01T08:20:01.768Z",
-      "updatedAt": "2026-11-01T08:20:01.768Z"
+      "generatedAt": "2026-11-01T08:30:02.111Z",
+      "updatedAt": "2026-11-01T08:30:02.111Z"
     },
     {
       "date": "2026-10-31",
@@ -16271,5 +16271,5 @@
       "updatedAt": "2026-09-04T03:50:02.811Z"
     }
   ],
-  "generatedAt": "2026-11-01T08:20:01.773Z"
+  "generatedAt": "2026-11-01T08:30:02.116Z"
 }
