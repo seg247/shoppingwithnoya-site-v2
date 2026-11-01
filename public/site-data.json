@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-01T13:40:01.768Z",
+  "generatedAt": "2026-11-01T13:50:02.132Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0gvt68flt-biysber-retinol-serum-for-face-neck-with-peptide-nad-firming",
+      "asin": "B0GVT68FLT",
+      "title": "BIYSBER Retinol Serum for Face & Neck with Peptide & NAD+, Firming Collagen Skin Care for Fine Lines, Wrinkles & Hydrati",
+      "url": "https://www.amazon.com/dp/B0GVT68FLT/ref=cmswrasglapiglidl_WKC56NTANDRVMRMV8WC6?tag=noya0b-20",
+      "discount": 60,
+      "rating": "FIRE",
+      "category": "Beauty",
+      "ts": "2026-11-01T13:40:20.069Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41jqYcfZSoL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 60% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b08qxj31wr-ninja-nutri-blender-pro-with-auto-iq-1100pw-2-24oz-cups-bn40",
       "asin": "B08QXJ31WR",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81AArX908mL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8166,22 +8182,6 @@
       "ts": "2026-10-13T12:20:21.354Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41RZnoV8IhL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0f5by8d2x-covergirl-x-stranger-things-upseye-down-kohl-eyeliner-160-fo",
-      "asin": "B0F5BY8D2X",
-      "title": "COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeliner - 160 For Eddie,",
-      "url": "https://www.amazon.com/dp/B0F5BY8D2X/ref=cm_sw_r_as_gl_api_gl_i_W23ZE07BRJN73GSNBJF0?linkCode=ml1&tag=noya0b-20&linkId=15e4aa701f1b1e211e70f15afd624fa4&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-13T11:40:18.330Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31leZRRDu6L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19227,6 +19227,16 @@
       "category": "Beauty",
       "ts": "2026-10-13T11:20:23.477Z",
       "archivedAt": "2026-11-01T13:30:01.565Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f5by8d2x-covergirl-x-stranger-things-upseye-down-kohl-eyeliner-160-fo",
+      "asin": "B0F5BY8D2X",
+      "title": "COVERGIRL x STRANGER THINGS UpsEYE Down Kohl Eyeliner - 160 For Eddie,",
+      "url": "https://www.amazon.com/dp/B0F5BY8D2X/ref=cm_sw_r_as_gl_api_gl_i_W23ZE07BRJN73GSNBJF0?linkCode=ml1&tag=noya0b-20&linkId=15e4aa701f1b1e211e70f15afd624fa4&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-13T11:40:18.330Z",
+      "archivedAt": "2026-11-01T13:50:02.132Z",
       "status": "archived"
     }
   ]
