@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-01T13:00:01.990Z",
+  "generatedAt": "2026-11-01T13:10:01.351Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0dypft51x-esdvq-men-s-relaxed-fit-embroidered-denim-shorts-comfort-fle",
+      "asin": "B0DYPFT51X",
+      "title": "ESDVQ Men's Relaxed Fit Embroidered Denim Shorts | Comfort flex waist, abrasion and dirt-resistant, embroidered back poc",
+      "url": "https://www.amazon.com/dp/B0DYPFT51X/ref=cmswrasglapiglidl_B61BZ56J1RE564A8B4MV?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Fashion",
+      "ts": "2026-11-01T13:00:11.318Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/418dgAdbGSL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 50% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gvcscqnm-kennethan-8x10-picture-frame-oak-wooden-poster-frame-for-tab",
       "asin": "B0GVCSCQNM",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/619tWE-AyZL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8166,22 +8182,6 @@
       "ts": "2026-10-13T11:20:23.477Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51xmQQLVsQL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0dj11zrlg-akunbem-electric-razors-for-women-mini-bikini-trimmer-for-wo",
-      "asin": "B0DJ11ZRLG",
-      "title": "Akunbem Electric Razors for Women - Mini Bikini Trimmer for Women - Electric Shavers for Pubic Hair Legs Arm & Body - Pa",
-      "url": "https://www.amazon.com/dp/B0DJ11ZRLG/ref=cm_sw_r_as_gl_api_gl_i_8K0PZAGQSC0TJBRJ67CP?linkCode=ml1&tag=noya0b-20&linkId=b8b8cce6b29e3521c340e98d04246f25&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-13T11:00:22.948Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31YERolu7WL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19217,6 +19217,16 @@
       "category": "Fashion",
       "ts": "2026-10-13T10:40:22.595Z",
       "archivedAt": "2026-11-01T12:50:01.777Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dj11zrlg-akunbem-electric-razors-for-women-mini-bikini-trimmer-for-wo",
+      "asin": "B0DJ11ZRLG",
+      "title": "Akunbem Electric Razors for Women - Mini Bikini Trimmer for Women - Electric Shavers for Pubic Hair Legs Arm & Body - Pa",
+      "url": "https://www.amazon.com/dp/B0DJ11ZRLG/ref=cm_sw_r_as_gl_api_gl_i_8K0PZAGQSC0TJBRJ67CP?linkCode=ml1&tag=noya0b-20&linkId=b8b8cce6b29e3521c340e98d04246f25&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-13T11:00:22.948Z",
+      "archivedAt": "2026-11-01T13:10:01.351Z",
       "status": "archived"
     }
   ]
