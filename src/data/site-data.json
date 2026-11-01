@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-01T14:00:02.008Z",
+  "generatedAt": "2026-11-01T14:10:01.533Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0gfws982x-gutouge-men-s-chukka-combat-ankle-boots-stylish-synthetic-le",
+      "asin": "B0GFWS982X",
+      "title": "GUTOUGE Men's Chukka Combat Ankle Boots - Stylish Synthetic Leather Lace-Up Work Boot with Convenient Side Zipper, Non-S",
+      "url": "https://www.amazon.com/dp/B0GFWS982X/ref=cmswrasglapiglidl_HFSKT1K6DEKGQ89WZNFH?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Fashion",
+      "ts": "2026-11-01T14:00:12.715Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/31gA2+vrkzL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 50% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gvt68flt-biysber-retinol-serum-for-face-neck-with-peptide-nad-firming",
       "asin": "B0GVT68FLT",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61eVUDqNcUL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8166,22 +8182,6 @@
       "ts": "2026-10-13T13:00:22.150Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51vJOKhq3KL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0fh1pc5bb-mallmall6-halloween-shower-curtain-hooks-12pcs-pink-boo-deco",
-      "asin": "B0FH1PC5BB",
-      "title": "MALLMALL6 Halloween Shower Curtain Hooks - 12Pcs Pink Boo Decorative Hangers Metal Rustproof Bathroom Horror Gothic Deco",
-      "url": "https://www.amazon.com/dp/B0FH1PC5BB/ref=cm_sw_r_as_gl_api_gl_i_X2G0DB6S96FG7B16ME5W?linkCode=ml1&tag=noya0b-20&linkId=afb8918fcc4de12db3a394402dbe934c&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-13T12:20:21.354Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41RZnoV8IhL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19237,6 +19237,16 @@
       "category": "Beauty",
       "ts": "2026-10-13T11:40:18.330Z",
       "archivedAt": "2026-11-01T13:50:02.132Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fh1pc5bb-mallmall6-halloween-shower-curtain-hooks-12pcs-pink-boo-deco",
+      "asin": "B0FH1PC5BB",
+      "title": "MALLMALL6 Halloween Shower Curtain Hooks - 12Pcs Pink Boo Decorative Hangers Metal Rustproof Bathroom Horror Gothic Deco",
+      "url": "https://www.amazon.com/dp/B0FH1PC5BB/ref=cm_sw_r_as_gl_api_gl_i_X2G0DB6S96FG7B16ME5W?linkCode=ml1&tag=noya0b-20&linkId=afb8918fcc4de12db3a394402dbe934c&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-13T12:20:21.354Z",
+      "archivedAt": "2026-11-01T14:10:01.533Z",
       "status": "archived"
     }
   ]
