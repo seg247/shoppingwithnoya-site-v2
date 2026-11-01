@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-01T13:20:01.606Z",
+  "generatedAt": "2026-11-01T13:30:01.565Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b08qxj31wr-ninja-nutri-blender-pro-with-auto-iq-1100pw-2-24oz-cups-bn40",
+      "asin": "B08QXJ31WR",
+      "title": "Ninja Nutri-Blender Pro with Auto iQ, 1100PW, (2) 24oz Cups, BN401 | 1100-peak-watt motor + 2 Auto-iQ programs for smoot",
+      "url": "https://www.amazon.com/dp/B08QXJ31WR/ref=cmswrasglapiglidl_S96PTR5QAZETXFE6D2BB?tag=noya0b-20",
+      "discount": 33,
+      "rating": "HOT",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-01T13:20:17.901Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41eJcZK-TWL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 33% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0dypft51x-esdvq-men-s-relaxed-fit-embroidered-denim-shorts-comfort-fle",
       "asin": "B0DYPFT51X",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61+75jhQSTL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8170,22 +8186,6 @@
       "promoCode": null,
       "badge": null,
       "feedStatus": "active"
-    },
-    {
-      "slug": "b0h86gtmcd-proiyo-3-in-1-hair-clippers-for-men-with-led-beard-trimmer-f",
-      "asin": "B0H86GTMCD",
-      "title": "PROIYO 3-in-1 Hair Clippers for Men with LED, Beard Trimmer & Foil Shaver",
-      "url": "https://www.amazon.com/dp/B0H86GTMCD/ref=cm_sw_r_as_gl_api_gl_i_QEYKT6C7M037YWRTW7MZ?linkCode=ml1&tag=noya0b-20&linkId=4293193bac573be852bf352439136f07&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-13T11:20:23.477Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51xmQQLVsQL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
     }
   ],
   "archivedPosts": [
@@ -12827,16 +12827,6 @@
       "category": "Toys & Kids",
       "ts": "2026-09-18T20:30:22.368Z",
       "archivedAt": "2026-10-03T21:10:01.412Z",
-      "status": "archived"
-    },
-    {
-      "slug": "b08qxj31wr-ninja-nutri-blender-pro-with-auto-iq-1100pw-2-24oz-cups-bn40",
-      "asin": "B08QXJ31WR",
-      "title": "\udecd️Ninja Nutri-Blender Pro with Auto iQ, 1100PW, (2) 24oz Cups, BN401",
-      "url": "https://amazon.com/dp/B08QXJ31WR?tag=noya0b-20",
-      "category": "Home & Kitchen",
-      "ts": "2026-09-18T21:04:22.965Z",
-      "archivedAt": "2026-10-03T21:30:00.787Z",
       "status": "archived"
     },
     {
@@ -19227,6 +19217,16 @@
       "category": "Beauty",
       "ts": "2026-10-13T11:00:22.948Z",
       "archivedAt": "2026-11-01T13:10:01.351Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0h86gtmcd-proiyo-3-in-1-hair-clippers-for-men-with-led-beard-trimmer-f",
+      "asin": "B0H86GTMCD",
+      "title": "PROIYO 3-in-1 Hair Clippers for Men with LED, Beard Trimmer & Foil Shaver",
+      "url": "https://www.amazon.com/dp/B0H86GTMCD/ref=cm_sw_r_as_gl_api_gl_i_QEYKT6C7M037YWRTW7MZ?linkCode=ml1&tag=noya0b-20&linkId=4293193bac573be852bf352439136f07&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-13T11:20:23.477Z",
+      "archivedAt": "2026-11-01T13:30:01.565Z",
       "status": "archived"
     }
   ]
