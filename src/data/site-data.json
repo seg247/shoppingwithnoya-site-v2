@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-01T14:20:01.427Z",
+  "generatedAt": "2026-11-01T14:30:01.231Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0djvrwtvg-wongs-bedding-purple-floral-quilt-set-reversible-bedspread-k",
+      "asin": "B0DJVRWTVG",
+      "title": "WONGS BEDDING Purple Floral Quilt Set,Reversible Bedspread King Size | 3 Pieces Colorful Floral Print,Soft and Lightweig",
+      "url": "https://www.amazon.com/dp/B0DJVRWTVG/ref=cmswrasglapaglidl_RKAJEG9XAVYX7W8K0D5T?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-01T14:20:14.946Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51YXdALs78L._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 50% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gfws982x-gutouge-men-s-chukka-combat-ankle-boots-stylish-synthetic-le",
       "asin": "B0GFWS982X",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71PnIxmshbL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8166,22 +8182,6 @@
       "ts": "2026-10-13T13:20:30.076Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/31tjhvfrHFL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0fxlq6s2p-litanika-twin-xl-comforter-set-2-pieces-extra-long-dorm-bedd",
-      "asin": "B0FXLQ6S2P",
-      "title": "Litanika Twin XL Comforter Set, 2 Pieces Extra Long Dorm Bedding",
-      "url": "https://www.amazon.com/dp/B0FXLQ6S2P/ref=cm_sw_r_as_gl_api_gl_i_C12YQKDQ746H22JHGW5V?linkCode=ml1&tag=noya0b-20&linkId=64556adf086f18142a5036e86afdecc1&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-13T13:00:22.150Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51vJOKhq3KL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19247,6 +19247,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-13T12:20:21.354Z",
       "archivedAt": "2026-11-01T14:10:01.533Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fxlq6s2p-litanika-twin-xl-comforter-set-2-pieces-extra-long-dorm-bedd",
+      "asin": "B0FXLQ6S2P",
+      "title": "Litanika Twin XL Comforter Set, 2 Pieces Extra Long Dorm Bedding",
+      "url": "https://www.amazon.com/dp/B0FXLQ6S2P/ref=cm_sw_r_as_gl_api_gl_i_C12YQKDQ746H22JHGW5V?linkCode=ml1&tag=noya0b-20&linkId=64556adf086f18142a5036e86afdecc1&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-13T13:00:22.150Z",
+      "archivedAt": "2026-11-01T14:30:01.231Z",
       "status": "archived"
     }
   ]
