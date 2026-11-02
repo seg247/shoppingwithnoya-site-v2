@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-02T14:20:00.447Z",
+  "generatedAt": "2026-11-02T14:30:01.273Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b09f3sdvkh-the-north-face-flare-womens-vest-tin-grey-small",
+      "asin": "B09F3SDVKH",
+      "title": "The North Face Flare Womens Vest Tin Grey, Small",
+      "url": "https://www.amazon.com/dp/B09F3SDVKH?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-02T14:20:22.517Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/31bzdLH0tAL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0hdbf6g6h-ulecoce-sl03-front-door-lock-set-keyless-entry-door-lock-mat",
       "asin": "B0HDBF6G6H",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/612lm6dEVhL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8214,22 +8230,6 @@
       "ts": "2026-10-15T03:00:43.261Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41+z7tyCCML._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b07sgvxkz9-craftsman-ratcheting-screwdriver-multibit-set-26-piece-cmht6",
-      "asin": "B07SGVXKZ9",
-      "title": "CRAFTSMAN Ratcheting Screwdriver, Multibit Set, 26-Piece (CMHT68001)",
-      "url": "https://www.amazon.com/gp/product/B07SGVXKZ9?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=9c25b98006449971a607252c745afa80&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Tools & Hardware",
-      "ts": "2026-10-15T01:40:18.828Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41WJFq8uSOL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19625,6 +19625,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-14T22:20:20.436Z",
       "archivedAt": "2026-11-02T12:10:00.291Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b07sgvxkz9-craftsman-ratcheting-screwdriver-multibit-set-26-piece-cmht6",
+      "asin": "B07SGVXKZ9",
+      "title": "CRAFTSMAN Ratcheting Screwdriver, Multibit Set, 26-Piece (CMHT68001)",
+      "url": "https://www.amazon.com/gp/product/B07SGVXKZ9?smid=ATVPDKIKX0DER&th=1&linkCode=sl2&tag=noya0b-20&linkId=9c25b98006449971a607252c745afa80&language=en_US&gaOptInStatus=true",
+      "category": "Tools & Hardware",
+      "ts": "2026-10-15T01:40:18.828Z",
+      "archivedAt": "2026-11-02T14:30:01.273Z",
       "status": "archived"
     }
   ]
