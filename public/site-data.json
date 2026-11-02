@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-02T05:00:01.670Z",
+  "generatedAt": "2026-11-02T05:10:01.430Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b07gnwpys2-beauty-deals-luxury-matte-lipstick-luxurious-hydrated-creamy",
+      "asin": "B07GNWPYS2",
+      "title": "Beauty Deals Luxury Matte Lipstick Luxurious Hydrated Creamy Lipstick (Wicked) : Beauty & Personal Care",
+      "url": "https://www.amazon.com/dp/B07GNWPYS2?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-11-02T05:00:51.693Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Em4qK-GrL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0h77f91jw-rechargeable-laser-tag-360-sensors-lcds-set-of-6-birthday-gi",
       "asin": "B0H77F91JW",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8214,22 +8230,6 @@
       "ts": "2026-10-14T13:00:21.094Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41KHaDWzViL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0d47nnpcf-dewalt-atomic-compact-series-push-and-flip-folding-utility-k",
-      "asin": "B0D47NNPCF",
-      "title": "Dewalt Atomic Compact Series Push And Flip Folding Utility Knife",
-      "url": "https://www.amazon.com/dp/B0D47NNPCF/ref=cm_sw_r_as_gl_api_gl_i_0PG3KPZE2XPJATBSEKQJ?linkCode=ml1&tag=noya0b-20&linkId=021c717a5ff57c2632fcad854e380f88&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Tools & Hardware",
-      "ts": "2026-10-14T12:40:18.403Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31c17KQpx3L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19525,6 +19525,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-14T11:40:22.123Z",
       "archivedAt": "2026-11-02T04:50:01.759Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d47nnpcf-dewalt-atomic-compact-series-push-and-flip-folding-utility-k",
+      "asin": "B0D47NNPCF",
+      "title": "Dewalt Atomic Compact Series Push And Flip Folding Utility Knife",
+      "url": "https://www.amazon.com/dp/B0D47NNPCF/ref=cm_sw_r_as_gl_api_gl_i_0PG3KPZE2XPJATBSEKQJ?linkCode=ml1&tag=noya0b-20&linkId=021c717a5ff57c2632fcad854e380f88&gaOptInStatus=true",
+      "category": "Tools & Hardware",
+      "ts": "2026-10-14T12:40:18.403Z",
+      "archivedAt": "2026-11-02T05:10:01.430Z",
       "status": "archived"
     }
   ]
