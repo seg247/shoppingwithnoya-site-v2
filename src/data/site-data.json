@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-02T21:20:00.376Z",
+  "generatedAt": "2026-11-02T21:30:02.809Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0hjg54tv2-acer-aspire-lite-15-laptop-with-office-365-16gb-ram-1tb-clou",
+      "asin": "B0HJG54TV2",
+      "title": "Acer Aspire Lite 15 Laptop with Office 365, 16GB RAM, 1TB Cloud Storage and 256GB SSD, Intel 4-Core, 15.6\" FHD (1920 x 1",
+      "url": "https://www.amazon.com/dp/B0HJG54TV2/ref=cmswrasglapaglidl_XQ2QPS3DQSMX4NEMPA0E?tag=noya0b-20",
+      "discount": 38,
+      "rating": "HOT",
+      "category": "Electronics",
+      "ts": "2026-11-02T21:20:20.893Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41F6FsOgekL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 38% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0ggrstr74-tankaneo-womens-satin-silk-shorts-high-waist-lace-lounge-wit",
       "asin": "B0GGRSTR74",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51AtFVkZONL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8210,22 +8226,6 @@
       "ts": "2026-10-16T01:00:23.651Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/315HzszrHsL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0gz5lbq84-lee-kum-kee-oil-sesame-pure-15-oz-pack-of-6-sesame-oil-toast",
-      "asin": "B0GZ5LBQ84",
-      "title": "Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil – Toasted Sesame Oil with Food a Random Item – 7 Total Items",
-      "url": "https://www.amazon.com/dp/B0GZ5LBQ84?psc=1&linkCode=sl2&tag=noya0b-20&linkId=0f6766c4deea91c537fa90204ec305c8&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-10-15T23:20:23.960Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61M1LSvcrZL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19671,6 +19671,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-15T22:00:26.255Z",
       "archivedAt": "2026-11-02T18:10:03.918Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gz5lbq84-lee-kum-kee-oil-sesame-pure-15-oz-pack-of-6-sesame-oil-toast",
+      "asin": "B0GZ5LBQ84",
+      "title": "Lee Kum Kee Oil Sesame Pure 15 oz (Pack of 6) – Sesame Oil – Toasted Sesame Oil with Food a Random Item – 7 Total Items",
+      "url": "https://www.amazon.com/dp/B0GZ5LBQ84?psc=1&linkCode=sl2&tag=noya0b-20&linkId=0f6766c4deea91c537fa90204ec305c8&language=en_US&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-10-15T23:20:23.960Z",
+      "archivedAt": "2026-11-02T21:30:02.809Z",
       "status": "archived"
     }
   ]
