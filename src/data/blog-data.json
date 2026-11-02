@@ -11,8 +11,7 @@
         "Home & Kitchen",
         "Grocery & Food",
         "Garden & Outdoor",
-        "Watches",
-        "Pet Supplies"
+        "Watches"
       ],
       "byCategory": {
         "Electronics": [
@@ -26,6 +25,17 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/51JJo4DroZL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0HJHMM8Z1/ref=cmswrasglapiglidl_NJRZM4X3EH3HWD40VQQ5?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F3PQHWTZ",
+            "slug": "sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+            "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
+            "price": "$378.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
+            "url": "https://www.amazon.com/dp/B0F3PQHWTZ?tag=noya0b-20"
           },
           {
             "asin": "B0GY6YFF22",
@@ -125,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71C4nZlLTDL.jpg",
             "url": "https://www.amazon.com/dp/B0F7R4X377?tag=noya0b-20"
           }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B0GCMGN8C8",
-            "slug": "knka-air-purifiers-for-home-bedroom-up-to-1695-ft-in-1-hr-ap",
-            "title": "KNKA Air Purifiers for Home Bedroom Up to 1,695 Ft² in 1 Hr, APH4000, Black | HEPA Sleep Mode Air Cleaner with Washable Pre-Filter, AHAM VERIFIED, AQI Display, Pet Mode for Pet Dander, Dust & Pollen : Everything Else",
-            "price": "$99.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/715r7358ZBL.jpg",
-            "url": "https://www.amazon.com/dp/B0GCMGN8C8?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -173,6 +170,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41-bT9fk4TL._SL500_.jpg",
           "url": "https://www.amazon.com/Ulecoce-SL03-Deadbolt-One-Touch-Anti-Peep/dp/B0HDBF6G6H?tag=noya0b-20"
+        },
+        {
+          "asin": "B0F3PQHWTZ",
+          "slug": "sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+          "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
+          "price": "$378.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
+          "url": "https://www.amazon.com/dp/B0F3PQHWTZ?tag=noya0b-20"
         },
         {
           "asin": "B09SLW42LJ",
@@ -239,17 +247,6 @@
           "category": "Watches",
           "imageUrl": "https://m.media-amazon.com/images/I/71C4nZlLTDL.jpg",
           "url": "https://www.amazon.com/dp/B0F7R4X377?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GCMGN8C8",
-          "slug": "knka-air-purifiers-for-home-bedroom-up-to-1695-ft-in-1-hr-ap",
-          "title": "KNKA Air Purifiers for Home Bedroom Up to 1,695 Ft² in 1 Hr, APH4000, Black | HEPA Sleep Mode Air Cleaner with Washable Pre-Filter, AHAM VERIFIED, AQI Display, Pet Mode for Pet Dander, Dust & Pollen : Everything Else",
-          "price": "$99.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/715r7358ZBL.jpg",
-          "url": "https://www.amazon.com/dp/B0GCMGN8C8?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-02T16:00:00.623Z",
-      "updatedAt": "2026-11-02T16:00:00.623Z"
+      "generatedAt": "2026-11-02T16:10:01.576Z",
+      "updatedAt": "2026-11-02T16:10:01.576Z"
     },
     {
       "date": "2026-11-01",
@@ -16280,5 +16277,5 @@
       "updatedAt": "2026-09-05T03:50:01.535Z"
     }
   ],
-  "generatedAt": "2026-11-02T16:00:00.629Z"
+  "generatedAt": "2026-11-02T16:10:01.582Z"
 }
