@@ -10,8 +10,8 @@
         "Electronics",
         "Other",
         "Grocery & Food",
-        "Fashion",
-        "Garden & Outdoor"
+        "Beauty",
+        "Fashion"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -86,6 +86,19 @@
             "url": "https://www.amazon.com/dp/B0FYKGVZZ1?tag=noya0b-20"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B0FHWXDSJ9",
+            "slug": "philips-norelco-body-groomer-5000-body-balls-dual-head-trimm",
+            "title": "Philips Norelco Body Groomer 5000, Body & Balls, Dual Head Trimmer & Shaver | Dual Head Trim & Shave for Full-Body & Int",
+            "price": "49.96",
+            "discount": 33,
+            "rating": "HOT",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/411UNRxDjRL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FHWXDSJ9?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0HDBF6G6H",
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/31kelIFh5LL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FQW8SMDT?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B09WKN9RMK",
-            "slug": "115-inches-candle-holder-tray-home-decor-round-wood-tray-for",
-            "title": "11.5 Inches Candle Holder Tray Home Decor, Round Wood Tray for Coffee Table, Small Wooden Serving Decorative Trays for Home",
-            "price": "$12.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71M09e8jixL.jpg",
-            "url": "https://www.amazon.com/dp/B09WKN9RMK?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -170,6 +170,17 @@
           "category": "Grocery & Food",
           "imageUrl": "https://m.media-amazon.com/images/I/411taeibx0L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0FYKGVZZ1?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FHWXDSJ9",
+          "slug": "philips-norelco-body-groomer-5000-body-balls-dual-head-trimm",
+          "title": "Philips Norelco Body Groomer 5000, Body & Balls, Dual Head Trimmer & Shaver | Dual Head Trim & Shave for Full-Body & Int",
+          "price": "49.96",
+          "discount": 33,
+          "rating": "HOT",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/411UNRxDjRL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FHWXDSJ9?tag=noya0b-20"
         },
         {
           "asin": "B0HDBF6G6H",
@@ -236,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/31bzdLH0tAL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B09F3SDVKH?tag=noya0b-20"
-        },
-        {
-          "asin": "B09WKN9RMK",
-          "slug": "115-inches-candle-holder-tray-home-decor-round-wood-tray-for",
-          "title": "11.5 Inches Candle Holder Tray Home Decor, Round Wood Tray for Coffee Table, Small Wooden Serving Decorative Trays for Home",
-          "price": "$12.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71M09e8jixL.jpg",
-          "url": "https://www.amazon.com/dp/B09WKN9RMK?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -256,7 +256,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 50% off on \"Fancy Feast Purina Gems Pate Mousse with Gravy Wet Cat Food ...\". There are 4 deals with verified discounts today."
+          "a": "The biggest discount today is 50% off on \"Fancy Feast Purina Gems Pate Mousse with Gravy Wet Cat Food ...\". There are 5 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-02T17:00:02.806Z",
-      "updatedAt": "2026-11-02T17:00:02.806Z"
+      "generatedAt": "2026-11-02T17:10:01.380Z",
+      "updatedAt": "2026-11-02T17:10:01.380Z"
     },
     {
       "date": "2026-11-01",
@@ -16277,5 +16277,5 @@
       "updatedAt": "2026-09-05T03:50:01.535Z"
     }
   ],
-  "generatedAt": "2026-11-02T17:00:02.814Z"
+  "generatedAt": "2026-11-02T17:10:01.386Z"
 }
