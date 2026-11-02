@@ -10,8 +10,7 @@
         "Electronics",
         "Tools & Hardware",
         "Grocery & Food",
-        "Beauty",
-        "Other"
+        "Beauty"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -60,20 +59,18 @@
             "url": "https://www.amazon.com/dp/B01N10W021/ref=cmswrasglapaglidl_7Z855Z940ENHPKXAG1KC?tag=noya0b-20"
           }
         ],
-        "Tools & Hardware": [
-          {
-            "asin": "B0BV17VLYG",
-            "slug": "dewalt-20v-max-impact-driver-14-inch-battery-and-charger-inc",
-            "title": "DEWALT 20V MAX Impact Driver, 1/4 Inch, Battery and Charger Included (DCF787D1)",
-            "price": "99",
-            "discount": 45,
-            "rating": "HOT",
-            "category": "Tools & Hardware",
-            "imageUrl": "https://m.media-amazon.com/images/I/41oQqwmQFOL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B0BV17VLYG/ref=cmswrasglapaglidl_JHA6XDX0BGQYZK9QFQWF?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
+          {
+            "asin": "B0C62MHK2Z",
+            "slug": "like-new-ring-outdoor-cam-stick-up-cam-weather-resistant-hom",
+            "title": "Like-New Ring Outdoor Cam (Stick Up Cam), Weather-resistant home or business security camera, outdoor ready, Live View, ",
+            "price": "34.99",
+            "discount": 51,
+            "rating": "FIRE",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/315F7FuF3tL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0C62MHK2Z/ref=cmswrasglapaglidl_12YKNCVQ3ZWQJ4NPSRZT?tag=noya0b-20"
+          },
           {
             "asin": "B0HJHMM8Z1",
             "slug": "wireless-carplay-adapter-for-iphoneandroid-auto-suitable-for",
@@ -95,6 +92,19 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/41F6FsOgekL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0HJG54TV2/ref=cmswrasglapaglidl_XQ2QPS3DQSMX4NEMPA0E?tag=noya0b-20"
+          }
+        ],
+        "Tools & Hardware": [
+          {
+            "asin": "B0BV17VLYG",
+            "slug": "dewalt-20v-max-impact-driver-14-inch-battery-and-charger-inc",
+            "title": "DEWALT 20V MAX Impact Driver, 1/4 Inch, Battery and Charger Included (DCF787D1)",
+            "price": "99",
+            "discount": 45,
+            "rating": "HOT",
+            "category": "Tools & Hardware",
+            "imageUrl": "https://m.media-amazon.com/images/I/41oQqwmQFOL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0BV17VLYG/ref=cmswrasglapaglidl_JHA6XDX0BGQYZK9QFQWF?tag=noya0b-20"
           }
         ],
         "Grocery & Food": [
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/411UNRxDjRL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FHWXDSJ9?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0HDBF6G6H",
-            "slug": "ulecoce-sl03-front-door-lock-set-keyless-entry-door-lock-mat",
-            "title": "Ulecoce SL03 Front Door Lock Set, Keyless Entry Door Lock, Matte Black | Keypad Deadbolt with App Control, ANSI Grade 3 ",
-            "price": "67.99",
-            "discount": 15,
-            "rating": "GOOD",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/41-bT9fk4TL._SL500_.jpg",
-            "url": "https://www.amazon.com/Ulecoce-SL03-Deadbolt-One-Touch-Anti-Peep/dp/B0HDBF6G6H?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -148,6 +145,17 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51l9zJd3M6L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0HKMT8THR/ref=cmswrasglapaglidl_W28CEGEFM1A2JD53XG7V?tag=noya0b-20"
+        },
+        {
+          "asin": "B0C62MHK2Z",
+          "slug": "like-new-ring-outdoor-cam-stick-up-cam-weather-resistant-hom",
+          "title": "Like-New Ring Outdoor Cam (Stick Up Cam), Weather-resistant home or business security camera, outdoor ready, Live View, ",
+          "price": "34.99",
+          "discount": 51,
+          "rating": "FIRE",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/315F7FuF3tL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0C62MHK2Z/ref=cmswrasglapaglidl_12YKNCVQ3ZWQJ4NPSRZT?tag=noya0b-20"
         },
         {
           "asin": "B0G2F5JSPX",
@@ -236,17 +244,6 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/518N6jzlQ7L._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B01N10W021/ref=cmswrasglapaglidl_7Z855Z940ENHPKXAG1KC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0HDBF6G6H",
-          "slug": "ulecoce-sl03-front-door-lock-set-keyless-entry-door-lock-mat",
-          "title": "Ulecoce SL03 Front Door Lock Set, Keyless Entry Door Lock, Matte Black | Keypad Deadbolt with App Control, ANSI Grade 3 ",
-          "price": "67.99",
-          "discount": 15,
-          "rating": "GOOD",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/41-bT9fk4TL._SL500_.jpg",
-          "url": "https://www.amazon.com/Ulecoce-SL03-Deadbolt-One-Touch-Anti-Peep/dp/B0HDBF6G6H?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-02T23:00:02.521Z",
-      "updatedAt": "2026-11-02T23:00:02.521Z"
+      "generatedAt": "2026-11-02T23:10:02.177Z",
+      "updatedAt": "2026-11-02T23:10:02.177Z"
     },
     {
       "date": "2026-11-01",
@@ -16277,5 +16274,5 @@
       "updatedAt": "2026-09-05T03:50:01.535Z"
     }
   ],
-  "generatedAt": "2026-11-02T23:00:02.527Z"
+  "generatedAt": "2026-11-02T23:10:02.184Z"
 }
