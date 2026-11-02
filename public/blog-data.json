@@ -10,8 +10,8 @@
         "Other",
         "Home & Kitchen",
         "Grocery & Food",
-        "Garden & Outdoor",
-        "Watches"
+        "Fashion",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Electronics": [
@@ -86,6 +86,19 @@
             "url": "https://www.amazon.com/dp/B09F3SDVKH?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0FQW8SMDT",
+            "slug": "adidas-unisex-kids-goletto-ix-laceless-firm-groundmulti-grou",
+            "title": "adidas Unisex-Kids Goletto IX Laceless Firm Ground/Multi Ground, White/Team Royal Blue/Better Scarlet, 2.5",
+            "price": "35",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/31kelIFh5LL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0FQW8SMDT?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B09SLW42LJ",
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71M09e8jixL.jpg",
             "url": "https://www.amazon.com/dp/B09WKN9RMK?tag=noya0b-20"
           }
-        ],
-        "Watches": [
-          {
-            "asin": "B0F7R4X377",
-            "slug": "popoiron-rechargeable-led-wall-sconces-set-of-twowall-lights",
-            "title": "PopoIron Rechargeable LED Wall Sconces Set of Two,Wall Lights for Bedroom with Remote Control and Touch,360° Magnetic Rotation,3 Colors Dimmable Brightness Wood Wall Lamps with 15 RGB Colors,2 Pack",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Watches",
-            "imageUrl": "https://m.media-amazon.com/images/I/71C4nZlLTDL.jpg",
-            "url": "https://www.amazon.com/dp/B0F7R4X377?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -170,6 +170,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41-bT9fk4TL._SL500_.jpg",
           "url": "https://www.amazon.com/Ulecoce-SL03-Deadbolt-One-Touch-Anti-Peep/dp/B0HDBF6G6H?tag=noya0b-20"
+        },
+        {
+          "asin": "B0FQW8SMDT",
+          "slug": "adidas-unisex-kids-goletto-ix-laceless-firm-groundmulti-grou",
+          "title": "adidas Unisex-Kids Goletto IX Laceless Firm Ground/Multi Ground, White/Team Royal Blue/Better Scarlet, 2.5",
+          "price": "35",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/31kelIFh5LL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0FQW8SMDT?tag=noya0b-20"
         },
         {
           "asin": "B0F3PQHWTZ",
@@ -236,17 +247,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61bNwfyyzCL.jpg",
           "url": "https://www.amazon.com/dp/B0GY6YFF22?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F7R4X377",
-          "slug": "popoiron-rechargeable-led-wall-sconces-set-of-twowall-lights",
-          "title": "PopoIron Rechargeable LED Wall Sconces Set of Two,Wall Lights for Bedroom with Remote Control and Touch,360° Magnetic Rotation,3 Colors Dimmable Brightness Wood Wall Lamps with 15 RGB Colors,2 Pack",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Watches",
-          "imageUrl": "https://m.media-amazon.com/images/I/71C4nZlLTDL.jpg",
-          "url": "https://www.amazon.com/dp/B0F7R4X377?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-02T16:20:01.192Z",
-      "updatedAt": "2026-11-02T16:20:01.193Z"
+      "generatedAt": "2026-11-02T16:30:02.605Z",
+      "updatedAt": "2026-11-02T16:30:02.606Z"
     },
     {
       "date": "2026-11-01",
@@ -16277,5 +16277,5 @@
       "updatedAt": "2026-09-05T03:50:01.535Z"
     }
   ],
-  "generatedAt": "2026-11-02T16:20:01.199Z"
+  "generatedAt": "2026-11-02T16:30:02.611Z"
 }
