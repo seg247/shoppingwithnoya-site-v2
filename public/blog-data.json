@@ -10,7 +10,8 @@
         "Electronics",
         "Tools & Hardware",
         "Grocery & Food",
-        "Beauty"
+        "Beauty",
+        "Toys & Games"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -46,17 +47,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/21+GEoCCkXL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0G4BLTRSD/ref=cmswrasglapaglidl_QGVQMHRBBFJ9MV0G0HYB?tag=noya0b-20"
-          },
-          {
-            "asin": "B01N10W021",
-            "slug": "woolly-mammoth-merino-wool-blanket-fall-camping-blanket-66x9",
-            "title": "Woolly Mammoth Merino Wool Blanket, Fall Camping Blanket, 66\"x90\" Moss | Military Style Heavy Wool Blankets for Survival",
-            "price": "34.84",
-            "discount": 19,
-            "rating": "GOOD",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/518N6jzlQ7L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B01N10W021/ref=cmswrasglapaglidl_7Z855Z940ENHPKXAG1KC?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -131,6 +121,19 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/411UNRxDjRL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FHWXDSJ9?tag=noya0b-20"
+          }
+        ],
+        "Toys & Games": [
+          {
+            "asin": "B0DHLJ6TR9",
+            "slug": "lego-botanicals-pretty-pink-flower-bouquet-building-set-for",
+            "title": "LEGO Botanicals Pretty Pink Flower Bouquet Building Set for Adults - Gifts for Birthdays - Artificial Flowers for Decor or Table Display - 10342",
+            "price": "47.99",
+            "discount": 20,
+            "rating": "WARM",
+            "category": "Toys & Games",
+            "imageUrl": "https://m.media-amazon.com/images/I/515liaDUEoL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0DHLJ6TR9?tag=noya0b-20"
           }
         ]
       },
@@ -235,15 +238,15 @@
           "url": "https://www.amazon.com/dp/B0G4BLTRSD/ref=cmswrasglapaglidl_QGVQMHRBBFJ9MV0G0HYB?tag=noya0b-20"
         },
         {
-          "asin": "B01N10W021",
-          "slug": "woolly-mammoth-merino-wool-blanket-fall-camping-blanket-66x9",
-          "title": "Woolly Mammoth Merino Wool Blanket, Fall Camping Blanket, 66\"x90\" Moss | Military Style Heavy Wool Blankets for Survival",
-          "price": "34.84",
-          "discount": 19,
-          "rating": "GOOD",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/518N6jzlQ7L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B01N10W021/ref=cmswrasglapaglidl_7Z855Z940ENHPKXAG1KC?tag=noya0b-20"
+          "asin": "B0DHLJ6TR9",
+          "slug": "lego-botanicals-pretty-pink-flower-bouquet-building-set-for",
+          "title": "LEGO Botanicals Pretty Pink Flower Bouquet Building Set for Adults - Gifts for Birthdays - Artificial Flowers for Decor or Table Display - 10342",
+          "price": "47.99",
+          "discount": 20,
+          "rating": "WARM",
+          "category": "Toys & Games",
+          "imageUrl": "https://m.media-amazon.com/images/I/515liaDUEoL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0DHLJ6TR9?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-03T03:40:02.526Z",
-      "updatedAt": "2026-11-03T03:40:02.526Z"
+      "generatedAt": "2026-11-03T03:48:41.150Z",
+      "updatedAt": "2026-11-03T03:48:41.150Z"
     },
     {
       "date": "2026-11-01",
@@ -16274,5 +16277,5 @@
       "updatedAt": "2026-09-05T03:50:01.535Z"
     }
   ],
-  "generatedAt": "2026-11-03T03:40:02.532Z"
+  "generatedAt": "2026-11-03T03:48:41.157Z"
 }
