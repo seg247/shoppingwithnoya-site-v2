@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-03T07:40:01.477Z",
+  "generatedAt": "2026-11-03T07:50:01.083Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0fs963qy8-avatar-frontiers-of-pandora-from-the-ashes-edition-playstati",
+      "asin": "B0FS963QY8",
+      "title": "Avatar: Frontiers of Pandora From the Ashes Edition (PlayStation 5)",
+      "url": "https://www.amazon.com/dp/B0FS963QY8?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-11-03T07:40:38.148Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81vX3-m52TL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b07mbxwx1c-logitech-g-farm-simulator-bundle-2nd-generation-steering-whe",
       "asin": "B07MBXWX1C",
@@ -476,11 +496,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/717B4NfIqbL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8278,22 +8294,6 @@
       "ts": "2026-10-16T13:20:19.732Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41jo0BW9ftL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0cqbyvgpf-blisstrends-magnetic-screen-door-mesh-screen-doors-38-83-doo",
-      "asin": "B0CQBYVGPF",
-      "title": "BlissTrends Magnetic Screen Door, Mesh Screen Doors，38\"×83\" | Door Screen Magnetic Closure, Patio Screens for Patios Out",
-      "url": "https://www.amazon.com/dp/B0CQBYVGPF/ref=cm_sw_r_as_gl_api_gl_i_4SESX7DMAK362HRHVD5Y?linkCode=ml1&tag=noya0b-20&linkId=353066b52c8201b4c9f7f5c9ceb7b56f&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Garden & Outdoor",
-      "ts": "2026-10-16T13:00:25.602Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51P77q9OtFL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19909,6 +19909,16 @@
       "category": "Beauty",
       "ts": "2026-10-16T12:40:20.060Z",
       "archivedAt": "2026-11-03T06:50:02.038Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0cqbyvgpf-blisstrends-magnetic-screen-door-mesh-screen-doors-38-83-doo",
+      "asin": "B0CQBYVGPF",
+      "title": "BlissTrends Magnetic Screen Door, Mesh Screen Doors，38\"×83\" | Door Screen Magnetic Closure, Patio Screens for Patios Out",
+      "url": "https://www.amazon.com/dp/B0CQBYVGPF/ref=cm_sw_r_as_gl_api_gl_i_4SESX7DMAK362HRHVD5Y?linkCode=ml1&tag=noya0b-20&linkId=353066b52c8201b4c9f7f5c9ceb7b56f&gaOptInStatus=true",
+      "category": "Garden & Outdoor",
+      "ts": "2026-10-16T13:00:25.602Z",
+      "archivedAt": "2026-11-03T07:50:01.083Z",
       "status": "archived"
     }
   ]
