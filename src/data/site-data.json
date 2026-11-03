@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-03T06:40:01.929Z",
+  "generatedAt": "2026-11-03T06:50:02.038Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0cl9cg87n-amazon-basics-smart-plug-with-timer-function-voice-control-w",
+      "asin": "B0CL9CG87N",
+      "title": "Amazon Basics Smart Plug with Timer Function, Voice Control, WiFi Outlet, Works with Alexa Only, Schedule, APP Control, 2.4 GHz Wi-Fi, No Hub Required, 2-Pack, White",
+      "url": "https://www.amazon.com/dp/B0CL9CG87N?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Smart Home",
+      "ts": "2026-11-03T06:40:41.731Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Az+NTb+JL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gy8c9c9y-active-noise-cancelling-ear-buds-wireless-earbuds-dual-batte",
       "asin": "B0GY8C9C9Y",
@@ -496,11 +516,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61NuxKHSz-L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8282,22 +8298,6 @@
       "ts": "2026-10-16T13:00:25.602Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51P77q9OtFL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0clh689k7-10-pack-natural-lip-balm-bulk-with-vitamin-e-and-coconut-oil",
-      "asin": "B0CLH689K7",
-      "title": "10 Pack Natural Lip Balm Bulk with Vitamin E and Coconut Oil Valentine's Choice Gift - Moisturizing, Soothing, and Repai",
-      "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_ZYA0VKCKF8K9P5WFP3MA?linkCode=ml1&tag=noya0b-20&linkId=f3efc278cf1f0b62f319f7abd74f9864&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-16T12:40:20.060Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51OzUQ-t95L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -19903,6 +19903,16 @@
       "category": "Fashion",
       "ts": "2026-10-16T12:20:54.544Z",
       "archivedAt": "2026-11-03T05:30:02.337Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0clh689k7-10-pack-natural-lip-balm-bulk-with-vitamin-e-and-coconut-oil",
+      "asin": "B0CLH689K7",
+      "title": "10 Pack Natural Lip Balm Bulk with Vitamin E and Coconut Oil Valentine's Choice Gift - Moisturizing, Soothing, and Repai",
+      "url": "https://www.amazon.com/dp/B0CLH689K7/ref=cm_sw_r_as_gl_api_gl_i_ZYA0VKCKF8K9P5WFP3MA?linkCode=ml1&tag=noya0b-20&linkId=f3efc278cf1f0b62f319f7abd74f9864&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-16T12:40:20.060Z",
+      "archivedAt": "2026-11-03T06:50:02.038Z",
       "status": "archived"
     }
   ]
