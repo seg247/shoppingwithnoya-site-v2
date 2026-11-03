@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-03T11:20:02.283Z",
+  "generatedAt": "2026-11-03T11:30:02.277Z",
   "total": 500,
   "activeTotal": 489,
   "posts": [
+    {
+      "slug": "b0gvtpkjvt-amazon-fire-hd-10-tablet-built-for-relaxation-10-1-vibrant-f",
+      "asin": "B0GVTPKJVT",
+      "title": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Blac",
+      "url": "https://www.amazon.com/dp/B0GVTPKJVT/ref=cmswrasglapaglidl_2XXQRJYW2DR8AN7SN129?tag=noya0b-20",
+      "discount": 53,
+      "rating": "FIRE",
+      "category": "Electronics",
+      "ts": "2026-11-03T11:20:18.214Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41vTSMa6mNL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 53% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0h3jtbwkx-bedsure-gingham-duvet-cover-set-prewashed-bedding-queen-size",
       "asin": "B0H3JTBWKX",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8270,22 +8286,6 @@
         "tone": "warm"
       },
       "feedStatus": "active"
-    },
-    {
-      "slug": "b0fsrw6ybv-amazon-basics-adjustable-wide-28-7-39-4-dog-gates-ideal-for-",
-      "asin": "B0FSRW6YBV",
-      "title": "Amazon Basics Adjustable Wide 28.7–39.4\", Dog Gates, Ideal for Small to Medium Breeds, and Senior Dogs, Dog Gates for Do",
-      "url": "https://www.amazon.com/dp/B0FSRW6YBV/ref=cm_sw_r_as_gl_api_gl_i_856ZRJGM18GRMPF9T62T?linkCode=ml1&tag=noya0b-20&linkId=c4f9dc9a6ab8789fb18684396cde7a73&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-10-16T15:40:19.615Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41ws9OP27UL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
     }
   ],
   "archivedPosts": [
@@ -14310,16 +14310,6 @@
       "status": "archived"
     },
     {
-      "slug": "b0gvtpkjvt-amazon-fire-hd-10-tablet-built-for-relaxation-10-1-vibrant-f",
-      "asin": "B0GVTPKJVT",
-      "title": "\udecd️Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core processor, 4 GB RAM, 32 GB, Bl",
-      "url": "https://www.amazon.com/dp/B0GVTPKJVT/ref=cm_sw_r_as_gl_api_gl_i_dl_6SFGX03MS5G621TZRXMN?linkCode=ml1&tag=noya0b-20&linkId=0c2ee71110e8b7bf49125a91881e9e0c&gaOptInStatus=true",
-      "category": "Electronics",
-      "ts": "2026-09-24T22:41:19.639Z",
-      "archivedAt": "2026-10-07T03:30:35.351Z",
-      "status": "archived"
-    },
-    {
       "slug": "b07rqvl8d5-black-decker-powercrush-multi-function-blender-with-6-cup-gl",
       "asin": "B07RQVL8D5",
       "title": "\udecd️BLACK+DECKER PowerCrush Multi-Function Blender with 6-Cup Glass Jar, 4 Speed Settings, Silver",
@@ -19957,6 +19947,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-16T15:20:21.762Z",
       "archivedAt": "2026-11-03T11:10:02.456Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fsrw6ybv-amazon-basics-adjustable-wide-28-7-39-4-dog-gates-ideal-for-",
+      "asin": "B0FSRW6YBV",
+      "title": "Amazon Basics Adjustable Wide 28.7–39.4\", Dog Gates, Ideal for Small to Medium Breeds, and Senior Dogs, Dog Gates for Do",
+      "url": "https://www.amazon.com/dp/B0FSRW6YBV/ref=cm_sw_r_as_gl_api_gl_i_856ZRJGM18GRMPF9T62T?linkCode=ml1&tag=noya0b-20&linkId=c4f9dc9a6ab8789fb18684396cde7a73&gaOptInStatus=true",
+      "category": "Other",
+      "ts": "2026-10-16T15:40:19.615Z",
+      "archivedAt": "2026-11-03T11:30:02.277Z",
       "status": "archived"
     }
   ]
