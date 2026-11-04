@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-04T15:40:02.280Z",
+  "generatedAt": "2026-11-04T15:50:02.917Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0fhcwy2bb-150-pack-thanksgiving-plates-and-napkins-set-thanksgiving-pl",
+      "asin": "B0FHCWY2BB",
+      "title": "150 Pack Thanksgiving Plates and Napkins Set-Thanksgiving Plates Dinnerware | Thanksgiving Paper Plates and Napkins Dinn",
+      "url": "https://www.amazon.com/Thanksgiving-Napkins-Dinnerware-Disposable-Decorations/dp/B0FHCWY2BB/ref=sr118?tag=noya0b-20",
+      "discount": 29,
+      "rating": "WARM",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-04T15:40:30.912Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qoRRmeaFL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b07d173ffp-150-pcs-thanksgiving-plastic-plates-gold-plastic-plates-set-",
       "asin": "B07D173FFP",
@@ -376,11 +396,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81cYPFGiSdL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8294,22 +8310,6 @@
       "ts": "2026-10-18T03:00:30.074Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61tD8wmck3L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0h5ckp1vd-ultrasonic-retainer-cleaner-machine-42khz-dental-cleaning-po",
-      "asin": "B0H5CKP1VD",
-      "title": "Ultrasonic Retainer Cleaner Machine, 42kHz Dental Cleaning Pod for Dentures, Aligners, Mouth Guards, Jewelry - IPX7 Wate",
-      "url": "https://www.amazon.com/dp/B0H5CKP1VD?th=1&linkCode=sl2&tag=noya0b-20&linkId=efe50594bb470fb7c65077b532bf95d0&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-10-18T02:20:17.530Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41G6k8cxUhL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20215,6 +20215,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-17T16:00:25.444Z",
       "archivedAt": "2026-11-04T13:10:02.277Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0h5ckp1vd-ultrasonic-retainer-cleaner-machine-42khz-dental-cleaning-po",
+      "asin": "B0H5CKP1VD",
+      "title": "Ultrasonic Retainer Cleaner Machine, 42kHz Dental Cleaning Pod for Dentures, Aligners, Mouth Guards, Jewelry - IPX7 Wate",
+      "url": "https://www.amazon.com/dp/B0H5CKP1VD?th=1&linkCode=sl2&tag=noya0b-20&linkId=efe50594bb470fb7c65077b532bf95d0&language=en_US&gaOptInStatus=true",
+      "category": "Fashion",
+      "ts": "2026-10-18T02:20:17.530Z",
+      "archivedAt": "2026-11-04T15:50:02.917Z",
       "status": "archived"
     }
   ]
