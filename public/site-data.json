@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-04T23:40:01.890Z",
+  "generatedAt": "2026-11-04T23:50:02.126Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0f3pt1vbl-sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+      "asin": "B0F3PT1VBL",
+      "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones Midnight Blue | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
+      "url": "https://www.amazon.com/dp/B0F3PT1VBL?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-04T23:40:46.556Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61drDn6HJRL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b017cd6jys-mygift-adjustable-brown-solid-wood-desktop-storage-organizer",
       "asin": "B017CD6JYS",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Md0b7q3NL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8306,22 +8322,6 @@
       "ts": "2026-10-18T14:08:45.262Z",
       "type": "deal",
       "imageUrl": "https://media.ulta.com/i/ulta/2654115?w=1080&h=1080",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0d2rb2wgg-kelool-16-light-up-skeleton-halloween-decorations-1-pack-pos",
-      "asin": "B0D2RB2WGG",
-      "title": "Kelool 16\" Light Up Skeleton Halloween Decorations,1 Pack Posable Skeleton with Movable Joints,Scary Halloween Skeleton ",
-      "url": "https://www.amazon.com/dp/B0D2RB2WGG/ref=cm_sw_r_as_gl_api_gl_i_dl_S0YFY27GG50D6QP3SQ71?linkCode=ml1&tag=noya0b-20&linkId=e7f1a1fef2392182afe47f2eaee3e392&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Health",
-      "ts": "2026-10-18T13:40:17.860Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31dr8HNLk1L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20367,6 +20367,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-18T13:20:24.817Z",
       "archivedAt": "2026-11-04T23:10:01.468Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d2rb2wgg-kelool-16-light-up-skeleton-halloween-decorations-1-pack-pos",
+      "asin": "B0D2RB2WGG",
+      "title": "Kelool 16\" Light Up Skeleton Halloween Decorations,1 Pack Posable Skeleton with Movable Joints,Scary Halloween Skeleton ",
+      "url": "https://www.amazon.com/dp/B0D2RB2WGG/ref=cm_sw_r_as_gl_api_gl_i_dl_S0YFY27GG50D6QP3SQ71?linkCode=ml1&tag=noya0b-20&linkId=e7f1a1fef2392182afe47f2eaee3e392&gaOptInStatus=true",
+      "category": "Health",
+      "ts": "2026-10-18T13:40:17.860Z",
+      "archivedAt": "2026-11-04T23:50:02.126Z",
       "status": "archived"
     }
   ]
