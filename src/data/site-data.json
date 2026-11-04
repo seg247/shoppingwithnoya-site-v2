@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-04T11:00:01.396Z",
+  "generatedAt": "2026-11-04T11:10:01.684Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0dznhxr34-hymokege-twin-xl-comforter-set-5pcs-bed-in-a-bag-bedding-set",
+      "asin": "B0DZNHXR34",
+      "title": "HYMOKEGE Twin XL Comforter Set - 5PCS Bed in a Bag, Bedding Set Light Green | OEKO-TEX, Seersucker All Season Comforter with Sheets, Down-Alternative Fill, Soft & Breathable, Pillowcases & Shams : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0DZNHXR34?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-04T11:00:42.680Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81zb0t3TjML.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b08pq2kwhs-instant-pot-pro-6-qt-10-in-1-electric-pressure-cooker-black-",
       "asin": "B08PQ2KWHS",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/712wyKsNmML.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8286,22 +8302,6 @@
       "promoCode": null,
       "badge": null,
       "feedStatus": "expired"
-    },
-    {
-      "slug": "b08dn1ktrh-16-pack-baby-washcloths-luxury-multicolor-coral-fleece-extra",
-      "asin": "B08DN1KTRH",
-      "title": "16 Pack Baby Washcloths - Luxury Multicolor Coral Fleece - Extra Absorbent and Soft Wash Clothes for Newborns, Infants a",
-      "url": "https://www.amazon.com/dp/B08DN1KTRH/ref=cm_sw_r_as_gl_api_gl_i_dl_P7WWT0JT63HC04XT2NSX?linkCode=ml1&tag=noya0b-20&linkId=403e3cd44907334d5270399b35e7f599&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-10-17T14:00:29.311Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41KlGmSxRqL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
     }
   ],
   "archivedPosts": [
@@ -20193,6 +20193,16 @@
       "category": "Other",
       "ts": "2026-10-17T13:40:25.710Z",
       "archivedAt": "2026-11-04T10:50:01.861Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b08dn1ktrh-16-pack-baby-washcloths-luxury-multicolor-coral-fleece-extra",
+      "asin": "B08DN1KTRH",
+      "title": "16 Pack Baby Washcloths - Luxury Multicolor Coral Fleece - Extra Absorbent and Soft Wash Clothes for Newborns, Infants a",
+      "url": "https://www.amazon.com/dp/B08DN1KTRH/ref=cm_sw_r_as_gl_api_gl_i_dl_P7WWT0JT63HC04XT2NSX?linkCode=ml1&tag=noya0b-20&linkId=403e3cd44907334d5270399b35e7f599&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-10-17T14:00:29.311Z",
+      "archivedAt": "2026-11-04T11:10:01.684Z",
       "status": "archived"
     }
   ]
