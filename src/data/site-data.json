@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-04T19:00:01.933Z",
+  "generatedAt": "2026-11-04T19:10:02.233Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0f2gs1sn6-amazon-com-shark-powerpro-flex-reveal-plus-cordless-vacuum-j",
+      "asin": "B0F2GS1SN6",
+      "title": "Amazon.com - Shark PowerPro Flex Reveal Plus Cordless Vacuum, Java, IZ382H | FloorDetect & Dirt-Reveal Technology, HEPA Filter, for Carpets & Hard Floors, up to 50-Min Runtime, Powerful Pet Hair Pickup",
+      "url": "https://www.amazon.com/dp/B0F2GS1SN6?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-04T19:00:49.953Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71nOa4u5z0L.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0f1tlr7hc-seaform-women-s-bikini-sets-2-piece-tummy-control-high-waist",
       "asin": "B0F1TLR7HC",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/813uLwdRhiL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8286,22 +8302,6 @@
       "ts": "2026-10-18T10:00:20.980Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41sz8zDJ99S._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0bb6nj6n1-pax-22oz-sports-water-bottle-squeeze-to-squirt-water-bottle-",
-      "asin": "B0BB6NJ6N1",
-      "title": "PAX 22oz Sports Water Bottle, Squeeze To Squirt Water Bottle, Biking Cycling Bottles Fit in Bike Cages, BPA Free, Great ",
-      "url": "https://www.amazon.com/dp/B0BB6NJ6N1/ref=cm_sw_r_as_gl_api_gl_i_XQM5D2A3DXZ02MR0QMMD?linkCode=ml1&tag=noya0b-20&linkId=14f4f3de3d9046f4d57682859534b75a&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-10-18T09:00:25.801Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31tpD5GU0HL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20267,6 +20267,16 @@
       "category": "Fashion",
       "ts": "2026-10-18T08:40:18.924Z",
       "archivedAt": "2026-11-04T18:50:02.159Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bb6nj6n1-pax-22oz-sports-water-bottle-squeeze-to-squirt-water-bottle-",
+      "asin": "B0BB6NJ6N1",
+      "title": "PAX 22oz Sports Water Bottle, Squeeze To Squirt Water Bottle, Biking Cycling Bottles Fit in Bike Cages, BPA Free, Great ",
+      "url": "https://www.amazon.com/dp/B0BB6NJ6N1/ref=cm_sw_r_as_gl_api_gl_i_XQM5D2A3DXZ02MR0QMMD?linkCode=ml1&tag=noya0b-20&linkId=14f4f3de3d9046f4d57682859534b75a&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-10-18T09:00:25.801Z",
+      "archivedAt": "2026-11-04T19:10:02.233Z",
       "status": "archived"
     }
   ]
