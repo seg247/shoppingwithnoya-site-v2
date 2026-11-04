@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-04T06:20:02.333Z",
+  "generatedAt": "2026-11-04T06:30:01.493Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0f3qjld3b-sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+      "asin": "B0F3QJLD3B",
+      "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Silver | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
+      "url": "https://www.amazon.com/dp/B0F3QJLD3B?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-04T06:20:48.764Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61JI1UpiU4L.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gbvjd56n-yeoreo-workout-womens-straight-leggings-29-eddiy-yoga-pants-",
       "asin": "B0GBVJD56N",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71M9INOy8jL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8278,22 +8294,6 @@
       "ts": "2026-10-17T11:20:21.961Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41q3qILzX9L._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0bmfztcpy-ekouaer-pajamas-womens-long-sleeve-sleepwear-button-down-lou",
-      "asin": "B0BMFZTCPY",
-      "title": "Ekouaer Pajamas Womens Long Sleeve Sleepwear Button Down Loungewear Pjs Set | Comfy Soft,Classic Notch Collar,2 Piece Ma",
-      "url": "https://www.amazon.com/dp/B0BMFZTCPY/ref=cm_sw_r_as_gl_api_gl_i_dl_PC3JCREWQB52WEW5PHKS?linkCode=ml1&tag=noya0b-20&linkId=898e701b61793cf5f40ad49ace8d14b1&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-10-17T11:00:21.175Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41XP0PBdhJL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20099,6 +20099,16 @@
       "category": "Health",
       "ts": "2026-10-17T10:40:19.010Z",
       "archivedAt": "2026-11-04T06:10:01.384Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bmfztcpy-ekouaer-pajamas-womens-long-sleeve-sleepwear-button-down-lou",
+      "asin": "B0BMFZTCPY",
+      "title": "Ekouaer Pajamas Womens Long Sleeve Sleepwear Button Down Loungewear Pjs Set | Comfy Soft,Classic Notch Collar,2 Piece Ma",
+      "url": "https://www.amazon.com/dp/B0BMFZTCPY/ref=cm_sw_r_as_gl_api_gl_i_dl_PC3JCREWQB52WEW5PHKS?linkCode=ml1&tag=noya0b-20&linkId=898e701b61793cf5f40ad49ace8d14b1&gaOptInStatus=true",
+      "category": "Fashion",
+      "ts": "2026-10-17T11:00:21.175Z",
+      "archivedAt": "2026-11-04T06:30:01.493Z",
       "status": "archived"
     }
   ]
