@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-05T20:40:00.760Z",
+  "generatedAt": "2026-11-05T20:50:01.504Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0cmgmcwyg-barbie-skipper-doll-nursery-playset-with-accessories-with-ac",
+      "asin": "B0CMGMCWYG",
+      "title": "Barbie Skipper Doll & Nursery Playset with Accessories | with Accessories, Includes Twin Baby Dolls, Crib, Swing, See-Sa",
+      "url": "https://www.amazon.com/dp/B0CMGMCWYG?tag=noya0b-20",
+      "discount": 45,
+      "rating": "HOT",
+      "category": "Toys & Kids",
+      "ts": "2026-11-05T20:40:24.686Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41J7ow0OwuL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 45% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0h2hh8d36-miracase-magnetic-for-iphone-16-case-silicone-wave-case-pati",
       "asin": "B0H2HH8D36",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Bg5bpM9-L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8338,22 +8354,6 @@
       "ts": "2026-10-19T16:20:28.851Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/316cWCPYkEL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b09j1vjhnf-splash-refresher-flavored-water-bottles-acai-grape-flavor-12",
-      "asin": "B09J1VJHNF",
-      "title": "SPLASH REFRESHER Flavored Water Bottles, Acai Grape Flavor - 12 Pack | Refreshing Flavored Bottled Water with Electrolyt",
-      "url": "https://www.amazon.com/dp/B09J1VJHNF?th=1&linkCode=sl2&tag=noya0b-20&linkId=abbafeb16d4aa10e9ddcb5b47beb3f18&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-10-19T16:00:26.761Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41G6cUMYGPL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20599,6 +20599,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-19T13:20:24.983Z",
       "archivedAt": "2026-11-05T19:50:02.228Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b09j1vjhnf-splash-refresher-flavored-water-bottles-acai-grape-flavor-12",
+      "asin": "B09J1VJHNF",
+      "title": "SPLASH REFRESHER Flavored Water Bottles, Acai Grape Flavor - 12 Pack | Refreshing Flavored Bottled Water with Electrolyt",
+      "url": "https://www.amazon.com/dp/B09J1VJHNF?th=1&linkCode=sl2&tag=noya0b-20&linkId=abbafeb16d4aa10e9ddcb5b47beb3f18&language=en_US&gaOptInStatus=true",
+      "category": "Grocery & Food",
+      "ts": "2026-10-19T16:00:26.761Z",
+      "archivedAt": "2026-11-05T20:50:01.504Z",
       "status": "archived"
     }
   ]
