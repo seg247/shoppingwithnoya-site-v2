@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-05T17:00:02.260Z",
+  "generatedAt": "2026-11-05T17:10:02.491Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0h5vjz61v-9ft-christmas-norfolk-pine-garland-with-lights-real-touch-ma",
+      "asin": "B0H5VJZ61V",
+      "title": "9FT Christmas Norfolk Pine Garland with Lights, Real Touch Mantle Decor | Pre-Lit Realistic Thick Pine Garland, Green Ch",
+      "url": "https://www.amazon.com/dp/B0H5VJZ61V?tag=noya0b-20",
+      "discount": 35,
+      "rating": "HOT",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-05T17:00:22.952Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51wjk1fZnZL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 35% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0d6rt162m-niorasen-merino-wool-socks-for-men-women-thermal-winter-crew",
       "asin": "B0D6RT162M",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8338,22 +8354,6 @@
       "ts": "2026-10-19T11:00:27.646Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/5100QT3+4iL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0gzzlcdlt-slow-feeder-dog-licking-bowl-with-rolling-ball-lick-toy-anti",
-      "asin": "B0GZZLCDLT",
-      "title": "Slow Feeder Dog Licking Bowl with Rolling Ball, Lick Toy, Anti Boredom Toys",
-      "url": "https://www.amazon.com/dp/B0GZZLCDLT/ref=cm_sw_r_as_gl_api_gl_i_QQPMKCEB9MA41SH18DJT?linkCode=ml1&tag=noya0b-20&linkId=70e9e74c3aba85bd1925bca5fbb1d95b&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-10-19T10:40:23.995Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51FqN4fNcbL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20519,6 +20519,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-19T09:40:18.832Z",
       "archivedAt": "2026-11-05T16:50:01.770Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gzzlcdlt-slow-feeder-dog-licking-bowl-with-rolling-ball-lick-toy-anti",
+      "asin": "B0GZZLCDLT",
+      "title": "Slow Feeder Dog Licking Bowl with Rolling Ball, Lick Toy, Anti Boredom Toys",
+      "url": "https://www.amazon.com/dp/B0GZZLCDLT/ref=cm_sw_r_as_gl_api_gl_i_QQPMKCEB9MA41SH18DJT?linkCode=ml1&tag=noya0b-20&linkId=70e9e74c3aba85bd1925bca5fbb1d95b&gaOptInStatus=true",
+      "category": "Home & Kitchen",
+      "ts": "2026-10-19T10:40:23.995Z",
+      "archivedAt": "2026-11-05T17:10:02.491Z",
       "status": "archived"
     }
   ]
