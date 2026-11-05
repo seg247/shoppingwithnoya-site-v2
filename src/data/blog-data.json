@@ -4,15 +4,50 @@
       "date": "2026-11-05",
       "slug": "2026-11-05",
       "title": "🔥 Best Deals Today — November 5, 2026",
-      "intro": "Today's best online deals for Thursday, November 5, 2026 — 10 hand-picked discounts across Other, Electronics, Gold Box Deal and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, November 5, 2026 — 10 hand-picked discounts across Other, Gold Box Deal, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Electronics",
         "Gold Box Deal",
+        "Electronics",
         "Beauty",
         "Home & Kitchen"
       ],
       "byCategory": {
+        "Gold Box Deal": [
+          {
+            "asin": "B0GR234RX9",
+            "slug": "extra-deep-pocket-twin-xl-size-sheet-set-breathable-cooling",
+            "title": "Extra Deep Pocket Twin XL Size Sheet Set - Breathable & Cooling - Sky Blue | Hotel Luxury Bedding with 16 to 21 inch Extra Deep Pockets, Ultra-Soft, Comfy Bed Sheets, Fade & Wrinkle Resistant, Oeko-Tex : Home & Kitchen",
+            "price": "$16.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/61K4LW1Ya3L.jpg",
+            "url": "https://www.amazon.com/dp/B0GR234RX9?tag=noya0b-20"
+          },
+          {
+            "asin": "B0BSLJY9M3",
+            "slug": "bedsure-sky-blue-duvet-cover-king-size-3-pieces-prewashed-co",
+            "title": "Bedsure Sky Blue Duvet Cover King Size - 3 Pieces Prewashed Cotton-Like Polyester Extra Soft Bedding Set, Includes 1 Duvet Cover 104x90 Inches with Zipper Closure & 2 Pillow Shams, No Comforter : Home & Kitchen",
+            "price": "$25.19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/81M0Ya3V6LL.jpg",
+            "url": "https://www.amazon.com/dp/B0BSLJY9M3?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F3PQHWTZ",
+            "slug": "sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+            "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery : Electronics",
+            "price": "$378.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
+            "url": "https://www.amazon.com/dp/B0F3PQHWTZ?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B083Z41DQS",
@@ -70,41 +105,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61qv3ex8xIL.jpg",
             "url": "https://www.amazon.com/dp/B07KKCT187?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CN9GXC2R",
-            "slug": "bose-quietcomfort-headphones-moonstone-blue",
-            "title": "Bose QuietComfort Headphones - Moonstone Blue",
-            "price": "$189.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ZcfE6zrgL.jpg",
-            "url": "https://www.amazon.com/dp/B0CN9GXC2R?tag=noya0b-20"
-          }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0BSLJY9M3",
-            "slug": "bedsure-sky-blue-duvet-cover-king-size-3-pieces-prewashed-co",
-            "title": "Bedsure Sky Blue Duvet Cover King Size - 3 Pieces Prewashed Cotton-Like Polyester Extra Soft Bedding Set, Includes 1 Duvet Cover 104x90 Inches with Zipper Closure & 2 Pillow Shams, No Comforter : Home & Kitchen",
-            "price": "$25.19",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/81M0Ya3V6LL.jpg",
-            "url": "https://www.amazon.com/dp/B0BSLJY9M3?tag=noya0b-20"
-          },
-          {
-            "asin": "B0F3PQHWTZ",
-            "slug": "sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
-            "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery : Electronics",
-            "price": "$378.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
-            "url": "https://www.amazon.com/dp/B0F3PQHWTZ?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0GR234RX9",
+          "slug": "extra-deep-pocket-twin-xl-size-sheet-set-breathable-cooling",
+          "title": "Extra Deep Pocket Twin XL Size Sheet Set - Breathable & Cooling - Sky Blue | Hotel Luxury Bedding with 16 to 21 inch Extra Deep Pockets, Ultra-Soft, Comfy Bed Sheets, Fade & Wrinkle Resistant, Oeko-Tex : Home & Kitchen",
+          "price": "$16.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/61K4LW1Ya3L.jpg",
+          "url": "https://www.amazon.com/dp/B0GR234RX9?tag=noya0b-20"
+        },
         {
           "asin": "B083Z41DQS",
           "slug": "hiboy-s2-electric-scooter-85-solid-tires-up-to-17-miles-long",
@@ -233,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/710DlLQLHjL.jpg",
           "url": "https://www.amazon.com/dp/B0F1N21NKM?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CN9GXC2R",
-          "slug": "bose-quietcomfort-headphones-moonstone-blue",
-          "title": "Bose QuietComfort Headphones - Moonstone Blue",
-          "price": "$189.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ZcfE6zrgL.jpg",
-          "url": "https://www.amazon.com/dp/B0CN9GXC2R?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 5, 2026?",
-          "a": "The best deals today include \"Hiboy S2 Electric Scooter - 8.5\" Solid Tires - Up to 17 Mile...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"Extra Deep Pocket Twin XL Size Sheet Set - Breathable & Cool...\" and 9 other hand-picked discounts. Deals span Other, Gold Box Deal, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-05T10:40:02.540Z",
-      "updatedAt": "2026-11-05T10:40:02.540Z"
+      "generatedAt": "2026-11-05T10:50:02.461Z",
+      "updatedAt": "2026-11-05T10:50:02.461Z"
     },
     {
       "date": "2026-11-04",
@@ -16280,5 +16280,5 @@
       "updatedAt": "2026-09-08T03:50:01.888Z"
     }
   ],
-  "generatedAt": "2026-11-05T10:40:02.545Z"
+  "generatedAt": "2026-11-05T10:50:02.466Z"
 }
