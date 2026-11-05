@@ -4,13 +4,14 @@
       "date": "2026-11-05",
       "slug": "2026-11-05",
       "title": "🔥 Best Deals Today — November 5, 2026",
-      "intro": "Today's best online deals for Thursday, November 5, 2026 — 10 hand-picked discounts across Home & Kitchen, Gold Box Deal, Garden & Outdoor and more. The best discount today is 38% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, November 5, 2026 — 10 hand-picked discounts across Home & Kitchen, Personal Care, Beauty and more. The best discount today is 38% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Personal Care",
+        "Beauty",
         "Gold Box Deal",
         "Garden & Outdoor",
-        "Electronics",
-        "Other"
+        "Electronics"
       ],
       "byCategory": {
         "Home & Kitchen": [
@@ -68,17 +69,32 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/812Ao0CXfSL.jpg",
             "url": "https://www.amazon.com/dp/B085ZX6XDF?tag=noya0b-20"
-          },
+          }
+        ],
+        "Personal Care": [
           {
-            "asin": "B00FLYWNYQ",
-            "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
-            "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
-            "price": "$89.99",
+            "asin": "B0D9WWB3WX",
+            "slug": "oura-ring-4-smart-ring-silver-size-9-sleep-activity-womens-h",
+            "title": "Oura Ring 4 Smart Ring - Silver - Size 9 | Sleep, Activity, Women’s Health, AI Advisor, Up to 8 Days of Battery Life, Si",
+            "price": "249",
+            "discount": 29,
+            "rating": "WARM",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/413YcCzKQ-L._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0D9WWB3WX/ref=cmswrasglapigliNBSZH6VXR10WHG0GQ2JV?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "WOOT-KENNETHCOLE-MANKIND-TRAVELTRIO-GIFTSETS-20261105",
+            "slug": "kenneth-cole-mankind-travel-set-05-oz-spray-two-05-oz-refill",
+            "title": "Kenneth Cole Mankind Travel Set — 0.5 oz Spray + Two 0.5 oz Refills",
+            "price": null,
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL.jpg",
-            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+            "category": "Beauty",
+            "imageUrl": "https://d3gqasl9vmjfd8.cloudfront.net/7e9cde83-0c06-4102-bed9-727c4ec58b01.jpg",
+            "url": "https://mavely.app.link/eNceZzo0O7b"
           }
         ],
         "Gold Box Deal": [
@@ -119,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61oQlFGPztL.jpg",
             "url": "https://www.amazon.com/dp/B0H2HHDK78?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0H837X5GY",
-            "slug": "google-pixel-11-pro-xl-unlocked-smartphone-gemini-512-gb-can",
-            "title": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 512 GB - Canyon",
-            "price": "$1069.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
-            "url": "https://www.amazon.com/dp/B0H837X5GY?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +148,28 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/41Pdj9pD6CL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0CSZ7WBYW?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D9WWB3WX",
+          "slug": "oura-ring-4-smart-ring-silver-size-9-sleep-activity-womens-h",
+          "title": "Oura Ring 4 Smart Ring - Silver - Size 9 | Sleep, Activity, Women’s Health, AI Advisor, Up to 8 Days of Battery Life, Si",
+          "price": "249",
+          "discount": 29,
+          "rating": "WARM",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/413YcCzKQ-L._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0D9WWB3WX/ref=cmswrasglapigliNBSZH6VXR10WHG0GQ2JV?tag=noya0b-20"
+        },
+        {
+          "asin": "WOOT-KENNETHCOLE-MANKIND-TRAVELTRIO-GIFTSETS-20261105",
+          "slug": "kenneth-cole-mankind-travel-set-05-oz-spray-two-05-oz-refill",
+          "title": "Kenneth Cole Mankind Travel Set — 0.5 oz Spray + Two 0.5 oz Refills",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://d3gqasl9vmjfd8.cloudfront.net/7e9cde83-0c06-4102-bed9-727c4ec58b01.jpg",
+          "url": "https://mavely.app.link/eNceZzo0O7b"
         },
         {
           "asin": "B085ZY2STM",
@@ -222,38 +247,16 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/812Ao0CXfSL.jpg",
           "url": "https://www.amazon.com/dp/B085ZX6XDF?tag=noya0b-20"
-        },
-        {
-          "asin": "B00FLYWNYQ",
-          "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
-          "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
-          "price": "$89.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL.jpg",
-          "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0H837X5GY",
-          "slug": "google-pixel-11-pro-xl-unlocked-smartphone-gemini-512-gb-can",
-          "title": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 512 GB - Canyon",
-          "price": "$1069.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
-          "url": "https://www.amazon.com/dp/B0H837X5GY?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 5, 2026?",
-          "a": "The best deals today include \"Ninja Air Fryer Pro, 5 Qt, 4-in-1, Grey, AF141 | Air fry, ro...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Gold Box Deal, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Ninja Air Fryer Pro, 5 Qt, 4-in-1, Grey, AF141 | Air fry, ro...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Personal Care, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 38% off on \"Ninja Air Fryer Pro, 5 Qt, 4-in-1, Grey, AF141 | Air fry, ro...\". There are 1 deals with verified discounts today."
+          "a": "The biggest discount today is 38% off on \"Ninja Air Fryer Pro, 5 Qt, 4-in-1, Grey, AF141 | Air fry, ro...\". There are 2 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-05T15:00:01.384Z",
-      "updatedAt": "2026-11-05T15:00:01.384Z"
+      "generatedAt": "2026-11-05T15:05:17.673Z",
+      "updatedAt": "2026-11-05T15:05:17.673Z"
     },
     {
       "date": "2026-11-04",
@@ -16280,5 +16283,5 @@
       "updatedAt": "2026-09-08T03:50:01.888Z"
     }
   ],
-  "generatedAt": "2026-11-05T15:00:01.403Z"
+  "generatedAt": "2026-11-05T15:05:17.679Z"
 }
