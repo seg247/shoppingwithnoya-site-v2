@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-05T14:20:00.820Z",
+  "generatedAt": "2026-11-05T14:30:01.774Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0csz7wbyw-ninja-air-fryer-pro-5-qt-4-in-1-grey-af141-air-fry-roast-reh",
+      "asin": "B0CSZ7WBYW",
+      "title": "Ninja Air Fryer Pro, 5 Qt, 4-in-1, Grey, AF141 | Air fry, roast, reheat, dehydrate, 1750W, 400F max, Fits 4 lbs fries, N",
+      "url": "https://www.amazon.com/dp/B0CSZ7WBYW?tag=noya0b-20",
+      "discount": 38,
+      "rating": "HOT",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-05T14:20:18.461Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41Pdj9pD6CL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 38% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0bmtkfxfl-bedsure-prewashed-twin-duvet-cover-cotton-like-bedding-set-s",
       "asin": "B0BMTKFXFL",
@@ -276,11 +296,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8326,22 +8342,6 @@
       "ts": "2026-10-19T03:40:23.392Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41bylcuf5tL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b00m7xbau2-it-s-a-very-merry-muppet-christmas-movie-blu-ray",
-      "asin": "B00M7XBAU2",
-      "title": "It's A Very Merry Muppet Christmas Movie (Blu-ray)",
-      "url": "https://www.amazon.com/dp/B00M7XBAU2?psc=1&linkCode=sl2&tag=noya0b-20&linkId=56f38e8fd7f5f780201c50aa59be68e5&language=en_US&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Books & Media",
-      "ts": "2026-10-19T02:40:26.712Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61lkxEamGuL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20417,6 +20417,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-10-18T22:40:52.824Z",
       "archivedAt": "2026-11-05T10:30:01.910Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00m7xbau2-it-s-a-very-merry-muppet-christmas-movie-blu-ray",
+      "asin": "B00M7XBAU2",
+      "title": "It's A Very Merry Muppet Christmas Movie (Blu-ray)",
+      "url": "https://www.amazon.com/dp/B00M7XBAU2?psc=1&linkCode=sl2&tag=noya0b-20&linkId=56f38e8fd7f5f780201c50aa59be68e5&language=en_US&gaOptInStatus=true",
+      "category": "Books & Media",
+      "ts": "2026-10-19T02:40:26.712Z",
+      "archivedAt": "2026-11-05T14:30:01.774Z",
       "status": "archived"
     }
   ]
