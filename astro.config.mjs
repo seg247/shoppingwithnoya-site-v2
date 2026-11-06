@@ -50,5 +50,6 @@ export default defineConfig({
       },
     }),
   ],
+  compressHTML: true,
   output: 'static',
 });

@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
+      - run: npm ci --engine-strict
       - name: Refresh API-verified website prices
         run: node scripts/refresh-amazon-prices.cjs src/data/site-data.json public/amazon-price-data.json
         env:
