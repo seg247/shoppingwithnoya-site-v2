@@ -36,7 +36,10 @@ export default defineConfig({
   base: '/',
   integrations: [
     sitemap({
-      filter: page => !archivedPaths.has(new URL(page).pathname.replace(/\/$/, '')),
+      filter: page => {
+        const path = new URL(page).pathname.replace(/\/$/, '');
+        return path !== '/dashboard' && !archivedPaths.has(path);
+      },
       changefreq: 'daily',
       priority: 0.7,
       serialize: (item) => {

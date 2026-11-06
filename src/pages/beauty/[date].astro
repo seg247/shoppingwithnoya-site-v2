@@ -97,6 +97,7 @@ const jsonLdItemList = deals.length > 0 ? JSON.stringify({
   <script type="application/ld+json" set:html={jsonLdArticle} />
   {jsonLdFaq && <script type="application/ld+json" set:html={jsonLdFaq} />}
   {jsonLdItemList && <script type="application/ld+json" set:html={jsonLdItemList} />}
+  <script is:inline src="/qa-traffic.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-T75YM7DVKJ"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-T75YM7DVKJ');</script>
   <style is:inline>
