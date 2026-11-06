@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-06T15:20:02.379Z",
+  "generatedAt": "2026-11-06T15:30:01.983Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0091jg0ly-amazon-com-shark-rotator-lift-away-upright-vacuum-with-hepa-",
+      "asin": "B0091JG0LY",
+      "title": "Amazon.com - Shark Rotator Lift-Away Upright Vacuum with HEPA Filter, White/Red, NV501 | Lift-Away Pod, 0.9-Qt Dust Cup, Swivel Steering, LED Headlights, Wide Upholstery Tool, Dusting Brush and Crevice Tool - Household Upright Vacuums",
+      "url": "https://www.amazon.com/dp/B0091JG0LY?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-06T15:20:46.625Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61mVJng1EaL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "kohls-bigone-1944597-grayjacquard-savings-20261106-the-big-one-oversized-supersoft-plush-throw-blanket-gray-jac",
       "asin": "KOHLS-BIGONE-1944597-GRAYJACQUARD-SAVINGS-20261106",
@@ -236,11 +256,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61DGar+m4yL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8374,22 +8390,6 @@
       "ts": "2026-10-20T12:40:50.039Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61O-itQYzFL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0gxcbw828-magic-the-gathering-foundations-commander-deck-bundle-all-5-",
-      "asin": "B0GXCBW828",
-      "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ran",
-      "url": "https://www.amazon.com/dp/B0GXCBW828/ref=cm_sw_r_as_gl_api_gl_i_RSQDTJTZJ7WS5NNXSH46?linkCode=ml1&tag=noya0b-20&linkId=c41f9017cae05a35095ba6b17b939366&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-20T12:20:24.403Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/810KgViaLRL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20835,6 +20835,16 @@
       "category": "Fashion",
       "ts": "2026-10-20T12:00:19.294Z",
       "archivedAt": "2026-11-06T15:10:48.295Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0gxcbw828-magic-the-gathering-foundations-commander-deck-bundle-all-5-",
+      "asin": "B0GXCBW828",
+      "title": "Magic: The Gathering Foundations Commander Deck Bundle - All 5 Decks (Calling All Angels, Keen Engineering, Wretched Ran",
+      "url": "https://www.amazon.com/dp/B0GXCBW828/ref=cm_sw_r_as_gl_api_gl_i_RSQDTJTZJ7WS5NNXSH46?linkCode=ml1&tag=noya0b-20&linkId=c41f9017cae05a35095ba6b17b939366&gaOptInStatus=true",
+      "category": "Beauty",
+      "ts": "2026-10-20T12:20:24.403Z",
+      "archivedAt": "2026-11-06T15:30:01.983Z",
       "status": "archived"
     }
   ]
