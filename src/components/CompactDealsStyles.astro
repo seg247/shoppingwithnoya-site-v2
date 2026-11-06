@@ -129,6 +129,10 @@
     .compact-deals:not(.category-page) .section-header #sort-order { grid-column: 2; grid-row: 1 / span 2; margin-left: 0; }
     .compact-deals:not(.category-page) .section-header #view-toggle { grid-column: 3; grid-row: 1 / span 2; margin-left: 0; }
   }
+  /* Category counts and view toggle wrap independently on narrow phones. */
+  .compact-deals.category-page .section-header { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; }
+  .compact-deals.category-page .section-header .deal-count { white-space: normal; min-width: 0; }
+  .compact-deals.category-page .section-header #view-toggle { margin-left: 0; }
   /* Tighter vertical rhythm above the feed: every band removed here is a
      product row gained on a phone. */
   .compact-deals .search-wrap { margin: 8px auto 6px; }

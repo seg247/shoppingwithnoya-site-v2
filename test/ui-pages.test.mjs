@@ -234,11 +234,12 @@ test('browser: real HTTP 404, responsive geometry, computed button contrast, key
     await page.keyboard.press('Enter');
     assert.equal(await page.evaluate(() => document.activeElement.id), 'main-content');
     });
-    await t.test('category disclosure exposes on-page filters and crawlable category destinations', async () => {
-      await page.locator('.category-picker > summary').click();
-      assert.ok(await page.locator('.category-panel').isVisible());
-      assert.ok(await page.locator('.chip[data-cat="Home & Kitchen"]').isVisible());
-      assert.ok(await page.locator('.category-links a').count() > 0);
+    await t.test('surfaced category filters and separate crawlable guide links remain available', async () => {
+      assert.ok(await page.locator('.chip-row .chip[data-cat="Home & Kitchen"]').isVisible());
+      await page.locator('.chip-row .chip[data-cat="Home & Kitchen"]').click();
+      assert.equal(await page.locator('.chip-row .chip[data-cat="Home & Kitchen"]').getAttribute('aria-pressed'), 'true');
+      await page.locator('.chip-row .chip[data-cat="all"]').click();
+      assert.ok(await page.locator('.footer-cats-links a[href^="/category/"]').count() > 0);
     });
     const contrast = async selector => page.locator(selector).first().evaluate(el => {
       const s = getComputedStyle(el);
@@ -269,17 +270,16 @@ test('browser: real HTTP 404, responsive geometry, computed button contrast, key
       assert.equal(result.position, 'absolute');
       assert.equal(result.inset, '0px');
     });
-    await t.test('narrow category disclosure stays within viewport without covering the sort control', async () => {
+    await t.test('narrow surfaced filter scroller and toolbar controls fit independently', async () => {
       await page.setViewportSize({ width: 390, height: 900 });
-      await page.locator('.category-picker').evaluate(el => { el.open = true; });
       const geometry = await page.evaluate(() => ({
-        panel: document.querySelector('.category-panel').getBoundingClientRect().toJSON(),
-        summary: document.querySelector('.category-picker > summary').getBoundingClientRect().toJSON(),
-        sort: document.querySelector('#sort-order').getBoundingClientRect().toJSON(),
+        width: document.documentElement.clientWidth,
+        scroll: document.documentElement.scrollWidth,
+        controls: [...document.querySelectorAll('.chip-row .shop-cats-scroll, #sort-order, #view-toggle')].map(e => e.getBoundingClientRect().toJSON()),
       }));
-      assert.ok(geometry.panel.left >= 0 && geometry.panel.right <= 390, JSON.stringify(geometry));
-      assert.ok(geometry.summary.right <= geometry.sort.left, JSON.stringify(geometry));
-      assert.ok(geometry.panel.top >= geometry.sort.bottom, JSON.stringify(geometry));
+      assert.equal(geometry.controls.length, 3);
+      assert.ok(geometry.scroll <= geometry.width, JSON.stringify(geometry));
+      assert.ok(geometry.controls.every(r => r.left >= 0 && r.right <= geometry.width + 1 && r.width > 0), JSON.stringify(geometry));
     });
     await page.goto('http://127.0.0.1:4408/contact/');
     await t.test('contact submit computed contrast', async () => {

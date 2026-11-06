@@ -5,12 +5,14 @@ import { JSDOM } from 'jsdom';
 import { archiveEntries } from '../src/lib/deal-archive.mjs';
 const data=JSON.parse(readFileSync(new URL('../src/data/site-data.json',import.meta.url),'utf8'));
 const archives=archiveEntries(data);
-test('archived exact URLs render useful noindex pages without old offer claims',()=>{
+test('archived exact URLs render useful noindex pages without old offer claims',async()=>{
  const sitemap=readFileSync(new URL('../dist/sitemap-0.xml',import.meta.url),'utf8');
  for(const p of archives){
   const path=new URL('../dist/deals/'+p.slug+'/index.html',import.meta.url);
   assert.ok(existsSync(path),'Missing archive page '+p.slug);
-  const d=new JSDOM(readFileSync(path,'utf8')).window.document;
+  const dom=new JSDOM(readFileSync(path,'utf8'));
+  const d=dom.window.document;
+  try {
   assert.equal(d.querySelector('meta[name=robots]').content,'noindex, follow');
   assert.ok(!sitemap.includes('/deals/'+p.slug+'</loc>') && !sitemap.includes('/deals/'+p.slug+'/</loc>'));
   const article=d.querySelector('.archived-deal');
@@ -23,6 +25,9 @@ test('archived exact URLs render useful noindex pages without old offer claims',
   assert.ok(article.querySelector('a[href="/guides/"]'));
   for(const a of article.querySelectorAll('a[href^="/"]'))assert.ok(existsSync(new URL('../dist'+a.getAttribute('href')+'index.html',import.meta.url)));
   for(const s of d.querySelectorAll('script[type="application/ld+json"]'))assert.ok(!/"@type"\s*:\s*"(?:Product|Offer|AggregateOffer)"/.test(s.textContent));
+  } finally { dom.window.close(); }
+  // Let jsdom release queued document work before parsing the next archive.
+  await new Promise(resolve => setImmediate(resolve));
  }
 });
 test('active routes are preserved alongside archives',()=>{
