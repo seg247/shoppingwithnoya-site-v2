@@ -9,7 +9,7 @@
         "Home & Kitchen",
         "Other",
         "Beauty",
-        "Personal Care"
+        "Home"
       ],
       "byCategory": {
         "Other": [
@@ -45,6 +45,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/712lAbKMMnL.jpg",
             "url": "https://www.amazon.com/dp/B0CNTRVZPW?tag=noya0b-20"
+          }
+        ],
+        "Home": [
+          {
+            "asin": "KOHLS-BIGONE-1944597-GRAYJACQUARD-SAVINGS-20261106",
+            "slug": "the-big-one-oversized-supersoft-plush-throw-blanket-gray-jac",
+            "title": "The Big One Oversized Supersoft Plush Throw Blanket — Gray Jacquard, 60 x 72 inches",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home",
+            "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1944597_Gray_Jacquard?wid=800&hei=800&op_sharpen=1",
+            "url": "https://mavely.app.link/bUGzhUJFQ7b"
           }
         ],
         "Home & Kitchen": [
@@ -116,19 +129,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
             "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
           }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0H82WYQNT",
-            "slug": "google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-oli",
-            "title": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 256 GB - Olive | Android, Gemini Intelligence, 30+ hour battery, 6.8” Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
-            "price": "$949.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg",
-            "url": "https://www.amazon.com/dp/B0H82WYQNT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -142,6 +142,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41v-TC8oCEL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0G25LVY27?tag=noya0b-20"
+        },
+        {
+          "asin": "KOHLS-BIGONE-1944597-GRAYJACQUARD-SAVINGS-20261106",
+          "slug": "the-big-one-oversized-supersoft-plush-throw-blanket-gray-jac",
+          "title": "The Big One Oversized Supersoft Plush Throw Blanket — Gray Jacquard, 60 x 72 inches",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home",
+          "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1944597_Gray_Jacquard?wid=800&hei=800&op_sharpen=1",
+          "url": "https://mavely.app.link/bUGzhUJFQ7b"
         },
         {
           "asin": "B0H6KDDGK6",
@@ -230,17 +241,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
           "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0H82WYQNT",
-          "slug": "google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-oli",
-          "title": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 256 GB - Olive | Android, Gemini Intelligence, 30+ hour battery, 6.8” Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
-          "price": "$949.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg",
-          "url": "https://www.amazon.com/dp/B0H82WYQNT?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-06T15:10:09.018Z",
-      "updatedAt": "2026-11-06T15:10:09.018Z"
+      "generatedAt": "2026-11-06T15:10:49.233Z",
+      "updatedAt": "2026-11-06T15:10:49.233Z"
     },
     {
       "date": "2026-11-05",
@@ -16274,5 +16274,5 @@
       "updatedAt": "2026-09-09T03:50:01.628Z"
     }
   ],
-  "generatedAt": "2026-11-06T15:10:09.028Z"
+  "generatedAt": "2026-11-06T15:10:49.251Z"
 }
