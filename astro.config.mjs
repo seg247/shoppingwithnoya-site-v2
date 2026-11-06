@@ -1,3 +1,5 @@
+import { fileURLToPath } from 'node:url';
+import { jsonParseLoader } from './scripts/json-parse-loader.mjs';
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { readFileSync } from 'node:fs';
@@ -51,5 +53,10 @@ export default defineConfig({
     }),
   ],
   compressHTML: true,
+  vite: {
+    plugins: [jsonParseLoader(['site-data', 'blog-data', 'beauty-blog-data'].map(
+      name => fileURLToPath(new URL('./src/data/' + name + '.json', import.meta.url))
+    ))],
+  },
   output: 'static',
 });
