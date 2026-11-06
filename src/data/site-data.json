@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-06T23:20:01.460Z",
+  "generatedAt": "2026-11-06T23:30:02.710Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0g4xrp464-amazon-fire-tv-stick-4k-newest-model",
+      "asin": "B0G4XRP464",
+      "title": "Amazon Fire TV Stick 4K (Newest Model)",
+      "url": "https://www.amazon.com/dp/B0G4XRP464?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-06T23:20:56.771Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61Vo+3CNiLL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0dr2ywjnr-desktop-file-organizer-desk-organizer-shelf-white-office-org",
       "asin": "B0DR2YWJNR",
@@ -277,9 +297,9 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
+        "key": "warm",
+        "label": "🔥 25% OFF",
+        "tone": "warm"
       },
       "feedStatus": "active"
     },
@@ -8134,22 +8154,6 @@
       "ts": "2026-10-21T08:40:18.804Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/31z6bSAFrhL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0g4xrp464-amazon-fire-tv-stick-4k-newest-model-simple-4k-streaming-new",
-      "asin": "B0G4XRP464",
-      "title": "Amazon Fire TV Stick 4K (newest model), simple 4K streaming, new Fire TV Remote, all your apps in one place, free & live",
-      "url": "https://www.amazon.com/dp/B0G4XRP464/ref=cm_sw_r_as_gl_apa_gl_i_dl_X9X7HQP1T14CVJB3KDBE?linkCode=ml1&tag=noya0b-20&linkId=c6f8be25d3b66383c8218eab65776ba8&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-10-21T08:20:19.864Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31u8QpgCGKL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -20921,6 +20925,16 @@
       "category": "Sports",
       "ts": "2026-10-20T18:21:01.448Z",
       "archivedAt": "2026-11-06T19:50:02.051Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0g4xrp464-amazon-fire-tv-stick-4k-newest-model-simple-4k-streaming-new",
+      "asin": "B0G4XRP464",
+      "title": "Amazon Fire TV Stick 4K (newest model), simple 4K streaming, new Fire TV Remote, all your apps in one place, free & live",
+      "url": "https://www.amazon.com/dp/B0G4XRP464/ref=cm_sw_r_as_gl_apa_gl_i_dl_X9X7HQP1T14CVJB3KDBE?linkCode=ml1&tag=noya0b-20&linkId=c6f8be25d3b66383c8218eab65776ba8&gaOptInStatus=true",
+      "category": "Electronics",
+      "ts": "2026-10-21T08:20:19.864Z",
+      "archivedAt": "2026-11-06T23:30:02.710Z",
       "status": "archived"
     }
   ]
