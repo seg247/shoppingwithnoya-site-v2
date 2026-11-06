@@ -9,7 +9,8 @@
         "Other",
         "Electronics",
         "Home & Kitchen",
-        "Grocery & Food"
+        "Grocery & Food",
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -91,17 +92,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61L56RTnzLL.jpg",
             "url": "https://www.amazon.com/dp/B0BLTPP7GS?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CCZC9J1V",
-            "slug": "bose-quietcomfort-headphones-wireless-bluetooth-headphones-a",
-            "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, White Smoke",
-            "price": "$219.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51K77J9rCjL.jpg",
-            "url": "https://www.amazon.com/dp/B0CCZC9J1V?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -128,6 +118,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/41kVm8T4WdL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B082YPRJV3?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0DXFLQ1VS",
+            "slug": "twinklede-gold-necklace-sets-crystal-bridal-wedding-rhinesto",
+            "title": "TWINKLEDE Gold Necklace Sets Crystal Bridal Wedding Rhinestone Earrings Sparkly Prom Party Evening Accessory for Women: Clothing, Shoes & Jewelry",
+            "price": "$7.32",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61fmehGXvhL.jpg",
+            "url": "https://www.amazon.com/dp/B0DXFLQ1VS?tag=noya0b-20"
           }
         ]
       },
@@ -221,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B082YPRJV3?tag=noya0b-20"
         },
         {
+          "asin": "B0DXFLQ1VS",
+          "slug": "twinklede-gold-necklace-sets-crystal-bridal-wedding-rhinesto",
+          "title": "TWINKLEDE Gold Necklace Sets Crystal Bridal Wedding Rhinestone Earrings Sparkly Prom Party Evening Accessory for Women: Clothing, Shoes & Jewelry",
+          "price": "$7.32",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61fmehGXvhL.jpg",
+          "url": "https://www.amazon.com/dp/B0DXFLQ1VS?tag=noya0b-20"
+        },
+        {
           "asin": "B0BLTPP7GS",
           "slug": "miracase-silicone-for-iphone-se-2022se-202078-casedark-green",
           "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Dark Green | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
@@ -230,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61L56RTnzLL.jpg",
           "url": "https://www.amazon.com/dp/B0BLTPP7GS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CCZC9J1V",
-          "slug": "bose-quietcomfort-headphones-wireless-bluetooth-headphones-a",
-          "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, White Smoke",
-          "price": "$219.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51K77J9rCjL.jpg",
-          "url": "https://www.amazon.com/dp/B0CCZC9J1V?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -265,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-06T21:00:04.394Z",
-      "updatedAt": "2026-11-06T21:00:04.394Z"
+      "generatedAt": "2026-11-06T21:10:02.269Z",
+      "updatedAt": "2026-11-06T21:10:02.269Z"
     },
     {
       "date": "2026-11-05",
@@ -16274,5 +16277,5 @@
       "updatedAt": "2026-09-09T03:50:01.628Z"
     }
   ],
-  "generatedAt": "2026-11-06T21:00:04.415Z"
+  "generatedAt": "2026-11-06T21:10:02.283Z"
 }
