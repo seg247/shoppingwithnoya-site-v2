@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-07T23:40:01.386Z",
+  "generatedAt": "2026-11-07T23:50:02.123Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0fdgzdrgs-barbie-skipper-babysitters-inc-playset-with-brunette-doll-bl",
+      "asin": "B0FDGZDRGS",
+      "title": "Barbie Skipper Babysitters Inc. Playset with Brunette Doll | Blonde Baby Doll, Stroller with Removable Car Seat and 7 Ac",
+      "url": "https://www.amazon.com/dp/B0FDGZDRGS?tag=noya0b-20",
+      "discount": 40,
+      "rating": "HOT",
+      "category": "Toys & Kids",
+      "ts": "2026-11-07T23:40:31.059Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41o5Y2eTItL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 40% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b018ffhr98-scrubbing-bubbles-mega-bathroom-and-shower-foamer-aerosol-ra",
       "asin": "B018FFHR98",
@@ -216,11 +236,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8402,22 +8418,6 @@
       "ts": "2026-10-21T11:00:25.394Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41GH0Q+ychL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0dk35j8tt-gootaimi-50pcs-6-32x1-2-flat-head-socket-cap-screws-10-9-gra",
-      "asin": "B0DK35J8TT",
-      "title": "Gootaimi 50pcs #6-32x1/2” Flat Head Socket Cap Screws, 10.9 Grade Carbon Steel Machine Screws, Socket Head Screws Bolts,",
-      "url": "https://www.amazon.com/dp/B0DK35J8TT/ref=cm_sw_r_as_gl_api_gl_i_dl_CEGNV9VPWV2QH2WVG7V8?linkCode=ml1&tag=noya0b-20&linkId=3ebf9ea08b5d4947082ba36cd0df7b57&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-10-21T10:40:39.755Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51HRY1RodHL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21083,6 +21083,16 @@
       "category": "Other",
       "ts": "2026-10-21T09:20:18.692Z",
       "archivedAt": "2026-11-07T22:10:02.173Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dk35j8tt-gootaimi-50pcs-6-32x1-2-flat-head-socket-cap-screws-10-9-gra",
+      "asin": "B0DK35J8TT",
+      "title": "Gootaimi 50pcs #6-32x1/2” Flat Head Socket Cap Screws, 10.9 Grade Carbon Steel Machine Screws, Socket Head Screws Bolts,",
+      "url": "https://www.amazon.com/dp/B0DK35J8TT/ref=cm_sw_r_as_gl_api_gl_i_dl_CEGNV9VPWV2QH2WVG7V8?linkCode=ml1&tag=noya0b-20&linkId=3ebf9ea08b5d4947082ba36cd0df7b57&gaOptInStatus=true",
+      "category": "Fashion",
+      "ts": "2026-10-21T10:40:39.755Z",
+      "archivedAt": "2026-11-07T23:50:02.123Z",
       "status": "archived"
     }
   ]
