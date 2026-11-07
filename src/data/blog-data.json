@@ -10,6 +10,7 @@
         "Electronics",
         "Home & Kitchen",
         "Grocery & Food",
+        "Fashion",
         "Sports"
       ],
       "byCategory": {
@@ -81,17 +82,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/41NRmVQ4HrL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B09GM8JZM9?tag=noya0b-20"
-          },
-          {
-            "asin": "B0961X3R2H",
-            "slug": "sony-ht-s40r-51ch-home-theater-soundbar-systemblack",
-            "title": "Sony HT-S40R 5.1ch Home Theater Soundbar System,black",
-            "price": "$248.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51m4NsZau4L.jpg",
-            "url": "https://www.amazon.com/dp/B0961X3R2H?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -118,6 +108,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/41kVm8T4WdL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B082YPRJV3?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0FLQK3L6R",
+            "slug": "trendy-queen-womens-2-piece-2026-fall-fashion-lounge-set-wit",
+            "title": "Trendy Queen Women's 2 Piece 2026 Fall Fashion Lounge Set with Pockets | Airport Outfit, Athleisure Workout Set, Fall Wardrobe Staple, Winter Style, Side-Ruched Top, Drawstring Wide-Leg Pants : Clothing, Shoes & Jewelry",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51gGXaOgpvL.jpg",
+            "url": "https://www.amazon.com/dp/B0FLQK3L6R?tag=noya0b-20"
           }
         ],
         "Sports": [
@@ -224,6 +227,17 @@
           "url": "https://www.amazon.com/dp/B082YPRJV3?tag=noya0b-20"
         },
         {
+          "asin": "B0FLQK3L6R",
+          "slug": "trendy-queen-womens-2-piece-2026-fall-fashion-lounge-set-wit",
+          "title": "Trendy Queen Women's 2 Piece 2026 Fall Fashion Lounge Set with Pockets | Airport Outfit, Athleisure Workout Set, Fall Wardrobe Staple, Winter Style, Side-Ruched Top, Drawstring Wide-Leg Pants : Clothing, Shoes & Jewelry",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51gGXaOgpvL.jpg",
+          "url": "https://www.amazon.com/dp/B0FLQK3L6R?tag=noya0b-20"
+        },
+        {
           "asin": "b09mwjktms",
           "slug": "portable-all-in-one-home-gym-exercise-resistance-bands-with",
           "title": "Portable, All-in-One Home Gym! Exercise Resistance Bands with Handles. Yoga Mat, Foam Roller, 2 Therapy Balls, Resistance Band Set, Easy to use, No Assembly Required. Ships Same/Next Day! : Sports & Outdoors",
@@ -233,17 +247,6 @@
           "category": "Sports",
           "imageUrl": "https://m.media-amazon.com/images/I/91+3Tot9ZuL.jpg",
           "url": "https://www.amazon.com/dp/b09mwjktms?tag=noya0b-20"
-        },
-        {
-          "asin": "B0961X3R2H",
-          "slug": "sony-ht-s40r-51ch-home-theater-soundbar-systemblack",
-          "title": "Sony HT-S40R 5.1ch Home Theater Soundbar System,black",
-          "price": "$248.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51m4NsZau4L.jpg",
-          "url": "https://www.amazon.com/dp/B0961X3R2H?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-07T02:20:02.673Z",
-      "updatedAt": "2026-11-07T02:20:02.673Z"
+      "generatedAt": "2026-11-07T02:30:02.648Z",
+      "updatedAt": "2026-11-07T02:30:02.648Z"
     },
     {
       "date": "2026-11-05",
@@ -16277,5 +16280,5 @@
       "updatedAt": "2026-09-09T03:50:01.628Z"
     }
   ],
-  "generatedAt": "2026-11-07T02:20:02.680Z"
+  "generatedAt": "2026-11-07T02:30:02.654Z"
 }
