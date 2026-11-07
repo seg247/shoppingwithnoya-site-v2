@@ -10,6 +10,7 @@
         "Electronics",
         "Home & Kitchen",
         "Grocery & Food",
+        "Pet Supplies",
         "Gold Box Deal"
       ],
       "byCategory": {
@@ -81,17 +82,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/41NRmVQ4HrL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B09GM8JZM9?tag=noya0b-20"
-          },
-          {
-            "asin": "B08GFHZC3Y",
-            "slug": "miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case",
-            "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Dark Blue | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
-            "price": "$14.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/616Fu8Bt20L.jpg",
-            "url": "https://www.amazon.com/dp/B08GFHZC3Y?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -118,6 +108,19 @@
             "category": "Grocery & Food",
             "imageUrl": "https://m.media-amazon.com/images/I/41kVm8T4WdL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B082YPRJV3?tag=noya0b-20"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B0CK28GDSM",
+            "slug": "dog-harness-and-leash-set-xxs-no-pull-adjustable-puppy-harne",
+            "title": "Dog Harness and Leash Set, XXS No Pull Adjustable Puppy Harness with Multifunction Pink Dog Leash and Dog Collar, Soft No Choke Escape Proof Pet Harness Vest for Small Dogs and Cats (Mint Green, XXS)",
+            "price": "$22.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
+            "url": "https://www.amazon.com/dp/B0CK28GDSM?tag=noya0b-20"
           }
         ],
         "Gold Box Deal": [
@@ -224,6 +227,17 @@
           "url": "https://www.amazon.com/dp/B082YPRJV3?tag=noya0b-20"
         },
         {
+          "asin": "B0CK28GDSM",
+          "slug": "dog-harness-and-leash-set-xxs-no-pull-adjustable-puppy-harne",
+          "title": "Dog Harness and Leash Set, XXS No Pull Adjustable Puppy Harness with Multifunction Pink Dog Leash and Dog Collar, Soft No Choke Escape Proof Pet Harness Vest for Small Dogs and Cats (Mint Green, XXS)",
+          "price": "$22.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
+          "url": "https://www.amazon.com/dp/B0CK28GDSM?tag=noya0b-20"
+        },
+        {
           "asin": "B0961X3R2H",
           "slug": "sony-ht-s40r-51ch-home-theater-soundbar-systemblack-electron",
           "title": "Sony HT-S40R 5.1ch Home Theater Soundbar System,black : Electronics",
@@ -233,17 +247,6 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/51m4NsZau4L.jpg",
           "url": "https://www.amazon.com/dp/B0961X3R2H?tag=noya0b-20"
-        },
-        {
-          "asin": "B08GFHZC3Y",
-          "slug": "miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case",
-          "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Dark Blue | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
-          "price": "$14.39",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/616Fu8Bt20L.jpg",
-          "url": "https://www.amazon.com/dp/B08GFHZC3Y?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-07T04:00:02.582Z",
-      "updatedAt": "2026-11-07T04:00:02.582Z"
+      "generatedAt": "2026-11-07T04:10:02.615Z",
+      "updatedAt": "2026-11-07T04:10:02.615Z"
     },
     {
       "date": "2026-11-05",
@@ -16277,5 +16280,5 @@
       "updatedAt": "2026-09-09T03:50:01.628Z"
     }
   ],
-  "generatedAt": "2026-11-07T04:00:02.588Z"
+  "generatedAt": "2026-11-07T04:10:02.623Z"
 }
