@@ -10,10 +10,55 @@
         "Home & Kitchen",
         "Electronics",
         "Personal Care",
-        "Beauty",
-        "Smart Home"
+        "Beauty"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0DWZXTVWS",
+            "slug": "iuv-cowboy-boots-for-women-western-cowgirl-boots-mid-calf-sn",
+            "title": "IUV Cowboy Boots For Women Western Cowgirl Boots Mid Calf Snip Toe | Chunky Heel Ideal for low insteps | Mid-Calf",
+            "price": "$52.19",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71I2-v01i7L.jpg",
+            "url": "https://www.amazon.com/dp/B0DWZXTVWS?tag=noya0b-20"
+          },
+          {
+            "asin": "B081TTYM93",
+            "slug": "citizen-mens-eco-drive-pcat-42mm-super-titanium-cb5908-57e-c",
+            "title": "CITIZEN Men's Eco-Drive PCAT 42mm Super Titanium CB5908-57E : Clothing, Shoes & Jewelry",
+            "price": "$432.80",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61r7bCI-dLL.jpg",
+            "url": "https://www.amazon.com/dp/B081TTYM93?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G34KYRLN",
+            "slug": "oeak-womens-jelly-bras-wireless-deep-v-bralette-comfy-push-u",
+            "title": "OEAK Womens Jelly Bras Wireless Deep V Bralette Comfy Push Up Tshirt Bras XS Dusty Pink at Amazon Women’s Clothing store",
+            "price": "$28.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71jw01SyvUL.jpg",
+            "url": "https://www.amazon.com/dp/B0G34KYRLN?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G349R9JF",
+            "slug": "oeak-womens-jelly-bras-wireless-deep-v-bralette-comfy-push-u",
+            "title": "OEAK Womens Jelly Bras Wireless Deep V Bralette Comfy Push Up Tshirt Bras L | Comfortable,support and lift,no underwire,bralettes,plunge,full coverage,invisible,balconette,minimizer,no show,soft at Amazon Women’s Clothing store",
+            "price": "$27.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71hhzoxXmKL.jpg",
+            "url": "https://www.amazon.com/dp/B0G349R9JF?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0CS3V8M9H",
@@ -49,41 +94,6 @@
             "category": "Personal Care",
             "imageUrl": "https://m.media-amazon.com/images/I/71sPjmbfJkL.jpg",
             "url": "https://www.amazon.com/dp/B0H82X2TFZ?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B081TTYM93",
-            "slug": "citizen-mens-eco-drive-pcat-42mm-super-titanium-cb5908-57e-c",
-            "title": "CITIZEN Men's Eco-Drive PCAT 42mm Super Titanium CB5908-57E : Clothing, Shoes & Jewelry",
-            "price": "$432.80",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61r7bCI-dLL.jpg",
-            "url": "https://www.amazon.com/dp/B081TTYM93?tag=noya0b-20"
-          },
-          {
-            "asin": "B0G34KYRLN",
-            "slug": "oeak-womens-jelly-bras-wireless-deep-v-bralette-comfy-push-u",
-            "title": "OEAK Womens Jelly Bras Wireless Deep V Bralette Comfy Push Up Tshirt Bras XS Dusty Pink at Amazon Women’s Clothing store",
-            "price": "$28.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jw01SyvUL.jpg",
-            "url": "https://www.amazon.com/dp/B0G34KYRLN?tag=noya0b-20"
-          },
-          {
-            "asin": "B0G349R9JF",
-            "slug": "oeak-womens-jelly-bras-wireless-deep-v-bralette-comfy-push-u",
-            "title": "OEAK Womens Jelly Bras Wireless Deep V Bralette Comfy Push Up Tshirt Bras L | Comfortable,support and lift,no underwire,bralettes,plunge,full coverage,invisible,balconette,minimizer,no show,soft at Amazon Women’s Clothing store",
-            "price": "$27.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71hhzoxXmKL.jpg",
-            "url": "https://www.amazon.com/dp/B0G349R9JF?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71F2LN0n7hL.jpg",
             "url": "https://www.amazon.com/dp/B0GY7C9Y3P?tag=noya0b-20"
           }
-        ],
-        "Smart Home": [
-          {
-            "asin": "B0CL9CG87N",
-            "slug": "amazon-basics-smart-plug-with-timer-function-voice-control-w",
-            "title": "Amazon Basics Smart Plug with Timer Function, Voice Control, WiFi Outlet, Works with Alexa Only, Schedule, APP Control, 2.4 GHz Wi-Fi, No Hub Required, 2-Pack, White",
-            "price": "$13.59",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Smart Home",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Az+NTb+JL.jpg",
-            "url": "https://www.amazon.com/dp/B0CL9CG87N?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DWZXTVWS",
+          "slug": "iuv-cowboy-boots-for-women-western-cowgirl-boots-mid-calf-sn",
+          "title": "IUV Cowboy Boots For Women Western Cowgirl Boots Mid Calf Snip Toe | Chunky Heel Ideal for low insteps | Mid-Calf",
+          "price": "$52.19",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71I2-v01i7L.jpg",
+          "url": "https://www.amazon.com/dp/B0DWZXTVWS?tag=noya0b-20"
+        },
         {
           "asin": "B0CS3V8M9H",
           "slug": "ninja-air-fryer-xl-with-maxcrisp-65-qt-6-in-1-grey-af181-max",
@@ -236,23 +244,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71hhzoxXmKL.jpg",
           "url": "https://www.amazon.com/dp/B0G349R9JF?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CL9CG87N",
-          "slug": "amazon-basics-smart-plug-with-timer-function-voice-control-w",
-          "title": "Amazon Basics Smart Plug with Timer Function, Voice Control, WiFi Outlet, Works with Alexa Only, Schedule, APP Control, 2.4 GHz Wi-Fi, No Hub Required, 2-Pack, White",
-          "price": "$13.59",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Smart Home",
-          "imageUrl": "https://m.media-amazon.com/images/I/51Az+NTb+JL.jpg",
-          "url": "https://www.amazon.com/dp/B0CL9CG87N?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 7, 2026?",
-          "a": "The best deals today include \"Ninja Air Fryer XL with MaxCrisp, 6.5 Qt, 6-in-1, Grey, AF18...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Electronics and are updated daily."
+          "a": "The best deals today include \"IUV Cowboy Boots For Women Western Cowgirl Boots Mid Calf Sn...\" and 9 other hand-picked discounts. Deals span Fashion, Home & Kitchen, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-07T09:20:02.453Z",
-      "updatedAt": "2026-11-07T09:20:02.453Z"
+      "generatedAt": "2026-11-07T09:30:04.400Z",
+      "updatedAt": "2026-11-07T09:30:04.400Z"
     },
     {
       "date": "2026-11-06",
@@ -16280,5 +16277,5 @@
       "updatedAt": "2026-09-10T03:50:02.947Z"
     }
   ],
-  "generatedAt": "2026-11-07T09:20:02.460Z"
+  "generatedAt": "2026-11-07T09:30:04.406Z"
 }
