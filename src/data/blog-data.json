@@ -10,9 +10,9 @@
         "Electronics",
         "Personal Care",
         "Toys & Kids",
+        "Pet Supplies",
         "Beauty",
-        "Fashion",
-        "Home & Kitchen"
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -50,6 +50,19 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/41o5Y2eTItL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FDGZDRGS?tag=noya0b-20"
+          }
+        ],
+        "Pet Supplies": [
+          {
+            "asin": "B0CK28GDSM",
+            "slug": "dog-harness-and-leash-set-xxs-no-pull-adjustable-puppy-harne",
+            "title": "Dog Harness and Leash Set, XXS No Pull Adjustable Puppy Harness with Multifunction Pink Dog Leash and Dog Collar, Soft No Choke Escape Proof Pet Harness Vest for Small Dogs and Cats (Mint Green, XXS)",
+            "price": "$22.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Pet Supplies",
+            "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
+            "url": "https://www.amazon.com/dp/B0CK28GDSM?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -125,19 +138,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71S4-NjoTDL.jpg",
             "url": "https://www.amazon.com/dp/B09MJKJYLQ?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B086PY1SW6",
-            "slug": "globon-goose-down-comforter-king-sizeall-season-duvet-insert",
-            "title": "Globon Goose Down Comforter King Size,All Season Duvet Insert,White | Luxury Goose Down Comforter, Medium Weight, Ultra Soft 450 Thread Count Noiseless Shell, 8 Corner Tabs,106x90inches : Home & Kitchen",
-            "price": "$226.78",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81cDuRQoCVL.jpg",
-            "url": "https://www.amazon.com/dp/B086PY1SW6?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -173,6 +173,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41hHpL9AglL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B018FFHR98?tag=noya0b-20"
+        },
+        {
+          "asin": "B0CK28GDSM",
+          "slug": "dog-harness-and-leash-set-xxs-no-pull-adjustable-puppy-harne",
+          "title": "Dog Harness and Leash Set, XXS No Pull Adjustable Puppy Harness with Multifunction Pink Dog Leash and Dog Collar, Soft No Choke Escape Proof Pet Harness Vest for Small Dogs and Cats (Mint Green, XXS)",
+          "price": "$22.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Pet Supplies",
+          "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
+          "url": "https://www.amazon.com/dp/B0CK28GDSM?tag=noya0b-20"
         },
         {
           "asin": "B0D4Z9C562",
@@ -239,17 +250,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
           "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
-        },
-        {
-          "asin": "B086PY1SW6",
-          "slug": "globon-goose-down-comforter-king-sizeall-season-duvet-insert",
-          "title": "Globon Goose Down Comforter King Size,All Season Duvet Insert,White | Luxury Goose Down Comforter, Medium Weight, Ultra Soft 450 Thread Count Noiseless Shell, 8 Corner Tabs,106x90inches : Home & Kitchen",
-          "price": "$226.78",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81cDuRQoCVL.jpg",
-          "url": "https://www.amazon.com/dp/B086PY1SW6?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-08T01:00:03.728Z",
-      "updatedAt": "2026-11-08T01:00:03.728Z"
+      "generatedAt": "2026-11-08T01:10:02.319Z",
+      "updatedAt": "2026-11-08T01:10:02.319Z"
     },
     {
       "date": "2026-11-06",
@@ -16283,5 +16283,5 @@
       "updatedAt": "2026-09-10T03:50:02.947Z"
     }
   ],
-  "generatedAt": "2026-11-08T01:00:03.744Z"
+  "generatedAt": "2026-11-08T01:10:02.325Z"
 }
