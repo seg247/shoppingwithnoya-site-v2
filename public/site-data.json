@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-08T08:00:02.665Z",
+  "generatedAt": "2026-11-08T08:10:00.587Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0f151gfyr-ring-wired-doorbell-pro-4k-video-doorbell",
+      "asin": "B0F151GFYR",
+      "title": "Ring Wired Doorbell Pro | 4K Video Doorbell",
+      "url": "https://www.amazon.com/dp/B0F151GFYR?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-08T08:01:00.426Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/819MRg02R2L.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0h82x2tfz-google-pixel-11-pro-xl-unlocked-smartphone-gemini-256-gb-fog",
       "asin": "B0H82X2TFZ",
@@ -236,11 +256,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/712wyKsNmML.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8414,22 +8430,6 @@
       "ts": "2026-10-21T14:00:22.078Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41DWj2jai4L._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0fms7crhx-lego-botanicals-daisies-11508-building-toys-for-girls-boys-a",
-      "asin": "B0FMS7CRHX",
-      "title": "LEGO Botanicals Daisies 11508 | Building Toys for Girls & Boys, Ages 9+, Artificial Flowers Craft Kit, Home Décor & Disp",
-      "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_AQEBFBY6PPDA9EXYZXVV?linkCode=ml1&tag=noya0b-20&linkId=2508fd9c2496470c43265365ae9d31fa&gaOptInStatus=true",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Toys & Kids",
-      "ts": "2026-10-21T13:40:29.781Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51C5HG+TLjL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21155,6 +21155,16 @@
       "category": "Beauty",
       "ts": "2026-10-28T05:40:44.679Z",
       "archivedAt": "2026-11-08T07:30:02.214Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fms7crhx-lego-botanicals-daisies-11508-building-toys-for-girls-boys-a",
+      "asin": "B0FMS7CRHX",
+      "title": "LEGO Botanicals Daisies 11508 | Building Toys for Girls & Boys, Ages 9+, Artificial Flowers Craft Kit, Home Décor & Disp",
+      "url": "https://www.amazon.com/dp/B0FMS7CRHX/ref=cm_sw_r_as_gl_api_gl_i_AQEBFBY6PPDA9EXYZXVV?linkCode=ml1&tag=noya0b-20&linkId=2508fd9c2496470c43265365ae9d31fa&gaOptInStatus=true",
+      "category": "Toys & Kids",
+      "ts": "2026-10-21T13:40:29.781Z",
+      "archivedAt": "2026-11-08T08:10:00.587Z",
       "status": "archived"
     }
   ]
