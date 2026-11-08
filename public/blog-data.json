@@ -10,8 +10,7 @@
         "Other",
         "Personal Care",
         "Toys & Kids",
-        "Pet Supplies",
-        "Beauty"
+        "Pet Supplies"
       ],
       "byCategory": {
         "Other": [
@@ -52,6 +51,17 @@
           }
         ],
         "Electronics": [
+          {
+            "asin": "B0GY8C9C9Y",
+            "slug": "active-noise-cancelling-ear-buds-wireless-earbuds-dual-batte",
+            "title": "Active Noise Cancelling Ear Buds Wireless Earbuds Dual Battery Display, Bluetooth Headphones with Deep Bass, IPX7 Waterproof, Ultra Light Comfort Wear, Sports Earphones for Running Workout Gym Black",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81wxNfBnqcL.jpg",
+            "url": "https://www.amazon.com/dp/B0GY8C9C9Y?tag=noya0b-20"
+          },
           {
             "asin": "B0BVM1PSYN",
             "slug": "amazon-basics-bluetooth-on-ear-headphones-wireless-with-micr",
@@ -122,19 +132,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
             "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B099XFLG31",
-            "slug": "amazon-essentials-womens-breathable-high-cut-panties-microfi",
-            "title": "Amazon Essentials Women's Breathable High Cut Panties, Microfiber Underwear, Pack of 6, Blush/Dark Khaki Green/Mauve, X-",
-            "price": "3.07",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/310BUL7psqL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B099XFLG31?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -170,6 +167,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41hHpL9AglL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B018FFHR98?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GY8C9C9Y",
+          "slug": "active-noise-cancelling-ear-buds-wireless-earbuds-dual-batte",
+          "title": "Active Noise Cancelling Ear Buds Wireless Earbuds Dual Battery Display, Bluetooth Headphones with Deep Bass, IPX7 Waterproof, Ultra Light Comfort Wear, Sports Earphones for Running Workout Gym Black",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81wxNfBnqcL.jpg",
+          "url": "https://www.amazon.com/dp/B0GY8C9C9Y?tag=noya0b-20"
         },
         {
           "asin": "B0BVM1PSYN",
@@ -236,17 +244,6 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
           "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B099XFLG31",
-          "slug": "amazon-essentials-womens-breathable-high-cut-panties-microfi",
-          "title": "Amazon Essentials Women's Breathable High Cut Panties, Microfiber Underwear, Pack of 6, Blush/Dark Khaki Green/Mauve, X-",
-          "price": "3.07",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/310BUL7psqL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B099XFLG31?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-08T02:40:01.070Z",
-      "updatedAt": "2026-11-08T02:40:01.070Z"
+      "generatedAt": "2026-11-08T02:50:01.100Z",
+      "updatedAt": "2026-11-08T02:50:01.100Z"
     },
     {
       "date": "2026-11-06",
@@ -16280,5 +16277,5 @@
       "updatedAt": "2026-09-10T03:50:02.947Z"
     }
   ],
-  "generatedAt": "2026-11-08T02:40:01.076Z"
+  "generatedAt": "2026-11-08T02:50:01.106Z"
 }
