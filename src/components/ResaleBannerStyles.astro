@@ -1,0 +1,21 @@
+<style is:global>
+  .resale-banner { grid-column: 1 / -1; min-width: 0; display: grid; grid-template-columns: 130px minmax(0, 1fr); border: 1px solid #5b426c; background: linear-gradient(115deg, #291c36, #201c2b); border-radius: 18px; overflow: hidden; position: relative; color: #f5f2fa; line-height: 1.55; }
+  .resale-banner .resale-media { padding: 14px; background: #1a1722; display: flex; align-items: center; }
+  .resale-banner img { width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; display: block; background: white; }
+  .resale-banner .resale-copy { padding: 24px; display: grid; grid-template-columns: minmax(0, 1fr) auto; column-gap: 24px; align-items: center; min-width: 0; }
+  .resale-banner .resale-text { min-width: 0; }
+  .resale-banner .resale-eyebrow { font-size: 12px; font-weight: 800; letter-spacing: .13em; color: #e7adf7; }
+  .resale-banner h2 { font-size: clamp(24px, 4vw, 34px); line-height: 1.2; margin: 8px 0 10px; }
+  .resale-banner p { color: #ddd3e5; margin: 0; font-size: 15px; max-width: 43ch; }
+  .resale-banner .resale-cta { display: inline-flex; align-items: center; justify-content: center; min-height: 46px; padding: 10px 18px; border-radius: 11px; color: #22102b; background: #efb8ff; font-size: 15px; font-weight: 750; text-decoration: none; }
+  .resale-banner .resale-cta:hover { background: #f8d8ff; transform: translateY(-1px); }
+  .resale-banner .resale-cta:focus-visible { outline: 3px solid #fff; outline-offset: 4px; }
+  @media (max-width: 600px) {
+    .resale-banner { grid-template-columns: minmax(0, 1fr); }
+    .resale-banner .resale-media { display: none; }
+    .resale-banner .resale-copy { display: block; padding: 18px 14px; }
+    .resale-banner h2 { font-size: 23px; }
+    .resale-banner p { font-size: 14px; }
+    .resale-banner .resale-cta { margin-top: 16px; display: flex; width: 100%; padding: 10px; }
+  }
+</style>

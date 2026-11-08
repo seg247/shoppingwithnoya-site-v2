@@ -8,6 +8,8 @@ import SkipLink from '../components/SkipLink.astro';
 import CompactHeader from '../components/CompactHeader.astro';
 import CompactDealsStyles from '../components/CompactDealsStyles.astro';
 import DealViewToggle from '../components/DealViewToggle.astro';
+import ResaleBannerStyles from '../components/ResaleBannerStyles.astro';
+import { resaleBanner } from '../lib/resale-banner.mjs';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
@@ -887,6 +889,7 @@ const timeAgoSSR = (ts) => {
   </style>
   <link rel="alternate" type="application/rss+xml" title="Shopping With Noya — Daily Deals" href="/rss.xml" />
 <CompactDealsStyles />
+<ResaleBannerStyles />
 </head>
 <body class="compact-deals">
   <SkipLink />
@@ -942,6 +945,7 @@ const timeAgoSSR = (ts) => {
     <AmazonPriceInfo />
     <div class="deals-grid" id="deals-grid" data-view="grid">
     {ssrDeals.map((d, i) => (
+      <Fragment>
       <a href={`/deals/${d.slug}/`} class={`deal-card${d.imageUrl ? '' : ' no-img'}${d.promoCode || /coupon|code|subscri|clip|checkout|minimum|qualif|with purchase|when you|buy .+get/i.test(d.title || '') ? ' has-conditions' : ''}`}>
         {d.imageUrl && (
           <div class="card-image-wrap">
@@ -967,6 +971,8 @@ const timeAgoSSR = (ts) => {
           </div>
         </div>
       </a>
+      {i === 14 && <Fragment set:html={resaleBanner} />}
+      </Fragment>
     ))}
   </div>
   <div id="load-more-wrap" class="load-more-wrap"></div>
@@ -985,14 +991,6 @@ const timeAgoSSR = (ts) => {
 
   </details>
 
-  <!-- BOUTIQUE BANNER -->
-  <div class="tg-banner" style="background: linear-gradient(135deg, #7B2FBE, #FF3CAC); margin-top: 0;">
-    <h2>👗 Shop My Clothing Boutique</h2>
-    <p>Stylish, affordable women's clothing for every body — tops, dresses, swimwear & more. Prices starting at just $10!</p>
-    <a href="https://shoppingwithnoya.com" class="tg-banner-btn" target="_blank" rel="noopener">
-      🛒 Shop Now → shoppingwithnoya.com
-    </a>
-  </div>
 
   </main>
 
@@ -1020,6 +1018,8 @@ const timeAgoSSR = (ts) => {
       &nbsp;·&nbsp;
       <a href="https://amazon.com/shop/noya0b" target="_blank" rel="noopener">🛍️ Amazon Storefront</a>
       &nbsp;·&nbsp;
+      <a href="https://poshmark.com/closet/noyascloset" target="_blank" rel="noopener noreferrer">Poshmark Closet ↗</a>
+      &nbsp;·&nbsp;
       <a href="/contact">📬 Contact</a>
       &nbsp;·&nbsp;
       <a href="/about/">About</a>
@@ -1035,7 +1035,7 @@ const timeAgoSSR = (ts) => {
   </footer>
 
   <script is:inline set:html={`window.NoyaFeedPolicy = (${createFeedPolicy.toString()})();`} />
-  <script define:vars={{ base }}>
+  <script define:vars={{ base, resaleBanner }}>
     const { expiryTime, activeDeals } = window.NoyaFeedPolicy;
     // Round to nearest 10 minutes to match push frequency, busts CDN cache on each push
     const cacheBust = Date.now();
@@ -1220,7 +1220,7 @@ const timeAgoSSR = (ts) => {
       }
       const visible = filtered.slice(0, visibleCount);
       const firstImage = visible.findIndex(d => getImageUrl(d));
-      grid.innerHTML = visible.map((d, i) => renderCard(d, i, i === firstImage)).join('');
+      grid.innerHTML = visible.map((d, i) => renderCard(d, i, i === firstImage) + (i === 14 ? resaleBanner : '')).join('');
       renderLoadMore(visible.length, filtered.length);
     }
 

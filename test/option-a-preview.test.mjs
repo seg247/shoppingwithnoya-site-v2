@@ -23,7 +23,7 @@ test('compact header keeps original destinations in a keyboard-operable disclosu
   const menu = d.querySelector('.compact-menu');
   assert.ok(menu, 'compact navigation disclosure is missing');
   assert.ok(menu.querySelector('summary'));
-  for (const href of ['/blog/', '/beauty/', '/guides/', '/category/grocery-food/', '/category/home-kitchen/', 'https://www.facebook.com/groups/1224964507605101', 'https://t.me/shoppingwithnoya', 'https://shoppingwithnoya.com']) {
+  for (const href of ['/blog/', '/beauty/', '/guides/', '/category/grocery-food/', '/category/home-kitchen/', 'https://www.facebook.com/groups/1224964507605101', 'https://t.me/shoppingwithnoya', 'https://poshmark.com/closet/noyascloset']) {
     assert.ok(menu.querySelector(`a[href="${href}"]`), `menu destination ${href}`);
   }
 });

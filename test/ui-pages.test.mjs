@@ -38,7 +38,7 @@ for (const route of ['contact', 'privacy', 'terms']) test(`${route}: social meta
 });
 
 function priority(d) {
-  const imgs = [...d.querySelectorAll('#deals-grid img')];
+  const imgs = [...d.querySelectorAll('#deals-grid .deal-card img')];
   assert.ok(imgs.length > 1);
   assert.equal(imgs[0].getAttribute('loading'), 'eager');
   assert.equal(imgs[0].getAttribute('fetchpriority'), 'high');
