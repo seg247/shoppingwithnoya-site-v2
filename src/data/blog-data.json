@@ -4,16 +4,40 @@
       "date": "2026-11-08",
       "slug": "2026-11-08",
       "title": "🔥 Best Deals Today — November 8, 2026",
-      "intro": "Today's best online deals for Sunday, November 8, 2026 — 10 hand-picked discounts across Electronics, Beauty, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, November 8, 2026 — 10 hand-picked discounts across Electronics, Home & Kitchen, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
+        "Home & Kitchen",
         "Beauty",
         "Other",
         "Personal Care",
-        "Home & Kitchen",
         "Fashion"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B00FLYWNYQ",
+            "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+            "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+            "price": "$84.48",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL.jpg",
+            "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D1KBBB55",
+            "slug": "bedsure-prewashed-twin-duvet-cover-cotton-like-bedding-set-t",
+            "title": "Bedsure Prewashed Twin Duvet Cover, Cotton-Like Bedding Set, Terracotta | Ultra Soft, Relaxed Texture, Twin XL Breathable Comfort, Hidden Zipper, 8 Corner Ties, Easy Care, Year-Round Use : Home & Kitchen",
+            "price": "$26.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81zXNWgum7L.jpg",
+            "url": "https://www.amazon.com/dp/B0D1KBBB55?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0F43VB16N",
@@ -47,17 +71,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61A3VDQN0pL.jpg",
             "url": "https://www.amazon.com/dp/B085VG93H4?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BWCLNS56",
-            "slug": "miracase-silicone-for-iphone-se-2022se-202078-caseblackcurra",
-            "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Blackcurrant | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
-            "price": "$17.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61O4kVGuYML.jpg",
-            "url": "https://www.amazon.com/dp/B0BWCLNS56?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -110,19 +123,6 @@
             "url": "https://www.amazon.com/dp/B0BPXT3GBN?tag=noya0b-20"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0D1KBBB55",
-            "slug": "bedsure-prewashed-twin-duvet-cover-cotton-like-bedding-set-t",
-            "title": "Bedsure Prewashed Twin Duvet Cover, Cotton-Like Bedding Set, Terracotta | Ultra Soft, Relaxed Texture, Twin XL Breathable Comfort, Hidden Zipper, 8 Corner Ties, Easy Care, Year-Round Use : Home & Kitchen",
-            "price": "$26.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81zXNWgum7L.jpg",
-            "url": "https://www.amazon.com/dp/B0D1KBBB55?tag=noya0b-20"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B095RKF23V",
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B00FLYWNYQ",
+          "slug": "instant-pot-duo-6-qt-7-in-1-electric-pressure-cooker-stainle",
+          "title": "Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+          "price": "$84.48",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Z401LjFFL.jpg",
+          "url": "https://www.amazon.com/dp/B00FLYWNYQ?tag=noya0b-20"
+        },
         {
           "asin": "B0F43VB16N",
           "slug": "miracase-silicone-magnetic-for-iphone-14-case-with-stand-mid",
@@ -236,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/715sqJWTlaL.jpg",
           "url": "https://www.amazon.com/dp/B095RKF23V?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BWCLNS56",
-          "slug": "miracase-silicone-for-iphone-se-2022se-202078-caseblackcurra",
-          "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Blackcurrant | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
-          "price": "$17.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61O4kVGuYML.jpg",
-          "url": "https://www.amazon.com/dp/B0BWCLNS56?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 8, 2026?",
-          "a": "The best deals today include \"Miracase Silicone & Magnetic for iPhone 14 Case with Stand, ...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Other and are updated daily."
+          "a": "The best deals today include \"Instant Pot Duo 6 Qt 7-in-1 Electric Pressure Cooker, Stainl...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-08T08:40:01.255Z",
-      "updatedAt": "2026-11-08T08:40:01.255Z"
+      "generatedAt": "2026-11-08T08:50:02.439Z",
+      "updatedAt": "2026-11-08T08:50:02.439Z"
     },
     {
       "date": "2026-11-07",
@@ -16280,5 +16280,5 @@
       "updatedAt": "2026-09-11T03:50:02.317Z"
     }
   ],
-  "generatedAt": "2026-11-08T08:40:01.261Z"
+  "generatedAt": "2026-11-08T08:50:02.443Z"
 }
