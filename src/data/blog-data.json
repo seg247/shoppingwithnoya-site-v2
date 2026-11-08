@@ -4,16 +4,15 @@
       "date": "2026-11-07",
       "slug": "2026-11-07",
       "title": "🔥 Best Deals Today — November 7, 2026",
-      "intro": "Today's best online deals for Saturday, November 7, 2026 — 10 hand-picked discounts across Other, Personal Care, Toys & Kids and more. The best discount today is 70% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, November 7, 2026 — 10 hand-picked discounts across Other, Electronics, Personal Care and more. The best discount today is 70% off. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
+        "Electronics",
         "Personal Care",
         "Toys & Kids",
         "Beauty",
         "Fashion",
-        "Electronics",
-        "Home & Kitchen",
-        "Garden & Outdoor"
+        "Home & Kitchen"
       ],
       "byCategory": {
         "Other": [
@@ -51,6 +50,30 @@
             "category": "Toys & Kids",
             "imageUrl": "https://m.media-amazon.com/images/I/41o5Y2eTItL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FDGZDRGS?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0D4Z9C562",
+            "slug": "bose-quietcomfort-headphones-wireless-bluetooth-headphones-a",
+            "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Sandstone",
+            "price": "$169.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61C5t1ltM5L.jpg",
+            "url": "https://www.amazon.com/dp/B0D4Z9C562?tag=noya0b-20"
+          },
+          {
+            "asin": "B0002E4Z8M",
+            "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
+            "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting & Streaming | XLR studio dynamic mic for broadcast, podcast, recording, gaming and streaming; smooth warm vocals, rugged build : Musical Instruments",
+            "price": "$369.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
+            "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
           }
         ],
         "Personal Care": [
@@ -103,19 +126,6 @@
             "url": "https://www.amazon.com/dp/B09MJKJYLQ?tag=noya0b-20"
           }
         ],
-        "Electronics": [
-          {
-            "asin": "B0002E4Z8M",
-            "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
-            "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting & Streaming | XLR studio dynamic mic for broadcast, podcast, recording, gaming and streaming; smooth warm vocals, rugged build : Musical Instruments",
-            "price": "$369.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
-            "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
-          }
-        ],
         "Home & Kitchen": [
           {
             "asin": "B086PY1SW6",
@@ -127,19 +137,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81cDuRQoCVL.jpg",
             "url": "https://www.amazon.com/dp/B086PY1SW6?tag=noya0b-20"
-          }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B08HWQTJ7K",
-            "slug": "blackdecker-portable-electric-heater-with-humidifier-functio",
-            "title": "Black+Decker Portable Electric Heater with Humidifier Function, Fast Heating with Widespread Oscillation, Multi-protection, for Office Desk Bedroom Indoor Use : Home & Kitchen",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ITtpa9VGL.jpg",
-            "url": "https://www.amazon.com/dp/B08HWQTJ7K?tag=noya0b-20"
           }
         ]
       },
@@ -176,6 +173,17 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/41hHpL9AglL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B018FFHR98?tag=noya0b-20"
+        },
+        {
+          "asin": "B0D4Z9C562",
+          "slug": "bose-quietcomfort-headphones-wireless-bluetooth-headphones-a",
+          "title": "Bose QuietComfort Headphones - Wireless Bluetooth Headphones, Active Over Ear Noise Cancelling and Mic, USB-C Charging, Deep Bass, Up to 24 Hours of Playtime, Sandstone",
+          "price": "$169.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61C5t1ltM5L.jpg",
+          "url": "https://www.amazon.com/dp/B0D4Z9C562?tag=noya0b-20"
         },
         {
           "asin": "B0H837X5GY",
@@ -242,23 +250,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81cDuRQoCVL.jpg",
           "url": "https://www.amazon.com/dp/B086PY1SW6?tag=noya0b-20"
-        },
-        {
-          "asin": "B08HWQTJ7K",
-          "slug": "blackdecker-portable-electric-heater-with-humidifier-functio",
-          "title": "Black+Decker Portable Electric Heater with Humidifier Function, Fast Heating with Widespread Oscillation, Multi-protection, for Office Desk Bedroom Indoor Use : Home & Kitchen",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ITtpa9VGL.jpg",
-          "url": "https://www.amazon.com/dp/B08HWQTJ7K?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 7, 2026?",
-          "a": "The best deals today include \"National Tree Company 7.5ft Unlit Kingswood Fir Slim Christm...\" and 9 other hand-picked discounts. Deals span Other, Personal Care, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"National Tree Company 7.5ft Unlit Kingswood Fir Slim Christm...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Personal Care and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-08T00:40:01.929Z",
-      "updatedAt": "2026-11-08T00:40:01.929Z"
+      "generatedAt": "2026-11-08T00:50:02.496Z",
+      "updatedAt": "2026-11-08T00:50:02.496Z"
     },
     {
       "date": "2026-11-06",
@@ -16286,5 +16283,5 @@
       "updatedAt": "2026-09-10T03:50:02.947Z"
     }
   ],
-  "generatedAt": "2026-11-08T00:40:01.936Z"
+  "generatedAt": "2026-11-08T00:50:02.501Z"
 }
