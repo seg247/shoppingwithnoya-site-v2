@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-09T15:20:02.133Z",
+  "generatedAt": "2026-11-09T15:30:02.304Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b0b1qt8xcn-eoocan-20-inches-monogram-christmas-stockings-red-velvet-wit",
+      "asin": "B0B1QT8XCN",
+      "title": "Eoocan 20 Inches Monogram Christmas Stockings Red Velvet with White Super Soft Plush Cuff Embroidered Xmas Stockings Cla",
+      "url": "https://www.amazon.com/dp/B0B1QT8XCN/ref=cmswrasglapiglidl_NQMPA8VN0FSKK2JZGPB3?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Fashion",
+      "ts": "2026-11-09T15:20:22.934Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/31zwx5EcdzL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 50% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "giftcards-instacart100-earlycart-20261109-instacart-100-egift-u-s-eligible-orders",
       "asin": "GIFTCARDS-INSTACART100-EARLYCART-20261109",
@@ -376,11 +396,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71lOmiGI6gL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8442,22 +8458,6 @@
       "ts": "2026-10-25T19:40:23.264Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41voR+aqTXL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b00e9md3v8-mason-natural-collagen-anti-aging-face-body-cream-pear-scent",
-      "asin": "B00E9MD3V8",
-      "title": "MASON NATURAL Collagen Anti-Aging Face & Body Cream, Pear Scent, 2 oz 3-Pk | Non-greasy collagen moisturizer to hydrate skin, reduce the look of wrinkles & support firmness; pear scent; Pack of 3 : Beauty & Personal Care",
-      "url": "https://www.amazon.com/dp/B00E9MD3V8?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-10-25T15:40:45.211Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61ftiDV357L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21463,6 +21463,16 @@
       "category": "Fashion",
       "ts": "2026-10-25T06:20:39.234Z",
       "archivedAt": "2026-11-09T14:30:01.302Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00e9md3v8-mason-natural-collagen-anti-aging-face-body-cream-pear-scent",
+      "asin": "B00E9MD3V8",
+      "title": "MASON NATURAL Collagen Anti-Aging Face & Body Cream, Pear Scent, 2 oz 3-Pk | Non-greasy collagen moisturizer to hydrate skin, reduce the look of wrinkles & support firmness; pear scent; Pack of 3 : Beauty & Personal Care",
+      "url": "https://www.amazon.com/dp/B00E9MD3V8?tag=noya0b-20",
+      "category": "Beauty",
+      "ts": "2026-10-25T15:40:45.211Z",
+      "archivedAt": "2026-11-09T15:30:02.304Z",
       "status": "archived"
     }
   ]
