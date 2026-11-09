@@ -9,8 +9,8 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
-        "Beauty",
-        "Electronics"
+        "Gold Box Deal",
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0H158KXXZ/ref=cmswrasglapigli06HM89SKRM1JTTE63STN?tag=noya0b-20"
           }
         ],
+        "Gold Box Deal": [
+          {
+            "asin": "B08CXNN9CS",
+            "slug": "bedsure-comforter-duvet-insert-quilted-comforters-full-size",
+            "title": "Bedsure Comforter Duvet Insert - Quilted Comforters Full Size, All Season Duvet, GentleSoft Down Alternative Bedding, with 8 Tabs, Gifts for Women/Men, Black, Full 86 x 82 Inches : Home & Kitchen",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/71WZAXpQeRL.jpg",
+            "url": "https://www.amazon.com/dp/B08CXNN9CS?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B09HSGD74T",
@@ -118,19 +131,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
             "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0002E4Z8M",
-            "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
-            "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting & Streaming | XLR studio dynamic mic for broadcast, podcast, recording, gaming and streaming; smooth warm vocals, rugged build : Musical Instruments",
-            "price": "$369.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
-            "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
           }
         ]
       },
@@ -224,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B0CQJP252H/ref=cmswrasglapigli1TD0GYK09R1HTP1C4THD?tag=noya0b-20"
         },
         {
+          "asin": "B08CXNN9CS",
+          "slug": "bedsure-comforter-duvet-insert-quilted-comforters-full-size",
+          "title": "Bedsure Comforter Duvet Insert - Quilted Comforters Full Size, All Season Duvet, GentleSoft Down Alternative Bedding, with 8 Tabs, Gifts for Women/Men, Black, Full 86 x 82 Inches : Home & Kitchen",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/71WZAXpQeRL.jpg",
+          "url": "https://www.amazon.com/dp/B08CXNN9CS?tag=noya0b-20"
+        },
+        {
           "asin": "B09HSGD74T",
           "slug": "collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
           "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic Acid & Vitamin E - Visibly Firming & Tightening Face Cream for Women & Men : Beauty & Personal Care",
@@ -233,17 +244,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
           "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20"
-        },
-        {
-          "asin": "B0002E4Z8M",
-          "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
-          "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting & Streaming | XLR studio dynamic mic for broadcast, podcast, recording, gaming and streaming; smooth warm vocals, rugged build : Musical Instruments",
-          "price": "$369.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
-          "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-09T02:40:01.677Z",
-      "updatedAt": "2026-11-09T02:40:01.677Z"
+      "generatedAt": "2026-11-09T02:50:02.861Z",
+      "updatedAt": "2026-11-09T02:50:02.861Z"
     },
     {
       "date": "2026-11-07",
@@ -16277,5 +16277,5 @@
       "updatedAt": "2026-09-11T03:50:02.317Z"
     }
   ],
-  "generatedAt": "2026-11-09T02:40:01.682Z"
+  "generatedAt": "2026-11-09T02:50:02.866Z"
 }
