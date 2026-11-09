@@ -9,8 +9,8 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
-        "Beauty",
-        "Electronics"
+        "Gold Box Deal",
+        "Beauty"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0H158KXXZ/ref=cmswrasglapigli06HM89SKRM1JTTE63STN?tag=noya0b-20"
           }
         ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0FWRF7X5J",
+            "slug": "miracase-silicone-for-iphone-se-2022se-202078-casedark-blue",
+            "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Dark Blue | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
+            "price": "$17.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/61oTjInkD9L.jpg",
+            "url": "https://www.amazon.com/dp/B0FWRF7X5J?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B08SL72G3P",
@@ -118,19 +131,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
             "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0H2HHDK78",
-            "slug": "miracase-magnetic-for-iphone-16-case-silicone-wave-case-sand",
-            "title": "Miracase Magnetic for iPhone 16 Case, Silicone Wave Case, Sand Pink | Cute Curly Wave Frame with Dual Lanyard Holes, Soft Microfiber Lining, Shockproof Drop Protection Phone Case for 16 : Cell Phones & Accessories",
-            "price": "$22.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61oQlFGPztL.jpg",
-            "url": "https://www.amazon.com/dp/B0H2HHDK78?tag=noya0b-20"
           }
         ]
       },
@@ -224,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B0CQJP252H/ref=cmswrasglapigli1TD0GYK09R1HTP1C4THD?tag=noya0b-20"
         },
         {
+          "asin": "B0FWRF7X5J",
+          "slug": "miracase-silicone-for-iphone-se-2022se-202078-casedark-blue",
+          "title": "Miracase Silicone for iPhone SE 2022/SE 2020/7/8 Case,Dark Blue | Ultra Slim Cover with Screen Protector, Soft Microfiber Lining, Multi-Color Premium Silicone Shockproof Phone Case : Cell Phones & Accessories",
+          "price": "$17.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/61oTjInkD9L.jpg",
+          "url": "https://www.amazon.com/dp/B0FWRF7X5J?tag=noya0b-20"
+        },
+        {
           "asin": "B08SL72G3P",
           "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
           "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
@@ -233,17 +244,6 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
           "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-        },
-        {
-          "asin": "B0H2HHDK78",
-          "slug": "miracase-magnetic-for-iphone-16-case-silicone-wave-case-sand",
-          "title": "Miracase Magnetic for iPhone 16 Case, Silicone Wave Case, Sand Pink | Cute Curly Wave Frame with Dual Lanyard Holes, Soft Microfiber Lining, Shockproof Drop Protection Phone Case for 16 : Cell Phones & Accessories",
-          "price": "$22.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61oQlFGPztL.jpg",
-          "url": "https://www.amazon.com/dp/B0H2HHDK78?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-09T04:40:01.351Z",
-      "updatedAt": "2026-11-09T04:40:01.351Z"
+      "generatedAt": "2026-11-09T04:50:01.107Z",
+      "updatedAt": "2026-11-09T04:50:01.107Z"
     },
     {
       "date": "2026-11-07",
@@ -16277,5 +16277,5 @@
       "updatedAt": "2026-09-11T03:50:02.317Z"
     }
   ],
-  "generatedAt": "2026-11-09T04:40:01.356Z"
+  "generatedAt": "2026-11-09T04:50:01.113Z"
 }
