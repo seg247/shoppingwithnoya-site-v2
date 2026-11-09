@@ -9,8 +9,8 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
-        "Electronics",
-        "Beauty"
+        "Beauty",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0H158KXXZ/ref=cmswrasglapigli06HM89SKRM1JTTE63STN?tag=noya0b-20"
           }
         ],
+        "Beauty": [
+          {
+            "asin": "B08SL72G3P",
+            "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+            "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
+            "price": "$19.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+            "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0H2HHDK78",
@@ -118,19 +131,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61oQlFGPztL.jpg",
             "url": "https://www.amazon.com/dp/B0H2HHDK78?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B08QCZRRXJ",
-            "slug": "face-make-up-set-full-coverage-concealer-pore-primer-black-m",
-            "title": "Face Make Up Set Full Coverage Concealer & Pore Primer & Black Mascara & Sponge Makeup Kit, Waterproof Matte Flawless Creamy Liquid Foundation Corrector Covers Face Eye Dark Circles Spot Acne Scar : Beauty & Personal Care",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
-            "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
           }
         ]
       },
@@ -224,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B0CQJP252H/ref=cmswrasglapigli1TD0GYK09R1HTP1C4THD?tag=noya0b-20"
         },
         {
+          "asin": "B08SL72G3P",
+          "slug": "vitamins-keratin-hair-treatment-kit-deep-conditioner-mask-an",
+          "title": "Vitamins Keratin Hair Treatment Kit - Deep Conditioner Mask and Protein Shampoo for Fine, Dry, Damaged, Color-Treated Hair : Beauty & Personal Care",
+          "price": "$19.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
+          "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
+        },
+        {
           "asin": "B0H2HHDK78",
           "slug": "miracase-magnetic-for-iphone-16-case-silicone-wave-case-sand",
           "title": "Miracase Magnetic for iPhone 16 Case, Silicone Wave Case, Sand Pink | Cute Curly Wave Frame with Dual Lanyard Holes, Soft Microfiber Lining, Shockproof Drop Protection Phone Case for 16 : Cell Phones & Accessories",
@@ -233,17 +244,6 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61oQlFGPztL.jpg",
           "url": "https://www.amazon.com/dp/B0H2HHDK78?tag=noya0b-20"
-        },
-        {
-          "asin": "B08QCZRRXJ",
-          "slug": "face-make-up-set-full-coverage-concealer-pore-primer-black-m",
-          "title": "Face Make Up Set Full Coverage Concealer & Pore Primer & Black Mascara & Sponge Makeup Kit, Waterproof Matte Flawless Creamy Liquid Foundation Corrector Covers Face Eye Dark Circles Spot Acne Scar : Beauty & Personal Care",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/61YAGY9KNtL.jpg",
-          "url": "https://www.amazon.com/dp/B08QCZRRXJ?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-09T04:20:02.047Z",
-      "updatedAt": "2026-11-09T04:20:02.048Z"
+      "generatedAt": "2026-11-09T04:30:01.931Z",
+      "updatedAt": "2026-11-09T04:30:01.931Z"
     },
     {
       "date": "2026-11-07",
@@ -16277,5 +16277,5 @@
       "updatedAt": "2026-09-11T03:50:02.317Z"
     }
   ],
-  "generatedAt": "2026-11-09T04:20:02.054Z"
+  "generatedAt": "2026-11-09T04:30:01.940Z"
 }
