@@ -9,8 +9,8 @@
         "Other",
         "Home & Kitchen",
         "Toys & Kids",
-        "Sports & Fitness",
-        "Fashion"
+        "Grocery & Food",
+        "Sports & Fitness"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0B1QT8XCN/ref=cmswrasglapiglidl_NQMPA8VN0FSKK2JZGPB3?tag=noya0b-20"
           }
         ],
+        "Grocery & Food": [
+          {
+            "asin": "B07YMMK73J",
+            "slug": "yumearth-organic-holiday-mini-candy-canes-30-count-individua",
+            "title": "YumEarth Organic Holiday Mini Candy Canes, 30 Count | Individually Wrapped, Allergy Friendly, Gluten Free, Non-GMO, Vega",
+            "price": "8.79",
+            "discount": 32,
+            "rating": "HOT",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/51iyA43m3vL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B07YMMK73J?tag=noya0b-20"
+          }
+        ],
         "Sports & Fitness": [
           {
             "asin": "B0FMXH43YN",
@@ -118,19 +131,6 @@
             "category": "Sports & Fitness",
             "imageUrl": "https://m.media-amazon.com/images/I/51qiFjFsjgL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0FMXH43YN?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B016Q6NXDM",
-            "slug": "romastory-winter-warm-women-velvet-elastic-leggings-pants-bl",
-            "title": "Romastory Winter Warm Women Velvet Elastic Leggings Pants (Black) one size",
-            "price": "12.95",
-            "discount": 13,
-            "rating": "GOOD",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/31O31pumZYL._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliXRBYTH62CY1J791FZGY6?tag=noya0b-20"
           }
         ]
       },
@@ -202,6 +202,17 @@
           "url": "https://www.amazon.com/dp/B0HK7K5T4N/ref=cmswrasglapiglidl_K3RQ3HFR43MSQC39EXFG?tag=noya0b-20"
         },
         {
+          "asin": "B07YMMK73J",
+          "slug": "yumearth-organic-holiday-mini-candy-canes-30-count-individua",
+          "title": "YumEarth Organic Holiday Mini Candy Canes, 30 Count | Individually Wrapped, Allergy Friendly, Gluten Free, Non-GMO, Vega",
+          "price": "8.79",
+          "discount": 32,
+          "rating": "HOT",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/51iyA43m3vL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B07YMMK73J?tag=noya0b-20"
+        },
+        {
           "asin": "B0H5TG9FC6",
           "slug": "ninja-crushboss-2-in-1-blender-tumbler-amazon-exclusive-bone",
           "title": "Ninja CrushBOSS 2-in-1 Blender & Tumbler, Amazon Exclusive Bone & Champagne | Ninja's most powerful blender duo. 1850PW ",
@@ -233,17 +244,6 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/51qiFjFsjgL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B0FMXH43YN?tag=noya0b-20"
-        },
-        {
-          "asin": "B016Q6NXDM",
-          "slug": "romastory-winter-warm-women-velvet-elastic-leggings-pants-bl",
-          "title": "Romastory Winter Warm Women Velvet Elastic Leggings Pants (Black) one size",
-          "price": "12.95",
-          "discount": 13,
-          "rating": "GOOD",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/31O31pumZYL._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliXRBYTH62CY1J791FZGY6?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-09T23:00:02.804Z",
-      "updatedAt": "2026-11-09T23:00:02.804Z"
+      "generatedAt": "2026-11-09T23:10:02.398Z",
+      "updatedAt": "2026-11-09T23:10:02.398Z"
     },
     {
       "date": "2026-11-08",
@@ -16280,5 +16280,5 @@
       "updatedAt": "2026-09-12T23:56:30.651Z"
     }
   ],
-  "generatedAt": "2026-11-09T23:00:02.810Z"
+  "generatedAt": "2026-11-09T23:10:02.405Z"
 }
