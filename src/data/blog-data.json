@@ -9,8 +9,8 @@
         "Other",
         "Fashion",
         "Home & Kitchen",
-        "Smart Home",
-        "Electronics"
+        "Electronics",
+        "Smart Home"
       ],
       "byCategory": {
         "Other": [
@@ -107,6 +107,19 @@
             "url": "https://www.amazon.com/dp/B0H158KXXZ/ref=cmswrasglapigli06HM89SKRM1JTTE63STN?tag=noya0b-20"
           }
         ],
+        "Electronics": [
+          {
+            "asin": "B09Z2F7YL9",
+            "slug": "miracase-silicone-for-iphone-11-phone-case-sand-soft-anti-sc",
+            "title": "Miracase Silicone for iPhone 11 Phone Case, Sand | Soft Anti-Scratch Microfiber Lining, Premium Silicone Cover Shockproof Drop Protection Phone Case for 11 : Cell Phones & Accessories",
+            "price": "$14.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61bossw-2KL.jpg",
+            "url": "https://www.amazon.com/dp/B09Z2F7YL9?tag=noya0b-20"
+          }
+        ],
         "Smart Home": [
           {
             "asin": "B0CL9CG87N",
@@ -118,19 +131,6 @@
             "category": "Smart Home",
             "imageUrl": "https://m.media-amazon.com/images/I/51Az+NTb+JL.jpg",
             "url": "https://www.amazon.com/dp/B0CL9CG87N?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0CXPR5412",
-            "slug": "nothing-ear-a-wireless-earbuds-45db-hybrid-noise-cancelling",
-            "title": "Nothing Ear (a) Wireless Earbuds, 45dB Hybrid Noise Cancelling Earbuds, Hi-Res Audio, Advanced Equaliser, Dual Connect, 6 Mics, 42.5H Playtime Ear Buds Wireless Bluetooth, Black",
-            "price": "$79.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61LxItqjbXL.jpg",
-            "url": "https://www.amazon.com/dp/B0CXPR5412?tag=noya0b-20"
           }
         ]
       },
@@ -224,6 +224,17 @@
           "url": "https://www.amazon.com/dp/B0CQJP252H/ref=cmswrasglapigli1TD0GYK09R1HTP1C4THD?tag=noya0b-20"
         },
         {
+          "asin": "B09Z2F7YL9",
+          "slug": "miracase-silicone-for-iphone-11-phone-case-sand-soft-anti-sc",
+          "title": "Miracase Silicone for iPhone 11 Phone Case, Sand | Soft Anti-Scratch Microfiber Lining, Premium Silicone Cover Shockproof Drop Protection Phone Case for 11 : Cell Phones & Accessories",
+          "price": "$14.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61bossw-2KL.jpg",
+          "url": "https://www.amazon.com/dp/B09Z2F7YL9?tag=noya0b-20"
+        },
+        {
           "asin": "B0CL9CG87N",
           "slug": "amazon-basics-smart-plug-with-timer-function-voice-control-w",
           "title": "Amazon Basics Smart Plug with Timer Function, Voice Control, WiFi Outlet, Works with Alexa Only, Schedule, APP Control, 2.4 GHz Wi-Fi, No Hub Required, 2-Pack, White",
@@ -233,17 +244,6 @@
           "category": "Smart Home",
           "imageUrl": "https://m.media-amazon.com/images/I/51Az+NTb+JL.jpg",
           "url": "https://www.amazon.com/dp/B0CL9CG87N?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CXPR5412",
-          "slug": "nothing-ear-a-wireless-earbuds-45db-hybrid-noise-cancelling",
-          "title": "Nothing Ear (a) Wireless Earbuds, 45dB Hybrid Noise Cancelling Earbuds, Hi-Res Audio, Advanced Equaliser, Dual Connect, 6 Mics, 42.5H Playtime Ear Buds Wireless Bluetooth, Black",
-          "price": "$79.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61LxItqjbXL.jpg",
-          "url": "https://www.amazon.com/dp/B0CXPR5412?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-09T00:40:04.344Z",
-      "updatedAt": "2026-11-09T00:40:04.344Z"
+      "generatedAt": "2026-11-09T00:50:04.435Z",
+      "updatedAt": "2026-11-09T00:50:04.435Z"
     },
     {
       "date": "2026-11-07",
@@ -16277,5 +16277,5 @@
       "updatedAt": "2026-09-11T03:50:02.317Z"
     }
   ],
-  "generatedAt": "2026-11-09T00:40:04.351Z"
+  "generatedAt": "2026-11-09T00:50:04.443Z"
 }
