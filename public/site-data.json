@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-10T02:20:01.706Z",
+  "generatedAt": "2026-11-10T02:30:02.420Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b074h51qpn-15-5-oz-365-by-whole-foods-market-dark-red-kidney-beans-no-s",
+      "asin": "B074H51QPN",
+      "title": "15.5-Oz 365 by Whole Foods Market Dark Red Kidney Beans (No Salt Added)",
+      "url": "https://www.amazon.com/dp/B074H51QPN?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-10T02:20:45.119Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51I4HCVd7oL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b07mbxwx1c-logitech-g-farm-simulator-heavy-equipment-bundle-2nd-generat",
       "asin": "B07MBXWX1C",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/715kLIWZGCL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8442,22 +8458,6 @@
       "ts": "2026-10-27T06:40:41.877Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71nFzfnUIAL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b07jz124fk-wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
-      "asin": "B07JZ124FK",
-      "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
-      "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-10-27T06:00:35.958Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51MQuZwKzvL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21623,6 +21623,16 @@
       "category": "Other",
       "ts": "2026-11-03T07:20:44.482Z",
       "archivedAt": "2026-11-10T02:10:02.514Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b07jz124fk-wifi-smart-wall-outlet-receptacle-duplex-receptacle-outlet-p",
+      "asin": "B07JZ124FK",
+      "title": "WiFi Smart Wall Outlet Receptacle - Duplex Receptacle Outlet Plug 15 Amp, Tamper Resistant Wall Socket USB Outlet, Compatible with Alexa Google Assistant and IFTTT, No Hub Required",
+      "url": "https://www.amazon.com/dp/B07JZ124FK?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-10-27T06:00:35.958Z",
+      "archivedAt": "2026-11-10T02:30:02.420Z",
       "status": "archived"
     }
   ]
