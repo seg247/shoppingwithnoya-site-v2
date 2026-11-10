@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-10T16:00:01.576Z",
+  "generatedAt": "2026-11-10T16:10:01.440Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b0dl64r3p2-ohome-stocking-stuffers-12-rainbow-colored-pencils-christmas",
+      "asin": "B0DL64R3P2",
+      "title": "OHOME Stocking Stuffers - 12 Rainbow Colored Pencils - Christmas Easter Games Crafts for kids,Art Supplies Drawing Kit f",
+      "url": "https://www.amazon.com/dp/B0DL64R3P2/ref=cmswrasglapiglidl_3WNTP7BTVCWKCCS1ECRN?tag=noya0b-20",
+      "discount": 50,
+      "rating": "FIRE",
+      "category": "Toys & Kids",
+      "ts": "2026-11-10T16:00:25.062Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41Vl-GVg55L._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 50% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b07sydztb2-hearth-harbor-extra-deep-pocket-queen-sheets-sets-fits-mattr",
       "asin": "B07SYDZTB2",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71oZ1-QYomL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8458,22 +8474,6 @@
       "ts": "2026-10-28T16:40:18.102Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/31ZJhAoNM7L._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0glpfsk4d-electric-scooter-350w-500w-motor-21-28-40-miles-long-range-1",
-      "asin": "B0GLPFSK4D",
-      "title": "Electric Scooter, 350W/500W Motor, 21/28/40 Miles Long Range, 19 MPH Max Speed, 8.5\" Solid Tire, Lightweight EScooter wi",
-      "url": "https://www.amazon.com/dp/B0GLPFSK4D/ref=cmswrasglapiglidl_DM4KRFQ0C7QKTAZP485C?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Sports & Fitness",
-      "ts": "2026-10-28T15:40:20.032Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41+igOJvU8L._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21829,6 +21829,16 @@
       "category": "Garden & Outdoor",
       "ts": "2026-10-28T15:00:42.649Z",
       "archivedAt": "2026-11-10T15:50:01.663Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0glpfsk4d-electric-scooter-350w-500w-motor-21-28-40-miles-long-range-1",
+      "asin": "B0GLPFSK4D",
+      "title": "Electric Scooter, 350W/500W Motor, 21/28/40 Miles Long Range, 19 MPH Max Speed, 8.5\" Solid Tire, Lightweight EScooter wi",
+      "url": "https://www.amazon.com/dp/B0GLPFSK4D/ref=cmswrasglapiglidl_DM4KRFQ0C7QKTAZP485C?tag=noya0b-20",
+      "category": "Sports & Fitness",
+      "ts": "2026-10-28T15:40:20.032Z",
+      "archivedAt": "2026-11-10T16:10:01.440Z",
       "status": "archived"
     }
   ]
