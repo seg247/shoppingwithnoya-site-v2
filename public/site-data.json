@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-10T20:00:01.886Z",
+  "generatedAt": "2026-11-10T20:10:01.683Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b00262227e-mrs-meyer-s-clean-day-hand-soap-refill-lavender-scent-33-fl-",
+      "asin": "B00262227E",
+      "title": "Mrs. Meyer's Clean Day, Hand Soap Refill, Lavender Scent, 33 Fl Oz",
+      "url": "https://www.amazon.com/dp/B00262227E?tag=noya0b-20",
+      "discount": 75,
+      "rating": "FIRE",
+      "category": "Grocery & Food",
+      "ts": "2026-11-10T20:00:16.245Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41yl2MsVgpL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 75% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0f151gfyr-ring-wired-doorbell-pro-4k-video-doorbell",
       "asin": "B0F151GFYR",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Ow8kMGr-L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8458,22 +8474,6 @@
       "ts": "2026-10-28T22:20:29.483Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41Yzrk9RjJL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b078myjyd5-yuanshikj-small-steel-security-safe-box-with-keypad-key-0-23",
-      "asin": "B078MYJYD5",
-      "title": "Yuanshikj Small Steel Security Safe Box with Keypad,Key;0.23 CuFt, Black | Electronic Digital Secure,9.1\" W x 6.7\" D x 6",
-      "url": "https://www.amazon.com/dp/B078MYJYD5?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-10-28T22:00:26.263Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21889,6 +21889,16 @@
       "category": "Other",
       "ts": "2026-10-28T21:40:25.418Z",
       "archivedAt": "2026-11-10T19:30:02.209Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b078myjyd5-yuanshikj-small-steel-security-safe-box-with-keypad-key-0-23",
+      "asin": "B078MYJYD5",
+      "title": "Yuanshikj Small Steel Security Safe Box with Keypad,Key;0.23 CuFt, Black | Electronic Digital Secure,9.1\" W x 6.7\" D x 6",
+      "url": "https://www.amazon.com/dp/B078MYJYD5?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-10-28T22:00:26.263Z",
+      "archivedAt": "2026-11-10T20:10:01.683Z",
       "status": "archived"
     }
   ]
