@@ -10,8 +10,8 @@
         "Home & Kitchen",
         "Fashion",
         "Sports & Fitness",
-        "Garden & Outdoor",
-        "Gift Cards"
+        "Beauty",
+        "Garden & Outdoor"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -25,6 +25,19 @@
             "category": "Sports & Fitness",
             "imageUrl": "https://m.media-amazon.com/images/I/31NYe+lCESL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B01NAXQGLV?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0HM3QLD7W",
+            "slug": "9-inch-portable-laminator-machine-with-40-laminating-sheets",
+            "title": "9 Inch Portable Laminator Machine with 40 Laminating Sheets and Trimmer | A4 Cold & Thermal Laminator, Laminating Machin",
+            "price": "25.99",
+            "discount": 71,
+            "rating": "FIRE",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41Q-yeS+LtL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0HM3QLD7W/ref=cmswrasglapiglidl_DFA6MMXJC31FVWXPA4V8?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -122,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
             "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
           }
-        ],
-        "Gift Cards": [
-          {
-            "asin": "GIFTCARDS-GAPOPTIONS50-EARLYGAP-20261110",
-            "slug": "gap-options-50-egift",
-            "title": "Gap Options $50 eGift",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gift Cards",
-            "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675039345/07675039345_107615_master.png/_jcr_content/renditions/cq5dam.zoom.2048.2048.jpeg",
-            "url": "https://mavely.app.link/2v9islRiX7b"
-          }
         ]
       },
       "deals": [
@@ -148,6 +148,17 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/31NYe+lCESL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B01NAXQGLV?tag=noya0b-20"
+        },
+        {
+          "asin": "B0HM3QLD7W",
+          "slug": "9-inch-portable-laminator-machine-with-40-laminating-sheets",
+          "title": "9 Inch Portable Laminator Machine with 40 Laminating Sheets and Trimmer | A4 Cold & Thermal Laminator, Laminating Machin",
+          "price": "25.99",
+          "discount": 71,
+          "rating": "FIRE",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Q-yeS+LtL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0HM3QLD7W/ref=cmswrasglapiglidl_DFA6MMXJC31FVWXPA4V8?tag=noya0b-20"
         },
         {
           "asin": "152350675X",
@@ -236,17 +247,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
           "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-        },
-        {
-          "asin": "GIFTCARDS-GAPOPTIONS50-EARLYGAP-20261110",
-          "slug": "gap-options-50-egift",
-          "title": "Gap Options $50 eGift",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gift Cards",
-          "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675039345/07675039345_107615_master.png/_jcr_content/renditions/cq5dam.zoom.2048.2048.jpeg",
-          "url": "https://mavely.app.link/2v9islRiX7b"
         }
       ],
       "faq": [
@@ -256,7 +256,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 72% off on \"CAP Barbell Abdominal Wheel, Black/Gray...\". There are 5 deals with verified discounts today."
+          "a": "The biggest discount today is 72% off on \"CAP Barbell Abdominal Wheel, Black/Gray...\". There are 6 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-10T18:40:02.638Z",
-      "updatedAt": "2026-11-10T18:40:02.638Z"
+      "generatedAt": "2026-11-10T18:50:02.549Z",
+      "updatedAt": "2026-11-10T18:50:02.550Z"
     },
     {
       "date": "2026-11-09",
@@ -16324,5 +16324,5 @@
       "updatedAt": "2026-09-13T03:50:02.238Z"
     }
   ],
-  "generatedAt": "2026-11-10T18:40:02.643Z"
+  "generatedAt": "2026-11-10T18:50:02.555Z"
 }
