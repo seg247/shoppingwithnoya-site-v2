@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-10T19:20:05.256Z",
+  "generatedAt": "2026-11-10T19:30:02.209Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b0h5x2gc1y-dell-15-6-laptop-fhd-intel-core-3-100u-8gb-ram-windows-11-ho",
+      "asin": "B0H5X2GC1Y",
+      "title": "Dell 15.6 Laptop, FHD, Intel Core 3 100U, 8GB RAM, Windows 11 Home",
+      "url": "https://www.amazon.com/dp/B0H5X2GC1Y?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-10T19:20:43.347Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Jz4wLU8JL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0dtm8yc2s-hp-14-business-student-laptop-with-1-year-office-365-copilot",
       "asin": "B0DTM8YC2S",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91yxlFqNOWL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8458,22 +8474,6 @@
       "ts": "2026-10-28T22:00:26.263Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/413jIpPxMOL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0f6lfgqfj-vebu-12v-air-compressor-125psi-tire-inflator-with-in-line-pr",
-      "asin": "B0F6LFGQFJ",
-      "title": "VEBU 12V Air Compressor, 125PSI Tire Inflator with In-line Pressure Gauge | 5.65CFM Fast Inflation for Off-road Vehicles",
-      "url": "https://www.amazon.com/dp/B0F6LFGQFJ?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-10-28T21:40:25.418Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41NyC1rVeyL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21879,6 +21879,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-28T19:00:23.702Z",
       "archivedAt": "2026-11-10T19:10:01.927Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f6lfgqfj-vebu-12v-air-compressor-125psi-tire-inflator-with-in-line-pr",
+      "asin": "B0F6LFGQFJ",
+      "title": "VEBU 12V Air Compressor, 125PSI Tire Inflator with In-line Pressure Gauge | 5.65CFM Fast Inflation for Off-road Vehicles",
+      "url": "https://www.amazon.com/dp/B0F6LFGQFJ?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-10-28T21:40:25.418Z",
+      "archivedAt": "2026-11-10T19:30:02.209Z",
       "status": "archived"
     }
   ]
