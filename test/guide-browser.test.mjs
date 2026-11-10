@@ -38,7 +38,7 @@ test('guide discovery, reading and navigation work at phone and desktop widths',
       await page.locator('.compact-menu > summary').click();
       await page.locator('.guide-navigation a').click();
       assert.ok(page.url().endsWith('/guides/'));
-      await page.locator('.guide-card').click();
+      await page.locator('.guide-card[href="/guides/amazon-coupons-subscribe-save/"]').click();
       assert.ok(page.url().endsWith('/guides/amazon-coupons-subscribe-save/'));
       await page.locator('article a[href="#source-2"]').first().click();
       assert.ok(page.url().endsWith('#source-2'));

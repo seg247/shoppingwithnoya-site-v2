@@ -5,7 +5,7 @@ const { frontmatter } = Astro.props;
 <Base title={frontmatter.seo_title} description={frontmatter.meta_description} type="article">
   <article class="shopping-guide">
     <a class="back-link" href="/guides/">← Shopping Guides</a>
-    <p class="review-date">Published September 14, 2026 · Sources checked September 14, 2026</p>
+    <p class="review-date">Published {frontmatter.published_label ?? 'September 14, 2026'} · Sources checked {frontmatter.sources_checked_label ?? 'September 14, 2026'}</p>
     <slot />
   </article>
 </Base>

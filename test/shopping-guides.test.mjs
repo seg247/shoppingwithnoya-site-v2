@@ -20,14 +20,15 @@ test('approved Amazon guide is a built, indexable page with sources and honest s
   for (const a of d.querySelectorAll('article a[href^="#"]')) assert.ok(d.getElementById(a.hash.slice(1)), a.hash);
 });
 
-test('home and shared layout expose a static Shopping Guides link; hub links to approved guide only', () => {
+test('home and shared layout expose a static Shopping Guides link; hub links to approved Amazon and beauty guides', () => {
   for (const file of ['index.html', guidePath]) {
     assert.ok(doc(file).querySelector('a[href="/guides/"]'), `${file}: visible guide navigation required`);
   }
   assert.ok(existsSync(new URL('guides/index.html', root)), 'Guide hub must be built');
   const d = doc('guides/index.html');
   assert.ok(d.querySelector('main a[href="/guides/amazon-coupons-subscribe-save/"]'));
-  assert.equal(d.querySelectorAll('main a[href^="/guides/"]').length, 1);
+  assert.equal(d.querySelectorAll('main a[href^="/guides/"]').length, 2);
+  assert.ok(d.querySelector('main a[href="/guides/compare-beauty-deals/"]'));
 });
 
 test('both permanent guide URLs appear in the sitemap', () => {
