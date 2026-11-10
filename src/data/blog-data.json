@@ -12,7 +12,8 @@
         "Garden & Outdoor",
         "Electronics",
         "Grocery & Food",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Fashion"
       ],
       "byCategory": {
         "Other": [
@@ -48,17 +49,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/41Vl-GVg55L._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0DL64R3P2/ref=cmswrasglapiglidl_3WNTP7BTVCWKCCS1ECRN?tag=noya0b-20"
-          },
-          {
-            "asin": "B00LEX0T2G",
-            "slug": "columbia-youth-boys-glennaker-rain-jacket-black-xx-small",
-            "title": "Columbia Youth Boys Glennaker Rain Jacket, Black, XX-Small",
-            "price": "9.96",
-            "discount": 34,
-            "rating": "HOT",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/31GzDl84B6L._SL500_.jpg",
-            "url": "https://www.amazon.com/dp/B00LEX0T2G?tag=noya0b-20"
           }
         ],
         "Sports & Fitness": [
@@ -137,6 +127,19 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/41NU7Q+NiIL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B07SYDZTB2/ref=cmswrasglapiglidl_SZPK1CKTTQVJKDMQA1R5?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B08XQZXBVB",
+            "slug": "american-girl-welliewishers-145-inch-kendall-doll-with-pink",
+            "title": "American Girl WellieWishers 14.5-inch Kendall Doll with Pink Leotard, Mesh Skirt, Headband, and Boots, For Ages 4+",
+            "price": "48.99",
+            "discount": 35,
+            "rating": "HOT",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/41mGN5Ho+AL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B08XQZXBVB?tag=noya0b-20"
           }
         ]
       },
@@ -241,15 +244,15 @@
           "url": "https://www.amazon.com/dp/B07SYDZTB2/ref=cmswrasglapiglidl_SZPK1CKTTQVJKDMQA1R5?tag=noya0b-20"
         },
         {
-          "asin": "B00LEX0T2G",
-          "slug": "columbia-youth-boys-glennaker-rain-jacket-black-xx-small",
-          "title": "Columbia Youth Boys Glennaker Rain Jacket, Black, XX-Small",
-          "price": "9.96",
-          "discount": 34,
+          "asin": "B08XQZXBVB",
+          "slug": "american-girl-welliewishers-145-inch-kendall-doll-with-pink",
+          "title": "American Girl WellieWishers 14.5-inch Kendall Doll with Pink Leotard, Mesh Skirt, Headband, and Boots, For Ages 4+",
+          "price": "48.99",
+          "discount": 35,
           "rating": "HOT",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/31GzDl84B6L._SL500_.jpg",
-          "url": "https://www.amazon.com/dp/B00LEX0T2G?tag=noya0b-20"
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/41mGN5Ho+AL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B08XQZXBVB?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-10T23:00:03.193Z",
-      "updatedAt": "2026-11-10T23:00:03.193Z"
+      "generatedAt": "2026-11-10T23:10:01.628Z",
+      "updatedAt": "2026-11-10T23:10:01.628Z"
     },
     {
       "date": "2026-11-09",
@@ -16327,5 +16330,5 @@
       "updatedAt": "2026-09-13T03:50:02.238Z"
     }
   ],
-  "generatedAt": "2026-11-10T23:00:03.219Z"
+  "generatedAt": "2026-11-10T23:10:01.633Z"
 }

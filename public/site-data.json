@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-10T23:00:02.532Z",
+  "generatedAt": "2026-11-10T23:10:01.284Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b08xqzxbvb-american-girl-welliewishers-14-5-inch-kendall-doll-with-pink",
+      "asin": "B08XQZXBVB",
+      "title": "American Girl WellieWishers 14.5-inch Kendall Doll with Pink Leotard, Mesh Skirt, Headband, and Boots, For Ages 4+",
+      "url": "https://www.amazon.com/dp/B08XQZXBVB?tag=noya0b-20",
+      "discount": 35,
+      "rating": "HOT",
+      "category": "Toys & Kids",
+      "ts": "2026-11-10T23:00:26.231Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41mGN5Ho+AL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "hot",
+        "label": "💥 35% OFF",
+        "tone": "hot"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b00lex0t2g-columbia-youth-boys-glennaker-rain-jacket-black-xx-small",
       "asin": "B00LEX0T2G",
@@ -8482,22 +8502,6 @@
       "promoCode": null,
       "badge": null,
       "feedStatus": "missing-image"
-    },
-    {
-      "slug": "b00b2olcgo-lacoste-men-s-classic-fit-l-12-12-original-piqu-polo-shirt-g",
-      "asin": "B00B2OLCGO",
-      "title": "Lacoste Men's Classic Fit L.12.12 Original Piqué Polo Shirt, Green, Medium",
-      "url": "https://www.amazon.com/dp/B00B2OLCGO/ref=cmswrasglapagli6NPKQ5SMP274Y4XQF3KJ?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-10-29T14:20:17.346Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41+jUpSrcZL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
     }
   ],
   "archivedPosts": [
@@ -21969,6 +21973,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-29T14:00:13.573Z",
       "archivedAt": "2026-11-10T22:50:01.564Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00b2olcgo-lacoste-men-s-classic-fit-l-12-12-original-piqu-polo-shirt-g",
+      "asin": "B00B2OLCGO",
+      "title": "Lacoste Men's Classic Fit L.12.12 Original Piqué Polo Shirt, Green, Medium",
+      "url": "https://www.amazon.com/dp/B00B2OLCGO/ref=cmswrasglapagli6NPKQ5SMP274Y4XQF3KJ?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-10-29T14:20:17.346Z",
+      "archivedAt": "2026-11-10T23:10:01.284Z",
       "status": "archived"
     }
   ]
