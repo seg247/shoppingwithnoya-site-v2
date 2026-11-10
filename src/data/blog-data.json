@@ -9,8 +9,9 @@
         "Gold Box Deal",
         "Home & Kitchen",
         "Sports & Fitness",
-        "Other",
-        "Garden & Outdoor"
+        "Garden & Outdoor",
+        "Gift Cards",
+        "Other"
       ],
       "byCategory": {
         "Sports & Fitness": [
@@ -24,6 +25,32 @@
             "category": "Sports & Fitness",
             "imageUrl": "https://m.media-amazon.com/images/I/31NYe+lCESL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B01NAXQGLV?tag=noya0b-20"
+          }
+        ],
+        "Garden & Outdoor": [
+          {
+            "asin": "B0GG5YKGDR",
+            "slug": "mengyanyingyi-womens-pointed-toe-patent-leather-flats-pearl",
+            "title": "MENGYANYINGYI Women's Pointed Toe Patent Leather Flats, Pearl Embellished Mary Jane Shoes White 6.5",
+            "price": "12.94",
+            "discount": 65,
+            "rating": "FIRE",
+            "category": "Garden & Outdoor",
+            "imageUrl": "https://m.media-amazon.com/images/I/41hAocjPMkL._SL500_.jpg",
+            "url": "https://www.amazon.com/dp/B0GG5YKGDR/ref=cmswrasglapiglidl_18N68P5MENY54Q3RQ9FV?tag=noya0b-20"
+          }
+        ],
+        "Gift Cards": [
+          {
+            "asin": "GIFTCARDS-GAPOPTIONS50-EARLYGAP-20261110",
+            "slug": "gap-options-0-egift",
+            "title": "Gap Options 0 eGift",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gift Cards",
+            "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675039345/07675039345_107615_master.png/_jcr_content/renditions/cq5dam.zoom.2048.2048.jpeg",
+            "url": "https://mavely.app.link/2v9islRiX7b"
           }
         ],
         "Other": [
@@ -61,17 +88,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/81tzV2xc+dL.jpg",
             "url": "https://www.amazon.com/dp/B0FY5XTD5J?tag=noya0b-20"
-          },
-          {
-            "asin": "B08BPCRL24",
-            "slug": "moss-stone-2-piece-cutting-boards-for-kitchen-chef-knife-pol",
-            "title": "Moss & Stone 2 Piece Cutting Boards for Kitchen & Chef Knife, Polypropylene and Dishwasher Safe, 2 Chopping Board with Grip Handle BPA-Free: Home & Kitchen",
-            "price": "$19.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81pcNqXmKTL.jpg",
-            "url": "https://www.amazon.com/dp/B08BPCRL24?tag=noya0b-20"
           }
         ],
         "Gold Box Deal": [
@@ -119,19 +135,6 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81P6wQgXINL.jpg",
             "url": "https://www.amazon.com/dp/B0G6T8TCM4?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0C57FV4JS",
-            "slug": "clear-plastic-storage-bins-pantry-organizers-and-storage-or",
-            "title": "Clear Plastic Storage Bins, Pantry Organizers and Storage or Kitchen Organization and Storage Containers Bins for Organizing, Fridge, Freezer, Bathroom, Pantries, Refrigerator, Cabinet Organizer Bin: Home & Kitchen",
-            "price": "$31.49",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/61N0QhteHwL.jpg",
-            "url": "https://www.amazon.com/dp/B0C57FV4JS?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
@@ -145,6 +148,28 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/31NYe+lCESL._SL500_.jpg",
           "url": "https://www.amazon.com/dp/B01NAXQGLV?tag=noya0b-20"
+        },
+        {
+          "asin": "B0GG5YKGDR",
+          "slug": "mengyanyingyi-womens-pointed-toe-patent-leather-flats-pearl",
+          "title": "MENGYANYINGYI Women's Pointed Toe Patent Leather Flats, Pearl Embellished Mary Jane Shoes White 6.5",
+          "price": "12.94",
+          "discount": 65,
+          "rating": "FIRE",
+          "category": "Garden & Outdoor",
+          "imageUrl": "https://m.media-amazon.com/images/I/41hAocjPMkL._SL500_.jpg",
+          "url": "https://www.amazon.com/dp/B0GG5YKGDR/ref=cmswrasglapiglidl_18N68P5MENY54Q3RQ9FV?tag=noya0b-20"
+        },
+        {
+          "asin": "GIFTCARDS-GAPOPTIONS50-EARLYGAP-20261110",
+          "slug": "gap-options-0-egift",
+          "title": "Gap Options 0 eGift",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gift Cards",
+          "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675039345/07675039345_107615_master.png/_jcr_content/renditions/cq5dam.zoom.2048.2048.jpeg",
+          "url": "https://mavely.app.link/2v9islRiX7b"
         },
         {
           "asin": "B0CNW8SXK1",
@@ -222,28 +247,6 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/81P6wQgXINL.jpg",
           "url": "https://www.amazon.com/dp/B0G6T8TCM4?tag=noya0b-20"
-        },
-        {
-          "asin": "B08BPCRL24",
-          "slug": "moss-stone-2-piece-cutting-boards-for-kitchen-chef-knife-pol",
-          "title": "Moss & Stone 2 Piece Cutting Boards for Kitchen & Chef Knife, Polypropylene and Dishwasher Safe, 2 Chopping Board with Grip Handle BPA-Free: Home & Kitchen",
-          "price": "$19.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81pcNqXmKTL.jpg",
-          "url": "https://www.amazon.com/dp/B08BPCRL24?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C57FV4JS",
-          "slug": "clear-plastic-storage-bins-pantry-organizers-and-storage-or",
-          "title": "Clear Plastic Storage Bins, Pantry Organizers and Storage or Kitchen Organization and Storage Containers Bins for Organizing, Fridge, Freezer, Bathroom, Pantries, Refrigerator, Cabinet Organizer Bin: Home & Kitchen",
-          "price": "$31.49",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/61N0QhteHwL.jpg",
-          "url": "https://www.amazon.com/dp/B0C57FV4JS?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -253,7 +256,7 @@
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "The biggest discount today is 72% off on \"CAP Barbell Abdominal Wheel, Black/Gray...\". There are 1 deals with verified discounts today."
+          "a": "The biggest discount today is 72% off on \"CAP Barbell Abdominal Wheel, Black/Gray...\". There are 2 deals with verified discounts today."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-10T15:00:02.127Z",
-      "updatedAt": "2026-11-10T15:00:02.127Z"
+      "generatedAt": "2026-11-10T15:03:25.226Z",
+      "updatedAt": "2026-11-10T15:03:25.227Z"
     },
     {
       "date": "2026-11-09",
@@ -16321,5 +16324,5 @@
       "updatedAt": "2026-09-13T03:50:02.238Z"
     }
   ],
-  "generatedAt": "2026-11-10T15:00:02.140Z"
+  "generatedAt": "2026-11-10T15:03:25.232Z"
 }
