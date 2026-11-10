@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-10T19:00:01.517Z",
+  "generatedAt": "2026-11-10T19:10:01.927Z",
   "total": 500,
   "activeTotal": 497,
   "posts": [
+    {
+      "slug": "b0dtm8yc2s-hp-14-business-student-laptop-with-1-year-office-365-copilot",
+      "asin": "B0DTM8YC2S",
+      "title": "HP 14\" Business & Student Laptop with 1 Year Office 365 & Copilot AI, Intel Quad-Core N150 Processor, 640GB Storage (128",
+      "url": "https://www.amazon.com/dp/B0DTM8YC2S/ref=cmswrasglapiglidl_MRJT6ZFPX40VVGHZEZ85?tag=noya0b-20",
+      "discount": 60,
+      "rating": "FIRE",
+      "category": "Electronics",
+      "ts": "2026-11-10T19:00:33.170Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Ukn3UyypL._SL500_.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "fire",
+        "label": "🔥 60% OFF",
+        "tone": "fire"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0hm3qld7w-9-inch-portable-laminator-machine-with-40-laminating-sheets-",
       "asin": "B0HM3QLD7W",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71xuVr0CPbL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8458,22 +8474,6 @@
       "ts": "2026-10-28T21:40:25.418Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/41NyC1rVeyL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0fx9qxkh9-toughsteps-men-s-deck-boots-for-fishing-waterproof-ankle-rai",
-      "asin": "B0FX9QXKH9",
-      "title": "TOUGHSTEPS Men's Deck Boots for Fishing Waterproof ankle Rain Boots Non-Slip Neoprene Rubber water shoes for Boating Gar",
-      "url": "https://www.amazon.com/dp/B0FX9QXKH9/ref=cmswrasglapiglidl_4NJB4H87FY9X4N0GZJ6N?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-10-28T19:00:23.702Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/31ITW88CNfL._SL500_.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -21869,6 +21869,16 @@
       "category": "Beauty",
       "ts": "2026-10-28T18:40:19.149Z",
       "archivedAt": "2026-11-10T18:50:02.202Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0fx9qxkh9-toughsteps-men-s-deck-boots-for-fishing-waterproof-ankle-rai",
+      "asin": "B0FX9QXKH9",
+      "title": "TOUGHSTEPS Men's Deck Boots for Fishing Waterproof ankle Rain Boots Non-Slip Neoprene Rubber water shoes for Boating Gar",
+      "url": "https://www.amazon.com/dp/B0FX9QXKH9/ref=cmswrasglapiglidl_4NJB4H87FY9X4N0GZJ6N?tag=noya0b-20",
+      "category": "Grocery & Food",
+      "ts": "2026-10-28T19:00:23.702Z",
+      "archivedAt": "2026-11-10T19:10:01.927Z",
       "status": "archived"
     }
   ]
