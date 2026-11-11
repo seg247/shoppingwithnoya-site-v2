@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-11T05:00:01.122Z",
+  "generatedAt": "2026-11-11T05:10:00.944Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
+    {
+      "slug": "b09x5zrwhr-yeti-crossroads-backpack",
+      "asin": "B09X5ZRWHR",
+      "title": "YETI Crossroads Backpack",
+      "url": "https://www.amazon.com/dp/B09X5ZRWHR?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-11T05:00:45.707Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61pEBT63sOL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0175dvmmy-mason-natural-collagen-premium-skin-cream-anti-aging-face-an",
       "asin": "B0175DVMMY",
@@ -8502,22 +8522,6 @@
       "ts": "2026-10-30T05:40:40.916Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61E5+Tg-R9L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0d7ps8bz4-eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
-      "asin": "B0D7PS8BZ4",
-      "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Pet Couch Bed with Washable Removable Cover, Dusty Pink",
-      "url": "https://www.amazon.com/dp/B0D7PS8BZ4?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-10-30T05:00:44.449Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71W+l0jzNzL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -22043,6 +22047,16 @@
       "category": "Other",
       "ts": "2026-10-30T04:40:37.818Z",
       "archivedAt": "2026-11-11T04:50:00.276Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0d7ps8bz4-eheyciga-orthopedic-small-dog-bed-waterproof-memory-foam-was",
+      "asin": "B0D7PS8BZ4",
+      "title": "EHEYCIGA Orthopedic Small Dog Bed, Waterproof Memory Foam Washable Pet Beds | Non-Slip Bottom and Egg-Crate Foam Medium Pet Couch Bed with Washable Removable Cover, Dusty Pink",
+      "url": "https://www.amazon.com/dp/B0D7PS8BZ4?tag=noya0b-20",
+      "category": "Grocery & Food",
+      "ts": "2026-10-30T05:00:44.449Z",
+      "archivedAt": "2026-11-11T05:10:00.944Z",
       "status": "archived"
     }
   ]
