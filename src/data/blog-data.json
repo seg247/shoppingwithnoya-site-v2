@@ -10,8 +10,8 @@
         "Other",
         "Home & Kitchen",
         "Toys & Games",
-        "Electronics",
-        "Gold Box Deal"
+        "Gold Box Deal",
+        "Electronics"
       ],
       "byCategory": {
         "Other": [
@@ -110,6 +110,19 @@
             "url": "https://www.amazon.com/dp/B0GVWLGPZS?tag=noya0b-20"
           }
         ],
+        "Gold Box Deal": [
+          {
+            "asin": "B09X5ZRWHR",
+            "slug": "yeti-crossroads-backpack-35l-black-clothing-shoes-jewelry",
+            "title": "YETI Crossroads Backpack 35L, Black : Clothing, Shoes & Jewelry",
+            "price": "$200.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/61pEBT63sOL.jpg",
+            "url": "https://www.amazon.com/dp/B09X5ZRWHR?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0GPT1FJBD",
@@ -121,19 +134,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61JCDspwQhL.jpg",
             "url": "https://www.amazon.com/dp/B0GPT1FJBD?tag=noya0b-20"
-          }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0DJWP67VH",
-            "slug": "levis-womens-318-shaping-wide-leg-jeans-also-available-in-pl",
-            "title": "Levi's Women's 318 Shaping Wide-Leg Jeans | (Also Available in Plus), (New) Clever Girl, 24 : Clothing, Shoes & Jewelry",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/51Z6cx9ZumL.jpg",
-            "url": "https://www.amazon.com/dp/B0DJWP67VH?tag=noya0b-20"
           }
         ]
       },
@@ -194,6 +194,17 @@
           "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
         },
         {
+          "asin": "B09X5ZRWHR",
+          "slug": "yeti-crossroads-backpack-35l-black-clothing-shoes-jewelry",
+          "title": "YETI Crossroads Backpack 35L, Black : Clothing, Shoes & Jewelry",
+          "price": "$200.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/61pEBT63sOL.jpg",
+          "url": "https://www.amazon.com/dp/B09X5ZRWHR?tag=noya0b-20"
+        },
+        {
           "asin": "B0FW87DPZW",
           "slug": "levis-womens-318-shaping-wide-leg-jeans-also-available-in-pl",
           "title": "Levi's Women's 318 Shaping Wide-Leg Jeans | (Also Available in Plus), (New) Cool Cool Cool (Lightweight - Cool), 24 : Clothing, Shoes & Jewelry",
@@ -236,17 +247,6 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/41wQP0DAdoL.jpg",
           "url": "https://www.amazon.com/dp/B0GVWLGPZS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DJWP67VH",
-          "slug": "levis-womens-318-shaping-wide-leg-jeans-also-available-in-pl",
-          "title": "Levi's Women's 318 Shaping Wide-Leg Jeans | (Also Available in Plus), (New) Clever Girl, 24 : Clothing, Shoes & Jewelry",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/51Z6cx9ZumL.jpg",
-          "url": "https://www.amazon.com/dp/B0DJWP67VH?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-11T22:00:04.815Z",
-      "updatedAt": "2026-11-11T22:00:04.815Z"
+      "generatedAt": "2026-11-11T22:10:03.924Z",
+      "updatedAt": "2026-11-11T22:10:03.924Z"
     },
     {
       "date": "2026-11-10",
@@ -16339,5 +16339,5 @@
       "updatedAt": "2026-09-14T03:50:01.681Z"
     }
   ],
-  "generatedAt": "2026-11-11T22:00:04.820Z"
+  "generatedAt": "2026-11-11T22:10:03.929Z"
 }
