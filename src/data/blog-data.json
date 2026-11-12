@@ -9,10 +9,24 @@
         "Fashion",
         "Other",
         "Garden & Outdoor",
+        "Personal Care",
         "Gold Box Deal",
         "Electronics"
       ],
       "byCategory": {
+        "Personal Care": [
+          {
+            "asin": "B0G2D25MF2",
+            "slug": "ring-battery-doorbell-video-doorbell-camera",
+            "title": "Ring Battery Doorbell | Video Doorbell Camera",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+            "url": "https://www.amazon.com/dp/B0G2D25MF2?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0F151GFYR",
@@ -72,17 +86,6 @@
             "category": "Gold Box Deal",
             "imageUrl": "https://m.media-amazon.com/images/I/51Foa++2zXL.jpg",
             "url": "https://www.amazon.com/dp/B0D3RJLW7T?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FW79VY4H",
-            "slug": "levis-womens-318-seamed-wide-leg-jeans-new-is-it-denim-24-re",
-            "title": "Levi's Women's 318 Seamed Wide Leg Jeans, (New) is It Denim, 24 Regular : Clothing, Shoes & Jewelry",
-            "price": "$49.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/518BMkPkewL.jpg",
-            "url": "https://www.amazon.com/dp/B0FW79VY4H?tag=noya0b-20"
           }
         ],
         "Electronics": [
@@ -135,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0G2D25MF2",
+          "slug": "ring-battery-doorbell-video-doorbell-camera",
+          "title": "Ring Battery Doorbell | Video Doorbell Camera",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+          "url": "https://www.amazon.com/dp/B0G2D25MF2?tag=noya0b-20"
+        },
         {
           "asin": "B0F151GFYR",
           "slug": "ring-wired-doorbell-pro-4k-video-doorbell",
@@ -233,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/51Ot-kjy68L.jpg",
           "url": "https://www.amazon.com/dp/B0DJWPB6XR?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FW79VY4H",
-          "slug": "levis-womens-318-seamed-wide-leg-jeans-new-is-it-denim-24-re",
-          "title": "Levi's Women's 318 Seamed Wide Leg Jeans, (New) is It Denim, 24 Regular : Clothing, Shoes & Jewelry",
-          "price": "$49.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/518BMkPkewL.jpg",
-          "url": "https://www.amazon.com/dp/B0FW79VY4H?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 12, 2026?",
-          "a": "The best deals today include \"Ring Wired Doorbell Pro | 4K Video Doorbell...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"Ring Battery Doorbell | Video Doorbell Camera...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-12T13:40:07.099Z",
-      "updatedAt": "2026-11-12T13:40:07.099Z"
+      "generatedAt": "2026-11-12T13:50:04.749Z",
+      "updatedAt": "2026-11-12T13:50:04.749Z"
     },
     {
       "date": "2026-11-11",
@@ -16339,5 +16342,5 @@
       "updatedAt": "2026-09-14T22:30:02.105Z"
     }
   ],
-  "generatedAt": "2026-11-12T13:40:07.104Z"
+  "generatedAt": "2026-11-12T13:50:04.753Z"
 }
