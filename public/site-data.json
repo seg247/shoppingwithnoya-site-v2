@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-12T23:00:07.170Z",
+  "generatedAt": "2026-11-12T23:10:06.302Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
+    {
+      "slug": "b0fx5zwtf1-bluey-s-quest-for-the-gold-pen-nintendo-switch-2",
+      "asin": "B0FX5ZWTF1",
+      "title": "Bluey's Quest for The Gold Pen (Nintendo Switch 2)",
+      "url": "https://www.amazon.com/dp/B0FX5ZWTF1?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-11-12T23:00:36.141Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71u3LU7iUXL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gt28csym-dyson-v8-cyclone-cordless-vacuum",
       "asin": "B0GT28CSYM",
@@ -276,11 +296,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61r0UWAWY9L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8515,26 +8531,6 @@
       "badge": {
         "key": "warm",
         "label": "🔥 20% OFF",
-        "tone": "warm"
-      },
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0dgtk11lc-45w-usb-c-charger-super-fast-charger-type-c-with-c-cable-for",
-      "asin": "B0DGTK11LC",
-      "title": "45W USB-C Charger, Super Fast Charger Type C, with C Cable for Samsung Galaxy S26 Ultra/S26/S26+/S25/S24/S23/S22/S21+/iP",
-      "url": "https://www.amazon.com/dp/B0DGTK11LC/ref=cmswrasglapigliA6CMCX8ZXXXGRA23P6TC?tag=noya0b-20",
-      "discount": 25,
-      "rating": "WARM",
-      "category": "Electronics",
-      "ts": "2026-10-31T20:40:15.008Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41oTA+qZ8cL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": {
-        "key": "warm",
-        "label": "🔥 25% OFF",
         "tone": "warm"
       },
       "feedStatus": "active"
@@ -22469,6 +22465,16 @@
       "category": "Grocery & Food",
       "ts": "2026-10-31T20:20:37.252Z",
       "archivedAt": "2026-11-12T22:50:04.092Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dgtk11lc-45w-usb-c-charger-super-fast-charger-type-c-with-c-cable-for",
+      "asin": "B0DGTK11LC",
+      "title": "45W USB-C Charger, Super Fast Charger Type C, with C Cable for Samsung Galaxy S26 Ultra/S26/S26+/S25/S24/S23/S22/S21+/iP",
+      "url": "https://www.amazon.com/dp/B0DGTK11LC/ref=cmswrasglapigliA6CMCX8ZXXXGRA23P6TC?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-10-31T20:40:15.008Z",
+      "archivedAt": "2026-11-12T23:10:06.302Z",
       "status": "archived"
     }
   ]
