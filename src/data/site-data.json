@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-12T07:00:05.635Z",
+  "generatedAt": "2026-11-12T07:10:08.727Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
+    {
+      "slug": "b07mh391zf-roland-fp-10-compact-88-note-digital-piano",
+      "asin": "B07MH391ZF",
+      "title": "Roland FP-10 Compact 88-Note Digital Piano",
+      "url": "https://www.amazon.com/dp/B07MH391ZF?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-12T07:00:32.791Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tYIhMmyiL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b08ppzwncv-instant-pot-pro-8-qt-10-in-1-electric-pressure-cooker-black-",
       "asin": "B08PPZWNCV",
@@ -296,11 +316,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81LoQ0TxbgL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8518,22 +8534,6 @@
       "ts": "2026-10-31T03:40:40.029Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61NP-M9M1VL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b08gffwbyj-miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case-",
-      "asin": "B08GFFWBYJ",
-      "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Glacier | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
-      "url": "https://www.amazon.com/dp/B08GFFWBYJ?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-10-31T03:01:01.951Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/6105hAI2rgL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -22249,6 +22249,16 @@
       "category": "Toys & Games",
       "ts": "2026-10-31T00:20:45.031Z",
       "archivedAt": "2026-11-12T06:50:08.507Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b08gffwbyj-miracase-silicone-for-iphone-12-case-and-iphone-12-pro-case-",
+      "asin": "B08GFFWBYJ",
+      "title": "Miracase Silicone for iPhone 12 Case and iPhone 12 Pro Case, Glacier | Liquid Silicone Gel Rubber Shockproof Drop Protection Phone Case for iPhone 12/12 Pro 6.1 inch : Cell Phones & Accessories",
+      "url": "https://www.amazon.com/dp/B08GFFWBYJ?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-10-31T03:01:01.951Z",
+      "archivedAt": "2026-11-12T07:10:08.727Z",
       "status": "archived"
     }
   ]
