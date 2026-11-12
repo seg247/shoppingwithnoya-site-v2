@@ -11,8 +11,8 @@
         "Home & Kitchen",
         "Toys & Games",
         "Fashion",
-        "Health",
-        "Gold Box Deal"
+        "Gold Box Deal",
+        "Health"
       ],
       "byCategory": {
         "Other": [
@@ -113,6 +113,19 @@
             "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
           }
         ],
+        "Gold Box Deal": [
+          {
+            "asin": "B07VVK39F7",
+            "slug": "levoit-air-purifier-for-home-pets-hair-allergens-in-bedroom",
+            "title": "Levoit Air Purifier for Home Pets Hair Allergens in Bedroom Quiet Purifiers",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg",
+            "url": "https://www.amazon.com/dp/B07VVK39F7?tag=noya0b-20"
+          }
+        ],
         "Health": [
           {
             "asin": "B00MQ17A04",
@@ -124,19 +137,6 @@
             "category": "Health",
             "imageUrl": "https://m.media-amazon.com/images/I/61z54g7JSkL.jpg",
             "url": "https://www.amazon.com/dp/B00MQ17A04?tag=noya0b-20"
-          }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0CZPLV566",
-            "slug": "beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
-            "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Matte Black : Electronics",
-            "price": "$129.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
           }
         ]
       },
@@ -219,6 +219,17 @@
           "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
         },
         {
+          "asin": "B07VVK39F7",
+          "slug": "levoit-air-purifier-for-home-pets-hair-allergens-in-bedroom",
+          "title": "Levoit Air Purifier for Home Pets Hair Allergens in Bedroom Quiet Purifiers",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg",
+          "url": "https://www.amazon.com/dp/B07VVK39F7?tag=noya0b-20"
+        },
+        {
           "asin": "B00MQ17A04",
           "slug": "skinception-kollagen-intensiv-anti-aging-wrinkle-cream-reduc",
           "title": "Skinception Kollagen Intensiv Anti-Aging Wrinkle Cream – Reduces Fine Lines & Crow’s Feet, Evens Skin, Boosts Collagen for Youthful Skin, 2 fl oz (60 ml) : Beauty & Personal Care",
@@ -239,17 +250,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
           "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CZPLV566",
-          "slug": "beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
-          "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Matte Black : Electronics",
-          "price": "$129.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
-          "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-12T04:20:08.281Z",
-      "updatedAt": "2026-11-12T04:20:08.281Z"
+      "generatedAt": "2026-11-12T04:30:09.001Z",
+      "updatedAt": "2026-11-12T04:30:09.001Z"
     },
     {
       "date": "2026-11-10",
@@ -16342,5 +16342,5 @@
       "updatedAt": "2026-09-14T03:50:01.681Z"
     }
   ],
-  "generatedAt": "2026-11-12T04:20:08.287Z"
+  "generatedAt": "2026-11-12T04:30:09.007Z"
 }
