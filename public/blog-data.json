@@ -4,15 +4,43 @@
       "date": "2026-11-12",
       "slug": "2026-11-12",
       "title": "🔥 Best Deals Today — November 12, 2026",
-      "intro": "Today's best online deals for Thursday, November 12, 2026 — 10 hand-picked discounts across Garden & Outdoor, Electronics, Gold Box Deal and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, November 12, 2026 — 10 hand-picked discounts across Garden & Outdoor, Gold Box Deal, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Garden & Outdoor",
-        "Electronics",
         "Gold Box Deal",
-        "Other",
-        "Personal Care"
+        "Fashion",
+        "Sports",
+        "Electronics",
+        "Personal Care",
+        "Other"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "UA-ICONFLEECE-1373880-312-WARMUP-20261112",
+            "slug": "under-armour-ua-icon-fleece-mens-hoodie-campus-ivy",
+            "title": "Under Armour UA Icon Fleece Men's Hoodie - Campus Ivy",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://underarmour.scene7.com/is/image/Underarmour/V5-1373880-312_FC?rp=standard-0pad%7Cpdp&qlt=85&bgc=f0f0f0&wid=800&hei=1000&op_usm=1.75%2C0.3%2C2%2C0",
+            "url": "https://mavely.app.link/YsLBSCIC07b"
+          }
+        ],
+        "Sports": [
+          {
+            "asin": "B0GFJMGZY1",
+            "slug": "fitness-resistance-band-for-stretching-and-yoga-stretch-stra",
+            "title": "Fitness Resistance Band for Stretching and Yoga, Stretch Strap, Elastic Yoga Stretching Strap, Multi-Loop for Physical Therapy, Pilates, Yoga, Dance & Gymnastics Exercise (Blue) : Sports & Outdoors",
+            "price": "$8.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports",
+            "imageUrl": "https://m.media-amazon.com/images/I/61XPuc5SSVL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFJMGZY1?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0DMW12M25",
@@ -24,17 +52,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/61MdAWvj8EL.jpg",
             "url": "https://www.amazon.com/dp/B0DMW12M25?tag=noya0b-20"
-          },
-          {
-            "asin": "B0961X3R2H",
-            "slug": "sony-ht-s40r-51ch-home-theater-soundbar-systemblack",
-            "title": "Sony HT-S40R 5.1ch Home Theater Soundbar System,black",
-            "price": "$248.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51m4NsZau4L.jpg",
-            "url": "https://www.amazon.com/dp/B0961X3R2H?tag=noya0b-20"
           }
         ],
         "Gold Box Deal": [
@@ -120,21 +137,32 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/819MRg02R2L.jpg",
             "url": "https://www.amazon.com/dp/B0F151GFYR?tag=noya0b-20"
-          },
-          {
-            "asin": "B091G64GVK",
-            "slug": "amazon-eero-pro-6e-tri-band-mesh-wi-fi-6e-system-with-built",
-            "title": "Amazon eero Pro 6E tri-band mesh Wi-Fi 6E system, with built-in Zigbee smart home hub (3-pack)",
-            "price": "$349.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61KRs75uY2L.jpg",
-            "url": "https://www.amazon.com/dp/B091G64GVK?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "UA-ICONFLEECE-1373880-312-WARMUP-20261112",
+          "slug": "under-armour-ua-icon-fleece-mens-hoodie-campus-ivy",
+          "title": "Under Armour UA Icon Fleece Men's Hoodie - Campus Ivy",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://underarmour.scene7.com/is/image/Underarmour/V5-1373880-312_FC?rp=standard-0pad%7Cpdp&qlt=85&bgc=f0f0f0&wid=800&hei=1000&op_usm=1.75%2C0.3%2C2%2C0",
+          "url": "https://mavely.app.link/YsLBSCIC07b"
+        },
+        {
+          "asin": "B0GFJMGZY1",
+          "slug": "fitness-resistance-band-for-stretching-and-yoga-stretch-stra",
+          "title": "Fitness Resistance Band for Stretching and Yoga, Stretch Strap, Elastic Yoga Stretching Strap, Multi-Loop for Physical Therapy, Pilates, Yoga, Dance & Gymnastics Exercise (Blue) : Sports & Outdoors",
+          "price": "$8.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports",
+          "imageUrl": "https://m.media-amazon.com/images/I/61XPuc5SSVL.jpg",
+          "url": "https://www.amazon.com/dp/B0GFJMGZY1?tag=noya0b-20"
+        },
         {
           "asin": "B0DMW12M25",
           "slug": "2025-magnetic-3-in-1-wireless-charger-mag-safe-charger-stand",
@@ -222,34 +250,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/81RRg+qQHZL.jpg",
           "url": "https://www.amazon.com/dp/B017CD6JYS?tag=noya0b-20"
-        },
-        {
-          "asin": "B091G64GVK",
-          "slug": "amazon-eero-pro-6e-tri-band-mesh-wi-fi-6e-system-with-built",
-          "title": "Amazon eero Pro 6E tri-band mesh Wi-Fi 6E system, with built-in Zigbee smart home hub (3-pack)",
-          "price": "$349.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/61KRs75uY2L.jpg",
-          "url": "https://www.amazon.com/dp/B091G64GVK?tag=noya0b-20"
-        },
-        {
-          "asin": "B0961X3R2H",
-          "slug": "sony-ht-s40r-51ch-home-theater-soundbar-systemblack",
-          "title": "Sony HT-S40R 5.1ch Home Theater Soundbar System,black",
-          "price": "$248.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/51m4NsZau4L.jpg",
-          "url": "https://www.amazon.com/dp/B0961X3R2H?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 12, 2026?",
-          "a": "The best deals today include \"\udecd️2025 Magnetic 3 in 1 Wireless Charger, Mag-safe Charger St...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Electronics, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"Under Armour UA Icon Fleece Men's Hoodie - Campus Ivy...\" and 9 other hand-picked discounts. Deals span Garden & Outdoor, Gold Box Deal, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-12T15:00:07.853Z",
-      "updatedAt": "2026-11-12T15:00:07.853Z"
+      "generatedAt": "2026-11-12T15:05:12.924Z",
+      "updatedAt": "2026-11-12T15:05:12.924Z"
     },
     {
       "date": "2026-11-11",
@@ -16339,5 +16345,5 @@
       "updatedAt": "2026-09-14T22:30:02.105Z"
     }
   ],
-  "generatedAt": "2026-11-12T15:00:07.859Z"
+  "generatedAt": "2026-11-12T15:05:12.931Z"
 }
