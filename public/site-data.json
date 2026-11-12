@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-12T11:40:04.722Z",
+  "generatedAt": "2026-11-12T11:50:04.462Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
+    {
+      "slug": "b091g64gvk-amazon-eero-pro-6e-tri-band-mesh-wi-fi-6e-system-with-built-",
+      "asin": "B091G64GVK",
+      "title": "Amazon eero Pro 6E tri-band mesh Wi-Fi 6E system, with built-in Zigbee smart home hub (3-pack)",
+      "url": "https://www.amazon.com/dp/B091G64GVK?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-12T11:40:30.868Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KRs75uY2L.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0961x3r2h-sony-ht-s40r-5-1ch-home-theater-soundbar-system-black",
       "asin": "B0961X3R2H",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/41z3RpZ56ZL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8522,22 +8538,6 @@
       "ts": "2026-10-31T07:40:37.895Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71wW8WV5EML.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0b28g5y4r-happrun-native-1080p-bluetooth-projector-standard-native-108",
-      "asin": "B0B28G5Y4R",
-      "title": "HAPPRUN Native 1080P Bluetooth Projector - Standard | Native 1080P • Mini & Portable • Easy Setup • Built-in Speaker • HDMI for PC, Laptop & PS5",
-      "url": "https://www.amazon.com/dp/B0B28G5Y4R?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-10-31T07:00:50.737Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -22283,6 +22283,16 @@
       "category": "Electronics",
       "ts": "2026-10-31T06:20:39.804Z",
       "archivedAt": "2026-11-12T10:50:08.039Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0b28g5y4r-happrun-native-1080p-bluetooth-projector-standard-native-108",
+      "asin": "B0B28G5Y4R",
+      "title": "HAPPRUN Native 1080P Bluetooth Projector - Standard | Native 1080P • Mini & Portable • Easy Setup • Built-in Speaker • HDMI for PC, Laptop & PS5",
+      "url": "https://www.amazon.com/dp/B0B28G5Y4R?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-10-31T07:00:50.737Z",
+      "archivedAt": "2026-11-12T11:50:04.462Z",
       "status": "archived"
     }
   ]

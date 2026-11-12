@@ -4,16 +4,29 @@
       "date": "2026-11-12",
       "slug": "2026-11-12",
       "title": "🔥 Best Deals Today — November 12, 2026",
-      "intro": "Today's best online deals for Thursday, November 12, 2026 — 10 hand-picked discounts across Fashion, Electronics, Gold Box Deal and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, November 12, 2026 — 10 hand-picked discounts across Fashion, Electronics, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Fashion",
         "Electronics",
+        "Other",
         "Gold Box Deal",
         "Home & Kitchen",
-        "Personal Care",
-        "Other"
+        "Personal Care"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B091G64GVK",
+            "slug": "amazon-eero-pro-6e-tri-band-mesh-wi-fi-6e-system-with-built",
+            "title": "Amazon eero Pro 6E tri-band mesh Wi-Fi 6E system, with built-in Zigbee smart home hub (3-pack)",
+            "price": "$349.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61KRs75uY2L.jpg",
+            "url": "https://www.amazon.com/dp/B091G64GVK?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0961X3R2H",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61QGznYM5qL.jpg",
             "url": "https://www.amazon.com/dp/B0FWDXNQYJ?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0F151GFYR",
-            "slug": "ring-wired-doorbell-pro-4k-video-doorbell",
-            "title": "Ring Wired Doorbell Pro | 4K Video Doorbell",
-            "price": "$149.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/819MRg02R2L.jpg",
-            "url": "https://www.amazon.com/dp/B0F151GFYR?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B091G64GVK",
+          "slug": "amazon-eero-pro-6e-tri-band-mesh-wi-fi-6e-system-with-built",
+          "title": "Amazon eero Pro 6E tri-band mesh Wi-Fi 6E system, with built-in Zigbee smart home hub (3-pack)",
+          "price": "$349.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61KRs75uY2L.jpg",
+          "url": "https://www.amazon.com/dp/B091G64GVK?tag=noya0b-20"
+        },
         {
           "asin": "B0961X3R2H",
           "slug": "sony-ht-s40r-51ch-home-theater-soundbar-systemblack",
@@ -236,23 +247,12 @@
           "category": "Personal Care",
           "imageUrl": "https://m.media-amazon.com/images/I/61QGznYM5qL.jpg",
           "url": "https://www.amazon.com/dp/B0FWDXNQYJ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F151GFYR",
-          "slug": "ring-wired-doorbell-pro-4k-video-doorbell",
-          "title": "Ring Wired Doorbell Pro | 4K Video Doorbell",
-          "price": "$149.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/819MRg02R2L.jpg",
-          "url": "https://www.amazon.com/dp/B0F151GFYR?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 12, 2026?",
-          "a": "The best deals today include \"Sony HT-S40R 5.1ch Home Theater Soundbar System,black...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"Amazon eero Pro 6E tri-band mesh Wi-Fi 6E system, with built...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-12T11:40:05.076Z",
-      "updatedAt": "2026-11-12T11:40:05.076Z"
+      "generatedAt": "2026-11-12T11:50:04.817Z",
+      "updatedAt": "2026-11-12T11:50:04.817Z"
     },
     {
       "date": "2026-11-11",
@@ -16342,5 +16342,5 @@
       "updatedAt": "2026-09-14T22:30:02.105Z"
     }
   ],
-  "generatedAt": "2026-11-12T11:40:05.081Z"
+  "generatedAt": "2026-11-12T11:50:04.822Z"
 }
