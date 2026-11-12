@@ -10,7 +10,8 @@
         "Beauty",
         "Home & Kitchen",
         "Toys & Games",
-        "Fashion"
+        "Fashion",
+        "Gold Box Deal"
       ],
       "byCategory": {
         "Other": [
@@ -94,17 +95,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51nt-PfwPmL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B0H2HX54FZ/ref=cmswrasglapigli05KQACGPPR8NN72WC1QQ?tag=noya0b-20"
-          },
-          {
-            "asin": "B08PQ2KWHS",
-            "slug": "instant-pot-pro-6-qt-10-in-1-electric-pressure-cooker-black",
-            "title": "Instant Pot Pro 6 Qt 10-in-1 Electric Pressure Cooker, Black | Slow cooks, makes rice and grains, steams, sautés, cooks sous vide, makes yogurt, keeps food warm and sterilizes.: Home & Kitchen",
-            "price": "$169.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71crmdgrhpL.jpg",
-            "url": "https://www.amazon.com/dp/B08PQ2KWHS?tag=noya0b-20"
           }
         ],
         "Toys & Games": [
@@ -131,6 +121,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/31O31pumZYL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
+          }
+        ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0CZPLV566",
+            "slug": "beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
+            "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Matte Black : Electronics",
+            "price": "$129.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
           }
         ]
       },
@@ -213,6 +216,17 @@
           "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
         },
         {
+          "asin": "B0CZPLV566",
+          "slug": "beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
+          "title": "Beats Solo 4 - Wireless On-Ear Bluetooth Headphones, Up to 50-Hour Battery Life, Ultra-Lightweight Comfort, Powerful and Balanced Sound, Apple & Android Compatible - Matte Black : Electronics",
+          "price": "$129.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+          "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
+        },
+        {
           "asin": "B089TQB1RB",
           "slug": "amazoncom-shark-vertex-lift-away-upright-vacuum-hepa-seal-si",
           "title": "Amazon.com - Shark Vertex Lift-Away Upright Vacuum, HEPA Seal, Silver/Rose Gold, AZ2002​ | DuoClean & PowerFins, LED Lights, No Hair Wrap, Large Dust Cup Capacity, Pet Crevice Tool, Dusting Brush​",
@@ -233,17 +247,6 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71B8nLVk3TL.jpg",
           "url": "https://www.amazon.com/dp/B0DXM9Y8J1?tag=noya0b-20"
-        },
-        {
-          "asin": "B08PQ2KWHS",
-          "slug": "instant-pot-pro-6-qt-10-in-1-electric-pressure-cooker-black",
-          "title": "Instant Pot Pro 6 Qt 10-in-1 Electric Pressure Cooker, Black | Slow cooks, makes rice and grains, steams, sautés, cooks sous vide, makes yogurt, keeps food warm and sterilizes.: Home & Kitchen",
-          "price": "$169.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/71crmdgrhpL.jpg",
-          "url": "https://www.amazon.com/dp/B08PQ2KWHS?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-12T03:00:04.661Z",
-      "updatedAt": "2026-11-12T03:00:04.661Z"
+      "generatedAt": "2026-11-12T03:10:07.776Z",
+      "updatedAt": "2026-11-12T03:10:07.776Z"
     },
     {
       "date": "2026-11-10",
@@ -16336,5 +16339,5 @@
       "updatedAt": "2026-09-14T03:50:01.681Z"
     }
   ],
-  "generatedAt": "2026-11-12T03:00:04.667Z"
+  "generatedAt": "2026-11-12T03:10:07.782Z"
 }
