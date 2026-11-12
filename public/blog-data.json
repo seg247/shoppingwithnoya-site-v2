@@ -11,6 +11,7 @@
         "Home & Kitchen",
         "Toys & Games",
         "Fashion",
+        "Health",
         "Gold Box Deal"
       ],
       "byCategory": {
@@ -47,17 +48,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
             "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20"
-          },
-          {
-            "asin": "B089TQB1RB",
-            "slug": "amazoncom-shark-vertex-lift-away-upright-vacuum-hepa-seal-si",
-            "title": "Amazon.com - Shark Vertex Lift-Away Upright Vacuum, HEPA Seal, Silver/Rose Gold, AZ2002​ | DuoClean & PowerFins, LED Lights, No Hair Wrap, Large Dust Cup Capacity, Pet Crevice Tool, Dusting Brush​",
-            "price": "$269.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/610QKmSShlL.jpg",
-            "url": "https://www.amazon.com/dp/B089TQB1RB?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -121,6 +111,19 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/31O31pumZYL._SL500_.jpg",
             "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
+          }
+        ],
+        "Health": [
+          {
+            "asin": "B00MQ17A04",
+            "slug": "skinception-kollagen-intensiv-anti-aging-wrinkle-cream-reduc",
+            "title": "Skinception Kollagen Intensiv Anti-Aging Wrinkle Cream – Reduces Fine Lines & Crow’s Feet, Evens Skin, Boosts Collagen for Youthful Skin, 2 fl oz (60 ml) : Beauty & Personal Care",
+            "price": "$29.97",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Health",
+            "imageUrl": "https://m.media-amazon.com/images/I/61z54g7JSkL.jpg",
+            "url": "https://www.amazon.com/dp/B00MQ17A04?tag=noya0b-20"
           }
         ],
         "Gold Box Deal": [
@@ -216,6 +219,17 @@
           "url": "https://www.amazon.com/dp/B016Q6NXDM/ref=cmswrasglapigliR4A73V4M8G6DK3MEFKEB?tag=noya0b-20"
         },
         {
+          "asin": "B00MQ17A04",
+          "slug": "skinception-kollagen-intensiv-anti-aging-wrinkle-cream-reduc",
+          "title": "Skinception Kollagen Intensiv Anti-Aging Wrinkle Cream – Reduces Fine Lines & Crow’s Feet, Evens Skin, Boosts Collagen for Youthful Skin, 2 fl oz (60 ml) : Beauty & Personal Care",
+          "price": "$29.97",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Health",
+          "imageUrl": "https://m.media-amazon.com/images/I/61z54g7JSkL.jpg",
+          "url": "https://www.amazon.com/dp/B00MQ17A04?tag=noya0b-20"
+        },
+        {
           "asin": "B0HGNPTSMT",
           "slug": "amazoncom-dyson-v9-motorbar-cordless-vacuum",
           "title": "Amazon.com - Dyson V9 Motorbar™ Cordless Vacuum",
@@ -236,17 +250,6 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
           "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
-        },
-        {
-          "asin": "B089TQB1RB",
-          "slug": "amazoncom-shark-vertex-lift-away-upright-vacuum-hepa-seal-si",
-          "title": "Amazon.com - Shark Vertex Lift-Away Upright Vacuum, HEPA Seal, Silver/Rose Gold, AZ2002​ | DuoClean & PowerFins, LED Lights, No Hair Wrap, Large Dust Cup Capacity, Pet Crevice Tool, Dusting Brush​",
-          "price": "$269.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/610QKmSShlL.jpg",
-          "url": "https://www.amazon.com/dp/B089TQB1RB?tag=noya0b-20"
         }
       ],
       "faq": [
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-12T03:40:05.167Z",
-      "updatedAt": "2026-11-12T03:40:05.167Z"
+      "generatedAt": "2026-11-12T03:50:05.128Z",
+      "updatedAt": "2026-11-12T03:50:05.128Z"
     },
     {
       "date": "2026-11-10",
@@ -16339,5 +16342,5 @@
       "updatedAt": "2026-09-14T03:50:01.681Z"
     }
   ],
-  "generatedAt": "2026-11-12T03:40:05.173Z"
+  "generatedAt": "2026-11-12T03:50:05.134Z"
 }
