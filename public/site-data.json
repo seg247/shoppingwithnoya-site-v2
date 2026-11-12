@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-12T03:20:07.397Z",
+  "generatedAt": "2026-11-12T03:30:07.944Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
+    {
+      "slug": "b0hgnptsmt-amazon-com-dyson-v9-motorbar-cordless-vacuum",
+      "asin": "B0HGNPTSMT",
+      "title": "Amazon.com - Dyson V9 Motorbar™ Cordless Vacuum",
+      "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-12T03:20:33.117Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0czplv566-beats-solo-4-wireless-on-ear-bluetooth-headphones-up-to-50-h",
       "asin": "B0CZPLV566",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61JCDspwQhL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -990,22 +1006,6 @@
       "ts": "2026-11-10T18:20:32.984Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81x+FF6Q6iL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0hgnptsmt-dyson-v9-motorbar-cordless-vacuum",
-      "asin": "B0HGNPTSMT",
-      "title": "Dyson V9 Motorbar™ Cordless Vacuum",
-      "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-11-10T18:00:37.379Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -22185,6 +22185,16 @@
       "category": "Electronics",
       "ts": "2026-10-30T17:00:46.867Z",
       "archivedAt": "2026-11-12T03:10:07.429Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0hgnptsmt-dyson-v9-motorbar-cordless-vacuum",
+      "asin": "B0HGNPTSMT",
+      "title": "Dyson V9 Motorbar™ Cordless Vacuum",
+      "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-11-10T18:00:37.379Z",
+      "archivedAt": "2026-11-12T03:30:07.944Z",
       "status": "archived"
     }
   ]
