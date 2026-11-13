@@ -9,10 +9,23 @@
         "Fashion",
         "Other",
         "Beauty",
-        "Toys & Kids",
-        "Garden & Outdoor"
+        "Personal Care",
+        "Toys & Kids"
       ],
       "byCategory": {
+        "Personal Care": [
+          {
+            "asin": "B0G2D1R15Q",
+            "slug": "ring-battery-doorbell-video-doorbell-camera",
+            "title": "Ring Battery Doorbell | Video Doorbell Camera",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+            "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0FB1F1KJJ",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71qXUlrP2dL.jpg",
             "url": "https://www.amazon.com/dp/B0HMR5MF9V/ref=cmswrasglapiglidl_WBR1XM00XB818ZPTMCBW?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0GY4YHPKK",
-            "slug": "prettygarden-womens-fall-mock-neck-long-sleeve-sweaternavym",
-            "title": "\udecd️PRETTYGARDEN Womens Fall Mock Neck Long Sleeve Sweater,Navy,M | Soft Stretchy Fabric, V-Shape Knit Pattern, Chic Puff ",
-            "price": "$34.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/81ZgRmJNkuL.jpg",
-            "url": "https://www.amazon.com/dp/B0GY4YHPKK/ref=cmswrasglapiglidl_9M5ND8ARCA5QVSM1YJ9B?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0G2D1R15Q",
+          "slug": "ring-battery-doorbell-video-doorbell-camera",
+          "title": "Ring Battery Doorbell | Video Doorbell Camera",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Personal Care",
+          "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+          "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
+        },
         {
           "asin": "B0FB1F1KJJ",
           "slug": "levis-mens-505-regular-fit-jeans-new-black-corduroy-29wx30l",
@@ -233,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71qXUlrP2dL.jpg",
           "url": "https://www.amazon.com/dp/B0HMR5MF9V/ref=cmswrasglapiglidl_WBR1XM00XB818ZPTMCBW?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GY4YHPKK",
-          "slug": "prettygarden-womens-fall-mock-neck-long-sleeve-sweaternavym",
-          "title": "\udecd️PRETTYGARDEN Womens Fall Mock Neck Long Sleeve Sweater,Navy,M | Soft Stretchy Fabric, V-Shape Knit Pattern, Chic Puff ",
-          "price": "$34.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/81ZgRmJNkuL.jpg",
-          "url": "https://www.amazon.com/dp/B0GY4YHPKK/ref=cmswrasglapiglidl_9M5ND8ARCA5QVSM1YJ9B?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 12, 2026?",
-          "a": "The best deals today include \"Levi's Men's 505 Regular Fit Jeans, (New) Black (Corduroy), ...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Ring Battery Doorbell | Video Doorbell Camera...\" and 9 other hand-picked discounts. Deals span Fashion, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-13T01:40:07.004Z",
-      "updatedAt": "2026-11-13T01:40:07.004Z"
+      "generatedAt": "2026-11-13T01:50:07.632Z",
+      "updatedAt": "2026-11-13T01:50:07.633Z"
     },
     {
       "date": "2026-11-11",
@@ -16339,5 +16339,5 @@
       "updatedAt": "2026-09-14T22:30:02.105Z"
     }
   ],
-  "generatedAt": "2026-11-13T01:40:07.009Z"
+  "generatedAt": "2026-11-13T01:50:07.638Z"
 }
