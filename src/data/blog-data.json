@@ -9,11 +9,24 @@
         "Fashion",
         "Beauty",
         "Gold Box Deal",
+        "Electronics",
         "Other",
-        "Home & Kitchen",
-        "Electronics"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B07T4DYXPG",
+            "slug": "kenneth-cole-reaction-chelsea-2-piece-bundle-20-chevron-expa",
+            "title": "\udecd️Kenneth Cole REACTION Chelsea 2-Piece Bundle - 20\" Chevron Expandable 8-Wheel Carry-On Suitcase & Matching 15\" Laptop ",
+            "price": "$149.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/8174LdboscL.jpg",
+            "url": "https://www.amazon.com/dp/B07T4DYXPG/ref=cmswrasglapiglidl_20HVQVR59TW7BWMXVDRV?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0FFFRFR55",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81Ha7nqu+bL.jpg",
             "url": "https://www.amazon.com/dp/B0C6FCKQML?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B09HJGSNXB",
-            "slug": "amazon-eero-max-7-mesh-wifi-router-10-gbps-ethernet",
-            "title": "Amazon eero Max 7 mesh wifi router | 10 Gbps Ethernet",
-            "price": "$799.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vCXW8AHYL.jpg",
-            "url": "https://www.amazon.com/dp/B09HJGSNXB?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07T4DYXPG",
+          "slug": "kenneth-cole-reaction-chelsea-2-piece-bundle-20-chevron-expa",
+          "title": "\udecd️Kenneth Cole REACTION Chelsea 2-Piece Bundle - 20\" Chevron Expandable 8-Wheel Carry-On Suitcase & Matching 15\" Laptop ",
+          "price": "$149.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/8174LdboscL.jpg",
+          "url": "https://www.amazon.com/dp/B07T4DYXPG/ref=cmswrasglapiglidl_20HVQVR59TW7BWMXVDRV?tag=noya0b-20"
+        },
         {
           "asin": "B0FFFRFR55",
           "slug": "hotboss-fleece-lined-tights-women-winter-thermal-illusion-ti",
@@ -236,23 +247,12 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/71ZIEsZMfNL.jpg",
           "url": "https://www.amazon.com/dp/B0FWFJ5Q2Z?tag=noya0b-20"
-        },
-        {
-          "asin": "B09HJGSNXB",
-          "slug": "amazon-eero-max-7-mesh-wifi-router-10-gbps-ethernet",
-          "title": "Amazon eero Max 7 mesh wifi router | 10 Gbps Ethernet",
-          "price": "$799.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61vCXW8AHYL.jpg",
-          "url": "https://www.amazon.com/dp/B09HJGSNXB?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 13, 2026?",
-          "a": "The best deals today include \"\udecd️HOTBOSS Fleece Lined Tights Women, Winter Thermal Illusion...\" and 9 other hand-picked discounts. Deals span Fashion, Beauty, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"\udecd️Kenneth Cole REACTION Chelsea 2-Piece Bundle - 20\" Chevron...\" and 9 other hand-picked discounts. Deals span Fashion, Beauty, Gold Box Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-13T20:00:02.210Z",
-      "updatedAt": "2026-11-13T20:00:02.210Z"
+      "generatedAt": "2026-11-13T20:10:02.104Z",
+      "updatedAt": "2026-11-13T20:10:02.104Z"
     },
     {
       "date": "2026-11-12",
@@ -16339,5 +16339,5 @@
       "updatedAt": "2026-09-16T03:50:02.157Z"
     }
   ],
-  "generatedAt": "2026-11-13T20:00:02.217Z"
+  "generatedAt": "2026-11-13T20:10:02.110Z"
 }
