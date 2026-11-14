@@ -9,11 +9,24 @@
         "Gold Box Deal",
         "Electronics",
         "Other",
+        "Sports",
         "Home & Kitchen",
-        "Sports & Fitness",
-        "Fashion"
+        "Sports & Fitness"
       ],
       "byCategory": {
+        "Sports": [
+          {
+            "asin": "B0CX5LPQSG",
+            "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
+            "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/4-Inch Workout Mat - Home Gym Starter Kit - Exercise Equipment by Wakeman (Black)",
+            "price": "$17.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Sports",
+            "imageUrl": "https://m.media-amazon.com/images/I/41jlctrYqcL.jpg",
+            "url": "https://www.amazon.com/dp/B0CX5LPQSG?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0H119WS48",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71NlF7JKezL.jpg",
             "url": "https://www.amazon.com/dp/B09ZYW99LN?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "OLDNAVY-FLANNEL-908784022-EXTRA-20261114",
-            "slug": "old-navy-printed-flannel-pajama-pants-set-for-women-white-pl",
-            "title": "Old Navy Printed Flannel Pajama Pants Set for Women - White Plaid",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://content.gapinc.com/b/0064/065/665/cn64065665.png?width=491",
-            "url": "https://mavely.app.link/SHaXUwEW37b"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CX5LPQSG",
+          "slug": "yoga-mat-set-4-pack-of-resistance-bands-for-working-out-with",
+          "title": "Yoga Mat Set - 4-Pack of Resistance Bands for Working Out with 1/4-Inch Workout Mat - Home Gym Starter Kit - Exercise Equipment by Wakeman (Black)",
+          "price": "$17.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Sports",
+          "imageUrl": "https://m.media-amazon.com/images/I/41jlctrYqcL.jpg",
+          "url": "https://www.amazon.com/dp/B0CX5LPQSG?tag=noya0b-20"
+        },
         {
           "asin": "B0H119WS48",
           "slug": "25w-3-in-1-charging-stationfoldable-magsafe-fast-magnetic-wi",
@@ -236,23 +247,12 @@
           "category": "Sports & Fitness",
           "imageUrl": "https://m.media-amazon.com/images/I/71NlF7JKezL.jpg",
           "url": "https://www.amazon.com/dp/B09ZYW99LN?tag=noya0b-20"
-        },
-        {
-          "asin": "OLDNAVY-FLANNEL-908784022-EXTRA-20261114",
-          "slug": "old-navy-printed-flannel-pajama-pants-set-for-women-white-pl",
-          "title": "Old Navy Printed Flannel Pajama Pants Set for Women - White Plaid",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://content.gapinc.com/b/0064/065/665/cn64065665.png?width=491",
-          "url": "https://mavely.app.link/SHaXUwEW37b"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 14, 2026?",
-          "a": "The best deals today include \"\udecd️25W 3 in 1 Charging Station,Foldable MagSafe Fast Magnetic...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Electronics, Other and are updated daily."
+          "a": "The best deals today include \"Yoga Mat Set - 4-Pack of Resistance Bands for Working Out wi...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Electronics, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-14T19:00:02.439Z",
-      "updatedAt": "2026-11-14T19:00:02.439Z"
+      "generatedAt": "2026-11-14T19:10:02.326Z",
+      "updatedAt": "2026-11-14T19:10:02.326Z"
     },
     {
       "date": "2026-11-13",
@@ -16348,5 +16348,5 @@
       "updatedAt": "2026-09-17T03:50:02.442Z"
     }
   ],
-  "generatedAt": "2026-11-14T19:00:02.446Z"
+  "generatedAt": "2026-11-14T19:10:02.331Z"
 }
