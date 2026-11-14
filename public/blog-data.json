@@ -9,10 +9,44 @@
         "Electronics",
         "Gold Box Deal",
         "Fashion",
-        "TV & Video",
-        "Home & Kitchen"
+        "TV & Video"
       ],
       "byCategory": {
+        "Gold Box Deal": [
+          {
+            "asin": "B0GG9WXY77",
+            "slug": "bedsure-purewoven-3-pieces-cotton-waffle-duvet-cover-set-que",
+            "title": "Bedsure PureWoven 3 Pieces Cotton Waffle Duvet Cover Set, Queen, Burgundy",
+            "price": "$99.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/91sjJlVuAeL.jpg",
+            "url": "https://www.amazon.com/dp/B0GG9WXY77?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CZPHPJLN",
+            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-slate-b",
+            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Slate Blue",
+            "price": "$129.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/51ullEjK3TL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZPHPJLN?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CZPLV566",
+            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
+            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices : Electronics",
+            "price": "$129.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0002E4Z8M",
@@ -70,30 +104,6 @@
             "url": "https://www.amazon.com/dp/B0BS1T9J4Y?tag=noya0b-20"
           }
         ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0CZPHPJLN",
-            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-slate-b",
-            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Slate Blue",
-            "price": "$129.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ullEjK3TL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZPHPJLN?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CZPLV566",
-            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
-            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices : Electronics",
-            "price": "$129.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B09G6G9WT8",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71f85-Ltc8L.jpg",
             "url": "https://www.amazon.com/dp/B0H42KZBF7?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B07H5T2T2S",
-            "slug": "cuisinart-electric-carving-knife-set-for-meat-bread-slicing",
-            "title": "Cuisinart Electric Carving Knife Set for Meat & Bread Slicing, CEK-41",
-            "price": "$64.93",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WbnHTseoL.jpg",
-            "url": "https://www.amazon.com/dp/B07H5T2T2S?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GG9WXY77",
+          "slug": "bedsure-purewoven-3-pieces-cotton-waffle-duvet-cover-set-que",
+          "title": "Bedsure PureWoven 3 Pieces Cotton Waffle Duvet Cover Set, Queen, Burgundy",
+          "price": "$99.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/91sjJlVuAeL.jpg",
+          "url": "https://www.amazon.com/dp/B0GG9WXY77?tag=noya0b-20"
+        },
         {
           "asin": "B0002E4Z8M",
           "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
@@ -233,23 +241,12 @@
           "category": "TV & Video",
           "imageUrl": "https://m.media-amazon.com/images/I/71f85-Ltc8L.jpg",
           "url": "https://www.amazon.com/dp/B0H42KZBF7?tag=noya0b-20"
-        },
-        {
-          "asin": "B07H5T2T2S",
-          "slug": "cuisinart-electric-carving-knife-set-for-meat-bread-slicing",
-          "title": "Cuisinart Electric Carving Knife Set for Meat & Bread Slicing, CEK-41",
-          "price": "$64.93",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/61WbnHTseoL.jpg",
-          "url": "https://www.amazon.com/dp/B07H5T2T2S?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 14, 2026?",
-          "a": "The best deals today include \"Shure SM7B Dynamic Vocal Microphone for Podcasting & Streami...\" and 9 other hand-picked discounts. Deals span Electronics, Gold Box Deal, Fashion and are updated daily."
+          "a": "The best deals today include \"Bedsure PureWoven 3 Pieces Cotton Waffle Duvet Cover Set, Qu...\" and 9 other hand-picked discounts. Deals span Electronics, Gold Box Deal, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-14T11:00:00.841Z",
-      "updatedAt": "2026-11-14T11:00:00.841Z"
+      "generatedAt": "2026-11-14T11:10:02.667Z",
+      "updatedAt": "2026-11-14T11:10:02.668Z"
     },
     {
       "date": "2026-11-13",
@@ -16345,5 +16342,5 @@
       "updatedAt": "2026-09-17T03:50:02.442Z"
     }
   ],
-  "generatedAt": "2026-11-14T11:00:00.846Z"
+  "generatedAt": "2026-11-14T11:10:02.673Z"
 }
