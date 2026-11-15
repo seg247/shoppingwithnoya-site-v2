@@ -9,9 +9,22 @@
         "Gold Box Deal",
         "Other",
         "Beauty",
-        "Fashion"
+        "Home & Kitchen"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B07DL1TZ29",
+            "slug": "kitchenaid-ksm150psap-artisan-stand-mixer-5-quart-apple-cide",
+            "title": "KitchenAid KSM150PSAP Artisan Stand Mixer, 5 quart, Apple Cider: Home & Kitchen",
+            "price": "$699.87",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81FMML4EFsL.jpg",
+            "url": "https://www.amazon.com/dp/B07DL1TZ29?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0D3YKB5Q1",
@@ -116,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
             "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0FW8246KX",
-            "slug": "levis-womens-318-seamed-wide-leg-jeans-new-travertine-24-reg",
-            "title": "Levi's Women's 318 Seamed Wide Leg Jeans, (New) Travertine, 24 Regular : Clothing, Shoes & Jewelry",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/41MfFKvyTCL.jpg",
-            "url": "https://www.amazon.com/dp/B0FW8246KX?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07DL1TZ29",
+          "slug": "kitchenaid-ksm150psap-artisan-stand-mixer-5-quart-apple-cide",
+          "title": "KitchenAid KSM150PSAP Artisan Stand Mixer, 5 quart, Apple Cider: Home & Kitchen",
+          "price": "$699.87",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/81FMML4EFsL.jpg",
+          "url": "https://www.amazon.com/dp/B07DL1TZ29?tag=noya0b-20"
+        },
         {
           "asin": "B0D3YKB5Q1",
           "slug": "hioasis-175-pcs-clear-green-plates-for-party-green-party-pla",
@@ -230,23 +241,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
           "url": "https://www.amazon.com/dp/B09231NL5H?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FW8246KX",
-          "slug": "levis-womens-318-seamed-wide-leg-jeans-new-travertine-24-reg",
-          "title": "Levi's Women's 318 Seamed Wide Leg Jeans, (New) Travertine, 24 Regular : Clothing, Shoes & Jewelry",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/41MfFKvyTCL.jpg",
-          "url": "https://www.amazon.com/dp/B0FW8246KX?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 15, 2026?",
-          "a": "The best deals today include \"\udecd️Hioasis 175 Pcs Clear Green Plates for Party | Green Party...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"KitchenAid KSM150PSAP Artisan Stand Mixer, 5 quart, Apple Ci...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-15T22:20:03.171Z",
-      "updatedAt": "2026-11-15T22:20:03.171Z"
+      "generatedAt": "2026-11-15T22:30:05.172Z",
+      "updatedAt": "2026-11-15T22:30:05.173Z"
     },
     {
       "date": "2026-11-14",
@@ -16342,5 +16342,5 @@
       "updatedAt": "2026-09-18T03:50:02.358Z"
     }
   ],
-  "generatedAt": "2026-11-15T22:20:03.180Z"
+  "generatedAt": "2026-11-15T22:30:05.183Z"
 }
