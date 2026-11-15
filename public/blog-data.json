@@ -9,11 +9,24 @@
         "Fashion",
         "Garden & Outdoor",
         "Home & Kitchen",
+        "Tools",
         "Sports",
-        "Gold Box Deal",
-        "Electronics"
+        "Gold Box Deal"
       ],
       "byCategory": {
+        "Tools": [
+          {
+            "asin": "B0CJ2SB7NT",
+            "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
+            "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
+            "price": "$64.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Tools",
+            "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
+            "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
+          }
+        ],
         "Garden & Outdoor": [
           {
             "asin": "B0DV4HXQXY",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/616ZiKQVU9L.jpg",
             "url": "https://www.amazon.com/dp/B0CQY5VN8D?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0002E4Z8M",
-            "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
-            "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting & Streaming",
-            "price": "$369.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
-            "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CJ2SB7NT",
+          "slug": "cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
+          "title": "Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with Battery Electric Drill Driver for Men Home Hand Repair Basic Toolbox Tools Sets Drills Case : Tools & Home Improvement",
+          "price": "$64.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Tools",
+          "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
+          "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
+        },
         {
           "asin": "B0DV4HXQXY",
           "slug": "clostnature-1-person-lightweight-backpacking-tent-easy-setup",
@@ -236,23 +247,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/81RRg+qQHZL.jpg",
           "url": "https://www.amazon.com/dp/B017CD6JYS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0002E4Z8M",
-          "slug": "shure-sm7b-dynamic-vocal-microphone-for-podcasting-streaming",
-          "title": "Shure SM7B Dynamic Vocal Microphone for Podcasting & Streaming",
-          "price": "$369.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
-          "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 15, 2026?",
-          "a": "The best deals today include \"Clostnature 1 Person Lightweight Backpacking Tent, Easy Setu...\" and 9 other hand-picked discounts. Deals span Fashion, Garden & Outdoor, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Cordless Drill Tool Kit Set: 20V Power Drill Tool Box with B...\" and 9 other hand-picked discounts. Deals span Fashion, Garden & Outdoor, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-15T12:00:02.397Z",
-      "updatedAt": "2026-11-15T12:00:02.397Z"
+      "generatedAt": "2026-11-15T12:10:02.309Z",
+      "updatedAt": "2026-11-15T12:10:02.309Z"
     },
     {
       "date": "2026-11-14",
@@ -16348,5 +16348,5 @@
       "updatedAt": "2026-09-18T03:50:02.358Z"
     }
   ],
-  "generatedAt": "2026-11-15T12:00:02.403Z"
+  "generatedAt": "2026-11-15T12:10:02.315Z"
 }
