@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-16T09:20:00.550Z",
+  "generatedAt": "2026-11-16T09:30:02.128Z",
   "total": 500,
   "activeTotal": 494,
   "posts": [
+    {
+      "slug": "b0dhy92hbl-playstation-dualsense-wireless-controller-chroma-indigo",
+      "asin": "B0DHY92HBL",
+      "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo",
+      "url": "https://www.amazon.com/dp/B0DHY92HBL?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gold Box Deal",
+      "ts": "2026-11-16T09:21:13.042Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b094yhjjvg-amazon-basics-outdoor-smart-plug-with-2-individually-control",
       "asin": "B094YHJJVG",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8421,26 +8437,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b009vuhlha-kitchenaid-5-ultra-power-speed-hand-mixer-khm512-empire-red-",
-      "asin": "B009VUHLHA",
-      "title": "KitchenAid 5 Ultra Power Speed Hand Mixer, KHM512, Empire Red | 5 Speeds, Lockable swivel cord, Turbo Beaters, Easy release button, Dishwasher-safe beaters",
-      "url": "https://www.amazon.com/dp/B009VUHLHA?tag=noya0b-20",
-      "discount": 25,
-      "rating": "WARM",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-03T04:10:45.418Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/3129GS2CaML._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": {
-        "key": "warm",
-        "label": "🔥 25% OFF",
-        "tone": "warm"
-      },
       "feedStatus": "active"
     }
   ],
@@ -23423,6 +23419,16 @@
       "category": "Beauty",
       "ts": "2026-11-03T04:05:55.860Z",
       "archivedAt": "2026-11-16T09:10:00.647Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b009vuhlha-kitchenaid-5-ultra-power-speed-hand-mixer-khm512-empire-red-",
+      "asin": "B009VUHLHA",
+      "title": "KitchenAid 5 Ultra Power Speed Hand Mixer, KHM512, Empire Red | 5 Speeds, Lockable swivel cord, Turbo Beaters, Easy release button, Dishwasher-safe beaters",
+      "url": "https://www.amazon.com/dp/B009VUHLHA?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-03T04:10:45.418Z",
+      "archivedAt": "2026-11-16T09:30:02.128Z",
       "status": "archived"
     }
   ]
