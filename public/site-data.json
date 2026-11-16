@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-16T09:40:00.896Z",
+  "generatedAt": "2026-11-16T09:50:00.994Z",
   "total": 500,
   "activeTotal": 494,
   "posts": [
+    {
+      "slug": "b0g2d1r15q-ring-battery-doorbell-video-doorbell-camera-amazon",
+      "asin": "B0G2D1R15Q",
+      "title": "Ring Battery Doorbell | Video Doorbell Camera | Amazon",
+      "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gold Box Deal",
+      "ts": "2026-11-16T09:40:40.741Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0dhy92hbl-playstation-dualsense-wireless-controller-chroma-indigo",
       "asin": "B0DHY92HBL",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/818WRQVFi-L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -2682,22 +2698,6 @@
       "ts": "2026-11-13T03:41:06.538Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61JWaq-JFDL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0g2d1r15q-ring-battery-doorbell-video-doorbell-camera",
-      "asin": "B0G2D1R15Q",
-      "title": "Ring Battery Doorbell | Video Doorbell Camera",
-      "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-11-13T01:40:36.725Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -23429,6 +23429,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-03T04:10:45.418Z",
       "archivedAt": "2026-11-16T09:30:02.128Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0g2d1r15q-ring-battery-doorbell-video-doorbell-camera",
+      "asin": "B0G2D1R15Q",
+      "title": "Ring Battery Doorbell | Video Doorbell Camera",
+      "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-11-13T01:40:36.725Z",
+      "archivedAt": "2026-11-16T09:50:00.994Z",
       "status": "archived"
     }
   ]
