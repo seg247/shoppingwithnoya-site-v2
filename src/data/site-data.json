@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-16T17:40:00.591Z",
+  "generatedAt": "2026-11-16T17:50:00.874Z",
   "total": 500,
   "activeTotal": 494,
   "posts": [
+    {
+      "slug": "b0fvxmhhrp-samsung-galaxy-tab-a11-6gb-ram-128gb-storage-expandable-stor",
+      "asin": "B0FVXMHHRP",
+      "title": "Samsung Galaxy Tab A11+ 6GB RAM, 128GB Storage, Expandable Storage, Gray",
+      "url": "https://www.amazon.com/dp/B0FVXMHHRP?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-16T17:40:45.320Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61NlIpbonCL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0hfyvhhm7-tommy-hilfiger-men-s-medium-weight-fleece-hoodie-sweatshirt-",
       "asin": "B0HFYVHHM7",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51xgs73JqfL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8395,26 +8411,6 @@
       "badge": {
         "key": "hot",
         "label": "💥 32% OFF",
-        "tone": "hot"
-      },
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0000bx8ma-melissa-doug-food-groups-wooden-play-food-21-pieces-and-4-cr",
-      "asin": "B0000BX8MA",
-      "title": "Melissa & Doug Food Groups Wooden Play Food, 21 Pieces and 4 Crates",
-      "url": "https://www.amazon.com/dp/B0000BX8MA?tag=noya0b-20",
-      "discount": 35,
-      "rating": "HOT",
-      "category": "Toys & Games",
-      "ts": "2026-11-03T17:13:24.206Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51MY1aK11ML._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": {
-        "key": "hot",
-        "label": "💥 35% OFF",
         "tone": "hot"
       },
       "feedStatus": "active"
@@ -23549,6 +23545,16 @@
       "category": "Beauty",
       "ts": "2026-11-03T16:53:43.242Z",
       "archivedAt": "2026-11-16T17:10:01.813Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0000bx8ma-melissa-doug-food-groups-wooden-play-food-21-pieces-and-4-cr",
+      "asin": "B0000BX8MA",
+      "title": "Melissa & Doug Food Groups Wooden Play Food, 21 Pieces and 4 Crates",
+      "url": "https://www.amazon.com/dp/B0000BX8MA?tag=noya0b-20",
+      "category": "Toys & Games",
+      "ts": "2026-11-03T17:13:24.206Z",
+      "archivedAt": "2026-11-16T17:50:00.874Z",
       "status": "archived"
     }
   ]
