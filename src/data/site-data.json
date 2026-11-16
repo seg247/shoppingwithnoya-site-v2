@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-16T21:20:00.408Z",
+  "generatedAt": "2026-11-16T21:30:00.473Z",
   "total": 500,
   "activeTotal": 494,
   "posts": [
+    {
+      "slug": "b0hgnptsmt-dyson-v9-motorbar-cordless-vacuum-everything-else",
+      "asin": "B0HGNPTSMT",
+      "title": "Dyson V9 Motorbar™ Cordless Vacuum : Everything Else",
+      "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-16T21:20:59.652Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0chds1dmc-bambu-lab-p1s-combo-p1s-3d-printer-and-ams-multi-color-3d-pr",
       "asin": "B0CHDS1DMC",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61nYZUrVj3L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -3762,22 +3778,6 @@
       "ts": "2026-11-12T04:20:56.022Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71t-9BTIg9L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0hgnptsmt-amazon-com-dyson-v9-motorbar-cordless-vacuum",
-      "asin": "B0HGNPTSMT",
-      "title": "Amazon.com - Dyson V9 Motorbar™ Cordless Vacuum",
-      "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-11-12T03:20:33.117Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -23623,6 +23623,16 @@
       "category": "Smart Home",
       "ts": "2026-11-04T05:40:39.927Z",
       "archivedAt": "2026-11-16T21:10:02.175Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0hgnptsmt-amazon-com-dyson-v9-motorbar-cordless-vacuum",
+      "asin": "B0HGNPTSMT",
+      "title": "Amazon.com - Dyson V9 Motorbar™ Cordless Vacuum",
+      "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-11-12T03:20:33.117Z",
+      "archivedAt": "2026-11-16T21:30:00.473Z",
       "status": "archived"
     }
   ]
