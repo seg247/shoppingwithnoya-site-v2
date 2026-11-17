@@ -11,37 +11,21 @@
         "Beauty",
         "Cleaning Supplies",
         "Gold Box Deal",
-        "Electronics",
-        "Gaming"
+        "Electronics"
       ],
       "byCategory": {
-        "Fashion": [
-          {
-            "asin": "B085S7W87S",
-            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
-            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
-            "price": "$32.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
-            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0D1G6H86V",
-            "slug": "medicube-glass-skin-collagen-trial-kit-mini-skincare-set-kor",
-            "title": "\udecd️medicube Glass Skin Collagen Trial Kit - Mini Skincare Set | Korean Skincare Set, Ideal Gifts for women, 4-Step Skinca",
-            "price": "$14.90",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Jo0uWIKAL.jpg",
-            "url": "https://www.amazon.com/dp/B0D1G6H86V/ref=cmswrasglapigliSZ0J1E6MYGHWN3M56019?tag=noya0b-20"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0BPQ34HYJ",
+            "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw",
+            "title": "STANLEY Quencher H2.0 Tumbler with Handle and Straw",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61N++Kof2ML.jpg",
+            "url": "https://www.amazon.com/dp/B0BPQ34HYJ?tag=noya0b-20"
+          },
           {
             "asin": "B0HBMJ4L4V",
             "slug": "l2-lymphatic-drainage-massage-tool-for-women-body-contouring",
@@ -87,6 +71,32 @@
             "url": "https://www.amazon.com/dp/B0CRMZ9PFR?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B085S7W87S",
+            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
+            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
+            "price": "$32.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
+            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0D1G6H86V",
+            "slug": "medicube-glass-skin-collagen-trial-kit-mini-skincare-set-kor",
+            "title": "\udecd️medicube Glass Skin Collagen Trial Kit - Mini Skincare Set | Korean Skincare Set, Ideal Gifts for women, 4-Step Skinca",
+            "price": "$14.90",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Jo0uWIKAL.jpg",
+            "url": "https://www.amazon.com/dp/B0D1G6H86V/ref=cmswrasglapigliSZ0J1E6MYGHWN3M56019?tag=noya0b-20"
+          }
+        ],
         "Cleaning Supplies": [
           {
             "asin": "B0H2TPJ4BR",
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
             "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
           }
-        ],
-        "Gaming": [
-          {
-            "asin": "B0FY6YRGRS",
-            "slug": "playstation-dualsense-wireless-controller-gray-camouflage-fo",
-            "title": "PlayStation DualSense™ Wireless Controller – Gray Camouflage - For PS5, PC, MAC & Mobile",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61yU5LP9zXL.jpg",
-            "url": "https://www.amazon.com/dp/B0FY6YRGRS?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0BPQ34HYJ",
+          "slug": "stanley-quencher-h20-tumbler-with-handle-and-straw",
+          "title": "STANLEY Quencher H2.0 Tumbler with Handle and Straw",
+          "price": "$39.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61N++Kof2ML.jpg",
+          "url": "https://www.amazon.com/dp/B0BPQ34HYJ?tag=noya0b-20"
+        },
         {
           "asin": "B085S7W87S",
           "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
@@ -239,23 +247,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71LYHO3+wnL.jpg",
           "url": "https://www.amazon.com/dp/B0002E4Z8M?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FY6YRGRS",
-          "slug": "playstation-dualsense-wireless-controller-gray-camouflage-fo",
-          "title": "PlayStation DualSense™ Wireless Controller – Gray Camouflage - For PS5, PC, MAC & Mobile",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/61yU5LP9zXL.jpg",
-          "url": "https://www.amazon.com/dp/B0FY6YRGRS?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 17, 2026?",
-          "a": "The best deals today include \"MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag L...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
+          "a": "The best deals today include \"STANLEY Quencher H2.0 Tumbler with Handle and Straw...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-17T14:20:01.955Z",
-      "updatedAt": "2026-11-17T14:20:01.955Z"
+      "generatedAt": "2026-11-17T14:30:01.002Z",
+      "updatedAt": "2026-11-17T14:30:01.002Z"
     },
     {
       "date": "2026-11-16",
@@ -16354,5 +16351,5 @@
       "updatedAt": "2026-09-20T03:50:03.640Z"
     }
   ],
-  "generatedAt": "2026-11-17T14:20:01.959Z"
+  "generatedAt": "2026-11-17T14:30:01.008Z"
 }
