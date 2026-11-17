@@ -14,46 +14,18 @@
         "Cleaning Supplies"
       ],
       "byCategory": {
-        "Electronics": [
-          {
-            "asin": "B0B1N7LJD3",
-            "slug": "blink-outdoor-4-wireless-smart-security-camera-two-year-batt",
-            "title": "\udecd️Blink Outdoor 4 – Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module not includ",
-            "price": "$69.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61fMC8pY0uL.jpg",
-            "url": "https://www.amazon.com/dp/B0B1N7LJD3/ref=cmswrasglapiglidl_QT0382W2M9SAF1G7JRM6?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0GG9C9THF",
-            "slug": "portable-air-conditioner-fan-4-in-1-mini-air-cooler-with-450",
-            "title": "Portable Air Conditioner Fan, 4-in-1 Mini Air Cooler with 450ML Water Tank, 3 Speeds Portable Fan 7 Colors LED Ambient Light, Mini Evaporative Cooler Desktop Humidifier Fan for Bedroom Office Travel : Home & Kitchen",
-            "price": "$32.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61zES0Uxo+L.jpg",
-            "url": "https://www.amazon.com/dp/B0GG9C9THF?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0D2YWPNTV",
-            "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-goldenrod-hand",
-            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Goldenrod | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51gCu1p75wL.jpg",
-            "url": "https://www.amazon.com/dp/B0D2YWPNTV?tag=noya0b-20"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0GVFJ4BS8",
+            "slug": "myq-smart-garage-door-video-keypad-2k-with-wide-angle-camera",
+            "title": "\udecd️myQ Smart Garage Door Video Keypad 2K with Wide-Angle Camera,Customizable PIN Codes,and Smartphone Control",
+            "price": "$89.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71cSxRlIt5L.jpg",
+            "url": "https://www.amazon.com/dp/B0GVFJ4BS8/ref=cmswrasglapiglidl_BE1SXZGQ7JN59ZCYJSN0?tag=noya0b-20"
+          },
           {
             "asin": "B0H3VTHV65",
             "slug": "volpam-electric-scooter-350w500w-motor-212840-miles-long-ran",
@@ -97,17 +69,45 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/813vBI0f9DL.jpg",
             "url": "https://www.amazon.com/dp/B0H6BFSWJZ?tag=noya0b-20"
-          },
+          }
+        ],
+        "Electronics": [
           {
-            "asin": "B0DVF83FNK",
-            "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-cream-royal",
-            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Cream Royal",
-            "price": "$40.00",
+            "asin": "B0B1N7LJD3",
+            "slug": "blink-outdoor-4-wireless-smart-security-camera-two-year-batt",
+            "title": "\udecd️Blink Outdoor 4 – Wireless smart security camera, two-year battery life, two-way talk. Required Sync Module not includ",
+            "price": "$69.99",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51VtY80Yc4L.jpg",
-            "url": "https://www.amazon.com/dp/B0DVF83FNK?tag=noya0b-20"
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61fMC8pY0uL.jpg",
+            "url": "https://www.amazon.com/dp/B0B1N7LJD3/ref=cmswrasglapiglidl_QT0382W2M9SAF1G7JRM6?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0GG9C9THF",
+            "slug": "portable-air-conditioner-fan-4-in-1-mini-air-cooler-with-450",
+            "title": "Portable Air Conditioner Fan, 4-in-1 Mini Air Cooler with 450ML Water Tank, 3 Speeds Portable Fan 7 Colors LED Ambient Light, Mini Evaporative Cooler Desktop Humidifier Fan for Bedroom Office Travel : Home & Kitchen",
+            "price": "$32.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61zES0Uxo+L.jpg",
+            "url": "https://www.amazon.com/dp/B0GG9C9THF?tag=noya0b-20"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0D2YWPNTV",
+            "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-goldenrod-hand",
+            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Goldenrod | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51gCu1p75wL.jpg",
+            "url": "https://www.amazon.com/dp/B0D2YWPNTV?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0GVFJ4BS8",
+          "slug": "myq-smart-garage-door-video-keypad-2k-with-wide-angle-camera",
+          "title": "\udecd️myQ Smart Garage Door Video Keypad 2K with Wide-Angle Camera,Customizable PIN Codes,and Smartphone Control",
+          "price": "$89.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71cSxRlIt5L.jpg",
+          "url": "https://www.amazon.com/dp/B0GVFJ4BS8/ref=cmswrasglapiglidl_BE1SXZGQ7JN59ZCYJSN0?tag=noya0b-20"
+        },
         {
           "asin": "B0B1N7LJD3",
           "slug": "blink-outdoor-4-wireless-smart-security-camera-two-year-batt",
@@ -236,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/813vBI0f9DL.jpg",
           "url": "https://www.amazon.com/dp/B0H6BFSWJZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DVF83FNK",
-          "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-cream-royal",
-          "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Cream Royal",
-          "price": "$40.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/51VtY80Yc4L.jpg",
-          "url": "https://www.amazon.com/dp/B0DVF83FNK?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 17, 2026?",
-          "a": "The best deals today include \"\udecd️Blink Outdoor 4 – Wireless smart security camera, two-year...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Beauty and are updated daily."
+          "a": "The best deals today include \"\udecd️myQ Smart Garage Door Video Keypad 2K with Wide-Angle Came...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-17T18:20:03.518Z",
-      "updatedAt": "2026-11-17T18:20:03.518Z"
+      "generatedAt": "2026-11-17T18:30:02.033Z",
+      "updatedAt": "2026-11-17T18:30:02.033Z"
     },
     {
       "date": "2026-11-16",
@@ -16351,5 +16351,5 @@
       "updatedAt": "2026-09-20T03:50:03.640Z"
     }
   ],
-  "generatedAt": "2026-11-17T18:20:03.541Z"
+  "generatedAt": "2026-11-17T18:30:02.039Z"
 }
