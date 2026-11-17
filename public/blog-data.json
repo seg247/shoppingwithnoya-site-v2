@@ -9,10 +9,23 @@
         "Home & Kitchen",
         "Other",
         "Gaming",
-        "Gold Box Deal",
-        "Personal Care"
+        "Fashion",
+        "Gold Box Deal"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B08KRLRJMD",
+            "slug": "puma-mens-6-pack-crew-running-socks-whiteblackgrey-13-15-us",
+            "title": "\udecd️PUMA mens 6 Pack Crew running socks, White/Black/Grey, 13-15 US | Arch Support and Cushioned Footbed",
+            "price": "$20.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/711X0oiuo6L.jpg",
+            "url": "https://www.amazon.com/dp/B08KRLRJMD/ref=cmswrasglapiglidl_HQ4N4142KJRZWS8FN818?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0H4NPL5Z4",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61U3AgGHLnL.jpg",
             "url": "https://www.amazon.com/dp/B00MUIYAHO?tag=noya0b-20"
           }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0FHJ7TKZM",
-            "slug": "ring-battery-doorbell-video-doorbell-camera",
-            "title": "Ring Battery Doorbell | Video Doorbell Camera",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08KRLRJMD",
+          "slug": "puma-mens-6-pack-crew-running-socks-whiteblackgrey-13-15-us",
+          "title": "\udecd️PUMA mens 6 Pack Crew running socks, White/Black/Grey, 13-15 US | Arch Support and Cushioned Footbed",
+          "price": "$20.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/711X0oiuo6L.jpg",
+          "url": "https://www.amazon.com/dp/B08KRLRJMD/ref=cmswrasglapiglidl_HQ4N4142KJRZWS8FN818?tag=noya0b-20"
+        },
         {
           "asin": "B0H4NPL5Z4",
           "slug": "stanley-flowstate-duo-lunch-box-rose-quartz-insulated-lunch",
@@ -233,23 +244,12 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/61U3AgGHLnL.jpg",
           "url": "https://www.amazon.com/dp/B00MUIYAHO?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FHJ7TKZM",
-          "slug": "ring-battery-doorbell-video-doorbell-camera",
-          "title": "Ring Battery Doorbell | Video Doorbell Camera",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
-          "url": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 17, 2026?",
-          "a": "The best deals today include \"\udecd️STANLEY Flowstate Duo Lunch Box, Rose Quartz | Insulated L...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Gaming and are updated daily."
+          "a": "The best deals today include \"\udecd️PUMA mens 6 Pack Crew running socks, White/Black/Grey, 13-...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Other, Gaming and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-17T22:00:02.359Z",
-      "updatedAt": "2026-11-17T22:00:02.360Z"
+      "generatedAt": "2026-11-17T22:10:02.153Z",
+      "updatedAt": "2026-11-17T22:10:02.153Z"
     },
     {
       "date": "2026-11-16",
@@ -16348,5 +16348,5 @@
       "updatedAt": "2026-09-20T03:50:03.640Z"
     }
   ],
-  "generatedAt": "2026-11-17T22:00:02.366Z"
+  "generatedAt": "2026-11-17T22:10:02.158Z"
 }
