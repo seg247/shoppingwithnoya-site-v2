@@ -4,18 +4,31 @@
       "date": "2026-11-17",
       "slug": "2026-11-17",
       "title": "🔥 Best Deals Today — November 17, 2026",
-      "intro": "Today's best online deals for Tuesday, November 17, 2026 — 10 hand-picked discounts across Home & Kitchen, Sports, Gold Box Deal and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, November 17, 2026 — 10 hand-picked discounts across Home & Kitchen, Sports, Electronics and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
         "Sports",
+        "Electronics",
         "Gold Box Deal",
         "Other",
         "Toys & Kids",
         "Beauty",
-        "Fashion",
-        "Gaming"
+        "Fashion"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0F3PQHWTZ",
+            "slug": "sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+            "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
+            "price": "$378.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
+            "url": "https://www.amazon.com/dp/B0F3PQHWTZ?tag=noya0b-20"
+          }
+        ],
         "Gold Box Deal": [
           {
             "asin": "B0CHDS1DMC",
@@ -128,22 +141,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/711X0oiuo6L.jpg",
             "url": "https://www.amazon.com/dp/B08KRLRJMD/ref=cmswrasglapiglidl_HQ4N4142KJRZWS8FN818?tag=noya0b-20"
           }
-        ],
-        "Gaming": [
-          {
-            "asin": "B0CJT9WCRD",
-            "slug": "playstation-dualsense-wireless-controller-volcanic-red",
-            "title": "PlayStation DualSense Wireless Controller - Volcanic Red",
-            "price": "$99.90",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61yKb5y7U5L.jpg",
-            "url": "https://www.amazon.com/dp/B0CJT9WCRD?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F3PQHWTZ",
+          "slug": "sony-wh-1000xm6-the-best-noise-cancelling-wireless-headphone",
+          "title": "Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphones, Black | HD NC Processor QN3, 12 Microphones, Adaptive NC Optimizer, Mastered by Engineers, Studio-Quality, Up to 30 Hrs of Battery",
+          "price": "$378.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ddahpESML.jpg",
+          "url": "https://www.amazon.com/dp/B0F3PQHWTZ?tag=noya0b-20"
+        },
         {
           "asin": "B0CHDS1DMC",
           "slug": "bambu-lab-p1s-combo-p1s-3d-printer-and-ams-multi-color-3d-pr",
@@ -242,23 +253,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/61g9RMUVfVL.jpg",
           "url": "https://www.amazon.com/dp/B0H4NPL5Z4/ref=cmswrasglapigliPGD79DRB6SPGXV0C5SQ3?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CJT9WCRD",
-          "slug": "playstation-dualsense-wireless-controller-volcanic-red",
-          "title": "PlayStation DualSense Wireless Controller - Volcanic Red",
-          "price": "$99.90",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/61yKb5y7U5L.jpg",
-          "url": "https://www.amazon.com/dp/B0CJT9WCRD?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 17, 2026?",
-          "a": "The best deals today include \"Bambu Lab P1S Combo, P1S 3D Printer and AMS, Multi-Color 3D ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Sports, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"Sony WH-1000XM6 The Best Noise Cancelling Wireless Headphone...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Sports, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +277,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-18T00:19:59.264Z",
-      "updatedAt": "2026-11-18T00:19:59.264Z"
+      "generatedAt": "2026-11-18T00:30:01.890Z",
+      "updatedAt": "2026-11-18T00:30:01.890Z"
     },
     {
       "date": "2026-11-16",
@@ -16357,5 +16357,5 @@
       "updatedAt": "2026-09-20T03:50:03.640Z"
     }
   ],
-  "generatedAt": "2026-11-18T00:19:59.269Z"
+  "generatedAt": "2026-11-18T00:30:01.895Z"
 }
