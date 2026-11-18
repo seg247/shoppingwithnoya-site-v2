@@ -4,16 +4,51 @@
       "date": "2026-11-18",
       "slug": "2026-11-18",
       "title": "🔥 Best Deals Today — November 18, 2026",
-      "intro": "Today's best online deals for Wednesday, November 18, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, November 18, 2026 — 10 hand-picked discounts across Fashion, Electronics, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
-        "Electronics",
         "Fashion",
+        "Electronics",
+        "Home & Kitchen",
         "Other",
         "Beauty",
         "Gaming"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0DQYT7S23",
+            "slug": "dolce-vita-womens-caper-sandal-pearl-vanilla-9",
+            "title": "\udecd️Dolce Vita Women's Caper Sandal, Pearl Vanilla, 9",
+            "price": "$130.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/71-oi+rYpxL.jpg",
+            "url": "https://www.amazon.com/dp/B0DQYT7S23?tag=noya0b-20"
+          },
+          {
+            "asin": "B085S7W87S",
+            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
+            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
+            "price": "$32.39",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
+            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
+          },
+          {
+            "asin": "B0964ZLZ8D",
+            "slug": "aixiao-elegant-necklace-earrings-bracelet-bridal-wedding-jew",
+            "title": "Aixiao Elegant Necklace Earrings Bracelet Bridal Wedding Jewelry Sets Gold | Mother of Bride Bridesmaids Prom Party Quinceañera Homecoming Formal Events Gown Dress Outfit Accessories Gifts for Women: Clothing, Shoes & Jewelry",
+            "price": "$12.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61vOgq97xjL.jpg",
+            "url": "https://www.amazon.com/dp/B0964ZLZ8D?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0D634ZR1Y",
@@ -73,17 +108,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/415yyMoW7RL.jpg",
             "url": "https://www.amazon.com/dp/B0DBN2MDYS/ref=cmswrasglapiglidl_8SXK3VEKCZXD76KASTFD?tag=noya0b-20"
-          },
-          {
-            "asin": "B0000635X9",
-            "slug": "kitchenaid-ksm150pstg-artisan-series-5-qt-stand-mixer-with-p",
-            "title": "KitchenAid KSM150PSTG Artisan Series 5-Qt. Stand Mixer with Pouring Shield - Tangerine: Electric Stand Mixers: Home & Kitchen",
-            "price": "$349.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51ANiYuVnfL.jpg",
-            "url": "https://www.amazon.com/dp/B0000635X9?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -97,30 +121,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/61noPL7mHYL.jpg",
             "url": "https://www.amazon.com/dp/B07PH2MYHY/ref=cmswrasglapigliX2ZF59VR79DYV821KH2R?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B085S7W87S",
-            "slug": "mintegra-women-shoulder-handbag-roomy-multiple-pockets-bag-l",
-            "title": "MINTEGRA Women Shoulder Handbag Roomy Multiple Pockets Bag Ladies Crossbody Purse Fashion Tote Top Handle Satchel: Handbags",
-            "price": "$32.39",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
-            "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-          },
-          {
-            "asin": "B0964ZLZ8D",
-            "slug": "aixiao-elegant-necklace-earrings-bracelet-bridal-wedding-jew",
-            "title": "Aixiao Elegant Necklace Earrings Bracelet Bridal Wedding Jewelry Sets Gold | Mother of Bride Bridesmaids Prom Party Quinceañera Homecoming Formal Events Gown Dress Outfit Accessories Gifts for Women: Clothing, Shoes & Jewelry",
-            "price": "$12.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61vOgq97xjL.jpg",
-            "url": "https://www.amazon.com/dp/B0964ZLZ8D?tag=noya0b-20"
           }
         ],
         "Gaming": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0DQYT7S23",
+          "slug": "dolce-vita-womens-caper-sandal-pearl-vanilla-9",
+          "title": "\udecd️Dolce Vita Women's Caper Sandal, Pearl Vanilla, 9",
+          "price": "$130.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/71-oi+rYpxL.jpg",
+          "url": "https://www.amazon.com/dp/B0DQYT7S23?tag=noya0b-20"
+        },
         {
           "asin": "B0D634ZR1Y",
           "slug": "life360-tile-pro-powerful-bluetooth-tracker-key-finder-and-i",
@@ -236,27 +247,16 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61vOgq97xjL.jpg",
           "url": "https://www.amazon.com/dp/B0964ZLZ8D?tag=noya0b-20"
-        },
-        {
-          "asin": "B0000635X9",
-          "slug": "kitchenaid-ksm150pstg-artisan-series-5-qt-stand-mixer-with-p",
-          "title": "KitchenAid KSM150PSTG Artisan Series 5-Qt. Stand Mixer with Pouring Shield - Tangerine: Electric Stand Mixers: Home & Kitchen",
-          "price": "$349.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51ANiYuVnfL.jpg",
-          "url": "https://www.amazon.com/dp/B0000635X9?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 18, 2026?",
-          "a": "The best deals today include \"\udecd️Life360 Tile Pro - Powerful Bluetooth Tracker, Key Finder ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"\udecd️Dolce Vita Women's Caper Sandal, Pearl Vanilla, 9...\" and 9 other hand-picked discounts. Deals span Fashion, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-18T13:20:02.074Z",
-      "updatedAt": "2026-11-18T13:20:02.074Z"
+      "generatedAt": "2026-11-18T13:30:02.235Z",
+      "updatedAt": "2026-11-18T13:30:02.235Z"
     },
     {
       "date": "2026-11-17",
@@ -16351,5 +16351,5 @@
       "updatedAt": "2026-09-21T03:50:02.207Z"
     }
   ],
-  "generatedAt": "2026-11-18T13:20:02.079Z"
+  "generatedAt": "2026-11-18T13:30:02.240Z"
 }
