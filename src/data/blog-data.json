@@ -9,11 +9,24 @@
         "Beauty",
         "Home & Kitchen",
         "Garden & Outdoor",
+        "Electronics",
         "Grocery & Food",
-        "Gold Box Deal",
-        "Electronics"
+        "Gold Box Deal"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0D1JG8CRC",
+            "slug": "jbl-go-4-ultra-portable-bluetooth-speaker-pink-ultra-portabl",
+            "title": "JBL Go 4 - Ultra-Portable Bluetooth Speaker - Pink | Ultra-portable JBL Pro Sound with punchier bass, Up to 7 hours of playtime plus 2 hours with Playtime Boost",
+            "price": "$49.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71VkZ2CDrlL.jpg",
+            "url": "https://www.amazon.com/dp/B0D1JG8CRC?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B005BHGSZI",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/718kGgYT5gL.jpg",
             "url": "https://www.amazon.com/dp/B0FL9Z7PZ9?tag=noya0b-20"
           }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0BGSDTZVF",
-            "slug": "iphone-charger-3-pack-10ft-mfi-certified-lightning-cable-fas",
-            "title": "\udecd️iPhone Charger 3-Pack 10ft MFi Certified Lightning Cable Fast Charging Cord | Nylon Braided Phone Fast Charging High S",
-            "price": "$9.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71PxgcoTvYL.jpg",
-            "url": "https://www.amazon.com/dp/B0BGSDTZVF?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0D1JG8CRC",
+          "slug": "jbl-go-4-ultra-portable-bluetooth-speaker-pink-ultra-portabl",
+          "title": "JBL Go 4 - Ultra-Portable Bluetooth Speaker - Pink | Ultra-portable JBL Pro Sound with punchier bass, Up to 7 hours of playtime plus 2 hours with Playtime Boost",
+          "price": "$49.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71VkZ2CDrlL.jpg",
+          "url": "https://www.amazon.com/dp/B0D1JG8CRC?tag=noya0b-20"
+        },
         {
           "asin": "B005BHGSZI",
           "slug": "kitchenaid-ksm150pses-artisan-series-5-qt-stand-mixer-with-p",
@@ -236,23 +247,12 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/718kGgYT5gL.jpg",
           "url": "https://www.amazon.com/dp/B0FL9Z7PZ9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BGSDTZVF",
-          "slug": "iphone-charger-3-pack-10ft-mfi-certified-lightning-cable-fas",
-          "title": "\udecd️iPhone Charger 3-Pack 10ft MFi Certified Lightning Cable Fast Charging Cord | Nylon Braided Phone Fast Charging High S",
-          "price": "$9.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/71PxgcoTvYL.jpg",
-          "url": "https://www.amazon.com/dp/B0BGSDTZVF?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 18, 2026?",
-          "a": "The best deals today include \"KitchenAid KSM150PSES Artisan Series 5-Qt. Stand Mixer with ...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"JBL Go 4 - Ultra-Portable Bluetooth Speaker - Pink | Ultra-p...\" and 9 other hand-picked discounts. Deals span Beauty, Home & Kitchen, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-18T17:00:02.335Z",
-      "updatedAt": "2026-11-18T17:00:02.336Z"
+      "generatedAt": "2026-11-18T17:10:02.183Z",
+      "updatedAt": "2026-11-18T17:10:02.183Z"
     },
     {
       "date": "2026-11-17",
@@ -16351,5 +16351,5 @@
       "updatedAt": "2026-09-21T03:50:02.207Z"
     }
   ],
-  "generatedAt": "2026-11-18T17:00:02.346Z"
+  "generatedAt": "2026-11-18T17:10:02.188Z"
 }
