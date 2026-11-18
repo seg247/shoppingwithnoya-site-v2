@@ -9,11 +9,24 @@
         "Electronics",
         "Fashion",
         "Home & Kitchen",
+        "Gold Box Deal",
         "Other",
-        "Beauty",
-        "Gaming"
+        "Beauty"
       ],
       "byCategory": {
+        "Gold Box Deal": [
+          {
+            "asin": "B0FL9Z7PZ9",
+            "slug": "amazon-kids-tablet-8-newest-model-ages-6-12-87-display-inclu",
+            "title": "Amazon Kids Tablet 8 (newest model), Ages 6-12, 8.7\" display, Includes 1-year Kids+ content subscription, Parental controls, and Barbie Club 59 slim hard case : Everything Else",
+            "price": "$159.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/718kGgYT5gL.jpg",
+            "url": "https://www.amazon.com/dp/B0FL9Z7PZ9?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0BGSDTZVF",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61noPL7mHYL.jpg",
             "url": "https://www.amazon.com/dp/B07PH2MYHY/ref=cmswrasglapigliX2ZF59VR79DYV821KH2R?tag=noya0b-20"
           }
-        ],
-        "Gaming": [
-          {
-            "asin": "B0GFQ2YZM7",
-            "slug": "playstation-dualsense-wireless-controller-techno-red-for-ps5",
-            "title": "PlayStation DualSense® Wireless Controller – Techno Red - For PS5, PC, MAC & Mobile",
-            "price": "$64.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61fryscYoEL.jpg",
-            "url": "https://www.amazon.com/dp/B0GFQ2YZM7?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FL9Z7PZ9",
+          "slug": "amazon-kids-tablet-8-newest-model-ages-6-12-87-display-inclu",
+          "title": "Amazon Kids Tablet 8 (newest model), Ages 6-12, 8.7\" display, Includes 1-year Kids+ content subscription, Parental controls, and Barbie Club 59 slim hard case : Everything Else",
+          "price": "$159.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gold Box Deal",
+          "imageUrl": "https://m.media-amazon.com/images/I/718kGgYT5gL.jpg",
+          "url": "https://www.amazon.com/dp/B0FL9Z7PZ9?tag=noya0b-20"
+        },
         {
           "asin": "B0BGSDTZVF",
           "slug": "iphone-charger-3-pack-10ft-mfi-certified-lightning-cable-fas",
@@ -236,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61mkAdhVeOL.jpg",
           "url": "https://www.amazon.com/dp/B085S7W87S?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFQ2YZM7",
-          "slug": "playstation-dualsense-wireless-controller-techno-red-for-ps5",
-          "title": "PlayStation DualSense® Wireless Controller – Techno Red - For PS5, PC, MAC & Mobile",
-          "price": "$64.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/61fryscYoEL.jpg",
-          "url": "https://www.amazon.com/dp/B0GFQ2YZM7?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 18, 2026?",
-          "a": "The best deals today include \"\udecd️iPhone Charger 3-Pack 10ft MFi Certified Lightning Cable F...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Amazon Kids Tablet 8 (newest model), Ages 6-12, 8.7\" display...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-18T14:00:01.681Z",
-      "updatedAt": "2026-11-18T14:00:01.681Z"
+      "generatedAt": "2026-11-18T14:10:01.897Z",
+      "updatedAt": "2026-11-18T14:10:01.897Z"
     },
     {
       "date": "2026-11-17",
@@ -16351,5 +16351,5 @@
       "updatedAt": "2026-09-21T03:50:02.207Z"
     }
   ],
-  "generatedAt": "2026-11-18T14:00:01.686Z"
+  "generatedAt": "2026-11-18T14:10:01.902Z"
 }
