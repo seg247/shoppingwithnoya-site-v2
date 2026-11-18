@@ -9,10 +9,23 @@
         "Electronics",
         "Home & Kitchen",
         "Other",
-        "Gold Box Deal",
-        "Sports"
+        "Gaming",
+        "Gold Box Deal"
       ],
       "byCategory": {
+        "Gaming": [
+          {
+            "asin": "B0DHY92HBL",
+            "slug": "playstation-dualsense-wireless-controller-chroma-indigo",
+            "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo",
+            "price": "$61.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
+            "url": "https://www.amazon.com/dp/B0DHY92HBL?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0F24ZH2FB",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/715qq4z9yCL.jpg",
             "url": "https://www.amazon.com/dp/B0CHDS1DMC?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B0DV4HXQXY",
-            "slug": "clostnature-1234-person-lightweight-backpacking-tent-easy-se",
-            "title": "Clostnature 1/2/3/4 Person Lightweight Backpacking Tent, Easy Setup Tent",
-            "price": "$71.98",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
-            "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DHY92HBL",
+          "slug": "playstation-dualsense-wireless-controller-chroma-indigo",
+          "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo",
+          "price": "$61.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gaming",
+          "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
+          "url": "https://www.amazon.com/dp/B0DHY92HBL?tag=noya0b-20"
+        },
         {
           "asin": "B0F24ZH2FB",
           "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-lichen-handle",
@@ -233,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71XQaZi-clL.jpg",
           "url": "https://www.amazon.com/dp/B0BG58WF6P?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DV4HXQXY",
-          "slug": "clostnature-1234-person-lightweight-backpacking-tent-easy-se",
-          "title": "Clostnature 1/2/3/4 Person Lightweight Backpacking Tent, Easy Setup Tent",
-          "price": "$71.98",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/71sc1zpEWlL.jpg",
-          "url": "https://www.amazon.com/dp/B0DV4HXQXY?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 17, 2026?",
-          "a": "The best deals today include \"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Lichen | Ha...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Other and are updated daily."
+          "a": "The best deals today include \"PlayStation DualSense™ Wireless Controller – Chroma Indigo...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-18T03:00:01.922Z",
-      "updatedAt": "2026-11-18T03:00:01.923Z"
+      "generatedAt": "2026-11-18T03:10:01.044Z",
+      "updatedAt": "2026-11-18T03:10:01.044Z"
     },
     {
       "date": "2026-11-16",
@@ -16348,5 +16348,5 @@
       "updatedAt": "2026-09-20T03:50:03.640Z"
     }
   ],
-  "generatedAt": "2026-11-18T03:00:01.928Z"
+  "generatedAt": "2026-11-18T03:10:01.051Z"
 }
