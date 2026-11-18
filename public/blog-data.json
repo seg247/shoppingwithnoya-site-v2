@@ -10,10 +10,44 @@
         "Home & Kitchen",
         "Beauty",
         "Fashion",
-        "Tools",
-        "Garden & Outdoor"
+        "Tools"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0CDDFH2MZ",
+            "slug": "ninja-kitchen-system-blendsense-technology-1800pw-black-tb40",
+            "title": "\udecd️Ninja® Kitchen System, BlendSense Technology, 1800PW, Black, TB401 | Auto-Adjusted Blending, Smooth Results, Kitchen A",
+            "price": "$249.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71EeP5yuaEL.jpg",
+            "url": "https://www.amazon.com/Ninja-TB401-Processor-BlendSense-Technology/dp/B0CDDFH2MZ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0BJZ2WJR1",
+            "slug": "stanley-quencher-h20-flow-state-tumbler-40-oz-red-rust-soft",
+            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Red Rust Soft Matte | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51dMrudqVtL.jpg",
+            "url": "https://www.amazon.com/dp/B0BJZ2WJR1?tag=noya0b-20"
+          },
+          {
+            "asin": "B01BWNINAW",
+            "slug": "kitchenaid-ksm150pson-stand-mixers-5-quart-ocean-drive-home",
+            "title": "KitchenAid KSM150PSON Stand Mixers, 5 quart, Ocean Drive: Home & Kitchen",
+            "price": "$999.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81OpPa1YjfL.jpg",
+            "url": "https://www.amazon.com/dp/B01BWNINAW?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0FNR3YBZ7",
@@ -73,30 +107,6 @@
             "url": "https://www.amazon.com/dp/B0H4897YZG?tag=noya0b-20"
           }
         ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0BJZ2WJR1",
-            "slug": "stanley-quencher-h20-flow-state-tumbler-40-oz-red-rust-soft",
-            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Red Rust Soft Matte | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51dMrudqVtL.jpg",
-            "url": "https://www.amazon.com/dp/B0BJZ2WJR1?tag=noya0b-20"
-          },
-          {
-            "asin": "B01BWNINAW",
-            "slug": "kitchenaid-ksm150pson-stand-mixers-5-quart-ocean-drive-home",
-            "title": "KitchenAid KSM150PSON Stand Mixers, 5 quart, Ocean Drive: Home & Kitchen",
-            "price": "$999.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81OpPa1YjfL.jpg",
-            "url": "https://www.amazon.com/dp/B01BWNINAW?tag=noya0b-20"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B0G2QTN3VB",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
             "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
           }
-        ],
-        "Garden & Outdoor": [
-          {
-            "asin": "B0F7DZLSYX",
-            "slug": "backpacking-tent-for-camping-1-person-hiking-ultralight-tent",
-            "title": "Backpacking Tent for Camping 1 Person Hiking Ultralight Tent for Waterproof Windproof Outdoor Two Doors Tents Easy Quick Setup Lightweight Instant Tents : Sports & Outdoors",
-            "price": "$40.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Garden & Outdoor",
-            "imageUrl": "https://m.media-amazon.com/images/I/71jffIkXNzL.jpg",
-            "url": "https://www.amazon.com/dp/B0F7DZLSYX?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CDDFH2MZ",
+          "slug": "ninja-kitchen-system-blendsense-technology-1800pw-black-tb40",
+          "title": "\udecd️Ninja® Kitchen System, BlendSense Technology, 1800PW, Black, TB401 | Auto-Adjusted Blending, Smooth Results, Kitchen A",
+          "price": "$249.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/71EeP5yuaEL.jpg",
+          "url": "https://www.amazon.com/Ninja-TB401-Processor-BlendSense-Technology/dp/B0CDDFH2MZ?tag=noya0b-20"
+        },
         {
           "asin": "B0FNR3YBZ7",
           "slug": "bs-mall-soft-professional-makeup-brush-set-4-pcs-travel-frie",
@@ -236,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71WGS9R2-oL.jpg",
           "url": "https://www.amazon.com/dp/B0H4897YZG?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F7DZLSYX",
-          "slug": "backpacking-tent-for-camping-1-person-hiking-ultralight-tent",
-          "title": "Backpacking Tent for Camping 1 Person Hiking Ultralight Tent for Waterproof Windproof Outdoor Two Doors Tents Easy Quick Setup Lightweight Instant Tents : Sports & Outdoors",
-          "price": "$40.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Garden & Outdoor",
-          "imageUrl": "https://m.media-amazon.com/images/I/71jffIkXNzL.jpg",
-          "url": "https://www.amazon.com/dp/B0F7DZLSYX?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 18, 2026?",
-          "a": "The best deals today include \"\udecd️BS-MALL Soft Professional Makeup Brush Set - 4 Pcs Travel-...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
+          "a": "The best deals today include \"\udecd️Ninja® Kitchen System, BlendSense Technology, 1800PW, Blac...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-18T23:20:01.808Z",
-      "updatedAt": "2026-11-18T23:20:01.808Z"
+      "generatedAt": "2026-11-18T23:30:02.470Z",
+      "updatedAt": "2026-11-18T23:30:02.470Z"
     },
     {
       "date": "2026-11-17",
@@ -16351,5 +16348,5 @@
       "updatedAt": "2026-09-21T03:50:02.207Z"
     }
   ],
-  "generatedAt": "2026-11-18T23:20:01.814Z"
+  "generatedAt": "2026-11-18T23:30:02.475Z"
 }
