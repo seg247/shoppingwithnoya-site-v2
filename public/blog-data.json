@@ -4,15 +4,28 @@
       "date": "2026-11-19",
       "slug": "2026-11-19",
       "title": "🔥 Best Deals Today — November 19, 2026",
-      "intro": "Today's best online deals for Thursday, November 19, 2026 — 10 hand-picked discounts across Home & Kitchen, Gaming, Garden & Outdoor and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, November 19, 2026 — 10 hand-picked discounts across Home & Kitchen, Fashion, Gaming and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Home & Kitchen",
+        "Fashion",
         "Gaming",
         "Garden & Outdoor",
-        "Beauty",
-        "Other"
+        "Beauty"
       ],
       "byCategory": {
+        "Fashion": [
+          {
+            "asin": "B0BR634C24",
+            "slug": "us-polo-assn-boys-hooded-zip-fleece-jacket-new-black-67-clot",
+            "title": "U.S. POLO ASSN. Boys' Hooded Zip Fleece Jacket, New Black, 6/7: Clothing, Shoes & Jewelry",
+            "price": "$29.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51B7PqeUzVL.jpg",
+            "url": "https://www.amazon.com/dp/B0BR634C24?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0FSNZRV96",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
             "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0HGNPTSMT",
-            "slug": "amazoncom-dyson-v9-motorbar-cordless-vacuum",
-            "title": "Amazon.com - Dyson V9 Motorbar™ Cordless Vacuum",
-            "price": "$269.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
-            "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0BR634C24",
+          "slug": "us-polo-assn-boys-hooded-zip-fleece-jacket-new-black-67-clot",
+          "title": "U.S. POLO ASSN. Boys' Hooded Zip Fleece Jacket, New Black, 6/7: Clothing, Shoes & Jewelry",
+          "price": "$29.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51B7PqeUzVL.jpg",
+          "url": "https://www.amazon.com/dp/B0BR634C24?tag=noya0b-20"
+        },
         {
           "asin": "B0FSNZRV96",
           "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-toasted-almond",
@@ -233,23 +244,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/713nsilKbAL.jpg",
           "url": "https://www.amazon.com/dp/B08SL72G3P?tag=noya0b-20"
-        },
-        {
-          "asin": "B0HGNPTSMT",
-          "slug": "amazoncom-dyson-v9-motorbar-cordless-vacuum",
-          "title": "Amazon.com - Dyson V9 Motorbar™ Cordless Vacuum",
-          "price": "$269.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/515niTkdgGL.jpg",
-          "url": "https://www.amazon.com/dp/B0HGNPTSMT?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 19, 2026?",
-          "a": "The best deals today include \"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Toasted Alm...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Gaming, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"U.S. POLO ASSN. Boys' Hooded Zip Fleece Jacket, New Black, 6...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Gaming and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-19T09:00:01.874Z",
-      "updatedAt": "2026-11-19T09:00:01.874Z"
+      "generatedAt": "2026-11-19T09:10:01.091Z",
+      "updatedAt": "2026-11-19T09:10:01.091Z"
     },
     {
       "date": "2026-11-18",
@@ -16354,5 +16354,5 @@
       "updatedAt": "2026-09-22T03:50:02.315Z"
     }
   ],
-  "generatedAt": "2026-11-19T09:00:01.918Z"
+  "generatedAt": "2026-11-19T09:10:01.097Z"
 }
