@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-19T07:00:00.986Z",
+  "generatedAt": "2026-11-19T07:10:00.519Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b000p9gwgw-kitchenaid-ksm150psby-artisan-series-5-qt-stand-mixer-with-p",
+      "asin": "B000P9GWGW",
+      "title": "KitchenAid KSM150PSBY Artisan Series 5-Qt. Stand Mixer with Pouring Shield - Boysenberry: Electric Stand Mixers: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B000P9GWGW?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-19T07:00:46.483Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IKCkJ4ZQL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b09mztp44l-instant-pot-6-qt-9-in-1-electric-pressure-cooker-whisperquie",
       "asin": "B09MZTP44L",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61XLOcCypdL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8230,22 +8246,6 @@
       "ts": "2026-11-07T00:40:51.060Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51kewWFv9qL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0g4xrp464-amazon-fire-tv-stick-4k-newest-model",
-      "asin": "B0G4XRP464",
-      "title": "Amazon Fire TV Stick 4K (Newest Model)",
-      "url": "https://www.amazon.com/dp/B0G4XRP464?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-11-06T23:20:56.771Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Vo+3CNiLL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -24381,6 +24381,16 @@
       "category": "Garden & Outdoor",
       "ts": "2026-11-06T23:00:44.803Z",
       "archivedAt": "2026-11-19T06:10:00.652Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0g4xrp464-amazon-fire-tv-stick-4k-newest-model",
+      "asin": "B0G4XRP464",
+      "title": "Amazon Fire TV Stick 4K (Newest Model)",
+      "url": "https://www.amazon.com/dp/B0G4XRP464?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-11-06T23:20:56.771Z",
+      "archivedAt": "2026-11-19T07:10:00.519Z",
       "status": "archived"
     }
   ]
