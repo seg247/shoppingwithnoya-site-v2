@@ -9,12 +9,25 @@
         "Home & Kitchen",
         "Fashion",
         "Gold Box Deal",
+        "Other",
         "Beauty",
         "Sports & Fitness",
-        "Grocery & Food",
-        "Other"
+        "Grocery & Food"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B08GDZ8H5Q",
+            "slug": "little-tikes-t-rex-cozy-coupe-amazon-exclusive",
+            "title": "\udecd️Little Tikes T-Rex Cozy Coupe – (Amazon Exclusive)",
+            "price": "$64.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81x+b41M2gL.jpg",
+            "url": "https://www.amazon.com/dp/B08GDZ8H5Q?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0F3QZH7HP",
@@ -125,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71bRwQFK1vL.jpg",
             "url": "https://www.amazon.com/dp/B000CBSNRY?tag=noya0b-20"
           }
-        ],
-        "Other": [
-          {
-            "asin": "B0HCC5CBQ3",
-            "slug": "gps-drone-with-camera-for-adults-4k-foldable-rc-quadcopter-b",
-            "title": "\udecd️GPS Drone with Camera for Adults 4K, Foldable RC Quadcopter | Brushless Motor, Auto Return, Waypoint Flight, Follow Me",
-            "price": "$99.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/81PuV8vKyEL.jpg",
-            "url": "https://www.amazon.com/Foldable-Quadcopter-Brushless-Batteries-Beginner-Friendly/dp/B0HCC5CBQ3?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B08GDZ8H5Q",
+          "slug": "little-tikes-t-rex-cozy-coupe-amazon-exclusive",
+          "title": "\udecd️Little Tikes T-Rex Cozy Coupe – (Amazon Exclusive)",
+          "price": "$64.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81x+b41M2gL.jpg",
+          "url": "https://www.amazon.com/dp/B08GDZ8H5Q?tag=noya0b-20"
+        },
         {
           "asin": "B0F3QZH7HP",
           "slug": "shark-neverchange-air-purifier-hp153-white-for-home-large-ro",
@@ -239,23 +250,12 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/71bRwQFK1vL.jpg",
           "url": "https://www.amazon.com/dp/B000CBSNRY?tag=noya0b-20"
-        },
-        {
-          "asin": "B0HCC5CBQ3",
-          "slug": "gps-drone-with-camera-for-adults-4k-foldable-rc-quadcopter-b",
-          "title": "\udecd️GPS Drone with Camera for Adults 4K, Foldable RC Quadcopter | Brushless Motor, Auto Return, Waypoint Flight, Follow Me",
-          "price": "$99.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/81PuV8vKyEL.jpg",
-          "url": "https://www.amazon.com/Foldable-Quadcopter-Brushless-Batteries-Beginner-Friendly/dp/B0HCC5CBQ3?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 19, 2026?",
-          "a": "The best deals today include \"\udecd️Shark NeverChange Air Purifier, HP153, White | For Home, L...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"\udecd️Little Tikes T-Rex Cozy Coupe – (Amazon Exclusive)...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Gold Box Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-19T17:20:02.151Z",
-      "updatedAt": "2026-11-19T17:20:02.152Z"
+      "generatedAt": "2026-11-19T17:30:01.166Z",
+      "updatedAt": "2026-11-19T17:30:01.166Z"
     },
     {
       "date": "2026-11-18",
@@ -16360,5 +16360,5 @@
       "updatedAt": "2026-09-22T03:50:02.315Z"
     }
   ],
-  "generatedAt": "2026-11-19T17:20:02.157Z"
+  "generatedAt": "2026-11-19T17:30:01.172Z"
 }

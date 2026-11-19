@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-19T17:20:01.709Z",
+  "generatedAt": "2026-11-19T17:30:00.789Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b08gdz8h5q-little-tikes-t-rex-cozy-coupe-amazon-exclusive",
+      "asin": "B08GDZ8H5Q",
+      "title": "\udecd️Little Tikes T-Rex Cozy Coupe – (Amazon Exclusive)",
+      "url": "https://www.amazon.com/dp/B08GDZ8H5Q?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-19T17:20:23.858Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81x+b41M2gL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0f3qzh7hp-shark-neverchange-air-purifier-hp153-white-for-home-large-ro",
       "asin": "B0F3QZH7HP",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81waCZLEnAL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8226,22 +8242,6 @@
       "ts": "2026-11-07T22:40:24.715Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/310BUL7psqL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b09mjkjylq-fit-simplify-resistance-loop-exercise-bands-with-instruction",
-      "asin": "B09MJKJYLQ",
-      "title": "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5 : Sports & Outdoors",
-      "url": "https://www.amazon.com/dp/B09MJKJYLQ?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-11-07T22:00:39.005Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71S4-NjoTDL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -24597,6 +24597,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-07T20:20:56.735Z",
       "archivedAt": "2026-11-19T16:50:01.582Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b09mjkjylq-fit-simplify-resistance-loop-exercise-bands-with-instruction",
+      "asin": "B09MJKJYLQ",
+      "title": "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5 : Sports & Outdoors",
+      "url": "https://www.amazon.com/dp/B09MJKJYLQ?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-11-07T22:00:39.005Z",
+      "archivedAt": "2026-11-19T17:30:00.789Z",
       "status": "archived"
     }
   ]
