@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-19T01:40:02.013Z",
+  "generatedAt": "2026-11-19T01:50:02.230Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0hpv758px-playstation-dualsense-wireless-controller-graphite-gray",
+      "asin": "B0HPV758PX",
+      "title": "PlayStation DualSense™ Wireless Controller – Graphite Gray",
+      "url": "https://www.amazon.com/dp/B0HPV758PX?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-11-19T01:40:47.182Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71AEN-MVSBL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gxgrszg3-carhartt-men-s-iconic-k288-logo-sweatshirt-homestead-red-x-s",
       "asin": "B0GXGRSZG3",
@@ -356,11 +376,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/419TIJcxUHL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8264,26 +8280,6 @@
         "key": "warm",
         "label": "🔥 25% OFF",
         "tone": "warm"
-      },
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b09gm8jzm9-hellobaby-no-wifi-baby-monitor-camera-and-audio-hb6550-5-vid",
-      "asin": "B09GM8JZM9",
-      "title": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550, 5\" Video Screen | Trusted by 10M+ Families, 30H Battery, PTZ, Pr",
-      "url": "https://www.amazon.com/dp/B09GM8JZM9?tag=noya0b-20",
-      "discount": 40,
-      "rating": "HOT",
-      "category": "Electronics",
-      "ts": "2026-11-06T17:00:19.718Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/41NRmVQ4HrL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": {
-        "key": "hot",
-        "label": "💥 40% OFF",
-        "tone": "hot"
       },
       "feedStatus": "active"
     }
@@ -24327,6 +24323,16 @@
       "category": "Grocery & Food",
       "ts": "2026-11-06T16:20:52.336Z",
       "archivedAt": "2026-11-19T01:30:01.277Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b09gm8jzm9-hellobaby-no-wifi-baby-monitor-camera-and-audio-hb6550-5-vid",
+      "asin": "B09GM8JZM9",
+      "title": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550, 5\" Video Screen | Trusted by 10M+ Families, 30H Battery, PTZ, Pr",
+      "url": "https://www.amazon.com/dp/B09GM8JZM9?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-11-06T17:00:19.718Z",
+      "archivedAt": "2026-11-19T01:50:02.230Z",
       "status": "archived"
     }
   ]
