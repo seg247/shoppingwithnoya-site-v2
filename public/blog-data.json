@@ -12,42 +12,18 @@
         "Fashion"
       ],
       "byCategory": {
-        "Home & Kitchen": [
-          {
-            "asin": "B0DXY4D8D9",
-            "slug": "cuisinart-advantage-knife-set-11-piece-ceramic-coated-with-c",
-            "title": "Cuisinart Advantage Knife Set, 11-Piece, Ceramic-Coated with Cutting Board: Home & Kitchen",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81oD9XMMy8L.jpg",
-            "url": "https://www.amazon.com/dp/B0DXY4D8D9?tag=noya0b-20"
-          },
-          {
-            "asin": "B085ZV98JM",
-            "slug": "90l-large-storage-bags-6-pack-clothes-storage-bins-closet-or",
-            "title": "90L Large Storage Bags, 6 Pack Clothes Storage Bins Closet Organizers | Foldable Storage Containers, with Reinforced Handle, for Clothing, Blanket, Comforters, Bed Sheets, Pillows and Toys,Gray",
-            "price": "$16.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81F0mmxWKvL.jpg",
-            "url": "https://www.amazon.com/dp/B085ZV98JM?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DQYP1L95",
-            "slug": "bounty-quick-size-paper-towels-white-8-family-triple-rolls-2",
-            "title": "\udecd️Bounty Quick-Size Paper Towels, White, 8 Family Triple Rolls = 27 Regular Rolls",
-            "price": "$29.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/81SsLZv920L.jpg",
-            "url": "https://www.amazon.com/Bounty-Quick-Size-Towels-Family-Regular/dp/B0DQYP1L95?tag=noya0b-20"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B0GRJ49GKV",
+            "slug": "heydude-mens-wally-funk-craft-mesh-slip-on-loafer-navy-size",
+            "title": "HEYDUDE Men's Wally Funk Craft Mesh Slip On Loafer, Navy Size 7 | Breathable Cotton Upper, Elastic Laces, Rounded Toe, Flex And Fold Outsole, Memory Foam Insole, Odor Guard, Machine Washable | Loafers & Slip-Ons",
+            "price": "$38.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71q257CGh-L.jpg",
+            "url": "https://www.amazon.com/dp/B0GRJ49GKV?tag=noya0b-20"
+          },
           {
             "asin": "B0GT2DG9SK",
             "slug": "dyson-v8-cordless-vacuum",
@@ -104,6 +80,30 @@
             "url": "https://www.amazon.com/dp/B0HMBX7VK6?tag=noya0b-20"
           }
         ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0DXY4D8D9",
+            "slug": "cuisinart-advantage-knife-set-11-piece-ceramic-coated-with-c",
+            "title": "Cuisinart Advantage Knife Set, 11-Piece, Ceramic-Coated with Cutting Board: Home & Kitchen",
+            "price": "$39.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81oD9XMMy8L.jpg",
+            "url": "https://www.amazon.com/dp/B0DXY4D8D9?tag=noya0b-20"
+          },
+          {
+            "asin": "B085ZV98JM",
+            "slug": "90l-large-storage-bags-6-pack-clothes-storage-bins-closet-or",
+            "title": "90L Large Storage Bags, 6 Pack Clothes Storage Bins Closet Organizers | Foldable Storage Containers, with Reinforced Handle, for Clothing, Blanket, Comforters, Bed Sheets, Pillows and Toys,Gray",
+            "price": "$16.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/81F0mmxWKvL.jpg",
+            "url": "https://www.amazon.com/dp/B085ZV98JM?tag=noya0b-20"
+          }
+        ],
         "Personal Care": [
           {
             "asin": "B0D51K654Q",
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0GRJ49GKV",
+          "slug": "heydude-mens-wally-funk-craft-mesh-slip-on-loafer-navy-size",
+          "title": "HEYDUDE Men's Wally Funk Craft Mesh Slip On Loafer, Navy Size 7 | Breathable Cotton Upper, Elastic Laces, Rounded Toe, Flex And Fold Outsole, Memory Foam Insole, Odor Guard, Machine Washable | Loafers & Slip-Ons",
+          "price": "$38.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/71q257CGh-L.jpg",
+          "url": "https://www.amazon.com/dp/B0GRJ49GKV?tag=noya0b-20"
+        },
         {
           "asin": "B0DXY4D8D9",
           "slug": "cuisinart-advantage-knife-set-11-piece-ceramic-coated-with-c",
@@ -230,23 +241,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61o1R4dj7EL.jpg",
           "url": "https://www.amazon.com/dp/B0CSH9BLKF?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DQYP1L95",
-          "slug": "bounty-quick-size-paper-towels-white-8-family-triple-rolls-2",
-          "title": "\udecd️Bounty Quick-Size Paper Towels, White, 8 Family Triple Rolls = 27 Regular Rolls",
-          "price": "$29.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/81SsLZv920L.jpg",
-          "url": "https://www.amazon.com/Bounty-Quick-Size-Towels-Family-Regular/dp/B0DQYP1L95?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 20, 2026?",
-          "a": "The best deals today include \"Cuisinart Advantage Knife Set, 11-Piece, Ceramic-Coated with...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Personal Care and are updated daily."
+          "a": "The best deals today include \"HEYDUDE Men's Wally Funk Craft Mesh Slip On Loafer, Navy Siz...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Personal Care and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-20T23:20:03.200Z",
-      "updatedAt": "2026-11-20T23:20:03.200Z"
+      "generatedAt": "2026-11-20T23:30:08.547Z",
+      "updatedAt": "2026-11-20T23:30:08.548Z"
     },
     {
       "date": "2026-11-19",
@@ -16357,5 +16357,5 @@
       "updatedAt": "2026-09-23T03:50:01.720Z"
     }
   ],
-  "generatedAt": "2026-11-20T23:20:03.208Z"
+  "generatedAt": "2026-11-20T23:30:08.563Z"
 }
