@@ -10,35 +10,21 @@
         "Fashion",
         "Other",
         "Toys & Kids",
-        "Home & Kitchen",
-        "Personal Care"
+        "Home & Kitchen"
       ],
       "byCategory": {
-        "Fashion": [
-          {
-            "asin": "B0FMZQL589",
-            "slug": "reebok-mens-running-woven-wind-jacket-standard-fit-lightweig",
-            "title": "\udecd️Reebok Men’s Running Woven Wind Jacket, Standard Fit, Lightweight Nylon Fabric, Optimum Blue, X-Large",
-            "price": "$70.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/81Lo54O+w8L.jpg",
-            "url": "https://www.amazon.com/dp/B0FMZQL589?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BNQLY8VP",
-            "slug": "crz-yoga-butterluxe-leggings-25-dark-carbon-xx-small-extreme",
-            "title": "CRZ YOGA Butterluxe Leggings 25\" Dark Carbon XX-Small | Extremely Soft, Gentle Compression, Yoga, High Waisted, for Women : Clothing, Shoes & Jewelry",
-            "price": "$32.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WVDzMyTWL.jpg",
-            "url": "https://www.amazon.com/dp/B0BNQLY8VP?tag=noya0b-20"
-          }
-        ],
         "Beauty": [
+          {
+            "asin": "B00GXE5ASY",
+            "slug": "pravana-intense-therapy-leave-in-conditioner-spray-treatment",
+            "title": "\udecd️PRAVANA Intense Therapy Leave-In Conditioner Spray Treatment & Detangler | Instantly Detangles & Hydrates | Equalizes ",
+            "price": "$21.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/41I7peGyocL.jpg",
+            "url": "https://www.amazon.com/dp/B00GXE5ASY?tag=noya0b-20"
+          },
           {
             "asin": "B0G8TYPWZS",
             "slug": "first-aid-beauty-facial-radiance-pads-with-glycolic-lactic-a",
@@ -84,6 +70,30 @@
             "url": "https://www.amazon.com/dp/B0F3DRVVVY?tag=noya0b-20"
           }
         ],
+        "Fashion": [
+          {
+            "asin": "B0FMZQL589",
+            "slug": "reebok-mens-running-woven-wind-jacket-standard-fit-lightweig",
+            "title": "\udecd️Reebok Men’s Running Woven Wind Jacket, Standard Fit, Lightweight Nylon Fabric, Optimum Blue, X-Large",
+            "price": "$70.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/81Lo54O+w8L.jpg",
+            "url": "https://www.amazon.com/dp/B0FMZQL589?tag=noya0b-20"
+          },
+          {
+            "asin": "B0BNQLY8VP",
+            "slug": "crz-yoga-butterluxe-leggings-25-dark-carbon-xx-small-extreme",
+            "title": "CRZ YOGA Butterluxe Leggings 25\" Dark Carbon XX-Small | Extremely Soft, Gentle Compression, Yoga, High Waisted, for Women : Clothing, Shoes & Jewelry",
+            "price": "$32.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WVDzMyTWL.jpg",
+            "url": "https://www.amazon.com/dp/B0BNQLY8VP?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B07H2DP4MQ",
@@ -122,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/518trdZjvbL.jpg",
             "url": "https://www.amazon.com/dp/B0G77185JN?tag=noya0b-20"
           }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0GRK9KZ2P",
-            "slug": "oura-ring-5-smart-ring-gold-size-8-fitness-sleep-tracker-wor",
-            "title": "Oura Ring 5 Smart Ring - Gold - Size 8 - Fitness & Sleep Tracker | World’s Smallest Smart Ring, Activity, Women's Health, AI Advisor, 1 Week Battery Life, IP68 Waterproof, Size Before You Buy",
-            "price": "$399.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61sS2f7jtUL.jpg",
-            "url": "https://www.amazon.com/dp/B0GRK9KZ2P?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00GXE5ASY",
+          "slug": "pravana-intense-therapy-leave-in-conditioner-spray-treatment",
+          "title": "\udecd️PRAVANA Intense Therapy Leave-In Conditioner Spray Treatment & Detangler | Instantly Detangles & Hydrates | Equalizes ",
+          "price": "$21.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/41I7peGyocL.jpg",
+          "url": "https://www.amazon.com/dp/B00GXE5ASY?tag=noya0b-20"
+        },
         {
           "asin": "B0FMZQL589",
           "slug": "reebok-mens-running-woven-wind-jacket-standard-fit-lightweig",
@@ -236,23 +244,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/518trdZjvbL.jpg",
           "url": "https://www.amazon.com/dp/B0G77185JN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GRK9KZ2P",
-          "slug": "oura-ring-5-smart-ring-gold-size-8-fitness-sleep-tracker-wor",
-          "title": "Oura Ring 5 Smart Ring - Gold - Size 8 - Fitness & Sleep Tracker | World’s Smallest Smart Ring, Activity, Women's Health, AI Advisor, 1 Week Battery Life, IP68 Waterproof, Size Before You Buy",
-          "price": "$399.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61sS2f7jtUL.jpg",
-          "url": "https://www.amazon.com/dp/B0GRK9KZ2P?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 20, 2026?",
-          "a": "The best deals today include \"\udecd️Reebok Men’s Running Woven Wind Jacket, Standard Fit, Ligh...\" and 9 other hand-picked discounts. Deals span Beauty, Fashion, Other and are updated daily."
+          "a": "The best deals today include \"\udecd️PRAVANA Intense Therapy Leave-In Conditioner Spray Treatme...\" and 9 other hand-picked discounts. Deals span Beauty, Fashion, Other and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-20T13:20:01.978Z",
-      "updatedAt": "2026-11-20T13:20:01.979Z"
+      "generatedAt": "2026-11-20T13:30:02.670Z",
+      "updatedAt": "2026-11-20T13:30:02.670Z"
     },
     {
       "date": "2026-11-19",
@@ -16363,5 +16360,5 @@
       "updatedAt": "2026-09-23T03:50:01.720Z"
     }
   ],
-  "generatedAt": "2026-11-20T13:20:01.987Z"
+  "generatedAt": "2026-11-20T13:30:02.690Z"
 }
