@@ -9,10 +9,23 @@
         "Home & Kitchen",
         "Fashion",
         "Toys & Kids",
-        "Garden & Outdoor",
-        "Grocery & Food"
+        "Electronics",
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0F19KLHG3",
+            "slug": "insignia-fire-tv-50-class-f50-series-4k-uhd-smart-tv",
+            "title": "INSIGNIA Fire TV 50\" Class F50 Series 4K UHD smart TV",
+            "price": "$149.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg",
+            "url": "https://www.amazon.com/dp/B0F19KLHG3?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0DQY7LP4H",
@@ -119,22 +132,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81Ki3Z1FL-L.jpg",
             "url": "https://www.amazon.com/dp/B009CAPYR8?tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0BBPJ9TRX",
-            "slug": "ferrero-collection-holiday-advent-calendar-2025-premium-asso",
-            "title": "\udecd️Ferrero Collection Holiday Advent Calendar 2025, Premium Assorted Christmas Chocolate Gift Box, 24 Piece, 9.1 oz",
-            "price": "$23.42",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/81H2UWBPX8L.jpg",
-            "url": "https://www.amazon.com/dp/B0BBPJ9TRX?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0F19KLHG3",
+          "slug": "insignia-fire-tv-50-class-f50-series-4k-uhd-smart-tv",
+          "title": "INSIGNIA Fire TV 50\" Class F50 Series 4K UHD smart TV",
+          "price": "$149.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/81jLRWNrTXL.jpg",
+          "url": "https://www.amazon.com/dp/B0F19KLHG3?tag=noya0b-20"
+        },
         {
           "asin": "B0DQY7LP4H",
           "slug": "stanley-quencher-h20-flow-state-tumbler-14-oz-rose-quartz-20",
@@ -233,23 +244,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81Ki3Z1FL-L.jpg",
           "url": "https://www.amazon.com/dp/B009CAPYR8?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BBPJ9TRX",
-          "slug": "ferrero-collection-holiday-advent-calendar-2025-premium-asso",
-          "title": "\udecd️Ferrero Collection Holiday Advent Calendar 2025, Premium Assorted Christmas Chocolate Gift Box, 24 Piece, 9.1 oz",
-          "price": "$23.42",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/81H2UWBPX8L.jpg",
-          "url": "https://www.amazon.com/dp/B0BBPJ9TRX?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 19, 2026?",
-          "a": "The best deals today include \"STANLEY Quencher H2.0 Flow State Tumbler, 14 oz, Rose Quartz...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Toys & Kids and are updated daily."
+          "a": "The best deals today include \"INSIGNIA Fire TV 50\" Class F50 Series 4K UHD smart TV...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-20T02:20:01.742Z",
-      "updatedAt": "2026-11-20T02:20:01.743Z"
+      "generatedAt": "2026-11-20T02:30:02.931Z",
+      "updatedAt": "2026-11-20T02:30:02.931Z"
     },
     {
       "date": "2026-11-18",
@@ -16354,5 +16354,5 @@
       "updatedAt": "2026-09-22T03:50:02.315Z"
     }
   ],
-  "generatedAt": "2026-11-20T02:20:01.773Z"
+  "generatedAt": "2026-11-20T02:30:02.939Z"
 }
