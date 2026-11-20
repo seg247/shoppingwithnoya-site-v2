@@ -4,15 +4,43 @@
       "date": "2026-11-20",
       "slug": "2026-11-20",
       "title": "🔥 Best Deals Today — November 20, 2026",
-      "intro": "Today's best online deals for Friday, November 20, 2026 — 10 hand-picked discounts across Fashion, Beauty, Other and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Friday, November 20, 2026 — 10 hand-picked discounts across Other, Fashion, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
+        "Other",
         "Fashion",
         "Beauty",
-        "Other",
+        "Gift Cards",
+        "Home & Kitchen",
         "Grocery & Food",
         "Toys & Kids"
       ],
       "byCategory": {
+        "Gift Cards": [
+          {
+            "asin": "GIFTCARDS-APPLEBEES50-EARLYAPPLE-20261120",
+            "slug": "applebees-egift",
+            "title": "Applebee’s eGift",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gift Cards",
+            "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675006825/07675006825_32342_master.png/_jcr_content/renditions/webp-thumbnail-319-319.webp",
+            "url": "https://mavely.app.link/5anB0f4Td8b"
+          }
+        ],
+        "Home & Kitchen": [
+          {
+            "asin": "B0B4PQDFCL",
+            "slug": "instant-pot-rio-6-qt-7-in-1-electric-pressure-cooker-black-s",
+            "title": "Instant Pot Rio 6 Qt 7-in-1 Electric Pressure Cooker, Black | Slow cooks, makes rice, steams, sautés, makes yogurt and keeps food warm.: Home & Kitchen",
+            "price": "$155.68",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WZ8UkkReL.jpg",
+            "url": "https://www.amazon.com/dp/B0B4PQDFCL?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B0DGWWMXRF",
@@ -72,17 +100,6 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/81Lo54O+w8L.jpg",
             "url": "https://www.amazon.com/dp/B0FMZQL589?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BNQLY8VP",
-            "slug": "crz-yoga-butterluxe-leggings-25-dark-carbon-xx-small-extreme",
-            "title": "CRZ YOGA Butterluxe Leggings 25\" Dark Carbon XX-Small | Extremely Soft, Gentle Compression, Yoga, High Waisted, for Women : Clothing, Shoes & Jewelry",
-            "price": "$32.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WVDzMyTWL.jpg",
-            "url": "https://www.amazon.com/dp/B0BNQLY8VP?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -107,17 +124,6 @@
             "category": "Beauty",
             "imageUrl": "https://m.media-amazon.com/images/I/71fJlcf2ZHL.jpg",
             "url": "https://www.amazon.com/dp/B0G8TYPWZS?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CQ55WK8L",
-            "slug": "anua-peach-niacinamide-cream-169-floz-hydrating-face-moistur",
-            "title": "\udecd️ANUA Peach Niacinamide Cream, 1.69 fl.oz | Hydrating Face Moisturizer with Collagen, Vitamin B12, Ceramide & Panthenol",
-            "price": "$28.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/51yVEVhkXGL.jpg",
-            "url": "https://www.amazon.com/dp/B0CQ55WK8L?tag=noya0b-20"
           }
         ],
         "Toys & Kids": [
@@ -135,6 +141,28 @@
         ]
       },
       "deals": [
+        {
+          "asin": "GIFTCARDS-APPLEBEES50-EARLYAPPLE-20261120",
+          "slug": "applebees-egift",
+          "title": "Applebee’s eGift",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gift Cards",
+          "imageUrl": "https://www.giftcards.com/content/dam/bhn/live/nam/us/en/catalog-assets/product-images/07675006825/07675006825_32342_master.png/_jcr_content/renditions/webp-thumbnail-319-319.webp",
+          "url": "https://mavely.app.link/5anB0f4Td8b"
+        },
+        {
+          "asin": "B0B4PQDFCL",
+          "slug": "instant-pot-rio-6-qt-7-in-1-electric-pressure-cooker-black-s",
+          "title": "Instant Pot Rio 6 Qt 7-in-1 Electric Pressure Cooker, Black | Slow cooks, makes rice, steams, sautés, makes yogurt and keeps food warm.: Home & Kitchen",
+          "price": "$155.68",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/61WZ8UkkReL.jpg",
+          "url": "https://www.amazon.com/dp/B0B4PQDFCL?tag=noya0b-20"
+        },
         {
           "asin": "B0DGWWMXRF",
           "slug": "tommy-hilfiger-mens-chest-insert-tee-breezy-blue",
@@ -222,38 +250,16 @@
           "category": "Toys & Kids",
           "imageUrl": "https://m.media-amazon.com/images/I/81xzUihYYJL.jpg",
           "url": "https://www.amazon.com/dp/B00154QBPI?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CQ55WK8L",
-          "slug": "anua-peach-niacinamide-cream-169-floz-hydrating-face-moistur",
-          "title": "\udecd️ANUA Peach Niacinamide Cream, 1.69 fl.oz | Hydrating Face Moisturizer with Collagen, Vitamin B12, Ceramide & Panthenol",
-          "price": "$28.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/51yVEVhkXGL.jpg",
-          "url": "https://www.amazon.com/dp/B0CQ55WK8L?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BNQLY8VP",
-          "slug": "crz-yoga-butterluxe-leggings-25-dark-carbon-xx-small-extreme",
-          "title": "CRZ YOGA Butterluxe Leggings 25\" Dark Carbon XX-Small | Extremely Soft, Gentle Compression, Yoga, High Waisted, for Women : Clothing, Shoes & Jewelry",
-          "price": "$32.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61WVDzMyTWL.jpg",
-          "url": "https://www.amazon.com/dp/B0BNQLY8VP?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 20, 2026?",
-          "a": "The best deals today include \"\udecd️Tommy Hilfiger Men's Chest Insert Tee Breezy Blue...\" and 9 other hand-picked discounts. Deals span Fashion, Beauty, Other and are updated daily."
+          "a": "The best deals today include \"Applebee’s eGift...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Other and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-20T15:00:04.498Z",
-      "updatedAt": "2026-11-20T15:00:04.498Z"
+      "generatedAt": "2026-11-20T15:08:01.457Z",
+      "updatedAt": "2026-11-20T15:08:01.457Z"
     },
     {
       "date": "2026-11-19",
@@ -16360,5 +16366,5 @@
       "updatedAt": "2026-09-23T03:50:01.720Z"
     }
   ],
-  "generatedAt": "2026-11-20T15:00:04.507Z"
+  "generatedAt": "2026-11-20T15:08:01.465Z"
 }
