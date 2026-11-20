@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-20T04:20:02.449Z",
+  "generatedAt": "2026-11-20T04:30:01.367Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0cqkl4ytb-playstation-dualsense-wireless-controller-starlight-blue",
+      "asin": "B0CQKL4YTB",
+      "title": "PlayStation DualSense® Wireless Controller - Starlight Blue",
+      "url": "https://www.amazon.com/dp/B0CQKL4YTB?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-11-20T04:20:54.045Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tRwDlxNrL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0cj2sb7nt-cordless-drill-tool-kit-set-20v-power-drill-tool-box-with-ba",
       "asin": "B0CJ2SB7NT",
@@ -336,11 +356,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81YzeftX3iL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8222,22 +8238,6 @@
       "ts": "2026-11-08T13:20:44.898Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51s4N6nd0hL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0hf49wcht-trendy-queen-womens-2-piece-lounge-sweat-set-matching-clothe",
-      "asin": "B0HF49WCHT",
-      "title": "Trendy Queen Womens 2 Piece Lounge Sweat Set Matching Clothes Brown XS | Drop Shoulder,Kangaroo Pocket,Elastic Waistband,Side Pockets,Matching Sweatsuit : Clothing, Shoes & Jewelry",
-      "url": "https://www.amazon.com/dp/B0HF49WCHT?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-11-08T11:40:47.242Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51Q7HaWVQ3L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -24753,6 +24753,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-08T11:20:44.426Z",
       "archivedAt": "2026-11-20T02:30:02.028Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0hf49wcht-trendy-queen-womens-2-piece-lounge-sweat-set-matching-clothe",
+      "asin": "B0HF49WCHT",
+      "title": "Trendy Queen Womens 2 Piece Lounge Sweat Set Matching Clothes Brown XS | Drop Shoulder,Kangaroo Pocket,Elastic Waistband,Side Pockets,Matching Sweatsuit : Clothing, Shoes & Jewelry",
+      "url": "https://www.amazon.com/dp/B0HF49WCHT?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-11-08T11:40:47.242Z",
+      "archivedAt": "2026-11-20T04:30:01.367Z",
       "status": "archived"
     }
   ]
