@@ -4,17 +4,43 @@
       "date": "2026-11-21",
       "slug": "2026-11-21",
       "title": "🔥 Best Deals Today — November 21, 2026",
-      "intro": "Today's best online deals for Saturday, November 21, 2026 — 10 hand-picked discounts across Gold Box Deal, Electronics, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, November 21, 2026 — 10 hand-picked discounts across Gold Box Deal, Electronics, Luxury Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Gold Box Deal",
         "Electronics",
+        "Luxury Beauty",
+        "Beauty",
         "Fashion",
         "Personal Care",
-        "Other",
-        "Home & Kitchen",
-        "Pet Supplies"
+        "Other"
       ],
       "byCategory": {
+        "Luxury Beauty": [
+          {
+            "asin": "B000VON5JS",
+            "slug": "tous-gold-eau-de-parfum-for-women-floral-fruity-fragrance-3",
+            "title": "TOUS Gold Eau de Parfum for Women, Floral Fruity Fragrance, 3 Fl Oz | Luxurious & Feminine Fragrance Spray with Orange Blossom, Rose & White Musk, Elegant Scent for Everyday Wear, Gift for Women : Tous: Beauty & Personal Care",
+            "price": "$45.60",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Luxury Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61KCblioADL.jpg",
+            "url": "https://www.amazon.com/dp/B000VON5JS?tag=noya0b-20"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B00TX9HDHW",
+            "slug": "kollagen-intensiv-anti-aging-wrinkle-creamdaily-moisturizer",
+            "title": "kollagen intensiv Anti-Aging Wrinkle Cream/Daily Moisturizer, 2 Ounce : Beauty & Personal Care",
+            "price": "$59.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/715V8dST4SL.jpg",
+            "url": "https://www.amazon.com/dp/B00TX9HDHW?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0DY7VSSMM",
@@ -112,35 +138,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51RFz7m69aL.jpg",
             "url": "https://www.amazon.com/dp/B0CTS7J6W7?tag=noya0b-20"
           }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0DVF83FNK",
-            "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-cream-royal-ha",
-            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Cream Royal | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-            "price": "$40.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51VtY80Yc4L.jpg",
-            "url": "https://www.amazon.com/dp/B0DVF83FNK?tag=noya0b-20"
-          }
-        ],
-        "Pet Supplies": [
-          {
-            "asin": "B0CK28GDSM",
-            "slug": "dog-harness-and-leash-set-xxs-no-pull-adjustable-puppy-harne",
-            "title": "Dog Harness and Leash Set, XXS No Pull Adjustable Puppy Harness with Multifunction Pink Dog Leash and Dog Collar, Soft No Choke Escape Proof Pet Harness Vest for Small Dogs and Cats (Mint Green, XXS)",
-            "price": "$22.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Pet Supplies",
-            "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
-            "url": "https://www.amazon.com/dp/B0CK28GDSM?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B000VON5JS",
+          "slug": "tous-gold-eau-de-parfum-for-women-floral-fruity-fragrance-3",
+          "title": "TOUS Gold Eau de Parfum for Women, Floral Fruity Fragrance, 3 Fl Oz | Luxurious & Feminine Fragrance Spray with Orange Blossom, Rose & White Musk, Elegant Scent for Everyday Wear, Gift for Women : Tous: Beauty & Personal Care",
+          "price": "$45.60",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Luxury Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61KCblioADL.jpg",
+          "url": "https://www.amazon.com/dp/B000VON5JS?tag=noya0b-20"
+        },
+        {
+          "asin": "B00TX9HDHW",
+          "slug": "kollagen-intensiv-anti-aging-wrinkle-creamdaily-moisturizer",
+          "title": "kollagen intensiv Anti-Aging Wrinkle Cream/Daily Moisturizer, 2 Ounce : Beauty & Personal Care",
+          "price": "$59.95",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/715V8dST4SL.jpg",
+          "url": "https://www.amazon.com/dp/B00TX9HDHW?tag=noya0b-20"
+        },
         {
           "asin": "B0DY7VSSMM",
           "slug": "g4free-wide-leg-casual-pants-for-women-with-pockets-dark-cof",
@@ -228,34 +250,12 @@
           "category": "Gold Box Deal",
           "imageUrl": "https://m.media-amazon.com/images/I/51RFz7m69aL.jpg",
           "url": "https://www.amazon.com/dp/B0CTS7J6W7?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DVF83FNK",
-          "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-cream-royal-ha",
-          "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Cream Royal | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-          "price": "$40.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51VtY80Yc4L.jpg",
-          "url": "https://www.amazon.com/dp/B0DVF83FNK?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CK28GDSM",
-          "slug": "dog-harness-and-leash-set-xxs-no-pull-adjustable-puppy-harne",
-          "title": "Dog Harness and Leash Set, XXS No Pull Adjustable Puppy Harness with Multifunction Pink Dog Leash and Dog Collar, Soft No Choke Escape Proof Pet Harness Vest for Small Dogs and Cats (Mint Green, XXS)",
-          "price": "$22.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Pet Supplies",
-          "imageUrl": "https://m.media-amazon.com/images/I/718CCs6aFHL.jpg",
-          "url": "https://www.amazon.com/dp/B0CK28GDSM?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 21, 2026?",
-          "a": "The best deals today include \"G4Free Wide Leg Casual Pants for Women with Pockets Dark Cof...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Electronics, Fashion and are updated daily."
+          "a": "The best deals today include \"TOUS Gold Eau de Parfum for Women, Floral Fruity Fragrance, ...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Electronics, Luxury Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-21T12:00:00.673Z",
-      "updatedAt": "2026-11-21T12:00:00.673Z"
+      "generatedAt": "2026-11-21T12:10:02.227Z",
+      "updatedAt": "2026-11-21T12:10:02.227Z"
     },
     {
       "date": "2026-11-20",
@@ -16369,5 +16369,5 @@
       "updatedAt": "2026-09-24T03:50:01.204Z"
     }
   ],
-  "generatedAt": "2026-11-21T12:00:00.690Z"
+  "generatedAt": "2026-11-21T12:10:02.235Z"
 }
