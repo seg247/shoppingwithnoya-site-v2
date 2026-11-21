@@ -12,10 +12,33 @@
         "Pet Supplies",
         "Beauty",
         "Garden & Outdoor",
-        "Tools",
-        "Sports"
+        "Tools"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B07N3WYLKZ",
+            "slug": "vinyl-record-player-turntable-with-built-in-bluetooth-receiv",
+            "title": "Vinyl Record Player Turntable with Built-in Bluetooth Receiver & 2 Stereo Speakers, 3 Speed 3 Size Portable Retro Record Player for Entertainment and Home Decoration",
+            "price": "$29.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
+            "url": "https://www.amazon.com/dp/B07N3WYLKZ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DD41G2NZ",
+            "slug": "tozo-nc9-hybrid-active-noise-cancelling-wireless-earbuds-60h",
+            "title": "TOZO NC9 Hybrid Active Noise Cancelling Wireless Earbuds, 60H, LED Display | 6 Mic ENC Clear Calls, Deep Bass Sound, IPX8, in Ear Bluetooth 5.3 Headphones,32 EQs via APP, Comfort Fit Ear Buds, Black",
+            "price": "$25.22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81rcNF3pG7L.jpg",
+            "url": "https://www.amazon.com/dp/B0DD41G2NZ?tag=noya0b-20"
+          }
+        ],
         "Gold Box Deal": [
           {
             "asin": "B0F3371QZ2",
@@ -49,19 +72,6 @@
             "category": "Gold Box Deal",
             "imageUrl": "https://m.media-amazon.com/images/I/51RFz7m69aL.jpg",
             "url": "https://www.amazon.com/dp/B0CTS7J6W7?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0DD41G2NZ",
-            "slug": "tozo-nc9-hybrid-active-noise-cancelling-wireless-earbuds-60h",
-            "title": "TOZO NC9 Hybrid Active Noise Cancelling Wireless Earbuds, 60H, LED Display | 6 Mic ENC Clear Calls, Deep Bass Sound, IPX8, in Ear Bluetooth 5.3 Headphones,32 EQs via APP, Comfort Fit Ear Buds, Black",
-            "price": "$25.22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81rcNF3pG7L.jpg",
-            "url": "https://www.amazon.com/dp/B0DD41G2NZ?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
             "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
           }
-        ],
-        "Sports": [
-          {
-            "asin": "B0CNTDGFFW",
-            "slug": "clostnature-2-person-lightweight-backpacking-tent-camping-te",
-            "title": "Clostnature 2 Person Lightweight Backpacking Tent, Camping Tent | Aluminum Pole, Easy Setup 2 Man Tent, Ultralight, Waterproof, Compact, Freestanding, Two Doors, Hiking : Sports & Outdoors",
-            "price": "$67.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Sports",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RitI5NYGL.jpg",
-            "url": "https://www.amazon.com/dp/B0CNTDGFFW?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B07N3WYLKZ",
+          "slug": "vinyl-record-player-turntable-with-built-in-bluetooth-receiv",
+          "title": "Vinyl Record Player Turntable with Built-in Bluetooth Receiver & 2 Stereo Speakers, 3 Speed 3 Size Portable Retro Record Player for Entertainment and Home Decoration",
+          "price": "$29.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
+          "url": "https://www.amazon.com/dp/B07N3WYLKZ?tag=noya0b-20"
+        },
         {
           "asin": "B0F3371QZ2",
           "slug": "adidas-womens-vl-court-30-cream-whiteblackgold-metallic-5-ca",
@@ -242,23 +250,12 @@
           "category": "Tools",
           "imageUrl": "https://m.media-amazon.com/images/I/81m60EeA0fL.jpg",
           "url": "https://www.amazon.com/dp/B0CJ2SB7NT?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CNTDGFFW",
-          "slug": "clostnature-2-person-lightweight-backpacking-tent-camping-te",
-          "title": "Clostnature 2 Person Lightweight Backpacking Tent, Camping Tent | Aluminum Pole, Easy Setup 2 Man Tent, Ultralight, Waterproof, Compact, Freestanding, Two Doors, Hiking : Sports & Outdoors",
-          "price": "$67.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Sports",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RitI5NYGL.jpg",
-          "url": "https://www.amazon.com/dp/B0CNTDGFFW?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 21, 2026?",
-          "a": "The best deals today include \"adidas Women's VL Court 3.0, Cream White/Black/Gold Metallic...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Electronics, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Vinyl Record Player Turntable with Built-in Bluetooth Receiv...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Electronics, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-21T10:40:01.098Z",
-      "updatedAt": "2026-11-21T10:40:01.099Z"
+      "generatedAt": "2026-11-21T10:50:02.045Z",
+      "updatedAt": "2026-11-21T10:50:02.045Z"
     },
     {
       "date": "2026-11-20",
@@ -16372,5 +16369,5 @@
       "updatedAt": "2026-09-24T03:50:01.204Z"
     }
   ],
-  "generatedAt": "2026-11-21T10:40:01.106Z"
+  "generatedAt": "2026-11-21T10:50:02.051Z"
 }
