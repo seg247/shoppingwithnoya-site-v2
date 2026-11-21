@@ -4,17 +4,53 @@
       "date": "2026-11-21",
       "slug": "2026-11-21",
       "title": "🔥 Best Deals Today — November 21, 2026",
-      "intro": "Today's best online deals for Saturday, November 21, 2026 — 10 hand-picked discounts across Electronics, Other, Sports & Fitness and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Saturday, November 21, 2026 — 10 hand-picked discounts across Electronics, Beauty, Fashion and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Electronics",
-        "Other",
-        "Sports & Fitness",
-        "Luxury Beauty",
         "Beauty",
         "Fashion",
-        "Personal Care"
+        "Other",
+        "Sports & Fitness",
+        "Luxury Beauty"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "CLINIQUE-635906-BLACKHONEY-BF20261121",
+            "slug": "clinique-almost-lipstick-in-black-honey-006-oz",
+            "title": "Clinique Almost Lipstick in Black Honey, 0.06 oz",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://www.clinique.com/cdn/shop/files/cl_sku_635906_3000x3000_0.png?format=webp&v=1795206096&width=1200",
+            "url": "https://mavely.app.link/DH29qOVyf8b"
+          },
+          {
+            "asin": "B00TX9HDHW",
+            "slug": "kollagen-intensiv-anti-aging-wrinkle-creamdaily-moisturizer",
+            "title": "kollagen intensiv Anti-Aging Wrinkle Cream/Daily Moisturizer, 2 Ounce : Beauty & Personal Care",
+            "price": "$59.95",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/715V8dST4SL.jpg",
+            "url": "https://www.amazon.com/dp/B00TX9HDHW?tag=noya0b-20"
+          }
+        ],
+        "Fashion": [
+          {
+            "asin": "B0B5P7Z2SR",
+            "slug": "carhartt-mens-iconic-k288-logo-sweatshirt-brite-orange-small",
+            "title": "Carhartt Men's Iconic K288 Logo Sweatshirt, Brite Orange, Small at Amazon Men’s Clothing store",
+            "price": "$44.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/51PkC6XZZsL.jpg",
+            "url": "https://www.amazon.com/dp/B0B5P7Z2SR?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0HRDS9N62",
@@ -99,48 +135,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61KCblioADL.jpg",
             "url": "https://www.amazon.com/dp/B000VON5JS?tag=noya0b-20"
           }
-        ],
-        "Beauty": [
-          {
-            "asin": "B00TX9HDHW",
-            "slug": "kollagen-intensiv-anti-aging-wrinkle-creamdaily-moisturizer",
-            "title": "kollagen intensiv Anti-Aging Wrinkle Cream/Daily Moisturizer, 2 Ounce : Beauty & Personal Care",
-            "price": "$59.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/715V8dST4SL.jpg",
-            "url": "https://www.amazon.com/dp/B00TX9HDHW?tag=noya0b-20"
-          }
-        ],
-        "Fashion": [
-          {
-            "asin": "B0DY7VSSMM",
-            "slug": "g4free-wide-leg-casual-pants-for-women-with-pockets-dark-cof",
-            "title": "G4Free Wide Leg Casual Pants for Women with Pockets Dark Coffee,M,Short | Moisture Wicking, Soft Comfortable Feel, 4-Way Stretch, Faux Fly, Faux Back Pockets, Yoga, Work & Casual Wear : Clothing, Shoes & Jewelry",
-            "price": "$36.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/61cYox6+2qL.jpg",
-            "url": "https://www.amazon.com/dp/B0DY7VSSMM?tag=noya0b-20"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0GRK9KZ2P",
-            "slug": "oura-ring-5-smart-ring-gold-size-8-fitness-sleep-tracker-wor",
-            "title": "Oura Ring 5 Smart Ring - Gold - Size 8 - Fitness & Sleep Tracker | World’s Smallest Smart Ring, Activity, Women's Health, AI Advisor, 1 Week Battery Life, IP68 Waterproof, Size Before You Buy",
-            "price": "$399.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61sS2f7jtUL.jpg",
-            "url": "https://www.amazon.com/dp/B0GRK9KZ2P?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "CLINIQUE-635906-BLACKHONEY-BF20261121",
+          "slug": "clinique-almost-lipstick-in-black-honey-006-oz",
+          "title": "Clinique Almost Lipstick in Black Honey, 0.06 oz",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://www.clinique.com/cdn/shop/files/cl_sku_635906_3000x3000_0.png?format=webp&v=1795206096&width=1200",
+          "url": "https://mavely.app.link/DH29qOVyf8b"
+        },
+        {
+          "asin": "B0B5P7Z2SR",
+          "slug": "carhartt-mens-iconic-k288-logo-sweatshirt-brite-orange-small",
+          "title": "Carhartt Men's Iconic K288 Logo Sweatshirt, Brite Orange, Small at Amazon Men’s Clothing store",
+          "price": "$44.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/51PkC6XZZsL.jpg",
+          "url": "https://www.amazon.com/dp/B0B5P7Z2SR?tag=noya0b-20"
+        },
         {
           "asin": "B0HRDS9N62",
           "slug": "assistrust-sound-bar-for-smart-tv-90w-bluetooth-soundbar-sup",
@@ -228,34 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/715V8dST4SL.jpg",
           "url": "https://www.amazon.com/dp/B00TX9HDHW?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DY7VSSMM",
-          "slug": "g4free-wide-leg-casual-pants-for-women-with-pockets-dark-cof",
-          "title": "G4Free Wide Leg Casual Pants for Women with Pockets Dark Coffee,M,Short | Moisture Wicking, Soft Comfortable Feel, 4-Way Stretch, Faux Fly, Faux Back Pockets, Yoga, Work & Casual Wear : Clothing, Shoes & Jewelry",
-          "price": "$36.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/61cYox6+2qL.jpg",
-          "url": "https://www.amazon.com/dp/B0DY7VSSMM?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GRK9KZ2P",
-          "slug": "oura-ring-5-smart-ring-gold-size-8-fitness-sleep-tracker-wor",
-          "title": "Oura Ring 5 Smart Ring - Gold - Size 8 - Fitness & Sleep Tracker | World’s Smallest Smart Ring, Activity, Women's Health, AI Advisor, 1 Week Battery Life, IP68 Waterproof, Size Before You Buy",
-          "price": "$399.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/61sS2f7jtUL.jpg",
-          "url": "https://www.amazon.com/dp/B0GRK9KZ2P?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 21, 2026?",
-          "a": "The best deals today include \"\udecd️Assistrust Sound Bar for Smart TV, 90W Bluetooth Soundbar ...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Sports & Fitness and are updated daily."
+          "a": "The best deals today include \"Clinique Almost Lipstick in Black Honey, 0.06 oz...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-21T15:00:01.912Z",
-      "updatedAt": "2026-11-21T15:00:01.912Z"
+      "generatedAt": "2026-11-21T15:05:29.530Z",
+      "updatedAt": "2026-11-21T15:05:29.530Z"
     },
     {
       "date": "2026-11-20",
@@ -16369,5 +16366,5 @@
       "updatedAt": "2026-09-24T03:50:01.204Z"
     }
   ],
-  "generatedAt": "2026-11-21T15:00:01.918Z"
+  "generatedAt": "2026-11-21T15:05:29.536Z"
 }
