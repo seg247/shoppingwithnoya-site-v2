@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-22T15:40:02.154Z",
+  "generatedAt": "2026-11-22T15:50:02.040Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0gxx8kqy7-dyson-v15-detect-cordless-vacuum",
+      "asin": "B0GXX8KQY7",
+      "title": "\udecd️Dyson V15 Detect Cordless Vacuum",
+      "url": "https://www.amazon.com/dp/B0GXX8KQY7?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-22T15:40:23.477Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61KTlXRQ9ZL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0fy6y9wzt-playstation-dualsense-wireless-controller-midnight-black-for",
       "asin": "B0FY6Y9WZT",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61Rzs2GUTYL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8090,22 +8106,6 @@
       "ts": "2026-11-11T00:21:16.037Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61NDP3VcmcL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0cmffttn7-legend-of-zelda-master-sword-hanayama-metal-brain-teaser-lev",
-      "asin": "B0CMFFTTN7",
-      "title": "Legend of Zelda Master Sword Hanayama Metal Brain Teaser (Level 6)",
-      "url": "https://www.amazon.com/dp/B0CMFFTTN7?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-11-10T23:20:43.137Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/91vCBFFCzaL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -25291,6 +25291,16 @@
       "category": "Cleaning Supplies",
       "ts": "2026-11-10T23:20:34.603Z",
       "archivedAt": "2026-11-22T15:30:01.618Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0cmffttn7-legend-of-zelda-master-sword-hanayama-metal-brain-teaser-lev",
+      "asin": "B0CMFFTTN7",
+      "title": "Legend of Zelda Master Sword Hanayama Metal Brain Teaser (Level 6)",
+      "url": "https://www.amazon.com/dp/B0CMFFTTN7?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-11-10T23:20:43.137Z",
+      "archivedAt": "2026-11-22T15:50:02.040Z",
       "status": "archived"
     }
   ]
