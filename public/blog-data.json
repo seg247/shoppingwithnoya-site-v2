@@ -4,16 +4,43 @@
       "date": "2026-11-22",
       "slug": "2026-11-22",
       "title": "🔥 Best Deals Today — November 22, 2026",
-      "intro": "Today's best online deals for Sunday, November 22, 2026 — 10 hand-picked discounts across Gold Box Deal, Other, Home & Kitchen and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Sunday, November 22, 2026 — 10 hand-picked discounts across Gold Box Deal, Baby & Kids, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Gold Box Deal",
+        "Baby & Kids",
+        "Beauty",
         "Other",
         "Home & Kitchen",
         "Gaming",
-        "Electronics",
-        "Fashion"
+        "Electronics"
       ],
       "byCategory": {
+        "Baby & Kids": [
+          {
+            "asin": "MM-SKASR-20261122",
+            "slug": "magnetic-me-sketch-a-saurus-modal-magnetic-footie",
+            "title": "Magnetic Me Sketch-A-Saurus Modal Magnetic Footie",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Baby & Kids",
+            "imageUrl": "https://magneticme.com/cdn/shop/files/MF600051_1005.jpg?v=1781124082&width=1400",
+            "url": "https://mavely.app.link/ejFTHoVdh8b"
+          }
+        ],
+        "Beauty": [
+          {
+            "asin": "B0DGQSL9KR",
+            "slug": "shark-flexfusion-ceramic-air-styler-straightenercurler-blush",
+            "title": "\udecd️Shark FlexFusion Ceramic Air Styler, Straightener+Curler, Blush, HD641S | Style-Safe Tech: Zero Hot Tool Damage, Scalp",
+            "price": "$399.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/712lAQHIq8L.jpg",
+            "url": "https://www.amazon.com/gp/product/B0DGQSL9KR?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B002LA1D9Y",
@@ -25,17 +52,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/51mXQ5qnEFL.jpg",
             "url": "https://www.amazon.com/dp/B002LA1D9Y?tag=noya0b-20"
-          },
-          {
-            "asin": "B0H1YHZQ5M",
-            "slug": "muddy-mat-super-water-absorbent-door-mat-indoor-microfiber-q",
-            "title": "Muddy Mat® | Super Water Absorbent Door Mat Indoor, Microfiber Quick Dry Chenille Entryway Rug, Slip Resistant Front Door Mat, Indoor Mats for Entryway, Machine Washable Pet Rug, Amber 2ft x 4ft",
-            "price": "$42.45",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Asne44R0L.jpg",
-            "url": "https://www.amazon.com/dp/B0H1YHZQ5M?tag=noya0b-20"
           }
         ],
         "Home & Kitchen": [
@@ -122,22 +138,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71Fz3NlbtUL.jpg",
             "url": "https://www.amazon.com/dp/B0FLBHDF8Q?tag=noya0b-20"
           }
-        ],
-        "Fashion": [
-          {
-            "asin": "B07XSBGH1G",
-            "slug": "travelpro-platinum-elite-carry-on-luggage-spinner-true-navy",
-            "title": "Travelpro Platinum Elite Carry-On Luggage Spinner, True Navy, 21-Inch | Expandable Softside With USB Port, Removable Suiter, 8 Wheels, and Multiple Compartments for Men & Women Travelers | Suitcases",
-            "price": "$320.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/71mj99Lhe5L.jpg",
-            "url": "https://www.amazon.com/dp/B07XSBGH1G?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "MM-SKASR-20261122",
+          "slug": "magnetic-me-sketch-a-saurus-modal-magnetic-footie",
+          "title": "Magnetic Me Sketch-A-Saurus Modal Magnetic Footie",
+          "price": null,
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Baby & Kids",
+          "imageUrl": "https://magneticme.com/cdn/shop/files/MF600051_1005.jpg?v=1781124082&width=1400",
+          "url": "https://mavely.app.link/ejFTHoVdh8b"
+        },
+        {
+          "asin": "B0DGQSL9KR",
+          "slug": "shark-flexfusion-ceramic-air-styler-straightenercurler-blush",
+          "title": "\udecd️Shark FlexFusion Ceramic Air Styler, Straightener+Curler, Blush, HD641S | Style-Safe Tech: Zero Hot Tool Damage, Scalp",
+          "price": "$399.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/712lAQHIq8L.jpg",
+          "url": "https://www.amazon.com/gp/product/B0DGQSL9KR?tag=noya0b-20"
+        },
         {
           "asin": "B002LA1D9Y",
           "slug": "bioderma-sbium-h2o-micellar-water-cleansing-and-make-up-remo",
@@ -225,34 +250,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/71Fz3NlbtUL.jpg",
           "url": "https://www.amazon.com/dp/B0FLBHDF8Q?tag=noya0b-20"
-        },
-        {
-          "asin": "B07XSBGH1G",
-          "slug": "travelpro-platinum-elite-carry-on-luggage-spinner-true-navy",
-          "title": "Travelpro Platinum Elite Carry-On Luggage Spinner, True Navy, 21-Inch | Expandable Softside With USB Port, Removable Suiter, 8 Wheels, and Multiple Compartments for Men & Women Travelers | Suitcases",
-          "price": "$320.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/71mj99Lhe5L.jpg",
-          "url": "https://www.amazon.com/dp/B07XSBGH1G?tag=noya0b-20"
-        },
-        {
-          "asin": "B0H1YHZQ5M",
-          "slug": "muddy-mat-super-water-absorbent-door-mat-indoor-microfiber-q",
-          "title": "Muddy Mat® | Super Water Absorbent Door Mat Indoor, Microfiber Quick Dry Chenille Entryway Rug, Slip Resistant Front Door Mat, Indoor Mats for Entryway, Machine Washable Pet Rug, Amber 2ft x 4ft",
-          "price": "$42.45",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Asne44R0L.jpg",
-          "url": "https://www.amazon.com/dp/B0H1YHZQ5M?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 22, 2026?",
-          "a": "The best deals today include \"\udecd️Bioderma - Sébium H2O - Micellar Water - Cleansing and Mak...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Other, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"Magnetic Me Sketch-A-Saurus Modal Magnetic Footie...\" and 9 other hand-picked discounts. Deals span Gold Box Deal, Baby & Kids, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-22T15:00:03.116Z",
-      "updatedAt": "2026-11-22T15:00:03.116Z"
+      "generatedAt": "2026-11-22T15:06:50.470Z",
+      "updatedAt": "2026-11-22T15:06:50.470Z"
     },
     {
       "date": "2026-11-21",
@@ -16375,5 +16378,5 @@
       "updatedAt": "2026-09-25T03:50:01.799Z"
     }
   ],
-  "generatedAt": "2026-11-22T15:00:03.123Z"
+  "generatedAt": "2026-11-22T15:06:50.477Z"
 }
