@@ -12,10 +12,55 @@
         "Beauty",
         "Personal Care",
         "Other",
-        "Electronics",
-        "Gold Box Deal"
+        "Electronics"
       ],
       "byCategory": {
+        "Gaming": [
+          {
+            "asin": "B0GFQBQ4KZ",
+            "slug": "playstation-dualsense-wireless-controller-rhythm-blue-for-ps",
+            "title": "PlayStation DualSense® Wireless Controller – Rhythm Blue - for PS5, PC, MAC & Mobile",
+            "price": "$64.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/61li1lzcezL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFQBQ4KZ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GFQBQ4KZ",
+            "slug": "playstation-dualsense-wireless-controller-rhythm-blue-for-ps",
+            "title": "PlayStation DualSense® Wireless Controller – Rhythm Blue - for PS5, PC, MAC & Mobile",
+            "price": "$64.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/61li1lzcezL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFQBQ4KZ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CP4DCK45",
+            "slug": "the-last-of-us-part-ii-remastered-playstation-5",
+            "title": "The Last of Us Part II Remastered (PlayStation 5)",
+            "price": "$25",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/818m9WGY0lL.jpg",
+            "url": "https://www.amazon.com/dp/B0CP4DCK45?tag=noya0b-20"
+          },
+          {
+            "asin": "B0GFQ2YZM7",
+            "slug": "playstation-dualsense-wireless-controller-techno-red-for-ps5",
+            "title": "PlayStation DualSense® Wireless Controller – Techno Red - For PS5, PC, MAC & Mobile",
+            "price": "$74.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/61fryscYoEL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFQ2YZM7?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0FB7RPM1G",
@@ -68,41 +113,6 @@
             "url": "https://www.amazon.com/dp/B0GRK9KZ2P?tag=noya0b-20"
           }
         ],
-        "Gaming": [
-          {
-            "asin": "B0GFQBQ4KZ",
-            "slug": "playstation-dualsense-wireless-controller-rhythm-blue-for-ps",
-            "title": "PlayStation DualSense® Wireless Controller – Rhythm Blue - for PS5, PC, MAC & Mobile",
-            "price": "$64.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61li1lzcezL.jpg",
-            "url": "https://www.amazon.com/dp/B0GFQBQ4KZ?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CP4DCK45",
-            "slug": "the-last-of-us-part-ii-remastered-playstation-5",
-            "title": "The Last of Us Part II Remastered (PlayStation 5)",
-            "price": "$25",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/818m9WGY0lL.jpg",
-            "url": "https://www.amazon.com/dp/B0CP4DCK45?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GFQ2YZM7",
-            "slug": "playstation-dualsense-wireless-controller-techno-red-for-ps5",
-            "title": "PlayStation DualSense® Wireless Controller – Techno Red - For PS5, PC, MAC & Mobile",
-            "price": "$74.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61fryscYoEL.jpg",
-            "url": "https://www.amazon.com/dp/B0GFQ2YZM7?tag=noya0b-20"
-          }
-        ],
         "Other": [
           {
             "asin": "B0GNDD57HZ",
@@ -128,22 +138,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61jwusQUP2L.jpg",
             "url": "https://www.amazon.com/dp/B0FF5JJ3CP?tag=noya0b-20"
           }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0H835K7J2",
-            "slug": "google-pixel-11-pro-xl-unlocked-smartphone-gemini-1-tb-canyo",
-            "title": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 1 TB - Canyon | Android, Gemini Intelligence, 30+ hour battery, 6.8” Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
-            "price": "$1249.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Z-tN6dHrL.jpg",
-            "url": "https://www.amazon.com/dp/B0H835K7J2?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0GFQBQ4KZ",
+          "slug": "playstation-dualsense-wireless-controller-rhythm-blue-for-ps",
+          "title": "PlayStation DualSense® Wireless Controller – Rhythm Blue - for PS5, PC, MAC & Mobile",
+          "price": "$64.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gaming",
+          "imageUrl": "https://m.media-amazon.com/images/I/61li1lzcezL.jpg",
+          "url": "https://www.amazon.com/dp/B0GFQBQ4KZ?tag=noya0b-20"
+        },
         {
           "asin": "B0FB7RPM1G",
           "slug": "stanley-quencher-h20-flow-state-tumbler-30-oz-cranberry-hand",
@@ -242,23 +250,12 @@
           "category": "Electronics",
           "imageUrl": "https://m.media-amazon.com/images/I/61jwusQUP2L.jpg",
           "url": "https://www.amazon.com/dp/B0FF5JJ3CP?tag=noya0b-20"
-        },
-        {
-          "asin": "B0H835K7J2",
-          "slug": "google-pixel-11-pro-xl-unlocked-smartphone-gemini-1-tb-canyo",
-          "title": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 1 TB - Canyon | Android, Gemini Intelligence, 30+ hour battery, 6.8” Super Actua Display, Pixel HiLight, durable IP68 protection, 120x Zoom : Cell Phones & Accessories",
-          "price": "$1249.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/71Z-tN6dHrL.jpg",
-          "url": "https://www.amazon.com/dp/B0H835K7J2?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 22, 2026?",
-          "a": "The best deals today include \"STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Cranberry |...\" and 9 other hand-picked discounts. Deals span Gaming, Home & Kitchen, Garden & Outdoor and are updated daily."
+          "a": "The best deals today include \"PlayStation DualSense® Wireless Controller – Rhythm Blue - f...\" and 9 other hand-picked discounts. Deals span Gaming, Home & Kitchen, Garden & Outdoor and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -277,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-23T04:00:07.919Z",
-      "updatedAt": "2026-11-23T04:00:07.919Z"
+      "generatedAt": "2026-11-23T04:10:07.637Z",
+      "updatedAt": "2026-11-23T04:10:07.637Z"
     },
     {
       "date": "2026-11-21",
@@ -16381,5 +16378,5 @@
       "updatedAt": "2026-09-25T03:50:01.799Z"
     }
   ],
-  "generatedAt": "2026-11-23T04:00:07.924Z"
+  "generatedAt": "2026-11-23T04:10:07.646Z"
 }
