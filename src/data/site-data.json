@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-23T01:40:05.002Z",
+  "generatedAt": "2026-11-23T01:50:04.810Z",
   "total": 500,
   "activeTotal": 495,
   "posts": [
+    {
+      "slug": "b0cp4dck45-the-last-of-us-part-ii-remastered-playstation-5",
+      "asin": "B0CP4DCK45",
+      "title": "The Last of Us Part II Remastered (PlayStation 5)",
+      "url": "https://www.amazon.com/dp/B0CP4DCK45?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-11-23T01:40:39.768Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/818m9WGY0lL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0gfq2yzm7-playstation-dualsense-wireless-controller-techno-red-for-ps5",
       "asin": "B0GFQ2YZM7",
@@ -8057,26 +8077,6 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b00dav0z88-armani-beauty-si-eau-de-parfum-sweet-rose-womens-perfume-3-3",
-      "asin": "B00DAV0Z88",
-      "title": "Armani Beauty Si Eau de Parfum - Sweet Rose Womens Perfume - 3.3 Fl Oz | Long Lasting Fragrance with Blackcurrant, Rose ",
-      "url": "https://www.amazon.com/dp/B00DAV0Z88/ref=cmswrasglapiglidl_H4H6VR5SQYTYG6HA8MTA?tag=noya0b-20",
-      "discount": 50,
-      "rating": "FIRE",
-      "category": "Grocery & Food",
-      "ts": "2026-11-11T23:00:16.810Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/314Cpz16qgL._SL500_.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": {
-        "key": "fire",
-        "label": "🔥 50% OFF",
-        "tone": "fire"
-      },
       "feedStatus": "active"
     }
   ],
@@ -25389,6 +25389,16 @@
       "category": "Beauty",
       "ts": "2026-11-11T22:40:32.383Z",
       "archivedAt": "2026-11-23T01:10:07.468Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b00dav0z88-armani-beauty-si-eau-de-parfum-sweet-rose-womens-perfume-3-3",
+      "asin": "B00DAV0Z88",
+      "title": "Armani Beauty Si Eau de Parfum - Sweet Rose Womens Perfume - 3.3 Fl Oz | Long Lasting Fragrance with Blackcurrant, Rose ",
+      "url": "https://www.amazon.com/dp/B00DAV0Z88/ref=cmswrasglapiglidl_H4H6VR5SQYTYG6HA8MTA?tag=noya0b-20",
+      "category": "Grocery & Food",
+      "ts": "2026-11-11T23:00:16.810Z",
+      "archivedAt": "2026-11-23T01:50:04.810Z",
       "status": "archived"
     }
   ]
