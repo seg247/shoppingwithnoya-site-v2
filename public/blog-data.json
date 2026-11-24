@@ -13,44 +13,18 @@
         "Beauty"
       ],
       "byCategory": {
-        "Electronics": [
-          {
-            "asin": "B0CZPLV566",
-            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
-            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
-            "price": "$99.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FNBPPB8W",
-            "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
-            "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sand Gray",
-            "price": "$154.94",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61OmzBO+KQL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNBPPB8W?tag=noya0b-20"
-          }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0GRJVBPH3",
-            "slug": "oura-ring-5-smart-ring-silver-size-9-fitness-sleep-tracker-w",
-            "title": "Oura Ring 5 Smart Ring - Silver - Size 9 - Fitness & Sleep Tracker | World’s Smallest Smart Ring, Activity, Women's Health, AI Advisor, 1 Week Battery Life, IP68 Waterproof, Size Before You Buy",
-            "price": "$299.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/61aeK-6v1zL.jpg",
-            "url": "https://www.amazon.com/dp/B0GRJVBPH3?tag=noya0b-20"
-          }
-        ],
         "Fashion": [
+          {
+            "asin": "B0DP3NXKPX",
+            "slug": "gap-womens-mid-rise-baggy-denim-medium-indigo-21-24-reg-at-a",
+            "title": "GAP Womens Mid Rise Baggy Denim Medium Indigo 21 24 Reg at Amazon Women's Jeans store",
+            "price": "$35.98",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Fashion",
+            "imageUrl": "https://m.media-amazon.com/images/I/61chyJW313L.jpg",
+            "url": "https://www.amazon.com/dp/B0DP3NXKPX?tag=noya0b-20"
+          },
           {
             "asin": "B0FY54NSP9",
             "slug": "trendy-queen-cropped-cardigan-sweaters-for-women-fall-fashio",
@@ -83,6 +57,32 @@
             "category": "Fashion",
             "imageUrl": "https://m.media-amazon.com/images/I/61tQ6po5MNL.jpg",
             "url": "https://www.amazon.com/dp/B0FY54NSP9?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B0CZPLV566",
+            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
+            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+            "price": "$99.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
+          }
+        ],
+        "Personal Care": [
+          {
+            "asin": "B0GRJVBPH3",
+            "slug": "oura-ring-5-smart-ring-silver-size-9-fitness-sleep-tracker-w",
+            "title": "Oura Ring 5 Smart Ring - Silver - Size 9 - Fitness & Sleep Tracker | World’s Smallest Smart Ring, Activity, Women's Health, AI Advisor, 1 Week Battery Life, IP68 Waterproof, Size Before You Buy",
+            "price": "$299.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Personal Care",
+            "imageUrl": "https://m.media-amazon.com/images/I/61aeK-6v1zL.jpg",
+            "url": "https://www.amazon.com/dp/B0GRJVBPH3?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0DP3NXKPX",
+          "slug": "gap-womens-mid-rise-baggy-denim-medium-indigo-21-24-reg-at-a",
+          "title": "GAP Womens Mid Rise Baggy Denim Medium Indigo 21 24 Reg at Amazon Women's Jeans store",
+          "price": "$35.98",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Fashion",
+          "imageUrl": "https://m.media-amazon.com/images/I/61chyJW313L.jpg",
+          "url": "https://www.amazon.com/dp/B0DP3NXKPX?tag=noya0b-20"
+        },
         {
           "asin": "B0CZPLV566",
           "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
@@ -233,23 +244,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61tQ6po5MNL.jpg",
           "url": "https://www.amazon.com/dp/B0FY54NSP9?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FNBPPB8W",
-          "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
-          "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sand Gray",
-          "price": "$154.94",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61OmzBO+KQL.jpg",
-          "url": "https://www.amazon.com/dp/B0FNBPPB8W?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 24, 2026?",
-          "a": "The best deals today include \"Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matt...\" and 9 other hand-picked discounts. Deals span Fashion, Gold Box Deal, Electronics and are updated daily."
+          "a": "The best deals today include \"GAP Womens Mid Rise Baggy Denim Medium Indigo 21 24 Reg at A...\" and 9 other hand-picked discounts. Deals span Fashion, Gold Box Deal, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-24T20:00:02.854Z",
-      "updatedAt": "2026-11-24T20:00:02.854Z"
+      "generatedAt": "2026-11-24T20:10:02.176Z",
+      "updatedAt": "2026-11-24T20:10:02.176Z"
     },
     {
       "date": "2026-11-23",
@@ -16384,5 +16384,5 @@
       "updatedAt": "2026-09-27T03:50:02.273Z"
     }
   ],
-  "generatedAt": "2026-11-24T20:00:02.864Z"
+  "generatedAt": "2026-11-24T20:10:02.185Z"
 }
