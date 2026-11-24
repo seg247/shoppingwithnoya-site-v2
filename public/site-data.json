@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-11-24T06:40:00.381Z",
+  "generatedAt": "2026-11-24T06:50:02.195Z",
   "total": 500,
   "activeTotal": 496,
   "posts": [
+    {
+      "slug": "b0cqkkht5j-playstation-dualsense-wireless-controller-midnight-black",
+      "asin": "B0CQKKHT5J",
+      "title": "PlayStation DualSense® Wireless Controller - Midnight Black",
+      "url": "https://www.amazon.com/dp/B0CQKKHT5J?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gold Box Deal",
+      "ts": "2026-11-24T06:40:53.115Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61GNEp3auhL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b0fy6z7k5w-playstation-dualsense-wireless-controller-starlight-blue-for",
       "asin": "B0FY6Z7K5W",
@@ -316,11 +336,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8054,22 +8070,6 @@
       "ts": "2026-11-13T15:40:22.209Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71CPHr3Z-sL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0bz52flkc-emeril-lagasse-dual-zone-technology-25qt-air-fryer-oven-dual",
-      "asin": "B0BZ52FLKC",
-      "title": "Emeril Lagasse Dual Zone Technology 25QT Air Fryer Oven | Dual-zone 25QT air fryer oven cooks two foods at once with synchronized settings and faster convection cooking. : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0BZ52FLKC?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-13T15:20:46.932Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81gxkJlKvhL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -25905,6 +25905,16 @@
       "category": "Electronics",
       "ts": "2026-11-13T14:40:38.249Z",
       "archivedAt": "2026-11-24T05:50:00.407Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bz52flkc-emeril-lagasse-dual-zone-technology-25qt-air-fryer-oven-dual",
+      "asin": "B0BZ52FLKC",
+      "title": "Emeril Lagasse Dual Zone Technology 25QT Air Fryer Oven | Dual-zone 25QT air fryer oven cooks two foods at once with synchronized settings and faster convection cooking. : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0BZ52FLKC?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-13T15:20:46.932Z",
+      "archivedAt": "2026-11-24T06:50:02.195Z",
       "status": "archived"
     }
   ]
