@@ -9,11 +9,24 @@
         "Beauty",
         "Other",
         "Fashion",
+        "Grocery & Food",
         "Electronics",
-        "Personal Care",
-        "Gold Box Deal"
+        "Personal Care"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0DHY8DC6R",
+            "slug": "playstation-dualsense-wireless-controller-chroma-teal",
+            "title": "PlayStation DualSense™ Wireless Controller – Chroma Teal",
+            "price": "$61.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ro2W333+L.jpg",
+            "url": "https://www.amazon.com/dp/B0DHY8DC6R?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0BZQTSBWZ",
@@ -122,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61aeK-6v1zL.jpg",
             "url": "https://www.amazon.com/dp/B0GRJVBPH3?tag=noya0b-20"
           }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0924W492H",
-            "slug": "cole-haan-mens-wool-twill-topper-coat-blue-s-mens-down-alter",
-            "title": "Cole Haan Men's Wool Twill Topper Coat, Blue, S | Men's, Down-Alternative Insulation, Lightweight, All-Season, Work To Dinner at Amazon Men’s Clothing store",
-            "price": "$190.97",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/71GNUxLaBJL.jpg",
-            "url": "https://www.amazon.com/dp/B0924W492H?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0DHY8DC6R",
+          "slug": "playstation-dualsense-wireless-controller-chroma-teal",
+          "title": "PlayStation DualSense™ Wireless Controller – Chroma Teal",
+          "price": "$61.50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ro2W333+L.jpg",
+          "url": "https://www.amazon.com/dp/B0DHY8DC6R?tag=noya0b-20"
+        },
         {
           "asin": "B0BZQTSBWZ",
           "slug": "philips-norelco-oneblade-360-hybrid-face-trimmer-and-shaver",
@@ -236,23 +247,12 @@
           "category": "Beauty",
           "imageUrl": "https://m.media-amazon.com/images/I/51DkZqgnx5L.jpg",
           "url": "https://www.amazon.com/dp/B0DP2ZRXZN?tag=noya0b-20"
-        },
-        {
-          "asin": "B0924W492H",
-          "slug": "cole-haan-mens-wool-twill-topper-coat-blue-s-mens-down-alter",
-          "title": "Cole Haan Men's Wool Twill Topper Coat, Blue, S | Men's, Down-Alternative Insulation, Lightweight, All-Season, Work To Dinner at Amazon Men’s Clothing store",
-          "price": "$190.97",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/71GNUxLaBJL.jpg",
-          "url": "https://www.amazon.com/dp/B0924W492H?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 24, 2026?",
-          "a": "The best deals today include \"\udecd️Philips Norelco OneBlade 360 Hybrid Face Trimmer and Shave...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Fashion and are updated daily."
+          "a": "The best deals today include \"PlayStation DualSense™ Wireless Controller – Chroma Teal...\" and 9 other hand-picked discounts. Deals span Beauty, Other, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-24T21:40:02.656Z",
-      "updatedAt": "2026-11-24T21:40:02.657Z"
+      "generatedAt": "2026-11-24T21:50:02.194Z",
+      "updatedAt": "2026-11-24T21:50:02.194Z"
     },
     {
       "date": "2026-11-23",
@@ -16387,5 +16387,5 @@
       "updatedAt": "2026-09-27T03:50:02.273Z"
     }
   ],
-  "generatedAt": "2026-11-24T21:40:02.662Z"
+  "generatedAt": "2026-11-24T21:50:02.200Z"
 }
