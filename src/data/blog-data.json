@@ -10,9 +10,23 @@
         "Fashion",
         "Beauty",
         "Other",
+        "Gaming",
         "Grocery & Food"
       ],
       "byCategory": {
+        "Gaming": [
+          {
+            "asin": "B0HPV758PX",
+            "slug": "playstation-dualsense-wireless-controller-graphite-gray",
+            "title": "PlayStation DualSense™ Wireless Controller – Graphite Gray",
+            "price": "$84.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/71AEN-MVSBL.jpg",
+            "url": "https://www.amazon.com/dp/B0HPV758PX?tag=noya0b-20"
+          }
+        ],
         "Electronics": [
           {
             "asin": "B0C8PT7DF5",
@@ -35,17 +49,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/81hiFKtR+nL.jpg",
             "url": "https://www.amazon.com/dp/B0DGYYVJQB/ref=cmswrasglapiglidl_XP73ZEDH1180M9C3X9VP?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CZPLV566",
-            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
-            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
-            "price": "$99.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
-            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -135,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0HPV758PX",
+          "slug": "playstation-dualsense-wireless-controller-graphite-gray",
+          "title": "PlayStation DualSense™ Wireless Controller – Graphite Gray",
+          "price": "$84.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Gaming",
+          "imageUrl": "https://m.media-amazon.com/images/I/71AEN-MVSBL.jpg",
+          "url": "https://www.amazon.com/dp/B0HPV758PX?tag=noya0b-20"
+        },
         {
           "asin": "B0C8PT7DF5",
           "slug": "beats-studio-pro-over-ear-headphones-40h-battery-anc-deep-br",
@@ -233,23 +247,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61chyJW313L.jpg",
           "url": "https://www.amazon.com/dp/B0DP3NXKPX?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CZPLV566",
-          "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
-          "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
-          "price": "$99.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
-          "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 24, 2026?",
-          "a": "The best deals today include \"Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - De...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Beauty and are updated daily."
+          "a": "The best deals today include \"PlayStation DualSense™ Wireless Controller – Graphite Gray...\" and 9 other hand-picked discounts. Deals span Electronics, Fashion, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-24T23:20:00.912Z",
-      "updatedAt": "2026-11-24T23:20:00.912Z"
+      "generatedAt": "2026-11-24T23:30:01.877Z",
+      "updatedAt": "2026-11-24T23:30:01.877Z"
     },
     {
       "date": "2026-11-23",
@@ -16384,5 +16387,5 @@
       "updatedAt": "2026-09-27T03:50:02.273Z"
     }
   ],
-  "generatedAt": "2026-11-24T23:20:00.917Z"
+  "generatedAt": "2026-11-24T23:30:01.887Z"
 }
