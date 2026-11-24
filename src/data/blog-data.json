@@ -4,16 +4,54 @@
       "date": "2026-11-24",
       "slug": "2026-11-24",
       "title": "🔥 Best Deals Today — November 24, 2026",
-      "intro": "Today's best online deals for Tuesday, November 24, 2026 — 10 hand-picked discounts across Other, Fashion, Gold Box Deal and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Tuesday, November 24, 2026 — 10 hand-picked discounts across Other, Electronics, Grocery & Food and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
         "Other",
-        "Fashion",
+        "Electronics",
+        "Grocery & Food",
         "Gold Box Deal",
         "Home & Kitchen",
-        "Electronics",
+        "Fashion",
         "Beauty"
       ],
       "byCategory": {
+        "Grocery & Food": [
+          {
+            "asin": "B0DHY8DC6R",
+            "slug": "playstation-dualsense-wireless-controller-chroma-teal",
+            "title": "PlayStation DualSense™ Wireless Controller – Chroma Teal",
+            "price": "$61.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Grocery & Food",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ro2W333+L.jpg",
+            "url": "https://www.amazon.com/dp/B0DHY8DC6R?tag=noya0b-20"
+          }
+        ],
+        "Electronics": [
+          {
+            "asin": "B091699Z3W",
+            "slug": "kasa-smart-plug-ultra-mini-15a-ep10-smart-home-wi-fi-outlet",
+            "title": "\udecd️Kasa Smart Plug Ultra Mini 15A, EP10, Smart Home Wi-Fi Outlet | Works with Alexa & Google Home, No Hub Required, UP Ce",
+            "price": "$9.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51BFrPaLzZL.jpg",
+            "url": "https://www.amazon.com/dp/B091699Z3W?tag=noya0b-20"
+          },
+          {
+            "asin": "B0F3D55D5R",
+            "slug": "hollyland-lark-a22tx1rxcharging-case-wireless-microphone-ai",
+            "title": "\udecd️Hollyland LARK A2(2TX+1RX+Charging Case) Wireless Microphone, AI Auto-Limit | Plug & Play, 42H Use, Detail-Rich Audio,",
+            "price": "$44.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71fseEzo9kL.jpg",
+            "url": "https://www.amazon.com/dp/B0F3D55D5R?tag=noya0b-20"
+          }
+        ],
         "Other": [
           {
             "asin": "B01HQMQE5O",
@@ -47,17 +85,6 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71TF+FpEvgL.jpg",
             "url": "https://www.amazon.com/dp/B0GJ18225H?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DTH3QH7M",
-            "slug": "kirundo-summer-dresses-for-women-2026-knee-lengtharmy-green",
-            "title": "\udecd️KIRUNDO Summer Dresses for Women 2026 Knee Length(Army Green, M) | Flutter Sleeve, Button Up V Neck, Cute Ruffle Flowy",
-            "price": "$48.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71hzBZi5cqL.jpg",
-            "url": "https://www.amazon.com/dp/B0DTH3QH7M?tag=noya0b-20"
           }
         ],
         "Gold Box Deal": [
@@ -97,30 +124,6 @@
             "category": "Fashion",
             "imageUrl": "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/12941361_fpx.tif",
             "url": "https://mavely.app.link/ZtusqZGxk8b"
-          },
-          {
-            "asin": "B0F86492HH",
-            "slug": "ugg-mens-classic-micro-boot-chestnut-11",
-            "title": "\udecd️UGG Men's Classic Micro Boot, Chestnut, 11",
-            "price": "$139.95",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Fashion",
-            "imageUrl": "https://m.media-amazon.com/images/I/614ZjJiQsPL.jpg",
-            "url": "https://www.amazon.com/dp/B0F86492HH?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0F3D55D5R",
-            "slug": "hollyland-lark-a22tx1rxcharging-case-wireless-microphone-ai",
-            "title": "\udecd️Hollyland LARK A2(2TX+1RX+Charging Case) Wireless Microphone, AI Auto-Limit | Plug & Play, 42H Use, Detail-Rich Audio,",
-            "price": "$44.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71fseEzo9kL.jpg",
-            "url": "https://www.amazon.com/dp/B0F3D55D5R?tag=noya0b-20"
           }
         ],
         "Beauty": [
@@ -138,6 +141,28 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0DHY8DC6R",
+          "slug": "playstation-dualsense-wireless-controller-chroma-teal",
+          "title": "PlayStation DualSense™ Wireless Controller – Chroma Teal",
+          "price": "$61.50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Grocery & Food",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ro2W333+L.jpg",
+          "url": "https://www.amazon.com/dp/B0DHY8DC6R?tag=noya0b-20"
+        },
+        {
+          "asin": "B091699Z3W",
+          "slug": "kasa-smart-plug-ultra-mini-15a-ep10-smart-home-wi-fi-outlet",
+          "title": "\udecd️Kasa Smart Plug Ultra Mini 15A, EP10, Smart Home Wi-Fi Outlet | Works with Alexa & Google Home, No Hub Required, UP Ce",
+          "price": "$9.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51BFrPaLzZL.jpg",
+          "url": "https://www.amazon.com/dp/B091699Z3W?tag=noya0b-20"
+        },
         {
           "asin": "B01HQMQE5O",
           "slug": "guess-dare-eau-de-toilette-for-men-34-ounce-ns",
@@ -225,34 +250,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71TF+FpEvgL.jpg",
           "url": "https://www.amazon.com/dp/B0GJ18225H?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DTH3QH7M",
-          "slug": "kirundo-summer-dresses-for-women-2026-knee-lengtharmy-green",
-          "title": "\udecd️KIRUNDO Summer Dresses for Women 2026 Knee Length(Army Green, M) | Flutter Sleeve, Button Up V Neck, Cute Ruffle Flowy",
-          "price": "$48.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Other",
-          "imageUrl": "https://m.media-amazon.com/images/I/71hzBZi5cqL.jpg",
-          "url": "https://www.amazon.com/dp/B0DTH3QH7M?tag=noya0b-20"
-        },
-        {
-          "asin": "B0F86492HH",
-          "slug": "ugg-mens-classic-micro-boot-chestnut-11",
-          "title": "\udecd️UGG Men's Classic Micro Boot, Chestnut, 11",
-          "price": "$139.95",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Fashion",
-          "imageUrl": "https://m.media-amazon.com/images/I/614ZjJiQsPL.jpg",
-          "url": "https://www.amazon.com/dp/B0F86492HH?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 24, 2026?",
-          "a": "The best deals today include \"\udecd️GUESS Dare Eau De Toilette for Men, 3.4 Ounce, NS...\" and 9 other hand-picked discounts. Deals span Other, Fashion, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"PlayStation DualSense™ Wireless Controller – Chroma Teal...\" and 9 other hand-picked discounts. Deals span Other, Electronics, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +274,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-24T16:40:00.762Z",
-      "updatedAt": "2026-11-24T16:40:00.762Z"
+      "generatedAt": "2026-11-24T16:50:02.471Z",
+      "updatedAt": "2026-11-24T16:50:02.471Z"
     },
     {
       "date": "2026-11-23",
@@ -16387,5 +16390,5 @@
       "updatedAt": "2026-09-27T03:50:02.273Z"
     }
   ],
-  "generatedAt": "2026-11-24T16:40:00.767Z"
+  "generatedAt": "2026-11-24T16:50:02.476Z"
 }
