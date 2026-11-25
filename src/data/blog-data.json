@@ -9,11 +9,66 @@
         "Electronics",
         "Personal Care",
         "Gaming",
-        "Fashion",
-        "Grocery & Food",
-        "Beauty"
+        "Fashion"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0FVXRG5W9",
+            "slug": "samsung-galaxy-tab-a11-8gb-ram-256gb-storage-ai-assist-slim",
+            "title": "Samsung Galaxy Tab A11+ 8GB RAM, 256GB Storage, AI Assist, Slim Light, Gray | Optimized Performance, Long Lasting Battery, Expandable Storage, Large Display, Dolby Atmos Speakers, 2 Year Warranty",
+            "price": "$279.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61J95lO0oLL.jpg",
+            "url": "https://www.amazon.com/dp/B0FVXRG5W9?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DKM1KNLG",
+            "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
+            "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sandstone",
+            "price": "$163.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61JQ5K9jZnL.jpg",
+            "url": "https://www.amazon.com/dp/B0DKM1KNLG?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FHLPS8ZF",
+            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-metalli",
+            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Metallic Pink | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+            "price": "$79.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51kJvfwJSWL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHLPS8ZF?tag=noya0b-20"
+          },
+          {
+            "asin": "B0C8PT7DF5",
+            "slug": "beats-studio-pro-over-ear-headphones-40h-battery-anc-deep-br",
+            "title": "Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - Deep Brown | USB-C Lossless Audio, Fast Fuel Charging, Great for Travel & Commuting, Foldable Design, Apple & Android Compatible",
+            "price": "$149.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61SNDXZcmTL.jpg",
+            "url": "https://www.amazon.com/dp/B0C8PT7DF5?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DGYYVJQB",
+            "slug": "adidas-midway-school-backpack-28l-padded-laptop-sleeve-multi",
+            "title": "\udecd️adidas Midway School Backpack 28L | Padded Laptop Sleeve, Multiple Organizer Pockets, Water-Bottle Pockets, Durable Bu",
+            "price": "$50.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/81hiFKtR+nL.jpg",
+            "url": "https://www.amazon.com/dp/B0DGYYVJQB/ref=cmswrasglapiglidl_XP73ZEDH1180M9C3X9VP?tag=noya0b-20"
+          }
+        ],
         "Personal Care": [
           {
             "asin": "B0G2D1R15Q",
@@ -62,41 +117,6 @@
             "url": "https://www.amazon.com/dp/B0HPV758PX?tag=noya0b-20"
           }
         ],
-        "Electronics": [
-          {
-            "asin": "B0FHLPS8ZF",
-            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-metalli",
-            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Metallic Pink | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
-            "price": "$79.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/51kJvfwJSWL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHLPS8ZF?tag=noya0b-20"
-          },
-          {
-            "asin": "B0C8PT7DF5",
-            "slug": "beats-studio-pro-over-ear-headphones-40h-battery-anc-deep-br",
-            "title": "Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - Deep Brown | USB-C Lossless Audio, Fast Fuel Charging, Great for Travel & Commuting, Foldable Design, Apple & Android Compatible",
-            "price": "$149.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SNDXZcmTL.jpg",
-            "url": "https://www.amazon.com/dp/B0C8PT7DF5?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DGYYVJQB",
-            "slug": "adidas-midway-school-backpack-28l-padded-laptop-sleeve-multi",
-            "title": "\udecd️adidas Midway School Backpack 28L | Padded Laptop Sleeve, Multiple Organizer Pockets, Water-Bottle Pockets, Durable Bu",
-            "price": "$50.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/81hiFKtR+nL.jpg",
-            "url": "https://www.amazon.com/dp/B0DGYYVJQB/ref=cmswrasglapiglidl_XP73ZEDH1180M9C3X9VP?tag=noya0b-20"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B0DPRC4ZVT",
@@ -109,35 +129,31 @@
             "imageUrl": "https://m.media-amazon.com/images/I/71GilU4KKFL.jpg",
             "url": "https://www.amazon.com/dp/B0DPRC4ZVT/ref=cmswrasglapiglidl_X8PGNPVEQHGY6R6AA3TW?tag=noya0b-20"
           }
-        ],
-        "Grocery & Food": [
-          {
-            "asin": "B0DHY8DC6R",
-            "slug": "playstation-dualsense-wireless-controller-chroma-teal",
-            "title": "PlayStation DualSense™ Wireless Controller – Chroma Teal",
-            "price": "$61.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Grocery & Food",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ro2W333+L.jpg",
-            "url": "https://www.amazon.com/dp/B0DHY8DC6R?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
-          {
-            "asin": "B0BZQTSBWZ",
-            "slug": "philips-norelco-oneblade-360-hybrid-face-trimmer-and-shaver",
-            "title": "\udecd️Philips Norelco OneBlade 360 Hybrid Face Trimmer and Shaver, 5 Length Comb | Trim Edge & Shave, 5-in-1 Stubble Comb, 3",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71lOk+THa7L.jpg",
-            "url": "https://www.amazon.com/dp/B0BZQTSBWZ/ref=cmswrasglapigliB25JDEG1SSTG2BCD332S?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0FVXRG5W9",
+          "slug": "samsung-galaxy-tab-a11-8gb-ram-256gb-storage-ai-assist-slim",
+          "title": "Samsung Galaxy Tab A11+ 8GB RAM, 256GB Storage, AI Assist, Slim Light, Gray | Optimized Performance, Long Lasting Battery, Expandable Storage, Large Display, Dolby Atmos Speakers, 2 Year Warranty",
+          "price": "$279.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61J95lO0oLL.jpg",
+          "url": "https://www.amazon.com/dp/B0FVXRG5W9?tag=noya0b-20"
+        },
+        {
+          "asin": "B0DKM1KNLG",
+          "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
+          "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sandstone",
+          "price": "$163.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/61JQ5K9jZnL.jpg",
+          "url": "https://www.amazon.com/dp/B0DKM1KNLG?tag=noya0b-20"
+        },
         {
           "asin": "B0G2D1R15Q",
           "slug": "ring-battery-doorbell-video-doorbell-camera",
@@ -225,34 +241,12 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/71GilU4KKFL.jpg",
           "url": "https://www.amazon.com/dp/B0DPRC4ZVT/ref=cmswrasglapiglidl_X8PGNPVEQHGY6R6AA3TW?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DHY8DC6R",
-          "slug": "playstation-dualsense-wireless-controller-chroma-teal",
-          "title": "PlayStation DualSense™ Wireless Controller – Chroma Teal",
-          "price": "$61.50",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Grocery & Food",
-          "imageUrl": "https://m.media-amazon.com/images/I/61ro2W333+L.jpg",
-          "url": "https://www.amazon.com/dp/B0DHY8DC6R?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BZQTSBWZ",
-          "slug": "philips-norelco-oneblade-360-hybrid-face-trimmer-and-shaver",
-          "title": "\udecd️Philips Norelco OneBlade 360 Hybrid Face Trimmer and Shaver, 5 Length Comb | Trim Edge & Shave, 5-in-1 Stubble Comb, 3",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Beauty",
-          "imageUrl": "https://m.media-amazon.com/images/I/71lOk+THa7L.jpg",
-          "url": "https://www.amazon.com/dp/B0BZQTSBWZ/ref=cmswrasglapigliB25JDEG1SSTG2BCD332S?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 24, 2026?",
-          "a": "The best deals today include \"Ring Battery Doorbell | Video Doorbell Camera...\" and 9 other hand-picked discounts. Deals span Electronics, Personal Care, Gaming and are updated daily."
+          "a": "The best deals today include \"Samsung Galaxy Tab A11+ 8GB RAM, 256GB Storage, AI Assist, S...\" and 9 other hand-picked discounts. Deals span Electronics, Personal Care, Gaming and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-25T01:40:01.377Z",
-      "updatedAt": "2026-11-25T01:40:01.378Z"
+      "generatedAt": "2026-11-25T01:50:02.438Z",
+      "updatedAt": "2026-11-25T01:50:02.438Z"
     },
     {
       "date": "2026-11-23",
@@ -16387,5 +16381,5 @@
       "updatedAt": "2026-09-27T03:50:02.273Z"
     }
   ],
-  "generatedAt": "2026-11-25T01:40:01.384Z"
+  "generatedAt": "2026-11-25T01:50:02.443Z"
 }
