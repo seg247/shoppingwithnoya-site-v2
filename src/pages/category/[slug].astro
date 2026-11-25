@@ -78,14 +78,13 @@ export async function getStaticPaths() {
   const slugify = (c) => c.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
   const posts = siteData.posts || [];
-  const active = createFeedPolicy().activeDeals(posts);
+  const { activeDeals } = createFeedPolicy();
   const counts = {};
   const routeCounts = {};
   // Route retention is independent of current offer eligibility.
   for (const p of posts) routeCounts[p.category] = (routeCounts[p.category] || 0) + 1;
-  for (const p of active) {
-    if (!p.category || p.category === 'Other') continue;
-    counts[p.category] = (counts[p.category] || 0) + 1;
+  for (const category of Object.keys(META)) {
+    counts[category] = activeDeals(posts, { categories: [category] }).length;
   }
 
   const eligible = Object.keys(META).filter((c) => (routeCounts[c] || 0) >= MIN_DEALS);
@@ -95,9 +94,7 @@ export async function getStaticPaths() {
     props: {
       category,
       meta: META[category],
-      deals: active
-        .filter((p) => p.category === category)
-        .sort((a, b) => (b.discount || 0) - (a.discount || 0) || b.ts.localeCompare(a.ts)),
+      deals: activeDeals(posts, { categories: [category], sort: 'discount' }),
       siblings: eligible
         .filter((c) => c !== category)
         .map((c) => ({

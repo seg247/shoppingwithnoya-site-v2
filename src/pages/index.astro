@@ -32,9 +32,9 @@ const CATEGORY_LINKS = [
 
 const catCounts = (() => {
   const c = {};
-  for (const p of activePosts) {
-    if (!p.category) continue;
-    c[p.category] = (c[p.category] || 0) + 1;
+  for (const category of new Set((siteData.posts || []).map(p => p.category).filter(Boolean))) {
+    const count = activeDeals(siteData.posts || [], { categories: [category] }).length;
+    if (count > 0) c[category] = count;
   }
   return c;
 })();
