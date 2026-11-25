@@ -4,16 +4,51 @@
       "date": "2026-11-25",
       "slug": "2026-11-25",
       "title": "🔥 Best Deals Today — November 25, 2026",
-      "intro": "Today's best online deals for Wednesday, November 25, 2026 — 10 hand-picked discounts across Home & Kitchen, Electronics, Gaming and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Wednesday, November 25, 2026 — 10 hand-picked discounts across Electronics, Home & Kitchen, Gaming and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Home & Kitchen",
         "Electronics",
+        "Home & Kitchen",
         "Gaming",
         "Other",
         "Personal Care",
         "Fashion"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0GQJPWLDG",
+            "slug": "samsung-galaxy-tab-a11-kids-edition-amazon-exclusive-128-gb",
+            "title": "Samsung Galaxy Tab A11+ Kids Edition, Amazon Exclusive, 128 GB Android Tablet, Large Display, Durable, Slim, Light, Long Battery Life, US Version, Royal Blue",
+            "price": "$199.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Jcnl6q4PL.jpg",
+            "url": "https://www.amazon.com/dp/B0GQJPWLDG?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G4SW96R4",
+            "slug": "samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-p",
+            "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 256GB, Black | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty : Cell Phones & Accessories",
+            "price": "$849.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61q1dJxGowL.jpg",
+            "url": "https://www.amazon.com/dp/B0G4SW96R4?tag=noya0b-20"
+          },
+          {
+            "asin": "B09WXX4DGM",
+            "slug": "rove-r3-3-channel-dash-cam-front-and-rear-with-cabin-3in-ips",
+            "title": "ROVE R3 3 Channel Dash Cam Front and Rear with Cabin, 3in IPS Touch Screen | 1440P+1080P+1080P Recording, IR Night Vision, 5.8GHz WiFi up to 30MB/s, Quad-Mode GPS, Supports 512GB Max, for Rideshare",
+            "price": "$159.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/91ThXHIN-eL.jpg",
+            "url": "https://www.amazon.com/dp/B09WXX4DGM?tag=noya0b-20"
+          }
+        ],
         "Gaming": [
           {
             "asin": "B0CJSY6961",
@@ -60,41 +95,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/I/51MgdOkXREL.jpg",
             "url": "https://www.amazon.com/dp/B0GPFHRYBH?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FB7PW98Q",
-            "slug": "stanley-quencher-h20-flow-state-tumbler-20-oz-dew-drop-handl",
-            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 20 oz, Dew Drop | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-            "price": "$35.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/51GYmdehHmL.jpg",
-            "url": "https://www.amazon.com/dp/B0FB7PW98Q?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0G4SW96R4",
-            "slug": "samsung-galaxy-s26-unlocked-android-smartphone-256gb-black-p",
-            "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 256GB, Black | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty : Cell Phones & Accessories",
-            "price": "$849.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61q1dJxGowL.jpg",
-            "url": "https://www.amazon.com/dp/B0G4SW96R4?tag=noya0b-20"
-          },
-          {
-            "asin": "B09WXX4DGM",
-            "slug": "rove-r3-3-channel-dash-cam-front-and-rear-with-cabin-3in-ips",
-            "title": "ROVE R3 3 Channel Dash Cam Front and Rear with Cabin, 3in IPS Touch Screen | 1440P+1080P+1080P Recording, IR Night Vision, 5.8GHz WiFi up to 30MB/s, Quad-Mode GPS, Supports 512GB Max, for Rideshare",
-            "price": "$159.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/91ThXHIN-eL.jpg",
-            "url": "https://www.amazon.com/dp/B09WXX4DGM?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0GQJPWLDG",
+          "slug": "samsung-galaxy-tab-a11-kids-edition-amazon-exclusive-128-gb",
+          "title": "Samsung Galaxy Tab A11+ Kids Edition, Amazon Exclusive, 128 GB Android Tablet, Large Display, Durable, Slim, Light, Long Battery Life, US Version, Royal Blue",
+          "price": "$199.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/71Jcnl6q4PL.jpg",
+          "url": "https://www.amazon.com/dp/B0GQJPWLDG?tag=noya0b-20"
+        },
         {
           "asin": "B0CJSY6961",
           "slug": "playstation-dualsense-wireless-controller-cobalt-blue",
@@ -236,27 +247,16 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/61dY60sg8gL.jpg",
           "url": "https://www.amazon.com/dp/B0H3KQWXFZ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0FB7PW98Q",
-          "slug": "stanley-quencher-h20-flow-state-tumbler-20-oz-dew-drop-handl",
-          "title": "STANLEY Quencher H2.0 Flow State Tumbler, 20 oz, Dew Drop | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-          "price": "$35.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/51GYmdehHmL.jpg",
-          "url": "https://www.amazon.com/dp/B0FB7PW98Q?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 25, 2026?",
-          "a": "The best deals today include \"PlayStation DualSense Wireless Controller - Cobalt Blue...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Electronics, Gaming and are updated daily."
+          "a": "The best deals today include \"Samsung Galaxy Tab A11+ Kids Edition, Amazon Exclusive, 128 ...\" and 9 other hand-picked discounts. Deals span Electronics, Home & Kitchen, Gaming and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Home & Kitchen and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Electronics and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-25T09:00:01.799Z",
-      "updatedAt": "2026-11-25T09:00:01.799Z"
+      "generatedAt": "2026-11-25T09:10:02.252Z",
+      "updatedAt": "2026-11-25T09:10:02.252Z"
     },
     {
       "date": "2026-11-24",
@@ -16381,5 +16381,5 @@
       "updatedAt": "2026-09-28T03:50:02.144Z"
     }
   ],
-  "generatedAt": "2026-11-25T09:00:01.805Z"
+  "generatedAt": "2026-11-25T09:10:02.258Z"
 }
