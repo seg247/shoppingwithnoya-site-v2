@@ -14,6 +14,41 @@
         "Other"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0F1NHSFMF",
+            "slug": "lenovo-tab-one-lightweight-tablet-up-to-125-hours-of-youtube",
+            "title": "\udecd️Lenovo Tab One - Lightweight Tablet - up to 12.5 Hours of YouTube Streaming - 8.7\" HD Display - 4 GB Memory - 64 GB St",
+            "price": "$139.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/713r2sAaC+L.jpg",
+            "url": "https://www.amazon.com/dp/B0F1NHSFMF/ref=cmswrasglapaglidl_WPW5Q1RTHFHZRS2JY13Z?tag=noya0b-20"
+          },
+          {
+            "asin": "B0HJ9VPB3C",
+            "slug": "apple-watch-se-3-gps-44mm-smartwatch-midnight-aluminum-case",
+            "title": "Apple Watch SE 3 GPS 44mm Smartwatch | Midnight Aluminum Case, Navy Blue Sport Band - M/L. Fitness + Sleep + Cycle Tracking, Heart Rate, Vitals, Safety",
+            "price": "$209.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/71ifUBhRSCL.jpg",
+            "url": "https://www.amazon.com/dp/B0HJ9VPB3C?tag=noya0b-20"
+          },
+          {
+            "asin": "B0FNBPPB8W",
+            "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
+            "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sand Gray",
+            "price": "$154.94",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/61OmzBO+KQL.jpg",
+            "url": "https://www.amazon.com/dp/B0FNBPPB8W?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B07VR1NDSQ",
@@ -75,41 +110,6 @@
             "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
           }
         ],
-        "Electronics": [
-          {
-            "asin": "B0HJ9VPB3C",
-            "slug": "apple-watch-se-3-gps-44mm-smartwatch-midnight-aluminum-case",
-            "title": "Apple Watch SE 3 GPS 44mm Smartwatch | Midnight Aluminum Case, Navy Blue Sport Band - M/L. Fitness + Sleep + Cycle Tracking, Heart Rate, Vitals, Safety",
-            "price": "$209.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/71ifUBhRSCL.jpg",
-            "url": "https://www.amazon.com/dp/B0HJ9VPB3C?tag=noya0b-20"
-          },
-          {
-            "asin": "B0FNBPPB8W",
-            "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
-            "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sand Gray",
-            "price": "$154.94",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61OmzBO+KQL.jpg",
-            "url": "https://www.amazon.com/dp/B0FNBPPB8W?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DKLPWG59",
-            "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
-            "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Deep Brown",
-            "price": "$163.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61q8zJqdVSL.jpg",
-            "url": "https://www.amazon.com/dp/B0DKLPWG59?tag=noya0b-20"
-          }
-        ],
         "Fashion": [
           {
             "asin": "B0CYTJY8KP",
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0F1NHSFMF",
+          "slug": "lenovo-tab-one-lightweight-tablet-up-to-125-hours-of-youtube",
+          "title": "\udecd️Lenovo Tab One - Lightweight Tablet - up to 12.5 Hours of YouTube Streaming - 8.7\" HD Display - 4 GB Memory - 64 GB St",
+          "price": "$139.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/713r2sAaC+L.jpg",
+          "url": "https://www.amazon.com/dp/B0F1NHSFMF/ref=cmswrasglapaglidl_WPW5Q1RTHFHZRS2JY13Z?tag=noya0b-20"
+        },
         {
           "asin": "B07VR1NDSQ",
           "slug": "olaplex-n7-bonding-hair-oil-high-shine-30-ml-heat-protection",
@@ -236,23 +247,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/51qVL4lM4pL.jpg",
           "url": "https://www.amazon.com/dp/B0GC9YNNSQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0DKLPWG59",
-          "slug": "beats-studio-pro-bluetooth-noise-cancelling-headphones-with",
-          "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Deep Brown",
-          "price": "$163.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61q8zJqdVSL.jpg",
-          "url": "https://www.amazon.com/dp/B0DKLPWG59?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 25, 2026?",
-          "a": "The best deals today include \"\udecd️OLAPLEX N°.7 Bonding Hair Oil | High Shine, 30 mL | Heat P...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"\udecd️Lenovo Tab One - Lightweight Tablet - up to 12.5 Hours of ...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-25T22:00:02.544Z",
-      "updatedAt": "2026-11-25T22:00:02.544Z"
+      "generatedAt": "2026-11-25T22:10:02.014Z",
+      "updatedAt": "2026-11-25T22:10:02.014Z"
     },
     {
       "date": "2026-11-24",
@@ -16381,5 +16381,5 @@
       "updatedAt": "2026-09-28T03:50:02.144Z"
     }
   ],
-  "generatedAt": "2026-11-25T22:00:02.551Z"
+  "generatedAt": "2026-11-25T22:10:02.019Z"
 }
