@@ -9,35 +9,22 @@
         "Other",
         "Gold Box Deal",
         "Fashion",
-        "Gaming",
-        "Home & Kitchen"
+        "Home & Kitchen",
+        "Gaming"
       ],
       "byCategory": {
-        "Gold Box Deal": [
-          {
-            "asin": "B0D54SN9LG",
-            "slug": "heydude-mens-wally-stretch-fleece-slip-on-loafer-midnight-si",
-            "title": "HEYDUDE Men's Wally Stretch Fleece Slip On Loafer, Midnight Size 7 | Breathable Textile Upper, Elastic Laces, Cushioned Ankle Collar, Removable Foam Insole, Flexible EVA Outsole, Travel Ready | Loafers & Slip-Ons",
-            "price": "$100.22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WxXfsQquL.jpg",
-            "url": "https://www.amazon.com/dp/B0D54SN9LG?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CJ9GZM75",
-            "slug": "crz-yoga-butterluxe-leggings-25-sparkle-blue-xx-small-extrem",
-            "title": "CRZ YOGA Butterluxe Leggings 25\" Sparkle Blue XX-Small | Extremely Soft, Gentle Compression, Yoga, High Waisted, for Women : Clothing, Shoes & Jewelry",
-            "price": "$27.20",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/610f5PVSLML.jpg",
-            "url": "https://www.amazon.com/dp/B0CJ9GZM75?tag=noya0b-20"
-          }
-        ],
         "Other": [
+          {
+            "asin": "B08CXN8VCX",
+            "slug": "2-pack-pure-cotton-fitted-sheet-king-size-600-thread-count-1",
+            "title": "\udecd️2-Pack Pure Cotton Fitted Sheet King Size, 600 Thread Count 16\" Deep Pocket Egyptian Cotton Fitted Sheet (2pcs, King, ",
+            "price": "$52.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61o1LnftHXL.jpg",
+            "url": "https://www.amazon.com/dp/B08CXN8VCX?tag=noya0b-20"
+          },
           {
             "asin": "B0DTBRXS8V",
             "slug": "heydude-mens-wally-canvas-mono-slip-on-loafer-black-clay-siz",
@@ -70,6 +57,30 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71dDKDVi3HL.jpg",
             "url": "https://www.amazon.com/dp/B0GRJ6CXQ1?tag=noya0b-20"
+          }
+        ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0D54SN9LG",
+            "slug": "heydude-mens-wally-stretch-fleece-slip-on-loafer-midnight-si",
+            "title": "HEYDUDE Men's Wally Stretch Fleece Slip On Loafer, Midnight Size 7 | Breathable Textile Upper, Elastic Laces, Cushioned Ankle Collar, Removable Foam Insole, Flexible EVA Outsole, Travel Ready | Loafers & Slip-Ons",
+            "price": "$100.22",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/61WxXfsQquL.jpg",
+            "url": "https://www.amazon.com/dp/B0D54SN9LG?tag=noya0b-20"
+          },
+          {
+            "asin": "B0CJ9GZM75",
+            "slug": "crz-yoga-butterluxe-leggings-25-sparkle-blue-xx-small-extrem",
+            "title": "CRZ YOGA Butterluxe Leggings 25\" Sparkle Blue XX-Small | Extremely Soft, Gentle Compression, Yoga, High Waisted, for Women : Clothing, Shoes & Jewelry",
+            "price": "$27.20",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/610f5PVSLML.jpg",
+            "url": "https://www.amazon.com/dp/B0CJ9GZM75?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -120,21 +131,21 @@
             "category": "Gaming",
             "imageUrl": "https://m.media-amazon.com/images/I/61nQGukkRFL.jpg",
             "url": "https://www.amazon.com/dp/B0CJSY6961?tag=noya0b-20"
-          },
-          {
-            "asin": "B0CJTCQRNL",
-            "slug": "playstation-dualsense-wireless-controller-sterling-silver",
-            "title": "PlayStation DualSense Wireless Controller - Sterling Silver",
-            "price": "$59.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61BPHAahwEL.jpg",
-            "url": "https://www.amazon.com/dp/B0CJTCQRNL?tag=noya0b-20"
           }
         ]
       },
       "deals": [
+        {
+          "asin": "B08CXN8VCX",
+          "slug": "2-pack-pure-cotton-fitted-sheet-king-size-600-thread-count-1",
+          "title": "\udecd️2-Pack Pure Cotton Fitted Sheet King Size, 600 Thread Count 16\" Deep Pocket Egyptian Cotton Fitted Sheet (2pcs, King, ",
+          "price": "$52.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/61o1LnftHXL.jpg",
+          "url": "https://www.amazon.com/dp/B08CXN8VCX?tag=noya0b-20"
+        },
         {
           "asin": "B0D54SN9LG",
           "slug": "heydude-mens-wally-stretch-fleece-slip-on-loafer-midnight-si",
@@ -233,23 +244,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71dDKDVi3HL.jpg",
           "url": "https://www.amazon.com/dp/B0GRJ6CXQ1?tag=noya0b-20"
-        },
-        {
-          "asin": "B0CJTCQRNL",
-          "slug": "playstation-dualsense-wireless-controller-sterling-silver",
-          "title": "PlayStation DualSense Wireless Controller - Sterling Silver",
-          "price": "$59.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/61BPHAahwEL.jpg",
-          "url": "https://www.amazon.com/dp/B0CJTCQRNL?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 26, 2026?",
-          "a": "The best deals today include \"HEYDUDE Men's Wally Stretch Fleece Slip On Loafer, Midnight ...\" and 9 other hand-picked discounts. Deals span Other, Gold Box Deal, Fashion and are updated daily."
+          "a": "The best deals today include \"\udecd️2-Pack Pure Cotton Fitted Sheet King Size, 600 Thread Coun...\" and 9 other hand-picked discounts. Deals span Other, Gold Box Deal, Fashion and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T12:20:01.887Z",
-      "updatedAt": "2026-11-26T12:20:01.887Z"
+      "generatedAt": "2026-11-26T12:30:02.492Z",
+      "updatedAt": "2026-11-26T12:30:02.492Z"
     },
     {
       "date": "2026-11-25",
@@ -16375,5 +16375,5 @@
       "updatedAt": "2026-09-29T03:50:02.624Z"
     }
   ],
-  "generatedAt": "2026-11-26T12:20:01.898Z"
+  "generatedAt": "2026-11-26T12:30:02.498Z"
 }
