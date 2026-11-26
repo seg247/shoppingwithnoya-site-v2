@@ -9,10 +9,66 @@
         "Beauty",
         "Fashion",
         "Home & Kitchen",
-        "Garden & Outdoor",
-        "Gaming"
+        "Garden & Outdoor"
       ],
       "byCategory": {
+        "Beauty": [
+          {
+            "asin": "B00365DABC",
+            "slug": "cerave-pm-daily-facial-moisturizer-skin-care-for-dry-skin-oi",
+            "title": "CeraVe PM Daily Facial Moisturizer, Skin Care for Dry Skin, Oil-Free, 3oz | Travel Sized Face Lotion with Hyaluronic Acid, Niacinamide & Ceramides, Face Moisturizer for Men & Women, Skin Barrier Repair : Beauty & Personal Care",
+            "price": "$10.48",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61TuwUQ-qvL.jpg",
+            "url": "https://www.amazon.com/dp/B00365DABC?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G4NPWB8L",
+            "slug": "first-aid-beauty-ultra-repair-cream-intense-hydration-6-oz-1",
+            "title": "First Aid Beauty Ultra Repair Cream, Intense Hydration, 6 oz + 1 oz Bundle | Clinically Tested Face & Body Moisturizer with Colloidal Oatmeal, Relieves Eczema, Supports Dry Skin Barrier Repair",
+            "price": "$21.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/71btN5-U3QL.jpg",
+            "url": "https://www.amazon.com/dp/B0G4NPWB8L?tag=noya0b-20"
+          },
+          {
+            "asin": "B087H5FFGK",
+            "slug": "supergoop-play-everyday-sunscreen-lotion-spf-50-for-face-bod",
+            "title": "Supergoop! PLAY Everyday Sunscreen Lotion SPF 50 for Face & Body, 18oz | For active days, body and face sunscreen, SPF 50 everyday lotion, fast absorbing, water- & sweat-resistant up to 80 min : Beauty & Personal Care",
+            "price": "$34.80",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61PpI95TRNL.jpg",
+            "url": "https://www.amazon.com/dp/B087H5FFGK?tag=noya0b-20"
+          },
+          {
+            "asin": "B095PSJ7QV",
+            "slug": "urban-decay-naked3-mini-eyeshadow-palette-6-rosy-pink-neutra",
+            "title": "Urban Decay Naked3 Mini Eyeshadow Palette - 6 Rosy Pink Neutral Shadows | Ultra-blendable Mattes + Shimmers for Natural + Romantic Eye Looks, Travel Makeup Palette, Includes Mirror, Bridal Palette : Beauty & Personal Care",
+            "price": "$16.45",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/716d48S0WBL.jpg",
+            "url": "https://www.amazon.com/dp/B095PSJ7QV?tag=noya0b-20"
+          },
+          {
+            "asin": "B09VN62HF3",
+            "slug": "azzaro-the-most-wanted-parfum-spicy-woody-mens-cologne-34-fl",
+            "title": "Azzaro The Most Wanted Parfum Spicy Woody Men's Cologne - 3.4 Fl Oz | Fragrance with Ginger, Woody Notes & Bourbon Vanilla - Long Lasting - Sexy Mens Scent Best for Fall and Winter : Beauty & Personal Care",
+            "price": "$101.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61nkCltKCaL.jpg",
+            "url": "https://www.amazon.com/dp/B09VN62HF3?tag=noya0b-20"
+          }
+        ],
         "Fashion": [
           {
             "asin": "B0H31LV6LX",
@@ -61,52 +117,6 @@
             "url": "https://www.amazon.com/dp/B0BW2FLGL5?tag=noya0b-20"
           }
         ],
-        "Beauty": [
-          {
-            "asin": "B0G4NPWB8L",
-            "slug": "first-aid-beauty-ultra-repair-cream-intense-hydration-6-oz-1",
-            "title": "First Aid Beauty Ultra Repair Cream, Intense Hydration, 6 oz + 1 oz Bundle | Clinically Tested Face & Body Moisturizer with Colloidal Oatmeal, Relieves Eczema, Supports Dry Skin Barrier Repair",
-            "price": "$21.00",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/71btN5-U3QL.jpg",
-            "url": "https://www.amazon.com/dp/B0G4NPWB8L?tag=noya0b-20"
-          },
-          {
-            "asin": "B087H5FFGK",
-            "slug": "supergoop-play-everyday-sunscreen-lotion-spf-50-for-face-bod",
-            "title": "Supergoop! PLAY Everyday Sunscreen Lotion SPF 50 for Face & Body, 18oz | For active days, body and face sunscreen, SPF 50 everyday lotion, fast absorbing, water- & sweat-resistant up to 80 min : Beauty & Personal Care",
-            "price": "$34.80",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61PpI95TRNL.jpg",
-            "url": "https://www.amazon.com/dp/B087H5FFGK?tag=noya0b-20"
-          },
-          {
-            "asin": "B095PSJ7QV",
-            "slug": "urban-decay-naked3-mini-eyeshadow-palette-6-rosy-pink-neutra",
-            "title": "Urban Decay Naked3 Mini Eyeshadow Palette - 6 Rosy Pink Neutral Shadows | Ultra-blendable Mattes + Shimmers for Natural + Romantic Eye Looks, Travel Makeup Palette, Includes Mirror, Bridal Palette : Beauty & Personal Care",
-            "price": "$16.45",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/716d48S0WBL.jpg",
-            "url": "https://www.amazon.com/dp/B095PSJ7QV?tag=noya0b-20"
-          },
-          {
-            "asin": "B09VN62HF3",
-            "slug": "azzaro-the-most-wanted-parfum-spicy-woody-mens-cologne-34-fl",
-            "title": "Azzaro The Most Wanted Parfum Spicy Woody Men's Cologne - 3.4 Fl Oz | Fragrance with Ginger, Woody Notes & Bourbon Vanilla - Long Lasting - Sexy Mens Scent Best for Fall and Winter : Beauty & Personal Care",
-            "price": "$101.50",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61nkCltKCaL.jpg",
-            "url": "https://www.amazon.com/dp/B09VN62HF3?tag=noya0b-20"
-          }
-        ],
         "Garden & Outdoor": [
           {
             "asin": "B0F3ZGF53T",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/61hidW2-4JL.jpg",
             "url": "https://www.amazon.com/dp/B0F3ZGF53T?tag=noya0b-20"
           }
-        ],
-        "Gaming": [
-          {
-            "asin": "B0GFQ2Z3BM",
-            "slug": "playstation-dualsense-wireless-controller-remix-green-for-ps",
-            "title": "PlayStation DualSense® Wireless Controller – Remix Green - for PS5, PC, MAC & Mobile",
-            "price": "$64.88",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/613JJGbLK-L.jpg",
-            "url": "https://www.amazon.com/dp/B0GFQ2Z3BM?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B00365DABC",
+          "slug": "cerave-pm-daily-facial-moisturizer-skin-care-for-dry-skin-oi",
+          "title": "CeraVe PM Daily Facial Moisturizer, Skin Care for Dry Skin, Oil-Free, 3oz | Travel Sized Face Lotion with Hyaluronic Acid, Niacinamide & Ceramides, Face Moisturizer for Men & Women, Skin Barrier Repair : Beauty & Personal Care",
+          "price": "$10.48",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61TuwUQ-qvL.jpg",
+          "url": "https://www.amazon.com/dp/B00365DABC?tag=noya0b-20"
+        },
         {
           "asin": "B0H31LV6LX",
           "slug": "reebok-storm-rush-athletic-sneakers-for-women-casual-tennis",
@@ -233,23 +241,12 @@
           "category": "Garden & Outdoor",
           "imageUrl": "https://m.media-amazon.com/images/I/61hidW2-4JL.jpg",
           "url": "https://www.amazon.com/dp/B0F3ZGF53T?tag=noya0b-20"
-        },
-        {
-          "asin": "B0GFQ2Z3BM",
-          "slug": "playstation-dualsense-wireless-controller-remix-green-for-ps",
-          "title": "PlayStation DualSense® Wireless Controller – Remix Green - for PS5, PC, MAC & Mobile",
-          "price": "$64.88",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gaming",
-          "imageUrl": "https://m.media-amazon.com/images/I/613JJGbLK-L.jpg",
-          "url": "https://www.amazon.com/dp/B0GFQ2Z3BM?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 26, 2026?",
-          "a": "The best deals today include \"\udecd️Reebok Storm Rush Athletic Sneakers for Women, Casual Tenn...\" and 9 other hand-picked discounts. Deals span Beauty, Fashion, Home & Kitchen and are updated daily."
+          "a": "The best deals today include \"CeraVe PM Daily Facial Moisturizer, Skin Care for Dry Skin, ...\" and 9 other hand-picked discounts. Deals span Beauty, Fashion, Home & Kitchen and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T23:20:03.187Z",
-      "updatedAt": "2026-11-26T23:20:03.188Z"
+      "generatedAt": "2026-11-26T23:30:02.171Z",
+      "updatedAt": "2026-11-26T23:30:02.171Z"
     },
     {
       "date": "2026-11-25",
@@ -16375,5 +16372,5 @@
       "updatedAt": "2026-09-29T03:50:02.624Z"
     }
   ],
-  "generatedAt": "2026-11-26T23:20:03.193Z"
+  "generatedAt": "2026-11-26T23:30:02.180Z"
 }
