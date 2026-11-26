@@ -9,35 +9,21 @@
         "Electronics",
         "Other",
         "Beauty",
-        "Home & Kitchen",
-        "Personal Care"
+        "Home & Kitchen"
       ],
       "byCategory": {
-        "Other": [
-          {
-            "asin": "B0119IOQOC",
-            "slug": "corelle-vitrelle-18-piece-service-for-6-dinnerware-set-tripl",
-            "title": "Corelle Vitrelle 18-Piece Service for 6 Dinnerware Set Triple Layer Glass and Chip Resistant, Lightweight Round Plates and Bowls Set, City Block: Dinnerware Sets",
-            "price": "$57.84",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71Qou2kn6DL.jpg",
-            "url": "https://www.amazon.com/dp/B0119IOQOC?tag=noya0b-20"
-          },
-          {
-            "asin": "B0C7YS4MW4",
-            "slug": "shark-cyclone-pet-handheld-vacuum-navy-bluegrey-ch701-hyperv",
-            "title": "\udecd️Shark Cyclone PET Handheld Vacuum, Navy Blue/Grey, CH701 | HyperVelocity Suction, Powerful Pet Hair, Home & Car Cleani",
-            "price": "$69.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ET2Ba8-rL.jpg",
-            "url": "https://www.amazon.com/dp/B0C7YS4MW4/ref=cmswrasglapiglidl_FB8HHCS39ZVXP8Z9X279?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
+          {
+            "asin": "B0CZPLV566",
+            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
+            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+            "price": "$99.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
+          },
           {
             "asin": "B0C8PT7DF5",
             "slug": "beats-studio-pro-over-ear-headphones-40h-battery-anc-deep-br",
@@ -83,6 +69,30 @@
             "url": "https://www.amazon.com/dp/B0F1NHSFMF/ref=cmswrasglapaglidl_WPW5Q1RTHFHZRS2JY13Z?tag=noya0b-20"
           }
         ],
+        "Other": [
+          {
+            "asin": "B0119IOQOC",
+            "slug": "corelle-vitrelle-18-piece-service-for-6-dinnerware-set-tripl",
+            "title": "Corelle Vitrelle 18-Piece Service for 6 Dinnerware Set Triple Layer Glass and Chip Resistant, Lightweight Round Plates and Bowls Set, City Block: Dinnerware Sets",
+            "price": "$57.84",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71Qou2kn6DL.jpg",
+            "url": "https://www.amazon.com/dp/B0119IOQOC?tag=noya0b-20"
+          },
+          {
+            "asin": "B0C7YS4MW4",
+            "slug": "shark-cyclone-pet-handheld-vacuum-navy-bluegrey-ch701-hyperv",
+            "title": "\udecd️Shark Cyclone PET Handheld Vacuum, Navy Blue/Grey, CH701 | HyperVelocity Suction, Powerful Pet Hair, Home & Car Cleani",
+            "price": "$69.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ET2Ba8-rL.jpg",
+            "url": "https://www.amazon.com/dp/B0C7YS4MW4/ref=cmswrasglapiglidl_FB8HHCS39ZVXP8Z9X279?tag=noya0b-20"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B08FF2ZH33",
@@ -119,22 +129,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/81ZRrXaH3YL.jpg",
             "url": "https://www.amazon.com/dp/B0BZSCS613/ref=cmswrasglapaglidl_09YTFE1DNVAMYYQMNZ80?tag=noya0b-20"
           }
-        ],
-        "Personal Care": [
-          {
-            "asin": "B0G2D1R15Q",
-            "slug": "ring-battery-doorbell-video-doorbell-camera",
-            "title": "Ring Battery Doorbell | Video Doorbell Camera",
-            "price": "$39.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Personal Care",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
-            "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B0CZPLV566",
+          "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-matte-b",
+          "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matte Black | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+          "price": "$99.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
+          "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
+        },
         {
           "asin": "B0119IOQOC",
           "slug": "corelle-vitrelle-18-piece-service-for-6-dinnerware-set-tripl",
@@ -233,23 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/I/81ZRrXaH3YL.jpg",
           "url": "https://www.amazon.com/dp/B0BZSCS613/ref=cmswrasglapaglidl_09YTFE1DNVAMYYQMNZ80?tag=noya0b-20"
-        },
-        {
-          "asin": "B0G2D1R15Q",
-          "slug": "ring-battery-doorbell-video-doorbell-camera",
-          "title": "Ring Battery Doorbell | Video Doorbell Camera",
-          "price": "$39.99",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Personal Care",
-          "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
-          "url": "https://www.amazon.com/dp/B0G2D1R15Q?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 25, 2026?",
-          "a": "The best deals today include \"Corelle Vitrelle 18-Piece Service for 6 Dinnerware Set Tripl...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
+          "a": "The best deals today include \"Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Matt...\" and 9 other hand-picked discounts. Deals span Electronics, Other, Beauty and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T00:20:02.034Z",
-      "updatedAt": "2026-11-26T00:20:02.034Z"
+      "generatedAt": "2026-11-26T00:30:02.518Z",
+      "updatedAt": "2026-11-26T00:30:02.518Z"
     },
     {
       "date": "2026-11-24",
@@ -16378,5 +16375,5 @@
       "updatedAt": "2026-09-28T03:50:02.144Z"
     }
   ],
-  "generatedAt": "2026-11-26T00:20:02.040Z"
+  "generatedAt": "2026-11-26T00:30:02.524Z"
 }
