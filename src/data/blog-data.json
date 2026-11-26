@@ -14,33 +14,18 @@
         "Other"
       ],
       "byCategory": {
-        "Beauty": [
-          {
-            "asin": "B0CYGK58SN",
-            "slug": "everything-eye-patches-60-count-hydrating-under-eye-patches",
-            "title": "Everything Eye Patches 60 Count, Hydrating Under Eye Patches for Puffy Eyes and Dark Circles, Luxury Skincare By Dr. Barbara Sturm : Beauty & Personal Care",
-            "price": "$81.25",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Beauty",
-            "imageUrl": "https://m.media-amazon.com/images/I/61ZKoJah5gL.jpg",
-            "url": "https://www.amazon.com/dp/B0CYGK58SN?tag=noya0b-20"
-          }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0FHJ7TKZM",
-            "slug": "ring-battery-doorbell-video-doorbell-camera-amazon",
-            "title": "Ring Battery Doorbell | Video Doorbell Camera | Amazon",
-            "price": "$38.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
-            "url": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
+          {
+            "asin": "B0CZPGX972",
+            "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-cloud-p",
+            "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Cloud Pink | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+            "price": "$99.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/51JNqP2C4rL.jpg",
+            "url": "https://www.amazon.com/dp/B0CZPGX972?tag=noya0b-20"
+          },
           {
             "asin": "B0D4Z9C562",
             "slug": "bose-quietcomfort-headphones-wireless-bluetooth-headphones-a",
@@ -84,17 +69,32 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/515FE+S4yLL.jpg",
             "url": "https://www.amazon.com/dp/B0CZPLV566?tag=noya0b-20"
-          },
+          }
+        ],
+        "Beauty": [
           {
-            "asin": "B0C8PT7DF5",
-            "slug": "beats-studio-pro-over-ear-headphones-40h-battery-anc-deep-br",
-            "title": "Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - Deep Brown | USB-C Lossless Audio, Fast Fuel Charging, Great for Travel & Commuting, Foldable Design, Apple & Android Compatible",
-            "price": "$149.00",
+            "asin": "B0CYGK58SN",
+            "slug": "everything-eye-patches-60-count-hydrating-under-eye-patches",
+            "title": "Everything Eye Patches 60 Count, Hydrating Under Eye Patches for Puffy Eyes and Dark Circles, Luxury Skincare By Dr. Barbara Sturm : Beauty & Personal Care",
+            "price": "$81.25",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/61SNDXZcmTL.jpg",
-            "url": "https://www.amazon.com/dp/B0C8PT7DF5?tag=noya0b-20"
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61ZKoJah5gL.jpg",
+            "url": "https://www.amazon.com/dp/B0CYGK58SN?tag=noya0b-20"
+          }
+        ],
+        "Gold Box Deal": [
+          {
+            "asin": "B0FHJ7TKZM",
+            "slug": "ring-battery-doorbell-video-doorbell-camera-amazon",
+            "title": "Ring Battery Doorbell | Video Doorbell Camera | Amazon",
+            "price": "$38.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gold Box Deal",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RqdVcRgDL.jpg",
+            "url": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=noya0b-20"
           }
         ],
         "Personal Care": [
@@ -138,6 +138,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0CZPGX972",
+          "slug": "beats-solo-4-on-ear-headphones-50-hours-battery-life-cloud-p",
+          "title": "Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Cloud Pink | Rich, Bass-Forward Sound Quality, Spatial Audio, USB-C Fast Fuel Charging, Compatible with Apple & Android Devices",
+          "price": "$99.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/51JNqP2C4rL.jpg",
+          "url": "https://www.amazon.com/dp/B0CZPGX972?tag=noya0b-20"
+        },
         {
           "asin": "B0CYGK58SN",
           "slug": "everything-eye-patches-60-count-hydrating-under-eye-patches",
@@ -236,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/71Qou2kn6DL.jpg",
           "url": "https://www.amazon.com/dp/B0119IOQOC?tag=noya0b-20"
-        },
-        {
-          "asin": "B0C8PT7DF5",
-          "slug": "beats-studio-pro-over-ear-headphones-40h-battery-anc-deep-br",
-          "title": "Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - Deep Brown | USB-C Lossless Audio, Fast Fuel Charging, Great for Travel & Commuting, Foldable Design, Apple & Android Compatible",
-          "price": "$149.00",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Electronics",
-          "imageUrl": "https://m.media-amazon.com/images/I/61SNDXZcmTL.jpg",
-          "url": "https://www.amazon.com/dp/B0C8PT7DF5?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 25, 2026?",
-          "a": "The best deals today include \"Everything Eye Patches 60 Count, Hydrating Under Eye Patches...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Gold Box Deal and are updated daily."
+          "a": "The best deals today include \"Beats Solo 4 On-Ear Headphones, 50 Hours Battery Life - Clou...\" and 9 other hand-picked discounts. Deals span Electronics, Beauty, Gold Box Deal and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -271,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T03:20:02.378Z",
-      "updatedAt": "2026-11-26T03:20:02.378Z"
+      "generatedAt": "2026-11-26T03:30:02.572Z",
+      "updatedAt": "2026-11-26T03:30:02.572Z"
     },
     {
       "date": "2026-11-24",
@@ -16381,5 +16381,5 @@
       "updatedAt": "2026-09-28T03:50:02.144Z"
     }
   ],
-  "generatedAt": "2026-11-26T03:20:02.383Z"
+  "generatedAt": "2026-11-26T03:30:02.578Z"
 }
