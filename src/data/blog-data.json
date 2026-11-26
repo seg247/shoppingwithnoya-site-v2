@@ -11,10 +11,55 @@
         "Grocery & Food",
         "Beauty",
         "Electronics",
-        "Sports & Fitness",
-        "Gold Box Deal"
+        "Sports & Fitness"
       ],
       "byCategory": {
+        "Other": [
+          {
+            "asin": "B089N6B4ST",
+            "slug": "vaseline-illuminate-me-shea-butter-whipped-body-butter-for-m",
+            "title": "\udecd️Vaseline Illuminate Me Shea Butter Whipped Body Butter for Melanin Rich Skin Provides 24 Hour Moisturization for Dry S",
+            "price": "$13.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/81JJXh2WkZL.jpg",
+            "url": "https://www.amazon.com/dp/B089N6B4ST?tag=noya0b-20"
+          },
+          {
+            "asin": "B0D71GNV8T",
+            "slug": "dude-wipes-shea-butter-adult-flushable-wet-wipes-moisturizin",
+            "title": "\udecd️DUDE Wipes Shea BUTTer Adult Flushable Wet Wipes, Moisturizing, 144 Count | Moisturizing XL flushable butt wipes. Sept",
+            "price": "$12.28",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/71RM-tzLoDL.jpg",
+            "url": "https://www.amazon.com/dp/B0D71GNV8T?tag=noya0b-20"
+          },
+          {
+            "asin": "B0DSCSCS8L",
+            "slug": "monday-haircare-sleek-hold-hairspray-for-long-lasting-finish",
+            "title": "\udecd️MONDAY HAIRCARE SLEEK HOLD Hairspray for long-lasting finish 329 mL | for long-lasting finish",
+            "price": "$7.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/51B5IILAD-L.jpg",
+            "url": "https://www.amazon.com/dp/B0DSCSCS8L?tag=noya0b-20"
+          },
+          {
+            "asin": "B08CXN8VCX",
+            "slug": "2-pack-pure-cotton-fitted-sheet-king-size-600-thread-count-1",
+            "title": "\udecd️2-Pack Pure Cotton Fitted Sheet King Size, 600 Thread Count 16\" Deep Pocket Egyptian Cotton Fitted Sheet (2pcs, King, ",
+            "price": "$52.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Other",
+            "imageUrl": "https://m.media-amazon.com/images/I/61o1LnftHXL.jpg",
+            "url": "https://www.amazon.com/dp/B08CXN8VCX?tag=noya0b-20"
+          }
+        ],
         "Grocery & Food": [
           {
             "asin": "B0FST2CHRC",
@@ -65,41 +110,6 @@
             "url": "https://www.amazon.com/dp/B0BNQ56MH5?tag=noya0b-20"
           }
         ],
-        "Other": [
-          {
-            "asin": "B0D71GNV8T",
-            "slug": "dude-wipes-shea-butter-adult-flushable-wet-wipes-moisturizin",
-            "title": "\udecd️DUDE Wipes Shea BUTTer Adult Flushable Wet Wipes, Moisturizing, 144 Count | Moisturizing XL flushable butt wipes. Sept",
-            "price": "$12.28",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/71RM-tzLoDL.jpg",
-            "url": "https://www.amazon.com/dp/B0D71GNV8T?tag=noya0b-20"
-          },
-          {
-            "asin": "B0DSCSCS8L",
-            "slug": "monday-haircare-sleek-hold-hairspray-for-long-lasting-finish",
-            "title": "\udecd️MONDAY HAIRCARE SLEEK HOLD Hairspray for long-lasting finish 329 mL | for long-lasting finish",
-            "price": "$7.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/51B5IILAD-L.jpg",
-            "url": "https://www.amazon.com/dp/B0DSCSCS8L?tag=noya0b-20"
-          },
-          {
-            "asin": "B08CXN8VCX",
-            "slug": "2-pack-pure-cotton-fitted-sheet-king-size-600-thread-count-1",
-            "title": "\udecd️2-Pack Pure Cotton Fitted Sheet King Size, 600 Thread Count 16\" Deep Pocket Egyptian Cotton Fitted Sheet (2pcs, King, ",
-            "price": "$52.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Other",
-            "imageUrl": "https://m.media-amazon.com/images/I/61o1LnftHXL.jpg",
-            "url": "https://www.amazon.com/dp/B08CXN8VCX?tag=noya0b-20"
-          }
-        ],
         "Electronics": [
           {
             "asin": "B07JVM5VPR",
@@ -125,22 +135,20 @@
             "imageUrl": "https://m.media-amazon.com/images/I/51lXXs9kZHL.jpg",
             "url": "https://www.amazon.com/dp/B0G6NQ4NHB?tag=noya0b-20"
           }
-        ],
-        "Gold Box Deal": [
-          {
-            "asin": "B0D54SN9LG",
-            "slug": "heydude-mens-wally-stretch-fleece-slip-on-loafer-midnight-si",
-            "title": "HEYDUDE Men's Wally Stretch Fleece Slip On Loafer, Midnight Size 7 | Breathable Textile Upper, Elastic Laces, Cushioned Ankle Collar, Removable Foam Insole, Flexible EVA Outsole, Travel Ready | Loafers & Slip-Ons",
-            "price": "$100.22",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Gold Box Deal",
-            "imageUrl": "https://m.media-amazon.com/images/I/61WxXfsQquL.jpg",
-            "url": "https://www.amazon.com/dp/B0D54SN9LG?tag=noya0b-20"
-          }
         ]
       },
       "deals": [
+        {
+          "asin": "B089N6B4ST",
+          "slug": "vaseline-illuminate-me-shea-butter-whipped-body-butter-for-m",
+          "title": "\udecd️Vaseline Illuminate Me Shea Butter Whipped Body Butter for Melanin Rich Skin Provides 24 Hour Moisturization for Dry S",
+          "price": "$13.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Other",
+          "imageUrl": "https://m.media-amazon.com/images/I/81JJXh2WkZL.jpg",
+          "url": "https://www.amazon.com/dp/B089N6B4ST?tag=noya0b-20"
+        },
         {
           "asin": "B0FST2CHRC",
           "slug": "nurri-30g-protein-ultra-filtered-milk-shake-chocolate-10-11",
@@ -239,23 +247,12 @@
           "category": "Other",
           "imageUrl": "https://m.media-amazon.com/images/I/61o1LnftHXL.jpg",
           "url": "https://www.amazon.com/dp/B08CXN8VCX?tag=noya0b-20"
-        },
-        {
-          "asin": "B0D54SN9LG",
-          "slug": "heydude-mens-wally-stretch-fleece-slip-on-loafer-midnight-si",
-          "title": "HEYDUDE Men's Wally Stretch Fleece Slip On Loafer, Midnight Size 7 | Breathable Textile Upper, Elastic Laces, Cushioned Ankle Collar, Removable Foam Insole, Flexible EVA Outsole, Travel Ready | Loafers & Slip-Ons",
-          "price": "$100.22",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Gold Box Deal",
-          "imageUrl": "https://m.media-amazon.com/images/I/61WxXfsQquL.jpg",
-          "url": "https://www.amazon.com/dp/B0D54SN9LG?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 26, 2026?",
-          "a": "The best deals today include \"\udecd️Nurri 30g Protein Ultra Filtered Milk Shake, Chocolate, 10...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
+          "a": "The best deals today include \"\udecd️Vaseline Illuminate Me Shea Butter Whipped Body Butter for...\" and 9 other hand-picked discounts. Deals span Other, Home & Kitchen, Grocery & Food and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -274,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T15:40:02.156Z",
-      "updatedAt": "2026-11-26T15:40:02.156Z"
+      "generatedAt": "2026-11-26T15:50:03.608Z",
+      "updatedAt": "2026-11-26T15:50:03.608Z"
     },
     {
       "date": "2026-11-25",
@@ -16381,5 +16378,5 @@
       "updatedAt": "2026-09-29T03:50:02.624Z"
     }
   ],
-  "generatedAt": "2026-11-26T15:40:02.162Z"
+  "generatedAt": "2026-11-26T15:50:03.621Z"
 }
