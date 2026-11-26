@@ -33,7 +33,7 @@ const { title: pageTitle, description: pageDesc } = dealMetadata(deal);
 const productName = cleanText(deal.title) || 'Product deal';
 // No manufacturer description is supplied yet; a short, honest checking note
 // is preferable to inventing specifications or repeating the entire heading.
-const productDescription = 'Check current price, availability and any coupon conditions at the retailer.';
+const productDescription = cleanText(deal.description) || 'Check current price, availability and any coupon conditions at the retailer.';
 
 const dateFormatted = new Date(deal.ts).toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/New_York'
