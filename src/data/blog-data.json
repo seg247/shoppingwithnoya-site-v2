@@ -13,6 +13,41 @@
         "Toys & Kids"
       ],
       "byCategory": {
+        "Home & Kitchen": [
+          {
+            "asin": "B0DVF9NCLJ",
+            "slug": "stanley-quencher-h20-flow-state-tumbler-20-oz-peach-whip-glo",
+            "title": "STANLEY Quencher H2.0 Flow State Tumbler, 20 oz, Peach Whip Gloss | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+            "price": "$17.50",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/51JG0rCfOoL.jpg",
+            "url": "https://www.amazon.com/dp/B0DVF9NCLJ?tag=noya0b-20"
+          },
+          {
+            "asin": "B0HDFZQ9S7",
+            "slug": "corelle-butterfly-gold-18-piece-round-dinnerware-set-service",
+            "title": "Corelle Butterfly Gold 18-Piece Round Dinnerware Set, Service for 6 | Lightweight, Chip-Resistant Vitrelle Glass Plates and Bowls | Dishwasher, Microwave & Oven Safe | Made in USA: Dinnerware Sets",
+            "price": "$67.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://m.media-amazon.com/images/I/71YbDVLu+IL.jpg",
+            "url": "https://www.amazon.com/dp/B0HDFZQ9S7?tag=noya0b-20"
+          },
+          {
+            "asin": "BF20261126-88682898",
+            "slug": "bissell-little-green-hydrosteam-pet-portable-cleaner-model36",
+            "title": "BISSELL Little Green HydroSteam Pet Portable Cleaner — Model3605",
+            "price": null,
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Home & Kitchen",
+            "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_9c4324b3-bda2-4f0c-969f-4ed54375872c?wid=1200&hei=1200&qlt=80",
+            "url": "https://mavely.app.link/yThFsDGlN7b"
+          }
+        ],
         "Beauty": [
           {
             "asin": "B0F3DNPBCR",
@@ -48,41 +83,6 @@
             "category": "Electronics",
             "imageUrl": "https://m.media-amazon.com/images/I/6192kDZfS8L.jpg",
             "url": "https://www.amazon.com/dp/B0G4SWZP8B?tag=noya0b-20"
-          }
-        ],
-        "Home & Kitchen": [
-          {
-            "asin": "B0HDFZQ9S7",
-            "slug": "corelle-butterfly-gold-18-piece-round-dinnerware-set-service",
-            "title": "Corelle Butterfly Gold 18-Piece Round Dinnerware Set, Service for 6 | Lightweight, Chip-Resistant Vitrelle Glass Plates and Bowls | Dishwasher, Microwave & Oven Safe | Made in USA: Dinnerware Sets",
-            "price": "$67.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/71YbDVLu+IL.jpg",
-            "url": "https://www.amazon.com/dp/B0HDFZQ9S7?tag=noya0b-20"
-          },
-          {
-            "asin": "BF20261126-88682898",
-            "slug": "bissell-little-green-hydrosteam-pet-portable-cleaner-model36",
-            "title": "BISSELL Little Green HydroSteam Pet Portable Cleaner — Model3605",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_9c4324b3-bda2-4f0c-969f-4ed54375872c?wid=1200&hei=1200&qlt=80",
-            "url": "https://mavely.app.link/yThFsDGlN7b"
-          },
-          {
-            "asin": "BF20261126-1944597",
-            "slug": "the-big-one-oversized-supersoft-plush-throw-gray-jacquard-60",
-            "title": "The Big One Oversized Supersoft Plush Throw — Gray Jacquard, 60 x 72 in",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1944597_Gray_Jacquard?wid=1000&hei=1000&op_sharpen=1",
-            "url": "https://mavely.app.link/bUGzhUJFQ7b"
           }
         ],
         "Fashion": [
@@ -135,6 +135,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0DVF9NCLJ",
+          "slug": "stanley-quencher-h20-flow-state-tumbler-20-oz-peach-whip-glo",
+          "title": "STANLEY Quencher H2.0 Flow State Tumbler, 20 oz, Peach Whip Gloss | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+          "price": "$17.50",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Home & Kitchen",
+          "imageUrl": "https://m.media-amazon.com/images/I/51JG0rCfOoL.jpg",
+          "url": "https://www.amazon.com/dp/B0DVF9NCLJ?tag=noya0b-20"
+        },
         {
           "asin": "B0F3DNPBCR",
           "slug": "yankee-candle-mistletoe-scented-candle-22oz-large-jar-up-to",
@@ -233,23 +244,12 @@
           "category": "Toys & Kids",
           "imageUrl": "https://i5.walmartimages.com/seo/Crayola-Ultimate-Light-Board-White-LED-Tracing-Drawing-Board-Light-Up-Toy-Arts-Crafts-Creative-Gift-Ages-6_1e9c3713-c532-495e-a09e-4428a03e0dac_3.c38498a25658a858f902566f0bbb8ce0.jpeg",
           "url": "https://mavely.app.link/y00wKKBcn8b"
-        },
-        {
-          "asin": "BF20261126-1944597",
-          "slug": "the-big-one-oversized-supersoft-plush-throw-gray-jacquard-60",
-          "title": "The Big One Oversized Supersoft Plush Throw — Gray Jacquard, 60 x 72 in",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://media.kohlsimg.com/is/image/kohls/1944597_Gray_Jacquard?wid=1000&hei=1000&op_sharpen=1",
-          "url": "https://mavely.app.link/bUGzhUJFQ7b"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 26, 2026?",
-          "a": "The best deals today include \"Yankee Candle Mistletoe Scented Candle, 22oz Large Jar | Up ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Electronics and are updated daily."
+          "a": "The best deals today include \"STANLEY Quencher H2.0 Flow State Tumbler, 20 oz, Peach Whip ...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -268,8 +268,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T07:40:02.137Z",
-      "updatedAt": "2026-11-26T07:40:02.137Z"
+      "generatedAt": "2026-11-26T07:50:02.722Z",
+      "updatedAt": "2026-11-26T07:50:02.723Z"
     },
     {
       "date": "2026-11-25",
@@ -16375,5 +16375,5 @@
       "updatedAt": "2026-09-29T03:50:02.624Z"
     }
   ],
-  "generatedAt": "2026-11-26T07:40:02.143Z"
+  "generatedAt": "2026-11-26T07:50:02.731Z"
 }
