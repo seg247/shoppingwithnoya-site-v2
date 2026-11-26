@@ -12,6 +12,30 @@
         "Toys & Kids"
       ],
       "byCategory": {
+        "Electronics": [
+          {
+            "asin": "B0GQJXR9MB",
+            "slug": "samsung-galaxy-tab-a11-kids-edition-128-gb-android-tablet-la",
+            "title": "Samsung Galaxy Tab A11+ Kids Edition, 128 GB Android Tablet, Large Display, Durable, Slim, Light, Long Battery Life, US Version, Red",
+            "price": "$249.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/712RO3PmRUL.jpg",
+            "url": "https://www.amazon.com/dp/B0GQJXR9MB?tag=noya0b-20"
+          },
+          {
+            "asin": "B0G4SWZP8B",
+            "slug": "samsung-galaxy-s26-unlocked-android-smartphone-256gb-sky-blu",
+            "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 256GB, Sky Blue | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty : Cell Phones & Accessories",
+            "price": "$849.99",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Electronics",
+            "imageUrl": "https://m.media-amazon.com/images/I/6192kDZfS8L.jpg",
+            "url": "https://www.amazon.com/dp/B0G4SWZP8B?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B0HDFZQ9S7",
@@ -56,30 +80,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71mmJsbMGZL._AC_SL1500_.jpg",
             "url": "https://www.amazon.com/dp/B00BAGTNAQ?tag=noya0b-20"
-          },
-          {
-            "asin": "B0028MB3HM",
-            "slug": "shark-steam-pocket-mop-s3501-purple-two-washable-double-side",
-            "title": "Shark Steam Pocket Mop S3501 — Purple, two washable double-sided pads",
-            "price": null,
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/617LbA+swPL._AC_SL1500_.jpg",
-            "url": "https://www.amazon.com/dp/B0028MB3HM?tag=noya0b-20"
-          }
-        ],
-        "Electronics": [
-          {
-            "asin": "B0G4SWZP8B",
-            "slug": "samsung-galaxy-s26-unlocked-android-smartphone-256gb-sky-blu",
-            "title": "Samsung Galaxy S26, Unlocked Android Smartphone, 256GB, Sky Blue | Powerful Processor, Galaxy AI, Immersive Viewing, Durable Battery, 2026, US 1 Year Warranty : Cell Phones & Accessories",
-            "price": "$849.99",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Electronics",
-            "imageUrl": "https://m.media-amazon.com/images/I/6192kDZfS8L.jpg",
-            "url": "https://www.amazon.com/dp/B0G4SWZP8B?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -132,6 +132,17 @@
         ]
       },
       "deals": [
+        {
+          "asin": "B0GQJXR9MB",
+          "slug": "samsung-galaxy-tab-a11-kids-edition-128-gb-android-tablet-la",
+          "title": "Samsung Galaxy Tab A11+ Kids Edition, 128 GB Android Tablet, Large Display, Durable, Slim, Light, Long Battery Life, US Version, Red",
+          "price": "$249.99",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Electronics",
+          "imageUrl": "https://m.media-amazon.com/images/I/712RO3PmRUL.jpg",
+          "url": "https://www.amazon.com/dp/B0GQJXR9MB?tag=noya0b-20"
+        },
         {
           "asin": "B0HDFZQ9S7",
           "slug": "corelle-butterfly-gold-18-piece-round-dinnerware-set-service",
@@ -230,23 +241,12 @@
           "category": "Home & Kitchen",
           "imageUrl": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71mmJsbMGZL._AC_SL1500_.jpg",
           "url": "https://www.amazon.com/dp/B00BAGTNAQ?tag=noya0b-20"
-        },
-        {
-          "asin": "B0028MB3HM",
-          "slug": "shark-steam-pocket-mop-s3501-purple-two-washable-double-side",
-          "title": "Shark Steam Pocket Mop S3501 — Purple, two washable double-sided pads",
-          "price": null,
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/617LbA+swPL._AC_SL1500_.jpg",
-          "url": "https://www.amazon.com/dp/B0028MB3HM?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 26, 2026?",
-          "a": "The best deals today include \"Corelle Butterfly Gold 18-Piece Round Dinnerware Set, Servic...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Electronics and are updated daily."
+          "a": "The best deals today include \"Samsung Galaxy Tab A11+ Kids Edition, 128 GB Android Tablet,...\" and 9 other hand-picked discounts. Deals span Home & Kitchen, Fashion, Electronics and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
@@ -265,8 +265,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-26T06:40:03.801Z",
-      "updatedAt": "2026-11-26T06:40:03.801Z"
+      "generatedAt": "2026-11-26T06:50:05.172Z",
+      "updatedAt": "2026-11-26T06:50:05.173Z"
     },
     {
       "date": "2026-11-25",
@@ -16372,5 +16372,5 @@
       "updatedAt": "2026-09-29T03:50:02.624Z"
     }
   ],
-  "generatedAt": "2026-11-26T06:40:03.818Z"
+  "generatedAt": "2026-11-26T06:50:05.181Z"
 }
