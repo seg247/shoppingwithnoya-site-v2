@@ -1,4 +1,6 @@
 ---
+import createCampaignPolicy from '../../lib/sale-campaign.cjs';
+const { renderCampaignBadge } = createCampaignPolicy();
 import Base from '../../layouts/Base.astro';
 import AmazonPriceInfo from '../../components/AmazonPriceInfo.astro';
 import ArchivedDeal from '../../components/ArchivedDeal.astro';
@@ -89,6 +91,7 @@ const jsonLd = {
       <!-- Info -->
       <div class="deal-info">
         <p class="deal-category">{deal.category}</p>
+        <Fragment set:html={renderCampaignBadge(deal)} />
         <h1 class="deal-title">{productName}</h1>
         <p class="deal-summary">{productDescription}</p>
 

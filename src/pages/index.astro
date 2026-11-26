@@ -1,4 +1,7 @@
 ---
+import createCampaignPolicy from '../lib/sale-campaign.cjs';
+const { renderCampaignBadge } = createCampaignPolicy();
+import SaleCampaignSupport from '../components/SaleCampaignSupport.astro';
 import siteData from '../data/site-data.json';
 import createFeedPolicy from '../lib/active-feed.cjs';
 const { activeDeals } = createFeedPolicy();
@@ -79,6 +82,7 @@ const timeAgoSSR = (ts) => {
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <SaleCampaignSupport />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="p:domain_verify" content="75d1f579b5bc6e15353630a477bdfbc8" />
@@ -957,6 +961,7 @@ const timeAgoSSR = (ts) => {
         )}
         <div class="image-placeholder" role="img" aria-label="No product photo available"><span class="placeholder-mark" aria-hidden="true">🛍️</span><span class="placeholder-word" aria-hidden="true">Shopping With Noya</span></div>
         <div class="card-body">
+          <Fragment set:html={renderCampaignBadge(d)} />
           {d.badge && <span class={`deal-badge tone-${d.badge.tone}`}>{d.badge.label}</span>}
           {d.category && <span class="cat-chip">{d.category.substring(0, 20)}</span>}
           <p class="card-title" title={d.title}>{cleanTitleSSR(d.title)}</p>
@@ -1150,6 +1155,7 @@ const timeAgoSSR = (ts) => {
         <div class="image-placeholder" role="img" aria-label="No product photo available"><span class="placeholder-mark" aria-hidden="true">🛍️</span><span class="placeholder-word" aria-hidden="true">Shopping With Noya</span></div>
         <div class="card-body">
           ${expiryHtml}
+          ${window.NoyaSaleCampaign?.renderCampaignBadge(deal) || ''}
           ${badgeHtml}
           <p class="card-title" title="${escapeHtml(deal.title)}">${displayTitle}</p>
           ${priceHtml}

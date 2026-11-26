@@ -1,4 +1,7 @@
 ---
+import createCampaignPolicy from '../../lib/sale-campaign.cjs';
+const { renderCampaignBadge } = createCampaignPolicy();
+import SaleCampaignSupport from '../../components/SaleCampaignSupport.astro';
 import SkipLink from '../../components/SkipLink.astro';
 import CompactHeader from '../../components/CompactHeader.astro';
 import CompactDealsStyles from '../../components/CompactDealsStyles.astro';
@@ -187,6 +190,7 @@ const faqLd = JSON.stringify({
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <SaleCampaignSupport />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{pageTitle}</title>
@@ -302,6 +306,7 @@ const faqLd = JSON.stringify({
           )}
           <div class="image-placeholder" role="img" aria-label="Product image unavailable">Image unavailable</div>
           <div class="card-body">
+            <Fragment set:html={renderCampaignBadge(d)} />
             <div class="card-title" title={d.title}>{d.title}</div>
             {d.promoCode && <span class="promo-code-badge">Code: {d.promoCode}</span>}
             {d.asin && <p data-amazon-price={d.asin} aria-describedby="amazon-price-disclaimer" hidden></p>}
