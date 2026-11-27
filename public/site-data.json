@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:20:00.554Z",
+  "generatedAt": "2026-11-27T22:30:00.002Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -36,6 +36,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b08ktqvgdn-ugg-adalee-throw-blanket-for-couch-faux-fur-blanket-50-x-70-",
+      "asin": "B08KTQVGDN",
+      "title": "UGG Adalee Throw Blanket for Couch, Faux Fur Blanket, 50\" x 70\", White | Double-Sided Sculpted Faux Fur, Oversized Throw Blanket, Ultra Soft Luxury, Easy Care, OEKO-TEX Compliant, Holiday Decor : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B08KTQVGDN?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-27T22:20:58.475Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61wTPvS9OZL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -338,11 +358,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61fgIhfXrSL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8122,22 +8138,6 @@
       "ts": "2026-11-17T20:40:19.183Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51RMLV+3JbL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0f9pz6sm4-shark-flexfusion-ceramic-air-styler-straightener-metallic-mi",
-      "asin": "B0F9PZ6SM4",
-      "title": "\udecd️Shark FlexFusion Ceramic Air Styler, Straightener, Metallic Mist, HD651S | Style-Safe Tech: Zero Hot Tool Damage, Scal",
-      "url": "https://www.amazon.com/dp/B0F9PZ6SM4?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-11-17T20:20:27.353Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71xjTl9wV8L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27353,6 +27353,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-17T20:00:35.493Z",
       "archivedAt": "2026-11-27T22:10:01.965Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f9pz6sm4-shark-flexfusion-ceramic-air-styler-straightener-metallic-mi",
+      "asin": "B0F9PZ6SM4",
+      "title": "\udecd️Shark FlexFusion Ceramic Air Styler, Straightener, Metallic Mist, HD651S | Style-Safe Tech: Zero Hot Tool Damage, Scal",
+      "url": "https://www.amazon.com/dp/B0F9PZ6SM4?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-11-17T20:20:27.353Z",
+      "archivedAt": "2026-11-27T22:30:00.002Z",
       "status": "archived"
     }
   ]
