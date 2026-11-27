@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:40:01.636Z",
+  "generatedAt": "2026-11-27T22:50:01.710Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -36,6 +36,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0dqtfwtb1-lacoste-men-s-cotton-fleece-hoodie-navy-blue-medium",
+      "asin": "B0DQTFWTB1",
+      "title": "\udecd️Lacoste Men's Cotton Fleece Hoodie, Navy Blue, Medium",
+      "url": "https://www.amazon.com/dp/B0DQTFWTB1/ref=cmswrasglapaglidl_S0JETDBVYDQSJDACWKHQ?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-27T22:40:23.712Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51uydf5k7bL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -8118,22 +8138,6 @@
       "ts": "2026-11-17T21:00:30.733Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61lfOvSuibL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0btmtw296-stanley-quencher-straws-for-14-20-oz-tumbler-clear-4-pack-of",
-      "asin": "B0BTMTW296",
-      "title": "\udecd️STANLEY Quencher Straws, for 14/20 oz Tumbler, Clear | 4-Pack of Reusable Replacement Straws for Stanley Cup | Water B",
-      "url": "https://www.amazon.com/dp/B0BTMTW296/ref=cmswrasglapiglidl_1Q8E0BAAAHGBF7YYWF6K?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-11-17T20:40:19.183Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51RMLV+3JbL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27359,6 +27363,16 @@
       "category": "Other",
       "ts": "2026-11-17T20:20:27.353Z",
       "archivedAt": "2026-11-27T22:30:00.002Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0btmtw296-stanley-quencher-straws-for-14-20-oz-tumbler-clear-4-pack-of",
+      "asin": "B0BTMTW296",
+      "title": "\udecd️STANLEY Quencher Straws, for 14/20 oz Tumbler, Clear | 4-Pack of Reusable Replacement Straws for Stanley Cup | Water B",
+      "url": "https://www.amazon.com/dp/B0BTMTW296/ref=cmswrasglapiglidl_1Q8E0BAAAHGBF7YYWF6K?tag=noya0b-20",
+      "category": "Grocery & Food",
+      "ts": "2026-11-17T20:40:19.183Z",
+      "archivedAt": "2026-11-27T22:50:01.710Z",
       "status": "archived"
     }
   ]
