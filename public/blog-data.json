@@ -4,40 +4,28 @@
       "date": "2026-11-26",
       "slug": "2026-11-26",
       "title": "🔥 Best Deals Today — November 26, 2026",
-      "intro": "Today's best online deals for Thursday, November 26, 2026 — 10 hand-picked discounts across Fashion, Gaming, Beauty and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
+      "intro": "Today's best online deals for Thursday, November 26, 2026 — 10 hand-picked discounts across Beauty, Fashion, Toys & Kids and more. All deals are updated in real time and include affiliate links. Shop the top deals below before they expire.",
       "categories": [
-        "Fashion",
-        "Gaming",
         "Beauty",
+        "Fashion",
+        "Toys & Kids",
         "Home & Kitchen",
-        "Other"
+        "Other",
+        "Gaming"
       ],
       "byCategory": {
-        "Gaming": [
+        "Beauty": [
           {
-            "asin": "B077Z1R28P",
-            "slug": "taco-cat-goat-cheese-pizza-original-card-game",
-            "title": "Taco Cat Goat Cheese Pizza — Original card game",
-            "price": null,
-            "discount": 0,
-            "rating": "GOOD",
-            "category": "Gaming",
-            "imageUrl": "https://deals.shoppingwithnoya.com/images/B077Z1R28P-feed-black-friday.png",
-            "url": "https://www.amazon.com/dp/B077Z1R28P?tag=noya0b-20"
-          },
-          {
-            "asin": "B0GFB444CV",
-            "slug": "playstation-dualsense-wireless-controller-chroma-indigo-for",
-            "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo - For PS5, PC, MAC & Mobile",
-            "price": "$59.00",
+            "asin": "B07BMBQG73",
+            "slug": "elemis-pro-collagen-marine-cream-spf-30-anti-wrinkle-moistur",
+            "title": "ELEMIS Pro-Collagen Marine Cream SPF 30, Anti-Wrinkle Moisturizer, 50 ml | Lightweight anti-wrinkle daily facial moisturizer & sunscreen for face. Firms and hydrates all skin types. : Beauty & Personal Care",
+            "price": "$90.00",
             "discount": 0,
             "rating": "WORTH A LOOK",
-            "category": "Gaming",
-            "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
-            "url": "https://www.amazon.com/dp/B0GFB444CV?tag=noya0b-20"
-          }
-        ],
-        "Beauty": [
+            "category": "Beauty",
+            "imageUrl": "https://m.media-amazon.com/images/I/61EU70GZWTL.jpg",
+            "url": "https://www.amazon.com/dp/B07BMBQG73?tag=noya0b-20"
+          },
           {
             "asin": "B004BD107O",
             "slug": "loreal-paris-original-telescopic-mascara-lengthening-blackes",
@@ -61,6 +49,19 @@
             "url": "https://www.amazon.com/dp/B00365DABC?tag=noya0b-20"
           }
         ],
+        "Toys & Kids": [
+          {
+            "asin": "B077Z1R28P",
+            "slug": "taco-cat-goat-cheese-pizza-original-card-game",
+            "title": "Taco Cat Goat Cheese Pizza — Original card game",
+            "price": null,
+            "discount": 0,
+            "rating": "GOOD",
+            "category": "Toys & Kids",
+            "imageUrl": "https://deals.shoppingwithnoya.com/images/B077Z1R28P-feed-black-friday.png",
+            "url": "https://www.amazon.com/dp/B077Z1R28P?tag=noya0b-20"
+          }
+        ],
         "Home & Kitchen": [
           {
             "asin": "B00004OCKR",
@@ -72,17 +73,6 @@
             "category": "Home & Kitchen",
             "imageUrl": "https://deals.shoppingwithnoya.com/images/B00004OCKR-feed-black-friday-v2.png",
             "url": "https://www.amazon.com/dp/B00004OCKR?tag=noya0b-20"
-          },
-          {
-            "asin": "B0BW2FLGL5",
-            "slug": "corelle-18-piece-round-dinnerware-set-service-for-6-lightwei",
-            "title": "Corelle 18-Piece Round Dinnerware Set Service for 6, Lightweight Round Plates and Bowls Set, Vitrelle Triple Layer Glass, Chip and Scratch Resistant, Microwave and Dishwasher Safe, Brasserie: Dinnerware Sets",
-            "price": "$63.84",
-            "discount": 0,
-            "rating": "WORTH A LOOK",
-            "category": "Home & Kitchen",
-            "imageUrl": "https://m.media-amazon.com/images/I/7156wKNqfQL.jpg",
-            "url": "https://www.amazon.com/dp/B0BW2FLGL5?tag=noya0b-20"
           }
         ],
         "Other": [
@@ -96,6 +86,19 @@
             "category": "Other",
             "imageUrl": "https://m.media-amazon.com/images/I/71JH8MLN5vL.jpg",
             "url": "https://www.amazon.com/dp/B00AHAWWO0?tag=noya0b-20"
+          }
+        ],
+        "Gaming": [
+          {
+            "asin": "B0GFB444CV",
+            "slug": "playstation-dualsense-wireless-controller-chroma-indigo-for",
+            "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo - For PS5, PC, MAC & Mobile",
+            "price": "$59.00",
+            "discount": 0,
+            "rating": "WORTH A LOOK",
+            "category": "Gaming",
+            "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
+            "url": "https://www.amazon.com/dp/B0GFB444CV?tag=noya0b-20"
           }
         ],
         "Fashion": [
@@ -136,13 +139,24 @@
       },
       "deals": [
         {
+          "asin": "B07BMBQG73",
+          "slug": "elemis-pro-collagen-marine-cream-spf-30-anti-wrinkle-moistur",
+          "title": "ELEMIS Pro-Collagen Marine Cream SPF 30, Anti-Wrinkle Moisturizer, 50 ml | Lightweight anti-wrinkle daily facial moisturizer & sunscreen for face. Firms and hydrates all skin types. : Beauty & Personal Care",
+          "price": "$90.00",
+          "discount": 0,
+          "rating": "WORTH A LOOK",
+          "category": "Beauty",
+          "imageUrl": "https://m.media-amazon.com/images/I/61EU70GZWTL.jpg",
+          "url": "https://www.amazon.com/dp/B07BMBQG73?tag=noya0b-20"
+        },
+        {
           "asin": "B077Z1R28P",
           "slug": "taco-cat-goat-cheese-pizza-original-card-game",
           "title": "Taco Cat Goat Cheese Pizza — Original card game",
           "price": null,
           "discount": 0,
           "rating": "GOOD",
-          "category": "Gaming",
+          "category": "Toys & Kids",
           "imageUrl": "https://deals.shoppingwithnoya.com/images/B077Z1R28P-feed-black-friday.png",
           "url": "https://www.amazon.com/dp/B077Z1R28P?tag=noya0b-20"
         },
@@ -233,27 +247,16 @@
           "category": "Fashion",
           "imageUrl": "https://m.media-amazon.com/images/I/51yLU-HgTQL.jpg",
           "url": "https://www.amazon.com/dp/B0C8JTT95J/ref=cmswrasglapiglidl_SKC5FZSVDBY6VC2CPWTS?tag=noya0b-20"
-        },
-        {
-          "asin": "B0BW2FLGL5",
-          "slug": "corelle-18-piece-round-dinnerware-set-service-for-6-lightwei",
-          "title": "Corelle 18-Piece Round Dinnerware Set Service for 6, Lightweight Round Plates and Bowls Set, Vitrelle Triple Layer Glass, Chip and Scratch Resistant, Microwave and Dishwasher Safe, Brasserie: Dinnerware Sets",
-          "price": "$63.84",
-          "discount": 0,
-          "rating": "WORTH A LOOK",
-          "category": "Home & Kitchen",
-          "imageUrl": "https://m.media-amazon.com/images/I/7156wKNqfQL.jpg",
-          "url": "https://www.amazon.com/dp/B0BW2FLGL5?tag=noya0b-20"
         }
       ],
       "faq": [
         {
           "q": "What are the best deals today on November 26, 2026?",
-          "a": "The best deals today include \"Taco Cat Goat Cheese Pizza — Original card game...\" and 9 other hand-picked discounts. Deals span Fashion, Gaming, Beauty and are updated daily."
+          "a": "The best deals today include \"ELEMIS Pro-Collagen Marine Cream SPF 30, Anti-Wrinkle Moistu...\" and 9 other hand-picked discounts. Deals span Beauty, Fashion, Toys & Kids and are updated daily."
         },
         {
           "q": "What is the biggest discount available today?",
-          "a": "Today's deals include special prices across Fashion and more categories. All deals are hand-curated and updated daily."
+          "a": "Today's deals include special prices across Beauty and more categories. All deals are hand-curated and updated daily."
         },
         {
           "q": "Where can I find the best daily deals online?",
@@ -268,8 +271,8 @@
           "a": "Deals are updated automatically every 2 minutes from multiple deal sources. A daily blog roundup is published each morning featuring the top 10 deals of the day."
         }
       ],
-      "generatedAt": "2026-11-27T01:40:03.179Z",
-      "updatedAt": "2026-11-27T01:40:03.179Z"
+      "generatedAt": "2026-11-27T01:50:06.280Z",
+      "updatedAt": "2026-11-27T01:50:06.280Z"
     },
     {
       "date": "2026-11-25",
@@ -16375,5 +16378,5 @@
       "updatedAt": "2026-09-29T03:50:02.624Z"
     }
   ],
-  "generatedAt": "2026-11-27T01:40:03.189Z"
+  "generatedAt": "2026-11-27T01:50:06.289Z"
 }
