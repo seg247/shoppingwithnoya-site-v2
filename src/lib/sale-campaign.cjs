@@ -12,7 +12,7 @@ module.exports = function createCampaignPolicy() {
     try {
       const u = new URL(value);
       if (u.protocol !== 'https:' || u.username || u.password || u.port || u.hash) return null;
-      if (!['www.amazon.com','amazon.com','www.ae.com','www.walmart.com','www.kohls.com','www.clinique.com'].includes(u.hostname)) return null;
+      if (!['www.amazon.com','amazon.com','www.ae.com','www.walmart.com','www.kohls.com','www.clinique.com','www.ulta.com'].includes(u.hostname)) return null;
       return u;
     } catch { return null; }
   }
@@ -22,6 +22,7 @@ module.exports = function createCampaignPolicy() {
     if (u.hostname === 'www.walmart.com') return u.pathname.match(/\/ip\/(?:[^/]+\/)?(\d+)\/?$/)?.[1];
     if (u.hostname === 'www.kohls.com') return u.pathname.match(/\/product\/prd-(\d+)\//)?.[1];
     if (u.hostname === 'www.clinique.com' && u.pathname === '/products/almost-lipstick-in-black-honey-pink-honey-and-nude-honey') return u.searchParams.get('variant');
+    if (u.hostname === 'www.ulta.com' && u.pathname === '/p/cheirosa-all-way-mini-perfume-mist-gift-set-pimprod2061914' && u.searchParams.get('sku') === '2661471') return '2661471';
     return null;
   }
   function getCampaign(deal, now = Date.now()) {
