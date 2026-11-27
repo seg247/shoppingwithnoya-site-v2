@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:00:01.977Z",
+  "generatedAt": "2026-11-27T22:10:01.965Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -36,6 +36,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0gsh9kszx-hydrojug-traveler-32oz-insulated-water-bottle-with-handle-am",
+      "asin": "B0GSH9KSZX",
+      "title": "HydroJug Traveler 32oz, Insulated Water Bottle with Handle, American Honey | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, dishwasher safe: Tumblers & Water Glasses",
+      "url": "https://www.amazon.com/dp/B0GSH9KSZX?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-27T22:00:58.104Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71FSrwEo0nL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -8122,22 +8142,6 @@
       "ts": "2026-11-17T20:20:27.353Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71xjTl9wV8L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0bhrttpcz-dreambuilt-300pcs-gold-christmas-embossed-wax-seal-looking-e",
-      "asin": "B0BHRTTPCZ",
-      "title": "\udecd️DreamBuilt 300pcs Gold Christmas Embossed Wax Seal Looking Envelope Seals for Gifts Packages/Party Favors, Self-Adhesi",
-      "url": "https://www.amazon.com/dp/B0BHRTTPCZ?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-17T20:00:35.493Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81DkgZrSnML.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27343,6 +27347,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-17T19:40:32.279Z",
       "archivedAt": "2026-11-27T21:50:02.717Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0bhrttpcz-dreambuilt-300pcs-gold-christmas-embossed-wax-seal-looking-e",
+      "asin": "B0BHRTTPCZ",
+      "title": "\udecd️DreamBuilt 300pcs Gold Christmas Embossed Wax Seal Looking Envelope Seals for Gifts Packages/Party Favors, Self-Adhesi",
+      "url": "https://www.amazon.com/dp/B0BHRTTPCZ?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-17T20:00:35.493Z",
+      "archivedAt": "2026-11-27T22:10:01.965Z",
       "status": "archived"
     }
   ]
