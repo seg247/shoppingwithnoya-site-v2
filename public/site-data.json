@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:40:01.965Z",
+  "generatedAt": "2026-11-27T21:50:02.717Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -36,6 +36,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0h4wdmwz1-hydrojug-traveler-32oz-insulated-water-bottle-with-handle-fr",
+      "asin": "B0H4WDMWZ1",
+      "title": "HydroJug Traveler 32oz, Insulated Water Bottle with Handle, Freshly Pick'd | Ceramic-lined, triple wall insulated, flip straw lid, leak-resistant, cup holder friendly, BPA-free, dishwasher safe: Tumblers & Water Glasses",
+      "url": "https://www.amazon.com/dp/B0H4WDMWZ1?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-27T21:40:28.386Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51uVVlmZrJL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -378,11 +398,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71GKWd1QnzL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -398,11 +414,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81CtJ0Uc1mL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -418,11 +430,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51py9zS2uSL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -438,11 +446,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Jcnl6q4PL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -458,11 +462,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71-QqOu2q+L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8146,22 +8146,6 @@
       "ts": "2026-11-17T20:00:35.493Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81DkgZrSnML.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0dpnjkmpx-bella-fits-anywhere-6qt-slim-air-fryer-non-toxic-coating-oat",
-      "asin": "B0DPNJKMPX",
-      "title": "\udecd️bella Fits-Anywhere™ 6qt Slim Air Fryer, Non-Toxic Coating, Oatmilk",
-      "url": "https://www.amazon.com/dp/B0DPNJKMPX/ref=cmswrasglapiglidl_M6AG6EG5P5P0E76AJ80K?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-17T19:40:32.279Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61TgBmRpXnL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27357,6 +27341,16 @@
       "category": "Electronics",
       "ts": "2026-11-17T18:20:22.145Z",
       "archivedAt": "2026-11-27T20:27:38.675Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dpnjkmpx-bella-fits-anywhere-6qt-slim-air-fryer-non-toxic-coating-oat",
+      "asin": "B0DPNJKMPX",
+      "title": "\udecd️bella Fits-Anywhere™ 6qt Slim Air Fryer, Non-Toxic Coating, Oatmilk",
+      "url": "https://www.amazon.com/dp/B0DPNJKMPX/ref=cmswrasglapiglidl_M6AG6EG5P5P0E76AJ80K?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-17T19:40:32.279Z",
+      "archivedAt": "2026-11-27T21:50:02.717Z",
       "status": "archived"
     }
   ]
