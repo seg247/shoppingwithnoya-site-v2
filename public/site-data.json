@@ -1,8 +1,43 @@
 {
-  "generatedAt": "2026-11-27T01:30:02.764Z",
+  "generatedAt": "2026-11-27T01:36:35.818Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
+    {
+      "slug": "b077z1r28p-taco-cat-goat-cheese-pizza-original-card-game",
+      "campaign": {
+        "kind": "black-friday",
+        "productId": "B077Z1R28P",
+        "productUrl": "https://www.amazon.com/dp/B077Z1R28P",
+        "sourceUrl": "https://www.amazon.com/dp/B077Z1R28P",
+        "recordUrl": "https://www.amazon.com/dp/B077Z1R28P?tag=noya0b-20",
+        "recordId": "B077Z1R28P",
+        "verifiedAt": "2026-11-27T01:17:14.112Z",
+        "validUntil": "2026-11-28T01:17:14.112Z",
+        "validityBasis": "freshness-ttl",
+        "evidenceText": "Black Friday Deal",
+        "offerVerified": true,
+        "validityNote": "Retailer end unknown; evidence freshness only, not sale deadline."
+      },
+      "asin": "B077Z1R28P",
+      "title": "Taco Cat Goat Cheese Pizza — Original card game",
+      "description": "BLACK FRIDAY FINDS — Say the words, flip a card, and race to slap the pile when they match. Original card game for 2–8 players.",
+      "url": "https://www.amazon.com/dp/B077Z1R28P?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Gaming",
+      "ts": "2026-11-27T01:36:34.062Z",
+      "type": "deal",
+      "imageUrl": "https://deals.shoppingwithnoya.com/images/B077Z1R28P-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
     {
       "slug": "b004bd107o-l-oreal-paris-original-telescopic-mascara-lengthening-blacke",
       "asin": "B004BD107O",
@@ -8214,22 +8249,6 @@
       "ts": "2026-11-17T03:20:33.028Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51QRQQy7eeL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0cn1mvgwk-stanley-quencher-h2-o-flowstate-tumbler-40-oz-forrest-gloss-",
-      "asin": "B0CN1MVGWK",
-      "title": "Stanley Quencher H2.O FlowState™ Tumbler 40 oz Forrest Gloss Deco | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0CN1MVGWK?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Gold Box Deal",
-      "ts": "2026-11-17T02:00:57.797Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61dwh0Z7E5L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27135,6 +27154,16 @@
       "category": "Electronics",
       "ts": "2026-11-17T01:40:33.655Z",
       "archivedAt": "2026-11-27T01:04:35.181Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0cn1mvgwk-stanley-quencher-h2-o-flowstate-tumbler-40-oz-forrest-gloss-",
+      "asin": "B0CN1MVGWK",
+      "title": "Stanley Quencher H2.O FlowState™ Tumbler 40 oz Forrest Gloss Deco | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0CN1MVGWK?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-17T02:00:57.797Z",
+      "archivedAt": "2026-11-27T01:27:26.749Z",
       "status": "archived"
     }
   ]
