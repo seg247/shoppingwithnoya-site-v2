@@ -6,7 +6,7 @@ test('approved original Taco Cat persists with unchanged own link and campaign a
  const p=d.posts.find(p=>p.asin==='B077Z1R28P');assert.ok(p,'approved original game must be present');
  assert.equal(p.title,'Taco Cat Goat Cheese Pizza — Original card game');
  assert.equal(p.url,'https://www.amazon.com/dp/B077Z1R28P?tag=noya0b-20');
- assert.equal(p.category,'Gaming');
+ assert.equal(p.category,'Toys & Kids');
  assert.equal(p.imageUrl,'https://deals.shoppingwithnoya.com/images/B077Z1R28P-feed-black-friday.png');
  assert.ok(p.description.startsWith('BLACK FRIDAY FINDS'));
  assert.ok(p.description.includes('Original card game for 2–8 players.'));
