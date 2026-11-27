@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:20:01.697Z",
+  "generatedAt": "2026-11-27T23:30:00.962Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -36,6 +36,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b08wpnzq46-ugg-women-s-disquette-slipper-charcoal-9",
+      "asin": "B08WPNZQ46",
+      "title": "\udecd️UGG Women's Disquette Slipper, Charcoal, 9",
+      "url": "https://www.amazon.com/dp/B08WPNZQ46?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-27T23:20:49.096Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/81VXyOu0y9L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -318,11 +338,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71pJG761-UL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -338,11 +354,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51YGHoZOjfL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8122,22 +8134,6 @@
       "ts": "2026-11-17T21:40:26.113Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61g9RMUVfVL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0hgnjdxlz-mr-coffee-12-cup-coffee-maker-with-decaf-brew-reflection-ice",
-      "asin": "B0HGNJDXLZ",
-      "title": "\udecd️Mr. Coffee 12 Cup Coffee Maker with Decaf Brew, Reflection | Iced Coffee Settings, Small Batch Setting for 1 to 4 Cups",
-      "url": "https://www.amazon.com/dp/B0HGNJDXLZ/ref=cmswrasglapiglidl_CK01XRQJP6V4B6NAX1CS?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Grocery & Food",
-      "ts": "2026-11-17T21:00:30.733Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61lfOvSuibL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27373,6 +27369,16 @@
       "category": "Grocery & Food",
       "ts": "2026-11-17T20:40:19.183Z",
       "archivedAt": "2026-11-27T22:50:01.710Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0hgnjdxlz-mr-coffee-12-cup-coffee-maker-with-decaf-brew-reflection-ice",
+      "asin": "B0HGNJDXLZ",
+      "title": "\udecd️Mr. Coffee 12 Cup Coffee Maker with Decaf Brew, Reflection | Iced Coffee Settings, Small Batch Setting for 1 to 4 Cups",
+      "url": "https://www.amazon.com/dp/B0HGNJDXLZ/ref=cmswrasglapiglidl_CK01XRQJP6V4B6NAX1CS?tag=noya0b-20",
+      "category": "Grocery & Food",
+      "ts": "2026-11-17T21:00:30.733Z",
+      "archivedAt": "2026-11-27T23:30:00.962Z",
       "status": "archived"
     }
   ]
