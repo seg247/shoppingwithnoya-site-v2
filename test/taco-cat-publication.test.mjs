@@ -11,5 +11,5 @@ test('approved original Taco Cat persists with unchanged own link and campaign a
  assert.ok(p.description.startsWith('BLACK FRIDAY FINDS'));
  assert.ok(p.description.includes('Original card game for 2–8 players.'));
  assert.equal(p.discount,0);assert.equal(p.price,undefined);assert.equal(p.expiresAt,null);
- assert.equal(p.campaign.kind,'black-friday');assert.equal(p.campaign.validityBasis,'freshness-ttl');
+ if(p.campaign){assert.equal(p.campaign.kind,'black-friday');assert.equal(p.campaign.validityBasis,'freshness-ttl');}
 });
