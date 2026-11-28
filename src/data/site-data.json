@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:20:02.249Z",
+  "generatedAt": "2026-11-28T07:30:01.406Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0fnbppb8w-beats-studio-pro-bluetooth-noise-cancelling-headphones-with-",
+      "asin": "B0FNBPPB8W",
+      "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sand Gray",
+      "url": "https://www.amazon.com/dp/B0FNBPPB8W?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-28T07:20:53.125Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61OmzBO+KQL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -351,11 +371,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61vb4NMrR4L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -2422,22 +2438,6 @@
       "ts": "2026-11-25T19:40:19.839Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61leg0pxxKL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0fnbppb8w-beats-studio-pro-bluetooth-noise-cancelling-headphones-with-",
-      "asin": "B0FNBPPB8W",
-      "title": "Beats Studio Pro Bluetooth Noise Cancelling Headphones with Apple 20W USB-C Power Adapter - Sand Gray",
-      "url": "https://www.amazon.com/dp/B0FNBPPB8W?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-11-25T19:20:31.486Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61OmzBO+KQL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
