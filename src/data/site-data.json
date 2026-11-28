@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:00:01.736Z",
+  "generatedAt": "2026-11-28T07:10:01.016Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0c9v811l6-skylight-calendar-15-touchscreen-digital-calendar-chore-char",
+      "asin": "B0C9V811L6",
+      "title": "Skylight Calendar – 15\" Touchscreen Digital Calendar & Chore Chart, White",
+      "url": "https://www.amazon.com/dp/B0C9V811L6?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Other",
+      "ts": "2026-11-28T07:00:58.484Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71zMH-ZH4qL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -8101,22 +8121,6 @@
       "ts": "2026-11-18T02:40:45.968Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/51ATf4o9tvL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0hcpybk67-asus-vivobook-16-laptop-16-wuxga-16-10-display-snapdragon-x-",
-      "asin": "B0HCPYBK67",
-      "title": "ASUS Vivobook 16 Laptop - 16” WUXGA 16:10 Display - Snapdragon® X X1 26 100 Processor - 8 GB RAM - 512 GB SSD - Windows 11 OS Home - Cool Silver - X1607QA-PB54",
-      "url": "https://www.amazon.com/dp/B0HCPYBK67?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-11-18T02:20:44.778Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71SYorSqkpL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27472,6 +27476,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-18T01:40:48.838Z",
       "archivedAt": "2026-11-28T07:00:01.736Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0hcpybk67-asus-vivobook-16-laptop-16-wuxga-16-10-display-snapdragon-x-",
+      "asin": "B0HCPYBK67",
+      "title": "ASUS Vivobook 16 Laptop - 16” WUXGA 16:10 Display - Snapdragon® X X1 26 100 Processor - 8 GB RAM - 512 GB SSD - Windows 11 OS Home - Cool Silver - X1607QA-PB54",
+      "url": "https://www.amazon.com/dp/B0HCPYBK67?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-11-18T02:20:44.778Z",
+      "archivedAt": "2026-11-28T07:10:01.016Z",
       "status": "archived"
     }
   ]
