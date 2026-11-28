@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:20:01.083Z",
+  "generatedAt": "2026-11-28T08:30:02.235Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0f2kf39xf-heydude-men-s-wally-waxed-casual-loafer-waxed-casual-black-b",
+      "asin": "B0F2KF39XF",
+      "title": "HEYDUDE Men's Wally Waxed Casual Loafer, Waxed Casual Black/Black Size 7 | Breathable Textile Upper, Elastic Laces, Cushioned Ankle Collar, Removable Foam Insole, Flexible EVA Outsole, Travel Ready | Loafers & Slip-Ons",
+      "url": "https://www.amazon.com/dp/B0F2KF39XF?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Fashion",
+      "ts": "2026-11-28T08:20:47.304Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71iHOsQjlnL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -351,11 +371,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61SZx-gz+sL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8105,22 +8121,6 @@
       "ts": "2026-11-18T03:00:41.558Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0f24zh2fb-stanley-quencher-h2-0-flow-state-tumbler-30-oz-lichen-handle",
-      "asin": "B0F24ZH2FB",
-      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Lichen | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B0F24ZH2FB?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-18T02:40:45.968Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/51ATf4o9tvL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27486,6 +27486,16 @@
       "category": "Electronics",
       "ts": "2026-11-18T02:20:44.778Z",
       "archivedAt": "2026-11-28T07:10:01.016Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0f24zh2fb-stanley-quencher-h2-0-flow-state-tumbler-30-oz-lichen-handle",
+      "asin": "B0F24ZH2FB",
+      "title": "STANLEY Quencher H2.0 Flow State Tumbler, 30 oz, Lichen | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0F24ZH2FB?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-18T02:40:45.968Z",
+      "archivedAt": "2026-11-28T08:30:02.235Z",
       "status": "archived"
     }
   ]
