@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T10:20:01.369Z",
+  "generatedAt": "2026-11-28T10:30:01.580Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0h7tg33gk-samsung-galaxy-z-fold8-ultra-buds4-pro-256gb-violet-2026-ai-",
+      "asin": "B0H7TG33GK",
+      "title": "Samsung Galaxy Z Fold8 Ultra + Buds4 Pro, 256GB, Violet | 2026 AI Android Smartphone with 200MP Camera + Buds4 Pro, Snapdragon Elite Gen 5 & Super Fast Charging 2.0, US 1 Yr Warranty : Toys & Games",
+      "url": "https://www.amazon.com/dp/B0H7TG33GK?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-28T10:20:50.343Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61E+Ey7LEpL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -391,11 +411,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71Pf9OxbxpL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8113,22 +8129,6 @@
       "ts": "2026-11-18T06:40:35.940Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71nx65qZq6L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0chds1dmc-bambu-lab-p1s-combo-p1s-3d-printer-and-ams-multi-color-3d-pr",
-      "asin": "B0CHDS1DMC",
-      "title": "Bambu Lab P1S Combo, P1S 3D Printer and AMS, Multi-Color 3D Printing | MakerWorld Model Library, Multi-Color 3D Printing,High Speed & Precision CoreXY 3D Printer,Auto Bed Leveling, Ready-to-Use",
-      "url": "https://www.amazon.com/dp/B0CHDS1DMC?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Other",
-      "ts": "2026-11-18T05:20:45.106Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/715qq4z9yCL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -24907,16 +24907,6 @@
       "status": "archived"
     },
     {
-      "slug": "b0h7tg33gk-samsung-galaxy-z-fold8-ultra-buds4-pro-256gb-violet-2026-ai-",
-      "asin": "B0H7TG33GK",
-      "title": "Samsung Galaxy Z Fold8 Ultra + Buds4 Pro, 256GB, Violet | 2026 AI Android Smartphone with 200MP Camera + Buds4 Pro, Snapdragon Elite Gen 5 & Super Fast Charging 2.0, US 1 Yr Warranty : Toys & Games",
-      "url": "https://www.amazon.com/dp/B0H7TG33GK?tag=noya0b-20",
-      "category": "Electronics",
-      "ts": "2026-11-09T03:21:20.783Z",
-      "archivedAt": "2026-11-20T16:50:05.923Z",
-      "status": "archived"
-    },
-    {
       "slug": "b0h2hhdk78-miracase-magnetic-for-iphone-16-case-silicone-wave-case-sand",
       "asin": "B0H2HHDK78",
       "title": "Miracase Magnetic for iPhone 16 Case, Silicone Wave Case, Sand Pink | Cute Curly Wave Frame with Dual Lanyard Holes, Soft Microfiber Lining, Shockproof Drop Protection Phone Case for 16 : Cell Phones & Accessories",
@@ -27524,6 +27514,16 @@
       "category": "Beauty",
       "ts": "2026-11-18T04:01:11.910Z",
       "archivedAt": "2026-11-28T09:30:01.436Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0chds1dmc-bambu-lab-p1s-combo-p1s-3d-printer-and-ams-multi-color-3d-pr",
+      "asin": "B0CHDS1DMC",
+      "title": "Bambu Lab P1S Combo, P1S 3D Printer and AMS, Multi-Color 3D Printing | MakerWorld Model Library, Multi-Color 3D Printing,High Speed & Precision CoreXY 3D Printer,Auto Bed Leveling, Ready-to-Use",
+      "url": "https://www.amazon.com/dp/B0CHDS1DMC?tag=noya0b-20",
+      "category": "Other",
+      "ts": "2026-11-18T05:20:45.106Z",
+      "archivedAt": "2026-11-28T10:30:01.580Z",
       "status": "archived"
     }
   ]
