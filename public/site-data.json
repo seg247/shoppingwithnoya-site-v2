@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:19:59.678Z",
+  "generatedAt": "2026-11-28T09:30:01.436Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0dhk1sxzn-twin-4-piece-floral-sheet-set-soft-breathable-cooling-sea-sp",
+      "asin": "B0DHK1SXZN",
+      "title": "Twin 4 Piece Floral Sheet Set - Soft, Breathable & Cooling - Sea Spray | 1 Flat, 1 Fitted & 2 Pillowcases w/ Deep Pockets, Boho Floral Bedding for Women, Men, Kids & Teens, Breathable & Cooling : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0DHK1SXZN?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-28T09:20:48.076Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71xJkeV5I8L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -391,11 +411,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71XnLIh6Q1L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8113,22 +8129,6 @@
       "ts": "2026-11-18T04:41:03.540Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/31XFSZ-63eL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b09hsgd74t-collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
-      "asin": "B09HSGD74T",
-      "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic Acid & Vitamin E - Visibly Firming & Tightening Face Cream for Women & Men : Beauty & Personal Care",
-      "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Beauty",
-      "ts": "2026-11-18T04:01:11.910Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27514,6 +27514,16 @@
       "category": "Gaming",
       "ts": "2026-11-18T03:00:41.558Z",
       "archivedAt": "2026-11-28T09:10:02.050Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b09hsgd74t-collagen-cream-for-face-with-retinol-anti-aging-face-moistur",
+      "asin": "B09HSGD74T",
+      "title": "Collagen Cream for Face with Retinol - Anti Aging Face Moisturizer, 1.7 oz | Day & Night Cream for Face with Hyaluronic Acid & Vitamin E - Visibly Firming & Tightening Face Cream for Women & Men : Beauty & Personal Care",
+      "url": "https://www.amazon.com/dp/B09HSGD74T?tag=noya0b-20",
+      "category": "Beauty",
+      "ts": "2026-11-18T04:01:11.910Z",
+      "archivedAt": "2026-11-28T09:30:01.436Z",
       "status": "archived"
     }
   ]
