@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T06:20:01.411Z",
+  "generatedAt": "2026-11-28T06:30:02.191Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -35,6 +35,26 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0f3dq4prv-yankee-candle-cinnamon-stick-scented-candle-22oz-large-jar-u",
+      "asin": "B0F3DQ4PRV",
+      "title": "Yankee Candle Cinnamon Stick Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0F3DQ4PRV?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-11-28T06:20:49.296Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/71M0E6IyEwL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
       "feedStatus": "active"
     },
     {
@@ -310,11 +330,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61RvZ03uHtL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8096,22 +8112,6 @@
       "ts": "2026-11-18T01:20:50.145Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61RahTQtAqL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b08fm6gzsy-yaokeep-car-phone-holder-mount-360-degree-rotation-dashboard",
-      "asin": "B08FM6GZSY",
-      "title": "YAOKEEP Car Phone Holder Mount, 360 Degree Rotation Dashboard Phone Holder | Universal Multifunctional Clip Car Phone Mount, Car Mount for iPhone, Samsung, Android, and 4 to 7\" Smartphones : Cell Phones & Accessories",
-      "url": "https://www.amazon.com/dp/B08FM6GZSY?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-11-18T01:00:44.694Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61r0UWAWY9L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27437,6 +27437,16 @@
       "category": "Electronics",
       "ts": "2026-11-18T00:20:57.718Z",
       "archivedAt": "2026-11-28T05:30:01.350Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b08fm6gzsy-yaokeep-car-phone-holder-mount-360-degree-rotation-dashboard",
+      "asin": "B08FM6GZSY",
+      "title": "YAOKEEP Car Phone Holder Mount, 360 Degree Rotation Dashboard Phone Holder | Universal Multifunctional Clip Car Phone Mount, Car Mount for iPhone, Samsung, Android, and 4 to 7\" Smartphones : Cell Phones & Accessories",
+      "url": "https://www.amazon.com/dp/B08FM6GZSY?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-11-18T01:00:44.694Z",
+      "archivedAt": "2026-11-28T06:30:02.191Z",
       "status": "archived"
     }
   ]
