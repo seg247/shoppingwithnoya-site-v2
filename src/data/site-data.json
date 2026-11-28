@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:00:01.758Z",
+  "generatedAt": "2026-11-28T09:10:02.050Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0dhjnrmdw-twin-3-piece-boho-botanical-floral-sheet-set-soft-cooling-ro",
+      "asin": "B0DHJNRMDW",
+      "title": "Twin 3 Piece Boho Botanical Floral Sheet Set - Soft & Cooling - Rosebud | 1 Flat, 1 Fitted & 1 Pillowcase w/ Deep Pockets, Boho Floral Bedding for Women, Men, Kids & Teens, Breathable & Cooling : Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B0DHJNRMDW?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-28T09:00:50.002Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61A3bYEXAWL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -8109,22 +8129,6 @@
       "ts": "2026-11-18T04:01:11.910Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/81aymTjN79L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0dhy92hbl-playstation-dualsense-wireless-controller-chroma-indigo",
-      "asin": "B0DHY92HBL",
-      "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo",
-      "url": "https://www.amazon.com/dp/B0DHY92HBL?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Gaming",
-      "ts": "2026-11-18T03:00:41.558Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61QWtX+qgJL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27500,6 +27504,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-18T02:40:45.968Z",
       "archivedAt": "2026-11-28T08:30:02.235Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0dhy92hbl-playstation-dualsense-wireless-controller-chroma-indigo",
+      "asin": "B0DHY92HBL",
+      "title": "PlayStation DualSense™ Wireless Controller – Chroma Indigo",
+      "url": "https://www.amazon.com/dp/B0DHY92HBL?tag=noya0b-20",
+      "category": "Gaming",
+      "ts": "2026-11-18T03:00:41.558Z",
+      "archivedAt": "2026-11-28T09:10:02.050Z",
       "status": "archived"
     }
   ]
