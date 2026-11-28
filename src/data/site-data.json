@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:00:01.458Z",
+  "generatedAt": "2026-11-28T11:10:01.807Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0h6n2fv7p-hydrojug-traveler-32oz-insulated-water-bottle-with-handle-du",
+      "asin": "B0H6N2FV7P",
+      "title": "HydroJug Traveler 32oz, Insulated Water Bottle with Handle, Dune | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, dishwasher safe: Tumblers & Water Glasses",
+      "url": "https://www.amazon.com/dp/B0H6N2FV7P?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-28T11:00:51.075Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/41C3jNdWrPL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -371,11 +391,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71hJgp07X1L.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8109,22 +8125,6 @@
       "ts": "2026-11-18T08:00:36.608Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/91XVR4cq1fL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b01nbktpts-instant-pot-duo-plus-6-qt-9-in-1-electric-pressure-cooker-st",
-      "asin": "B01NBKTPTS",
-      "title": "Instant Pot Duo Plus 6 Qt 9-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
-      "url": "https://www.amazon.com/dp/B01NBKTPTS?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-18T06:40:35.940Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/71nx65qZq6L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27520,6 +27520,16 @@
       "category": "Other",
       "ts": "2026-11-18T05:20:45.106Z",
       "archivedAt": "2026-11-28T10:30:01.580Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b01nbktpts-instant-pot-duo-plus-6-qt-9-in-1-electric-pressure-cooker-st",
+      "asin": "B01NBKTPTS",
+      "title": "Instant Pot Duo Plus 6 Qt 9-in-1 Electric Pressure Cooker, Stainless Steel | Slow cooks, makes rice and yogurt, steams, sautés, warms and sterilizes, with an app featuring 800+ recipes.: Home & Kitchen",
+      "url": "https://www.amazon.com/dp/B01NBKTPTS?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-18T06:40:35.940Z",
+      "archivedAt": "2026-11-28T11:10:01.807Z",
       "status": "archived"
     }
   ]
