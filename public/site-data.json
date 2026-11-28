@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T06:40:02.259Z",
+  "generatedAt": "2026-11-28T06:50:01.691Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -35,6 +35,26 @@
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0h4x1sbc7-hydrojug-traveler-40oz-insulated-water-bottle-with-handle-be",
+      "asin": "B0H4X1SBC7",
+      "title": "HydroJug Traveler 40oz, Insulated Water Bottle with Handle, Berry Pop | Ceramic-lined, triple wall insulated, flip straw lid, leak-resistant, cup holder friendly, BPA-free, dishwasher safe: Tumblers & Water Glasses",
+      "url": "https://www.amazon.com/dp/B0H4X1SBC7?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-28T06:40:48.049Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51Sn-cOmIHL.jpg",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
       "feedStatus": "active"
     },
     {
@@ -310,11 +330,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/51XlzuVx3gL.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -8096,22 +8112,6 @@
       "ts": "2026-11-18T01:40:48.838Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/71vY4e4R-LL.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0c2d21hbx-bluetooth-headphones-premium-active-noise-cancelling-wireles",
-      "asin": "B0C2D21HBX",
-      "title": "Bluetooth Headphones, Premium Active Noise Cancelling Wireless Headphones Over Ear, 50H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups for Travel, Home Office",
-      "url": "https://www.amazon.com/dp/B0C2D21HBX?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Electronics",
-      "ts": "2026-11-18T01:20:50.145Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61RahTQtAqL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27447,6 +27447,16 @@
       "category": "Electronics",
       "ts": "2026-11-18T01:00:44.694Z",
       "archivedAt": "2026-11-28T06:30:02.191Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0c2d21hbx-bluetooth-headphones-premium-active-noise-cancelling-wireles",
+      "asin": "B0C2D21HBX",
+      "title": "Bluetooth Headphones, Premium Active Noise Cancelling Wireless Headphones Over Ear, 50H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups for Travel, Home Office",
+      "url": "https://www.amazon.com/dp/B0C2D21HBX?tag=noya0b-20",
+      "category": "Electronics",
+      "ts": "2026-11-18T01:20:50.145Z",
+      "archivedAt": "2026-11-28T06:50:01.691Z",
       "status": "archived"
     }
   ]
