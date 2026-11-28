@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T08:00:02.111Z",
+  "generatedAt": "2026-11-28T08:10:01.445Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -49,6 +49,26 @@
       "ts": "2026-11-28T06:51:45.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/B0DYWCQGH9-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0c8pwsw7t-beats-studio-pro-over-ear-headphones-40h-battery-anc-navy-us",
+      "asin": "B0C8PWSW7T",
+      "title": "Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - Navy | USB-C Lossless Audio, Fast Fuel Charging, Great for Travel & Commuting, Foldable Design, Apple & Android Compatible",
+      "url": "https://www.amazon.com/dp/B0C8PWSW7T?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Electronics",
+      "ts": "2026-11-28T08:00:47.209Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/61GiuI-ebWL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -351,11 +371,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71h2XN2VhML.jpg",
       "expiresAt": null,
       "promoCode": null,
-      "badge": {
-        "key": "new",
-        "label": "✨ Just added",
-        "tone": "new"
-      },
+      "badge": null,
       "feedStatus": "active"
     },
     {
@@ -945,22 +961,6 @@
       "ts": "2026-11-27T09:41:02.818Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/61yKb5y7U5L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0c8pwsw7t-beats-studio-pro-over-ear-headphones-40h-battery-anc-navy-us",
-      "asin": "B0C8PWSW7T",
-      "title": "Beats Studio Pro Over-Ear Headphones - 40H Battery, ANC - Navy | USB-C Lossless Audio, Fast Fuel Charging, Great for Travel & Commuting, Foldable Design, Apple & Android Compatible : Electronics",
-      "url": "https://www.amazon.com/dp/B0C8PWSW7T?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Gold Box Deal",
-      "ts": "2026-11-27T09:21:29.245Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61GiuI-ebWL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
