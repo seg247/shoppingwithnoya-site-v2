@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:40:01.952Z",
+  "generatedAt": "2026-11-28T00:50:01.901Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -32,6 +32,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0d8jwd3c9-hydrojug-traveler-32oz-insulated-water-bottle-with-handle-li",
+      "asin": "B0D8JWD3C9",
+      "title": "HydroJug Traveler 32oz, Insulated Water Bottle with Handle, Light Blue | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, dishwasher safe: Tumblers & Water Glasses",
+      "url": "https://www.amazon.com/dp/B0D8JWD3C9?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Grocery & Food",
+      "ts": "2026-11-28T00:40:45.772Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51XlzuVx3gL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -8118,22 +8138,6 @@
       "ts": "2026-11-17T22:20:17.748Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/718NkGKOtML.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b08krlrjmd-puma-mens-6-pack-crew-running-socks-white-black-grey-13-15-u",
-      "asin": "B08KRLRJMD",
-      "title": "\udecd️PUMA mens 6 Pack Crew running socks, White/Black/Grey, 13-15 US | Arch Support and Cushioned Footbed",
-      "url": "https://www.amazon.com/dp/B08KRLRJMD/ref=cmswrasglapiglidl_HQ4N4142KJRZWS8FN818?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Fashion",
-      "ts": "2026-11-17T22:00:23.688Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/711X0oiuo6L.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27389,6 +27393,16 @@
       "category": "Home & Kitchen",
       "ts": "2026-11-17T21:40:26.113Z",
       "archivedAt": "2026-11-28T00:10:10.611Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b08krlrjmd-puma-mens-6-pack-crew-running-socks-white-black-grey-13-15-u",
+      "asin": "B08KRLRJMD",
+      "title": "\udecd️PUMA mens 6 Pack Crew running socks, White/Black/Grey, 13-15 US | Arch Support and Cushioned Footbed",
+      "url": "https://www.amazon.com/dp/B08KRLRJMD/ref=cmswrasglapiglidl_HQ4N4142KJRZWS8FN818?tag=noya0b-20",
+      "category": "Fashion",
+      "ts": "2026-11-17T22:00:23.688Z",
+      "archivedAt": "2026-11-28T00:50:01.901Z",
       "status": "archived"
     }
   ]
