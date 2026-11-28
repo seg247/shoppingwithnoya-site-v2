@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:00:01.789Z",
+  "generatedAt": "2026-11-28T00:10:10.611Z",
   "total": 500,
   "activeTotal": 499,
   "posts": [
@@ -32,6 +32,26 @@
       "ts": "2026-11-27T19:23:41.000Z",
       "type": "deal",
       "imageUrl": "https://deals.shoppingwithnoya.com/images/supergoop-triple-prep-spf40-feed-black-friday.png",
+      "expiresAt": null,
+      "promoCode": null,
+      "badge": {
+        "key": "new",
+        "label": "✨ Just added",
+        "tone": "new"
+      },
+      "feedStatus": "active"
+    },
+    {
+      "slug": "b0h3mj6vxb-sol-de-janeiro-leite-nectar-fragrance-milky-fruity-gourmand-",
+      "asin": "B0H3MJ6VXB",
+      "title": "Sol de Janeiro Leite Nectar Fragrance | Milky Fruity Gourmand Body Mist | Creamy & Craveable Body Mist in Milky & Fruity Gourmand Scents : Beauty & Personal Care",
+      "url": "https://www.amazon.com/dp/B0H3MJ6VXB?tag=noya0b-20",
+      "discount": 0,
+      "rating": "WORTH A LOOK",
+      "category": "Beauty",
+      "ts": "2026-11-28T00:00:56.236Z",
+      "type": "deal",
+      "imageUrl": "https://m.media-amazon.com/images/I/51i7OkPtyuL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": {
@@ -8110,22 +8130,6 @@
       "ts": "2026-11-17T22:00:23.688Z",
       "type": "deal",
       "imageUrl": "https://m.media-amazon.com/images/I/711X0oiuo6L.jpg",
-      "expiresAt": null,
-      "promoCode": null,
-      "badge": null,
-      "feedStatus": "active"
-    },
-    {
-      "slug": "b0h4npl5z4-stanley-flowstate-duo-lunch-box-rose-quartz-insulated-lunch-",
-      "asin": "B0H4NPL5Z4",
-      "title": "\udecd️STANLEY Flowstate Duo Lunch Box, Rose Quartz | Insulated Lunch Bag | Spacious Main Compartment and Zippered Mesh Pocke",
-      "url": "https://www.amazon.com/dp/B0H4NPL5Z4/ref=cmswrasglapigliPGD79DRB6SPGXV0C5SQ3?tag=noya0b-20",
-      "discount": 0,
-      "rating": "WORTH A LOOK",
-      "category": "Home & Kitchen",
-      "ts": "2026-11-17T21:40:26.113Z",
-      "type": "deal",
-      "imageUrl": "https://m.media-amazon.com/images/I/61g9RMUVfVL.jpg",
       "expiresAt": null,
       "promoCode": null,
       "badge": null,
@@ -27371,6 +27375,16 @@
       "category": "Grocery & Food",
       "ts": "2026-11-17T21:00:30.733Z",
       "archivedAt": "2026-11-27T23:30:00.962Z",
+      "status": "archived"
+    },
+    {
+      "slug": "b0h4npl5z4-stanley-flowstate-duo-lunch-box-rose-quartz-insulated-lunch-",
+      "asin": "B0H4NPL5Z4",
+      "title": "\udecd️STANLEY Flowstate Duo Lunch Box, Rose Quartz | Insulated Lunch Bag | Spacious Main Compartment and Zippered Mesh Pocke",
+      "url": "https://www.amazon.com/dp/B0H4NPL5Z4/ref=cmswrasglapigliPGD79DRB6SPGXV0C5SQ3?tag=noya0b-20",
+      "category": "Home & Kitchen",
+      "ts": "2026-11-17T21:40:26.113Z",
+      "archivedAt": "2026-11-28T00:10:10.611Z",
       "status": "archived"
     }
   ]
